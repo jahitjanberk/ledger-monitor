@@ -1,0 +1,49 @@
+{
+  "id": "water",
+  "title": "Data centre water",
+  "description": "Water consumed by data centres in the United States (LBNL estimate) and by Google and Meta's data centres, 2023.",
+  "records": [
+    {
+      "metric": "us_direct_2023_l",
+      "label": "US data centres, direct (cooling), 2023",
+      "value": 64000000000,
+      "unit": "litres",
+      "source": "lbnl-water"
+    },
+    {
+      "metric": "us_direct_2023_gal",
+      "label": "US data centres, direct (cooling), 2023",
+      "value": 17000000000,
+      "unit": "US gallons",
+      "source": "lbnl-water"
+    },
+    {
+      "metric": "us_indirect_2023_l",
+      "label": "US data centres, indirect (power generation), 2023",
+      "value": 800000000000,
+      "unit": "litres",
+      "source": "lbnl-water"
+    },
+    {
+      "metric": "us_indirect_2023_gal",
+      "label": "US data centres, indirect (power generation), 2023",
+      "value": 211000000000,
+      "unit": "US gallons",
+      "source": "lbnl-water"
+    },
+    {
+      "metric": "google_dc_2023_l",
+      "label": "Google data centres, 2023",
+      "value": 23100000000,
+      "unit": "litres",
+      "source": "lbnl-water"
+    },
+    {
+      "metric": "meta_dc_2023_l",
+      "label": "Meta data centres, 2023",
+      "value": 2900000000,
+      "unit": "litres",
+      "source": "lbnl-water"
+    }
+  ]
+}

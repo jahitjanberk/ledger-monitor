@@ -1,0 +1,61 @@
+{
+  "id": "regions",
+  "title": "Water stress by SDG region",
+  "description": "SDG 6.4.2 regional aggregates for 2023 from the UN-Water SDG 6 Data Portal.",
+  "records": [
+    {
+      "region": "Northern Africa and Western Asia",
+      "stress_pct": 77.68,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Central and Southern Asia",
+      "stress_pct": 67.81,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Eastern and South-Eastern Asia",
+      "stress_pct": 30.33,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Europe and Northern America",
+      "stress_pct": 11.35,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Sub-Saharan Africa",
+      "stress_pct": 9.76,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Australia and New Zealand",
+      "stress_pct": 5.59,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Latin America and the Caribbean",
+      "stress_pct": 5.37,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "Oceania (excl. Australia and New Zealand)",
+      "stress_pct": 0.22,
+      "year": 2023,
+      "source": "sdg6-portal"
+    },
+    {
+      "region": "World",
+      "stress_pct": 17.59,
+      "year": 2023,
+      "source": "sdg6-portal"
+    }
+  ]
+}

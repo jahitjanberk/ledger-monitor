@@ -1,0 +1,483 @@
+{
+  "id": "leo",
+  "title": "Tracked objects in low Earth orbit",
+  "description": "Payloads, rocket bodies and tracked debris in low Earth orbit at the end of each year.",
+  "records": [
+    {
+      "year": 1958,
+      "debris": 1,
+      "payloads": 1,
+      "rocket_bodies": 1,
+      "source": "ussf"
+    },
+    {
+      "year": 1959,
+      "debris": 5,
+      "payloads": 4,
+      "rocket_bodies": 3,
+      "source": "ussf"
+    },
+    {
+      "year": 1960,
+      "debris": 16,
+      "payloads": 10,
+      "rocket_bodies": 9,
+      "source": "ussf"
+    },
+    {
+      "year": 1961,
+      "debris": 293,
+      "payloads": 16,
+      "rocket_bodies": 13,
+      "source": "ussf"
+    },
+    {
+      "year": 1962,
+      "debris": 309,
+      "payloads": 26,
+      "rocket_bodies": 23,
+      "source": "ussf"
+    },
+    {
+      "year": 1963,
+      "debris": 424,
+      "payloads": 40,
+      "rocket_bodies": 34,
+      "source": "ussf"
+    },
+    {
+      "year": 1964,
+      "debris": 501,
+      "payloads": 68,
+      "rocket_bodies": 51,
+      "source": "ussf"
+    },
+    {
+      "year": 1965,
+      "debris": 1170,
+      "payloads": 128,
+      "rocket_bodies": 81,
+      "source": "ussf"
+    },
+    {
+      "year": 1966,
+      "debris": 1352,
+      "payloads": 153,
+      "rocket_bodies": 103,
+      "source": "ussf"
+    },
+    {
+      "year": 1967,
+      "debris": 1412,
+      "payloads": 185,
+      "rocket_bodies": 129,
+      "source": "ussf"
+    },
+    {
+      "year": 1968,
+      "debris": 1689,
+      "payloads": 211,
+      "rocket_bodies": 151,
+      "source": "ussf"
+    },
+    {
+      "year": 1969,
+      "debris": 1932,
+      "payloads": 240,
+      "rocket_bodies": 172,
+      "source": "ussf"
+    },
+    {
+      "year": 1970,
+      "debris": 2494,
+      "payloads": 280,
+      "rocket_bodies": 201,
+      "source": "ussf"
+    },
+    {
+      "year": 1971,
+      "debris": 2653,
+      "payloads": 350,
+      "rocket_bodies": 243,
+      "source": "ussf"
+    },
+    {
+      "year": 1972,
+      "debris": 2909,
+      "payloads": 405,
+      "rocket_bodies": 277,
+      "source": "ussf"
+    },
+    {
+      "year": 1973,
+      "debris": 3136,
+      "payloads": 461,
+      "rocket_bodies": 308,
+      "source": "ussf"
+    },
+    {
+      "year": 1974,
+      "debris": 3380,
+      "payloads": 514,
+      "rocket_bodies": 348,
+      "source": "ussf"
+    },
+    {
+      "year": 1975,
+      "debris": 3942,
+      "payloads": 588,
+      "rocket_bodies": 405,
+      "source": "ussf"
+    },
+    {
+      "year": 1976,
+      "debris": 4365,
+      "payloads": 668,
+      "rocket_bodies": 469,
+      "source": "ussf"
+    },
+    {
+      "year": 1977,
+      "debris": 4630,
+      "payloads": 718,
+      "rocket_bodies": 513,
+      "source": "ussf"
+    },
+    {
+      "year": 1978,
+      "debris": 4767,
+      "payloads": 769,
+      "rocket_bodies": 543,
+      "source": "ussf"
+    },
+    {
+      "year": 1979,
+      "debris": 4887,
+      "payloads": 787,
+      "rocket_bodies": 554,
+      "source": "ussf"
+    },
+    {
+      "year": 1980,
+      "debris": 4864,
+      "payloads": 806,
+      "rocket_bodies": 564,
+      "source": "ussf"
+    },
+    {
+      "year": 1981,
+      "debris": 5250,
+      "payloads": 863,
+      "rocket_bodies": 603,
+      "source": "ussf"
+    },
+    {
+      "year": 1982,
+      "debris": 7115,
+      "payloads": 904,
+      "rocket_bodies": 624,
+      "source": "ussf"
+    },
+    {
+      "year": 1983,
+      "debris": 7344,
+      "payloads": 958,
+      "rocket_bodies": 681,
+      "source": "ussf"
+    },
+    {
+      "year": 1984,
+      "debris": 7387,
+      "payloads": 1018,
+      "rocket_bodies": 736,
+      "source": "ussf"
+    },
+    {
+      "year": 1985,
+      "debris": 7545,
+      "payloads": 1079,
+      "rocket_bodies": 802,
+      "source": "ussf"
+    },
+    {
+      "year": 1986,
+      "debris": 8143,
+      "payloads": 1147,
+      "rocket_bodies": 839,
+      "source": "ussf"
+    },
+    {
+      "year": 1987,
+      "debris": 8542,
+      "payloads": 1208,
+      "rocket_bodies": 875,
+      "source": "ussf"
+    },
+    {
+      "year": 1988,
+      "debris": 8414,
+      "payloads": 1239,
+      "rocket_bodies": 907,
+      "source": "ussf"
+    },
+    {
+      "year": 1989,
+      "debris": 8298,
+      "payloads": 1253,
+      "rocket_bodies": 936,
+      "source": "ussf"
+    },
+    {
+      "year": 1990,
+      "debris": 8315,
+      "payloads": 1311,
+      "rocket_bodies": 980,
+      "source": "ussf"
+    },
+    {
+      "year": 1991,
+      "debris": 8571,
+      "payloads": 1348,
+      "rocket_bodies": 1005,
+      "source": "ussf"
+    },
+    {
+      "year": 1992,
+      "debris": 8878,
+      "payloads": 1375,
+      "rocket_bodies": 1047,
+      "source": "ussf"
+    },
+    {
+      "year": 1993,
+      "debris": 10740,
+      "payloads": 1411,
+      "rocket_bodies": 1091,
+      "source": "ussf"
+    },
+    {
+      "year": 1994,
+      "debris": 11685,
+      "payloads": 1453,
+      "rocket_bodies": 1132,
+      "source": "ussf"
+    },
+    {
+      "year": 1995,
+      "debris": 11930,
+      "payloads": 1472,
+      "rocket_bodies": 1159,
+      "source": "ussf"
+    },
+    {
+      "year": 1996,
+      "debris": 11829,
+      "payloads": 1500,
+      "rocket_bodies": 1186,
+      "source": "ussf"
+    },
+    {
+      "year": 1997,
+      "debris": 12266,
+      "payloads": 1578,
+      "rocket_bodies": 1222,
+      "source": "ussf"
+    },
+    {
+      "year": 1998,
+      "debris": 12196,
+      "payloads": 2031,
+      "rocket_bodies": 1232,
+      "source": "ussf"
+    },
+    {
+      "year": 1999,
+      "debris": 15937,
+      "payloads": 2087,
+      "rocket_bodies": 1237,
+      "source": "ussf"
+    },
+    {
+      "year": 2000,
+      "debris": 16186,
+      "payloads": 2118,
+      "rocket_bodies": 1231,
+      "source": "ussf"
+    },
+    {
+      "year": 2001,
+      "debris": 16322,
+      "payloads": 2120,
+      "rocket_bodies": 1208,
+      "source": "ussf"
+    },
+    {
+      "year": 2002,
+      "debris": 16148,
+      "payloads": 2140,
+      "rocket_bodies": 1198,
+      "source": "ussf"
+    },
+    {
+      "year": 2003,
+      "debris": 15992,
+      "payloads": 2166,
+      "rocket_bodies": 1210,
+      "source": "ussf"
+    },
+    {
+      "year": 2004,
+      "debris": 15946,
+      "payloads": 2191,
+      "rocket_bodies": 1215,
+      "source": "ussf"
+    },
+    {
+      "year": 2005,
+      "debris": 15874,
+      "payloads": 2206,
+      "rocket_bodies": 1218,
+      "source": "ussf"
+    },
+    {
+      "year": 2006,
+      "debris": 16669,
+      "payloads": 2238,
+      "rocket_bodies": 1235,
+      "source": "ussf"
+    },
+    {
+      "year": 2007,
+      "debris": 16671,
+      "payloads": 2280,
+      "rocket_bodies": 1259,
+      "source": "ussf"
+    },
+    {
+      "year": 2008,
+      "debris": 16227,
+      "payloads": 2320,
+      "rocket_bodies": 1278,
+      "source": "ussf"
+    },
+    {
+      "year": 2009,
+      "debris": 16171,
+      "payloads": 2376,
+      "rocket_bodies": 1290,
+      "source": "ussf"
+    },
+    {
+      "year": 2010,
+      "debris": 16077,
+      "payloads": 2410,
+      "rocket_bodies": 1314,
+      "source": "ussf"
+    },
+    {
+      "year": 2011,
+      "debris": 16114,
+      "payloads": 2450,
+      "rocket_bodies": 1325,
+      "source": "ussf"
+    },
+    {
+      "year": 2012,
+      "debris": 15977,
+      "payloads": 2491,
+      "rocket_bodies": 1338,
+      "source": "ussf"
+    },
+    {
+      "year": 2013,
+      "debris": 15751,
+      "payloads": 2619,
+      "rocket_bodies": 1344,
+      "source": "ussf"
+    },
+    {
+      "year": 2014,
+      "debris": 15375,
+      "payloads": 2666,
+      "rocket_bodies": 1347,
+      "source": "ussf"
+    },
+    {
+      "year": 2015,
+      "debris": 15084,
+      "payloads": 2697,
+      "rocket_bodies": 1368,
+      "source": "ussf"
+    },
+    {
+      "year": 2016,
+      "debris": 14989,
+      "payloads": 2752,
+      "rocket_bodies": 1389,
+      "source": "ussf"
+    },
+    {
+      "year": 2017,
+      "debris": 14936,
+      "payloads": 3025,
+      "rocket_bodies": 1413,
+      "source": "ussf"
+    },
+    {
+      "year": 2018,
+      "debris": 15045,
+      "payloads": 3222,
+      "rocket_bodies": 1457,
+      "source": "ussf"
+    },
+    {
+      "year": 2019,
+      "debris": 15087,
+      "payloads": 3506,
+      "rocket_bodies": 1475,
+      "source": "ussf"
+    },
+    {
+      "year": 2020,
+      "debris": 14956,
+      "payloads": 4581,
+      "rocket_bodies": 1487,
+      "source": "ussf"
+    },
+    {
+      "year": 2021,
+      "debris": 14759,
+      "payloads": 6101,
+      "rocket_bodies": 1514,
+      "source": "ussf"
+    },
+    {
+      "year": 2022,
+      "debris": 13738,
+      "payloads": 7953,
+      "rocket_bodies": 1546,
+      "source": "ussf"
+    },
+    {
+      "year": 2023,
+      "debris": 12579,
+      "payloads": 9963,
+      "rocket_bodies": 1557,
+      "source": "ussf"
+    },
+    {
+      "year": 2024,
+      "debris": 12356,
+      "payloads": 11455,
+      "rocket_bodies": 1556,
+      "source": "ussf"
+    },
+    {
+      "year": 2025,
+      "debris": 11721,
+      "payloads": 14508,
+      "rocket_bodies": 1576,
+      "source": "ussf"
+    }
+  ]
+}

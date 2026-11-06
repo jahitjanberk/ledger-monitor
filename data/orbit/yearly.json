@@ -1,0 +1,628 @@
+{
+  "id": "yearly",
+  "title": "Objects launched each year",
+  "description": "World total by year of launch, with the United States, China and Russia.",
+  "records": [
+    {
+      "year": 1957,
+      "world": 2,
+      "united_states": 0,
+      "china": 0,
+      "russia": 2,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1958,
+      "world": 8,
+      "united_states": 7,
+      "china": 0,
+      "russia": 1,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1959,
+      "world": 14,
+      "united_states": 11,
+      "china": 0,
+      "russia": 3,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1960,
+      "world": 20,
+      "united_states": 17,
+      "china": 0,
+      "russia": 3,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1961,
+      "world": 38,
+      "united_states": 31,
+      "china": 0,
+      "russia": 7,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1962,
+      "world": 77,
+      "united_states": 55,
+      "china": 0,
+      "russia": 20,
+      "rest": 2,
+      "source": "unoosa"
+    },
+    {
+      "year": 1963,
+      "world": 71,
+      "united_states": 54,
+      "china": 0,
+      "russia": 17,
+      "rest": 0,
+      "source": "unoosa"
+    },
+    {
+      "year": 1964,
+      "world": 107,
+      "united_states": 71,
+      "china": 0,
+      "russia": 35,
+      "rest": 1,
+      "source": "unoosa"
+    },
+    {
+      "year": 1965,
+      "world": 161,
+      "united_states": 94,
+      "china": 0,
+      "russia": 64,
+      "rest": 3,
+      "source": "unoosa"
+    },
+    {
+      "year": 1966,
+      "world": 145,
+      "united_states": 99,
+      "china": 0,
+      "russia": 44,
+      "rest": 2,
+      "source": "unoosa"
+    },
+    {
+      "year": 1967,
+      "world": 159,
+      "united_states": 85,
+      "china": 0,
+      "russia": 66,
+      "rest": 8,
+      "source": "unoosa"
+    },
+    {
+      "year": 1968,
+      "world": 140,
+      "united_states": 61,
+      "china": 0,
+      "russia": 74,
+      "rest": 5,
+      "source": "unoosa"
+    },
+    {
+      "year": 1969,
+      "world": 138,
+      "united_states": 62,
+      "china": 0,
+      "russia": 70,
+      "rest": 6,
+      "source": "unoosa"
+    },
+    {
+      "year": 1970,
+      "world": 130,
+      "united_states": 31,
+      "china": 1,
+      "russia": 88,
+      "rest": 10,
+      "source": "unoosa"
+    },
+    {
+      "year": 1971,
+      "world": 156,
+      "united_states": 46,
+      "china": 1,
+      "russia": 98,
+      "rest": 11,
+      "source": "unoosa"
+    },
+    {
+      "year": 1972,
+      "world": 134,
+      "united_states": 37,
+      "china": 0,
+      "russia": 89,
+      "rest": 8,
+      "source": "unoosa"
+    },
+    {
+      "year": 1973,
+      "world": 138,
+      "united_states": 28,
+      "china": 0,
+      "russia": 109,
+      "rest": 1,
+      "source": "unoosa"
+    },
+    {
+      "year": 1974,
+      "world": 128,
+      "united_states": 19,
+      "china": 1,
+      "russia": 95,
+      "rest": 13,
+      "source": "unoosa"
+    },
+    {
+      "year": 1975,
+      "world": 158,
+      "united_states": 30,
+      "china": 3,
+      "russia": 111,
+      "rest": 14,
+      "source": "unoosa"
+    },
+    {
+      "year": 1976,
+      "world": 158,
+      "united_states": 26,
+      "china": 2,
+      "russia": 121,
+      "rest": 9,
+      "source": "unoosa"
+    },
+    {
+      "year": 1977,
+      "world": 137,
+      "united_states": 24,
+      "china": 0,
+      "russia": 104,
+      "rest": 9,
+      "source": "unoosa"
+    },
+    {
+      "year": 1978,
+      "world": 165,
+      "united_states": 35,
+      "china": 1,
+      "russia": 119,
+      "rest": 10,
+      "source": "unoosa"
+    },
+    {
+      "year": 1979,
+      "world": 124,
+      "united_states": 19,
+      "china": 0,
+      "russia": 101,
+      "rest": 4,
+      "source": "unoosa"
+    },
+    {
+      "year": 1980,
+      "world": 130,
+      "united_states": 16,
+      "china": 0,
+      "russia": 110,
+      "rest": 4,
+      "source": "unoosa"
+    },
+    {
+      "year": 1981,
+      "world": 158,
+      "united_states": 20,
+      "china": 3,
+      "russia": 124,
+      "rest": 11,
+      "source": "unoosa"
+    },
+    {
+      "year": 1982,
+      "world": 145,
+      "united_states": 20,
+      "china": 1,
+      "russia": 119,
+      "rest": 5,
+      "source": "unoosa"
+    },
+    {
+      "year": 1983,
+      "world": 154,
+      "united_states": 26,
+      "china": 1,
+      "russia": 116,
+      "rest": 11,
+      "source": "unoosa"
+    },
+    {
+      "year": 1984,
+      "world": 163,
+      "united_states": 31,
+      "china": 3,
+      "russia": 115,
+      "rest": 14,
+      "source": "unoosa"
+    },
+    {
+      "year": 1985,
+      "world": 165,
+      "united_states": 30,
+      "china": 1,
+      "russia": 119,
+      "rest": 15,
+      "source": "unoosa"
+    },
+    {
+      "year": 1986,
+      "world": 134,
+      "united_states": 11,
+      "china": 2,
+      "russia": 114,
+      "rest": 7,
+      "source": "unoosa"
+    },
+    {
+      "year": 1987,
+      "world": 135,
+      "united_states": 10,
+      "china": 2,
+      "russia": 116,
+      "rest": 7,
+      "source": "unoosa"
+    },
+    {
+      "year": 1988,
+      "world": 145,
+      "united_states": 19,
+      "china": 4,
+      "russia": 109,
+      "rest": 13,
+      "source": "unoosa"
+    },
+    {
+      "year": 1989,
+      "world": 139,
+      "united_states": 25,
+      "china": 0,
+      "russia": 99,
+      "rest": 15,
+      "source": "unoosa"
+    },
+    {
+      "year": 1990,
+      "world": 170,
+      "united_states": 44,
+      "china": 6,
+      "russia": 96,
+      "rest": 24,
+      "source": "unoosa"
+    },
+    {
+      "year": 1991,
+      "world": 137,
+      "united_states": 32,
+      "china": 1,
+      "russia": 83,
+      "rest": 21,
+      "source": "unoosa"
+    },
+    {
+      "year": 1992,
+      "world": 130,
+      "united_states": 28,
+      "china": 2,
+      "russia": 78,
+      "rest": 22,
+      "source": "unoosa"
+    },
+    {
+      "year": 1993,
+      "world": 108,
+      "united_states": 31,
+      "china": 1,
+      "russia": 59,
+      "rest": 17,
+      "source": "unoosa"
+    },
+    {
+      "year": 1994,
+      "world": 123,
+      "united_states": 35,
+      "china": 5,
+      "russia": 64,
+      "rest": 19,
+      "source": "unoosa"
+    },
+    {
+      "year": 1995,
+      "world": 105,
+      "united_states": 40,
+      "china": 1,
+      "russia": 36,
+      "rest": 28,
+      "source": "unoosa"
+    },
+    {
+      "year": 1996,
+      "world": 100,
+      "united_states": 41,
+      "china": 3,
+      "russia": 28,
+      "rest": 28,
+      "source": "unoosa"
+    },
+    {
+      "year": 1997,
+      "world": 152,
+      "united_states": 88,
+      "china": 7,
+      "russia": 28,
+      "rest": 29,
+      "source": "unoosa"
+    },
+    {
+      "year": 1998,
+      "world": 157,
+      "united_states": 91,
+      "china": 10,
+      "russia": 27,
+      "rest": 29,
+      "source": "unoosa"
+    },
+    {
+      "year": 1999,
+      "world": 129,
+      "united_states": 80,
+      "china": 10,
+      "russia": 15,
+      "rest": 24,
+      "source": "unoosa"
+    },
+    {
+      "year": 2000,
+      "world": 121,
+      "united_states": 56,
+      "china": 6,
+      "russia": 23,
+      "rest": 36,
+      "source": "unoosa"
+    },
+    {
+      "year": 2001,
+      "world": 86,
+      "united_states": 34,
+      "china": 2,
+      "russia": 30,
+      "rest": 20,
+      "source": "unoosa"
+    },
+    {
+      "year": 2002,
+      "world": 96,
+      "united_states": 33,
+      "china": 7,
+      "russia": 19,
+      "rest": 37,
+      "source": "unoosa"
+    },
+    {
+      "year": 2003,
+      "world": 88,
+      "united_states": 28,
+      "china": 9,
+      "russia": 22,
+      "rest": 29,
+      "source": "unoosa"
+    },
+    {
+      "year": 2004,
+      "world": 74,
+      "united_states": 21,
+      "china": 10,
+      "russia": 19,
+      "rest": 24,
+      "source": "unoosa"
+    },
+    {
+      "year": 2005,
+      "world": 72,
+      "united_states": 21,
+      "china": 7,
+      "russia": 19,
+      "rest": 25,
+      "source": "unoosa"
+    },
+    {
+      "year": 2006,
+      "world": 95,
+      "united_states": 36,
+      "china": 8,
+      "russia": 16,
+      "rest": 35,
+      "source": "unoosa"
+    },
+    {
+      "year": 2007,
+      "world": 111,
+      "united_states": 46,
+      "china": 10,
+      "russia": 18,
+      "rest": 37,
+      "source": "unoosa"
+    },
+    {
+      "year": 2008,
+      "world": 109,
+      "united_states": 25,
+      "china": 17,
+      "russia": 21,
+      "rest": 46,
+      "source": "unoosa"
+    },
+    {
+      "year": 2009,
+      "world": 125,
+      "united_states": 38,
+      "china": 8,
+      "russia": 30,
+      "rest": 49,
+      "source": "unoosa"
+    },
+    {
+      "year": 2010,
+      "world": 121,
+      "united_states": 36,
+      "china": 20,
+      "russia": 24,
+      "rest": 41,
+      "source": "unoosa"
+    },
+    {
+      "year": 2011,
+      "world": 129,
+      "united_states": 30,
+      "china": 20,
+      "russia": 24,
+      "rest": 55,
+      "source": "unoosa"
+    },
+    {
+      "year": 2012,
+      "world": 134,
+      "united_states": 34,
+      "china": 26,
+      "russia": 23,
+      "rest": 51,
+      "source": "unoosa"
+    },
+    {
+      "year": 2013,
+      "world": 210,
+      "united_states": 80,
+      "china": 19,
+      "russia": 29,
+      "rest": 82,
+      "source": "unoosa"
+    },
+    {
+      "year": 2014,
+      "world": 241,
+      "united_states": 96,
+      "china": 25,
+      "russia": 35,
+      "rest": 85,
+      "source": "unoosa"
+    },
+    {
+      "year": 2015,
+      "world": 222,
+      "united_states": 105,
+      "china": 38,
+      "russia": 27,
+      "rest": 52,
+      "source": "unoosa"
+    },
+    {
+      "year": 2016,
+      "world": 221,
+      "united_states": 105,
+      "china": 38,
+      "russia": 14,
+      "rest": 64,
+      "source": "unoosa"
+    },
+    {
+      "year": 2017,
+      "world": 456,
+      "united_states": 286,
+      "china": 31,
+      "russia": 25,
+      "rest": 114,
+      "source": "unoosa"
+    },
+    {
+      "year": 2018,
+      "world": 452,
+      "united_states": 191,
+      "china": 95,
+      "russia": 23,
+      "rest": 143,
+      "source": "unoosa"
+    },
+    {
+      "year": 2019,
+      "world": 586,
+      "united_states": 362,
+      "china": 76,
+      "russia": 30,
+      "rest": 118,
+      "source": "unoosa"
+    },
+    {
+      "year": 2020,
+      "world": 1274,
+      "united_states": 984,
+      "china": 73,
+      "russia": 24,
+      "rest": 193,
+      "source": "unoosa"
+    },
+    {
+      "year": 2021,
+      "world": 1814,
+      "united_states": 1232,
+      "china": 110,
+      "russia": 21,
+      "rest": 451,
+      "source": "unoosa"
+    },
+    {
+      "year": 2022,
+      "world": 2479,
+      "united_states": 1936,
+      "china": 182,
+      "russia": 50,
+      "rest": 311,
+      "source": "unoosa"
+    },
+    {
+      "year": 2023,
+      "world": 2903,
+      "united_states": 2233,
+      "china": 210,
+      "russia": 66,
+      "rest": 394,
+      "source": "unoosa"
+    },
+    {
+      "year": 2024,
+      "world": 2849,
+      "united_states": 2261,
+      "china": 266,
+      "russia": 97,
+      "rest": 225,
+      "source": "unoosa"
+    },
+    {
+      "year": 2025,
+      "world": 4510,
+      "united_states": 3708,
+      "china": 374,
+      "russia": 89,
+      "rest": 339,
+      "source": "unoosa"
+    }
+  ]
+}

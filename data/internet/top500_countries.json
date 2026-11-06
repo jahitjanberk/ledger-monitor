@@ -1,0 +1,27 @@
+{
+  "id": "top500_countries",
+  "title": "TOP500 systems by country",
+  "description": "Number of systems on the June 2026 TOP500 list.",
+  "records": [
+    {
+      "country": "United States",
+      "systems": 162,
+      "source": "top500-2026"
+    },
+    {
+      "country": "Japan",
+      "systems": 44,
+      "source": "top500-2026"
+    },
+    {
+      "country": "Germany",
+      "systems": 41,
+      "source": "top500-2026"
+    },
+    {
+      "country": "China",
+      "systems": 30,
+      "source": "top500-2026"
+    }
+  ]
+}

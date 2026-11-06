@@ -1,0 +1,63 @@
+{
+  "id": "uk_ons",
+  "title": "England and Wales (ONS)",
+  "description": "ONS ratio of median house price to median gross annual earnings of full-time workers, 2025.",
+  "records": [
+    {
+      "area": "England",
+      "level": "Country",
+      "ratio": 7.6,
+      "median_price": 300000,
+      "median_earnings": 39300,
+      "source": "ons-2025"
+    },
+    {
+      "area": "Wales",
+      "level": "Country",
+      "ratio": 6,
+      "median_price": 213000,
+      "median_earnings": 35800,
+      "source": "ons-2025"
+    },
+    {
+      "area": "London",
+      "level": "Region",
+      "ratio": 10.6,
+      "median_price": null,
+      "median_earnings": null,
+      "source": "ons-2025"
+    },
+    {
+      "area": "North East",
+      "level": "Region",
+      "ratio": 5,
+      "median_price": null,
+      "median_earnings": null,
+      "source": "ons-2025"
+    },
+    {
+      "area": "Kensington and Chelsea",
+      "level": "Local authority",
+      "ratio": 25.2,
+      "median_price": null,
+      "median_earnings": null,
+      "source": "ons-2025"
+    },
+    {
+      "area": "Hyndburn",
+      "level": "Local authority",
+      "ratio": 4.1,
+      "median_price": null,
+      "median_earnings": null,
+      "source": "ons-2025"
+    },
+    {
+      "area": "Kingston upon Hull",
+      "level": "Local authority",
+      "ratio": 4.1,
+      "median_price": null,
+      "median_earnings": null,
+      "source": "ons-2025"
+    }
+  ]
+}

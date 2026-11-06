@@ -1,0 +1,95 @@
+{
+  "id": "oil",
+  "title": "Oil through chokepoints",
+  "description": "EIA estimates of crude oil and petroleum liquids flows, million barrels a day, 2020 to the first half of 2025.",
+  "records": [
+    {
+      "chokepoint": "Strait of Malacca",
+      "portwatch_name": "Malacca Strait",
+      "mbd_2020": 22.8,
+      "mbd_2021": 22.1,
+      "mbd_2022": 23.0,
+      "mbd_2023": 24.0,
+      "mbd_2024": 22.5,
+      "mbd_1H25": 23.2,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Strait of Hormuz",
+      "portwatch_name": "Strait of Hormuz",
+      "mbd_2020": 19.2,
+      "mbd_2021": 19.7,
+      "mbd_2022": 21.9,
+      "mbd_2023": 21.8,
+      "mbd_2024": 20.7,
+      "mbd_1H25": 20.9,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Suez Canal and SUMED Pipeline",
+      "portwatch_name": "Suez Canal",
+      "mbd_2020": 5.4,
+      "mbd_2021": 5.2,
+      "mbd_2022": 7.3,
+      "mbd_2023": 8.8,
+      "mbd_2024": 4.8,
+      "mbd_1H25": 4.9,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Bab el-Mandeb",
+      "portwatch_name": "Bab el-Mandeb Strait",
+      "mbd_2020": 5.7,
+      "mbd_2021": 6.0,
+      "mbd_2022": 8.0,
+      "mbd_2023": 9.3,
+      "mbd_2024": 4.1,
+      "mbd_1H25": 4.2,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Danish Straits",
+      "portwatch_name": "Oresund Strait",
+      "mbd_2020": 3.1,
+      "mbd_2021": 3.1,
+      "mbd_2022": 4.2,
+      "mbd_2023": 5.0,
+      "mbd_2024": 4.9,
+      "mbd_1H25": 4.9,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Turkish Straits (Dardanelles)",
+      "portwatch_name": "Bosporus Strait",
+      "mbd_2020": 3.2,
+      "mbd_2021": 3.3,
+      "mbd_2022": 3.2,
+      "mbd_2023": 3.5,
+      "mbd_2024": 3.6,
+      "mbd_1H25": 3.7,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Panama Canal",
+      "portwatch_name": "Panama Canal",
+      "mbd_2020": 1.7,
+      "mbd_2021": 1.8,
+      "mbd_2022": 2.2,
+      "mbd_2023": 2.2,
+      "mbd_2024": 2.0,
+      "mbd_1H25": 2.3,
+      "source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Cape of Good Hope",
+      "portwatch_name": "Cape of Good Hope",
+      "mbd_2020": 7.9,
+      "mbd_2021": 7.2,
+      "mbd_2022": 6.1,
+      "mbd_2023": 6.2,
+      "mbd_2024": 9.3,
+      "mbd_1H25": 9.1,
+      "source": "eia-chokepoints"
+    }
+  ]
+}

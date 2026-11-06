@@ -1,0 +1,28 @@
+{
+  "id": "surveys",
+  "title": "GASA survey snapshots",
+  "description": "Share of adults who encountered a scam, and the loss estimate where published.",
+  "records": [
+    {
+      "country": "Philippines",
+      "encountered": 0.84,
+      "est_local": 121800000000,
+      "currency": "PHP",
+      "source": "gasa-philippines-2026"
+    },
+    {
+      "country": "United Arab Emirates",
+      "encountered": 0.7,
+      "est_local": null,
+      "currency": "AED",
+      "source": "gasa-uae-2026"
+    },
+    {
+      "country": "Worldwide",
+      "encountered": 0.57,
+      "est_local": 442000000000,
+      "currency": "USD",
+      "source": "gasa-global-2025"
+    }
+  ]
+}

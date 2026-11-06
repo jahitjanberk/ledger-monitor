@@ -1,0 +1,31 @@
+{
+  "id": "income",
+  "title": "Drinking water by income group",
+  "description": "Share using safely managed drinking water by World Bank income group, 2024.",
+  "records": [
+    {
+      "group": "Low-income countries",
+      "safely_managed_pct": 30.9,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "group": "Lower-middle-income countries",
+      "safely_managed_pct": 69.1,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "group": "Upper-middle-income countries",
+      "safely_managed_pct": 78.2,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "group": "High-income countries",
+      "safely_managed_pct": 95.8,
+      "year": 2024,
+      "source": "jmp-2025"
+    }
+  ]
+}

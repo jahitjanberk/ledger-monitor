@@ -1,0 +1,62 @@
+{
+  "id": "supercomputers",
+  "title": "Top supercomputers",
+  "description": "Systems from the June 2026 TOP500 top ten whose site is named in the source.",
+  "records": [
+    {
+      "rank": 1,
+      "system": "LineShine",
+      "site": "National Supercomputing Center in Shenzhen",
+      "country": "China",
+      "lon": 114.07,
+      "lat": 22.55,
+      "rmax_eflops": 2.198,
+      "source": "top500-2026",
+      "geo_source": "geonames"
+    },
+    {
+      "rank": 2,
+      "system": "El Capitan",
+      "site": "Lawrence Livermore National Laboratory",
+      "country": "United States",
+      "lon": -121.77,
+      "lat": 37.68,
+      "rmax_eflops": 1.8,
+      "source": "top500-2026",
+      "geo_source": "geonames"
+    },
+    {
+      "rank": 5,
+      "system": "JUPITER Booster",
+      "site": "Jülich Supercomputing Centre",
+      "country": "Germany",
+      "lon": 6.36,
+      "lat": 50.92,
+      "rmax_eflops": null,
+      "source": "top500-2026",
+      "geo_source": "geonames"
+    },
+    {
+      "rank": 9,
+      "system": "Fugaku",
+      "site": "RIKEN Center for Computational Science",
+      "country": "Japan",
+      "lon": 135.18,
+      "lat": 34.69,
+      "rmax_eflops": null,
+      "source": "top500-2026",
+      "geo_source": "geonames"
+    },
+    {
+      "rank": 10,
+      "system": "Alps",
+      "site": "Swiss National Supercomputing Centre (CSCS)",
+      "country": "Switzerland",
+      "lon": 8.96,
+      "lat": 46.01,
+      "rmax_eflops": null,
+      "source": "top500-2026",
+      "geo_source": "geonames"
+    }
+  ]
+}

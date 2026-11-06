@@ -1,0 +1,318 @@
+/* Economy Monitor: shared UX polish, loaded after each dashboard's own CSS.
+   Sections: contrast · skip link · loading skeleton · section index · citation hint
+   and tooltip · data links · more dashboards · mobile layout · touch targets ·
+   minimum text sizes · wide tables · print. */
+
+/* ---------- Contrast: every text colour meets WCAG AA (4.5:1) ---------- */
+:root { --em-muted: #52524D; --em-ok: #1A6B35; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --em-muted: #ADADA6; } }
+:root[data-theme="dark"] { --em-muted: #ADADA6; }
+/* Accent colours are tuned for marks. Small text in the accent needs 4.5:1, which the
+   light-mode amber, orange, cyan and green miss, so it uses a shade 15% darker (the least
+   that passes for every dashboard). Headlines and big numbers only need 3:1 and keep the
+   true accent. Dark-mode accents pass as they are. */
+:root { --em-ink: color-mix(in oklab, var(--em-accent) 85%, #000); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --em-ink: var(--em-accent); } }
+:root[data-theme="dark"] { --em-ink: var(--em-accent); }
+a, .accent, .em-eyebrow .num, .in-top .rk, .em-toc a .n, .em-d-value { color: var(--em-ink); }
+:is(h1, .big, .vbig) .accent, .em-vis .vbig { color: var(--em-accent); }
+/* Latency matrix: lighter fills so the figures stay readable in one text colour. */
+.in-matrix td { background: color-mix(in srgb, var(--em-accent) calc(var(--t) * 60%), var(--em-panel)); }
+.in-matrix td.deep { color: var(--em-fg); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .in-matrix td { background: color-mix(in srgb, var(--em-accent) calc(var(--t) * 48%), var(--em-panel)); } }
+:root[data-theme="dark"] .in-matrix td { background: color-mix(in srgb, var(--em-accent) calc(var(--t) * 48%), var(--em-panel)); }
+/* Map layer toggles: show "off" with the muted colour and a faded key, not faded text. */
+.in-layer[aria-pressed="false"] { opacity: 1; color: var(--em-muted); }
+.in-layer[aria-pressed="false"] i { opacity: .35; }
+/* Labels inside stacked bars: pick the text colour per segment. */
+.wt-ladder span { color: #0A0A0A; }
+.wt-ladder span[style*="--wt-l4"], .hs-dist span[style*="--hs-r4"] { color: #fff; }
+/* Light mode's top ladder step is too mid-toned for either text colour; darken it a touch. */
+:root:not([data-theme="dark"]) :is(.wt-ladder, .wt-ladder-legend) { --wt-l0: #0E765E; }
+:root:not([data-theme="dark"]) .wt-ladder span[style*="--wt-l0"] { color: #fff; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) :is(.wt-ladder, .wt-ladder-legend) { --wt-l0: #7CC2A9; }
+  :root:not([data-theme="light"]) .wt-ladder span[style*="--wt-l0"] { color: #0A0A0A; }
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .wt-ladder span[style*="--wt-l1"] { color: #fff; }
+  :root:not([data-theme="light"]) .wt-ladder span[style*="--wt-l4"], :root:not([data-theme="light"]) .hs-dist span[style*="--hs-r4"] { color: #111; }
+}
+:root[data-theme="dark"] .wt-ladder span[style*="--wt-l1"] { color: #fff; }
+:root[data-theme="dark"] .wt-ladder span[style*="--wt-l4"], :root[data-theme="dark"] .hs-dist span[style*="--hs-r4"] { color: #111; }
+
+/* ---------- Skip link ---------- */
+.em-skip {
+  position: absolute; left: 8px; top: -100px; z-index: 100;
+  background: var(--em-fg); color: var(--em-bg); padding: 10px 14px; border-radius: var(--em-r);
+  font-family: var(--em-mono); font-size: 13px; text-transform: uppercase; letter-spacing: .05em; text-decoration: none;
+}
+.em-skip:focus { top: 8px; }
+#em-main:focus { outline: none; }
+
+/* ---------- Loading skeleton (replaced when the dashboard mounts) ---------- */
+.em-skel .em-head { border-bottom: 1px solid var(--em-line); }
+.em-skel .em-head::after { content: none; }
+.sk { background: color-mix(in srgb, var(--em-fg) 7%, transparent); border-radius: var(--em-r); }
+.sk-h1 { height: clamp(2rem, 1.2rem + 3.6vw, 4.25rem); max-width: 34rem; margin: 16px 0 10px; }
+.sk-h1.short { max-width: 22rem; }
+.sk-p { height: 1.1rem; max-width: 36rem; margin-top: 20px; }
+.sk-kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr)); gap: 16px; margin-top: 48px; }
+.sk-kpis .sk { height: 9.5rem; }
+@media (prefers-reduced-motion: no-preference) {
+  .sk { animation: em-pulse 1.4s ease-in-out infinite; }
+  @keyframes em-pulse { 50% { opacity: .45; } }
+}
+
+/* ---------- Sticky section index ---------- */
+.em-toc {
+  position: sticky; top: 0; z-index: 20;
+  margin: 0 calc(-1 * var(--em-gutter));
+  padding: 0 var(--em-gutter);
+  background: color-mix(in srgb, var(--em-bg) 90%, transparent);
+  -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--em-line);
+}
+.em-toc ol {
+  display: flex; gap: 2px; margin: 0; padding: 0; list-style: none;
+  overflow-x: auto; scrollbar-width: none; overscroll-behavior-x: contain;
+}
+.em-toc ol::-webkit-scrollbar { display: none; }
+.em-toc.more-right ol {
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 40px), transparent);
+  mask-image: linear-gradient(to right, #000 calc(100% - 40px), transparent);
+}
+.em-toc a {
+  display: flex; align-items: center; gap: .55em; min-height: 44px; padding: 0 10px;
+  font-family: var(--em-mono); font-size: 12px; letter-spacing: .05em; text-transform: uppercase;
+  color: var(--em-muted); text-decoration: none; white-space: nowrap;
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
+}
+.em-toc a:first-child { padding-left: 0; }
+.em-toc a .n { color: var(--em-ink); }
+.em-toc a:hover { color: var(--em-fg); }
+.em-toc a[aria-current="true"] { color: var(--em-fg); border-bottom-color: var(--em-accent); }
+.em-sec, .em-method { scroll-margin-top: 60px; }
+
+/* ---------- Citation hint and hover tooltip ---------- */
+.em-hint {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin: 18px 0 0; padding: 8px 8px 8px 12px; max-width: 58ch;
+  border: 1px dashed var(--em-line); border-radius: var(--em-r);
+  font-size: 13px; color: var(--em-muted);
+}
+.em-hint b { color: var(--em-fg); font-weight: 600; }
+.em-hint button {
+  margin-left: auto; background: none; border: 1px solid var(--em-line); border-radius: var(--em-r);
+  font-family: var(--em-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .05em;
+  min-height: 32px; padding: 0 10px; cursor: pointer; color: var(--em-fg);
+}
+.em-hint button:hover { border-color: var(--em-fg); }
+.em-tip {
+  position: fixed; z-index: 60; pointer-events: none; max-width: min(320px, calc(100vw - 24px));
+  background: var(--em-fg); color: var(--em-bg); border-radius: var(--em-r);
+  padding: 6px 9px; font-family: var(--em-mono); font-size: 12px; line-height: 1.4;
+  box-shadow: 0 6px 20px #0003;
+}
+.em-tip span { opacity: .7; }
+[data-src]:hover { text-decoration-color: currentColor; }
+
+/* ---------- Section links, data line, per-section downloads ---------- */
+.em-seclink {
+  margin-left: .9em; padding: 2px 6px; border: 1px solid transparent; border-radius: var(--em-r);
+  background: none; color: var(--em-muted); cursor: pointer;
+  font: inherit; font-size: 11px; letter-spacing: .05em; text-transform: uppercase;
+  opacity: 0; transition: opacity .15s;
+}
+.em-sec:hover .em-seclink, .em-method:hover .em-seclink, .em-seclink:focus-visible { opacity: 1; }
+.em-seclink:hover { border-color: var(--em-line); color: var(--em-fg); }
+@media (hover: none) { .em-seclink { opacity: 1; } }
+.em-dataline {
+  display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 18px 0 0;
+  font-family: var(--em-mono); font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--em-muted);
+}
+.em-dataline b { color: var(--em-fg); font-weight: 500; }
+.em-dataline a { text-underline-offset: .2em; }
+.em-secdata {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 4px 14px; margin: 14px 0 0;
+  font-family: var(--em-mono); font-size: 12px; color: var(--em-muted);
+}
+.em-secdata span { text-transform: uppercase; letter-spacing: .05em; }
+.em-secdata a { text-underline-offset: .2em; }
+
+/* ---------- More dashboards ---------- */
+.em-more { margin: 48px 0 0; padding-top: 20px; border-top: 1px solid var(--em-line); }
+.em-more ul { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); }
+.em-more li a {
+  display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 16px;
+  border: 1px solid var(--em-line); border-radius: var(--em-r); background: var(--em-panel);
+  color: var(--em-fg); text-decoration: none;
+}
+.em-more li a:hover { border-color: var(--em-fg); }
+.em-more b { font-size: 1.05rem; font-weight: 600; letter-spacing: -.01em; }
+.em-more span { font-size: 14px; color: var(--em-muted); line-height: 1.45; }
+.em-more-all { margin: 14px 0 0; font-family: var(--em-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+
+/* ---------- Folding the latency matrix on phones ---------- */
+.em-fold { display: none; }
+@media (max-width: 560px) {
+  .em-fold {
+    display: inline-flex; align-items: center; min-height: 44px; padding: 0 14px; margin: 4px 0 12px;
+    border: 1px solid var(--em-line); border-radius: var(--em-r); background: none; color: var(--em-fg); cursor: pointer;
+    font-family: var(--em-mono); font-size: 12px; text-transform: uppercase; letter-spacing: .05em;
+  }
+  .em-folded { display: none !important; }
+}
+
+/* ---------- Mobile layout ---------- */
+@media (max-width: 560px) {
+  .em-bar { gap: 10px; }
+  /* Brand on one row, every control on the next. */
+  .em-bar-r { gap: 6px; flex-wrap: nowrap; }
+  .em-iconbtn { padding: 0 8px; letter-spacing: .03em; }
+  .em-bar-r .em-toggle button { padding-inline: .7em; letter-spacing: .03em; }
+  .em-head { padding-top: 28px; }
+  /* Stat tiles: two per row instead of one tall column. */
+  .em-kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .em-kpi { min-height: 0; padding: 14px; gap: 6px; }
+  .em-kpi .big { font-size: clamp(1.5rem, 1rem + 3vw, 2rem); margin-top: 4px; overflow-wrap: anywhere; }
+  .em-kpi .sub { font-size: 12px; }
+  .em-kpi .em-eyebrow { font-size: 11px; letter-spacing: .05em; }
+  .em-kpi:last-child:nth-child(odd) { grid-column: 1 / -1; }
+  .em-sec { margin-top: 36px; }
+  .em-card { padding: 16px; }
+}
+
+/* ---------- Touch targets: 44px for controls on touch screens ---------- */
+@media (pointer: coarse) {
+  .em-iconbtn, .em-toggle button, .em-viewbtn, .em-back,
+  .hs-chip, .in-layer, .in-btchip, .em-layer, .em-proj,
+  .hb-btn, .hb-open { min-height: 44px; }
+  .em-iconbtn { min-width: 44px; }
+  .em-toggle button { padding-inline: 1em; }
+  .in-chips .hs-chip, .in-btchip { padding-inline: .8em; }
+  select, input[type="search"], input[type="text"] { min-height: 44px; }
+  input[type="range"] { min-height: 44px; }
+  .em-table th button { display: inline-flex; align-items: center; min-height: 44px; }
+  .em-table button[class$="-rowbtn"] { display: inline-flex; align-items: center; min-height: 44px; }
+  .em-table:has(button[class$="-rowbtn"]) td { padding-block: 0; vertical-align: middle; }
+  .em-cite { min-height: 44px; padding: 4px 12px; }
+  .em-secdata a, .em-dataline a, .em-more-all a { display: inline-flex; align-items: center; min-height: 44px; }
+  .em-seclink { padding: 12px 8px; margin-block: -12px; }
+  .em-cites { gap: 8px; }
+  .em-drawer-close { min-width: 44px; min-height: 44px; }
+}
+
+/* ---------- Minimum text sizes (was 10–11px) ---------- */
+.em-cite { font-size: 12px; letter-spacing: 0; }
+.em-tick { font-size: 11px; }
+.em-endlabel, .em-maplabel { font-size: 12px; }
+.em-mini .ms, .em-srclist span { font-size: 12px; }
+.maplibregl-ctrl-attrib { font-size: 11px; }
+.ai-scale, .cp-scale, .cp-events, .el-scale, .hs-scale, .or-scale, .wt-scale, .in-scale,
+.in-caption span, .in-chip-static, .in-chips .hs-chip, .in-btchip, .or-org { font-size: 12px; letter-spacing: .03em; }
+
+/* ---------- Wide tables: sticky first column and an edge fade ---------- */
+.em-xs { overflow-x: auto; max-width: 100%; }
+.em-xscroll .em-table th:first-child,
+.em-xscroll .em-table td:first-child {
+  position: sticky; left: 0; z-index: 1; background: var(--em-panel);
+  box-shadow: 1px 0 0 var(--em-line);
+}
+.em-xscroll .in-matrix tbody th:first-child {
+  position: sticky; left: 0; z-index: 1; background: var(--em-panel);
+}
+.em-xscroll.more-right {
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent);
+  mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent);
+}
+.em-xs-hint {
+  display: none; font-family: var(--em-mono); font-size: 12px; text-transform: uppercase;
+  letter-spacing: .05em; color: var(--em-muted); margin: 0 0 8px;
+}
+.em-xs-hint.on { display: block; }
+
+/* ---------- Print: the content only, in black on white ---------- */
+@media print {
+  /* Tripled :root outranks the theme selectors, should the light switch in em.js not run. */
+  :root:root:root {
+    --em-bg: #fff; --em-panel: #fff; --em-fg: #000; --em-muted: #444; --em-line: #bbb; --em-ink: #000;
+    color-scheme: light;
+  }
+  body { background: #fff; }
+  .em-bar, .em-toc, .em-hint, .em-tip, .em-drawer, .em-skip, .em-seclink, .em-fold, .em-more,
+  .em-toggle, .em-xs-hint, .em-todash, .maplibregl-control-container, [class$="-layers"] { display: none !important; }
+  .em-view[data-view="story"] { display: none !important; }
+  .em-view[data-view="dashboard"][hidden] { display: block !important; }
+  .em-wrap { max-width: none; padding: 0; }
+  .em-sec, .em-card, .em-kpi, figure, tr { break-inside: avoid; }
+  .em-sec h2, .em-sec h3 { break-after: avoid; }
+  .em-card { border-color: #bbb; box-shadow: none; }
+  .em-xs, .em-xscroll { overflow: visible !important; -webkit-mask-image: none !important; mask-image: none !important; }
+  .em-folded { display: block !important; }
+  a { color: #000; }
+  .em-secdata a::after, .em-dataline a::after { content: " (" attr(href) ")"; font-size: 10px; }
+  @page { margin: 14mm; }
+}
+
+/* ---------- Editorial type ---------- */
+/* Headings are set in one colour. The accent is kept for the figures that matter:
+   stat tiles, chart marks and the chart beside each headline. */
+.em-head h1 .accent, .em-sec-h h2 .accent, .em-step h2 .accent { color: inherit; }
+/* No decorative crosshairs on the rules. */
+.em-head::after, .em-sec-h::before, .em-sec-h::after { content: none; }
+/* Numbers in the headline are still cited and clickable, but unmarked; the pattern
+   is visible everywhere else on the page and explained in the method section. */
+.em-head h1 [data-src] { text-decoration: none; }
+.em-head h1 [data-src]:hover { text-decoration: underline dotted; text-underline-offset: .12em; text-decoration-thickness: 2px; }
+.em-head h1 { text-wrap: balance; }
+.em-lede { text-wrap: pretty; }
+/* The intro needs no section number. */
+.em-head .em-eyebrow .num { display: none; }
+/* Labels in sentence case, set in the text face. Monospace is kept for numbers. */
+.em-eyebrow { font-family: var(--em-sans); font-size: 13px; font-weight: 500; letter-spacing: 0; text-transform: none; }
+.em-eyebrow .num { font-family: var(--em-mono); font-size: 12px; font-weight: 400; margin-right: .6em; }
+.em-kpi .em-eyebrow { font-size: 13px; letter-spacing: 0; }
+.em-toc a { font-family: var(--em-sans); font-size: 13px; letter-spacing: 0; text-transform: none; }
+.em-toc a .n { font-family: var(--em-mono); font-size: 12px; }
+.em-dataline, .em-secdata, .em-secdata span, .em-more-all, .em-fold, .em-xs-hint, .em-foot, .em-byline {
+  font-family: var(--em-sans); font-size: 13px; letter-spacing: 0; text-transform: none;
+}
+.em-dataline { display: block; line-height: 1.7; }
+.em-head h1 { font-variant-numeric: proportional-nums; }
+.em-seclink { font-family: var(--em-sans); font-size: 12px; letter-spacing: 0; text-transform: none; }
+.em-toggle button, .em-iconbtn { font-family: var(--em-sans); font-size: 13px; letter-spacing: 0; text-transform: none; font-weight: 500; }
+@media (max-width: 560px) { .em-kpi .em-eyebrow { font-size: 12px; letter-spacing: 0; } .em-iconbtn, .em-bar-r .em-toggle button { letter-spacing: 0; } }
+.em-byline { margin: 6px 0 0; color: var(--em-muted); }
+.em-byline a { color: inherit; text-underline-offset: .2em; }
+
+/* ---------- The chart beside each headline ---------- */
+.em-head.em-has-fig { display: flex; flex-direction: column; gap: 28px; }
+.em-head-text { min-width: 0; }
+.em-fig { margin: 0; width: 100%; max-width: 560px; }
+@media (min-width: 1100px) {
+  .em-head.em-has-fig { flex-direction: row; align-items: flex-end; gap: 56px; }
+  .em-head-text { flex: 1 1 auto; }
+  .em-fig { flex: 0 0 400px; max-width: 400px; }
+}
+.em-fig-t { margin: 0 0 10px; font-size: 14px; font-weight: 600; line-height: 1.3; color: var(--em-fg); }
+.em-fig-plot { position: relative; min-height: 180px; }
+.em-fig svg { display: block; overflow: visible; }
+.em-fig text { font-family: var(--em-sans); font-size: 12px; fill: var(--em-muted); paint-order: stroke; stroke: var(--em-bg); stroke-width: 3px; stroke-linejoin: round; }
+.em-fig text.k { fill: var(--em-fg); font-weight: 600; }
+.em-fig text.n { font-family: var(--em-mono); font-size: 11px; }
+.em-fig .ax { stroke: var(--em-line); }
+.em-fig .rule { stroke: var(--em-muted); stroke-dasharray: 3 3; }
+.em-fig .lead { stroke: var(--em-muted); }
+.em-fig-s { margin: 8px 0 0; font-size: 12px; color: var(--em-muted); }
+@media print { .em-fig text { stroke: #fff; } }
+
+/* ---------- Method: how to read, and what the dashboard leaves out ---------- */
+.em-limits { margin: 8px 0 20px; padding-left: 1.1em; max-width: 72ch; }
+.em-limits li { margin: 4px 0; }
+.em-howto { max-width: 72ch; }
+.em-howto b { text-decoration: underline dotted; text-underline-offset: .18em; font-weight: 600; }
+
+/* ---------- Loading problems (file:// pages, slow loads) ---------- */
+.em-loadmsg { margin: 16px 0 0; padding: 14px 16px; max-width: 64ch; border: 1px solid var(--em-fg); border-radius: var(--em-r); background: var(--em-panel); font-size: 15px; line-height: 1.5; color: var(--em-fg); }
+.em-loadmsg code { font-family: var(--em-mono); font-size: .9em; }

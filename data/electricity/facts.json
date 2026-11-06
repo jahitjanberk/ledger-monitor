@@ -1,0 +1,52 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published headline figures from Ember's Global Electricity Review 2026 and the UK coal phase-out.",
+  "records": [
+    {
+      "id": "solar_growth",
+      "label": "Rise in global solar generation, 2025",
+      "value": 636,
+      "unit": "TWh",
+      "note": "A record, up 30% to 2,778 TWh",
+      "source": "ember-ger-2026"
+    },
+    {
+      "id": "solar_demand",
+      "label": "Share of the rise in electricity demand met by solar, 2025",
+      "value": 75,
+      "unit": "%",
+      "source": "ember-ger-2026"
+    },
+    {
+      "id": "wind_solar_demand",
+      "label": "Share of demand growth met by solar and wind together, 2025",
+      "value": 99,
+      "unit": "%",
+      "source": "ember-ger-2026"
+    },
+    {
+      "id": "demand_growth",
+      "label": "Growth in global electricity demand, 2025",
+      "value": 849,
+      "unit": "TWh",
+      "source": "ember-ger-2026"
+    },
+    {
+      "id": "fossil_change",
+      "label": "Change in fossil generation, 2025",
+      "value": -38,
+      "unit": "TWh",
+      "note": "-0.2%, the first year without a rise since 2020",
+      "source": "ember-ger-2026"
+    },
+    {
+      "id": "uk_coal_end",
+      "label": "UK's last coal power station, Ratcliffe-on-Soar, closed",
+      "value": "2024-09-30",
+      "unit": "date",
+      "note": "Ending more than 140 years of coal power",
+      "source": "iom3-ratcliffe"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+id,label,value,unit,note,source
+wri_quarter,Countries facing extremely high water stress every year,25,countries,Home to a quarter of the world's population,wri-2023
+wri_4bn,People living with high water stress at least one month a year,4000000000,people,At least 50% of the world's population,wri-2023
+wri_2050_people,Extra people expected to face extremely high water stress by 2050,1000000000,people,,wri-2023
+wri_2050_demand,Projected growth in global water demand by 2050,20-25,%,,wri-2023
+grace_pop,Share of the world's population living in countries losing freshwater,75,%,101 countries,grace-2025
+grace_gw,Share of continental water storage loss that is groundwater,68,%,,grace-2025
+unccd_hunger,People facing acute hunger in Eastern and Southern Africa during the 2023-25 droughts,90000000,people,,unccd-2025
+unccd_zim,Fall in Zimbabwe's 2024 maize crop,70,%,,unccd-2025
+unccd_olive,Fall in Spain's olive crop by September 2023,50,%,,unccd-2025
+unccd_panama,"Daily Panama Canal transits, October 2023 to January 2024",38 to 24,ships a day,,unccd-2025
+dc_direct,"Water US data centres consumed on site for cooling, 2023",64000000000,litres,About 17 billion US gallons,lbnl-2024
+dc_indirect,"Water consumed generating US data centres' electricity, 2023",800000000000,litres,About 211 billion US gallons,lbnl-2024
+jmp_without,"People without safely managed drinking water, 2024",2143285200,people,,jmp-2025

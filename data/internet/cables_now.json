@@ -1,0 +1,21 @@
+{
+  "id": "cables_now",
+  "title": "Submarine cables today",
+  "description": "TeleGeography's current headline figures for the global submarine cable network.",
+  "records": [
+    {
+      "metric": "cables_tracked",
+      "label": "Active and planned cables tracked, 2026",
+      "value": 600,
+      "unit": "cables (more than)",
+      "source": "telegeography-faq"
+    },
+    {
+      "metric": "km_in_service",
+      "label": "Cable in service, early 2026",
+      "value": 1500000,
+      "unit": "km (over)",
+      "source": "telegeography-faq"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "nations",
+  "title": "National median multiples",
+  "description": "Median multiple across each nation's major markets in the Demographia survey, Q3 2025 and Q3 2024.",
+  "records": [
+    {
+      "nation": "Australia",
+      "nation_code": "AU",
+      "iso_n3": "036",
+      "median_multiple": 9.9,
+      "median_multiple_prev": 9.7,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "Canada",
+      "nation_code": "CA",
+      "iso_n3": "124",
+      "median_multiple": 5.4,
+      "median_multiple_prev": 5.4,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "China: Hong Kong",
+      "nation_code": "HK",
+      "iso_n3": "344",
+      "median_multiple": 14.1,
+      "median_multiple_prev": 14.4,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "Ireland",
+      "nation_code": "IE",
+      "iso_n3": "372",
+      "median_multiple": 4.9,
+      "median_multiple_prev": 5.1,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "New Zealand",
+      "nation_code": "NZ",
+      "iso_n3": "554",
+      "median_multiple": 7.7,
+      "median_multiple_prev": 7.7,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "Singapore",
+      "nation_code": "SG",
+      "iso_n3": "702",
+      "median_multiple": 4.3,
+      "median_multiple_prev": 4.2,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "United Kingdom",
+      "nation_code": "GB",
+      "iso_n3": "826",
+      "median_multiple": 5.2,
+      "median_multiple_prev": 5.6,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "United States",
+      "nation_code": "US",
+      "iso_n3": "840",
+      "median_multiple": 4.5,
+      "median_multiple_prev": 4.8,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    },
+    {
+      "nation": "All 96 markets",
+      "nation_code": "ALL",
+      "iso_n3": null,
+      "median_multiple": 5,
+      "median_multiple_prev": 5.1,
+      "source": "demographia-2026",
+      "prev_source": "demographia-2025"
+    }
+  ]
+}

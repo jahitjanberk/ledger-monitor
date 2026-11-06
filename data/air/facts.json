@@ -1,0 +1,52 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from WHO and IQAir.",
+  "records": [
+    {
+      "id": "aqg",
+      "label": "WHO guideline for annual average PM2.5, set in 2021",
+      "value": 5,
+      "unit": "µg/m³",
+      "note": "Halved from the previous 10",
+      "source": "comeap-who-aqg"
+    },
+    {
+      "id": "who99",
+      "label": "Share of the world's population living where WHO air quality guidelines were not met, 2019",
+      "value": 99,
+      "unit": "%",
+      "source": "who-factsheet"
+    },
+    {
+      "id": "who67",
+      "label": "Premature deaths a year from ambient and household air pollution combined (WHO)",
+      "value": 6700000,
+      "unit": "deaths",
+      "source": "who-factsheet"
+    },
+    {
+      "id": "iq14",
+      "label": "Share of cities meeting the WHO PM2.5 guideline, 2025",
+      "value": 14,
+      "unit": "%",
+      "note": "Down from 17% the year before; 9,446 cities",
+      "source": "iqair-2025"
+    },
+    {
+      "id": "iq13",
+      "label": "Countries and territories meeting the guideline in 2025, by ground monitors",
+      "value": 13,
+      "unit": "places",
+      "note": "French Polynesia, Puerto Rico, US Virgin Islands, Barbados, New Caledonia, Iceland, Bermuda, Réunion, Andorra, Australia, Grenada, Panama and Estonia",
+      "source": "iqair-2025"
+    },
+    {
+      "id": "iqcity",
+      "label": "Most polluted city in 2025: Loni, India",
+      "value": 112.5,
+      "unit": "µg/m³",
+      "source": "iqair-2025"
+    }
+  ]
+}

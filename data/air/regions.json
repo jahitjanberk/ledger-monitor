@@ -1,0 +1,43 @@
+{
+  "id": "regions",
+  "title": "PM2.5 by continent",
+  "description": "Population-weighted PM2.5 by continent, latest year (SatPM).",
+  "records": [
+    {
+      "region": "Asia",
+      "year": 2024,
+      "pm25": 35.8,
+      "source": "satpm"
+    },
+    {
+      "region": "Africa",
+      "year": 2024,
+      "pm25": 31.9,
+      "source": "satpm"
+    },
+    {
+      "region": "South America",
+      "year": 2024,
+      "pm25": 17.4,
+      "source": "satpm"
+    },
+    {
+      "region": "Europe",
+      "year": 2024,
+      "pm25": 11.7,
+      "source": "satpm"
+    },
+    {
+      "region": "North America",
+      "year": 2024,
+      "pm25": 11.7,
+      "source": "satpm"
+    },
+    {
+      "region": "Oceania",
+      "year": 2024,
+      "pm25": 6.8,
+      "source": "satpm"
+    }
+  ]
+}

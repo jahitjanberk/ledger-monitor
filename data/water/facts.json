@@ -1,0 +1,103 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published headline figures on water risk, groundwater, drought and data centres, each from its report.",
+  "records": [
+    {
+      "id": "wri_quarter",
+      "label": "Countries facing extremely high water stress every year",
+      "value": 25,
+      "unit": "countries",
+      "note": "Home to a quarter of the world's population",
+      "source": "wri-2023"
+    },
+    {
+      "id": "wri_4bn",
+      "label": "People living with high water stress at least one month a year",
+      "value": 4000000000,
+      "unit": "people",
+      "note": "At least 50% of the world's population",
+      "source": "wri-2023"
+    },
+    {
+      "id": "wri_2050_people",
+      "label": "Extra people expected to face extremely high water stress by 2050",
+      "value": 1000000000,
+      "unit": "people",
+      "source": "wri-2023"
+    },
+    {
+      "id": "wri_2050_demand",
+      "label": "Projected growth in global water demand by 2050",
+      "value": "20-25",
+      "unit": "%",
+      "source": "wri-2023"
+    },
+    {
+      "id": "grace_pop",
+      "label": "Share of the world's population living in countries losing freshwater",
+      "value": 75,
+      "unit": "%",
+      "note": "101 countries",
+      "source": "grace-2025"
+    },
+    {
+      "id": "grace_gw",
+      "label": "Share of continental water storage loss that is groundwater",
+      "value": 68,
+      "unit": "%",
+      "source": "grace-2025"
+    },
+    {
+      "id": "unccd_hunger",
+      "label": "People facing acute hunger in Eastern and Southern Africa during the 2023-25 droughts",
+      "value": 90000000,
+      "unit": "people",
+      "source": "unccd-2025"
+    },
+    {
+      "id": "unccd_zim",
+      "label": "Fall in Zimbabwe's 2024 maize crop",
+      "value": 70,
+      "unit": "%",
+      "source": "unccd-2025"
+    },
+    {
+      "id": "unccd_olive",
+      "label": "Fall in Spain's olive crop by September 2023",
+      "value": 50,
+      "unit": "%",
+      "source": "unccd-2025"
+    },
+    {
+      "id": "unccd_panama",
+      "label": "Daily Panama Canal transits, October 2023 to January 2024",
+      "value": "38 to 24",
+      "unit": "ships a day",
+      "source": "unccd-2025"
+    },
+    {
+      "id": "dc_direct",
+      "label": "Water US data centres consumed on site for cooling, 2023",
+      "value": 64000000000,
+      "unit": "litres",
+      "note": "About 17 billion US gallons",
+      "source": "lbnl-2024"
+    },
+    {
+      "id": "dc_indirect",
+      "label": "Water consumed generating US data centres' electricity, 2023",
+      "value": 800000000000,
+      "unit": "litres",
+      "note": "About 211 billion US gallons",
+      "source": "lbnl-2024"
+    },
+    {
+      "id": "jmp_without",
+      "label": "People without safely managed drinking water, 2024",
+      "value": 2143285200,
+      "unit": "people",
+      "source": "jmp-2025"
+    }
+  ]
+}

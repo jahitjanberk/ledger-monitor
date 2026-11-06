@@ -1,0 +1,6 @@
+metric,label,value,source,currency
+uk_reimbursed,UK APP losses reimbursed by banks,0.61,ukfinance-2026,
+sg_recovered,Singapore losses recovered by police,140500000,spf-2025,SGD
+ca_reported_low,Share of Canadian frauds reported (low),0.05,cafc-2025-release,
+ca_reported_high,Share of Canadian frauds reported (high),0.1,cafc-2025-release,
+gasa_recovered,Victims worldwide who recovered their losses,0.04,gasa-global-2024,

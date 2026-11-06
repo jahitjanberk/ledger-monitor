@@ -1,0 +1,66 @@
+{
+  "variant": "water",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "stress",
+      "title": "Water stress by country",
+      "description": "SDG 6.4.2: freshwater withdrawn as a share of renewable freshwater left after environmental flows, latest year reported (mostly 2023), with the severity class and the 2015 value.",
+      "rows": 182
+    },
+    {
+      "id": "regions",
+      "title": "Water stress by SDG region",
+      "description": "SDG 6.4.2 regional aggregates for 2023 from the UN-Water SDG 6 Data Portal.",
+      "rows": 9
+    },
+    {
+      "id": "trend",
+      "title": "World water stress over time",
+      "description": "SDG 6.4.2 world value by year.",
+      "rows": 24
+    },
+    {
+      "id": "bands",
+      "title": "Severity classes",
+      "description": "The SDG 6.4.2 severity classes used to colour the map.",
+      "rows": 5
+    },
+    {
+      "id": "sectors",
+      "title": "Withdrawals by sector",
+      "description": "Share of freshwater withdrawals going to agriculture, industry and domestic use, latest year (AQUASTAT via the World Bank).",
+      "rows": 179
+    },
+    {
+      "id": "resources",
+      "title": "Water per person",
+      "description": "Renewable internal freshwater resources and total water withdrawal per person, latest year (AQUASTAT).",
+      "rows": 186
+    },
+    {
+      "id": "drinking",
+      "title": "Safely managed drinking water by country",
+      "description": "Share of people using safely managed drinking water, and the number not doing so, 2024 or latest (WHO/UNICEF JMP).",
+      "rows": 163
+    },
+    {
+      "id": "ladder",
+      "title": "World drinking water ladder",
+      "description": "Share of the world's population on each rung of the JMP drinking water ladder, 2024.",
+      "rows": 5
+    },
+    {
+      "id": "income",
+      "title": "Drinking water by income group",
+      "description": "Share using safely managed drinking water by World Bank income group, 2024.",
+      "rows": 4
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published headline figures on water risk, groundwater, drought and data centres, each from its report.",
+      "rows": 13
+    }
+  ]
+}

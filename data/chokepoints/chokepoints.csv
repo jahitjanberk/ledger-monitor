@@ -1,0 +1,29 @@
+chokepoint,portid,lat,lon,geo_source,eia_name,oil_mbd_1h25,oil_mbd_2023,oil_source,transits_2025,transits_since_closure,transits_change_pct,transits_source
+Suez Canal,chokepoint1,30.593,32.437,portwatch-db,Suez Canal and SUMED Pipeline,4.9,8.8,eia-chokepoints,38.5,41.1,6.8,portwatch
+Panama Canal,chokepoint2,9.121,-79.767,portwatch-db,Panama Canal,2.3,2.2,eia-chokepoints,,,,
+Bosporus Strait,chokepoint3,41.169,29.092,portwatch-db,Turkish Straits (Dardanelles),3.7,3.5,eia-chokepoints,,,,
+Bab el-Mandeb Strait,chokepoint4,12.789,43.35,portwatch-db,Bab el-Mandeb,4.2,9.3,eia-chokepoints,33.5,32.7,-2.4,portwatch
+Malacca Strait,chokepoint5,1.517,102.665,portwatch-db,Strait of Malacca,23.2,24.0,eia-chokepoints,,,,
+Strait of Hormuz,chokepoint6,26.297,56.86,portwatch-db,Strait of Hormuz,20.9,21.8,eia-chokepoints,85.5,6.1,-92.9,portwatch
+Cape of Good Hope,chokepoint7,-34.927,20.883,portwatch-db,Cape of Good Hope,9.1,6.2,eia-chokepoints,89.5,91.2,1.9,portwatch
+Gibraltar Strait,chokepoint8,35.942,-5.755,portwatch-db,,,,,,,,
+Dover Strait,chokepoint9,51.03,1.506,portwatch-db,,,,,,,,
+Oresund Strait,chokepoint10,55.508,12.851,portwatch-db,Danish Straits,4.9,5.0,eia-chokepoints,,,,
+Taiwan Strait,chokepoint11,24.724,119.831,portwatch-db,,,,,,,,
+Korea Strait,chokepoint12,34.131,129.209,portwatch-db,,,,,,,,
+Tsugaru Strait,chokepoint13,41.328,140.353,portwatch-db,,,,,,,,
+Luzon Strait,chokepoint14,20.489,121.352,portwatch-db,,,,,,,,
+Lombok Strait,chokepoint15,-8.419,115.801,portwatch-db,,,,,,,,
+Ombai Strait,chokepoint16,-8.399,125.091,portwatch-db,,,,,,,,
+Bohai Strait,chokepoint17,38.373,120.9,portwatch-db,,,,,,,,
+Torres Strait,chokepoint18,-9.863,142.248,portwatch-db,,,,,,,,
+Sunda Strait,chokepoint19,-5.967,105.775,portwatch-db,,,,,,,,
+Makassar Strait,chokepoint20,0.352,119.257,portwatch-db,,,,,,,,
+Magellan Strait,chokepoint21,-52.64,-69.595,portwatch-db,,,,,,,,
+Yucatan Channel,chokepoint22,21.815,-85.647,portwatch-db,,,,,,,,
+Windward Passage,chokepoint23,19.986,-73.698,portwatch-db,,,,,,,,
+Mona Passage,chokepoint24,18.449,-67.711,portwatch-db,,,,,,,,
+Balabac Strait,chokepoint25,7.414,117.115,portwatch-db,,,,,,,,
+Bering Strait,chokepoint26,65.966,-165.55,portwatch-db,,,,,,,,
+Mindoro Strait,chokepoint27,12.468,120.403,portwatch-db,,,,,,,,
+Kerch Strait,chokepoint28,45.267,36.544,portwatch-db,,,,,,,,

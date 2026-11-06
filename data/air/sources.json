@@ -1,0 +1,59 @@
+{
+  "sources": {
+    "satpm": {
+      "publisher": "Atmospheric Composition Analysis Group, Washington University in St. Louis (processed by Our World in Data)",
+      "title": "SatPM: population-weighted PM2.5 exposure",
+      "url": "https://sites.wustl.edu/acag/datasets/surface-pm2-5/",
+      "published": "2026-04-22",
+      "method": "reference",
+      "notes": "Annual average fine particulate matter (PM2.5) concentration people are exposed to, estimated from satellite observations, models and ground monitors, weighted by where people live. µg/m³."
+    },
+    "who-sdg1162": {
+      "publisher": "World Health Organization via the UN SDG database (processed by Our World in Data)",
+      "title": "SDG 11.6.2: annual mean levels of fine particulate matter, population-weighted",
+      "url": "https://unstats.un.org/sdgs/dataportal",
+      "published": "2026-07-31",
+      "method": "reference",
+      "notes": "WHO's official estimate, 2023. Shown alongside SatPM for comparison."
+    },
+    "ihme-gbd2023": {
+      "publisher": "IHME, Global Burden of Disease Study 2023 (processed by Our World in Data)",
+      "title": "Deaths attributed to air pollution",
+      "url": "https://vizhub.healthdata.org/gbd-results/",
+      "published": "2026-02-07",
+      "method": "reference",
+      "notes": "Modelled estimates of deaths from all causes attributable to ambient particulate matter, household air pollution from solid fuels, and ambient ozone, 2023."
+    },
+    "comeap-who-aqg": {
+      "publisher": "UK Committee on the Medical Effects of Air Pollutants (COMEAP)",
+      "title": "Advice on health evidence relevant to setting PM2.5 targets: update (on the WHO 2021 guidelines)",
+      "url": "https://assets.publishing.service.gov.uk/media/623075a3d3bf7f5a89aecec3/COMEAP_WHO_AQG_-_Defra_PM2.5_targets_advice__2_.pdf",
+      "published": "2022-01",
+      "method": "reference",
+      "notes": "The WHO's 2021 guideline for annual average PM2.5 is 5 µg/m³; the previous guideline was 10."
+    },
+    "who-factsheet": {
+      "publisher": "World Health Organization (via the Climate and Clean Air Coalition)",
+      "title": "Ambient air pollution factsheet",
+      "url": "https://www.ccacoalition.org/resources/ambient-air-pollution-factsheet",
+      "published": "2024",
+      "method": "reference"
+    },
+    "iqair-2025": {
+      "publisher": "IQAir",
+      "title": "2025 World Air Quality Report: only 14% of cities meet WHO air pollution guideline",
+      "url": "https://www.iqair.com/us/newsroom/waqr-2025-pr",
+      "published": "2026-03-24",
+      "method": "reference",
+      "notes": "Ground monitor data from 9,446 cities in 143 countries, regions and territories."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

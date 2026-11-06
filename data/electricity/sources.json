@@ -1,0 +1,35 @@
+{
+  "sources": {
+    "ember-yearly": {
+      "publisher": "Ember (processed by Our World in Data)",
+      "title": "Yearly Electricity Data, 2026 release",
+      "url": "https://ember-energy.org/data/yearly-electricity-data/",
+      "published": "2026-04-24",
+      "method": "reported",
+      "notes": "Generation by source and carbon intensity (life-cycle, g CO2e per kWh), compiled by Ember from national and international statistics. Licensed CC BY 4.0. Taken from Our World in Data's energy dataset (github.com/owid/energy-data). Countries without 2025 data show 2024."
+    },
+    "ember-ger-2026": {
+      "publisher": "Ember",
+      "title": "Global Electricity Review 2026",
+      "url": "https://ember-energy.org/latest-insights/global-electricity-review-2026/",
+      "published": "2026-04-21",
+      "method": "reported"
+    },
+    "iom3-ratcliffe": {
+      "publisher": "IOM3 (Institute of Materials, Minerals and Mining)",
+      "title": "Last UK coal-fired power station closes",
+      "url": "https://iom3.org/resource/last-uk-coal-fired-power-station-closes.html",
+      "published": "2024-09-30",
+      "method": "reference",
+      "notes": "Ratcliffe-on-Soar, end date 1 October 2024."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

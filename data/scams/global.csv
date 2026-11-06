@@ -1,0 +1,11 @@
+metric,label,value,source
+global_losses,Estimated global losses,442000000000,gasa-global-2025-coverage
+encountered,Adults who encountered a scam,0.57,gasa-global-2025
+lost_money,Adults who lost money,0.23,gasa-global-2025
+confident,Adults confident they can spot a scam,0.73,gasa-global-2025
+stress,Victims reporting stress,0.69,gasa-global-2025
+respondents,Survey respondents,46000,gasa-global-2025
+markets,Markets surveyed,42,gasa-global-2025
+type_shopping,Shopping,0.54,gasa-global-2025
+type_investment,Investment,0.48,gasa-global-2025
+type_unexpected,Unexpected money or prize,0.48,gasa-global-2025

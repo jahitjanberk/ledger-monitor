@@ -1,0 +1,43 @@
+{
+  "sources": {
+    "unoosa": {
+      "publisher": "UN Office for Outer Space Affairs (processed by Our World in Data)",
+      "title": "Online Index of Objects Launched into Outer Space",
+      "url": "https://www.unoosa.org/oosa/osoindex/search-ng.jspx",
+      "published": "2026-02-25",
+      "method": "reported",
+      "notes": "Satellites, probes, landers, crewed spacecraft and space station parts registered by the launching state or organisation, by year of launch. Debris and rocket bodies are not counted. Late registrations mean recent years can rise."
+    },
+    "ussf": {
+      "publisher": "US Space Force, 18th Space Defense Squadron (processed by Our World in Data)",
+      "title": "Number of objects in space (Space-Track catalogue)",
+      "url": "https://www.space-track.org/",
+      "published": "2026-01-08",
+      "method": "reported",
+      "notes": "Tracked objects still in orbit at the end of each year; objects that re-enter are removed. Small debris is not tracked."
+    },
+    "esa-2025": {
+      "publisher": "European Space Agency",
+      "title": "ESA Space Environment Report 2025",
+      "url": "https://www.esa.int/Space_Safety/Space_Debris/ESA_Space_Environment_Report_2025",
+      "published": "2025-04-01",
+      "method": "reference",
+      "notes": "Data to the end of 2024."
+    },
+    "mcdowell-2026": {
+      "publisher": "Washington Times, reporting tracking data compiled by Jonathan McDowell",
+      "title": "SpaceX crosses 10,000-satellite threshold, owning two-thirds of active satellites",
+      "url": "https://m.washingtontimes.com/news/2026/mar/17/spacex-crosses-10000-satellite-threshold-owning-two-thirds-active/",
+      "published": "2026-03-17",
+      "method": "reference"
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

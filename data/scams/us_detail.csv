@@ -1,0 +1,7 @@
+metric,label,agency,value,source
+ic3_investment,Investment fraud,FBI IC3,8648617756,fbi-ic3-2025-coverage
+ic3_bec,Business email compromise,FBI IC3,3046598558,fbi-ic3-2025-coverage
+ic3_ai,Complaints referencing AI,FBI IC3,893346472,fbi-ic3-2025-coverage
+ftc_total,All fraud reported to the FTC,FTC,15900000000,ftc-2026-testimony
+ftc_investment,Investment scams,FTC,7900000000,ftc-2026-imposters
+ftc_imposter,Imposter scams,FTC,3500000000,ftc-2026-imposters

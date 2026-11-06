@@ -1,0 +1,9 @@
+id,label,value,unit,note,source
+closure,IRGC announced the Strait of Hormuz closed,2026-03-02,date,After US and Israeli strikes on Iran on 28 February,aljazeera-2026-08
+mou,Interim US-Iran agreement raised Hormuz traffic to about 20 ships a day,2026-06-17,date,,aljazeera-2026-08
+blockade,US resumed its blockade and traffic fell back to about five a day,2026-07-14,date,,aljazeera-2026-08
+crude_share,Share of global seaborne crude flows that passed through Hormuz before the war,38,%,"LPG 29%, LNG 19% (UNCTAD)",aljazeera-2026-08
+gulf_exports,"Gulf crude exports, 2025 to August 2026",17 to 9,million barrels a day,Down 47%,aljazeera-2026-08
+oil_peak,"Oil price peak, April 2026",130,US$ a barrel,Above; about 20% above pre-war levels in late August,aljazeera-2026-08
+hormuz_quarter,"Share of the world's seaborne oil trade through Hormuz, first half of 2025",25,%,,eia-chokepoints
+suez_60,Suez Canal transits in the first week of 2026 against the same week of 2023,-60,%,Before ships began diverting around Africa,bimco-2026-01

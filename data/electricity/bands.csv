@@ -1,0 +1,6 @@
+band,min_g_kwh,max_g_kwh,source
+Under 100,0,100,ember-yearly
+100 to 250,100,250,ember-yearly
+250 to 400,250,400,ember-yearly
+400 to 600,400,600,ember-yearly
+600 or more,600,,ember-yearly

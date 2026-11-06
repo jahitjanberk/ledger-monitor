@@ -1,0 +1,37 @@
+{
+  "id": "bands",
+  "title": "Severity classes",
+  "description": "The SDG 6.4.2 severity classes used to colour the map.",
+  "records": [
+    {
+      "band": "No stress",
+      "min_pct": 0,
+      "max_pct": 25,
+      "source": "sdg642-meta"
+    },
+    {
+      "band": "Low",
+      "min_pct": 25,
+      "max_pct": 50,
+      "source": "sdg642-meta"
+    },
+    {
+      "band": "Medium",
+      "min_pct": 50,
+      "max_pct": 75,
+      "source": "sdg642-meta"
+    },
+    {
+      "band": "High",
+      "min_pct": 75,
+      "max_pct": 100,
+      "source": "sdg642-meta"
+    },
+    {
+      "band": "Critical",
+      "min_pct": 100,
+      "max_pct": null,
+      "source": "sdg642-meta"
+    }
+  ]
+}

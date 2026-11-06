@@ -1,0 +1,4787 @@
+{
+  "id": "cables",
+  "title": "Submarine cables (2021 snapshot)",
+  "description": "Cable systems in TeleGeography's Submarine Cable Map as of its January 2021 open-data snapshot: length, ready-for-service year, owners and the countries each one lands in (separated by |).",
+  "records": [
+    {
+      "id": "2africa",
+      "name": "2Africa",
+      "length_km": 37000,
+      "rfs": "2023",
+      "landings": 29,
+      "source": "telegeography-2021",
+      "owners": null,
+      "countries": null
+    },
+    {
+      "id": "2africa",
+      "name": "2Africa",
+      "length_km": null,
+      "rfs": null,
+      "landings": 0,
+      "source": "telegeography-2021",
+      "owners": null,
+      "countries": null
+    },
+    {
+      "id": "acs-alaska-oregon-network-akorn",
+      "name": "ACS Alaska-Oregon Network (AKORN)",
+      "length_km": 3000,
+      "rfs": "2009 April",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Alaska Communications",
+      "countries": "United States"
+    },
+    {
+      "id": "aeconnect-1",
+      "name": "AEConnect-1",
+      "length_km": 5536,
+      "rfs": "2016 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Aqua Comms",
+      "countries": "Ireland|United States"
+    },
+    {
+      "id": "alba-1",
+      "name": "ALBA-1",
+      "length_km": 1860,
+      "rfs": "2012 August",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Transbit, Telecom Venezuela",
+      "countries": "Cuba|Jamaica|Venezuela"
+    },
+    {
+      "id": "alpal-2",
+      "name": "ALPAL-2",
+      "length_km": 312,
+      "rfs": "2002 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Orange, Algerie Telecom, Telxius",
+      "countries": "Algeria|Spain"
+    },
+    {
+      "id": "apcn-2",
+      "name": "APCN-2",
+      "length_km": 19000,
+      "rfs": "2001 December",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "Singtel, Verizon, KDDI, Chunghwa Telecom, AT&T, BT, Orange, Softbank Corp, NTT, Tata Communications, Telekom Malaysia, Starhub, PLDT, China Unicom, KT, Singtel Optus, Telstra, PCCW, China Telecom, LG Uplus, HKBN Enterprise Solutions, Vodafone",
+      "countries": "China|Japan|Malaysia|Philippines|Singapore|South Korea|Taiwan"
+    },
+    {
+      "id": "arcos",
+      "name": "ARCOS",
+      "length_km": 8600,
+      "rfs": "2001 December",
+      "landings": 23,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks, CANTV, Codetel, Hondutel, Belize Telemedia, Enitel, AT&T, Alestra, Verizon, RACSA, United Telecommunication Services (UTS), Telecarrier, Tricom USA, Telecomunicaciones Ultramarinas de Puerto Rico, Internexa, Orbinet Overseas, Telepuerto San Isidro, Bahamas Telecommunications Company, Instituto Costarricense de Electricidad, Orbitel",
+      "countries": "Bahamas|Belize|Colombia|Costa Rica|Curaçao|Dominican Republic|Guatemala|Honduras|Mexico|Nicaragua|Panama|Turks and Caicos Islands|United States|Venezuela"
+    },
+    {
+      "id": "arsat-submarine-fiber-optic-cable",
+      "name": "ARSAT Submarine Fiber Optic Cable",
+      "length_km": 40,
+      "rfs": "2012 Q2",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "ARSAT",
+      "countries": "Argentina"
+    },
+    {
+      "id": "au-aleutian",
+      "name": "AU-Aleutian",
+      "length_km": 1311,
+      "rfs": "2022",
+      "landings": 12,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "aurora-cable-system",
+      "name": "AURORA Cable System",
+      "length_km": 5500,
+      "rfs": "2022 October",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "FP Telecommunications",
+      "countries": "Colombia|Ecuador|Guatemala|Honduras|Mexico|Panama|United States"
+    },
+    {
+      "id": "aden-djibouti",
+      "name": "Aden-Djibouti",
+      "length_km": 269,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Djibouti Telecom, TeleYemen, Tata Communications, Orange, Telecom Italia Sparkle",
+      "countries": "Djibouti|Yemen"
+    },
+    {
+      "id": "adria-1",
+      "name": "Adria-1",
+      "length_km": 440,
+      "rfs": "1996 September",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "T-Hrvatski Telekom, Albania Telecom",
+      "countries": "Albania|Croatia|Greece"
+    },
+    {
+      "id": "africa-coast-to-europe-ace",
+      "name": "Africa Coast to Europe (ACE)",
+      "length_km": 17000,
+      "rfs": "2012 December",
+      "landings": 22,
+      "source": "telegeography-2021",
+      "owners": "Orange, Dolphin Telecom, Cote d’Ivoire Telecom, Gambia Submarine Cable Company, MTN, Orange Cameroun, Sonatel, Cable Consortium of Liberia, STP Cabo, International Mauritania Telecom, Canalink, Orange Mali, Orange Niger, Republic of Equatorial Guinea, Sierra Leone Cable Company, GUILAB, Benin ACE GIE, Republic of Gabon, Republic of Guinea Bissau, Republic of Cameroon",
+      "countries": "Angola|Benin|Cameroon|Congo, Dem. Rep.|Côte d'Ivoire|Equatorial Guinea|France|Gabon|Gambia|Ghana|Guinea|Guinea-Bissau|Liberia|Mauritania|Namibia|Nigeria|Portugal|Sao Tome and Principe|Senegal|Sierra Leone|South Africa|Spain"
+    },
+    {
+      "id": "alaska-united-east-au-east",
+      "name": "Alaska United East (AU-East)",
+      "length_km": 3751,
+      "rfs": "1999 February",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "alaska-united-southeast-au-se",
+      "name": "Alaska United Southeast (AU-SE)",
+      "length_km": 626,
+      "rfs": "2008 November",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "alaska-united-turnagain-arm-auta",
+      "name": "Alaska United Turnagain Arm (AUTA)",
+      "length_km": 53,
+      "rfs": "2012",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "alaska-united-west-au-west",
+      "name": "Alaska United West (AU-West)",
+      "length_km": 2485,
+      "rfs": "2004 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "aletar",
+      "name": "Aletar",
+      "length_km": 787,
+      "rfs": "1997 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Syrian Telecommunications Establishment, Telecom Egypt, Liban Telecom",
+      "countries": "Egypt|Syria"
+    },
+    {
+      "id": "alonso-de-ojeda",
+      "name": "Alonso de Ojeda",
+      "length_km": 128,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "Aruba|Curaçao"
+    },
+    {
+      "id": "america-movil-submarine-cable-system-1-amx-1",
+      "name": "America Movil Submarine Cable System-1 (AMX-1)",
+      "length_km": 17800,
+      "rfs": "2014",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "América Móvil",
+      "countries": "Brazil|Colombia|Dominican Republic|Guatemala|Mexico|United States"
+    },
+    {
+      "id": "americas-i-north",
+      "name": "Americas-I North",
+      "length_km": 2012,
+      "rfs": "1994 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "United States"
+    },
+    {
+      "id": "americas-ii",
+      "name": "Americas-II",
+      "length_km": 8373,
+      "rfs": "2000 August",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Embratel, AT&T, Verizon, Sprint, CANTV, Tata Communications, CNT, Orange, Altice Portugal, C&W Networks, Telecom Italia Sparkle, Lumen",
+      "countries": "Brazil|Curaçao|French Guiana|Martinique|Trinidad and Tobago|United States|Venezuela"
+    },
+    {
+      "id": "amerigo-vespucci",
+      "name": "Amerigo Vespucci",
+      "length_km": 85,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Antelecom",
+      "countries": "Curaçao|Netherlands"
+    },
+    {
+      "id": "amitie",
+      "name": "Amitie",
+      "length_km": 7292,
+      "rfs": "2022 Q1",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Facebook, Vodafone, Microsoft, Aqua Comms, Orange",
+      "countries": "France|United Kingdom|United States"
+    },
+    {
+      "id": "antillas-1",
+      "name": "Antillas 1",
+      "length_km": 650,
+      "rfs": "1997 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "AT&T, Verizon, Sprint, Tata Communications, Orange, C&W Networks, Telecom Italia Sparkle, Embratel",
+      "countries": "Dominican Republic|United States"
+    },
+    {
+      "id": "aphrodite-2",
+      "name": "Aphrodite 2",
+      "length_km": 868,
+      "rfs": "1994 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "Cyprus|Greece"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "length_km": 13000,
+      "rfs": "2003 February",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Vodafone",
+      "countries": "France|United Kingdom|United States"
+    },
+    {
+      "id": "aqualink",
+      "name": "Aqualink",
+      "length_km": null,
+      "rfs": "2001 December",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Telstra",
+      "countries": "New Zealand"
+    },
+    {
+      "id": "asia-africa-europe-1-aae-1",
+      "name": "Asia Africa Europe-1 (AAE-1)",
+      "length_km": 25000,
+      "rfs": "2017 June",
+      "landings": 20,
+      "source": "telegeography-2021",
+      "owners": "China Unicom, Telecom Egypt, Etisalat, Omantel, Djibouti Telecom, OTEGLOBE, Pakistan Telecommunications Company Ltd., PCCW, Ooredoo, Mobily, Viettel Corporation, TeleYemen, Retelit, Reliance Jio Infocom, VNPT International, Metfone, Hyalroute, TIME dotCom",
+      "countries": "Cambodia|China|Djibouti|Egypt|France|Greece|India|Italy|Malaysia|Myanmar|Oman|Pakistan|Qatar|Saudi Arabia|Thailand|United Arab Emirates|Vietnam|Yemen"
+    },
+    {
+      "id": "asia-direct-cable-adc",
+      "name": "Asia Direct Cable (ADC)",
+      "length_km": 9400,
+      "rfs": "2022 Q4",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "PLDT, CAT Telecom Public Company Limited, China Telecom, China Unicom, Singtel, Softbank Corp, Tata Communications, Viettel Corporation",
+      "countries": "China|Japan|Philippines|Singapore|Thailand|Vietnam"
+    },
+    {
+      "id": "asia-pacific-gateway-apg",
+      "name": "Asia Pacific Gateway (APG)",
+      "length_km": 10400,
+      "rfs": "2016 November",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "NTT, China Telecom, China Unicom, Chunghwa Telecom, KT, Starhub, LG Uplus, China Mobile, Viettel Corporation, VNPT International, Facebook, TIME dotCom",
+      "countries": "China|Japan|Malaysia|Singapore|South Korea|Taiwan|Thailand|Vietnam"
+    },
+    {
+      "id": "asia-submarine-cable-express-asecahaya-malaysia",
+      "name": "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+      "length_km": 8148,
+      "rfs": "2012 August",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "NTT, PLDT, Telekom Malaysia, Starhub",
+      "countries": "China|Japan|Malaysia|Philippines|Singapore"
+    },
+    {
+      "id": "asia-america-gateway-aag-cable-system",
+      "name": "Asia-America Gateway (AAG) Cable System",
+      "length_km": 20000,
+      "rfs": "2009 November",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "Telekom Malaysia, AT&T, Starhub, PLDT, CAT Telecom Public Company Limited, Airtel (Bharti), Telstra, Telkom Indonesia, BT, Eastern Telecom, Indosat Ooredoo, Spark New Zealand, Viettel Corporation, Saigon Postel Corporation, VNPT International, BayanTel, Ezecom, Unified National Networks (UNN)",
+      "countries": "Brunei|China|Malaysia|Philippines|Singapore|Thailand|United States|Vietnam"
+    },
+    {
+      "id": "atisa",
+      "name": "Atisa",
+      "length_km": 279,
+      "rfs": "2017 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Docomo Pacific",
+      "countries": "Northern Mariana Islands|United States"
+    },
+    {
+      "id": "atlantic-crossing-1-ac-1",
+      "name": "Atlantic Crossing-1 (AC-1)",
+      "length_km": 14301,
+      "rfs": "1998 May",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "Germany|Netherlands|United Kingdom|United States"
+    },
+    {
+      "id": "atlantis-2",
+      "name": "Atlantis-2",
+      "length_km": 8500,
+      "rfs": "2000 February",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Embratel, Deutsche Telekom, Telecom Italia Sparkle, Telecom Argentina, Telxius, Altice Portugal, Orange, Telefónica Larga Distancia de Puerto Rico, AT&T, BICS, KT, Singtel, Tata Communications, Verizon, BT, Orange Polska",
+      "countries": "Argentina|Brazil|Cape Verde|Portugal|Senegal|Spain"
+    },
+    {
+      "id": "atlas-offshore",
+      "name": "Atlas Offshore",
+      "length_km": 1634,
+      "rfs": "2007 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Maroc Telecom",
+      "countries": "France|Morocco"
+    },
+    {
+      "id": "australia-japan-cable-ajc",
+      "name": "Australia-Japan Cable (AJC)",
+      "length_km": 12700,
+      "rfs": "2001 December",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Softbank Corp, Telstra, Verizon, AT&T, NTT",
+      "countries": "Australia|Japan|United States"
+    },
+    {
+      "id": "australia-papua-new-guinea-2-apng-2",
+      "name": "Australia-Papua New Guinea-2 (APNG-2)",
+      "length_km": 1800,
+      "rfs": "2006",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telikom Papua New Guinea, Telstra",
+      "countries": "Australia|Papua New Guinea"
+    },
+    {
+      "id": "australia-singapore-cable-asc",
+      "name": "Australia-Singapore Cable (ASC)",
+      "length_km": 4600,
+      "rfs": "2018 September",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Vocus Communications",
+      "countries": "Australia|Christmas Island|Indonesia|Singapore"
+    },
+    {
+      "id": "avassa",
+      "name": "Avassa",
+      "length_km": 260,
+      "rfs": "2016 November",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Comoros Telecom, STOI",
+      "countries": "Comoros|Mayotte"
+    },
+    {
+      "id": "azerbaijan-turkmenistan",
+      "name": "Azerbaijan-Turkmenistan",
+      "length_km": 300,
+      "rfs": "2021 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Azertelecom, Turkmentelecom",
+      "countries": "Azerbaijan|Turkmenistan"
+    },
+    {
+      "id": "azores-fiber-optic-system-afos",
+      "name": "Azores Fiber Optic System (AFOS)",
+      "length_km": 1100,
+      "rfs": "1998 July",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Altice Portugal",
+      "countries": "Portugal"
+    },
+    {
+      "id": "balok",
+      "name": "BALOK",
+      "length_km": 60,
+      "rfs": "2016 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "bcs-east",
+      "name": "BCS East",
+      "length_km": 8,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Latvia|Lithuania"
+    },
+    {
+      "id": "bcs-east-west-interlink",
+      "name": "BCS East-West Interlink",
+      "length_km": 218,
+      "rfs": "1997 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Lithuania|Sweden"
+    },
+    {
+      "id": "bcs-north---phase-1",
+      "name": "BCS North - Phase 1",
+      "length_km": 513,
+      "rfs": "1998",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Finland|Sweden"
+    },
+    {
+      "id": "bcs-north---phase-2",
+      "name": "BCS North - Phase 2",
+      "length_km": 4,
+      "rfs": "2000",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Finland|Russia"
+    },
+    {
+      "id": "berytar",
+      "name": "BERYTAR",
+      "length_km": 134,
+      "rfs": "1997 April",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Syrian Telecommunications Establishment, Lebanese Ministry of Telecommunications",
+      "countries": "Lebanon|Syria"
+    },
+    {
+      "id": "bkk-digitek",
+      "name": "BKK Digitek",
+      "length_km": 210,
+      "rfs": "2020 Q2",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "BKK Digitek",
+      "countries": "Norway"
+    },
+    {
+      "id": "brusa",
+      "name": "BRUSA",
+      "length_km": 11000,
+      "rfs": "2018 August",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telxius",
+      "countries": "Brazil|United States"
+    },
+    {
+      "id": "bt-highlands-and-islands-submarine-cable-system",
+      "name": "BT Highlands and Islands Submarine Cable System",
+      "length_km": 402,
+      "rfs": "2014 December",
+      "landings": 40,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "bt-north-sea",
+      "name": "BT North Sea",
+      "length_km": null,
+      "rfs": "2021",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "Belgium|Netherlands|United Kingdom"
+    },
+    {
+      "id": "bt-mt-1",
+      "name": "BT-MT-1",
+      "length_km": 80,
+      "rfs": "1990",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "BT, Manx Telecom",
+      "countries": "Isle of Man|United Kingdom"
+    },
+    {
+      "id": "bugio",
+      "name": "BUGIO",
+      "length_km": 73,
+      "rfs": "1996 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Altice Portugal",
+      "countries": "Portugal"
+    },
+    {
+      "id": "bahamas-2",
+      "name": "Bahamas 2",
+      "length_km": 470,
+      "rfs": "1997 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "AT&T, Telefonica, Verizon",
+      "countries": "Bahamas|United States"
+    },
+    {
+      "id": "bahamas-domestic-submarine-network-bdsni",
+      "name": "Bahamas Domestic Submarine Network (BDSNi)",
+      "length_km": 2817,
+      "rfs": "2006",
+      "landings": 15,
+      "source": "telegeography-2021",
+      "owners": "Bahamas Telecommunications Company, Teleco",
+      "countries": "Bahamas|Haiti"
+    },
+    {
+      "id": "bahamas-internet-cable-system-bics",
+      "name": "Bahamas Internet Cable System (BICS)",
+      "length_km": 1100,
+      "rfs": "2001 July",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "Caribbean Crossings",
+      "countries": "Bahamas|United States"
+    },
+    {
+      "id": "balalink",
+      "name": "Balalink",
+      "length_km": 274,
+      "rfs": "2001 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "IslaLink",
+      "countries": "Spain"
+    },
+    {
+      "id": "baltic-sea-submarine-cable",
+      "name": "Baltic Sea Submarine Cable",
+      "length_km": 1042,
+      "rfs": "2000",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "CITIC Telecom International",
+      "countries": "Estonia|Finland|Sweden"
+    },
+    {
+      "id": "baltica",
+      "name": "Baltica",
+      "length_km": 437,
+      "rfs": "1997 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Orange Polska, TDC Group, Telenor, Slovak Telekom, Ukrtelecom",
+      "countries": "Denmark|Poland|Sweden"
+    },
+    {
+      "id": "bass-strait-1",
+      "name": "Bass Strait-1",
+      "length_km": 241,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telstra",
+      "countries": "Australia"
+    },
+    {
+      "id": "bass-strait-2",
+      "name": "Bass Strait-2",
+      "length_km": 239,
+      "rfs": "2003",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telstra",
+      "countries": "Australia"
+    },
+    {
+      "id": "basslink",
+      "name": "Basslink",
+      "length_km": 298,
+      "rfs": "2005 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Basslink Telecoms",
+      "countries": "Australia"
+    },
+    {
+      "id": "batam-dumai-melaka-bdm-cable-system",
+      "name": "Batam Dumai Melaka (BDM) Cable System",
+      "length_km": 353,
+      "rfs": "2009 November",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Moratelindo, Telekom Malaysia",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "batam-sarawak-internet-cable-system-basics",
+      "name": "Batam Sarawak Internet Cable System (BaSICS)",
+      "length_km": 762,
+      "rfs": "2021 Q1",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "PP Telecommunication Sdn Bhd, XL Axiata",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "batam-singapore-cable-system-bscs",
+      "name": "Batam Singapore Cable System (BSCS)",
+      "length_km": 73,
+      "rfs": "2009",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "batam-rengit-cable-system-brcs",
+      "name": "Batam-Rengit Cable System (BRCS)",
+      "length_km": 64,
+      "rfs": "2007 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "bay-of-bengal-gateway-bbg",
+      "name": "Bay of Bengal Gateway (BBG)",
+      "length_km": 8100,
+      "rfs": "2016 Q1",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Vodafone, Telekom Malaysia, Omantel, Reliance Jio Infocom, Dialog Axiata, Etisalat, AT&T, China Telecom, Telstra",
+      "countries": "India|Malaysia|Oman|Sri Lanka|United Arab Emirates"
+    },
+    {
+      "id": "bharat-lanka-cable-system",
+      "name": "Bharat Lanka Cable System",
+      "length_km": 325,
+      "rfs": "2006 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Bharat Sanchar Nigam Ltd. (BSNL), Sri Lanka Telecom",
+      "countries": "India|Sri Lanka"
+    },
+    {
+      "id": "bicentenario",
+      "name": "Bicentenario",
+      "length_km": 250,
+      "rfs": "2011 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Antel Uruguay, Telecom Argentina",
+      "countries": "Argentina|Uruguay"
+    },
+    {
+      "id": "bluemed",
+      "name": "BlueMed",
+      "length_km": 1000,
+      "rfs": "2021",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle",
+      "countries": "Italy"
+    },
+    {
+      "id": "bodo-rost-cable",
+      "name": "Bodo-Rost Cable",
+      "length_km": 109,
+      "rfs": "2016",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telenor",
+      "countries": "Norway"
+    },
+    {
+      "id": "boracay-palawan-submarine-cable-system",
+      "name": "Boracay-Palawan Submarine Cable System",
+      "length_km": 332,
+      "rfs": "2013 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Globe Telecom",
+      "countries": "Philippines"
+    },
+    {
+      "id": "boriken-submarine-cable-system-bscs",
+      "name": "Boriken Submarine Cable System (BSCS)",
+      "length_km": 670,
+      "rfs": "2023 Q4",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Blackburn Technologies, LLC.",
+      "countries": "Dominican Republic|United States|Virgin Islands (U.S.)"
+    },
+    {
+      "id": "botnia",
+      "name": "Botnia",
+      "length_km": 93,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Finland|Sweden"
+    },
+    {
+      "id": "brazilian-festoon",
+      "name": "Brazilian Festoon",
+      "length_km": 2543,
+      "rfs": "1996",
+      "landings": 14,
+      "source": "telegeography-2021",
+      "owners": "Embratel",
+      "countries": "Brazil"
+    },
+    {
+      "id": "c-lion1",
+      "name": "C-Lion1",
+      "length_km": 1172,
+      "rfs": "2016 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Cinia Group Oy",
+      "countries": "Finland|Germany"
+    },
+    {
+      "id": "cadmos",
+      "name": "CADMOS",
+      "length_km": 230,
+      "rfs": "1995 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Cyta, Lebanese Ministry of Telecommunications, AT&T, Orange, Telekom Austria, Syrian Telecommunications Establishment, Telecom Italia Sparkle, Tata Communications, Deutsche Telekom",
+      "countries": "Cyprus|Lebanon"
+    },
+    {
+      "id": "cam-ring",
+      "name": "CAM Ring",
+      "length_km": 1120,
+      "rfs": "2003",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Altice Portugal",
+      "countries": "Portugal"
+    },
+    {
+      "id": "candalta",
+      "name": "CANDALTA",
+      "length_km": 110,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "cantat-3",
+      "name": "CANTAT-3",
+      "length_km": 2500,
+      "rfs": "1994 November",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Shefa",
+      "countries": "Denmark|Faroe Islands|Germany|Iceland"
+    },
+    {
+      "id": "cap-1",
+      "name": "CAP-1",
+      "length_km": 12000,
+      "rfs": "2022 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "China Mobile, Facebook, Amazon Web Services",
+      "countries": "Philippines|United States"
+    },
+    {
+      "id": "cobracable",
+      "name": "COBRAcable",
+      "length_km": 304,
+      "rfs": "2019 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Relined",
+      "countries": "Denmark|Netherlands"
+    },
+    {
+      "id": "cogim",
+      "name": "COGIM",
+      "length_km": 438,
+      "rfs": "2005",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Télébec",
+      "countries": "Canada"
+    },
+    {
+      "id": "confluence-1",
+      "name": "CONFLUENCE-1",
+      "length_km": 2571,
+      "rfs": "2022 Q4",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Confluence Networks",
+      "countries": "United States"
+    },
+    {
+      "id": "cabo-verde-telecom-domestic-submarine-cable-phase-1",
+      "name": "Cabo Verde Telecom Domestic Submarine Cable Phase 1",
+      "length_km": null,
+      "rfs": "1997",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Cabo Verde Telecom (CVT)",
+      "countries": "Cape Verde"
+    },
+    {
+      "id": "cabo-verde-telecom-domestic-submarine-cable-phase-2",
+      "name": "Cabo Verde Telecom Domestic Submarine Cable Phase 2",
+      "length_km": null,
+      "rfs": "2002",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Cabo Verde Telecom (CVT)",
+      "countries": "Cape Verde"
+    },
+    {
+      "id": "cabo-verde-telecom-domestic-submarine-cable-phase-3",
+      "name": "Cabo Verde Telecom Domestic Submarine Cable Phase 3",
+      "length_km": null,
+      "rfs": "2011",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "Cabo Verde Telecom (CVT)",
+      "countries": "Cape Verde"
+    },
+    {
+      "id": "canalink",
+      "name": "Canalink",
+      "length_km": 1835,
+      "rfs": "2011",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "IT3",
+      "countries": "Morocco|Spain"
+    },
+    {
+      "id": "caribbean-regional-communications-infrastructure-program-carcip",
+      "name": "Caribbean Regional Communications Infrastructure Program (CARCIP)",
+      "length_km": 225,
+      "rfs": "2019 June",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Digicel",
+      "countries": "Grenada|Saint Vincent and the Grenadines"
+    },
+    {
+      "id": "caribbean-bermuda-u-s-cbus",
+      "name": "Caribbean-Bermuda U.S. (CBUS)",
+      "length_km": 1600,
+      "rfs": "2009 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Bermuda|Virgin Islands (U.K.)"
+    },
+    {
+      "id": "caucasus-cable-system",
+      "name": "Caucasus Cable System",
+      "length_km": 1200,
+      "rfs": "2008 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Caucasus Online",
+      "countries": "Bulgaria|Georgia"
+    },
+    {
+      "id": "cayman-jamaica-fiber-system",
+      "name": "Cayman-Jamaica Fiber System",
+      "length_km": 870,
+      "rfs": "1997 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Cayman Islands|Jamaica"
+    },
+    {
+      "id": "ceiba-1",
+      "name": "Ceiba-1",
+      "length_km": 287,
+      "rfs": "2011 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)",
+      "countries": "Equatorial Guinea"
+    },
+    {
+      "id": "ceiba-2",
+      "name": "Ceiba-2",
+      "length_km": 290,
+      "rfs": "2017",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)",
+      "countries": "Cameroon|Equatorial Guinea"
+    },
+    {
+      "id": "celtic-norse",
+      "name": "Celtic Norse",
+      "length_km": 2000,
+      "rfs": "2022 Q4",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Eidsiva Energi, NTE, TrønderEnergi",
+      "countries": "Iceland|Ireland|Norway|United Kingdom"
+    },
+    {
+      "id": "celtixconnect-1-cc-1",
+      "name": "CeltixConnect-1 (CC-1)",
+      "length_km": 131,
+      "rfs": "2012 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Aqua Comms",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "challenger-bermuda-1-cb-1",
+      "name": "Challenger Bermuda-1 (CB-1)",
+      "length_km": 1448,
+      "rfs": "2008 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "OneCommunications",
+      "countries": "Bermuda|United States"
+    },
+    {
+      "id": "channel-islands-9-liberty-submarine-cable",
+      "name": "Channel Islands-9 Liberty Submarine Cable",
+      "length_km": null,
+      "rfs": "2008 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "JTGlobal",
+      "countries": "Guernsey|United Kingdom"
+    },
+    {
+      "id": "chennai-andaman-nicobar-islands-cable",
+      "name": "Chennai-Andaman & Nicobar Islands Cable",
+      "length_km": 2300,
+      "rfs": "2020 August",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Bharat Sanchar Nigam Ltd. (BSNL)",
+      "countries": "India"
+    },
+    {
+      "id": "chuuk-pohnpei-cable",
+      "name": "Chuuk-Pohnpei Cable",
+      "length_km": 1200,
+      "rfs": "2019 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Federated States of Micronesia Telecommunications Company",
+      "countries": "Micronesia"
+    },
+    {
+      "id": "circe-north",
+      "name": "Circe North",
+      "length_km": 203,
+      "rfs": "1999 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "VTLWavenet, euNetworks",
+      "countries": "Netherlands|United Kingdom"
+    },
+    {
+      "id": "circe-south",
+      "name": "Circe South",
+      "length_km": 115,
+      "rfs": "1999 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "VTLWavenet, euNetworks",
+      "countries": "France|United Kingdom"
+    },
+    {
+      "id": "colombia-florida-subsea-fiber-cfx-1",
+      "name": "Colombia-Florida Subsea Fiber (CFX-1)",
+      "length_km": 2400,
+      "rfs": "2008 August",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Colombia|Jamaica|United States"
+    },
+    {
+      "id": "colombian-festoon",
+      "name": "Colombian Festoon",
+      "length_km": 400,
+      "rfs": "1997",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "Colombia"
+    },
+    {
+      "id": "columbus-ii-b",
+      "name": "Columbus-II b",
+      "length_km": 2068,
+      "rfs": "1994 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "United States"
+    },
+    {
+      "id": "columbus-iii-azores-portugal",
+      "name": "Columbus-III Azores-Portugal",
+      "length_km": null,
+      "rfs": "1999 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Altice Portugal",
+      "countries": "Portugal"
+    },
+    {
+      "id": "comoros-domestic-cable-system",
+      "name": "Comoros Domestic Cable System",
+      "length_km": null,
+      "rfs": "2010",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Comores Telecom",
+      "countries": "Comoros"
+    },
+    {
+      "id": "concerto",
+      "name": "Concerto",
+      "length_km": 550,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GTT",
+      "countries": "Belgium|United Kingdom"
+    },
+    {
+      "id": "converge-ict-domestic-submarine-cable",
+      "name": "Converge ICT Domestic Submarine Cable",
+      "length_km": 1300,
+      "rfs": "2021",
+      "landings": 22,
+      "source": "telegeography-2021",
+      "owners": "Converge ICT",
+      "countries": "Philippines"
+    },
+    {
+      "id": "coral-sea-cable-system-cs",
+      "name": "Coral Sea Cable System (CS²)",
+      "length_km": 4700,
+      "rfs": "2020 February",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Solomon Island Submarine Cable Company, PNG DataCo Limited",
+      "countries": "Australia|Papua New Guinea|Solomon Islands"
+    },
+    {
+      "id": "corse-continent-4-cc4",
+      "name": "Corse-Continent 4 (CC4)",
+      "length_km": 190,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange",
+      "countries": "France"
+    },
+    {
+      "id": "corse-continent-5-cc5",
+      "name": "Corse-Continent 5 (CC5)",
+      "length_km": 299,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange",
+      "countries": "France"
+    },
+    {
+      "id": "cross-straits-cable-network",
+      "name": "Cross Straits Cable Network",
+      "length_km": 21,
+      "rfs": "2012 August",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Chunghwa Telecom, China Telecom, China Unicom, China Mobile",
+      "countries": "China|Taiwan"
+    },
+    {
+      "id": "crosschannel-fibre",
+      "name": "CrossChannel Fibre",
+      "length_km": 155,
+      "rfs": "2021 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Crosslake Fibre",
+      "countries": "France|United Kingdom"
+    },
+    {
+      "id": "crosslake-fibre",
+      "name": "Crosslake Fibre",
+      "length_km": 59,
+      "rfs": "2019 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Crosslake Fibre",
+      "countries": "Canada|United States"
+    },
+    {
+      "id": "curie",
+      "name": "Curie",
+      "length_km": 10476,
+      "rfs": "2020 Q2",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "Chile|Panama|United States"
+    },
+    {
+      "id": "damai-cable-system",
+      "name": "DAMAI Cable System",
+      "length_km": 575,
+      "rfs": "2019 July",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Triasmitra",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "danice",
+      "name": "DANICE",
+      "length_km": 2304,
+      "rfs": "2009 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Farice",
+      "countries": "Denmark|Iceland"
+    },
+    {
+      "id": "dos-continentes-l-ll",
+      "name": "DOS CONTINENTES l & ll",
+      "length_km": 95,
+      "rfs": "2020 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "GTD España",
+      "countries": "Spain"
+    },
+    {
+      "id": "danica-north",
+      "name": "Danica North",
+      "length_km": 25,
+      "rfs": "1998",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "denmark-poland-2",
+      "name": "Denmark-Poland 2",
+      "length_km": 110,
+      "rfs": "1991",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange Polska, TDC Group, Telia Carrier, Telenor",
+      "countries": "Denmark|Poland"
+    },
+    {
+      "id": "denmark-sweden-15",
+      "name": "Denmark-Sweden 15",
+      "length_km": 5,
+      "rfs": "1989",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "TDC Group, Telia Carrier",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "denmark-sweden-16",
+      "name": "Denmark-Sweden 16",
+      "length_km": 15,
+      "rfs": "1991",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "TDC Group",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "denmark-sweden-17",
+      "name": "Denmark-Sweden 17",
+      "length_km": 11,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "TDC Group, Tele2",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "denmark-sweden-18",
+      "name": "Denmark-Sweden 18",
+      "length_km": null,
+      "rfs": "1996",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telenor, TDC Group",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "dhiraagu-cable-network",
+      "name": "Dhiraagu Cable Network",
+      "length_km": 1253,
+      "rfs": "2012 April",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "Dhiraagu",
+      "countries": "Maldives"
+    },
+    {
+      "id": "dhiraagu-slt-submarine-cable-network",
+      "name": "Dhiraagu-SLT Submarine Cable Network",
+      "length_km": 850,
+      "rfs": "2007 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Sri Lanka Telecom, Dhiraagu",
+      "countries": "Maldives|Sri Lanka"
+    },
+    {
+      "id": "didon",
+      "name": "Didon",
+      "length_km": 170,
+      "rfs": "2014 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange Tunisie, Ooredoo Tunisie",
+      "countries": "Italy|Tunisia"
+    },
+    {
+      "id": "djibouti-africa-regional-express-1-dare1",
+      "name": "Djibouti Africa Regional Express 1 (DARE1)",
+      "length_km": 4854,
+      "rfs": "2020 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Djibouti Telecom, Africa Marine Express, Telesom, Hormuud Telecom Somalia, Golis Telecommunications, Somtel International, Telkom Kenya",
+      "countries": "Djibouti|Kenya|Somalia"
+    },
+    {
+      "id": "dumai-melaka-cable-system",
+      "name": "Dumai-Melaka Cable System",
+      "length_km": 159,
+      "rfs": "2005 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia, Telekom Malaysia",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "dunant",
+      "name": "Dunant",
+      "length_km": 6400,
+      "rfs": "2021 Q1",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "France|United States"
+    },
+    {
+      "id": "e-llan",
+      "name": "E-LLAN",
+      "length_km": null,
+      "rfs": "2007",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Manx Electricity Authority",
+      "countries": "Isle of Man|United Kingdom"
+    },
+    {
+      "id": "eac-c2c",
+      "name": "EAC-C2C",
+      "length_km": 36500,
+      "rfs": "2002 November",
+      "landings": 16,
+      "source": "telegeography-2021",
+      "owners": "Telstra",
+      "countries": "China|Japan|Philippines|Singapore|South Korea|Taiwan"
+    },
+    {
+      "id": "eclink",
+      "name": "ECLink",
+      "length_km": 987,
+      "rfs": "2007 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Curaçao|Trinidad and Tobago"
+    },
+    {
+      "id": "esat-1",
+      "name": "ESAT-1",
+      "length_km": 261,
+      "rfs": "1999 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Esat BT",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "esat-2",
+      "name": "ESAT-2",
+      "length_km": 245,
+      "rfs": "2000",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Esat BT",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "east-west",
+      "name": "East-West",
+      "length_km": 1750,
+      "rfs": "2011 February",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Dominican Republic|Jamaica|Virgin Islands (U.K.)"
+    },
+    {
+      "id": "east-west-submarine-cable-system",
+      "name": "East-West Submarine Cable System",
+      "length_km": 950,
+      "rfs": "2004",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Sacofa",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "eastern-africa-submarine-system-eassy",
+      "name": "Eastern Africa Submarine System (EASSy)",
+      "length_km": 10500,
+      "rfs": "2010 July",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Botswana Fibre Networks, Telkom South Africa, Sudan Telecom Company, Telma (Telecom Malagasy), Tanzania Telecommunications Company Limited, Zambia Telecom, Mauritius Telecom, Vodacom DRC, MTN, Comores Telecom, Neotel, BT, Etisalat, Saudi Telecom, Orange, Airtel (Bharti), WIOCC, Djibouti Telecom, Telkom Kenya",
+      "countries": "Comoros|Djibouti|Kenya|Madagascar|Mozambique|Somalia|South Africa|Sudan|Tanzania"
+    },
+    {
+      "id": "eastern-arctic-undersea-fibre-optic-network-eaufon",
+      "name": "Eastern Arctic Undersea Fibre Optic Network (EAUFON)",
+      "length_km": 1200,
+      "rfs": "2021 December",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Kativik Regional Government",
+      "countries": "Canada"
+    },
+    {
+      "id": "eastern-caribbean-fiber-system-ecfs",
+      "name": "Eastern Caribbean Fiber System (ECFS)",
+      "length_km": 1730,
+      "rfs": "1995 September",
+      "landings": 13,
+      "source": "telegeography-2021",
+      "owners": "Orange, AT&T, Verizon, Guyana Telephone and Telegraph (GT&T), Codetel, C&W Networks",
+      "countries": "Anguilla|Antigua and Barbuda|Barbados|Dominica|Grenada|Guadeloupe|Martinique|Saint Kitts and Nevis|Saint Lucia|Saint Vincent and the Grenadines|Sint Maarten|Trinidad and Tobago|Virgin Islands (U.K.)"
+    },
+    {
+      "id": "eastern-light",
+      "name": "Eastern Light",
+      "length_km": null,
+      "rfs": "2019 October",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Eastern Light",
+      "countries": "Finland|Sweden"
+    },
+    {
+      "id": "elektra-globalconnect-1-gc1",
+      "name": "Elektra-GlobalConnect 1 (GC1)",
+      "length_km": 44,
+      "rfs": "2000 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GlobalConnect",
+      "countries": "Denmark|Germany"
+    },
+    {
+      "id": "ellalink",
+      "name": "EllaLink",
+      "length_km": 6200,
+      "rfs": "2021 Q2",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "EllaLink Group",
+      "countries": "Brazil|Cape Verde|French Guiana|Portugal"
+    },
+    {
+      "id": "emerald-bridge-fibres",
+      "name": "Emerald Bridge Fibres",
+      "length_km": 120,
+      "rfs": "2012 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Zayo Group, ESB Telecoms",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "energinet-laeso-varberg",
+      "name": "Energinet Laeso-Varberg",
+      "length_km": null,
+      "rfs": "2011",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Energinet",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "energinet-lyngsa-laeso",
+      "name": "Energinet Lyngsa-Laeso",
+      "length_km": null,
+      "rfs": "2011 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Energinet",
+      "countries": "Denmark"
+    },
+    {
+      "id": "epic-malta-sicily-cable-system-emscs",
+      "name": "Epic Malta-Sicily Cable System (EMSCS)",
+      "length_km": 260,
+      "rfs": "2004 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Epic",
+      "countries": "Italy|Malta"
+    },
+    {
+      "id": "equiano",
+      "name": "Equiano",
+      "length_km": null,
+      "rfs": "2021",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "Ascension and Tristan da Cunha|Congo, Dem. Rep.|Nigeria|Portugal|South Africa"
+    },
+    {
+      "id": "estepona-tetouan",
+      "name": "Estepona-Tetouan",
+      "length_km": 113,
+      "rfs": "1994 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telxius, Maroc Telecom",
+      "countries": "Morocco|Spain"
+    },
+    {
+      "id": "europe-india-gateway-eig",
+      "name": "Europe India Gateway (EIG)",
+      "length_km": 15000,
+      "rfs": "2011 February",
+      "landings": 12,
+      "source": "telegeography-2021",
+      "owners": "AT&T, Airtel (Bharti), Bharat Sanchar Nigam Ltd. (BSNL), BT, Djibouti Telecom, du, Gibtelecom, Libya International Telecommunications Company, MTN, Omantel, Altice Portugal, Saudi Telecom, Telecom Egypt, Telkom South Africa, Verizon, Vodafone",
+      "countries": "Djibouti|Egypt|Gibraltar|India|Libya|Monaco|Oman|Portugal|Saudi Arabia|United Arab Emirates|United Kingdom"
+    },
+    {
+      "id": "falcon",
+      "name": "FALCON",
+      "length_km": 10300,
+      "rfs": "2006 September",
+      "landings": 19,
+      "source": "telegeography-2021",
+      "owners": "Global Cloud Xchange",
+      "countries": "Bahrain|Egypt|India|Iran|Iraq|Kuwait|Maldives|Oman|Qatar|Saudi Arabia|Sri Lanka|Sudan|United Arab Emirates|Yemen"
+    },
+    {
+      "id": "farice-1",
+      "name": "FARICE-1",
+      "length_km": 1205,
+      "rfs": "2004 January",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Farice",
+      "countries": "Faroe Islands|Iceland|United Kingdom"
+    },
+    {
+      "id": "faster",
+      "name": "FASTER",
+      "length_km": 11629,
+      "rfs": "2016 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Google, KDDI, Singtel, China Telecom, China Mobile, TIME dotCom, Lumen",
+      "countries": "Japan|Taiwan|United States"
+    },
+    {
+      "id": "flag-atlantic-1-fa-1",
+      "name": "FLAG Atlantic-1 (FA-1)",
+      "length_km": 14500,
+      "rfs": "2001 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Global Cloud Xchange",
+      "countries": "France|United Kingdom|United States"
+    },
+    {
+      "id": "flag-europe-asia-fea",
+      "name": "FLAG Europe-Asia (FEA)",
+      "length_km": 28000,
+      "rfs": "1997 November",
+      "landings": 16,
+      "source": "telegeography-2021",
+      "owners": "Global Cloud Xchange",
+      "countries": "China|Egypt|India|Italy|Japan|Jordan|Malaysia|Saudi Arabia|South Korea|Spain|Thailand|United Arab Emirates|United Kingdom"
+    },
+    {
+      "id": "flag-north-asia-loopreach-north-asia-loop",
+      "name": "FLAG North Asia Loop/REACH North Asia Loop",
+      "length_km": 9504,
+      "rfs": "2001 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Global Cloud Xchange, PCCW, Telstra",
+      "countries": "China|Japan|South Korea|Taiwan"
+    },
+    {
+      "id": "fly-lion3",
+      "name": "FLY-LION3",
+      "length_km": 400,
+      "rfs": "2019 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange, Comoros Cables, Société Réunionnaise du Radiotéléphone",
+      "countries": "Comoros|Mayotte"
+    },
+    {
+      "id": "fos-quellon-chacabuco",
+      "name": "FOS Quellon-Chacabuco",
+      "length_km": 350,
+      "rfs": "2015 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Gtd Teleductos S.A.",
+      "countries": "Chile"
+    },
+    {
+      "id": "far-east-submarine-cable-system",
+      "name": "Far East Submarine Cable System",
+      "length_km": 1855,
+      "rfs": "2016 Q2",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Rostelecom",
+      "countries": "Russia"
+    },
+    {
+      "id": "farland-north",
+      "name": "Farland North",
+      "length_km": 150,
+      "rfs": "1989",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "Netherlands|United Kingdom"
+    },
+    {
+      "id": "fehmarn-blt",
+      "name": "Fehmarn Bält",
+      "length_km": 20,
+      "rfs": "2000",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Denmark|Germany"
+    },
+    {
+      "id": "fiber-optic-gulf-fog",
+      "name": "Fiber Optic Gulf (FOG)",
+      "length_km": 1300,
+      "rfs": "1998 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Kuwait Ministry of Communications, Etisalat, Ooredoo, Batelco",
+      "countries": "Bahrain|Kuwait|Qatar|United Arab Emirates"
+    },
+    {
+      "id": "fibra-optica-austral",
+      "name": "Fibra Optica Austral",
+      "length_km": 2800,
+      "rfs": "2020 Q1",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Subtel",
+      "countries": "Chile"
+    },
+    {
+      "id": "fibra-optica-al-pacfico",
+      "name": "Fibra Optica al Pacífico",
+      "length_km": 1180,
+      "rfs": "2020 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Entel Bolivia",
+      "countries": "Peru"
+    },
+    {
+      "id": "fibralink",
+      "name": "Fibralink",
+      "length_km": 1000,
+      "rfs": "2006 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Dominican Republic|Haiti|Jamaica"
+    },
+    {
+      "id": "finland-estonia-connection-fec",
+      "name": "Finland Estonia Connection (FEC)",
+      "length_km": 250,
+      "rfs": "2000 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Elisa Corporation",
+      "countries": "Estonia|Finland"
+    },
+    {
+      "id": "finland-estonia-2-eesf-2",
+      "name": "Finland-Estonia 2 (EESF-2)",
+      "length_km": 98,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Eesti, Telia Carrier",
+      "countries": "Estonia|Finland"
+    },
+    {
+      "id": "finland-estonia-3-eesf-3",
+      "name": "Finland-Estonia 3 (EESF-3)",
+      "length_km": 104,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Telia Eesti",
+      "countries": "Estonia|Finland"
+    },
+    {
+      "id": "flores-corvo-cable-system",
+      "name": "Flores-Corvo Cable System",
+      "length_km": 685,
+      "rfs": "2014 January",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Viatel",
+      "countries": "Portugal"
+    },
+    {
+      "id": "go-1-mediterranean-cable-system",
+      "name": "GO-1 Mediterranean Cable System",
+      "length_km": 290,
+      "rfs": "2008 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GO plc",
+      "countries": "Italy|Malta"
+    },
+    {
+      "id": "gtmo-1",
+      "name": "GTMO-1",
+      "length_km": 1528,
+      "rfs": "2016",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "U.S. Government",
+      "countries": "Cuba|United States"
+    },
+    {
+      "id": "gtmo-pr",
+      "name": "GTMO-PR",
+      "length_km": 1400,
+      "rfs": "2019 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "U.S. Government",
+      "countries": "Cuba|United States"
+    },
+    {
+      "id": "gtt-atlantic",
+      "name": "GTT Atlantic",
+      "length_km": 12200,
+      "rfs": "2001 April",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "GTT",
+      "countries": "Canada|Ireland|United Kingdom|United States"
+    },
+    {
+      "id": "gtt-express",
+      "name": "GTT Express",
+      "length_km": 4600,
+      "rfs": "2015 September",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "GTT",
+      "countries": "Canada|Ireland|United Kingdom"
+    },
+    {
+      "id": "gemini-bermuda",
+      "name": "Gemini Bermuda",
+      "length_km": 1287,
+      "rfs": "2007 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Bermuda|United States"
+    },
+    {
+      "id": "geo-eirgrid",
+      "name": "Geo-Eirgrid",
+      "length_km": 187,
+      "rfs": "2012 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Eirgrid",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "georgia-russia",
+      "name": "Georgia-Russia",
+      "length_km": 433,
+      "rfs": "2000 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Rostelecom, FOPTNET, DanTelco",
+      "countries": "Georgia|Russia"
+    },
+    {
+      "id": "germany-denmark-3",
+      "name": "Germany-Denmark 3",
+      "length_km": null,
+      "rfs": "2000 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "TDC Group",
+      "countries": "Denmark|Germany"
+    },
+    {
+      "id": "glo-1",
+      "name": "Glo-1",
+      "length_km": 9800,
+      "rfs": "2010 October",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Globacom Limited",
+      "countries": "Ghana|Nigeria|United Kingdom"
+    },
+    {
+      "id": "glo-2",
+      "name": "Glo-2",
+      "length_km": 850,
+      "rfs": "2021 Q3",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Globacom Limited",
+      "countries": "Nigeria"
+    },
+    {
+      "id": "global-caribbean-network-gcn",
+      "name": "Global Caribbean Network (GCN)",
+      "length_km": 890,
+      "rfs": "2006 September",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Leucadia National Corporation, Loret Group",
+      "countries": "Guadeloupe|United States"
+    },
+    {
+      "id": "globalconnect-2-gc2",
+      "name": "GlobalConnect 2 (GC2)",
+      "length_km": 95,
+      "rfs": "2001 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GlobalConnect",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "globalconnect-3-gc3",
+      "name": "GlobalConnect 3 (GC3)",
+      "length_km": 19,
+      "rfs": "2006",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GlobalConnect",
+      "countries": "Denmark"
+    },
+    {
+      "id": "globalconnect-kpn",
+      "name": "GlobalConnect-KPN",
+      "length_km": 43,
+      "rfs": "2006",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GlobalConnect",
+      "countries": "Denmark|Germany"
+    },
+    {
+      "id": "globenet",
+      "name": "GlobeNet",
+      "length_km": 23500,
+      "rfs": "2000 October",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "GlobeNet",
+      "countries": "Bermuda|Brazil|Colombia|United States|Venezuela"
+    },
+    {
+      "id": "gondwana-1",
+      "name": "Gondwana-1",
+      "length_km": 2151,
+      "rfs": "2008 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "OPT",
+      "countries": "Australia|New Caledonia"
+    },
+    {
+      "id": "gondwana-2picot-2",
+      "name": "Gondwana-2/Picot-2",
+      "length_km": null,
+      "rfs": "2022",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "OPT",
+      "countries": "Fiji|New Caledonia"
+    },
+    {
+      "id": "grace-hopper",
+      "name": "Grace Hopper",
+      "length_km": null,
+      "rfs": "2022",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "Spain|United Kingdom|United States"
+    },
+    {
+      "id": "greenland-connect",
+      "name": "Greenland Connect",
+      "length_km": 4780,
+      "rfs": "2009 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "TELE Greenland",
+      "countries": "Canada|Greenland|Iceland"
+    },
+    {
+      "id": "greenland-connect-north",
+      "name": "Greenland Connect North",
+      "length_km": 680,
+      "rfs": "2017 December",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "TELE Greenland",
+      "countries": "Greenland"
+    },
+    {
+      "id": "guadeloupe-cable-des-iles-du-sud-gcis",
+      "name": "Guadeloupe Cable des Iles du Sud (GCIS)",
+      "length_km": 118,
+      "rfs": "2021",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Regional Councel of Guadeloupe",
+      "countries": "Guadeloupe"
+    },
+    {
+      "id": "guam-okinawa-kyushu-incheon-goki",
+      "name": "Guam Okinawa Kyushu Incheon (GOKI)",
+      "length_km": 4244,
+      "rfs": "2013 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "AT&T",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "guernsey-jersey-4",
+      "name": "Guernsey-Jersey-4",
+      "length_km": 36,
+      "rfs": "1994 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Sure",
+      "countries": "Guernsey|Jersey"
+    },
+    {
+      "id": "gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system",
+      "name": "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System",
+      "length_km": 5270,
+      "rfs": "2012 February",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Gulf Bridge International, Airtel (Bharti)",
+      "countries": "Bahrain|India|Iran|Iraq|Kuwait|Oman|Qatar|Saudi Arabia|United Arab Emirates"
+    },
+    {
+      "id": "gulf-of-california-cable",
+      "name": "Gulf of California Cable",
+      "length_km": 250,
+      "rfs": "2019 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Megacable",
+      "countries": "Mexico"
+    },
+    {
+      "id": "gulf-of-mexico-fiber-optic-network",
+      "name": "Gulf of Mexico Fiber Optic Network",
+      "length_km": 1200,
+      "rfs": "2008",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tampnet",
+      "countries": "United States"
+    },
+    {
+      "id": "gulf2africa-g2a",
+      "name": "Gulf2Africa (G2A)",
+      "length_km": 1500,
+      "rfs": "2017 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Omantel, Golis Telecommunications, Telesom, Ethio Telecom",
+      "countries": "Oman|Somalia"
+    },
+    {
+      "id": "h2-cable",
+      "name": "H2 Cable",
+      "length_km": 9200,
+      "rfs": "2024",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "H2 Cable",
+      "countries": "Australia|Taiwan"
+    },
+    {
+      "id": "hannibal-system",
+      "name": "HANNIBAL System",
+      "length_km": 178,
+      "rfs": "2009 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tunisia Telecom",
+      "countries": "Italy|Tunisia"
+    },
+    {
+      "id": "hantru1-cable-system",
+      "name": "HANTRU1 Cable System",
+      "length_km": 2917,
+      "rfs": "2010 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Hannon Armstrong, Federated States of Micronesia Telecommunications Company, Marshall Islands Telecommunications Authority",
+      "countries": "Marshall Islands|Micronesia|United States"
+    },
+    {
+      "id": "hics-hawaii-inter-island-cable-system",
+      "name": "HICS (Hawaii Inter-Island Cable System)",
+      "length_km": 479,
+      "rfs": "1994 July",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Hawaiian Telcom",
+      "countries": "United States"
+    },
+    {
+      "id": "hifn-hawaii-island-fibre-network",
+      "name": "HIFN (Hawaii Island Fibre Network)",
+      "length_km": 529,
+      "rfs": "1997 June",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Hawaiian Telcom, Lumen",
+      "countries": "United States"
+    },
+    {
+      "id": "hainan-hong-kong-submarine-cable-system",
+      "name": "Hainan-Hong Kong Submarine Cable System",
+      "length_km": 780,
+      "rfs": "2021",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "China Mobile",
+      "countries": "China"
+    },
+    {
+      "id": "havfrueaec-2",
+      "name": "Havfrue/AEC-2",
+      "length_km": 7200,
+      "rfs": "2020 November",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Aqua Comms, Facebook, Bulk Infrastructure, Google",
+      "countries": "Denmark|Ireland|Norway|United States"
+    },
+    {
+      "id": "havhingstenceltixconnect-2-cc-2",
+      "name": "Havhingsten/CeltixConnect-2 (CC-2)",
+      "length_km": 300,
+      "rfs": "2021 Q1",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Aqua Comms",
+      "countries": "Ireland|Isle of Man|United Kingdom"
+    },
+    {
+      "id": "havhingstennorth-sea-connect-nsc",
+      "name": "Havhingsten/North Sea Connect (NSC)",
+      "length_km": 700,
+      "rfs": "2021 Q1",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Aqua Comms",
+      "countries": "Denmark|United Kingdom"
+    },
+    {
+      "id": "havsil",
+      "name": "Havsil",
+      "length_km": 120,
+      "rfs": "2021 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Bulk Infrastructure",
+      "countries": "Denmark|Norway"
+    },
+    {
+      "id": "havtor",
+      "name": "Havtor",
+      "length_km": 165,
+      "rfs": "2022 Q3",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Nordic Consulting AS",
+      "countries": "Denmark|Norway"
+    },
+    {
+      "id": "hawaiki",
+      "name": "Hawaiki",
+      "length_km": 14000,
+      "rfs": "2018 July",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Hawaiki Submarine Cable LP",
+      "countries": "American Samoa|Australia|New Zealand|United States"
+    },
+    {
+      "id": "hawk",
+      "name": "Hawk",
+      "length_km": 3400,
+      "rfs": "2011",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Global Cloud Xchange",
+      "countries": "Cyprus|Egypt|France"
+    },
+    {
+      "id": "high-capacity-undersea-guernsey-optical-fibre-hugo",
+      "name": "High-capacity Undersea Guernsey Optical-fibre (HUGO)",
+      "length_km": 425,
+      "rfs": "2007",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Sure, Vodafone",
+      "countries": "France|Guernsey|United Kingdom"
+    },
+    {
+      "id": "hokkaido-sakhalin-cable-system-hscs",
+      "name": "Hokkaido-Sakhalin Cable System (HSCS)",
+      "length_km": 570,
+      "rfs": "2008 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "NTT, TTK",
+      "countries": "Japan|Russia"
+    },
+    {
+      "id": "hong-kong-americas-hka",
+      "name": "Hong Kong-Americas (HKA)",
+      "length_km": 13780,
+      "rfs": "2021",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Facebook, Telstra, Tata Communications, China Telecom, China Unicom, RTI",
+      "countries": "China|Taiwan|United States"
+    },
+    {
+      "id": "honotua",
+      "name": "Honotua",
+      "length_km": 4805,
+      "rfs": "2010 September",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "OPT French Polynesia",
+      "countries": "French Polynesia|United States"
+    },
+    {
+      "id": "imewe",
+      "name": "IMEWE",
+      "length_km": 12091,
+      "rfs": "2010 December",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Etisalat, Tata Communications, Pakistan Telecommunications Company Ltd., Orange, Airtel (Bharti), Saudi Telecom, Ogero, Telecom Egypt",
+      "countries": "Egypt|France|India|Italy|Lebanon|Pakistan|Saudi Arabia|United Arab Emirates"
+    },
+    {
+      "id": "indigo-central",
+      "name": "INDIGO-Central",
+      "length_km": 4850,
+      "rfs": "2019 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Superloop, Google, Indosat Ooredoo, Australia’s Academic and Research Network (AARNET), Singtel Optus",
+      "countries": "Australia"
+    },
+    {
+      "id": "indigo-west",
+      "name": "INDIGO-West",
+      "length_km": 4600,
+      "rfs": "2019 May",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Superloop, Telstra, Singtel, Google, Indosat Ooredoo, Australia’s Academic and Research Network (AARNET)",
+      "countries": "Australia|Indonesia|Singapore"
+    },
+    {
+      "id": "ingrid",
+      "name": "INGRID",
+      "length_km": 64,
+      "rfs": "2004 October",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "CIEG",
+      "countries": "France|Guernsey|Jersey"
+    },
+    {
+      "id": "ip-only-denmark-sweden",
+      "name": "IP-Only Denmark-Sweden",
+      "length_km": null,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "IP-Only",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "iris",
+      "name": "IRIS",
+      "length_km": 1607,
+      "rfs": "2022 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Farice",
+      "countries": "Iceland|Ireland"
+    },
+    {
+      "id": "indonesia-global-gateway-igg-system",
+      "name": "Indonesia Global Gateway (IGG) System",
+      "length_km": 5300,
+      "rfs": "2018 May",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "Telin, Telkom Indonesia",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "interchange-cable-network-1-icn1",
+      "name": "Interchange Cable Network 1 (ICN1)",
+      "length_km": 1259,
+      "rfs": "2014 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Interchange",
+      "countries": "Fiji|Vanuatu"
+    },
+    {
+      "id": "interchange-cable-network-2-icn2",
+      "name": "Interchange Cable Network 2 (ICN2)",
+      "length_km": 1632,
+      "rfs": "2021",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Interchange",
+      "countries": "Solomon Islands|Vanuatu"
+    },
+    {
+      "id": "isles-of-scilly-cable",
+      "name": "Isles of Scilly Cable",
+      "length_km": null,
+      "rfs": "2014",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "italy-albania",
+      "name": "Italy-Albania",
+      "length_km": 240,
+      "rfs": "1997",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Albania Telecom",
+      "countries": "Albania|Italy"
+    },
+    {
+      "id": "italy-croatia",
+      "name": "Italy-Croatia",
+      "length_km": 230,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, T-Hrvatski Telekom",
+      "countries": "Croatia|Italy"
+    },
+    {
+      "id": "italy-greece-1",
+      "name": "Italy-Greece 1",
+      "length_km": 169,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "WIS Telecom",
+      "countries": "Greece|Italy"
+    },
+    {
+      "id": "italy-libya",
+      "name": "Italy-Libya",
+      "length_km": 570,
+      "rfs": "1998",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Libya International Telecommunications Company",
+      "countries": "Italy|Libya"
+    },
+    {
+      "id": "italy-malta",
+      "name": "Italy-Malta",
+      "length_km": 238,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, GO plc",
+      "countries": "Italy|Malta"
+    },
+    {
+      "id": "italy-monaco",
+      "name": "Italy-Monaco",
+      "length_km": 162,
+      "rfs": "1995",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Monaco Telecom",
+      "countries": "Italy|Monaco"
+    },
+    {
+      "id": "ixchel",
+      "name": "Ixchel",
+      "length_km": 32,
+      "rfs": "2007 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telmex",
+      "countries": "Mexico"
+    },
+    {
+      "id": "jakabare",
+      "name": "JAKABARE",
+      "length_km": 1330,
+      "rfs": "2009 November",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Indosat Ooredoo",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "jasuka",
+      "name": "JASUKA",
+      "length_km": 10860,
+      "rfs": "2006",
+      "landings": 17,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia|Malaysia"
+    },
+    {
+      "id": "jupiter",
+      "name": "JUPITER",
+      "length_km": 14557,
+      "rfs": "2020",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Amazon Web Services, Facebook, NTT, PLDT, PCCW, Softbank Corp",
+      "countries": "Japan|Philippines|United States"
+    },
+    {
+      "id": "jaka2ladema",
+      "name": "JaKa2LaDeMa",
+      "length_km": 1700,
+      "rfs": "2010",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "jakarta-surabaya-cable-system-jayabaya",
+      "name": "Jakarta Surabaya Cable System (JAYABAYA)",
+      "length_km": 888,
+      "rfs": "2018 December",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Triasmitra",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "jakarta-bangka-bintan-batam-singapore-b3js",
+      "name": "Jakarta-Bangka-Bintan-Batam-Singapore (B3JS)",
+      "length_km": 1031,
+      "rfs": "2012 November",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Moratelindo",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "jambi-batam-cable-system-jiba",
+      "name": "Jambi-Batam Cable System (JIBA)",
+      "length_km": 267,
+      "rfs": "2014",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Moratelindo, XL Axiata, Indosat Ooredoo",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "janna",
+      "name": "Janna",
+      "length_km": 634,
+      "rfs": "2005 April",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Regione Sardegne, GTT, Wind Italy, Tiscali",
+      "countries": "Italy"
+    },
+    {
+      "id": "japan-information-highway-jih",
+      "name": "Japan Information Highway (JIH)",
+      "length_km": 5150,
+      "rfs": "1999",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "KDDI",
+      "countries": "Japan"
+    },
+    {
+      "id": "japan-guam-australia-north-jga-n",
+      "name": "Japan-Guam-Australia North (JGA-N)",
+      "length_km": 2600,
+      "rfs": "2020 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "RTI",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "japan-guam-australia-south-jga-s",
+      "name": "Japan-Guam-Australia South (JGA-S)",
+      "length_km": 7081,
+      "rfs": "2020 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google, Australia’s Academic and Research Network (AARNET), RTI",
+      "countries": "Australia|United States"
+    },
+    {
+      "id": "japan-u-s-cable-network-jus",
+      "name": "Japan-U.S. Cable Network (JUS)",
+      "length_km": 22682,
+      "rfs": "2001 September",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Verizon, AT&T, BT, Sprint, Lumen, NTT, Chunghwa Telecom, Tata Communications, Singtel, Telekom Malaysia, Softbank Corp, Orange, SK Broadband, KT, China Telecom, China Unicom, LG Uplus, HKBN Enterprise Solutions, Starhub, PCCW, Telstra, Vodafone, PLDT, KDDI",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "java-bali-cable-system-jbcs",
+      "name": "Java Bali Cable System (JBCS)",
+      "length_km": 40,
+      "rfs": "2013",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Triasmitra",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "java-kalimantan-sulawesi-jakasusi",
+      "name": "Java-Kalimantan-Sulawesi (JAKASUSI)",
+      "length_km": 1100,
+      "rfs": "2006",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Indosat Ooredoo",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "jerry-newton",
+      "name": "Jerry Newton",
+      "length_km": null,
+      "rfs": "2007 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks",
+      "countries": "Curaçao|Netherlands"
+    },
+    {
+      "id": "jonah",
+      "name": "Jonah",
+      "length_km": 2297,
+      "rfs": "2012 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Bezeq International Ltd.",
+      "countries": "Israel|Italy"
+    },
+    {
+      "id": "junior",
+      "name": "Junior",
+      "length_km": 390,
+      "rfs": "2018 Q3",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "Brazil"
+    },
+    {
+      "id": "kanawa",
+      "name": "Kanawa",
+      "length_km": 1746,
+      "rfs": "2019 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange",
+      "countries": "French Guiana|Martinique"
+    },
+    {
+      "id": "kattegat-2",
+      "name": "Kattegat 2",
+      "length_km": 75,
+      "rfs": "2001",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "TDC Group",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "kerch-strait-cable",
+      "name": "Kerch Strait Cable",
+      "length_km": 46,
+      "rfs": "2014 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Miranda Media",
+      "countries": "Russia|Ukraine"
+    },
+    {
+      "id": "ketchcan1-submarine-fiber-cable-system",
+      "name": "KetchCan1 Submarine Fiber Cable System",
+      "length_km": 167,
+      "rfs": "2020 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Ketchican Public Utilities",
+      "countries": "Canada|United States"
+    },
+    {
+      "id": "kodiak-kenai-fiber-link-kkfl",
+      "name": "Kodiak Kenai Fiber Link (KKFL)",
+      "length_km": 966,
+      "rfs": "2007 January",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "korea-japan-cable-network-kjcn",
+      "name": "Korea-Japan Cable Network (KJCN)",
+      "length_km": 500,
+      "rfs": "2002 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "QTNet, KT, Softbank Corp, NTT",
+      "countries": "Japan|South Korea"
+    },
+    {
+      "id": "kumul-domestic-submarine-cable-system",
+      "name": "Kumul Domestic Submarine Cable System",
+      "length_km": 5457,
+      "rfs": "2019 February",
+      "landings": 15,
+      "source": "telegeography-2021",
+      "owners": "PNG DataCo Limited",
+      "countries": "Indonesia|Papua New Guinea"
+    },
+    {
+      "id": "kuwait-iran",
+      "name": "Kuwait-Iran",
+      "length_km": 380,
+      "rfs": "2005 June",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telecommunication Infrastructure Company of Iran, Kuwait Ministry of Communications",
+      "countries": "Iran|Kuwait"
+    },
+    {
+      "id": "lfon-libyan-fiber-optic-network",
+      "name": "LFON (Libyan Fiber Optic Network)",
+      "length_km": 1639,
+      "rfs": "1999",
+      "landings": 13,
+      "source": "telegeography-2021",
+      "owners": "Libyan Post, Telecommunications and Information Technology Company (LPTIC Holding)",
+      "countries": "Libya"
+    },
+    {
+      "id": "la-gomera-el-hierro",
+      "name": "La Gomera-El Hierro",
+      "length_km": null,
+      "rfs": "n.a.",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "labuan-brunei-submarine-cable",
+      "name": "Labuan-Brunei Submarine Cable",
+      "length_km": 52,
+      "rfs": "2017 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Common Tower Technologies Sdn Bhd",
+      "countries": "Brunei|Malaysia"
+    },
+    {
+      "id": "lanis-1",
+      "name": "Lanis-1",
+      "length_km": 113,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Vodafone",
+      "countries": "Isle of Man|United Kingdom"
+    },
+    {
+      "id": "lanis-2",
+      "name": "Lanis-2",
+      "length_km": 67,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Vodafone",
+      "countries": "Isle of Man|United Kingdom"
+    },
+    {
+      "id": "lanis-3",
+      "name": "Lanis-3",
+      "length_km": 122,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Vodafone",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "latvia-sweden-1-lv-se-1",
+      "name": "Latvia-Sweden 1 (LV-SE 1)",
+      "length_km": 304,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Tele2, Tet, Telecom Italia Sparkle",
+      "countries": "Latvia|Sweden"
+    },
+    {
+      "id": "lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs",
+      "name": "Lazaro Cardenas-Manzanillo Santiago Submarine Cable System (LCMSSCS)",
+      "length_km": 322,
+      "rfs": "2013",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telmex",
+      "countries": "Mexico"
+    },
+    {
+      "id": "lev-submarine-system",
+      "name": "Lev Submarine System",
+      "length_km": 2600,
+      "rfs": "1999 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle",
+      "countries": "Cyprus|Israel|Italy"
+    },
+    {
+      "id": "libreville-port-gentil-cable",
+      "name": "Libreville-Port Gentil Cable",
+      "length_km": 198,
+      "rfs": "2012 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Republic of Gabon",
+      "countries": "Gabon"
+    },
+    {
+      "id": "link-1-phase-1",
+      "name": "Link 1 Phase-1",
+      "length_km": 368,
+      "rfs": "2003 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-1-phase-2",
+      "name": "Link 1 Phase-2",
+      "length_km": 94,
+      "rfs": "2005 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-2-phase-1",
+      "name": "Link 2 Phase-1",
+      "length_km": 281,
+      "rfs": "2004 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-2-phase-2",
+      "name": "Link 2 Phase-2",
+      "length_km": 221,
+      "rfs": "2005 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-3-phase-1",
+      "name": "Link 3 Phase-1",
+      "length_km": 275,
+      "rfs": "2003 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-3-phase-2",
+      "name": "Link 3 Phase-2",
+      "length_km": 342,
+      "rfs": "2005 May",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-4-phase-2",
+      "name": "Link 4 Phase-2",
+      "length_km": 300,
+      "rfs": "2005 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "link-5-phase-2",
+      "name": "Link 5 Phase-2",
+      "length_km": 365,
+      "rfs": "2005 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "lower-indian-ocean-network-lion",
+      "name": "Lower Indian Ocean Network (LION)",
+      "length_km": 1060,
+      "rfs": "2009 November",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Orange, Mauritius Telecom, Orange Madagascar",
+      "countries": "Madagascar|Mauritius|Réunion"
+    },
+    {
+      "id": "lower-indian-ocean-network-2-lion2",
+      "name": "Lower Indian Ocean Network 2 (LION2)",
+      "length_km": 2700,
+      "rfs": "2012 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Orange, Mauritius Telecom, Orange Madagascar, Telkom Kenya, Société Réunionnaise du Radiotéléphone, Emtel, STOI",
+      "countries": "Kenya|Mayotte"
+    },
+    {
+      "id": "luwuk-tutuyan-cable-system-ltcs",
+      "name": "Luwuk Tutuyan Cable System (LTCS)",
+      "length_km": 446,
+      "rfs": "2015",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "lynn-canal-fiber",
+      "name": "Lynn Canal Fiber",
+      "length_km": 138,
+      "rfs": "2016 October",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Alaska Power & Telephone Company (AP&T)",
+      "countries": "United States"
+    },
+    {
+      "id": "marea",
+      "name": "MAREA",
+      "length_km": 6605,
+      "rfs": "2018 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Facebook, Microsoft, Telxius",
+      "countries": "Spain|United States"
+    },
+    {
+      "id": "mist",
+      "name": "MIST",
+      "length_km": 8100,
+      "rfs": "2022 Q3",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Orient Link",
+      "countries": "India|Malaysia|Myanmar|Singapore"
+    },
+    {
+      "id": "mainone",
+      "name": "MainOne",
+      "length_km": 7000,
+      "rfs": "2010 July",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "MainOne Cable Company",
+      "countries": "Côte d'Ivoire|Ghana|Nigeria|Portugal|Senegal"
+    },
+    {
+      "id": "malaysia-cambodia-thailand-mct-cable",
+      "name": "Malaysia-Cambodia-Thailand (MCT) Cable",
+      "length_km": 1300,
+      "rfs": "2017 March",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telekom Malaysia, Ezecom, Symphony, DTAC",
+      "countries": "Cambodia|Malaysia|Thailand"
+    },
+    {
+      "id": "malbec",
+      "name": "Malbec",
+      "length_km": 2600,
+      "rfs": "2021 Q1",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "GlobeNet, Facebook",
+      "countries": "Argentina|Brazil"
+    },
+    {
+      "id": "maldives-sri-lanka-cable-msc",
+      "name": "Maldives Sri Lanka Cable (MSC)",
+      "length_km": null,
+      "rfs": "2021 Q1",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Ooredoo Maldives, Dhiraagu, Dialog Axiata",
+      "countries": "Maldives|Sri Lanka"
+    },
+    {
+      "id": "malta-gozo-cable",
+      "name": "Malta-Gozo Cable",
+      "length_km": 13,
+      "rfs": "2021",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Government of Malta",
+      "countries": "Malta"
+    },
+    {
+      "id": "malta-italy-interconnector",
+      "name": "Malta-Italy Interconnector",
+      "length_km": 95,
+      "rfs": "2015",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Government of Malta",
+      "countries": "Italy|Malta"
+    },
+    {
+      "id": "manatua",
+      "name": "Manatua",
+      "length_km": 3634,
+      "rfs": "2020 July",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "OPT French Polynesia, Samoa Submarine Cable Company, Avaroa Cable Ltd., Telecom Niue",
+      "countries": "Cook Islands|French Polynesia|Niue|Samoa"
+    },
+    {
+      "id": "mandji-fiber-optic-cable",
+      "name": "Mandji Fiber Optic Cable",
+      "length_km": 50,
+      "rfs": "2021",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)",
+      "countries": "Equatorial Guinea"
+    },
+    {
+      "id": "maple-leaf-fibre",
+      "name": "Maple Leaf Fibre",
+      "length_km": 290,
+      "rfs": "2021 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Maple Leaf Fibre",
+      "countries": "Canada"
+    },
+    {
+      "id": "mariana-guam-cable",
+      "name": "Mariana-Guam Cable",
+      "length_km": null,
+      "rfs": "1997",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "IT&E",
+      "countries": "Northern Mariana Islands|United States"
+    },
+    {
+      "id": "mataram-kupang-cable-system-mkcs",
+      "name": "Mataram Kupang Cable System (MKCS)",
+      "length_km": 1318,
+      "rfs": "2011 April",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "matrix-cable-system",
+      "name": "Matrix Cable System",
+      "length_km": 1055,
+      "rfs": "2008 August",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Matrix Networks Pte. Ltd.",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "mauritius-and-rodrigues-submarine-cable-system-mars",
+      "name": "Mauritius and Rodrigues Submarine Cable System (MARS)",
+      "length_km": 677,
+      "rfs": "2019 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Mauritius Telecom",
+      "countries": "Mauritius"
+    },
+    {
+      "id": "maya-1",
+      "name": "Maya-1",
+      "length_km": 4400,
+      "rfs": "2000 October",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Verizon, AT&T, Sprint, Hondutel, Telefonica, Orbitel, Telecom Italia Sparkle, C&W Networks, Embratel, ETB, Axtel, Instituto Costarricense de Electricidad, BICS, Prepa Networks, Orange, Tricom, RSL Telecom, América Móvil",
+      "countries": "Cayman Islands|Colombia|Costa Rica|Honduras|Mexico|Panama|United States"
+    },
+    {
+      "id": "med-cable-network",
+      "name": "Med Cable Network",
+      "length_km": 1300,
+      "rfs": "2005 October",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Orascom Telecom Holding",
+      "countries": "Algeria|France"
+    },
+    {
+      "id": "mednautilus-submarine-system",
+      "name": "MedNautilus Submarine System",
+      "length_km": 7000,
+      "rfs": "2001 November",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle",
+      "countries": "Cyprus|Greece|Israel|Italy|Turkey"
+    },
+    {
+      "id": "melita-1",
+      "name": "Melita 1",
+      "length_km": 97,
+      "rfs": "2009 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Melita",
+      "countries": "Italy|Malta"
+    },
+    {
+      "id": "meltingpot-indianoceanic-submarine-system-metiss",
+      "name": "Meltingpot Indianoceanic Submarine System (METISS)",
+      "length_km": 3200,
+      "rfs": "2021",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telma (Telecom Malagasy), CEB Fibernet, Emtel, Canal+ Telecom, SFR, Zeop (incl. Reunicable)",
+      "countries": "Madagascar|Mauritius|Réunion|South Africa"
+    },
+    {
+      "id": "mid-atlantic-crossing-mac",
+      "name": "Mid-Atlantic Crossing (MAC)",
+      "length_km": 7500,
+      "rfs": "2000 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "United States"
+    },
+    {
+      "id": "middle-east-north-africa-mena-cable-systemgulf-bridge-international",
+      "name": "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+      "length_km": 8000,
+      "rfs": "2014 December",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Telecom Egypt, Gulf Bridge International",
+      "countries": "Egypt|Italy|Oman|Saudi Arabia"
+    },
+    {
+      "id": "miyazaki-okinawa-cable-moc",
+      "name": "Miyazaki-Okinawa Cable (MOC)",
+      "length_km": null,
+      "rfs": "1997",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "KDDI",
+      "countries": "Japan"
+    },
+    {
+      "id": "monet",
+      "name": "Monet",
+      "length_km": 10556,
+      "rfs": "2017 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Angola Cables, Google, Algar Telecom, Antel Uruguay",
+      "countries": "Brazil|United States"
+    },
+    {
+      "id": "moratelindo-international-cable-system-1-mic-1",
+      "name": "Moratelindo International Cable System-1 (MIC-1)",
+      "length_km": 70,
+      "rfs": "2008 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Moratelindo",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "n0r5ke-viking",
+      "name": "N0r5ke Viking",
+      "length_km": 750,
+      "rfs": "2021 Q1",
+      "landings": 14,
+      "source": "telegeography-2021",
+      "owners": "NOR5KE Fibre AS",
+      "countries": "Norway"
+    },
+    {
+      "id": "no-uk",
+      "name": "NO-UK",
+      "length_km": 713,
+      "rfs": "2021 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "NO-UK COM AS",
+      "countries": "Norway|United Kingdom"
+    },
+    {
+      "id": "national-digital-transmission-network-ndtn",
+      "name": "National Digital Transmission Network (NDTN)",
+      "length_km": 1400,
+      "rfs": "1999 March",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Telecoms Infrastructure Corporation of the Philippines (TelicPhil)",
+      "countries": "Philippines"
+    },
+    {
+      "id": "nationwide-submarine-cable-ooredoo-maldives-nascom",
+      "name": "Nationwide Submarine Cable Ooredoo Maldives (NaSCOM)",
+      "length_km": 1136,
+      "rfs": "2017 January",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Ooredoo Maldives",
+      "countries": "Maldives"
+    },
+    {
+      "id": "natitua",
+      "name": "Natitua",
+      "length_km": 2400,
+      "rfs": "2018 December",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "OPT French Polynesia",
+      "countries": "French Polynesia"
+    },
+    {
+      "id": "natitua-sud",
+      "name": "Natitua Sud",
+      "length_km": 820,
+      "rfs": "2022 Q3",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "OPT French Polynesia",
+      "countries": "French Polynesia"
+    },
+    {
+      "id": "nelson-levin",
+      "name": "Nelson-Levin",
+      "length_km": 212,
+      "rfs": "2001 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Spark New Zealand",
+      "countries": "New Zealand"
+    },
+    {
+      "id": "new-cross-pacific-ncp-cable-system",
+      "name": "New Cross Pacific (NCP) Cable System",
+      "length_km": 13618,
+      "rfs": "2018 May",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "China Telecom, China Unicom, Chunghwa Telecom, KT, China Mobile, Microsoft, Softbank Corp",
+      "countries": "China|Japan|South Korea|Taiwan|United States"
+    },
+    {
+      "id": "nigeria-cameroon-submarine-cable-system-ncscs",
+      "name": "Nigeria Cameroon Submarine Cable System (NCSCS)",
+      "length_km": 1100,
+      "rfs": "2015 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Camtel",
+      "countries": "Cameroon|Nigeria"
+    },
+    {
+      "id": "nordbalt",
+      "name": "NordBalt",
+      "length_km": 400,
+      "rfs": "2016",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Lietuvos Energija, Svenska Kraftnät",
+      "countries": "Lithuania|Sweden"
+    },
+    {
+      "id": "north-west-cable-system",
+      "name": "North West Cable System",
+      "length_km": 2100,
+      "rfs": "2016 September",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Vocus Communications",
+      "countries": "Australia"
+    },
+    {
+      "id": "northstar",
+      "name": "NorthStar",
+      "length_km": 3229,
+      "rfs": "1999 October",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Alaska Communications",
+      "countries": "United States"
+    },
+    {
+      "id": "northern-lights",
+      "name": "Northern Lights",
+      "length_km": 67,
+      "rfs": "2008",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "nunavut-undersea-fibre-optic-network-system",
+      "name": "Nunavut Undersea Fibre Optic Network System",
+      "length_km": 1700,
+      "rfs": "2023",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Government of Nunavut",
+      "countries": "Canada|Greenland"
+    },
+    {
+      "id": "nzadi-cable-system",
+      "name": "Nzadi Cable System",
+      "length_km": null,
+      "rfs": "2023 Q4",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Kakike, Lda., KumoxiCom, Lda.",
+      "countries": "Angola"
+    },
+    {
+      "id": "omranepeg-cable-system",
+      "name": "OMRAN/EPEG Cable System",
+      "length_km": 600,
+      "rfs": "2013 Q1",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Omantel, Vodafone",
+      "countries": "Iran|Oman"
+    },
+    {
+      "id": "oteglobe-kokkini-bari",
+      "name": "OTEGLOBE Kokkini-Bari",
+      "length_km": 700,
+      "rfs": "2004 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "OTEGLOBE",
+      "countries": "Greece|Italy"
+    },
+    {
+      "id": "okinawa-cellular-cable",
+      "name": "Okinawa Cellular Cable",
+      "length_km": 760,
+      "rfs": "2020 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Okinawa Cellular Telephone Company",
+      "countries": "Japan"
+    },
+    {
+      "id": "oman-australia-cable-oac",
+      "name": "Oman Australia Cable (OAC)",
+      "length_km": 9800,
+      "rfs": "2021 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "SUB.CO",
+      "countries": "Australia|Oman"
+    },
+    {
+      "id": "oran-valencia-orval",
+      "name": "Oran-Valencia (ORVAL)",
+      "length_km": 770,
+      "rfs": "2020 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Algerie Telecom",
+      "countries": "Algeria|Spain"
+    },
+    {
+      "id": "orient-express",
+      "name": "Orient Express",
+      "length_km": 1300,
+      "rfs": "2021",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "du, Wi-Tribe (Pakistan)",
+      "countries": "Pakistan|United Arab Emirates"
+    },
+    {
+      "id": "pasuli",
+      "name": "PASULI",
+      "length_km": 40,
+      "rfs": "2019 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata, FiberStar",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "peace-cable",
+      "name": "PEACE Cable",
+      "length_km": 15000,
+      "rfs": "2021 Q1",
+      "landings": 13,
+      "source": "telegeography-2021",
+      "owners": "Peace Cable International Network Co. Ltd.",
+      "countries": "Cyprus|Djibouti|Egypt|France|Kenya|Pakistan|Seychelles|Somalia"
+    },
+    {
+      "id": "penbal-5",
+      "name": "PENBAL-5",
+      "length_km": 309,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "pgascom",
+      "name": "PGASCOM",
+      "length_km": 264,
+      "rfs": "2010",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "PGASCOM",
+      "countries": "Indonesia|Singapore"
+    },
+    {
+      "id": "pipe-pacific-cable-1-ppc-1",
+      "name": "PIPE Pacific Cable-1 (PPC-1)",
+      "length_km": 6900,
+      "rfs": "2009 October",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "TPG",
+      "countries": "Australia|Papua New Guinea|United States"
+    },
+    {
+      "id": "pldt-domestic-fiber-optic-network-dfon",
+      "name": "PLDT Domestic Fiber Optic Network (DFON)",
+      "length_km": 11100,
+      "rfs": "1997",
+      "landings": 13,
+      "source": "telegeography-2021",
+      "owners": "PLDT",
+      "countries": "Philippines"
+    },
+    {
+      "id": "png-lng",
+      "name": "PNG LNG",
+      "length_km": 200,
+      "rfs": "2014",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telikom Papua New Guinea",
+      "countries": "Papua New Guinea"
+    },
+    {
+      "id": "poseidon",
+      "name": "POSEIDON",
+      "length_km": 800,
+      "rfs": "2014 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Ocean Specialists, Inc (OSI)",
+      "countries": "Cyprus"
+    },
+    {
+      "id": "pacific-cable",
+      "name": "Pacific Cable",
+      "length_km": 7300,
+      "rfs": "2021",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "América Móvil, Telxius",
+      "countries": "Chile|Ecuador|Guatemala|Peru"
+    },
+    {
+      "id": "pacific-caribbean-cable-system-pccs",
+      "name": "Pacific Caribbean Cable System (PCCS)",
+      "length_km": 6000,
+      "rfs": "2015 September",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks, Telconet, Setar, United Telecommunication Services (UTS), Telxius",
+      "countries": "Aruba|Colombia|Curaçao|Ecuador|Panama|United States|Virgin Islands (U.K.)"
+    },
+    {
+      "id": "pacific-crossing-1-pc-1",
+      "name": "Pacific Crossing-1 (PC-1)",
+      "length_km": 21000,
+      "rfs": "1999 December",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Pacific Crossing",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "pacific-light-cable-network-plcn",
+      "name": "Pacific Light Cable Network (PLCN)",
+      "length_km": 11806,
+      "rfs": "2020 April",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google, Facebook",
+      "countries": "Philippines|Taiwan|United States"
+    },
+    {
+      "id": "palapa-ring-east",
+      "name": "Palapa Ring East",
+      "length_km": 6300,
+      "rfs": "2019 October",
+      "landings": 18,
+      "source": "telegeography-2021",
+      "owners": "Indonesian Government, Moratelindo, Telekom PT SmartFren",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "palapa-ring-middle",
+      "name": "Palapa Ring Middle",
+      "length_km": 2100,
+      "rfs": "2018 December",
+      "landings": 20,
+      "source": "telegeography-2021",
+      "owners": "Indonesian Government",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "palapa-ring-west",
+      "name": "Palapa Ring West",
+      "length_km": 1980,
+      "rfs": "2018 February",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Indonesian Government",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "palawa-iloilo-cable-system",
+      "name": "Palawa-Iloilo Cable System",
+      "length_km": 300,
+      "rfs": "2014 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "PLDT",
+      "countries": "Philippines"
+    },
+    {
+      "id": "pan-american-pan-am",
+      "name": "Pan American (PAN-AM)",
+      "length_km": 7225,
+      "rfs": "1999 February",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "AT&T, Telefonica del Peru, Softbank Corp, Telecom Italia Sparkle, CANTV, Tata Communications, Telefónica de Argentina, Telstra, Verizon, Entel Chile, Telecom Argentina, Telconet, Instituto Costarricense de Electricidad, C&W Networks, Embratel, CNT",
+      "countries": "Aruba|Chile|Colombia|Ecuador|Panama|Peru|United States|Venezuela|Virgin Islands (U.S.)"
+    },
+    {
+      "id": "pan-european-crossing-uk-belgium",
+      "name": "Pan European Crossing (UK-Belgium)",
+      "length_km": 117,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "Belgium|United Kingdom"
+    },
+    {
+      "id": "pan-european-crossing-uk-ireland",
+      "name": "Pan European Crossing (UK-Ireland)",
+      "length_km": 495,
+      "rfs": "2000 September",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "pan-american-crossing-pac",
+      "name": "Pan-American Crossing (PAC)",
+      "length_km": 10000,
+      "rfs": "2000 March",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "Costa Rica|Mexico|Panama|United States"
+    },
+    {
+      "id": "paniolo-cable-network",
+      "name": "Paniolo Cable Network",
+      "length_km": 576,
+      "rfs": "2009",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Paniolo Cable Company",
+      "countries": "United States"
+    },
+    {
+      "id": "pencan-8",
+      "name": "Pencan-8",
+      "length_km": 1400,
+      "rfs": "2011",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "pencan-9",
+      "name": "Pencan-9",
+      "length_km": 1398,
+      "rfs": "n.a.",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "persona",
+      "name": "Persona",
+      "length_km": 800,
+      "rfs": "2008",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "EastLink",
+      "countries": "Canada"
+    },
+    {
+      "id": "picot-1",
+      "name": "Picot-1",
+      "length_km": null,
+      "rfs": "2008",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "OPT",
+      "countries": "New Caledonia"
+    },
+    {
+      "id": "pishgaman-oman-iran-poi-network",
+      "name": "Pishgaman Oman Iran (POI) Network",
+      "length_km": 400,
+      "rfs": "2012 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Pishgaman Kavir",
+      "countries": "Iran|Oman"
+    },
+    {
+      "id": "polar-circle-cable",
+      "name": "Polar Circle Cable",
+      "length_km": 1004,
+      "rfs": "2007 September",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "KystTele",
+      "countries": "Norway"
+    },
+    {
+      "id": "prat",
+      "name": "Prat",
+      "length_km": 3500,
+      "rfs": "2020 Q2",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Gtd Teleductos S.A.",
+      "countries": "Chile"
+    },
+    {
+      "id": "qatar-u-a-e-submarine-cable-system",
+      "name": "Qatar-U.A.E. Submarine Cable System",
+      "length_km": 100,
+      "rfs": "2004 December",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Etisalat, Ooredoo",
+      "countries": "Qatar|United Arab Emirates"
+    },
+    {
+      "id": "quintillion-subsea-cable-network",
+      "name": "Quintillion Subsea Cable Network",
+      "length_km": 1900,
+      "rfs": "2017 December",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Quintillion",
+      "countries": "United States"
+    },
+    {
+      "id": "rockabill",
+      "name": "Rockabill",
+      "length_km": 221,
+      "rfs": "2019 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "euNetworks",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "russia-japan-cable-network-rjcn",
+      "name": "Russia-Japan Cable Network (RJCN)",
+      "length_km": 1800,
+      "rfs": "2008 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Rostelecom, KDDI",
+      "countries": "Japan|Russia"
+    },
+    {
+      "id": "rnne-rdvig",
+      "name": "Rønne-Rødvig",
+      "length_km": 153,
+      "rfs": "1989",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "TDC Group",
+      "countries": "Denmark"
+    },
+    {
+      "id": "s-u-b-cable-system",
+      "name": "S-U-B Cable System",
+      "length_km": 2009,
+      "rfs": "2008",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "safe",
+      "name": "SAFE",
+      "length_km": 13500,
+      "rfs": "2002 April",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Orange, Telekom Malaysia, Telkom South Africa, Tata Communications, AT&T, Camtel, Angola Telecom, Ghana Telecommunications Company, Mauritius Telecom, Verizon, NATCOM (Nigeria), OPT, Telefonica, BICS, China Telecom, Chunghwa Telecom, Cote d’Ivoire Telecom, Maroc Telecom, KT, KPN, Singtel, Sprint, Telecom Italia Sparkle, Telecom Namibia, Telstra, PCCW, Sonatel, Neotel, Vodafone",
+      "countries": "India|Malaysia|Mauritius|Réunion|South Africa"
+    },
+    {
+      "id": "sat-3wasc",
+      "name": "SAT-3/WASC",
+      "length_km": 14350,
+      "rfs": "2002 April",
+      "landings": 12,
+      "source": "telegeography-2021",
+      "owners": "Telkom South Africa, Tata Communications, AT&T, BT, Camtel, Angola Telecom, Ghana Telecommunications Company, Mauritius Telecom, Verizon, NATCOM (Nigeria), OPT, BICS, Sprint, Singtel, KPN, Orange, Telecom Italia Sparkle, Telecom Namibia, Telekom Malaysia, Telxius, China Telecom, Chunghwa Telecom, Cote d’Ivoire Telecom, Deutsche Telekom, Maroc Telecom, KT, Altice Portugal, PCCW, Telstra, Cyta, Neotel, Vodafone, Benin Telecoms",
+      "countries": "Angola|Benin|Cameroon|Côte d'Ivoire|Gabon|Ghana|Nigeria|Portugal|Senegal|South Africa|Spain"
+    },
+    {
+      "id": "sea-us",
+      "name": "SEA-US",
+      "length_km": 14500,
+      "rfs": "2017 August",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "RTI, Globe Telecom, Hawaiian Telcom, GTA TeleGuam, Telin",
+      "countries": "Indonesia|Micronesia|Palau|Philippines|United States"
+    },
+    {
+      "id": "seacomtata-tgn-eurasia",
+      "name": "SEACOM/Tata TGN-Eurasia",
+      "length_km": 15000,
+      "rfs": "2009 July",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications, SEACOM",
+      "countries": "Djibouti|Egypt|India|Kenya|Mozambique|Saudi Arabia|South Africa|Tanzania"
+    },
+    {
+      "id": "sealink",
+      "name": "SEALink",
+      "length_km": 345,
+      "rfs": "2025",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Alaska Power & Telephone Company (AP&T)",
+      "countries": "United States"
+    },
+    {
+      "id": "seax-1",
+      "name": "SEAX-1",
+      "length_km": 250,
+      "rfs": "2018 May",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "SEAX",
+      "countries": "Indonesia|Malaysia|Singapore"
+    },
+    {
+      "id": "shefa-2",
+      "name": "SHEFA-2",
+      "length_km": 1000,
+      "rfs": "2008 March",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Shefa",
+      "countries": "Faroe Islands|United Kingdom"
+    },
+    {
+      "id": "sjjk",
+      "name": "SJJK",
+      "length_km": 543,
+      "rfs": "2008 December",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "XL Axiata",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "smpcs-packet-1",
+      "name": "SMPCS Packet-1",
+      "length_km": 3156,
+      "rfs": "2015",
+      "landings": 12,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "smpcs-packet-2",
+      "name": "SMPCS Packet-2",
+      "length_km": 3498,
+      "rfs": "2015",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "saba-statia-cable-system-sscs",
+      "name": "Saba, Statia Cable System (SSCS)",
+      "length_km": 198,
+      "rfs": "2013",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Government of the Netherlands",
+      "countries": "Saint Barthélemy|Saint Kitts and Nevis|Saint Martin|Sint Eustatius and Saba"
+    },
+    {
+      "id": "sakhalin-kuril-islands-cable",
+      "name": "Sakhalin-Kuril Islands Cable",
+      "length_km": 940,
+      "rfs": "2019 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Rostelecom",
+      "countries": "Russia"
+    },
+    {
+      "id": "samoa-american-samoa-sas",
+      "name": "Samoa-American Samoa (SAS)",
+      "length_km": 250,
+      "rfs": "2009 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "American Samoa Government, Elandia",
+      "countries": "American Samoa|Samoa"
+    },
+    {
+      "id": "san-andres-isla-tolu-submarine-cable-sait",
+      "name": "San Andres Isla Tolu Submarine Cable (SAIT)",
+      "length_km": 826,
+      "rfs": "2010 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Energía Integral Andina",
+      "countries": "Colombia"
+    },
+    {
+      "id": "saudi-arabia-sudan-1-sas-1",
+      "name": "Saudi Arabia-Sudan-1 (SAS-1)",
+      "length_km": 333,
+      "rfs": "2003 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Sudan Telecom Company, Saudi Telecom, The Arab Investment Company",
+      "countries": "Saudi Arabia|Sudan"
+    },
+    {
+      "id": "saudi-arabia-sudan-2-sas-2",
+      "name": "Saudi Arabia-Sudan-2 (SAS-2)",
+      "length_km": 330,
+      "rfs": "2011 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Sudan Telecom Company, Saudi Telecom",
+      "countries": "Saudi Arabia|Sudan"
+    },
+    {
+      "id": "scandinavian-ring-north",
+      "name": "Scandinavian Ring North",
+      "length_km": 5,
+      "rfs": "2000",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "scandinavian-ring-south",
+      "name": "Scandinavian Ring South",
+      "length_km": 21,
+      "rfs": "2000",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier",
+      "countries": "Denmark|Sweden"
+    },
+    {
+      "id": "scotland-northern-ireland-1",
+      "name": "Scotland-Northern Ireland 1",
+      "length_km": 35,
+      "rfs": "1989",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "scotland-northern-ireland-2",
+      "name": "Scotland-Northern Ireland 2",
+      "length_km": 82,
+      "rfs": "1993",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "BT",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "seamewe-3",
+      "name": "SeaMeWe-3",
+      "length_km": 39000,
+      "rfs": "1999 September",
+      "landings": 38,
+      "source": "telegeography-2021",
+      "owners": "Orange, BT, KDDI, Singtel, Telecom Italia Sparkle, Telekom Malaysia, OTEGLOBE, AT&T, BICS, CAT Telecom Public Company Limited, China Telecom, Deutsche Telekom, Etisalat, Telecom Egypt, CTM, Indosat Ooredoo, Jabatan Telecom Brunei, KT, Altice Portugal, Maroc Telecom, PLDT, Saudi Telecom, Sri Lanka Telecom, Turk Telekom, Tata Communications, Chunghwa Telecom, Verizon, KPN, Telekom Austria, Singtel Optus, Telstra, VNPT International, Omantel, PCCW, Pakistan Telecommunications Company Ltd., Cyta, eir, LG Uplus, Softbank Corp, Telkom South Africa, Rostelecom, Orange Polska, Singtel Optus, Telecom Argentina, Myanmar Post and Telecommunication (MPT), Vocus Communications, Djibouti Telecom, Embratel, Vodafone, Turk Telekom International, Ukrtelecom, Singtel Optus, Tunisia Telecom",
+      "countries": "Australia|Belgium|Brunei|China|Cyprus|Djibouti|Egypt|France|Greece|India|Indonesia|Italy|Japan|Malaysia|Morocco|Myanmar|Oman|Pakistan|Philippines|Portugal|Saudi Arabia|Singapore|South Korea|Sri Lanka|Taiwan|Thailand|Turkey|United Arab Emirates|United Kingdom|Vietnam"
+    },
+    {
+      "id": "seamewe-4",
+      "name": "SeaMeWe-4",
+      "length_km": 20000,
+      "rfs": "2005 December",
+      "landings": 16,
+      "source": "telegeography-2021",
+      "owners": "Bangladesh Submarine Cable Company Limited (BSCCL), Orange, Singtel, Telecom Italia Sparkle, Tata Communications, Telekom Malaysia, Airtel (Bharti), Sri Lanka Telecom, Etisalat, Saudi Telecom, CAT Telecom Public Company Limited, Tunisia Telecom, Verizon, Pakistan Telecommunications Company Ltd., Telecom Egypt, Algerie Telecom",
+      "countries": "Algeria|Bangladesh|Egypt|France|India|Italy|Malaysia|Pakistan|Saudi Arabia|Singapore|Sri Lanka|Thailand|Tunisia|United Arab Emirates"
+    },
+    {
+      "id": "seamewe-5",
+      "name": "SeaMeWe-5",
+      "length_km": 20000,
+      "rfs": "2016 December",
+      "landings": 18,
+      "source": "telegeography-2021",
+      "owners": "Telekom Malaysia, Bangladesh Submarine Cable Company Limited (BSCCL), China Mobile, China Telecom, Orange, Myanmar Post and Telecommunication (MPT), Saudi Telecom, Sri Lanka Telecom, Telkom Indonesia, Singtel, Telecom Italia Sparkle, TeleYemen, China Unicom, du, Turk Telekom International, TransWorld Associates (Pvt.) Limited, Ooredoo, Telecom Egypt, Djibouti Telecom",
+      "countries": "Bangladesh|Djibouti|Egypt|France|Indonesia|Italy|Malaysia|Myanmar|Oman|Pakistan|Saudi Arabia|Singapore|Sri Lanka|Turkey|United Arab Emirates|Yemen"
+    },
+    {
+      "id": "seabras-1",
+      "name": "Seabras-1",
+      "length_km": 10800,
+      "rfs": "2017 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Seaborn Networks, Telecom Italia Sparkle",
+      "countries": "Brazil|United States"
+    },
+    {
+      "id": "segunda-fos-canal-de-chacao",
+      "name": "Segunda FOS Canal de Chacao",
+      "length_km": 40,
+      "rfs": "2015 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Gtd Teleductos S.A.",
+      "countries": "Chile"
+    },
+    {
+      "id": "senegal-horn-of-africa-regional-express-share-cable",
+      "name": "Senegal Horn of Africa Regional Express (SHARE) Cable",
+      "length_km": 720,
+      "rfs": "2021 Q1",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "Cape Verde|Senegal"
+    },
+    {
+      "id": "seychelles-to-east-africa-system-seas",
+      "name": "Seychelles to East Africa System (SEAS)",
+      "length_km": 1930,
+      "rfs": "2012 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Seychelles Cable System Ltd.",
+      "countries": "Seychelles|Tanzania"
+    },
+    {
+      "id": "silphium",
+      "name": "Silphium",
+      "length_km": 425,
+      "rfs": "2013 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Libya International Telecommunications Company",
+      "countries": "Greece|Libya"
+    },
+    {
+      "id": "singapore-myanmar-sigmar",
+      "name": "Singapore-Myanmar (SIGMAR)",
+      "length_km": 2227,
+      "rfs": "2021",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Campana Group",
+      "countries": "Myanmar|Singapore"
+    },
+    {
+      "id": "sint-maarten-puerto-rico-network-one-smpr-1",
+      "name": "Sint Maarten Puerto Rico Network One (SMPR-1)",
+      "length_km": 375,
+      "rfs": "2004 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "TelEm Group, Dauphin Telecom",
+      "countries": "Saint Martin|Sint Maarten|United States"
+    },
+    {
+      "id": "sir-abu-nuayr-cable",
+      "name": "Sir Abu Nu’ayr Cable",
+      "length_km": 4,
+      "rfs": "2018",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Etisalat",
+      "countries": "United Arab Emirates"
+    },
+    {
+      "id": "sirius-north",
+      "name": "Sirius North",
+      "length_km": 147,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Virgin Media Business",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "sirius-south",
+      "name": "Sirius South",
+      "length_km": 219,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Virgin Media Business",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "sistem-kabel-rakyat-1malaysia-skr1m",
+      "name": "Sistem Kabel Rakyat 1Malaysia (SKR1M)",
+      "length_km": 3800,
+      "rfs": "2017 September",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Telekom Malaysia, TIME dotCom",
+      "countries": "Malaysia"
+    },
+    {
+      "id": "skagenfiber-west",
+      "name": "Skagenfiber West",
+      "length_km": 170,
+      "rfs": "2020 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Altibox (inc. Lyse Tele)",
+      "countries": "Denmark|Norway"
+    },
+    {
+      "id": "skagerrak-4",
+      "name": "Skagerrak 4",
+      "length_km": 137,
+      "rfs": "2014 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Statnett",
+      "countries": "Denmark|Norway"
+    },
+    {
+      "id": "solas",
+      "name": "Solas",
+      "length_km": 232,
+      "rfs": "1999 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "eir, Vodafone",
+      "countries": "Ireland|United Kingdom"
+    },
+    {
+      "id": "sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip",
+      "name": "Sorsogon-Samar Submarine Fiber Optical Interconnection Project (SSSFOIP)",
+      "length_km": 21,
+      "rfs": "2019",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "National Grid Corporation of the Philippines",
+      "countries": "Philippines"
+    },
+    {
+      "id": "south-america-1-sam-1",
+      "name": "South America-1 (SAm-1)",
+      "length_km": 25000,
+      "rfs": "2001 March",
+      "landings": 16,
+      "source": "telegeography-2021",
+      "owners": "Telxius",
+      "countries": "Argentina|Brazil|Chile|Colombia|Dominican Republic|Ecuador|Guatemala|Peru|United States"
+    },
+    {
+      "id": "south-american-crossing-sac",
+      "name": "South American Crossing (SAC)",
+      "length_km": 20000,
+      "rfs": "2000 September",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "Telecom Italia Sparkle, Lumen",
+      "countries": "Argentina|Brazil|Chile|Colombia|Panama|Peru|United States|Venezuela"
+    },
+    {
+      "id": "south-atlantic-cable-system-sacs",
+      "name": "South Atlantic Cable System (SACS)",
+      "length_km": 6165,
+      "rfs": "2018 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Angola Cables",
+      "countries": "Angola|Brazil"
+    },
+    {
+      "id": "south-atlantic-inter-link-sail",
+      "name": "South Atlantic Inter Link (SAIL)",
+      "length_km": 5800,
+      "rfs": "2018 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Camtel, China Unicom",
+      "countries": "Brazil|Cameroon"
+    },
+    {
+      "id": "southeast-asia-japan-cable-sjc",
+      "name": "Southeast Asia Japan Cable (SJC)",
+      "length_km": 8900,
+      "rfs": "2013 June",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Globe Telecom, Google, KDDI, Telkom Indonesia, Singtel, China Telecom, TOT, China Mobile, Chunghwa Telecom, Unified National Networks (UNN)",
+      "countries": "Brunei|China|Japan|Philippines|Singapore"
+    },
+    {
+      "id": "southeast-asia-japan-cable-2-sjc2",
+      "name": "Southeast Asia-Japan Cable 2 (SJC2)",
+      "length_km": 10500,
+      "rfs": "2021 Q4",
+      "landings": 10,
+      "source": "telegeography-2021",
+      "owners": "China Mobile, Chunghwa Telecom, Facebook, KDDI, Singtel, SK Broadband, VNPT-Vinaphone, True Corporation, Telin, DongHwa Telecom",
+      "countries": "China|Japan|Singapore|South Korea|Taiwan|Thailand|Vietnam"
+    },
+    {
+      "id": "southern-caribbean-fiber",
+      "name": "Southern Caribbean Fiber",
+      "length_km": 3000,
+      "rfs": "2006 September",
+      "landings": 16,
+      "source": "telegeography-2021",
+      "owners": "Digicel",
+      "countries": "Antigua and Barbuda|Barbados|Dominica|Grenada|Guadeloupe|Martinique|Montserrat|Saint Barthélemy|Saint Kitts and Nevis|Saint Lucia|Saint Martin|Saint Vincent and the Grenadines|Trinidad and Tobago|United States"
+    },
+    {
+      "id": "southern-cross-cable-network-sccn",
+      "name": "Southern Cross Cable Network (SCCN)",
+      "length_km": 30500,
+      "rfs": "2000 November",
+      "landings": 9,
+      "source": "telegeography-2021",
+      "owners": "Southern Cross Cable Network",
+      "countries": "Australia|Fiji|New Zealand|United States"
+    },
+    {
+      "id": "southern-cross-next",
+      "name": "Southern Cross NEXT",
+      "length_km": 13700,
+      "rfs": "2022 Q2",
+      "landings": 8,
+      "source": "telegeography-2021",
+      "owners": "Southern Cross Cable Network",
+      "countries": "Australia|Fiji|Kiribati|New Zealand|Samoa|Tokelau|United States"
+    },
+    {
+      "id": "st-pierre-and-miquelon-cable",
+      "name": "St. Pierre and Miquelon Cable",
+      "length_km": 200,
+      "rfs": "2018 May",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "French Authority of St. Pierre and Miquelon",
+      "countries": "Canada|Saint Pierre and Miquelon"
+    },
+    {
+      "id": "st-thomas-st-croix-system",
+      "name": "St. Thomas-St. Croix System",
+      "length_km": 183,
+      "rfs": "2013 July",
+      "landings": 7,
+      "source": "telegeography-2021",
+      "owners": "Virgin Islands Next Generation Networks, Inc.",
+      "countries": "United States|Virgin Islands (U.S.)"
+    },
+    {
+      "id": "strategic-evolution-underwater-link-seul",
+      "name": "Strategic Evolution Underwater Link (SEUL)",
+      "length_km": 24,
+      "rfs": "2017 July",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Belize Telemedia",
+      "countries": "Belize"
+    },
+    {
+      "id": "subcan-link-1",
+      "name": "Subcan Link 1",
+      "length_km": 143,
+      "rfs": "2002 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Cable Submarine de Canarias",
+      "countries": "Spain"
+    },
+    {
+      "id": "subcan-link-2",
+      "name": "Subcan Link 2",
+      "length_km": 136,
+      "rfs": "2002 May",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Cable Submarine de Canarias",
+      "countries": "Spain"
+    },
+    {
+      "id": "sumatera-bangka-cable-system-sbcs",
+      "name": "Sumatera Bangka Cable System (SBCS)",
+      "length_km": 57,
+      "rfs": "2014",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "suriname-guyana-submarine-cable-system-sg-scs",
+      "name": "Suriname-Guyana Submarine Cable System (SG-SCS)",
+      "length_km": 1249,
+      "rfs": "2010 July",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Guyana Telephone and Telegraph (GT&T), Telesur",
+      "countries": "Guyana|Suriname|Trinidad and Tobago"
+    },
+    {
+      "id": "svalbard-undersea-cable-system",
+      "name": "Svalbard Undersea Cable System",
+      "length_km": 2714,
+      "rfs": "2004 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telenor",
+      "countries": "Norway"
+    },
+    {
+      "id": "swansea-brean",
+      "name": "Swansea-Brean",
+      "length_km": 97,
+      "rfs": "1993",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Vodafone",
+      "countries": "United Kingdom"
+    },
+    {
+      "id": "sweden-estonia-ee-s-1",
+      "name": "Sweden-Estonia (EE-S 1)",
+      "length_km": 240,
+      "rfs": "1995 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Telia Eesti, GN Great Nordic",
+      "countries": "Estonia|Sweden"
+    },
+    {
+      "id": "sweden-finland-4-sfs-4",
+      "name": "Sweden-Finland 4 (SFS-4)",
+      "length_km": 254,
+      "rfs": "1993 December",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Elisa Corporation",
+      "countries": "Finland|Sweden"
+    },
+    {
+      "id": "sweden-finland-link-sfl",
+      "name": "Sweden-Finland Link (SFL)",
+      "length_km": 142,
+      "rfs": "1994",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telia Carrier, Elisa Corporation",
+      "countries": "Finland|Sweden"
+    },
+    {
+      "id": "sweden-latvia",
+      "name": "Sweden-Latvia",
+      "length_km": 391,
+      "rfs": "2005 January",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Latvia State Radio and Television Centre",
+      "countries": "Latvia|Sweden"
+    },
+    {
+      "id": "sxs",
+      "name": "SxS",
+      "length_km": 10400,
+      "rfs": "2022",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "RTI",
+      "countries": "United States"
+    },
+    {
+      "id": "te-northtgn-eurasiaseacomalexandrosmedex",
+      "name": "TE North/TGN-Eurasia/SEACOM/Alexandros/Medex",
+      "length_km": 3634,
+      "rfs": "2011 July",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telecom Egypt, Cyta, SEACOM, Tata Communications, Algerie Telecom, PCCW",
+      "countries": "Algeria|Cyprus|Egypt|France"
+    },
+    {
+      "id": "terra-sw",
+      "name": "TERRA SW",
+      "length_km": null,
+      "rfs": "2012",
+      "landings": 11,
+      "source": "telegeography-2021",
+      "owners": "GCI",
+      "countries": "United States"
+    },
+    {
+      "id": "topaz",
+      "name": "TOPAZ",
+      "length_km": null,
+      "rfs": "2022",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google",
+      "countries": "Canada|Japan"
+    },
+    {
+      "id": "transcan-2",
+      "name": "TRANSCAN-2",
+      "length_km": 238,
+      "rfs": "1990",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "transcan-3",
+      "name": "TRANSCAN-3",
+      "length_km": 210,
+      "rfs": "2000",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "tt-1",
+      "name": "TT-1",
+      "length_km": 48,
+      "rfs": "2012 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "C&W Networks, TSTT, Alliance Telecommunications",
+      "countries": "Trinidad and Tobago"
+    },
+    {
+      "id": "taba-aqaba",
+      "name": "Taba-Aqaba",
+      "length_km": 13,
+      "rfs": "1998",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "National Electric Power Company of Jordan",
+      "countries": "Egypt|Jordan"
+    },
+    {
+      "id": "taino-carib",
+      "name": "Taino-Carib",
+      "length_km": 186,
+      "rfs": "1992 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "AT&T, Embratel, Orange, C&W Networks",
+      "countries": "United States"
+    },
+    {
+      "id": "taiwan-strait-express-1-tse-1",
+      "name": "Taiwan Strait Express-1 (TSE-1)",
+      "length_km": 260,
+      "rfs": "2013 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "China Unicom, Far Eastone Telecommunications, Taiwan Mobile, Chunghwa Telecom, China Mobile, Taiwan International Gateway Corporation",
+      "countries": "China|Taiwan"
+    },
+    {
+      "id": "tamares-north",
+      "name": "Tamares North",
+      "length_km": 345,
+      "rfs": "2012 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tamares UK Group",
+      "countries": "Cyprus|Israel"
+    },
+    {
+      "id": "tampnet-offshore-foc-network",
+      "name": "Tampnet Offshore FOC Network",
+      "length_km": 1751,
+      "rfs": "1999 July",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Tampnet",
+      "countries": "Norway|United Kingdom"
+    },
+    {
+      "id": "tangerine",
+      "name": "Tangerine",
+      "length_km": 112,
+      "rfs": "2000 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "Belgium|United Kingdom"
+    },
+    {
+      "id": "tanjun-pandan-sungai-kakap-cable-system",
+      "name": "Tanjun Pandan-Sungai Kakap Cable System",
+      "length_km": 348,
+      "rfs": "2019 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Moratelindo",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "tannat",
+      "name": "Tannat",
+      "length_km": 2000,
+      "rfs": "2018 Q1",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Google, Antel Uruguay",
+      "countries": "Argentina|Brazil|Uruguay"
+    },
+    {
+      "id": "tarakan-selor-cable-system-tscs",
+      "name": "Tarakan Selor Cable System (TSCS)",
+      "length_km": 83,
+      "rfs": "2014",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telkom Indonesia",
+      "countries": "Indonesia"
+    },
+    {
+      "id": "tasman-global-access-tga-cable",
+      "name": "Tasman Global Access (TGA) Cable",
+      "length_km": 2288,
+      "rfs": "2017 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Spark New Zealand, Vodafone, Telstra",
+      "countries": "Australia|New Zealand"
+    },
+    {
+      "id": "tata-tgn-atlantic",
+      "name": "Tata TGN-Atlantic",
+      "length_km": 13000,
+      "rfs": "2001 June",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "United Kingdom|United States"
+    },
+    {
+      "id": "tata-tgn-gulf",
+      "name": "Tata TGN-Gulf",
+      "length_km": 4031,
+      "rfs": "2012 February",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "Bahrain|Oman|Qatar|Saudi Arabia|United Arab Emirates"
+    },
+    {
+      "id": "tata-tgn-intra-asia-tgn-ia",
+      "name": "Tata TGN-Intra Asia (TGN-IA)",
+      "length_km": 6700,
+      "rfs": "2009 March",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "China|Philippines|Singapore|Vietnam"
+    },
+    {
+      "id": "tata-tgn-pacific",
+      "name": "Tata TGN-Pacific",
+      "length_km": 22300,
+      "rfs": "2002 December",
+      "landings": 5,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "tata-tgn-tata-indicom",
+      "name": "Tata TGN-Tata Indicom",
+      "length_km": 3175,
+      "rfs": "2004 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "India|Singapore"
+    },
+    {
+      "id": "tata-tgn-western-europe",
+      "name": "Tata TGN-Western Europe",
+      "length_km": 3578,
+      "rfs": "2002 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Tata Communications",
+      "countries": "Portugal|Spain|United Kingdom"
+    },
+    {
+      "id": "telstra-endeavour",
+      "name": "Telstra Endeavour",
+      "length_km": 9125,
+      "rfs": "2008 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telstra",
+      "countries": "Australia|United States"
+    },
+    {
+      "id": "tenerife-gran-canaria",
+      "name": "Tenerife-Gran Canaria",
+      "length_km": 110,
+      "rfs": "1999",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "tenerife-la-gomera-la-palma",
+      "name": "Tenerife-La Gomera-La Palma",
+      "length_km": 222,
+      "rfs": "1994",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "tenerife-la-palma",
+      "name": "Tenerife-La Palma",
+      "length_km": null,
+      "rfs": "n.a.",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telefonica",
+      "countries": "Spain"
+    },
+    {
+      "id": "thailand-indonesia-singapore-tis",
+      "name": "Thailand-Indonesia-Singapore (TIS)",
+      "length_km": 968,
+      "rfs": "2003 December",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Singtel, CAT Telecom Public Company Limited, Telkom Indonesia",
+      "countries": "Indonesia|Singapore|Thailand"
+    },
+    {
+      "id": "the-east-african-marine-system-teams",
+      "name": "The East African Marine System (TEAMS)",
+      "length_km": 4900,
+      "rfs": "2009 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Etisalat, TEAMS Ltd.",
+      "countries": "Kenya|United Arab Emirates"
+    },
+    {
+      "id": "tobrok-emasaed-cable-system",
+      "name": "Tobrok-Emasaed Cable System",
+      "length_km": 178,
+      "rfs": "2010 October",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Libya International Telecommunications Company",
+      "countries": "Libya"
+    },
+    {
+      "id": "tokelau-submarine-cable",
+      "name": "Tokelau Submarine Cable",
+      "length_km": 250,
+      "rfs": "2021",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Teletok",
+      "countries": "Tokelau"
+    },
+    {
+      "id": "tonga-cable",
+      "name": "Tonga Cable",
+      "length_km": 827,
+      "rfs": "2013 August",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tonga Communications Corporation, Government of Tonga, Digicel Tonga",
+      "countries": "Fiji|Tonga"
+    },
+    {
+      "id": "tonga-domestic-cable-extension-tdce",
+      "name": "Tonga Domestic Cable Extension (TDCE)",
+      "length_km": 410,
+      "rfs": "2018 January",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "Tonga Cable Limited",
+      "countries": "Tonga"
+    },
+    {
+      "id": "trans-caspian-fiber-optic-tcfo",
+      "name": "Trans Caspian Fiber Optic (TCFO)",
+      "length_km": 341,
+      "rfs": "2022 Q4",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Azertelecom, Transtelecom Kazakhstan",
+      "countries": "Azerbaijan|Kazakhstan"
+    },
+    {
+      "id": "trans-pacific-express-tpe-cable-system",
+      "name": "Trans-Pacific Express (TPE) Cable System",
+      "length_km": 17000,
+      "rfs": "2008 August",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "China Telecom, China Unicom, Chunghwa Telecom, KT, Verizon, NTT, AT&T",
+      "countries": "China|Japan|South Korea|Taiwan|United States"
+    },
+    {
+      "id": "transworld-tw1",
+      "name": "Transworld (TW1)",
+      "length_km": 1300,
+      "rfs": "2006 June",
+      "landings": 3,
+      "source": "telegeography-2021",
+      "owners": "TransWorld Associates (Pvt.) Limited",
+      "countries": "Oman|Pakistan|United Arab Emirates"
+    },
+    {
+      "id": "trapani-kelibia",
+      "name": "Trapani-Kelibia",
+      "length_km": 209,
+      "rfs": "1995 November",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Tunisia Telecom, Telecom Italia Sparkle",
+      "countries": "Italy|Tunisia"
+    },
+    {
+      "id": "tui-samoa",
+      "name": "Tui-Samoa",
+      "length_km": 1693,
+      "rfs": "2018 February",
+      "landings": 6,
+      "source": "telegeography-2021",
+      "owners": "Samoa Submarine Cable Company",
+      "countries": "Fiji|Samoa|Wallis and Futuna"
+    },
+    {
+      "id": "turcyos-1",
+      "name": "Turcyos-1",
+      "length_km": 110,
+      "rfs": "1993",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Turk Telekom",
+      "countries": "Cyprus|Turkey"
+    },
+    {
+      "id": "turcyos-2",
+      "name": "Turcyos-2",
+      "length_km": 213,
+      "rfs": "2011 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Turk Telekom",
+      "countries": "Cyprus|Turkey"
+    },
+    {
+      "id": "tverrlinken",
+      "name": "Tverrlinken",
+      "length_km": null,
+      "rfs": "2010",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "KystTele",
+      "countries": "Norway"
+    },
+    {
+      "id": "uae-iran",
+      "name": "UAE-Iran",
+      "length_km": 170,
+      "rfs": "1992",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Etisalat, Telecommunication Infrastructure Company of Iran",
+      "countries": "Iran|United Arab Emirates"
+    },
+    {
+      "id": "ugarit",
+      "name": "UGARIT",
+      "length_km": 239,
+      "rfs": "1995 February",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Cyta, Tata Communications, Telecom Italia Sparkle, BT, Telekom Austria, AT&T, Orange, Lebanese Ministry of Telecommunications, Singtel, Telefonica, Syrian Telecommunications Establishment, Vivacom, Deutsche Telekom",
+      "countries": "Cyprus|Syria"
+    },
+    {
+      "id": "uk-channel-islands-7",
+      "name": "UK-Channel Islands-7",
+      "length_km": 124,
+      "rfs": "1994 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Sure, BT",
+      "countries": "Guernsey|United Kingdom"
+    },
+    {
+      "id": "uk-channel-islands-8",
+      "name": "UK-Channel Islands-8",
+      "length_km": 237,
+      "rfs": "1994 January",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "n.a.",
+      "countries": "Jersey|United Kingdom"
+    },
+    {
+      "id": "ultramar-ge",
+      "name": "Ultramar GE",
+      "length_km": 263,
+      "rfs": "2021",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)",
+      "countries": "Equatorial Guinea|Sao Tome and Principe"
+    },
+    {
+      "id": "ulysses-2",
+      "name": "Ulysses 2",
+      "length_km": null,
+      "rfs": "1997",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Verizon",
+      "countries": "Netherlands|United Kingdom"
+    },
+    {
+      "id": "unisur",
+      "name": "Unisur",
+      "length_km": 265,
+      "rfs": "1995 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Antel Uruguay, Telxius",
+      "countries": "Argentina|Uruguay"
+    },
+    {
+      "id": "unityeac-pacific",
+      "name": "Unity/EAC-Pacific",
+      "length_km": 9620,
+      "rfs": "2010 March",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Telstra, Google, Singtel, KDDI, Airtel (Bharti), TIME dotCom",
+      "countries": "Japan|United States"
+    },
+    {
+      "id": "venezuelan-festoon",
+      "name": "Venezuelan Festoon",
+      "length_km": 1200,
+      "rfs": "1998",
+      "landings": 12,
+      "source": "telegeography-2021",
+      "owners": "CANTV",
+      "countries": "Venezuela"
+    },
+    {
+      "id": "wall-li",
+      "name": "WALL-LI",
+      "length_km": 60,
+      "rfs": "2021 Q3",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Crosslake Fibre",
+      "countries": "United States"
+    },
+    {
+      "id": "west-african-cable-system-wacs",
+      "name": "West African Cable System (WACS)",
+      "length_km": 14530,
+      "rfs": "2012 May",
+      "landings": 13,
+      "source": "telegeography-2021",
+      "owners": "Broadband Infraco, Telkom South Africa, Vodacom DRC, MTN, Tata Communications, Togo Telecom, Telecom Namibia, Office Congolais de Poste et Télécommunication, Congo Telecom, Altice Portugal, Angola Cables, Cape Verde Telecom, Vodafone Espana, Vodafone, Neotel, PCCW, Camtel, Vodafone Ghana",
+      "countries": "Angola|Cameroon|Cape Verde|Congo, Dem. Rep.|Congo, Rep.|Côte d'Ivoire|Ghana|Namibia|Nigeria|Portugal|South Africa|Spain|Togo"
+    },
+    {
+      "id": "x-link-submarine-cable",
+      "name": "X-Link Submarine Cable",
+      "length_km": 775,
+      "rfs": "2019 December",
+      "landings": 4,
+      "source": "telegeography-2021",
+      "owners": "E-Networks Inc.",
+      "countries": "Barbados|Grenada|Guyana|Suriname"
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "length_km": 7001,
+      "rfs": "2000 September",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Lumen",
+      "countries": "United Kingdom|United States"
+    },
+    {
+      "id": "i2i-cable-network-i2icn",
+      "name": "i2i Cable Network (i2icn)",
+      "length_km": 3200,
+      "rfs": "2002 April",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "Airtel (Bharti)",
+      "countries": "India|Singapore"
+    },
+    {
+      "id": "sea2shore",
+      "name": "sea2shore",
+      "length_km": 32,
+      "rfs": "2016",
+      "landings": 2,
+      "source": "telegeography-2021",
+      "owners": "National Grid",
+      "countries": "United States"
+    }
+  ]
+}

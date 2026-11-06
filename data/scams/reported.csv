@@ -1,0 +1,7 @@
+country,iso_n3,agency,year,losses_local,currency,reports,top_type,top_type_local,change_pct,lon,lat,source,reports_source,top_type_source
+United States,840,FBI Internet Crime Complaint Center,2025,20877000000,USD,1008597,Investment,8648617756,26,-98,39,fbi-ic3-2025,fbi-ic3-2025,fbi-ic3-2025-coverage
+United Kingdom,826,UK Finance,2025,1280000000,GBP,4060000,Investment (authorised push payment),221500000,4,-2,54,ukfinance-2026,ukfinance-2026-cases,ukfinance-2026
+Australia,036,National Anti-Scam Centre (ACCC),2025,2180000000,AUD,481523,Investment,837700000,7.8,134,-25,accc-2025,accc-2025,accc-2025-report
+Canada,124,Canadian Anti-Fraud Centre,2025,704000000,CAD,112000,Investment,351000000,,-100,57,cafc-2025,cafc-2025,cafc-2025
+Singapore,702,Singapore Police Force,2025,913100000,SGD,37308,E-commerce (most cases),,-19,103.8,1.35,spf-2025,spf-2025-cases,
+India,356,Indian Cyber Crime Coordination Centre (NCRP),2025,198129600000,INR,2177524,Not published,,,79,22,i4c-2025,i4c-2025,

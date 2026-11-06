@@ -1,0 +1,2639 @@
+{
+  "id": "weekly",
+  "title": "Weekly transits",
+  "description": "Average daily transits by week (Monday start), complete weeks only.",
+  "records": [
+    {
+      "week": "2025-01-06",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.1,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-13",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.3,
+      "tanker": 11,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-20",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.1,
+      "tanker": 10.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-27",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.1,
+      "tanker": 10.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-03",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31,
+      "tanker": 10.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-10",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31.6,
+      "tanker": 11,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-17",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.4,
+      "tanker": 11.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-24",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31.9,
+      "tanker": 10.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-03",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.3,
+      "tanker": 10.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-10",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.4,
+      "tanker": 12,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-17",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.1,
+      "tanker": 13.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-24",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31.1,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-31",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.4,
+      "tanker": 12.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-07",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.9,
+      "tanker": 13.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-14",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 30,
+      "tanker": 10.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-21",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.1,
+      "tanker": 10.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-28",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31.9,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-05",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.1,
+      "tanker": 11.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-12",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34,
+      "tanker": 11,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-19",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.6,
+      "tanker": 11.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-26",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.9,
+      "tanker": 11,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-02",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.3,
+      "tanker": 11.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-09",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.6,
+      "tanker": 12.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-16",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 26.1,
+      "tanker": 11.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-23",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 28.9,
+      "tanker": 10.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-30",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32,
+      "tanker": 11.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-07",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35,
+      "tanker": 12.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-14",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 27.6,
+      "tanker": 9.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-21",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.6,
+      "tanker": 10.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-28",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 31.6,
+      "tanker": 10.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-04",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.4,
+      "tanker": 14.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-11",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.3,
+      "tanker": 9.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-18",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 30.9,
+      "tanker": 8.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-25",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.7,
+      "tanker": 12.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-01",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.1,
+      "tanker": 10,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-08",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.6,
+      "tanker": 11.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-15",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.3,
+      "tanker": 10.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-22",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.3,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-29",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.7,
+      "tanker": 11.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-06",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-13",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.6,
+      "tanker": 11.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-20",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.4,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-27",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35,
+      "tanker": 11.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-03",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 40.1,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-10",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.9,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-17",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 40.7,
+      "tanker": 13,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-24",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.4,
+      "tanker": 12.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-01",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 36.9,
+      "tanker": 11.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-08",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 25.3,
+      "tanker": 9.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-15",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.4,
+      "tanker": 12.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-22",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.6,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-29",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.3,
+      "tanker": 11,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-05",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.9,
+      "tanker": 13,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-12",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 33.1,
+      "tanker": 10.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-19",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.1,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-26",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35,
+      "tanker": 13.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-02",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34,
+      "tanker": 12.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-09",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.3,
+      "tanker": 13.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-16",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 40.4,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-23",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 36.6,
+      "tanker": 14.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-02",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.3,
+      "tanker": 13.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-09",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 30.3,
+      "tanker": 14,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-16",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 40,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-23",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.7,
+      "tanker": 14.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-30",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 38.1,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-06",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 36.1,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-13",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.7,
+      "tanker": 14,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-20",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 39.6,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-27",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.7,
+      "tanker": 13.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-04",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34,
+      "tanker": 12.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-11",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.3,
+      "tanker": 12.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-18",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 41.1,
+      "tanker": 16.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-25",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.3,
+      "tanker": 13.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-01",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.6,
+      "tanker": 14.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-08",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 36.3,
+      "tanker": 13.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-15",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 37.1,
+      "tanker": 15,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-22",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 35.4,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-29",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 34.4,
+      "tanker": 11.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-06",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 32.7,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-13",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 40.6,
+      "tanker": 15.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-20",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 28.3,
+      "tanker": 8.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-27",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 30.7,
+      "tanker": 9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-03",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 25.4,
+      "tanker": 8.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-10",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 29.4,
+      "tanker": 8.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-17",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 29.4,
+      "tanker": 9.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-24",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 26.3,
+      "tanker": 8,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-31",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 25.4,
+      "tanker": 7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-07",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 27.3,
+      "tanker": 8.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-14",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 24.7,
+      "tanker": 6.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-21",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 27.1,
+      "tanker": 9.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-28",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 29.6,
+      "tanker": 9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-05",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 28.3,
+      "tanker": 8.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-12",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 26.4,
+      "tanker": 10,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-19",
+      "chokepoint": "Bab el-Mandeb Strait",
+      "transits": 28.9,
+      "tanker": 9.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-06",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 81,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-13",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 80.7,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-20",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92.6,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-27",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 81.4,
+      "tanker": 11.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-03",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 84,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-10",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-17",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-24",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.7,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-03",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86.9,
+      "tanker": 15.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-10",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 76,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-17",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 77.1,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-24",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 81.6,
+      "tanker": 16.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-31",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 79.9,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-07",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 84.1,
+      "tanker": 19,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-14",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 83.4,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-21",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.3,
+      "tanker": 16.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-28",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 78.7,
+      "tanker": 14.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-05",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.4,
+      "tanker": 17.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-12",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 109.3,
+      "tanker": 19.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-19",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 79,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-26",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 85.9,
+      "tanker": 17.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-02",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 100.3,
+      "tanker": 17.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-09",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.3,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-16",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.9,
+      "tanker": 16.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-23",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 81.9,
+      "tanker": 14.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-30",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 104.6,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-07",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 99,
+      "tanker": 18,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-14",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 99.3,
+      "tanker": 17.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-21",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 94,
+      "tanker": 15.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-28",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 95.1,
+      "tanker": 19.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-04",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86.9,
+      "tanker": 18.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-11",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 107.4,
+      "tanker": 19.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-18",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.3,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-25",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 105.7,
+      "tanker": 18.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-01",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-08",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 96.1,
+      "tanker": 18.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-15",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 96.1,
+      "tanker": 20.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-22",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.9,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-29",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 101.1,
+      "tanker": 19.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-06",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 100.7,
+      "tanker": 18.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-13",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.1,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-20",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 94.3,
+      "tanker": 21.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-27",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.6,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-03",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 85,
+      "tanker": 14.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-10",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 81.4,
+      "tanker": 15.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-17",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.3,
+      "tanker": 18,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-24",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92.1,
+      "tanker": 18.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-01",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 84.9,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-08",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86.7,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-15",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 78.9,
+      "tanker": 17.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-22",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 84.7,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-29",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86.7,
+      "tanker": 17.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-05",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86.7,
+      "tanker": 14.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-12",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 89.6,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-19",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86,
+      "tanker": 16.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-26",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.3,
+      "tanker": 17.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-02",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 78.6,
+      "tanker": 11.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-09",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 86,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-16",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 95.9,
+      "tanker": 14.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-23",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.3,
+      "tanker": 12.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-02",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92.7,
+      "tanker": 12.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-09",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92.4,
+      "tanker": 15.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-16",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92,
+      "tanker": 19.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-23",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.1,
+      "tanker": 23.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-30",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.7,
+      "tanker": 21.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-06",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 93.1,
+      "tanker": 23,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-13",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 95.4,
+      "tanker": 26,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-20",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 98.3,
+      "tanker": 22.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-27",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.9,
+      "tanker": 20.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-04",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.6,
+      "tanker": 19.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-11",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 103,
+      "tanker": 24.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-18",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 97.7,
+      "tanker": 22.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-25",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 94.9,
+      "tanker": 18.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-01",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.6,
+      "tanker": 21.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-08",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.1,
+      "tanker": 18,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-15",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 95.6,
+      "tanker": 21.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-22",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 92.1,
+      "tanker": 20.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-29",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 96.1,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-06",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.4,
+      "tanker": 17.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-13",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 93,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-20",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.3,
+      "tanker": 17.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-27",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.6,
+      "tanker": 20.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-03",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.3,
+      "tanker": 19.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-10",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.9,
+      "tanker": 20.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-17",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.6,
+      "tanker": 20.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-24",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 91.9,
+      "tanker": 19.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-31",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 78.6,
+      "tanker": 15.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-07",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 90.6,
+      "tanker": 18.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-14",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.6,
+      "tanker": 16.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-21",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 88.1,
+      "tanker": 19.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-28",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.7,
+      "tanker": 18.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-05",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 84,
+      "tanker": 17.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-12",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 85.7,
+      "tanker": 19.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-19",
+      "chokepoint": "Cape of Good Hope",
+      "transits": 87.1,
+      "tanker": 21.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-06",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 69.3,
+      "tanker": 38.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-13",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 70.4,
+      "tanker": 38.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-20",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 71.4,
+      "tanker": 42.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-27",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 69.7,
+      "tanker": 39.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-03",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 69.7,
+      "tanker": 38,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-10",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 85.4,
+      "tanker": 48.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-17",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 80.7,
+      "tanker": 43.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-24",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 60.6,
+      "tanker": 34.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-03",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 81.9,
+      "tanker": 51.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-10",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 87,
+      "tanker": 47.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-17",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 86.9,
+      "tanker": 49.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-24",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 83,
+      "tanker": 47.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-31",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 111.6,
+      "tanker": 61.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-07",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 102.6,
+      "tanker": 57.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-14",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 84.9,
+      "tanker": 48,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-21",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 109.4,
+      "tanker": 62.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-28",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 97.9,
+      "tanker": 56,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-05",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 97.9,
+      "tanker": 55.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-12",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 107,
+      "tanker": 60.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-19",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 111,
+      "tanker": 60.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-26",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 101.1,
+      "tanker": 55.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-02",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 95.3,
+      "tanker": 55.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-09",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 109.1,
+      "tanker": 60.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-16",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 103.4,
+      "tanker": 58.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-23",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 102.9,
+      "tanker": 58.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-30",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 89.1,
+      "tanker": 51.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-07",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 90.7,
+      "tanker": 52.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-14",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 104.4,
+      "tanker": 58.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-21",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 92.7,
+      "tanker": 52.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-28",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 94.9,
+      "tanker": 54.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-04",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 80.4,
+      "tanker": 43.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-11",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 105,
+      "tanker": 60.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-18",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 96.1,
+      "tanker": 54.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-25",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 100.1,
+      "tanker": 54.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-01",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 95.4,
+      "tanker": 55.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-08",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 75,
+      "tanker": 41.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-15",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 87.3,
+      "tanker": 50.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-22",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 86.4,
+      "tanker": 48.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-29",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 111.3,
+      "tanker": 64.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-06",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 70.6,
+      "tanker": 35.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-13",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 73.7,
+      "tanker": 40.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-20",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 102,
+      "tanker": 58.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-27",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 90.3,
+      "tanker": 50.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-03",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 75.3,
+      "tanker": 43.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-10",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 79.9,
+      "tanker": 44.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-17",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 60.6,
+      "tanker": 34.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-24",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 53.9,
+      "tanker": 30,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-01",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 56.6,
+      "tanker": 32.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-08",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 54.1,
+      "tanker": 31.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-15",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 48.6,
+      "tanker": 25.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-22",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 60,
+      "tanker": 30.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-29",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 58.6,
+      "tanker": 31.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-05",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 64.4,
+      "tanker": 34.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-12",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 53.3,
+      "tanker": 28.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-19",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 56.3,
+      "tanker": 30.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-26",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 60,
+      "tanker": 30.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-02",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 60.7,
+      "tanker": 33.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-09",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 76.4,
+      "tanker": 43.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-16",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 94.3,
+      "tanker": 52.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-23",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 77.6,
+      "tanker": 42.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-02",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 2.6,
+      "tanker": 0.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-09",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 2.1,
+      "tanker": 0.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-16",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 1.4,
+      "tanker": 0.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-23",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.6,
+      "tanker": 1.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-30",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.3,
+      "tanker": 2.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-06",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.9,
+      "tanker": 1.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-13",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 7.4,
+      "tanker": 4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-20",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4,
+      "tanker": 1.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-27",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 12.3,
+      "tanker": 5.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-04",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 1.4,
+      "tanker": 0.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-11",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.4,
+      "tanker": 2,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-18",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4.9,
+      "tanker": 1.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-25",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3,
+      "tanker": 0.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-01",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4.4,
+      "tanker": 1.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-08",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 2.4,
+      "tanker": 0.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-15",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 12.1,
+      "tanker": 4.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-22",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 30.4,
+      "tanker": 14,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-29",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 23.1,
+      "tanker": 13.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-06",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 14,
+      "tanker": 6.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-13",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 6.3,
+      "tanker": 2.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-20",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.6,
+      "tanker": 0.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-27",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.3,
+      "tanker": 1.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-03",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.6,
+      "tanker": 1.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-10",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4.4,
+      "tanker": 1.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-17",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5,
+      "tanker": 2.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-24",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4.3,
+      "tanker": 1.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-31",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.1,
+      "tanker": 0.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-07",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 5.3,
+      "tanker": 1.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-14",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.1,
+      "tanker": 0.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-21",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.1,
+      "tanker": 1.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-28",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 2.7,
+      "tanker": 0.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-05",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 4.1,
+      "tanker": 0.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-12",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.7,
+      "tanker": 0.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-19",
+      "chokepoint": "Strait of Hormuz",
+      "transits": 3.3,
+      "tanker": 0.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-06",
+      "chokepoint": "Suez Canal",
+      "transits": 38.1,
+      "tanker": 11.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-13",
+      "chokepoint": "Suez Canal",
+      "transits": 36.7,
+      "tanker": 14.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-20",
+      "chokepoint": "Suez Canal",
+      "transits": 36.7,
+      "tanker": 12,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-01-27",
+      "chokepoint": "Suez Canal",
+      "transits": 36.6,
+      "tanker": 14.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-03",
+      "chokepoint": "Suez Canal",
+      "transits": 31,
+      "tanker": 10.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-10",
+      "chokepoint": "Suez Canal",
+      "transits": 37.9,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-17",
+      "chokepoint": "Suez Canal",
+      "transits": 33.6,
+      "tanker": 12.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-02-24",
+      "chokepoint": "Suez Canal",
+      "transits": 35.1,
+      "tanker": 12.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-03",
+      "chokepoint": "Suez Canal",
+      "transits": 37.6,
+      "tanker": 13.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-10",
+      "chokepoint": "Suez Canal",
+      "transits": 38.3,
+      "tanker": 14.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-17",
+      "chokepoint": "Suez Canal",
+      "transits": 36.6,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-24",
+      "chokepoint": "Suez Canal",
+      "transits": 38.1,
+      "tanker": 17.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-03-31",
+      "chokepoint": "Suez Canal",
+      "transits": 36.7,
+      "tanker": 13.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-07",
+      "chokepoint": "Suez Canal",
+      "transits": 39.3,
+      "tanker": 16.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-14",
+      "chokepoint": "Suez Canal",
+      "transits": 35.6,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-21",
+      "chokepoint": "Suez Canal",
+      "transits": 36.4,
+      "tanker": 12.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-04-28",
+      "chokepoint": "Suez Canal",
+      "transits": 36.4,
+      "tanker": 13.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-05",
+      "chokepoint": "Suez Canal",
+      "transits": 34.4,
+      "tanker": 13.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-12",
+      "chokepoint": "Suez Canal",
+      "transits": 39.1,
+      "tanker": 13.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-19",
+      "chokepoint": "Suez Canal",
+      "transits": 38.3,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-05-26",
+      "chokepoint": "Suez Canal",
+      "transits": 36.6,
+      "tanker": 14.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-02",
+      "chokepoint": "Suez Canal",
+      "transits": 34.3,
+      "tanker": 13.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-09",
+      "chokepoint": "Suez Canal",
+      "transits": 40.1,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-16",
+      "chokepoint": "Suez Canal",
+      "transits": 36.9,
+      "tanker": 13.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-23",
+      "chokepoint": "Suez Canal",
+      "transits": 35.3,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-06-30",
+      "chokepoint": "Suez Canal",
+      "transits": 37.4,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-07",
+      "chokepoint": "Suez Canal",
+      "transits": 38.3,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-14",
+      "chokepoint": "Suez Canal",
+      "transits": 36.9,
+      "tanker": 15,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-21",
+      "chokepoint": "Suez Canal",
+      "transits": 40.1,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-07-28",
+      "chokepoint": "Suez Canal",
+      "transits": 38.1,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-04",
+      "chokepoint": "Suez Canal",
+      "transits": 38,
+      "tanker": 15,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-11",
+      "chokepoint": "Suez Canal",
+      "transits": 37.3,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-18",
+      "chokepoint": "Suez Canal",
+      "transits": 41.9,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-08-25",
+      "chokepoint": "Suez Canal",
+      "transits": 36.7,
+      "tanker": 13.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-01",
+      "chokepoint": "Suez Canal",
+      "transits": 42.6,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-08",
+      "chokepoint": "Suez Canal",
+      "transits": 45,
+      "tanker": 16.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-15",
+      "chokepoint": "Suez Canal",
+      "transits": 39,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-22",
+      "chokepoint": "Suez Canal",
+      "transits": 42.7,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-09-29",
+      "chokepoint": "Suez Canal",
+      "transits": 41.1,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-06",
+      "chokepoint": "Suez Canal",
+      "transits": 39,
+      "tanker": 15.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-13",
+      "chokepoint": "Suez Canal",
+      "transits": 43.7,
+      "tanker": 14.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-20",
+      "chokepoint": "Suez Canal",
+      "transits": 42.7,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-10-27",
+      "chokepoint": "Suez Canal",
+      "transits": 39,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-03",
+      "chokepoint": "Suez Canal",
+      "transits": 44.1,
+      "tanker": 16.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-10",
+      "chokepoint": "Suez Canal",
+      "transits": 45,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-17",
+      "chokepoint": "Suez Canal",
+      "transits": 40,
+      "tanker": 13.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-11-24",
+      "chokepoint": "Suez Canal",
+      "transits": 43.3,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-01",
+      "chokepoint": "Suez Canal",
+      "transits": 40.6,
+      "tanker": 15.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-08",
+      "chokepoint": "Suez Canal",
+      "transits": 41.6,
+      "tanker": 15.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-15",
+      "chokepoint": "Suez Canal",
+      "transits": 41.3,
+      "tanker": 17.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-22",
+      "chokepoint": "Suez Canal",
+      "transits": 38.4,
+      "tanker": 14.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2025-12-29",
+      "chokepoint": "Suez Canal",
+      "transits": 35.1,
+      "tanker": 14,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-05",
+      "chokepoint": "Suez Canal",
+      "transits": 38,
+      "tanker": 12.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-12",
+      "chokepoint": "Suez Canal",
+      "transits": 39.9,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-19",
+      "chokepoint": "Suez Canal",
+      "transits": 38.4,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-01-26",
+      "chokepoint": "Suez Canal",
+      "transits": 42.7,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-02",
+      "chokepoint": "Suez Canal",
+      "transits": 40.4,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-09",
+      "chokepoint": "Suez Canal",
+      "transits": 42.7,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-16",
+      "chokepoint": "Suez Canal",
+      "transits": 40.3,
+      "tanker": 18,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-02-23",
+      "chokepoint": "Suez Canal",
+      "transits": 41.6,
+      "tanker": 17.7,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-02",
+      "chokepoint": "Suez Canal",
+      "transits": 42.7,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-09",
+      "chokepoint": "Suez Canal",
+      "transits": 40.1,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-16",
+      "chokepoint": "Suez Canal",
+      "transits": 39.7,
+      "tanker": 16.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-23",
+      "chokepoint": "Suez Canal",
+      "transits": 42.4,
+      "tanker": 17.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-03-30",
+      "chokepoint": "Suez Canal",
+      "transits": 44.9,
+      "tanker": 19.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-06",
+      "chokepoint": "Suez Canal",
+      "transits": 40.9,
+      "tanker": 18.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-13",
+      "chokepoint": "Suez Canal",
+      "transits": 38.4,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-20",
+      "chokepoint": "Suez Canal",
+      "transits": 44.1,
+      "tanker": 17.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-04-27",
+      "chokepoint": "Suez Canal",
+      "transits": 37.3,
+      "tanker": 14.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-04",
+      "chokepoint": "Suez Canal",
+      "transits": 39.7,
+      "tanker": 17.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-11",
+      "chokepoint": "Suez Canal",
+      "transits": 39.1,
+      "tanker": 16.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-18",
+      "chokepoint": "Suez Canal",
+      "transits": 41,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-05-25",
+      "chokepoint": "Suez Canal",
+      "transits": 39.7,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-01",
+      "chokepoint": "Suez Canal",
+      "transits": 41.3,
+      "tanker": 15.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-08",
+      "chokepoint": "Suez Canal",
+      "transits": 39.9,
+      "tanker": 13.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-15",
+      "chokepoint": "Suez Canal",
+      "transits": 37.9,
+      "tanker": 16.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-22",
+      "chokepoint": "Suez Canal",
+      "transits": 42.6,
+      "tanker": 17.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-06-29",
+      "chokepoint": "Suez Canal",
+      "transits": 42.1,
+      "tanker": 16,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-06",
+      "chokepoint": "Suez Canal",
+      "transits": 41.3,
+      "tanker": 15,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-13",
+      "chokepoint": "Suez Canal",
+      "transits": 41.6,
+      "tanker": 17.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-20",
+      "chokepoint": "Suez Canal",
+      "transits": 40.9,
+      "tanker": 15.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-07-27",
+      "chokepoint": "Suez Canal",
+      "transits": 41.6,
+      "tanker": 14.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-03",
+      "chokepoint": "Suez Canal",
+      "transits": 41,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-10",
+      "chokepoint": "Suez Canal",
+      "transits": 40.9,
+      "tanker": 16.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-17",
+      "chokepoint": "Suez Canal",
+      "transits": 42,
+      "tanker": 16.4,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-24",
+      "chokepoint": "Suez Canal",
+      "transits": 43,
+      "tanker": 17.1,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-08-31",
+      "chokepoint": "Suez Canal",
+      "transits": 41.6,
+      "tanker": 15.3,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-07",
+      "chokepoint": "Suez Canal",
+      "transits": 37.9,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-14",
+      "chokepoint": "Suez Canal",
+      "transits": 41.9,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-21",
+      "chokepoint": "Suez Canal",
+      "transits": 40,
+      "tanker": 15,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-09-28",
+      "chokepoint": "Suez Canal",
+      "transits": 43.1,
+      "tanker": 15.6,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-05",
+      "chokepoint": "Suez Canal",
+      "transits": 41.7,
+      "tanker": 17,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-12",
+      "chokepoint": "Suez Canal",
+      "transits": 44.3,
+      "tanker": 15.9,
+      "source": "portwatch"
+    },
+    {
+      "week": "2026-10-19",
+      "chokepoint": "Suez Canal",
+      "transits": 41.3,
+      "tanker": 16.3,
+      "source": "portwatch"
+    }
+  ]
+}

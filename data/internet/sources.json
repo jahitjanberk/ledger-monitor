@@ -1,0 +1,121 @@
+{
+  "sources": {
+    "telegeography-2021": {
+      "publisher": "TeleGeography (open data, via a public GitHub mirror)",
+      "title": "Submarine Cable Map data, January 2021 snapshot",
+      "url": "https://github.com/hadistlm/submarine-cable-map",
+      "published": "2021-01",
+      "method": "reference",
+      "notes": "TeleGeography published this data under CC BY-NC-SA 3.0. The mirror's last commit is 12 January 2021; cables built since are missing."
+    },
+    "telegeography-faq": {
+      "publisher": "TeleGeography",
+      "title": "Submarine Cable Frequently Asked Questions",
+      "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions",
+      "published": "2026",
+      "method": "reference"
+    },
+    "aws-regions": {
+      "publisher": "Amazon Web Services",
+      "title": "AWS Regions",
+      "url": "https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html",
+      "published": "2026",
+      "method": "reference"
+    },
+    "azure-regions": {
+      "publisher": "Microsoft",
+      "title": "List of Azure regions",
+      "url": "https://learn.microsoft.com/en-us/azure/reliability/regions-list",
+      "published": "2026",
+      "method": "reference"
+    },
+    "gcp-regions": {
+      "publisher": "Google Cloud",
+      "title": "Cloud Run locations",
+      "url": "https://docs.cloud.google.com/run/docs/locations",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Regions where Cloud Run is offered, used as the list of Google Cloud regions."
+    },
+    "top500-2026": {
+      "publisher": "Institute of Physics Belgrade, reporting the TOP500 June 2026 list",
+      "title": "TOP500 June 2026: China Returns, Europe Expands, Exascale Competition Intensifies",
+      "url": "https://hpc.ipb.ac.rs/news/new-top500-list-2026-1",
+      "published": "2026-06",
+      "method": "reference"
+    },
+    "epoch-chips-2026": {
+      "publisher": "OfficeChai, reporting Epoch AI's AI Chip Imports explorer",
+      "title": "The US's share of new compute has risen from 60% in 2024 to 78% in first half of 2026",
+      "url": "https://officechai.com/ai/the-uss-share-of-new-compute-has-risen-from-60-in-2024-to-78-in-first-half-of-2026/",
+      "published": "2026-10-28",
+      "method": "reference"
+    },
+    "epoch-clusters-2025": {
+      "publisher": "Epoch AI",
+      "title": "The US hosts the majority of GPU cluster performance, followed by China",
+      "url": "https://epoch.ai/data-insights/ai-supercomputers-performance-share-by-country",
+      "published": "2025-06-05",
+      "method": "reference"
+    },
+    "iea-energy-ai": {
+      "publisher": "NS Energy, reporting the IEA's Energy and AI report",
+      "title": "Energy and AI: key findings from the IEA",
+      "url": "https://www.nsenergybusiness.com/analysis/energy-and-ai-key-findings-from-the-iea/",
+      "published": "2025-04",
+      "method": "reported"
+    },
+    "lbnl-2024": {
+      "publisher": "Lawrence Berkeley National Laboratory",
+      "title": "2024 United States Data Center Energy Usage Report",
+      "url": "https://climate.mit.edu/sites/default/files/2025-02/lbnl-2024-united-states-data-center-energy-usage-report.pdf",
+      "published": "2024-12-19",
+      "method": "reported"
+    },
+    "lbnl-water": {
+      "publisher": "Civil Beat (The Conversation), reporting LBNL and company reports",
+      "title": "Data centers consume massive amounts of water — companies rarely say exactly how much",
+      "url": "https://www.civilbeat.org/2025/08/data-centers-consume-massive-amounts-of-water-companies-rarely-say-exactly-how-much/",
+      "published": "2025-08",
+      "method": "reported"
+    },
+    "cso-2024": {
+      "publisher": "Central Statistics Office, Ireland",
+      "title": "Data Centres Metered Electricity Consumption 2024",
+      "url": "https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024",
+      "published": "2025-06-10",
+      "method": "reported"
+    },
+    "cso-2025": {
+      "publisher": "Irish Examiner, reporting the CSO",
+      "title": "Data centres accounted for 23% of all Ireland's electricity usage last year",
+      "url": "https://www.irishexaminer.com/business/companies/arid-41875214.html",
+      "published": "2026-07-07",
+      "method": "reported"
+    },
+    "geonames": {
+      "publisher": "GeoNames (via the all-the-cities package)",
+      "title": "GeoNames cities with population over 1,000",
+      "url": "https://www.geonames.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Used only to place regions and sites on the map."
+    },
+    "azure-latency": {
+      "publisher": "Microsoft",
+      "title": "Azure network round-trip latency statistics",
+      "url": "https://learn.microsoft.com/en-us/azure/networking/azure-network-latency",
+      "published": "2026-07-30",
+      "method": "reported",
+      "notes": "P50 of round trips sampled every minute over the 30 days to 30 July 2026."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

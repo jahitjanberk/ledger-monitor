@@ -1,0 +1,20 @@
+metric,label,value,unit,source
+global_2024_twh,"Global data centre use, 2024",415,TWh,iea-energy-ai
+global_2024_share,"Share of world electricity, 2024",0.015,share,iea-energy-ai
+global_2030_twh,"Global projection, 2030",945,TWh,iea-energy-ai
+share_us,"United States share of global data centre use, 2024",0.45,share,iea-energy-ai
+share_china,"China share, 2024",0.25,share,iea-energy-ai
+share_europe,"Europe share, 2024",0.15,share,iea-energy-ai
+us_2018_twh,"US data centres, 2018",76,TWh,lbnl-2024
+us_2018_share,"Share of US electricity, 2018",0.019,share,lbnl-2024
+us_2023_twh,"US data centres, 2023",176,TWh,lbnl-2024
+us_2023_share,"Share of US electricity, 2023",0.044,share,lbnl-2024
+us_2028_low_twh,"US projection 2028, low",325,TWh,lbnl-2024
+us_2028_high_twh,"US projection 2028, high",580,TWh,lbnl-2024
+us_2028_low_share,"Share of US electricity 2028, low",0.067,share,lbnl-2024
+us_2028_high_share,"Share of US electricity 2028, high",0.12,share,lbnl-2024
+ie_2015_share,"Ireland: data centres' share of metered electricity, 2015",0.05,share,cso-2024
+ie_2024_share,"Ireland, 2024",0.22,share,cso-2024
+ie_2025_share,"Ireland, 2025",0.23,share,cso-2025
+ie_2024_gwh,"Ireland data centres, 2024",6973,GWh,cso-2025
+ie_2025_gwh,"Ireland data centres, 2025",7663,GWh,cso-2025

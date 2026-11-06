@@ -1,0 +1,111 @@
+from_code,from_name,to_code,to_name,rtt_ms,source
+uksouth,UK South,westeurope,West Europe,11,azure-latency
+uksouth,UK South,northeurope,North Europe,12,azure-latency
+uksouth,UK South,eastus,East US,78,azure-latency
+uksouth,UK South,westus2,West US 2,139,azure-latency
+uksouth,UK South,southeastasia,Southeast Asia,167,azure-latency
+uksouth,UK South,japaneast,Japan East,229,azure-latency
+uksouth,UK South,australiaeast,Australia East,261,azure-latency
+uksouth,UK South,brazilsouth,Brazil South,180,azure-latency
+uksouth,UK South,southafricanorth,South Africa North,164,azure-latency
+uksouth,UK South,centralindia,Central India,141,azure-latency
+westeurope,West Europe,uksouth,UK South,11,azure-latency
+westeurope,West Europe,northeurope,North Europe,17,azure-latency
+westeurope,West Europe,eastus,East US,85,azure-latency
+westeurope,West Europe,westus2,West US 2,143,azure-latency
+westeurope,West Europe,southeastasia,Southeast Asia,169,azure-latency
+westeurope,West Europe,japaneast,Japan East,233,azure-latency
+westeurope,West Europe,australiaeast,Australia East,265,azure-latency
+westeurope,West Europe,brazilsouth,Brazil South,185,azure-latency
+westeurope,West Europe,southafricanorth,South Africa North,166,azure-latency
+westeurope,West Europe,centralindia,Central India,140,azure-latency
+northeurope,North Europe,uksouth,UK South,13,azure-latency
+northeurope,North Europe,westeurope,West Europe,17,azure-latency
+northeurope,North Europe,eastus,East US,73,azure-latency
+northeurope,North Europe,westus2,West US 2,130,azure-latency
+northeurope,North Europe,southeastasia,Southeast Asia,176,azure-latency
+northeurope,North Europe,japaneast,Japan East,225,azure-latency
+northeurope,North Europe,australiaeast,Australia East,263,azure-latency
+northeurope,North Europe,brazilsouth,Brazil South,172,azure-latency
+northeurope,North Europe,southafricanorth,South Africa North,172,azure-latency
+northeurope,North Europe,centralindia,Central India,147,azure-latency
+eastus,East US,uksouth,UK South,78,azure-latency
+eastus,East US,westeurope,West Europe,83,azure-latency
+eastus,East US,northeurope,North Europe,71,azure-latency
+eastus,East US,westus2,West US 2,71,azure-latency
+eastus,East US,southeastasia,Southeast Asia,224,azure-latency
+eastus,East US,japaneast,Japan East,162,azure-latency
+eastus,East US,australiaeast,Australia East,201,azure-latency
+eastus,East US,brazilsouth,Brazil South,117,azure-latency
+eastus,East US,southafricanorth,South Africa North,219,azure-latency
+eastus,East US,centralindia,Central India,198,azure-latency
+westus2,West US 2,uksouth,UK South,139,azure-latency
+westus2,West US 2,westeurope,West Europe,142,azure-latency
+westus2,West US 2,northeurope,North Europe,129,azure-latency
+westus2,West US 2,eastus,East US,73,azure-latency
+westus2,West US 2,southeastasia,Southeast Asia,162,azure-latency
+westus2,West US 2,japaneast,Japan East,101,azure-latency
+westus2,West US 2,australiaeast,Australia East,161,azure-latency
+westus2,West US 2,brazilsouth,Brazil South,177,azure-latency
+westus2,West US 2,southafricanorth,South Africa North,279,azure-latency
+westus2,West US 2,centralindia,Central India,210,azure-latency
+southeastasia,Southeast Asia,uksouth,UK South,167,azure-latency
+southeastasia,Southeast Asia,westeurope,West Europe,169,azure-latency
+southeastasia,Southeast Asia,northeurope,North Europe,176,azure-latency
+southeastasia,Southeast Asia,eastus,East US,224,azure-latency
+southeastasia,Southeast Asia,westus2,West US 2,163,azure-latency
+southeastasia,Southeast Asia,japaneast,Japan East,72,azure-latency
+southeastasia,Southeast Asia,australiaeast,Australia East,95,azure-latency
+southeastasia,Southeast Asia,brazilsouth,Brazil South,330,azure-latency
+southeastasia,Southeast Asia,southafricanorth,South Africa North,177,azure-latency
+southeastasia,Southeast Asia,centralindia,Central India,53,azure-latency
+japaneast,Japan East,uksouth,UK South,230,azure-latency
+japaneast,Japan East,westeurope,West Europe,234,azure-latency
+japaneast,Japan East,northeurope,North Europe,227,azure-latency
+japaneast,Japan East,eastus,East US,162,azure-latency
+japaneast,Japan East,westus2,West US 2,100,azure-latency
+japaneast,Japan East,southeastasia,Southeast Asia,72,azure-latency
+japaneast,Japan East,australiaeast,Australia East,103,azure-latency
+japaneast,Japan East,brazilsouth,Brazil South,262,azure-latency
+japaneast,Japan East,southafricanorth,South Africa North,251,azure-latency
+japaneast,Japan East,centralindia,Central India,122,azure-latency
+australiaeast,Australia East,uksouth,UK South,261,azure-latency
+australiaeast,Australia East,westeurope,West Europe,264,azure-latency
+australiaeast,Australia East,northeurope,North Europe,263,azure-latency
+australiaeast,Australia East,eastus,East US,202,azure-latency
+australiaeast,Australia East,westus2,West US 2,161,azure-latency
+australiaeast,Australia East,southeastasia,Southeast Asia,95,azure-latency
+australiaeast,Australia East,japaneast,Japan East,104,azure-latency
+australiaeast,Australia East,brazilsouth,Brazil South,295,azure-latency
+australiaeast,Australia East,southafricanorth,South Africa North,328,azure-latency
+australiaeast,Australia East,centralindia,Central India,144,azure-latency
+brazilsouth,Brazil South,uksouth,UK South,181,azure-latency
+brazilsouth,Brazil South,westeurope,West Europe,185,azure-latency
+brazilsouth,Brazil South,northeurope,North Europe,172,azure-latency
+brazilsouth,Brazil South,eastus,East US,118,azure-latency
+brazilsouth,Brazil South,westus2,West US 2,177,azure-latency
+brazilsouth,Brazil South,southeastasia,Southeast Asia,331,azure-latency
+brazilsouth,Brazil South,japaneast,Japan East,262,azure-latency
+brazilsouth,Brazil South,australiaeast,Australia East,295,azure-latency
+brazilsouth,Brazil South,southafricanorth,South Africa North,321,azure-latency
+brazilsouth,Brazil South,centralindia,Central India,304,azure-latency
+southafricanorth,South Africa North,uksouth,UK South,163,azure-latency
+southafricanorth,South Africa North,westeurope,West Europe,166,azure-latency
+southafricanorth,South Africa North,northeurope,North Europe,172,azure-latency
+southafricanorth,South Africa North,eastus,East US,220,azure-latency
+southafricanorth,South Africa North,westus2,West US 2,280,azure-latency
+southafricanorth,South Africa North,southeastasia,Southeast Asia,177,azure-latency
+southafricanorth,South Africa North,japaneast,Japan East,247,azure-latency
+southafricanorth,South Africa North,australiaeast,Australia East,328,azure-latency
+southafricanorth,South Africa North,brazilsouth,Brazil South,321,azure-latency
+southafricanorth,South Africa North,centralindia,Central India,131,azure-latency
+centralindia,Central India,uksouth,UK South,141,azure-latency
+centralindia,Central India,westeurope,West Europe,139,azure-latency
+centralindia,Central India,northeurope,North Europe,146,azure-latency
+centralindia,Central India,eastus,East US,201,azure-latency
+centralindia,Central India,westus2,West US 2,211,azure-latency
+centralindia,Central India,southeastasia,Southeast Asia,53,azure-latency
+centralindia,Central India,japaneast,Japan East,122,azure-latency
+centralindia,Central India,australiaeast,Australia East,145,azure-latency
+centralindia,Central India,brazilsouth,Brazil South,303,azure-latency
+centralindia,Central India,southafricanorth,South Africa North,131,azure-latency

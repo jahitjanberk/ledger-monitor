@@ -1,0 +1,183 @@
+country,iso_n3,map_name,source
+Albania,008,Albania,natural-earth
+Algeria,012,Algeria,natural-earth
+American Samoa,,,natural-earth
+Angola,024,Angola,natural-earth
+Anguilla,,,natural-earth
+Antigua and Barbuda,,,natural-earth
+Argentina,032,Argentina,natural-earth
+Aruba,,,natural-earth
+Ascension and Tristan da Cunha,,,natural-earth
+Australia,036,Australia,natural-earth
+Austria,040,Austria,natural-earth
+Azerbaijan,031,Azerbaijan,natural-earth
+Bahamas,044,Bahamas,natural-earth
+Bahrain,,,natural-earth
+Bangladesh,050,Bangladesh,natural-earth
+Barbados,,,natural-earth
+Belgium,056,Belgium,natural-earth
+Belize,084,Belize,natural-earth
+Benin,204,Benin,natural-earth
+Bermuda,,,natural-earth
+Brazil,076,Brazil,natural-earth
+Brunei,096,Brunei,natural-earth
+Bulgaria,100,Bulgaria,natural-earth
+Cambodia,116,Cambodia,natural-earth
+Cameroon,120,Cameroon,natural-earth
+Canada,124,Canada,natural-earth
+Cape Verde,,,natural-earth
+Cayman Islands,,,natural-earth
+Chile,152,Chile,natural-earth
+China,156,China,natural-earth
+Christmas Island,,,natural-earth
+Colombia,170,Colombia,natural-earth
+Comoros,,,natural-earth
+"Congo, Dem. Rep.",180,Dem. Rep. Congo,natural-earth
+"Congo, Rep.",178,Congo,natural-earth
+Cook Islands,,,natural-earth
+Costa Rica,188,Costa Rica,natural-earth
+Croatia,191,Croatia,natural-earth
+Cuba,192,Cuba,natural-earth
+Curaçao,,,natural-earth
+Cyprus,196,Cyprus,natural-earth
+Côte d'Ivoire,384,Côte d'Ivoire,natural-earth
+Denmark,208,Denmark,natural-earth
+Djibouti,262,Djibouti,natural-earth
+Dominica,,,natural-earth
+Dominican Republic,214,Dominican Rep.,natural-earth
+Ecuador,218,Ecuador,natural-earth
+Egypt,818,Egypt,natural-earth
+Equatorial Guinea,226,Eq. Guinea,natural-earth
+Estonia,233,Estonia,natural-earth
+Faroe Islands,,,natural-earth
+Fiji,242,Fiji,natural-earth
+Finland,246,Finland,natural-earth
+France,250,France,natural-earth
+French Guiana,,,natural-earth
+French Polynesia,,,natural-earth
+Gabon,266,Gabon,natural-earth
+Gambia,270,Gambia,natural-earth
+Georgia,268,Georgia,natural-earth
+Germany,276,Germany,natural-earth
+Ghana,288,Ghana,natural-earth
+Gibraltar,,,natural-earth
+Greece,300,Greece,natural-earth
+Greenland,304,Greenland,natural-earth
+Grenada,,,natural-earth
+Guadeloupe,,,natural-earth
+Guatemala,320,Guatemala,natural-earth
+Guernsey,,,natural-earth
+Guinea,324,Guinea,natural-earth
+Guinea-Bissau,624,Guinea-Bissau,natural-earth
+Guyana,328,Guyana,natural-earth
+Haiti,332,Haiti,natural-earth
+Honduras,340,Honduras,natural-earth
+Hong Kong,,,natural-earth
+Iceland,352,Iceland,natural-earth
+India,356,India,natural-earth
+Indonesia,360,Indonesia,natural-earth
+Iran,364,Iran,natural-earth
+Iraq,368,Iraq,natural-earth
+Ireland,372,Ireland,natural-earth
+Isle of Man,,,natural-earth
+Israel,376,Israel,natural-earth
+Italy,380,Italy,natural-earth
+Jamaica,388,Jamaica,natural-earth
+Japan,392,Japan,natural-earth
+Jersey,,,natural-earth
+Jordan,400,Jordan,natural-earth
+Kazakhstan,398,Kazakhstan,natural-earth
+Kenya,404,Kenya,natural-earth
+Kiribati,,,natural-earth
+Kuwait,414,Kuwait,natural-earth
+Latvia,428,Latvia,natural-earth
+Lebanon,422,Lebanon,natural-earth
+Liberia,430,Liberia,natural-earth
+Libya,434,Libya,natural-earth
+Lithuania,440,Lithuania,natural-earth
+Madagascar,450,Madagascar,natural-earth
+Malaysia,458,Malaysia,natural-earth
+Maldives,,,natural-earth
+Malta,,,natural-earth
+Marshall Islands,,,natural-earth
+Martinique,,,natural-earth
+Mauritania,478,Mauritania,natural-earth
+Mauritius,,,natural-earth
+Mayotte,,,natural-earth
+Mexico,484,Mexico,natural-earth
+Micronesia,,,natural-earth
+Monaco,,,natural-earth
+Montserrat,,,natural-earth
+Morocco,504,Morocco,natural-earth
+Mozambique,508,Mozambique,natural-earth
+Myanmar,104,Myanmar,natural-earth
+Namibia,516,Namibia,natural-earth
+Netherlands,528,Netherlands,natural-earth
+New Caledonia,540,New Caledonia,natural-earth
+New Zealand,554,New Zealand,natural-earth
+Nicaragua,558,Nicaragua,natural-earth
+Nigeria,566,Nigeria,natural-earth
+Niue,,,natural-earth
+Northern Mariana Islands,,,natural-earth
+Norway,578,Norway,natural-earth
+Oman,512,Oman,natural-earth
+Pakistan,586,Pakistan,natural-earth
+Palau,,,natural-earth
+Panama,591,Panama,natural-earth
+Papua New Guinea,598,Papua New Guinea,natural-earth
+Peru,604,Peru,natural-earth
+Philippines,608,Philippines,natural-earth
+Poland,616,Poland,natural-earth
+Portugal,620,Portugal,natural-earth
+Qatar,634,Qatar,natural-earth
+Russia,643,Russia,natural-earth
+Réunion,,,natural-earth
+Saint Barthélemy,,,natural-earth
+Saint Kitts and Nevis,,,natural-earth
+Saint Lucia,,,natural-earth
+Saint Martin,,,natural-earth
+Saint Pierre and Miquelon,,,natural-earth
+Saint Vincent and the Grenadines,,,natural-earth
+Samoa,,,natural-earth
+Sao Tome and Principe,,,natural-earth
+Saudi Arabia,682,Saudi Arabia,natural-earth
+Senegal,686,Senegal,natural-earth
+Seychelles,,,natural-earth
+Sierra Leone,694,Sierra Leone,natural-earth
+Singapore,,,natural-earth
+Sint Eustatius and Saba,,,natural-earth
+Sint Maarten,,,natural-earth
+Solomon Islands,090,Solomon Is.,natural-earth
+Somalia,706,Somalia,natural-earth
+South Africa,710,South Africa,natural-earth
+South Korea,410,South Korea,natural-earth
+Spain,724,Spain,natural-earth
+Sri Lanka,144,Sri Lanka,natural-earth
+Sudan,729,Sudan,natural-earth
+Suriname,740,Suriname,natural-earth
+Sweden,752,Sweden,natural-earth
+Switzerland,756,Switzerland,natural-earth
+Syria,760,Syria,natural-earth
+Taiwan,158,Taiwan,natural-earth
+Tanzania,834,Tanzania,natural-earth
+Thailand,764,Thailand,natural-earth
+Togo,768,Togo,natural-earth
+Tokelau,,,natural-earth
+Tonga,,,natural-earth
+Trinidad and Tobago,780,Trinidad and Tobago,natural-earth
+Tunisia,788,Tunisia,natural-earth
+Turkey,792,Turkey,natural-earth
+Turkmenistan,795,Turkmenistan,natural-earth
+Turks and Caicos Islands,,,natural-earth
+Ukraine,804,Ukraine,natural-earth
+United Arab Emirates,784,United Arab Emirates,natural-earth
+United Kingdom,826,United Kingdom,natural-earth
+United States,840,United States of America,natural-earth
+Uruguay,858,Uruguay,natural-earth
+Vanuatu,548,Vanuatu,natural-earth
+Venezuela,862,Venezuela,natural-earth
+Vietnam,704,Vietnam,natural-earth
+Virgin Islands (U.K.),,,natural-earth
+Virgin Islands (U.S.),,,natural-earth
+Wallis and Futuna,,,natural-earth
+Yemen,887,Yemen,natural-earth

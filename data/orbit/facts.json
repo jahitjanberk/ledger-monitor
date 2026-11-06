@@ -1,0 +1,55 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures on tracked objects, debris and Starlink.",
+  "records": [
+    {
+      "id": "tracked",
+      "label": "Objects tracked in orbit by space surveillance networks",
+      "value": 40000,
+      "unit": "objects",
+      "note": "About; end of 2024",
+      "source": "esa-2025"
+    },
+    {
+      "id": "active",
+      "label": "Of which active payloads",
+      "value": 11000,
+      "unit": "satellites",
+      "note": "About; end of 2024",
+      "source": "esa-2025"
+    },
+    {
+      "id": "debris10",
+      "label": "Estimated debris objects larger than 10 cm",
+      "value": 50000,
+      "unit": "objects",
+      "note": "Over",
+      "source": "esa-2025"
+    },
+    {
+      "id": "debris1",
+      "label": "Estimated debris objects larger than 1 cm",
+      "value": 1200000,
+      "unit": "objects",
+      "note": "Over",
+      "source": "esa-2025"
+    },
+    {
+      "id": "reentry",
+      "label": "Intact satellites or rocket bodies re-entering the atmosphere",
+      "value": 3,
+      "unit": "a day",
+      "note": "More than, on average",
+      "source": "esa-2025"
+    },
+    {
+      "id": "starlink",
+      "label": "Active Starlink satellites, 17 March 2026",
+      "value": 10020,
+      "unit": "satellites",
+      "note": "Roughly two-thirds of all active satellites",
+      "source": "mcdowell-2026"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+metric,label,value,unit,source
+us_direct_2023_l,"US data centres, direct (cooling), 2023",64000000000,litres,lbnl-water
+us_direct_2023_gal,"US data centres, direct (cooling), 2023",17000000000,US gallons,lbnl-water
+us_indirect_2023_l,"US data centres, indirect (power generation), 2023",800000000000,litres,lbnl-water
+us_indirect_2023_gal,"US data centres, indirect (power generation), 2023",211000000000,US gallons,lbnl-water
+google_dc_2023_l,"Google data centres, 2023",23100000000,litres,lbnl-water
+meta_dc_2023_l,"Meta data centres, 2023",2900000000,litres,lbnl-water

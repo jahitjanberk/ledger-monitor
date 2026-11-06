@@ -1,0 +1,187 @@
+country,iso3,iso_n3,renewable_m3_per_person,renewable_year,renewable_source,withdrawal_m3_per_person,withdrawal_year,withdrawal_source
+Afghanistan,AFG,004,1162,2022,aquastat-wdi,491,2023,aquastat-pc
+Angola,AGO,024,4153,2022,aquastat-wdi,19,2023,aquastat-pc
+Albania,ALB,008,10972,2022,aquastat-wdi,285,2023,aquastat-pc
+Andorra,AND,020,3960,2022,aquastat-wdi,,,
+United Arab Emirates,ARE,784,15,2022,aquastat-wdi,462,2023,aquastat-pc
+Argentina,ARG,032,6431,2022,aquastat-wdi,830,2023,aquastat-pc
+Armenia,ARM,051,2310,2022,aquastat-wdi,1044,2023,aquastat-pc
+Antigua and Barbuda,ATG,028,560,2022,aquastat-wdi,123,2023,aquastat-pc
+Australia,AUS,036,18909,2022,aquastat-wdi,634,2023,aquastat-pc
+Austria,AUT,040,6083,2022,aquastat-wdi,344,2023,aquastat-pc
+Azerbaijan,AZE,031,800,2022,aquastat-wdi,1257,2023,aquastat-pc
+Burundi,BDI,108,755,2022,aquastat-wdi,20,2023,aquastat-pc
+Belgium,BEL,056,1027,2022,aquastat-wdi,420,2023,aquastat-pc
+Benin,BEN,204,749,2022,aquastat-wdi,17,2023,aquastat-pc
+Burkina Faso,BFA,854,555,2022,aquastat-wdi,36,2023,aquastat-pc
+Bangladesh,BGD,050,620,2022,aquastat-wdi,209,2023,aquastat-pc
+Bulgaria,BGR,100,3248,2022,aquastat-wdi,773,2023,aquastat-pc
+Bahrain,BHR,048,3,2022,aquastat-wdi,277,2023,aquastat-pc
+Bahamas,BHS,044,1761,2022,aquastat-wdi,,,
+Bosnia and Herzegovina,BIH,070,11077,2022,aquastat-wdi,,,
+Belarus,BLR,112,3684,2022,aquastat-wdi,157,2023,aquastat-pc
+Belize,BLZ,084,37891,2022,aquastat-wdi,246,2023,aquastat-pc
+Bolivia,BOL,068,25130,2022,aquastat-wdi,180,2023,aquastat-pc
+Brazil,BRA,076,26918,2022,aquastat-wdi,307,2023,aquastat-pc
+Barbados,BRB,052,283,2022,aquastat-wdi,287,2023,aquastat-pc
+Brunei,BRN,096,18666,2022,aquastat-wdi,200,2023,aquastat-pc
+Bhutan,BTN,064,99883,2022,aquastat-wdi,430,2023,aquastat-pc
+Botswana,BWA,072,984,2022,aquastat-wdi,89,2023,aquastat-pc
+Central African Republic,CAF,140,27658,2022,aquastat-wdi,14,2023,aquastat-pc
+Canada,CAN,124,73170,2022,aquastat-wdi,918,2023,aquastat-pc
+Switzerland,CHE,756,4603,2022,aquastat-wdi,195,2023,aquastat-pc
+Chile,CHL,152,45262,2022,aquastat-wdi,1647,2023,aquastat-pc
+China,CHN,156,1992,2022,aquastat-wdi,426,2023,aquastat-pc
+Cote d'Ivoire,CIV,384,2528,2022,aquastat-wdi,37,2023,aquastat-pc
+Cameroon,CMR,120,9880,2022,aquastat-wdi,38,2023,aquastat-pc
+Democratic Republic of Congo,COD,180,8789,2022,aquastat-wdi,6,2023,aquastat-pc
+Congo,COG,178,36785,2022,aquastat-wdi,15,2023,aquastat-pc
+Colombia,COL,170,41459,2022,aquastat-wdi,475,2023,aquastat-pc
+Comoros,COM,174,1439,2022,aquastat-wdi,12,2023,aquastat-pc
+Cape Verde,CPV,132,577,2022,aquastat-wdi,507,2023,aquastat-pc
+Costa Rica,CRI,188,22236,2022,aquastat-wdi,675,2023,aquastat-pc
+Cuba,CUB,192,3447,2022,aquastat-wdi,631,2023,aquastat-pc
+Cyprus,CYP,196,586,2022,aquastat-wdi,221,2023,aquastat-pc
+Czechia,CZE,203,1232,2022,aquastat-wdi,122,2023,aquastat-pc
+Germany,DEU,276,1286,2022,aquastat-wdi,271,2023,aquastat-pc
+Djibouti,DJI,262,264,2022,aquastat-wdi,16,2023,aquastat-pc
+Dominica,DMA,212,2993,2022,aquastat-wdi,301,2023,aquastat-pc
+Denmark,DNK,208,1016,2022,aquastat-wdi,166,2023,aquastat-pc
+Dominican Republic,DOM,214,2092,2022,aquastat-wdi,801,2023,aquastat-pc
+Algeria,DZA,012,247,2022,aquastat-wdi,237,2023,aquastat-pc
+Ecuador,ECU,218,24821,2022,aquastat-wdi,552,2023,aquastat-pc
+Egypt,EGY,818,9,2022,aquastat-wdi,677,2023,aquastat-pc
+Eritrea,ERI,232,821,2022,aquastat-wdi,168,2023,aquastat-pc
+Spain,ESP,724,2327,2022,aquastat-wdi,606,2023,aquastat-pc
+Estonia,EST,233,9423,2022,aquastat-wdi,580,2023,aquastat-pc
+Ethiopia,ETH,231,973,2022,aquastat-wdi,82,2023,aquastat-pc
+Finland,FIN,246,19258,2022,aquastat-wdi,500,2023,aquastat-pc
+Fiji,FJI,242,31052,2022,aquastat-wdi,92,2023,aquastat-pc
+France,FRA,250,2933,2022,aquastat-wdi,354,2023,aquastat-pc
+Gabon,GAB,266,67469,2022,aquastat-wdi,56,2023,aquastat-pc
+United Kingdom,GBR,826,2144,2022,aquastat-wdi,123,2023,aquastat-pc
+Georgia,GEO,268,15658,2022,aquastat-wdi,340,2023,aquastat-pc
+Ghana,GHA,288,914,2022,aquastat-wdi,43,2023,aquastat-pc
+Guinea,GIN,324,16080,2022,aquastat-wdi,62,2023,aquastat-pc
+Gambia,GMB,270,1138,2022,aquastat-wdi,38,2023,aquastat-pc
+Guinea-Bissau,GNB,624,7599,2022,aquastat-wdi,88,2023,aquastat-pc
+Equatorial Guinea,GNQ,226,14416,2022,aquastat-wdi,11,2023,aquastat-pc
+Greece,GRC,300,5557,2022,aquastat-wdi,856,2023,aquastat-pc
+Grenada,GRD,308,1711,2022,aquastat-wdi,120,2023,aquastat-pc
+Guatemala,GTM,320,6118,2022,aquastat-wdi,183,2023,aquastat-pc
+Guyana,GUY,328,293317,2022,aquastat-wdi,1748,2023,aquastat-pc
+Honduras,HND,340,8664,2022,aquastat-wdi,151,2023,aquastat-pc
+Croatia,HRV,191,9778,2022,aquastat-wdi,265,2023,aquastat-pc
+Haiti,HTI,332,1131,2022,aquastat-wdi,125,2023,aquastat-pc
+Hungary,HUN,348,625,2022,aquastat-wdi,476,2023,aquastat-pc
+Indonesia,IDN,360,7240,2022,aquastat-wdi,792,2023,aquastat-pc
+India,IND,356,1014,2022,aquastat-wdi,529,2023,aquastat-pc
+Ireland,IRL,372,9400,2022,aquastat-wdi,377,2023,aquastat-pc
+Iran,IRN,364,1435,2022,aquastat-wdi,1030,2023,aquastat-pc
+Iraq,IRQ,368,799,2022,aquastat-wdi,1071,2023,aquastat-pc
+Iceland,ISL,352,445023,2022,aquastat-wdi,718,2023,aquastat-pc
+Israel,ISR,376,80,2021,aquastat-wdi,277,2023,aquastat-pc
+Italy,ITA,380,3093,2022,aquastat-wdi,569,2023,aquastat-pc
+Jamaica,JAM,388,3812,2022,aquastat-wdi,163,2023,aquastat-pc
+Jordan,JOR,400,61,2022,aquastat-wdi,97,2023,aquastat-pc
+Japan,JPN,392,3437,2022,aquastat-wdi,619,2023,aquastat-pc
+Kazakhstan,KAZ,398,3212,2022,aquastat-wdi,1198,2023,aquastat-pc
+Kenya,KEN,404,382,2022,aquastat-wdi,91,2023,aquastat-pc
+Kyrgyzstan,KGZ,417,7015,2022,aquastat-wdi,1083,2023,aquastat-pc
+Cambodia,KHM,116,7011,2022,aquastat-wdi,125,2023,aquastat-pc
+Saint Kitts and Nevis,KNA,659,514,2022,aquastat-wdi,334,2023,aquastat-pc
+South Korea,KOR,410,1255,2022,aquastat-wdi,523,2023,aquastat-pc
+Kuwait,KWT,414,0,2022,aquastat-wdi,258,2023,aquastat-pc
+Laos,LAO,418,25188,2022,aquastat-wdi,959,2023,aquastat-pc
+Lebanon,LBN,422,836,2022,aquastat-wdi,319,2023,aquastat-pc
+Liberia,LBR,430,37221,2022,aquastat-wdi,27,2023,aquastat-pc
+Libya,LBY,434,97,2022,aquastat-wdi,798,2023,aquastat-pc
+Saint Lucia,LCA,662,1678,2022,aquastat-wdi,239,2023,aquastat-pc
+Sri Lanka,LKA,144,2380,2022,aquastat-wdi,564,2023,aquastat-pc
+Lesotho,LSO,426,2288,2022,aquastat-wdi,19,2023,aquastat-pc
+Lithuania,LTU,440,5460,2022,aquastat-wdi,99,2023,aquastat-pc
+Luxembourg,LUX,442,1531,2022,aquastat-wdi,69,2023,aquastat-pc
+Latvia,LVA,428,9014,2022,aquastat-wdi,94,2023,aquastat-pc
+Morocco,MAR,504,777,2022,aquastat-wdi,277,2023,aquastat-pc
+Monaco,MCO,492,,,,128,2023,aquastat-pc
+Moldova,MDA,498,641,2022,aquastat-wdi,260,2023,aquastat-pc
+Madagascar,MDG,450,11072,2022,aquastat-wdi,957,2023,aquastat-pc
+Maldives,MDV,462,57,2022,aquastat-wdi,11,2023,aquastat-pc
+Mexico,MEX,484,3180,2022,aquastat-wdi,692,2023,aquastat-pc
+North Macedonia,MKD,807,2948,2022,aquastat-wdi,1486,2023,aquastat-pc
+Mali,MLI,466,2600,2022,aquastat-wdi,218,2023,aquastat-pc
+Malta,MLT,470,95,2022,aquastat-wdi,118,2023,aquastat-pc
+Myanmar,MMR,104,18654,2022,aquastat-wdi,617,2023,aquastat-pc
+Montenegro,MNE,499,,,,3484,2023,aquastat-pc
+Mongolia,MNG,496,10135,2022,aquastat-wdi,135,2023,aquastat-pc
+Mozambique,MOZ,508,3071,2022,aquastat-wdi,44,2023,aquastat-pc
+Mauritania,MRT,478,82,2022,aquastat-wdi,269,2023,aquastat-pc
+Mauritius,MUS,480,2179,2022,aquastat-wdi,486,2023,aquastat-pc
+Malawi,MWI,454,785,2022,aquastat-wdi,64,2023,aquastat-pc
+Malaysia,MYS,458,16717,2022,aquastat-wdi,156,2023,aquastat-pc
+Namibia,NAM,516,2132,2022,aquastat-wdi,95,2023,aquastat-pc
+Niger,NER,562,138,2022,aquastat-wdi,99,2023,aquastat-pc
+Nigeria,NGA,566,990,2022,aquastat-wdi,55,2023,aquastat-pc
+Nicaragua,NIC,558,23209,2022,aquastat-wdi,187,2023,aquastat-pc
+Netherlands,NLD,528,621,2022,aquastat-wdi,407,2023,aquastat-pc
+Norway,NOR,578,70000,2022,aquastat-wdi,487,2023,aquastat-pc
+Nepal,NPL,524,6670,2022,aquastat-wdi,320,2023,aquastat-pc
+Nauru,NRU,520,847,2022,aquastat-wdi,,,
+New Zealand,NZL,554,64349,2022,aquastat-wdi,960,2023,aquastat-pc
+Oman,OMN,512,296,2022,aquastat-wdi,379,2023,aquastat-pc
+Pakistan,PAK,586,226,2022,aquastat-wdi,741,2023,aquastat-pc
+Panama,PAN,591,31040,2022,aquastat-wdi,272,2023,aquastat-pc
+Peru,PER,604,49021,2022,aquastat-wdi,801,2023,aquastat-pc
+Philippines,PHL,608,4203,2022,aquastat-wdi,794,2023,aquastat-pc
+Papua New Guinea,PNG,598,78505,2022,aquastat-wdi,38,2023,aquastat-pc
+Poland,POL,616,1456,2022,aquastat-wdi,254,2023,aquastat-pc
+Puerto Rico,PRI,630,2205,2022,aquastat-wdi,1010,2023,aquastat-pc
+North Korea,PRK,408,2545,2022,aquastat-wdi,328,2023,aquastat-pc
+Portugal,PRT,620,3642,2022,aquastat-wdi,591,2023,aquastat-pc
+Paraguay,PRY,600,17307,2022,aquastat-wdi,353,2023,aquastat-pc
+Palestine,PSE,275,165,2021,aquastat-wdi,73,2023,aquastat-pc
+Qatar,QAT,634,21,2022,aquastat-wdi,314,2023,aquastat-pc
+Romania,ROU,642,2225,2022,aquastat-wdi,419,2023,aquastat-pc
+Russia,RUS,643,29895,2022,aquastat-wdi,446,2023,aquastat-pc
+Rwanda,RWA,646,696,2022,aquastat-wdi,43,2023,aquastat-pc
+Saudi Arabia,SAU,682,75,2022,aquastat-wdi,781,2023,aquastat-pc
+Sudan,SDN,729,81,2022,aquastat-wdi,538,2023,aquastat-pc
+Senegal,SEN,686,1462,2022,aquastat-wdi,167,2023,aquastat-pc
+Singapore,SGP,702,106,2022,aquastat-wdi,63,2023,aquastat-pc
+Solomon Islands,SLB,090,57229,2022,aquastat-wdi,,,
+Sierra Leone,SLE,694,19331,2022,aquastat-wdi,25,2023,aquastat-pc
+El Salvador,SLV,222,2489,2022,aquastat-wdi,323,2023,aquastat-pc
+Somalia,SOM,706,337,2022,aquastat-wdi,180,2023,aquastat-pc
+Serbia,SRB,688,1261,2022,aquastat-wdi,761,2023,aquastat-pc
+South Sudan,SSD,728,2359,2022,aquastat-wdi,57,2023,aquastat-pc
+Sao Tome and Principe,STP,678,9633,2022,aquastat-wdi,177,2023,aquastat-pc
+Suriname,SUR,740,158867,2022,aquastat-wdi,979,2023,aquastat-pc
+Slovakia,SVK,703,2320,2022,aquastat-wdi,102,2023,aquastat-pc
+Slovenia,SVN,705,8840,2022,aquastat-wdi,448,2023,aquastat-pc
+Sweden,SWE,752,16306,2022,aquastat-wdi,196,2023,aquastat-pc
+Eswatini,SWZ,748,2166,2022,aquastat-wdi,868,2023,aquastat-pc
+Seychelles,SYC,690,,,,107,2023,aquastat-pc
+Syria,SYR,760,318,2022,aquastat-wdi,710,2023,aquastat-pc
+Chad,TCD,148,813,2022,aquastat-wdi,46,2023,aquastat-pc
+Togo,TGO,768,1425,2022,aquastat-wdi,24,2023,aquastat-pc
+Thailand,THA,764,3130,2022,aquastat-wdi,799,2023,aquastat-pc
+Tajikistan,TJK,762,6232,2022,aquastat-wdi,953,2023,aquastat-pc
+Turkmenistan,TKM,795,194,2022,aquastat-wdi,2360,2023,aquastat-pc
+East Timor,TLS,626,5999,2022,aquastat-wdi,847,2023,aquastat-pc
+Trinidad and Tobago,TTO,780,2812,2022,aquastat-wdi,255,2023,aquastat-pc
+Tunisia,TUN,788,346,2022,aquastat-wdi,315,2023,aquastat-pc
+Turkey,TUR,792,2671,2022,aquastat-wdi,740,2023,aquastat-pc
+Tanzania,TZA,834,1298,2022,aquastat-wdi,78,2023,aquastat-pc
+Uganda,UGA,800,824,2022,aquastat-wdi,13,2023,aquastat-pc
+Ukraine,UKR,804,1342,2022,aquastat-wdi,150,2023,aquastat-pc
+Uruguay,URY,858,27190,2022,aquastat-wdi,1284,2023,aquastat-pc
+United States,USA,840,8437,2022,aquastat-wdi,1294,2023,aquastat-pc
+Uzbekistan,UZB,860,468,2022,aquastat-wdi,1248,2023,aquastat-pc
+Saint Vincent and the Grenadines,VCT,670,980,2022,aquastat-wdi,84,2023,aquastat-pc
+Venezuela,VEN,862,28533,2022,aquastat-wdi,799,2023,aquastat-pc
+Vietnam,VNM,704,3606,2022,aquastat-wdi,799,2023,aquastat-pc
+Vanuatu,VUT,548,31944,2022,aquastat-wdi,,,
+Yemen,YEM,887,55,2022,aquastat-wdi,91,2023,aquastat-pc
+South Africa,ZAF,710,718,2022,aquastat-wdi,330,2023,aquastat-pc
+Zambia,ZMB,894,3980,2022,aquastat-wdi,230,2023,aquastat-pc
+Zimbabwe,ZWE,716,763,2022,aquastat-wdi,300,2023,aquastat-pc

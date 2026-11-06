@@ -1,0 +1,97 @@
+{
+  "sources": {
+    "fao-sdg642": {
+      "publisher": "FAO via the UN SDG Indicators Database (processed by Our World in Data)",
+      "title": "SDG indicator 6.4.2: level of water stress, by country",
+      "url": "https://unstats.un.org/sdgs/dataportal",
+      "published": "2026-08-25",
+      "method": "reported",
+      "notes": "Freshwater withdrawn by all sectors as a share of renewable freshwater left after environmental flows. Countries report to FAO through AQUASTAT. Taken from Our World in Data's copy of the UN database (accessed by OWID on 31 July 2026); the world value matches the UN-Water SDG 6 Data Portal."
+    },
+    "sdg6-portal": {
+      "publisher": "UN-Water SDG 6 Data Portal",
+      "title": "Progress on level of water stress (indicator 6.4.2), regional values",
+      "url": "https://www.sdg6data.org/en/indicator/6.4.2",
+      "published": "2026",
+      "method": "reported",
+      "notes": "SDG regional aggregates for 2023."
+    },
+    "sdg642-meta": {
+      "publisher": "UN Statistics Division / FAO",
+      "title": "SDG metadata, indicator 6.4.2: severity classes",
+      "url": "https://worldbank.github.io/sdg-metadata/phase-2/metadata/en/6-4-2",
+      "published": "2023",
+      "method": "reference",
+      "notes": "No stress under 25%, low 25 to 50%, medium 50 to 75%, high 75 to 100%, critical over 100%."
+    },
+    "aquastat-wdi": {
+      "publisher": "FAO AQUASTAT via the World Bank's World Development Indicators (processed by Our World in Data)",
+      "title": "Freshwater withdrawals by sector and renewable internal freshwater per person",
+      "url": "https://ourworldindata.org/grapher/agricultural-water-as-a-share-of-total-water-withdrawals",
+      "published": "2026-07-27",
+      "method": "reported",
+      "notes": "Shares of withdrawals going to agriculture, industry and domestic use; renewable internal freshwater resources per person."
+    },
+    "aquastat-pc": {
+      "publisher": "FAO AQUASTAT (processed by Our World in Data)",
+      "title": "Total water withdrawal per person",
+      "url": "https://ourworldindata.org/grapher/water-withdrawals-per-capita",
+      "published": "2026-08-07",
+      "method": "reported"
+    },
+    "jmp-2025": {
+      "publisher": "WHO/UNICEF Joint Monitoring Programme (processed by Our World in Data)",
+      "title": "Estimates for drinking water, sanitation and hygiene services by country (2000-2024)",
+      "url": "https://washdata.org/data",
+      "published": "2025-08-26",
+      "method": "survey",
+      "notes": "Built from household surveys, censuses and administrative data. Next update expected December 2027."
+    },
+    "jmp-2025-release": {
+      "publisher": "UNICEF USA, reporting WHO and UNICEF",
+      "title": "Fast facts: 1 in 4 people globally still lack access to safe drinking water",
+      "url": "https://www.unicefusa.org/press/fast-facts-1-4-people-globally-still-lack-access-safe-drinking-water-who-unicef",
+      "published": "2025-08-26",
+      "method": "survey"
+    },
+    "wri-2023": {
+      "publisher": "World Resources Institute",
+      "title": "25 Countries, Housing One-Quarter of the Population, Face Extremely High Water Stress",
+      "url": "https://www.wri.org/insights/highest-water-stressed-countries",
+      "published": "2023-08-16",
+      "method": "reference",
+      "notes": "Findings from Aqueduct 4.0 (CC BY 4.0). Extremely high stress means using at least 80% of available supply; high means 40%."
+    },
+    "grace-2025": {
+      "publisher": "Arizona State University, reporting a study in Science Advances (doi:10.1126/sciadv.adx0298)",
+      "title": "Unprecedented continental drying, shrinking freshwater availability, and increasing land contributions to sea level rise",
+      "url": "https://ke.news.prod.rtd.asu.edu/2025/08/06/asu-led-research-uses-20-years-of-satellite-data-to-reveal-unprecedented-continental-drying/",
+      "published": "2025-08-06",
+      "method": "reference",
+      "notes": "Based on NASA/GFZ GRACE and GRACE-FO satellite gravity data from 2002."
+    },
+    "unccd-2025": {
+      "publisher": "UNCCD and the US National Drought Mitigation Center",
+      "title": "Drought Hotspots Around the World 2023-2025",
+      "url": "https://www.unccd.int/resources/publications/drought-hotspots-around-world-2023-2025",
+      "published": "2025-07-02",
+      "method": "reference"
+    },
+    "lbnl-2024": {
+      "publisher": "Lawrence Berkeley National Laboratory",
+      "title": "2024 United States Data Center Energy Usage Report",
+      "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report_1.pdf",
+      "published": "2024-12-19",
+      "method": "reported",
+      "notes": "US data centres only. Direct = water consumed on site for cooling; indirect = water consumed generating their electricity."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "global",
+  "title": "GASA global survey 2025",
+  "description": "Headline findings of the Global State of Scams 2025 (46,000 adults, 42 markets).",
+  "records": [
+    {
+      "metric": "global_losses",
+      "label": "Estimated global losses",
+      "value": 442000000000,
+      "source": "gasa-global-2025-coverage"
+    },
+    {
+      "metric": "encountered",
+      "label": "Adults who encountered a scam",
+      "value": 0.57,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "lost_money",
+      "label": "Adults who lost money",
+      "value": 0.23,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "confident",
+      "label": "Adults confident they can spot a scam",
+      "value": 0.73,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "stress",
+      "label": "Victims reporting stress",
+      "value": 0.69,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "respondents",
+      "label": "Survey respondents",
+      "value": 46000,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "markets",
+      "label": "Markets surveyed",
+      "value": 42,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "type_shopping",
+      "label": "Shopping",
+      "value": 0.54,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "type_investment",
+      "label": "Investment",
+      "value": 0.48,
+      "source": "gasa-global-2025"
+    },
+    {
+      "metric": "type_unexpected",
+      "label": "Unexpected money or prize",
+      "value": 0.48,
+      "source": "gasa-global-2025"
+    }
+  ]
+}

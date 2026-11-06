@@ -1,0 +1,97 @@
+market,nation,nation_code,rank,median_multiple,median_multiple_prev,lon,lat,plotted_at,source,prev_source,geo_source
+"Cleveland, OH",United States,US,1,3.1,3.3,-81.7,41.5,,demographia-2026,demographia-2025,geonames
+"Pittsburgh, PA",United States,US,2,3.2,3.2,-80,40.44,,demographia-2026,demographia-2025,geonames
+"Edmonton, AB",Canada,CA,3,3.6,3.7,-113.47,53.55,,demographia-2026,demographia-2025,geonames
+"Oklahoma City, OK",United States,US,3,3.6,3.7,-97.52,35.47,,demographia-2026,demographia-2025,geonames
+"Rochester, NY",United States,US,3,3.6,3.6,-77.62,43.15,,demographia-2026,demographia-2025,geonames
+"St. Louis, MO-IL",United States,US,3,3.6,3.5,-90.2,38.63,,demographia-2026,demographia-2025,geonames
+Sheffield,United Kingdom,GB,7,3.7,3.8,-1.47,53.38,,demographia-2026,demographia-2025,geonames
+"Omaha, NE-IA",United States,US,7,3.7,3.7,-95.94,41.26,,demographia-2026,demographia-2025,geonames
+Middlesbrough & Durham,United Kingdom,GB,9,3.8,3.7,-1.23,54.58,,demographia-2026,demographia-2025,geonames
+"Louisville, KY-IN",United States,US,9,3.8,4,-85.76,38.25,,demographia-2026,demographia-2025,geonames
+Glasgow,United Kingdom,GB,11,3.9,4.6,-4.26,55.87,,demographia-2026,demographia-2025,geonames
+"Cincinnati, OH-KY-IN",United States,US,11,3.9,3.9,-84.51,39.13,,demographia-2026,demographia-2025,geonames
+"Dallas-Fort Worth, TX",United States,US,11,3.9,4.3,-96.81,32.78,,demographia-2026,demographia-2025,geonames
+"Detroit, MI",United States,US,11,3.9,3.9,-83.05,42.33,,demographia-2026,demographia-2025,geonames
+"Tulsa, OK",United States,US,11,3.9,4.1,-95.99,36.15,,demographia-2026,demographia-2025,geonames
+"Atlanta, GA",United States,US,16,4,4.3,-84.39,33.75,,demographia-2026,demographia-2025,geonames
+"Buffalo, NY",United States,US,16,4,4,-78.88,42.89,,demographia-2026,demographia-2025,geonames
+"Minneapolis-St. Paul, MN-WI",United States,US,16,4,4,-93.26,44.98,,demographia-2026,demographia-2025,geonames
+"San Antonio, TX",United States,US,16,4,4.3,-98.49,29.42,,demographia-2026,demographia-2025,geonames
+"Columbus, OH",United States,US,20,4.1,4.3,-83,39.96,,demographia-2026,demographia-2025,geonames
+"Houston, TX",United States,US,20,4.1,4.3,-95.36,29.76,,demographia-2026,demographia-2025,geonames
+"Indianapolis, IN",United States,US,20,4.1,4.1,-86.16,39.77,,demographia-2026,demographia-2025,geonames
+"Kansas City, MO-KS",United States,US,20,4.1,4.2,-94.58,39.1,,demographia-2026,demographia-2025,geonames
+"Grand Rapids, MI",United States,US,24,4.2,4.3,-85.67,42.96,,demographia-2026,demographia-2025,geonames
+"Calgary, AB",Canada,CA,25,4.3,4.8,-114.09,51.05,,demographia-2026,demographia-2025,geonames
+Singapore,Singapore,SG,25,4.3,4.2,103.85,1.29,,demographia-2026,demographia-2025,geonames
+"Memphis, TN-MS-AR",United States,US,25,4.3,4.4,-90.05,35.15,,demographia-2026,demographia-2025,geonames
+Edinburgh,United Kingdom,GB,28,4.4,6.2,-3.2,55.95,,demographia-2026,demographia-2025,geonames
+Nottingham,United Kingdom,GB,28,4.4,4.6,-1.15,52.95,,demographia-2026,demographia-2025,geonames
+"Baltimore, MD",United States,US,28,4.4,4.4,-76.61,39.29,,demographia-2026,demographia-2025,geonames
+"Birmingham, AL",United States,US,28,4.4,4.5,-86.8,33.52,,demographia-2026,demographia-2025,geonames
+"Chicago, IL",United States,US,28,4.4,4.4,-87.65,41.85,,demographia-2026,demographia-2025,geonames
+"Hartford, CT",United States,US,28,4.4,4.3,-72.69,41.76,,demographia-2026,demographia-2025,geonames
+"Philadelphia, PA-NJ-DE-MD",United States,US,28,4.4,4.4,-75.16,39.95,,demographia-2026,demographia-2025,geonames
+"Raleigh, NC",United States,US,28,4.4,4.8,-78.64,35.77,,demographia-2026,demographia-2025,geonames
+"Virginia Beach-Norfolk, VA-NC",United States,US,28,4.4,4.4,-75.98,36.85,,demographia-2026,demographia-2025,geonames
+Derby & Derbyshire,United Kingdom,GB,37,4.5,4.6,-1.48,52.92,,demographia-2026,demographia-2025,geonames
+Newcastle,United Kingdom,GB,37,4.5,4.7,-1.61,54.97,Newcastle upon Tyne (main city),demographia-2026,demographia-2025,geonames
+Stoke on Trent & Staffordshire,United Kingdom,GB,37,4.5,4.6,-2.19,53,Stoke-on-Trent (main city),demographia-2026,demographia-2025,geonames
+"Greenville, SC",United States,US,37,4.5,,-82.39,34.85,,demographia-2026,,geonames
+"New Orleans, LA",United States,US,37,4.5,4.6,-90.08,29.95,,demographia-2026,demographia-2025,geonames
+"Austin, TX",United States,US,42,4.6,4.8,-97.74,30.27,,demographia-2026,demographia-2025,geonames
+West Midlands,United Kingdom,GB,43,4.7,4.9,-1.9,52.48,Birmingham (main city),demographia-2026,demographia-2025,geonames
+"Jacksonville, FL",United States,US,43,4.7,5.1,-81.66,30.33,,demographia-2026,demographia-2025,geonames
+"Nashville, TN",United States,US,43,4.7,4.9,-86.78,36.17,,demographia-2026,demographia-2025,geonames
+Dublin,Ireland,IE,46,4.9,5.1,-6.25,53.33,,demographia-2026,demographia-2025,geonames
+Blackpool & Lancashire,United Kingdom,GB,46,4.9,4.9,-3.05,53.82,,demographia-2026,demographia-2025,geonames
+"Charlotte, NC-SC",United States,US,46,4.9,5.1,-80.84,35.23,,demographia-2026,demographia-2025,geonames
+"Ottawa-Gatineau, ON-QC",Canada,CA,49,5,5,-75.7,45.41,,demographia-2026,demographia-2025,geonames
+"Tampa-St. Petersburg, FL",United States,US,49,5,5.5,-82.46,27.95,,demographia-2026,demographia-2025,geonames
+Hull & Humber,United Kingdom,GB,51,5.1,5.4,-0.34,53.74,Kingston upon Hull (main city),demographia-2026,demographia-2025,geonames
+"Phoenix, AZ",United States,US,51,5.1,5.4,-112.07,33.45,,demographia-2026,demographia-2025,geonames
+"Richmond, VA",United States,US,51,5.1,4.9,-77.46,37.55,,demographia-2026,demographia-2025,geonames
+"Tucson, AZ",United States,US,51,5.1,5.5,-110.93,32.22,,demographia-2026,demographia-2025,geonames
+"Washington, DC-VA-MD-WV",United States,US,51,5.1,5.2,-77.04,38.9,,demographia-2026,demographia-2025,geonames
+Liverpool,United Kingdom,GB,56,5.2,5.3,-2.98,53.41,,demographia-2026,demographia-2025,geonames
+"Orlando, FL",United States,US,57,5.3,5.6,-81.38,28.54,,demographia-2026,demographia-2025,geonames
+"Sacramento, CA",United States,US,58,5.4,5.8,-121.49,38.58,,demographia-2026,demographia-2025,geonames
+Leeds,United Kingdom,GB,59,5.5,5.7,-1.55,53.8,,demographia-2026,demographia-2025,geonames
+Leicester & Leicestershire,United Kingdom,GB,59,5.5,5.6,-1.13,52.64,,demographia-2026,demographia-2025,geonames
+"Milwaukee, WI",United States,US,59,5.5,5.3,-87.91,43.04,,demographia-2026,demographia-2025,geonames
+Northampton,United Kingdom,GB,62,5.7,5.9,-0.88,52.25,,demographia-2026,demographia-2025,geonames
+"Fresno, CA",United States,US,62,5.7,5.9,-119.77,36.75,,demographia-2026,demographia-2025,geonames
+"Montreal, QC",Canada,CA,64,5.8,5.8,-73.59,45.51,Montréal (main city),demographia-2026,demographia-2025,geonames
+Plymouth & Devon,United Kingdom,GB,64,5.8,6,-4.14,50.37,,demographia-2026,demographia-2025,geonames
+"Las Vegas, NV",United States,US,64,5.8,6.3,-115.14,36.17,,demographia-2026,demographia-2025,geonames
+"Salt Lake City, UT",United States,US,64,5.8,6,-111.89,40.76,,demographia-2026,demographia-2025,geonames
+"Denver, CO",United States,US,68,5.9,6.2,-104.98,39.74,,demographia-2026,demographia-2025,geonames
+"Portland, OR-WA",United States,US,68,5.9,6.3,-122.68,45.52,,demographia-2026,demographia-2025,geonames
+Greater Manchester,United Kingdom,GB,70,6.1,6.4,-2.24,53.48,,demographia-2026,demographia-2025,geonames
+Swindon,United Kingdom,GB,71,6.2,6.4,-1.78,51.56,,demographia-2026,demographia-2025,geonames
+"Riverside-San Bernardino, CA",United States,US,72,6.3,6.6,-117.4,33.95,,demographia-2026,demographia-2025,geonames
+"Providence, RI-MA",United States,US,73,6.5,6.2,-71.41,41.82,,demographia-2026,demographia-2025,geonames
+"Boston, MA-NH",United States,US,74,6.6,6.7,-71.06,42.36,,demographia-2026,demographia-2025,geonames
+London Exurbs,United Kingdom,GB,75,6.9,7.3,-0.97,51.46,Reading (centre of the London exurbs),demographia-2026,demographia-2025,geonames
+"Seattle, WA",United States,US,75,6.9,7.1,-122.33,47.61,,demographia-2026,demographia-2025,geonames
+Bournemouth & Dorset,United Kingdom,GB,77,7.2,7.3,-1.88,50.72,,demographia-2026,demographia-2025,geonames
+Bristol-Bath,United Kingdom,GB,77,7.2,7.5,-2.6,51.46,,demographia-2026,demographia-2025,geonames
+Warrington & Cheshire,United Kingdom,GB,79,7.3,7.4,-2.58,53.39,,demographia-2026,demographia-2025,geonames
+"New York, NY-NJ-PA",United States,US,80,7.5,7.4,-74.01,40.71,New York City (main city),demographia-2026,demographia-2025,geonames
+"Toronto, ON",Canada,CA,81,7.6,8.4,-79.42,43.7,,demographia-2026,demographia-2025,geonames
+Auckland,New Zealand,NZ,82,7.7,7.7,174.76,-36.85,,demographia-2026,demographia-2025,geonames
+"Miami, FL",United States,US,82,7.7,8.1,-80.19,25.77,,demographia-2026,demographia-2025,geonames
+"Perth, WA",Australia,AU,84,8,8.3,115.86,-31.95,,demographia-2026,demographia-2025,geonames
+Greater London,United Kingdom,GB,85,8.5,9.1,-0.13,51.51,,demographia-2026,demographia-2025,geonames
+"San Diego, CA",United States,US,86,9,9.5,-117.16,32.72,,demographia-2026,demographia-2025,geonames
+"San Francisco, CA",United States,US,87,9.4,10,-122.42,37.77,,demographia-2026,demographia-2025,geonames
+"Melbourne, VIC",Australia,AU,88,9.5,9.7,144.96,-37.81,,demographia-2026,demographia-2025,geonames
+"Brisbane, QLD",Australia,AU,89,9.9,9.3,153.03,-27.47,,demographia-2026,demographia-2025,geonames
+"Honolulu, HI",United States,US,90,10.4,10.8,-157.86,21.31,,demographia-2026,demographia-2025,geonames
+"Los Angeles, CA",United States,US,91,10.7,11.2,-118.24,34.05,,demographia-2026,demographia-2025,geonames
+"Vancouver, BC",Canada,CA,92,10.8,11.8,-123.12,49.25,,demographia-2026,demographia-2025,geonames
+"Adelaide, SA",Australia,AU,93,11.2,10.9,138.6,-34.93,,demographia-2026,demographia-2025,geonames
+"San Jose, CA",United States,US,94,11.3,12.1,-121.89,37.34,,demographia-2026,demographia-2025,geonames
+"Sydney, NSW",Australia,AU,95,14,13.8,151.21,-33.87,,demographia-2026,demographia-2025,geonames
+Hong Kong,China: Hong Kong,HK,96,14.1,14.4,114.17,22.28,,demographia-2026,demographia-2025,geonames

@@ -1,0 +1,6 @@
+band,min,max,unit,source
+Within WHO guideline (5 or less),0,5,µg/m³,comeap-who-aqg
+Up to 2× the guideline,5,10,µg/m³,comeap-who-aqg
+2 to 3×,10,15,µg/m³,comeap-who-aqg
+3 to 7×,15,35,µg/m³,comeap-who-aqg
+Over 7× (35 or more),35,,µg/m³,comeap-who-aqg

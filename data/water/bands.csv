@@ -1,0 +1,6 @@
+band,min_pct,max_pct,source
+No stress,0,25,sdg642-meta
+Low,25,50,sdg642-meta
+Medium,50,75,sdg642-meta
+High,75,100,sdg642-meta
+Critical,100,,sdg642-meta

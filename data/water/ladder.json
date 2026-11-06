@@ -1,0 +1,37 @@
+{
+  "id": "ladder",
+  "title": "World drinking water ladder",
+  "description": "Share of the world's population on each rung of the JMP drinking water ladder, 2024.",
+  "records": [
+    {
+      "level": "safely",
+      "pct": 73.7,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "level": "basic",
+      "pct": 17.7,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "level": "limited",
+      "pct": 3.5,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "level": "unimproved",
+      "pct": 3.7,
+      "year": 2024,
+      "source": "jmp-2025"
+    },
+    {
+      "level": "surface",
+      "pct": 1.3,
+      "year": 2024,
+      "source": "jmp-2025"
+    }
+  ]
+}

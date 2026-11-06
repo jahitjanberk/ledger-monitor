@@ -1,0 +1,8 @@
+area,level,ratio,median_price,median_earnings,source
+England,Country,7.6,300000,39300,ons-2025
+Wales,Country,6,213000,35800,ons-2025
+London,Region,10.6,,,ons-2025
+North East,Region,5,,,ons-2025
+Kensington and Chelsea,Local authority,25.2,,,ons-2025
+Hyndburn,Local authority,4.1,,,ons-2025
+Kingston upon Hull,Local authority,4.1,,,ons-2025

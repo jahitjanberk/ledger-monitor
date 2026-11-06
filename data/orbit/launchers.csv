@@ -1,0 +1,116 @@
+launcher,iso3,iso_n3,kind,objects_total,objects_2025,objects_2015,first_year,source
+United States,USA,840,country,15677,3708,105,1958,unoosa
+Russia,RUS,643,country,3914,89,27,1957,unoosa
+China,CHN,156,country,1759,374,38,1970,unoosa
+United Kingdom,GBR,826,country,807,10,7,1962,unoosa
+Japan,JPN,392,country,384,30,4,1970,unoosa
+France,FRA,250,country,200,25,0,1965,unoosa
+India,IND,356,country,163,7,4,1975,unoosa
+Germany,DEU,276,country,158,20,0,1969,unoosa
+Italy,ITA,380,country,128,30,1,1964,unoosa
+Canada,CAN,124,country,118,6,2,1962,unoosa
+European Space Agency,,,organisation,115,6,3,1968,unoosa
+Luxembourg,LUX,442,country,109,14,0,1988,unoosa
+South Korea,KOR,410,country,90,22,1,1992,unoosa
+Spain,ESP,724,country,86,17,0,1974,unoosa
+Australia,AUS,036,country,68,12,1,1967,unoosa
+Intelsat,,,organisation,56,0,0,1965,unoosa
+Israel,ISR,376,country,55,9,0,1988,unoosa
+Uruguay,URY,858,country,53,4,0,2014,unoosa
+Turkey,TUR,792,country,52,20,1,1994,unoosa
+Brazil,BRA,076,country,48,0,3,1985,unoosa
+Finland,FIN,246,country,48,17,0,2017,unoosa
+Belgium,BEL,056,country,44,1,0,2014,unoosa
+Taiwan,TWN,158,country,38,10,0,1999,unoosa
+United Arab Emirates,ARE,784,country,36,13,0,2000,unoosa
+Eutelsat,,,organisation,33,0,1,1983,unoosa
+Singapore,SGP,702,country,31,3,6,1998,unoosa
+European Union,,,organisation,30,2,6,2014,unoosa
+New Zealand,NZL,554,country,27,1,0,2018,unoosa
+Norway,NOR,578,country,27,3,1,1997,unoosa
+Poland,POL,616,country,26,8,0,2012,unoosa
+Indonesia,IDN,360,country,25,1,1,1976,unoosa
+Iran,IRN,364,country,24,4,1,2005,unoosa
+Switzerland,CHE,756,country,24,0,0,2009,unoosa
+Argentina,ARG,032,country,22,0,1,1990,unoosa
+Sweden,SWE,752,country,21,0,0,1986,unoosa
+Mexico,MEX,484,country,20,2,2,1985,unoosa
+Saudi Arabia,SAU,682,country,19,2,0,2000,unoosa
+Netherlands,NLD,528,country,17,0,0,1974,unoosa
+Denmark,DNK,208,country,16,2,1,1999,unoosa
+Thailand,THA,764,country,16,1,0,1993,unoosa
+Arabsat,,,organisation,15,0,1,1985,unoosa
+Czechia,CZE,203,country,15,3,0,1978,unoosa
+EUMETSAT,,,organisation,15,2,1,1989,unoosa
+Egypt,EGY,818,country,15,1,0,1998,unoosa
+Inmarsat,,,organisation,14,0,0,1976,unoosa
+Lithuania,LTU,440,country,13,0,0,2014,unoosa
+Mongolia,MNG,496,country,13,0,0,2017,unoosa
+Malaysia,MYS,458,country,12,0,0,1996,unoosa
+Rwanda,RWA,646,country,12,5,0,2021,unoosa
+Hungary,HUN,348,country,11,2,0,2012,unoosa
+Pakistan,PAK,586,country,11,3,0,1990,unoosa
+Greece,GRC,300,country,10,5,0,2003,unoosa
+Ukraine,UKR,804,country,10,0,0,1995,unoosa
+Kazakhstan,KAZ,398,country,9,0,0,2006,unoosa
+Philippines,PHL,608,country,9,0,0,1997,unoosa
+South Africa,ZAF,710,country,9,0,0,1999,unoosa
+Chile,CHL,152,country,8,0,0,1995,unoosa
+Bulgaria,BGR,100,country,7,2,0,2017,unoosa
+Algeria,DZA,012,country,6,0,0,2002,unoosa
+Belarus,BLR,112,country,6,2,0,2012,unoosa
+Vietnam,VNM,704,country,6,0,0,2008,unoosa
+Morocco,MAR,504,country,5,0,0,2001,unoosa
+NATO,,,organisation,5,0,0,1970,unoosa
+Portugal,PRT,620,country,5,2,0,1993,unoosa
+Austria,AUT,040,country,4,0,0,2013,unoosa
+Azerbaijan,AZE,031,country,4,1,0,2013,unoosa
+Estonia,EST,233,country,4,0,0,2013,unoosa
+Nigeria,NGA,566,country,4,0,0,2003,unoosa
+Peru,PER,604,country,4,0,0,2013,unoosa
+Slovakia,SVK,703,country,4,0,0,2017,unoosa
+Venezuela,VEN,862,country,4,0,0,2008,unoosa
+Colombia,COL,170,country,3,0,0,2007,unoosa
+Ecuador,ECU,218,country,3,1,0,2013,unoosa
+North Korea,PRK,408,country,3,0,0,2012,unoosa
+Slovenia,SVN,705,country,3,0,0,2020,unoosa
+Angola,AGO,024,country,2,0,0,2017,unoosa
+Armenia,ARM,051,country,2,0,0,2022,unoosa
+Bangladesh,BGD,050,country,2,0,0,2017,unoosa
+Djibouti,DJI,262,country,2,0,0,2023,unoosa
+Kenya,KEN,404,country,2,0,0,2018,unoosa
+Nepal,NPL,524,country,2,1,0,2019,unoosa
+Papua New Guinea,PNG,598,country,2,0,1,2014,unoosa
+Qatar,QAT,634,country,2,1,0,2018,unoosa
+RASCOM,,,organisation,2,0,0,2007,unoosa
+Romania,ROU,642,country,2,0,0,2012,unoosa
+Starsem,,,organisation,2,0,0,2000,unoosa
+Zimbabwe,ZWE,716,country,2,0,0,2022,unoosa
+APSCO,,,organisation,1,0,0,2023,unoosa
+Bahrain,BHR,048,country,1,1,0,2025,unoosa
+Bhutan,BTN,064,country,1,0,0,2018,unoosa
+Bolivia,BOL,068,country,1,0,0,2013,unoosa
+Botswana,BWA,072,country,1,1,0,2025,unoosa
+Costa Rica,CRI,188,country,1,0,0,2018,unoosa
+Croatia,HRV,191,country,1,0,0,2024,unoosa
+Ethiopia,ETH,231,country,1,0,0,2019,unoosa
+Ghana,GHA,288,country,1,0,0,2017,unoosa
+Guatemala,GTM,320,country,1,0,0,2020,unoosa
+Intersputnik,,,organisation,1,0,0,1999,unoosa
+Ireland,IRL,372,country,1,0,0,2023,unoosa
+Jordan,JOR,400,country,1,0,0,2018,unoosa
+Kuwait,KWT,414,country,1,0,0,2023,unoosa
+Laos,LAO,418,country,1,0,1,2015,unoosa
+Latvia,LVA,428,country,1,0,0,2017,unoosa
+Mauritius,MUS,480,country,1,0,0,2021,unoosa
+Moldova,MDA,498,country,1,0,0,2022,unoosa
+Monaco,MCO,492,country,1,0,0,2020,unoosa
+Oman,OMN,512,country,1,0,0,2024,unoosa
+Paraguay,PRY,600,country,1,0,0,2021,unoosa
+Sea Launch,,,organisation,1,0,0,1999,unoosa
+Senegal,SEN,686,country,1,0,0,2024,unoosa
+Solomon Islands,SLB,090,country,1,1,0,2025,unoosa
+Sri Lanka,LKA,144,country,1,0,0,2019,unoosa
+Tunisia,TUN,788,country,1,0,0,2021,unoosa
+Turkmenistan,TKM,795,country,1,0,1,2015,unoosa
+Uganda,UGA,800,country,1,0,0,2022,unoosa

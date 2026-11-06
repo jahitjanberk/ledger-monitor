@@ -1,0 +1,7 @@
+id,label,value,unit,note,source
+aqg,"WHO guideline for annual average PM2.5, set in 2021",5,µg/m³,Halved from the previous 10,comeap-who-aqg
+who99,"Share of the world's population living where WHO air quality guidelines were not met, 2019",99,%,,who-factsheet
+who67,Premature deaths a year from ambient and household air pollution combined (WHO),6700000,deaths,,who-factsheet
+iq14,"Share of cities meeting the WHO PM2.5 guideline, 2025",14,%,"Down from 17% the year before; 9,446 cities",iqair-2025
+iq13,"Countries and territories meeting the guideline in 2025, by ground monitors",13,places,"French Polynesia, Puerto Rico, US Virgin Islands, Barbados, New Caledonia, Iceland, Bermuda, Réunion, Andorra, Australia, Grenada, Panama and Estonia",iqair-2025
+iqcity,"Most polluted city in 2025: Loni, India",112.5,µg/m³,,iqair-2025

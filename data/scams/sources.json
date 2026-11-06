@@ -1,0 +1,249 @@
+{
+  "sources": {
+    "gasa-global-2025": {
+      "publisher": "Global Anti-Scam Alliance & Feedzai",
+      "title": "Global State of Scams 2025",
+      "url": "https://gasa.org/knowledge-base/reports/global-state-of-scams-2025",
+      "published": "2025-10-07",
+      "method": "survey"
+    },
+    "gasa-global-2025-coverage": {
+      "publisher": "Feedzai",
+      "title": "5 Key Takeaways from the GASA Global State of Scams 2025 Report",
+      "url": "https://www.feedzai.com/blog/gasa-global-state-of-scams-report/",
+      "published": "2025-10-09",
+      "method": "survey"
+    },
+    "gasa-global-2024": {
+      "publisher": "Global Anti-Scam Alliance & Feedzai",
+      "title": "Global State of Scams 2024",
+      "url": "https://www.gasa.org/post/global-state-of-scams-report-2024-1-trillion-stolen-in-12-months-gasa-feedzai",
+      "published": "2024-10-07",
+      "method": "survey"
+    },
+    "gasa-pakistan-2025": {
+      "publisher": "Profit (Pakistan Today), reporting GASA Global State of Scams 2025",
+      "title": "Pakistan loses over $9 billion to financial scams annually",
+      "url": "https://profit.pakistantoday.com.pk/2025/10/21/pakistan-loses-over-9-billion-to-financial-scams-annually-2-5-of-gdp-says-global-anti-scam-report/",
+      "published": "2025-10-21",
+      "method": "survey"
+    },
+    "gasa-germany-2025": {
+      "publisher": "Global Anti-Scam Alliance",
+      "title": "State of Scams in Germany Report 2025",
+      "url": "https://gasa.org/knowledge-base/reports/state-of-scams-in-germany-report-2025",
+      "published": "2025-06-23",
+      "method": "survey"
+    },
+    "gasa-korea-2025": {
+      "publisher": "Global Anti-Scam Alliance",
+      "title": "State of Scams in South Korea Report 2025",
+      "url": "https://gasa.org/knowledge-base/reports/state-of-scams-in-south-korea-report-2025",
+      "published": "2025-09-25",
+      "method": "survey"
+    },
+    "gasa-brazil-2025": {
+      "publisher": "Global Anti-Scam Alliance",
+      "title": "State of Scams in Brazil Report 2025 (release)",
+      "url": "https://www.newswire.com/news/new-report-reveals-brazilians-face-252-scam-encounters-annually-22673453",
+      "published": "2025-11-12",
+      "method": "survey"
+    },
+    "gasa-denmark-2026": {
+      "publisher": "Global Anti-Scam Alliance",
+      "title": "State of Scams in Denmark 2026 Report",
+      "url": "https://gasa.org/knowledge-base/blog/global-scams-on-the-rise-over-half-of-adults-worldwide-report-scam-encounters?hsLang=en",
+      "published": "2026",
+      "method": "survey"
+    },
+    "gasa-philippines-2026": {
+      "publisher": "Daily Tribune, reporting GASA State of Scams in the Philippines 2026",
+      "title": "Filipinos lose P121.8B to scams",
+      "url": "https://tribune.net.ph/2026/10/19/filipinos-lose-p1218b-to-scams",
+      "published": "2026-10-19",
+      "method": "survey"
+    },
+    "gasa-uae-2026": {
+      "publisher": "Global Anti-Scam Alliance",
+      "title": "Scams Hit UAE Residents Every Three Days on Average",
+      "url": "https://gasa.org/knowledge-base/blog/scams-hit-uae-residents-every-three-days-on-average-new-research-finds",
+      "published": "2026-01-27",
+      "method": "survey"
+    },
+    "fbi-ic3-2025": {
+      "publisher": "FBI Internet Crime Complaint Center",
+      "title": "2025 Internet Crime Report",
+      "url": "https://www.ic3.gov/AnnualReport/Reports/2025_IC3Report.pdf",
+      "published": "2026-04-07",
+      "method": "reported"
+    },
+    "fbi-ic3-2025-coverage": {
+      "publisher": "dmarcian",
+      "title": "2025 Internet Crime Report: Nearly $21 Billion Lost",
+      "url": "https://dmarcian.com/fbi-internet-crime-report-2025/",
+      "published": "2026-04",
+      "method": "reported"
+    },
+    "fbi-ic3-2024": {
+      "publisher": "FBI Internet Crime Complaint Center",
+      "title": "2024 Internet Crime Report",
+      "url": "https://ic3.gov/AnnualReport/Reports/2024_IC3Report.pdf",
+      "published": "2025-04-23",
+      "method": "reported"
+    },
+    "fbi-ic3-2023": {
+      "publisher": "TechRadar, reporting FBI IC3 2023 Internet Crime Report",
+      "title": "Online fraud cost Americans $12.5bn last year",
+      "url": "https://techradar.com/pro/online-fraud-cost-americans-dollar125bn-last-year-and-its-only-expected-to-get-worse-in-2024",
+      "published": "2024-03",
+      "method": "reported"
+    },
+    "fbi-ic3-2022": {
+      "publisher": "TechSpot, reporting FBI IC3 2022 Internet Crime Report",
+      "title": "Americans lost $10.3 billion to online scams in 2022",
+      "url": "https://www.techspot.com/news/97946-americans-lost-103-billion-online-scams-2022.html",
+      "published": "2023-03",
+      "method": "reported"
+    },
+    "ftc-2026-testimony": {
+      "publisher": "US Federal Trade Commission",
+      "title": "FTC Testifies Before Joint Economic Committee on Agency's Efforts to Combat Fraud",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-testifies-joint-economic-committee-agencys-efforts-combat-fraud",
+      "published": "2026-03-25",
+      "method": "reported"
+    },
+    "ftc-2026-imposters": {
+      "publisher": "US Federal Trade Commission",
+      "title": "FTC Data Show People Reported Losing $3.5 Billion to Imposter Scams in 2025",
+      "url": "https://www.ftc.gov/node/330116",
+      "published": "2026-06-15",
+      "method": "reported"
+    },
+    "ukfinance-2026": {
+      "publisher": "FinTech Futures, reporting UK Finance Annual Fraud Report 2026",
+      "title": "UK payment fraud losses topped £1.28bn in 2025",
+      "url": "https://www.fintechfutures.com/financial-crime-fraud-prevention/uk-payment-fraud-losses-topped-1-28bn-in-2025-new-uk-finance-report-finds",
+      "published": "2026-06",
+      "method": "reported"
+    },
+    "ukfinance-2026-cases": {
+      "publisher": "Payment Expert, reporting UK Finance Annual Fraud Report 2026",
+      "title": "UK Finance: Fraud losses hit £1.28bn",
+      "url": "https://paymentexpert.com/2026/06/15/uk-finance-fraud-report-2026/",
+      "published": "2026-06-15",
+      "method": "reported"
+    },
+    "ukfinance-2025": {
+      "publisher": "TechRound, reporting UK Finance Annual Fraud Report 2025",
+      "title": "Online fraud rises, UK report",
+      "url": "https://techround.co.uk/news/online-fraud-rises-uk-report",
+      "published": "2025-05",
+      "method": "reported"
+    },
+    "ukfinance-2024": {
+      "publisher": "UK Finance",
+      "title": "Annual Fraud Report 2024",
+      "url": "https://www.ukfinance.org.uk/policy-and-guidance/reports-and-publications/annual-fraud-report-2024",
+      "published": "2024-05",
+      "method": "reported"
+    },
+    "ukfinance-2023": {
+      "publisher": "Scottish Financial News, reporting UK Finance Annual Fraud Report 2023",
+      "title": "Financial fraud losses in the UK decrease by 8% to £1.2bn in 2022",
+      "url": "https://scottishfinancialnews.com/articles/financial-fraud-losses-in-the-uk-decrease-by-8-to-ps12bn-in-2022",
+      "published": "2023-05",
+      "method": "reported"
+    },
+    "ukfinance-2022": {
+      "publisher": "S&P Global, reporting UK Finance Annual Fraud Report 2022",
+      "title": "UK fraud losses rise 8% to more than £1.3B in 2021",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2022/6/uk-fraud-losses-rise-8-to-more-than-163-1-3b-in-2021-amid-pandemic-upheavals-70986865",
+      "published": "2022-06",
+      "method": "reported"
+    },
+    "accc-2025": {
+      "publisher": "Australian Competition and Consumer Commission",
+      "title": "Continued action critical to combat fraud as annual scam losses exceed $2 billion",
+      "url": "https://www.accc.gov.au/media-release/continued-action-critical-to-combat-fraud-as-annual-scam-losses-exceed-2-billion",
+      "published": "2026-03-30",
+      "method": "reported"
+    },
+    "accc-2025-report": {
+      "publisher": "National Anti-Scam Centre",
+      "title": "Targeting Scams Report 2025",
+      "url": "https://www.nasc.gov.au/system/files/targeting-scams-report-2025.pdf",
+      "published": "2026-03",
+      "method": "reported"
+    },
+    "accc-2025-coverage": {
+      "publisher": "Bernama, reporting National Anti-Scam Centre",
+      "title": "Australian Scam Losses Rise 7.8 Pct In 2025",
+      "url": "https://bernama.com/en/news.php?id=2538995",
+      "published": "2026-03-30",
+      "method": "reported"
+    },
+    "accc-2023": {
+      "publisher": "HCAMag, reporting Targeting Scams 2023",
+      "title": "Australians lose $2.74 billion to scams in 2023",
+      "url": "https://hcamag.com/au/specialisation/financial-wellness/australians-lose-274-billion-to-scams-in-2023/487132",
+      "published": "2024-04",
+      "method": "reported"
+    },
+    "cafc-2025": {
+      "publisher": "Canadian Anti-Fraud Centre",
+      "title": "Top 10 frauds in 2025",
+      "url": "https://antifraudcentre-centreantifraude.ca/features-vedette/2026/02/top-fraud-2025-fraudes-plus-courantes-eng.htm",
+      "published": "2026-02",
+      "method": "reported"
+    },
+    "cafc-2025-release": {
+      "publisher": "Competition Bureau Canada",
+      "title": "Fraud Prevention Month to bring hidden crime into the spotlight",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2026/03/fraud-prevention-month-to-bring-hidden-crime-into-the-spotlight.html",
+      "published": "2026-03-06",
+      "method": "reported"
+    },
+    "cafc-2024": {
+      "publisher": "Competition Bureau Canada",
+      "title": "Fraud Prevention Month to focus on impersonation fraud",
+      "url": "https://www.canada.ca/en/competition-bureau/news/2025/02/fraud-prevention-month-to-focus-on-impersonation-fraud-one-of-the-fastest-growing-forms-of-fraud.html",
+      "published": "2025-02",
+      "method": "reported"
+    },
+    "spf-2025": {
+      "publisher": "Malay Mail, reporting Singapore Police Force annual scams brief",
+      "title": "Singapore scam losses fall to S$913.1m in 2025",
+      "url": "https://www.malaymail.com/news/singapore/2026/02/26/singapore-police-scam-cases-drop-248pc-in-2025-losses-fall-to-s913m-but-youths-remain-most-affected/210482",
+      "published": "2026-02-26",
+      "method": "reported"
+    },
+    "spf-2025-cases": {
+      "publisher": "The Online Citizen, reporting Singapore Police Force",
+      "title": "Scam cases in Singapore fall 27.6 per cent",
+      "url": "https://theonlinecitizen.com/2026/02/25/scam-cases-in-singapore-fall-27-6-per-cent-in-first-recorded-decrease",
+      "published": "2026-02-25",
+      "method": "reported"
+    },
+    "spf-2024": {
+      "publisher": "Deccan Herald, reporting Singapore Police Force",
+      "title": "Singapore lost SGD 1.1 billion to scams in 2024",
+      "url": "https://www.deccanherald.com/world/singapore-lost-sgd-11-billion-to-scams-in-2024-police-3420775",
+      "published": "2025-02-25",
+      "method": "reported"
+    },
+    "i4c-2025": {
+      "publisher": "BrokersView, reporting I4C / National Cybercrime Reporting Portal data",
+      "title": "Indians lost over ₹198 billion to financial fraud in 2025",
+      "url": "https://www.fastbull.com/brokersview/news/indians-lost-over-%E2%82%B9198-billion-to-financial-fraud-in-2025-i4c-ncrp-data-show-319040",
+      "published": "2026-01-04",
+      "method": "reported"
+    },
+    "irs-fx-2025": {
+      "publisher": "US Internal Revenue Service",
+      "title": "Yearly average currency exchange rates",
+      "url": "https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates",
+      "published": "2026",
+      "method": "reference"
+    }
+  }
+}

@@ -1,0 +1,377 @@
+week,chokepoint,transits,tanker,source
+2025-01-06,Bab el-Mandeb Strait,33.1,11.3,portwatch
+2025-01-13,Bab el-Mandeb Strait,32.3,11,portwatch
+2025-01-20,Bab el-Mandeb Strait,32.1,10.7,portwatch
+2025-01-27,Bab el-Mandeb Strait,33.1,10.7,portwatch
+2025-02-03,Bab el-Mandeb Strait,31,10.3,portwatch
+2025-02-10,Bab el-Mandeb Strait,31.6,11,portwatch
+2025-02-17,Bab el-Mandeb Strait,32.4,11.1,portwatch
+2025-02-24,Bab el-Mandeb Strait,31.9,10.9,portwatch
+2025-03-03,Bab el-Mandeb Strait,32.3,10.6,portwatch
+2025-03-10,Bab el-Mandeb Strait,33.4,12,portwatch
+2025-03-17,Bab el-Mandeb Strait,34.1,13.4,portwatch
+2025-03-24,Bab el-Mandeb Strait,31.1,11.3,portwatch
+2025-03-31,Bab el-Mandeb Strait,34.4,12.1,portwatch
+2025-04-07,Bab el-Mandeb Strait,33.9,13.7,portwatch
+2025-04-14,Bab el-Mandeb Strait,30,10.4,portwatch
+2025-04-21,Bab el-Mandeb Strait,34.1,10.9,portwatch
+2025-04-28,Bab el-Mandeb Strait,31.9,11.3,portwatch
+2025-05-05,Bab el-Mandeb Strait,32.1,11.1,portwatch
+2025-05-12,Bab el-Mandeb Strait,34,11,portwatch
+2025-05-19,Bab el-Mandeb Strait,34.6,11.9,portwatch
+2025-05-26,Bab el-Mandeb Strait,33.9,11,portwatch
+2025-06-02,Bab el-Mandeb Strait,35.3,11.6,portwatch
+2025-06-09,Bab el-Mandeb Strait,35.6,12.1,portwatch
+2025-06-16,Bab el-Mandeb Strait,26.1,11.7,portwatch
+2025-06-23,Bab el-Mandeb Strait,28.9,10.3,portwatch
+2025-06-30,Bab el-Mandeb Strait,32,11.9,portwatch
+2025-07-07,Bab el-Mandeb Strait,35,12.7,portwatch
+2025-07-14,Bab el-Mandeb Strait,27.6,9.7,portwatch
+2025-07-21,Bab el-Mandeb Strait,32.6,10.6,portwatch
+2025-07-28,Bab el-Mandeb Strait,31.6,10.4,portwatch
+2025-08-04,Bab el-Mandeb Strait,35.4,14.1,portwatch
+2025-08-11,Bab el-Mandeb Strait,35.3,9.7,portwatch
+2025-08-18,Bab el-Mandeb Strait,30.9,8.7,portwatch
+2025-08-25,Bab el-Mandeb Strait,37.7,12.6,portwatch
+2025-09-01,Bab el-Mandeb Strait,34.1,10,portwatch
+2025-09-08,Bab el-Mandeb Strait,35.6,11.4,portwatch
+2025-09-15,Bab el-Mandeb Strait,34.3,10.7,portwatch
+2025-09-22,Bab el-Mandeb Strait,33.3,12.3,portwatch
+2025-09-29,Bab el-Mandeb Strait,33.7,11.6,portwatch
+2025-10-06,Bab el-Mandeb Strait,34,13.9,portwatch
+2025-10-13,Bab el-Mandeb Strait,37.6,11.1,portwatch
+2025-10-20,Bab el-Mandeb Strait,37.4,12.3,portwatch
+2025-10-27,Bab el-Mandeb Strait,35,11.1,portwatch
+2025-11-03,Bab el-Mandeb Strait,40.1,15.4,portwatch
+2025-11-10,Bab el-Mandeb Strait,33.9,11.3,portwatch
+2025-11-17,Bab el-Mandeb Strait,40.7,13,portwatch
+2025-11-24,Bab el-Mandeb Strait,37.4,12.7,portwatch
+2025-12-01,Bab el-Mandeb Strait,36.9,11.4,portwatch
+2025-12-08,Bab el-Mandeb Strait,25.3,9.9,portwatch
+2025-12-15,Bab el-Mandeb Strait,32.4,12.6,portwatch
+2025-12-22,Bab el-Mandeb Strait,34.6,11.3,portwatch
+2025-12-29,Bab el-Mandeb Strait,33.3,11,portwatch
+2026-01-05,Bab el-Mandeb Strait,33.9,13,portwatch
+2026-01-12,Bab el-Mandeb Strait,33.1,10.1,portwatch
+2026-01-19,Bab el-Mandeb Strait,34.1,11.3,portwatch
+2026-01-26,Bab el-Mandeb Strait,35,13.3,portwatch
+2026-02-02,Bab el-Mandeb Strait,34,12.1,portwatch
+2026-02-09,Bab el-Mandeb Strait,35.3,13.6,portwatch
+2026-02-16,Bab el-Mandeb Strait,40.4,15.3,portwatch
+2026-02-23,Bab el-Mandeb Strait,36.6,14.1,portwatch
+2026-03-02,Bab el-Mandeb Strait,35.3,13.1,portwatch
+2026-03-09,Bab el-Mandeb Strait,30.3,14,portwatch
+2026-03-16,Bab el-Mandeb Strait,40,18.1,portwatch
+2026-03-23,Bab el-Mandeb Strait,35.7,14.9,portwatch
+2026-03-30,Bab el-Mandeb Strait,38.1,16,portwatch
+2026-04-06,Bab el-Mandeb Strait,36.1,15.4,portwatch
+2026-04-13,Bab el-Mandeb Strait,35.7,14,portwatch
+2026-04-20,Bab el-Mandeb Strait,39.6,13.9,portwatch
+2026-04-27,Bab el-Mandeb Strait,34.7,13.7,portwatch
+2026-05-04,Bab el-Mandeb Strait,34,12.9,portwatch
+2026-05-11,Bab el-Mandeb Strait,35.3,12.6,portwatch
+2026-05-18,Bab el-Mandeb Strait,41.1,16.6,portwatch
+2026-05-25,Bab el-Mandeb Strait,34.3,13.4,portwatch
+2026-06-01,Bab el-Mandeb Strait,37.6,14.4,portwatch
+2026-06-08,Bab el-Mandeb Strait,36.3,13.7,portwatch
+2026-06-15,Bab el-Mandeb Strait,37.1,15,portwatch
+2026-06-22,Bab el-Mandeb Strait,35.4,12.3,portwatch
+2026-06-29,Bab el-Mandeb Strait,34.4,11.9,portwatch
+2026-07-06,Bab el-Mandeb Strait,32.7,12.3,portwatch
+2026-07-13,Bab el-Mandeb Strait,40.6,15.1,portwatch
+2026-07-20,Bab el-Mandeb Strait,28.3,8.4,portwatch
+2026-07-27,Bab el-Mandeb Strait,30.7,9,portwatch
+2026-08-03,Bab el-Mandeb Strait,25.4,8.7,portwatch
+2026-08-10,Bab el-Mandeb Strait,29.4,8.9,portwatch
+2026-08-17,Bab el-Mandeb Strait,29.4,9.7,portwatch
+2026-08-24,Bab el-Mandeb Strait,26.3,8,portwatch
+2026-08-31,Bab el-Mandeb Strait,25.4,7,portwatch
+2026-09-07,Bab el-Mandeb Strait,27.3,8.1,portwatch
+2026-09-14,Bab el-Mandeb Strait,24.7,6.6,portwatch
+2026-09-21,Bab el-Mandeb Strait,27.1,9.4,portwatch
+2026-09-28,Bab el-Mandeb Strait,29.6,9,portwatch
+2026-10-05,Bab el-Mandeb Strait,28.3,8.6,portwatch
+2026-10-12,Bab el-Mandeb Strait,26.4,10,portwatch
+2026-10-19,Bab el-Mandeb Strait,28.9,9.6,portwatch
+2025-01-06,Cape of Good Hope,81,15.3,portwatch
+2025-01-13,Cape of Good Hope,80.7,15.3,portwatch
+2025-01-20,Cape of Good Hope,92.6,16.9,portwatch
+2025-01-27,Cape of Good Hope,81.4,11.3,portwatch
+2025-02-03,Cape of Good Hope,84,16.9,portwatch
+2025-02-10,Cape of Good Hope,92,15.4,portwatch
+2025-02-17,Cape of Good Hope,91,15.9,portwatch
+2025-02-24,Cape of Good Hope,87.7,18.1,portwatch
+2025-03-03,Cape of Good Hope,86.9,15.1,portwatch
+2025-03-10,Cape of Good Hope,76,14.6,portwatch
+2025-03-17,Cape of Good Hope,77.1,12.3,portwatch
+2025-03-24,Cape of Good Hope,81.6,16.3,portwatch
+2025-03-31,Cape of Good Hope,79.9,15.3,portwatch
+2025-04-07,Cape of Good Hope,84.1,19,portwatch
+2025-04-14,Cape of Good Hope,83.4,17,portwatch
+2025-04-21,Cape of Good Hope,88.3,16.4,portwatch
+2025-04-28,Cape of Good Hope,78.7,14.7,portwatch
+2025-05-05,Cape of Good Hope,90.4,17.4,portwatch
+2025-05-12,Cape of Good Hope,109.3,19.9,portwatch
+2025-05-19,Cape of Good Hope,79,15.6,portwatch
+2025-05-26,Cape of Good Hope,85.9,17.9,portwatch
+2025-06-02,Cape of Good Hope,100.3,17.1,portwatch
+2025-06-09,Cape of Good Hope,91.3,16.9,portwatch
+2025-06-16,Cape of Good Hope,88.9,16.7,portwatch
+2025-06-23,Cape of Good Hope,81.9,14.7,portwatch
+2025-06-30,Cape of Good Hope,104.6,17,portwatch
+2025-07-07,Cape of Good Hope,99,18,portwatch
+2025-07-14,Cape of Good Hope,99.3,17.4,portwatch
+2025-07-21,Cape of Good Hope,94,15.7,portwatch
+2025-07-28,Cape of Good Hope,95.1,19.7,portwatch
+2025-08-04,Cape of Good Hope,86.9,18.4,portwatch
+2025-08-11,Cape of Good Hope,107.4,19.4,portwatch
+2025-08-18,Cape of Good Hope,90.3,18.1,portwatch
+2025-08-25,Cape of Good Hope,105.7,18.4,portwatch
+2025-09-01,Cape of Good Hope,92,16,portwatch
+2025-09-08,Cape of Good Hope,96.1,18.3,portwatch
+2025-09-15,Cape of Good Hope,96.1,20.9,portwatch
+2025-09-22,Cape of Good Hope,90.9,18.1,portwatch
+2025-09-29,Cape of Good Hope,101.1,19.1,portwatch
+2025-10-06,Cape of Good Hope,100.7,18.7,portwatch
+2025-10-13,Cape of Good Hope,87.1,16,portwatch
+2025-10-20,Cape of Good Hope,94.3,21.9,portwatch
+2025-10-27,Cape of Good Hope,87.6,16.9,portwatch
+2025-11-03,Cape of Good Hope,85,14.9,portwatch
+2025-11-10,Cape of Good Hope,81.4,15.7,portwatch
+2025-11-17,Cape of Good Hope,90.3,18,portwatch
+2025-11-24,Cape of Good Hope,92.1,18.3,portwatch
+2025-12-01,Cape of Good Hope,84.9,15.9,portwatch
+2025-12-08,Cape of Good Hope,86.7,13.9,portwatch
+2025-12-15,Cape of Good Hope,78.9,17.3,portwatch
+2025-12-22,Cape of Good Hope,84.7,16,portwatch
+2025-12-29,Cape of Good Hope,86.7,17.3,portwatch
+2026-01-05,Cape of Good Hope,86.7,14.4,portwatch
+2026-01-12,Cape of Good Hope,89.6,16.9,portwatch
+2026-01-19,Cape of Good Hope,86,16.7,portwatch
+2026-01-26,Cape of Good Hope,90.3,17.1,portwatch
+2026-02-02,Cape of Good Hope,78.6,11.9,portwatch
+2026-02-09,Cape of Good Hope,86,14.6,portwatch
+2026-02-16,Cape of Good Hope,95.9,14.9,portwatch
+2026-02-23,Cape of Good Hope,88.3,12.3,portwatch
+2026-03-02,Cape of Good Hope,92.7,12.7,portwatch
+2026-03-09,Cape of Good Hope,92.4,15.7,portwatch
+2026-03-16,Cape of Good Hope,92,19.3,portwatch
+2026-03-23,Cape of Good Hope,90.1,23.7,portwatch
+2026-03-30,Cape of Good Hope,90.7,21.1,portwatch
+2026-04-06,Cape of Good Hope,93.1,23,portwatch
+2026-04-13,Cape of Good Hope,95.4,26,portwatch
+2026-04-20,Cape of Good Hope,98.3,22.3,portwatch
+2026-04-27,Cape of Good Hope,90.9,20.7,portwatch
+2026-05-04,Cape of Good Hope,88.6,19.4,portwatch
+2026-05-11,Cape of Good Hope,103,24.1,portwatch
+2026-05-18,Cape of Good Hope,97.7,22.4,portwatch
+2026-05-25,Cape of Good Hope,94.9,18.7,portwatch
+2026-06-01,Cape of Good Hope,91.6,21.3,portwatch
+2026-06-08,Cape of Good Hope,91.1,18,portwatch
+2026-06-15,Cape of Good Hope,95.6,21.1,portwatch
+2026-06-22,Cape of Good Hope,92.1,20.3,portwatch
+2026-06-29,Cape of Good Hope,96.1,17,portwatch
+2026-07-06,Cape of Good Hope,90.4,17.7,portwatch
+2026-07-13,Cape of Good Hope,93,17,portwatch
+2026-07-20,Cape of Good Hope,90.3,17.9,portwatch
+2026-07-27,Cape of Good Hope,88.6,20.1,portwatch
+2026-08-03,Cape of Good Hope,87.3,19.9,portwatch
+2026-08-10,Cape of Good Hope,91.9,20.3,portwatch
+2026-08-17,Cape of Good Hope,91.6,20.1,portwatch
+2026-08-24,Cape of Good Hope,91.9,19.7,portwatch
+2026-08-31,Cape of Good Hope,78.6,15.7,portwatch
+2026-09-07,Cape of Good Hope,90.6,18.7,portwatch
+2026-09-14,Cape of Good Hope,88.6,16.1,portwatch
+2026-09-21,Cape of Good Hope,88.1,19.9,portwatch
+2026-09-28,Cape of Good Hope,87.7,18.7,portwatch
+2026-10-05,Cape of Good Hope,84,17.4,portwatch
+2026-10-12,Cape of Good Hope,85.7,19.3,portwatch
+2026-10-19,Cape of Good Hope,87.1,21.9,portwatch
+2025-01-06,Strait of Hormuz,69.3,38.6,portwatch
+2025-01-13,Strait of Hormuz,70.4,38.6,portwatch
+2025-01-20,Strait of Hormuz,71.4,42.3,portwatch
+2025-01-27,Strait of Hormuz,69.7,39.6,portwatch
+2025-02-03,Strait of Hormuz,69.7,38,portwatch
+2025-02-10,Strait of Hormuz,85.4,48.7,portwatch
+2025-02-17,Strait of Hormuz,80.7,43.6,portwatch
+2025-02-24,Strait of Hormuz,60.6,34.6,portwatch
+2025-03-03,Strait of Hormuz,81.9,51.6,portwatch
+2025-03-10,Strait of Hormuz,87,47.1,portwatch
+2025-03-17,Strait of Hormuz,86.9,49.1,portwatch
+2025-03-24,Strait of Hormuz,83,47.6,portwatch
+2025-03-31,Strait of Hormuz,111.6,61.7,portwatch
+2025-04-07,Strait of Hormuz,102.6,57.7,portwatch
+2025-04-14,Strait of Hormuz,84.9,48,portwatch
+2025-04-21,Strait of Hormuz,109.4,62.9,portwatch
+2025-04-28,Strait of Hormuz,97.9,56,portwatch
+2025-05-05,Strait of Hormuz,97.9,55.1,portwatch
+2025-05-12,Strait of Hormuz,107,60.7,portwatch
+2025-05-19,Strait of Hormuz,111,60.7,portwatch
+2025-05-26,Strait of Hormuz,101.1,55.3,portwatch
+2025-06-02,Strait of Hormuz,95.3,55.3,portwatch
+2025-06-09,Strait of Hormuz,109.1,60.6,portwatch
+2025-06-16,Strait of Hormuz,103.4,58.3,portwatch
+2025-06-23,Strait of Hormuz,102.9,58.6,portwatch
+2025-06-30,Strait of Hormuz,89.1,51.4,portwatch
+2025-07-07,Strait of Hormuz,90.7,52.1,portwatch
+2025-07-14,Strait of Hormuz,104.4,58.3,portwatch
+2025-07-21,Strait of Hormuz,92.7,52.6,portwatch
+2025-07-28,Strait of Hormuz,94.9,54.9,portwatch
+2025-08-04,Strait of Hormuz,80.4,43.9,portwatch
+2025-08-11,Strait of Hormuz,105,60.4,portwatch
+2025-08-18,Strait of Hormuz,96.1,54.3,portwatch
+2025-08-25,Strait of Hormuz,100.1,54.6,portwatch
+2025-09-01,Strait of Hormuz,95.4,55.1,portwatch
+2025-09-08,Strait of Hormuz,75,41.4,portwatch
+2025-09-15,Strait of Hormuz,87.3,50.1,portwatch
+2025-09-22,Strait of Hormuz,86.4,48.9,portwatch
+2025-09-29,Strait of Hormuz,111.3,64.9,portwatch
+2025-10-06,Strait of Hormuz,70.6,35.6,portwatch
+2025-10-13,Strait of Hormuz,73.7,40.1,portwatch
+2025-10-20,Strait of Hormuz,102,58.1,portwatch
+2025-10-27,Strait of Hormuz,90.3,50.1,portwatch
+2025-11-03,Strait of Hormuz,75.3,43.6,portwatch
+2025-11-10,Strait of Hormuz,79.9,44.4,portwatch
+2025-11-17,Strait of Hormuz,60.6,34.9,portwatch
+2025-11-24,Strait of Hormuz,53.9,30,portwatch
+2025-12-01,Strait of Hormuz,56.6,32.3,portwatch
+2025-12-08,Strait of Hormuz,54.1,31.1,portwatch
+2025-12-15,Strait of Hormuz,48.6,25.7,portwatch
+2025-12-22,Strait of Hormuz,60,30.3,portwatch
+2025-12-29,Strait of Hormuz,58.6,31.3,portwatch
+2026-01-05,Strait of Hormuz,64.4,34.3,portwatch
+2026-01-12,Strait of Hormuz,53.3,28.7,portwatch
+2026-01-19,Strait of Hormuz,56.3,30.7,portwatch
+2026-01-26,Strait of Hormuz,60,30.9,portwatch
+2026-02-02,Strait of Hormuz,60.7,33.7,portwatch
+2026-02-09,Strait of Hormuz,76.4,43.1,portwatch
+2026-02-16,Strait of Hormuz,94.3,52.7,portwatch
+2026-02-23,Strait of Hormuz,77.6,42.3,portwatch
+2026-03-02,Strait of Hormuz,2.6,0.6,portwatch
+2026-03-09,Strait of Hormuz,2.1,0.6,portwatch
+2026-03-16,Strait of Hormuz,1.4,0.4,portwatch
+2026-03-23,Strait of Hormuz,3.6,1.1,portwatch
+2026-03-30,Strait of Hormuz,5.3,2.1,portwatch
+2026-04-06,Strait of Hormuz,5.9,1.9,portwatch
+2026-04-13,Strait of Hormuz,7.4,4,portwatch
+2026-04-20,Strait of Hormuz,4,1.7,portwatch
+2026-04-27,Strait of Hormuz,12.3,5.6,portwatch
+2026-05-04,Strait of Hormuz,1.4,0.4,portwatch
+2026-05-11,Strait of Hormuz,5.4,2,portwatch
+2026-05-18,Strait of Hormuz,4.9,1.9,portwatch
+2026-05-25,Strait of Hormuz,3,0.4,portwatch
+2026-06-01,Strait of Hormuz,4.4,1.1,portwatch
+2026-06-08,Strait of Hormuz,2.4,0.9,portwatch
+2026-06-15,Strait of Hormuz,12.1,4.4,portwatch
+2026-06-22,Strait of Hormuz,30.4,14,portwatch
+2026-06-29,Strait of Hormuz,23.1,13.3,portwatch
+2026-07-06,Strait of Hormuz,14,6.4,portwatch
+2026-07-13,Strait of Hormuz,6.3,2.3,portwatch
+2026-07-20,Strait of Hormuz,3.6,0.9,portwatch
+2026-07-27,Strait of Hormuz,5.3,1.4,portwatch
+2026-08-03,Strait of Hormuz,5.6,1.9,portwatch
+2026-08-10,Strait of Hormuz,4.4,1.6,portwatch
+2026-08-17,Strait of Hormuz,5,2.4,portwatch
+2026-08-24,Strait of Hormuz,4.3,1.9,portwatch
+2026-08-31,Strait of Hormuz,3.1,0.9,portwatch
+2026-09-07,Strait of Hormuz,5.3,1.4,portwatch
+2026-09-14,Strait of Hormuz,3.1,0.6,portwatch
+2026-09-21,Strait of Hormuz,3.1,1.3,portwatch
+2026-09-28,Strait of Hormuz,2.7,0.9,portwatch
+2026-10-05,Strait of Hormuz,4.1,0.6,portwatch
+2026-10-12,Strait of Hormuz,3.7,0.6,portwatch
+2026-10-19,Strait of Hormuz,3.3,0.9,portwatch
+2025-01-06,Suez Canal,38.1,11.6,portwatch
+2025-01-13,Suez Canal,36.7,14.1,portwatch
+2025-01-20,Suez Canal,36.7,12,portwatch
+2025-01-27,Suez Canal,36.6,14.3,portwatch
+2025-02-03,Suez Canal,31,10.3,portwatch
+2025-02-10,Suez Canal,37.9,13.9,portwatch
+2025-02-17,Suez Canal,33.6,12.4,portwatch
+2025-02-24,Suez Canal,35.1,12.4,portwatch
+2025-03-03,Suez Canal,37.6,13.6,portwatch
+2025-03-10,Suez Canal,38.3,14.7,portwatch
+2025-03-17,Suez Canal,36.6,13.9,portwatch
+2025-03-24,Suez Canal,38.1,17.4,portwatch
+2025-03-31,Suez Canal,36.7,13.6,portwatch
+2025-04-07,Suez Canal,39.3,16.6,portwatch
+2025-04-14,Suez Canal,35.6,14.6,portwatch
+2025-04-21,Suez Canal,36.4,12.1,portwatch
+2025-04-28,Suez Canal,36.4,13.7,portwatch
+2025-05-05,Suez Canal,34.4,13.6,portwatch
+2025-05-12,Suez Canal,39.1,13.6,portwatch
+2025-05-19,Suez Canal,38.3,17,portwatch
+2025-05-26,Suez Canal,36.6,14.1,portwatch
+2025-06-02,Suez Canal,34.3,13.3,portwatch
+2025-06-09,Suez Canal,40.1,17,portwatch
+2025-06-16,Suez Canal,36.9,13.7,portwatch
+2025-06-23,Suez Canal,35.3,14.6,portwatch
+2025-06-30,Suez Canal,37.4,15.4,portwatch
+2025-07-07,Suez Canal,38.3,15.3,portwatch
+2025-07-14,Suez Canal,36.9,15,portwatch
+2025-07-21,Suez Canal,40.1,15.4,portwatch
+2025-07-28,Suez Canal,38.1,15.3,portwatch
+2025-08-04,Suez Canal,38,15,portwatch
+2025-08-11,Suez Canal,37.3,15.3,portwatch
+2025-08-18,Suez Canal,41.9,15.9,portwatch
+2025-08-25,Suez Canal,36.7,13.3,portwatch
+2025-09-01,Suez Canal,42.6,15.3,portwatch
+2025-09-08,Suez Canal,45,16.7,portwatch
+2025-09-15,Suez Canal,39,15.9,portwatch
+2025-09-22,Suez Canal,42.7,16.9,portwatch
+2025-09-29,Suez Canal,41.1,15.6,portwatch
+2025-10-06,Suez Canal,39,15.1,portwatch
+2025-10-13,Suez Canal,43.7,14.9,portwatch
+2025-10-20,Suez Canal,42.7,16,portwatch
+2025-10-27,Suez Canal,39,13.9,portwatch
+2025-11-03,Suez Canal,44.1,16.4,portwatch
+2025-11-10,Suez Canal,45,15.4,portwatch
+2025-11-17,Suez Canal,40,13.4,portwatch
+2025-11-24,Suez Canal,43.3,15.6,portwatch
+2025-12-01,Suez Canal,40.6,15.1,portwatch
+2025-12-08,Suez Canal,41.6,15.7,portwatch
+2025-12-15,Suez Canal,41.3,17.6,portwatch
+2025-12-22,Suez Canal,38.4,14.1,portwatch
+2025-12-29,Suez Canal,35.1,14,portwatch
+2026-01-05,Suez Canal,38,12.4,portwatch
+2026-01-12,Suez Canal,39.9,15.3,portwatch
+2026-01-19,Suez Canal,38.4,14.6,portwatch
+2026-01-26,Suez Canal,42.7,15.9,portwatch
+2026-02-02,Suez Canal,40.4,16.9,portwatch
+2026-02-09,Suez Canal,42.7,17,portwatch
+2026-02-16,Suez Canal,40.3,18,portwatch
+2026-02-23,Suez Canal,41.6,17.7,portwatch
+2026-03-02,Suez Canal,42.7,18.1,portwatch
+2026-03-09,Suez Canal,40.1,15.4,portwatch
+2026-03-16,Suez Canal,39.7,16.6,portwatch
+2026-03-23,Suez Canal,42.4,17.9,portwatch
+2026-03-30,Suez Canal,44.9,19.9,portwatch
+2026-04-06,Suez Canal,40.9,18.1,portwatch
+2026-04-13,Suez Canal,38.4,15.6,portwatch
+2026-04-20,Suez Canal,44.1,17.4,portwatch
+2026-04-27,Suez Canal,37.3,14.4,portwatch
+2026-05-04,Suez Canal,39.7,17.6,portwatch
+2026-05-11,Suez Canal,39.1,16.4,portwatch
+2026-05-18,Suez Canal,41,16.9,portwatch
+2026-05-25,Suez Canal,39.7,15.9,portwatch
+2026-06-01,Suez Canal,41.3,15.1,portwatch
+2026-06-08,Suez Canal,39.9,13.9,portwatch
+2026-06-15,Suez Canal,37.9,16.3,portwatch
+2026-06-22,Suez Canal,42.6,17.1,portwatch
+2026-06-29,Suez Canal,42.1,16,portwatch
+2026-07-06,Suez Canal,41.3,15,portwatch
+2026-07-13,Suez Canal,41.6,17.1,portwatch
+2026-07-20,Suez Canal,40.9,15.4,portwatch
+2026-07-27,Suez Canal,41.6,14.6,portwatch
+2026-08-03,Suez Canal,41,15.6,portwatch
+2026-08-10,Suez Canal,40.9,16.9,portwatch
+2026-08-17,Suez Canal,42,16.4,portwatch
+2026-08-24,Suez Canal,43,17.1,portwatch
+2026-08-31,Suez Canal,41.6,15.3,portwatch
+2026-09-07,Suez Canal,37.9,15.9,portwatch
+2026-09-14,Suez Canal,41.9,17,portwatch
+2026-09-21,Suez Canal,40,15,portwatch
+2026-09-28,Suez Canal,43.1,15.6,portwatch
+2026-10-05,Suez Canal,41.7,17,portwatch
+2026-10-12,Suez Canal,44.3,15.9,portwatch
+2026-10-19,Suez Canal,41.3,16.3,portwatch

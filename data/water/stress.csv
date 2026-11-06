@@ -1,0 +1,183 @@
+country,iso3,iso_n3,stress_pct,year,band,stress_2015,source
+Kuwait,KWT,414,3850.5,2023,Critical,3399,fao-sdg642
+United Arab Emirates,ARE,784,1437.3,2023,Critical,1794.7,fao-sdg642
+Saudi Arabia,SAU,682,974.2,2023,Critical,948.9,fao-sdg642
+Libya,LBY,434,817.1,2023,Critical,817.1,fao-sdg642
+Qatar,QAT,634,431.0,2023,Critical,431.0,fao-sdg642
+Yemen,YEM,887,281.5,2023,Critical,281.5,fao-sdg642
+Bahrain,BHR,048,152.5,2023,Critical,137.2,fao-sdg642
+Algeria,DZA,012,144.8,2023,Critical,126.0,fao-sdg642
+Turkmenistan,TKM,795,135.2,2023,Critical,144.7,fao-sdg642
+Syria,SYR,760,124.4,2023,Critical,124.4,fao-sdg642
+Uzbekistan,UZB,860,123.0,2023,Critical,158.1,fao-sdg642
+Israel,ISR,376,119.6,2023,Critical,98.8,fao-sdg642
+Sudan,SDN,729,118.7,2023,Critical,118.7,fao-sdg642
+Oman,OMN,512,116.7,2023,Critical,116.7,fao-sdg642
+Egypt,EGY,818,112.9,2023,Critical,113.7,fao-sdg642
+Jordan,JOR,400,105.2,2023,Critical,96.2,fao-sdg642
+Pakistan,PAK,586,98.1,2023,High,120.8,fao-sdg642
+Tunisia,TUN,788,97.0,2023,High,87.7,fao-sdg642
+Sri Lanka,LKA,144,90.8,2023,High,90.8,fao-sdg642
+Barbados,BRB,052,87.5,2023,High,87.5,fao-sdg642
+South Korea,KOR,410,85.2,2023,High,85.2,fao-sdg642
+Iran,IRN,364,80.4,2023,High,89.1,fao-sdg642
+Eswatini,SWZ,748,77.6,2023,High,77.6,fao-sdg642
+Tajikistan,TJK,762,69.9,2023,Medium,68.7,fao-sdg642
+Iraq,IRQ,368,67.8,2023,Medium,58.8,fao-sdg642
+South Africa,ZAF,710,67.6,2023,Medium,59.8,fao-sdg642
+India,IND,356,65.9,2023,Medium,66.2,fao-sdg642
+North Macedonia,MKD,807,65.9,2023,Medium,20.8,fao-sdg642
+Armenia,ARM,051,62.0,2023,Medium,66.0,fao-sdg642
+Cape Verde,CPV,132,59.7,2023,Medium,37.3,fao-sdg642
+Lebanon,LBN,422,58.8,2023,Medium,58.8,fao-sdg642
+Azerbaijan,AZE,031,57.5,2023,Medium,51.6,fao-sdg642
+Afghanistan,AFG,004,54.8,2023,Medium,54.8,fao-sdg642
+Belgium,BEL,056,52.8,2023,Medium,49.1,fao-sdg642
+Kyrgyzstan,KGZ,417,49.7,2023,Low,48.4,fao-sdg642
+Turkey,TUR,792,47.9,2023,Low,39.9,fao-sdg642
+Zimbabwe,ZWE,716,46.1,2023,Low,31.9,fao-sdg642
+Malta,MLT,470,45.5,2023,Low,51.4,fao-sdg642
+Palestine,PSE,275,45.2,2023,Low,47.3,fao-sdg642
+Mexico,MEX,484,45.0,2023,Low,32.1,fao-sdg642
+Spain,ESP,724,43.2,2023,Low,43.0,fao-sdg642
+Mali,MLI,466,43.0,2023,Low,26.2,fao-sdg642
+China,CHN,156,41.6,2023,Low,44.1,fao-sdg642
+Dominican Republic,DOM,214,39.5,2023,Low,39.5,fao-sdg642
+Bulgaria,BGR,100,38.8,2023,Low,41.6,fao-sdg642
+Japan,JPN,392,35.4,2023,Low,36.7,fao-sdg642
+Kazakhstan,KAZ,398,33.6,2023,Low,30.0,fao-sdg642
+Poland,POL,616,32.5,2023,Low,36.2,fao-sdg642
+Ethiopia,ETH,231,32.3,2023,Low,31.5,fao-sdg642
+Saint Kitts and Nevis,KNA,659,32.0,2023,Low,32.0,fao-sdg642
+Germany,DEU,276,31.5,2023,Low,40.5,fao-sdg642
+Cyprus,CYP,196,30.8,2023,Low,31.7,fao-sdg642
+Italy,ITA,380,29.8,2023,Low,29.9,fao-sdg642
+Indonesia,IDN,360,29.7,2023,Low,28.8,fao-sdg642
+Nigeria,NGA,566,29.7,2023,Low,29.7,fao-sdg642
+East Timor,TLS,626,28.3,2023,Low,28.3,fao-sdg642
+Philippines,PHL,608,27.9,2023,Low,26.4,fao-sdg642
+North Korea,PRK,408,27.7,2023,Low,27.7,fao-sdg642
+Denmark,DNK,208,26.6,2023,Low,21.9,fao-sdg642
+Madagascar,MDG,450,25.0,2023,No stress,24.0,fao-sdg642
+Somalia,SOM,706,24.5,2023,No stress,24.5,fao-sdg642
+United States,USA,840,24.5,2023,No stress,24.5,fao-sdg642
+Mauritius,MUS,480,22.5,2023,No stress,22.2,fao-sdg642
+Cuba,CUB,192,22.2,2023,No stress,20.8,fao-sdg642
+Thailand,THA,764,21.5,2023,No stress,14.3,fao-sdg642
+France,FRA,250,20.6,2023,No stress,24.6,fao-sdg642
+Czechia,CZE,203,20.1,2023,No stress,24.4,fao-sdg642
+Trinidad and Tobago,TTO,780,19.9,2023,No stress,18.9,fao-sdg642
+Puerto Rico,PRI,630,19.5,2023,No stress,19.5,fao-sdg642
+Morocco,MAR,504,18.8,2023,No stress,32.8,fao-sdg642
+Vietnam,VNM,704,17.8,2023,No stress,17.8,fao-sdg642
+Greece,GRC,300,17.7,2023,No stress,20.0,fao-sdg642
+Senegal,SEN,686,16.3,2023,No stress,13.0,fao-sdg642
+Netherlands,NLD,528,14.9,2023,No stress,16.0,fao-sdg642
+Saint Lucia,LCA,662,14.3,2023,No stress,14.3,fao-sdg642
+United Kingdom,GBR,826,14.3,2023,No stress,13.9,fao-sdg642
+Haiti,HTI,332,13.4,2023,No stress,13.4,fao-sdg642
+Mauritania,MRT,478,13.2,2023,No stress,13.2,fao-sdg642
+Tanzania,TZA,834,13.0,2023,No stress,13.0,fao-sdg642
+El Salvador,SLV,222,12.7,2023,No stress,12.6,fao-sdg642
+Jamaica,JAM,388,12.4,2023,No stress,7.7,fao-sdg642
+Moldova,MDA,498,12.4,2023,No stress,12.5,fao-sdg642
+Portugal,PRT,620,12.3,2023,No stress,17.3,fao-sdg642
+Andorra,AND,020,11.9,2023,No stress,12.3,fao-sdg642
+Uruguay,URY,858,11.6,2023,No stress,11.2,fao-sdg642
+Eritrea,ERI,232,11.2,2023,No stress,11.2,fao-sdg642
+Kenya,KEN,404,11.2,2023,No stress,26.6,fao-sdg642
+Niger,NER,562,11.0,2023,No stress,7.3,fao-sdg642
+Argentina,ARG,032,10.5,2023,No stress,10.5,fao-sdg642
+Burundi,BDI,108,10.2,2023,No stress,10.2,fao-sdg642
+Dominica,DMA,212,10,2023,No stress,10,fao-sdg642
+Maldives,MDV,462,9.6,2023,No stress,9.6,fao-sdg642
+Ireland,IRL,372,9.4,2023,No stress,6.1,fao-sdg642
+Chile,CHL,152,9.0,2023,No stress,9.0,fao-sdg642
+Austria,AUT,040,8.7,2023,No stress,9.1,fao-sdg642
+Estonia,EST,233,8.6,2023,No stress,17.5,fao-sdg642
+Zambia,ZMB,894,8.6,2023,No stress,7.8,fao-sdg642
+Nepal,NPL,524,8.3,2023,No stress,8.3,fao-sdg642
+New Zealand,NZL,554,8.1,2023,No stress,8.1,fao-sdg642
+Saint Vincent and the Grenadines,VCT,670,7.9,2023,No stress,7.9,fao-sdg642
+Hungary,HUN,348,7.6,2023,No stress,7.0,fao-sdg642
+Romania,ROU,642,7.5,2023,No stress,6.0,fao-sdg642
+Venezuela,VEN,862,7.5,2023,No stress,7.5,fao-sdg642
+Ukraine,UKR,804,7.3,2023,No stress,11.8,fao-sdg642
+Finland,FIN,246,7.1,2023,No stress,6.5,fao-sdg642
+Grenada,GRD,308,7.0,2023,No stress,7.0,fao-sdg642
+Singapore,SGP,702,7.0,2023,No stress,58.1,fao-sdg642
+Rwanda,RWA,646,6.5,2023,No stress,5.4,fao-sdg642
+Switzerland,CHE,756,6.5,2023,No stress,6.5,fao-sdg642
+Slovenia,SVN,705,6.4,2023,No stress,6.1,fao-sdg642
+Djibouti,DJI,262,6.3,2023,No stress,6.3,fao-sdg642
+Costa Rica,CRI,188,5.9,2023,No stress,5.5,fao-sdg642
+Myanmar,MMR,104,5.8,2023,No stress,5.8,fao-sdg642
+Serbia,SRB,688,5.8,2023,No stress,5.3,fao-sdg642
+Uganda,UGA,800,5.8,2023,No stress,5.8,fao-sdg642
+Guatemala,GTM,320,5.7,2023,No stress,5.7,fao-sdg642
+Bangladesh,BGD,050,5.7,2023,No stress,5.7,fao-sdg642
+Cote d'Ivoire,CIV,384,5.1,2023,No stress,5.1,fao-sdg642
+Mongolia,MNG,496,5.0,2023,No stress,3.1,fao-sdg642
+Laos,LAO,418,4.8,2023,No stress,5.1,fao-sdg642
+Albania,ALB,008,4.8,2023,No stress,5.5,fao-sdg642
+Belarus,BLR,112,4.7,2023,No stress,4.8,fao-sdg642
+Honduras,HND,340,4.6,2023,No stress,4.6,fao-sdg642
+Reunion,REU,638,4.5,2023,No stress,4.0,fao-sdg642
+Chad,TCD,148,4.3,2023,No stress,4.3,fao-sdg642
+Georgia,GEO,268,4.2,2023,No stress,6.1,fao-sdg642
+Australia,AUS,036,4.2,2023,No stress,3.7,fao-sdg642
+Bermuda,BMU,060,4.2,2023,No stress,4.2,fao-sdg642
+Russia,RUS,643,4.2,2023,No stress,4.0,fao-sdg642
+South Sudan,SSD,728,4.2,2023,No stress,4.2,fao-sdg642
+Malawi,MWI,454,4.1,2023,No stress,1.0,fao-sdg642
+Luxembourg,LUX,442,4.0,2023,No stress,3.7,fao-sdg642
+Suriname,SUR,740,4.0,2023,No stress,4.0,fao-sdg642
+Canada,CAN,124,3.7,2023,No stress,3.7,fao-sdg642
+Colombia,COL,170,3.7,2023,No stress,3.0,fao-sdg642
+Peru,PER,604,3.6,2023,No stress,5.6,fao-sdg642
+Sweden,SWE,752,3.6,2023,No stress,3.4,fao-sdg642
+Brunei,BRN,096,3.5,2023,No stress,3.5,fao-sdg642
+Malaysia,MYS,458,3.4,2023,No stress,3.2,fao-sdg642
+Togo,TGO,768,3.4,2023,No stress,3.4,fao-sdg642
+Antigua and Barbuda,ATG,028,3.1,2023,No stress,4.7,fao-sdg642
+Lesotho,LSO,426,2.6,2023,No stress,2.6,fao-sdg642
+Slovakia,SVK,703,2.4,2023,No stress,2.5,fao-sdg642
+Botswana,BWA,072,2.3,2023,No stress,2.0,fao-sdg642
+Gambia,GMB,270,2.2,2023,No stress,2.2,fao-sdg642
+Lithuania,LTU,440,2.2,2023,No stress,2.8,fao-sdg642
+Nicaragua,NIC,558,2.2,2023,No stress,2.4,fao-sdg642
+Bosnia and Herzegovina,BIH,070,2.1,2023,No stress,2.8,fao-sdg642
+Norway,NOR,578,2.0,2023,No stress,2.1,fao-sdg642
+Angola,AGO,024,1.9,2023,No stress,1.9,fao-sdg642
+Sao Tome and Principe,STP,678,1.9,2023,No stress,1.8,fao-sdg642
+Mozambique,MOZ,508,1.8,2023,No stress,1.8,fao-sdg642
+Paraguay,PRY,600,1.8,2023,No stress,1.8,fao-sdg642
+Cameroon,CMR,120,1.6,2023,No stress,1.6,fao-sdg642
+Croatia,HRV,191,1.6,2023,No stress,1.4,fao-sdg642
+Guinea-Bissau,GNB,624,1.5,2023,No stress,1.5,fao-sdg642
+Guinea,GIN,324,1.4,2023,No stress,1.3,fao-sdg642
+Bhutan,BTN,064,1.4,2023,No stress,1.4,fao-sdg642
+Brazil,BRA,076,1.4,2023,No stress,3.0,fao-sdg642
+Burkina Faso,BFA,854,1.3,2023,No stress,0.8,fao-sdg642
+Ecuador,ECU,218,1.1,2023,No stress,0.8,fao-sdg642
+Cambodia,KHM,116,1.0,2023,No stress,1.0,fao-sdg642
+Benin,BEN,204,1.0,2023,No stress,1.0,fao-sdg642
+Latvia,LVA,428,1.0,2023,No stress,1.0,fao-sdg642
+Panama,PAN,591,0.9,2023,No stress,0.9,fao-sdg642
+Comoros,COM,174,0.8,2023,No stress,0.8,fao-sdg642
+Fiji,FJI,242,0.6,2023,No stress,0.5,fao-sdg642
+Gabon,GAB,266,0.5,2023,No stress,0.5,fao-sdg642
+Ghana,GHA,288,0.5,2023,No stress,6.3,fao-sdg642
+Sierra Leone,SLE,694,0.5,2023,No stress,0.5,fao-sdg642
+Iceland,ISL,352,0.4,2023,No stress,0.4,fao-sdg642
+Central African Republic,CAF,140,0.3,2023,No stress,0.3,fao-sdg642
+Guyana,GUY,328,0.3,2023,No stress,0.3,fao-sdg642
+Liberia,LBR,430,0.3,2023,No stress,0.3,fao-sdg642
+Namibia,NAM,516,0.3,2023,No stress,0.5,fao-sdg642
+Democratic Republic of Congo,COD,180,0.2,2023,No stress,0.2,fao-sdg642
+Equatorial Guinea,GNQ,226,0.2,2023,No stress,0.2,fao-sdg642
+Bolivia,BOL,068,0.2,2023,No stress,0.2,fao-sdg642
+Papua New Guinea,PNG,598,0.1,2023,No stress,0.1,fao-sdg642
+Belize,BLZ,084,0.1,2023,No stress,0.1,fao-sdg642
+Congo,COG,178,0.0,2023,No stress,0.0,fao-sdg642
+French Guiana,GUF,254,0.0,2023,No stress,0.0,fao-sdg642

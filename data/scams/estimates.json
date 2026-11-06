@@ -1,0 +1,57 @@
+{
+  "id": "estimates",
+  "title": "GASA national estimates",
+  "description": "Survey-based estimates of total scam losses from GASA national reports.",
+  "records": [
+    {
+      "country": "Pakistan",
+      "iso_n3": "586",
+      "year": 2025,
+      "est_local": 9300000000,
+      "currency": "USD",
+      "lon": 69,
+      "lat": 30,
+      "source": "gasa-pakistan-2025"
+    },
+    {
+      "country": "Germany",
+      "iso_n3": "276",
+      "year": 2025,
+      "est_local": 10600000000,
+      "currency": "EUR",
+      "lon": 10.4,
+      "lat": 51,
+      "source": "gasa-germany-2025"
+    },
+    {
+      "country": "Brazil",
+      "iso_n3": "076",
+      "year": 2025,
+      "est_local": 99000000000,
+      "currency": "BRL",
+      "lon": -52,
+      "lat": -10,
+      "source": "gasa-brazil-2025"
+    },
+    {
+      "country": "South Korea",
+      "iso_n3": "410",
+      "year": 2025,
+      "est_local": 1400000000,
+      "currency": "USD",
+      "lon": 127.8,
+      "lat": 36.4,
+      "source": "gasa-korea-2025"
+    },
+    {
+      "country": "Denmark",
+      "iso_n3": "208",
+      "year": 2026,
+      "est_local": 10100000000,
+      "currency": "DKK",
+      "lon": 9.5,
+      "lat": 56,
+      "source": "gasa-denmark-2026"
+    }
+  ]
+}

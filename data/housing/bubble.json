@@ -1,0 +1,107 @@
+{
+  "id": "bubble",
+  "title": "Bubble risk (UBS)",
+  "description": "UBS Global Real Estate Bubble Index 2025 risk categories for major cities.",
+  "records": [
+    {
+      "city": "Miami",
+      "risk": "High",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Tokyo",
+      "risk": "High",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Zurich",
+      "risk": "High",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Los Angeles",
+      "risk": "Elevated",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Geneva",
+      "risk": "Elevated",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Amsterdam",
+      "risk": "Elevated",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Dubai",
+      "risk": "Elevated",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Sydney",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Vancouver",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Toronto",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Madrid",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Frankfurt",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Munich",
+      "risk": "Moderate",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "London",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Paris",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Milan",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "Hong Kong",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "San Francisco",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "New York",
+      "risk": "Low",
+      "source": "ubs-2025"
+    },
+    {
+      "city": "São Paulo",
+      "risk": "Low",
+      "source": "ubs-2025"
+    }
+  ]
+}

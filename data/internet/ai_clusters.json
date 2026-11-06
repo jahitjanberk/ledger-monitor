@@ -1,0 +1,17 @@
+{
+  "id": "ai_clusters",
+  "title": "GPU cluster performance",
+  "description": "Share of global GPU cluster (AI supercomputer) performance by country, May 2025, from Epoch AI. The US share is published as about three quarters.",
+  "records": [
+    {
+      "country": "United States",
+      "share": 0.75,
+      "source": "epoch-clusters-2025"
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "source": "epoch-clusters-2025"
+    }
+  ]
+}

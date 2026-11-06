@@ -1,0 +1,50 @@
+{
+  "sources": {
+    "portwatch": {
+      "publisher": "IMF PortWatch (University of Oxford and IMF, from satellite AIS ship tracking)",
+      "title": "Daily Chokepoints Data: transit calls and trade volume estimates",
+      "url": "https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730",
+      "published": "2026-10-31",
+      "method": "reported",
+      "notes": "Daily vessel transits by type and deadweight tonnage, estimated from AIS signals. Export of 31 October 2026 (data to 25 October 2026), taken from a public copy at github.com/jhelvy/2026-global-oil-flows. PortWatch revises past days. Cite as IMF PortWatch; IMF terms apply."
+    },
+    "portwatch-db": {
+      "publisher": "IMF PortWatch",
+      "title": "Chokepoints database: names and locations",
+      "url": "https://portwatch.imf.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "The 28 chokepoints PortWatch monitors."
+    },
+    "eia-chokepoints": {
+      "publisher": "US Energy Information Administration",
+      "title": "World Oil Transit Chokepoints",
+      "url": "https://www.eia.gov/international/content/analysis/special_topics/world_oil_transit_chokepoints",
+      "published": "2026-03-03",
+      "method": "reported",
+      "notes": "Crude oil and petroleum liquids, million barrels a day. 1H25 = first half of 2025. Suez includes the SUMED pipeline; Panama is by fiscal year. The Cape of Good Hope is a route, not a chokepoint. Danish Straits are shown at the Oresund and Turkish Straits at the Bosporus."
+    },
+    "aljazeera-2026-08": {
+      "publisher": "Al Jazeera, citing UNCTAD, Kpler, Lloyd's List and Gibson Shipbrokers",
+      "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
+      "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
+      "published": "2026-08-27",
+      "method": "reference"
+    },
+    "bimco-2026-01": {
+      "publisher": "India Seatrade News, reporting BIMCO",
+      "title": "Suez Canal transits still 60% below pre-crisis levels 100 days after last Houthi attack",
+      "url": "https://indiaseatradenews.com/suez-canal-transits-still-60-below-pre-crisis-levels-100-days-after-last-houthi-attack/",
+      "published": "2026-01-07",
+      "method": "reference"
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Background map."
+    }
+  }
+}

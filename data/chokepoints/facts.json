@@ -1,0 +1,68 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Dates and published figures on the 2026 Hormuz closure and the Red Sea, each from its source.",
+  "records": [
+    {
+      "id": "closure",
+      "label": "IRGC announced the Strait of Hormuz closed",
+      "value": "2026-03-02",
+      "unit": "date",
+      "note": "After US and Israeli strikes on Iran on 28 February",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "mou",
+      "label": "Interim US-Iran agreement raised Hormuz traffic to about 20 ships a day",
+      "value": "2026-06-17",
+      "unit": "date",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "blockade",
+      "label": "US resumed its blockade and traffic fell back to about five a day",
+      "value": "2026-07-14",
+      "unit": "date",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "crude_share",
+      "label": "Share of global seaborne crude flows that passed through Hormuz before the war",
+      "value": 38,
+      "unit": "%",
+      "note": "LPG 29%, LNG 19% (UNCTAD)",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "gulf_exports",
+      "label": "Gulf crude exports, 2025 to August 2026",
+      "value": "17 to 9",
+      "unit": "million barrels a day",
+      "note": "Down 47%",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "oil_peak",
+      "label": "Oil price peak, April 2026",
+      "value": 130,
+      "unit": "US$ a barrel",
+      "note": "Above; about 20% above pre-war levels in late August",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "hormuz_quarter",
+      "label": "Share of the world's seaborne oil trade through Hormuz, first half of 2025",
+      "value": 25,
+      "unit": "%",
+      "source": "eia-chokepoints"
+    },
+    {
+      "id": "suez_60",
+      "label": "Suez Canal transits in the first week of 2026 against the same week of 2023",
+      "value": -60,
+      "unit": "%",
+      "note": "Before ships began diverting around Africa",
+      "source": "bimco-2026-01"
+    }
+  ]
+}

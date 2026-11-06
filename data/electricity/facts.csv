@@ -1,0 +1,7 @@
+id,label,value,unit,note,source
+solar_growth,"Rise in global solar generation, 2025",636,TWh,"A record, up 30% to 2,778 TWh",ember-ger-2026
+solar_demand,"Share of the rise in electricity demand met by solar, 2025",75,%,,ember-ger-2026
+wind_solar_demand,"Share of demand growth met by solar and wind together, 2025",99,%,,ember-ger-2026
+demand_growth,"Growth in global electricity demand, 2025",849,TWh,,ember-ger-2026
+fossil_change,"Change in fossil generation, 2025",-38,TWh,"-0.2%, the first year without a rise since 2020",ember-ger-2026
+uk_coal_end,"UK's last coal power station, Ratcliffe-on-Soar, closed",2024-09-30,date,Ending more than 140 years of coal power,iom3-ratcliffe

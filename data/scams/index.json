@@ -1,0 +1,54 @@
+{
+  "variant": "scams",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "estimates",
+      "title": "GASA national estimates",
+      "description": "Survey-based estimates of total scam losses from GASA national reports.",
+      "rows": 5
+    },
+    {
+      "id": "fx",
+      "title": "Exchange rates (2025 average)",
+      "description": "IRS yearly average exchange rates for 2025, units of currency per US dollar.",
+      "rows": 9
+    },
+    {
+      "id": "global",
+      "title": "GASA global survey 2025",
+      "description": "Headline findings of the Global State of Scams 2025 (46,000 adults, 42 markets).",
+      "rows": 10
+    },
+    {
+      "id": "reported",
+      "title": "Reported losses by country",
+      "description": "Scam and fraud losses victims reported to national agencies, latest year, in local currency.",
+      "rows": 6
+    },
+    {
+      "id": "response",
+      "title": "Reporting and recovery",
+      "description": "Published rates of reporting, reimbursement and recovery.",
+      "rows": 5
+    },
+    {
+      "id": "surveys",
+      "title": "GASA survey snapshots",
+      "description": "Share of adults who encountered a scam, and the loss estimate where published.",
+      "rows": 3
+    },
+    {
+      "id": "trend",
+      "title": "Reported losses by year",
+      "description": "Annual reported losses by country, 2021 to 2025, in local currency. Earlier UK and Australian years are rounded headline totals.",
+      "rows": 21
+    },
+    {
+      "id": "us_detail",
+      "title": "US losses by category",
+      "description": "2025 US loss categories from FBI IC3 and FTC Consumer Sentinel.",
+      "rows": 6
+    }
+  ]
+}

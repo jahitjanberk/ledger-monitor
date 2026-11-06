@@ -1,0 +1,479 @@
+id,name,length_km,rfs,landings,source,owners,countries
+2africa,2Africa,37000,2023,29,telegeography-2021,,
+2africa,2Africa,,,0,telegeography-2021,,
+acs-alaska-oregon-network-akorn,ACS Alaska-Oregon Network (AKORN),3000,2009 April,4,telegeography-2021,Alaska Communications,United States
+aeconnect-1,AEConnect-1,5536,2016 January,2,telegeography-2021,Aqua Comms,Ireland|United States
+alba-1,ALBA-1,1860,2012 August,4,telegeography-2021,"Transbit, Telecom Venezuela",Cuba|Jamaica|Venezuela
+alpal-2,ALPAL-2,312,2002 July,2,telegeography-2021,"Telecom Italia Sparkle, Orange, Algerie Telecom, Telxius",Algeria|Spain
+apcn-2,APCN-2,19000,2001 December,10,telegeography-2021,"Singtel, Verizon, KDDI, Chunghwa Telecom, AT&T, BT, Orange, Softbank Corp, NTT, Tata Communications, Telekom Malaysia, Starhub, PLDT, China Unicom, KT, Singtel Optus, Telstra, PCCW, China Telecom, LG Uplus, HKBN Enterprise Solutions, Vodafone",China|Japan|Malaysia|Philippines|Singapore|South Korea|Taiwan
+arcos,ARCOS,8600,2001 December,23,telegeography-2021,"C&W Networks, CANTV, Codetel, Hondutel, Belize Telemedia, Enitel, AT&T, Alestra, Verizon, RACSA, United Telecommunication Services (UTS), Telecarrier, Tricom USA, Telecomunicaciones Ultramarinas de Puerto Rico, Internexa, Orbinet Overseas, Telepuerto San Isidro, Bahamas Telecommunications Company, Instituto Costarricense de Electricidad, Orbitel",Bahamas|Belize|Colombia|Costa Rica|Curaçao|Dominican Republic|Guatemala|Honduras|Mexico|Nicaragua|Panama|Turks and Caicos Islands|United States|Venezuela
+arsat-submarine-fiber-optic-cable,ARSAT Submarine Fiber Optic Cable,40,2012 Q2,2,telegeography-2021,ARSAT,Argentina
+au-aleutian,AU-Aleutian,1311,2022,12,telegeography-2021,GCI,United States
+aurora-cable-system,AURORA Cable System,5500,2022 October,8,telegeography-2021,FP Telecommunications,Colombia|Ecuador|Guatemala|Honduras|Mexico|Panama|United States
+aden-djibouti,Aden-Djibouti,269,1994,2,telegeography-2021,"Djibouti Telecom, TeleYemen, Tata Communications, Orange, Telecom Italia Sparkle",Djibouti|Yemen
+adria-1,Adria-1,440,1996 September,3,telegeography-2021,"T-Hrvatski Telekom, Albania Telecom",Albania|Croatia|Greece
+africa-coast-to-europe-ace,Africa Coast to Europe (ACE),17000,2012 December,22,telegeography-2021,"Orange, Dolphin Telecom, Cote d’Ivoire Telecom, Gambia Submarine Cable Company, MTN, Orange Cameroun, Sonatel, Cable Consortium of Liberia, STP Cabo, International Mauritania Telecom, Canalink, Orange Mali, Orange Niger, Republic of Equatorial Guinea, Sierra Leone Cable Company, GUILAB, Benin ACE GIE, Republic of Gabon, Republic of Guinea Bissau, Republic of Cameroon","Angola|Benin|Cameroon|Congo, Dem. Rep.|Côte d'Ivoire|Equatorial Guinea|France|Gabon|Gambia|Ghana|Guinea|Guinea-Bissau|Liberia|Mauritania|Namibia|Nigeria|Portugal|Sao Tome and Principe|Senegal|Sierra Leone|South Africa|Spain"
+alaska-united-east-au-east,Alaska United East (AU-East),3751,1999 February,4,telegeography-2021,GCI,United States
+alaska-united-southeast-au-se,Alaska United Southeast (AU-SE),626,2008 November,5,telegeography-2021,GCI,United States
+alaska-united-turnagain-arm-auta,Alaska United Turnagain Arm (AUTA),53,2012,2,telegeography-2021,GCI,United States
+alaska-united-west-au-west,Alaska United West (AU-West),2485,2004 June,2,telegeography-2021,GCI,United States
+aletar,Aletar,787,1997 April,2,telegeography-2021,"Syrian Telecommunications Establishment, Telecom Egypt, Liban Telecom",Egypt|Syria
+alonso-de-ojeda,Alonso de Ojeda,128,1999,2,telegeography-2021,n.a.,Aruba|Curaçao
+america-movil-submarine-cable-system-1-amx-1,America Movil Submarine Cable System-1 (AMX-1),17800,2014,11,telegeography-2021,América Móvil,Brazil|Colombia|Dominican Republic|Guatemala|Mexico|United States
+americas-i-north,Americas-I North,2012,1994 September,2,telegeography-2021,n.a.,United States
+americas-ii,Americas-II,8373,2000 August,9,telegeography-2021,"Embratel, AT&T, Verizon, Sprint, CANTV, Tata Communications, CNT, Orange, Altice Portugal, C&W Networks, Telecom Italia Sparkle, Lumen",Brazil|Curaçao|French Guiana|Martinique|Trinidad and Tobago|United States|Venezuela
+amerigo-vespucci,Amerigo Vespucci,85,1999,2,telegeography-2021,Antelecom,Curaçao|Netherlands
+amitie,Amitie,7292,2022 Q1,3,telegeography-2021,"Facebook, Vodafone, Microsoft, Aqua Comms, Orange",France|United Kingdom|United States
+antillas-1,Antillas 1,650,1997 June,4,telegeography-2021,"AT&T, Verizon, Sprint, Tata Communications, Orange, C&W Networks, Telecom Italia Sparkle, Embratel",Dominican Republic|United States
+aphrodite-2,Aphrodite 2,868,1994 September,2,telegeography-2021,n.a.,Cyprus|Greece
+apollo,Apollo,13000,2003 February,4,telegeography-2021,Vodafone,France|United Kingdom|United States
+aqualink,Aqualink,,2001 December,7,telegeography-2021,Telstra,New Zealand
+asia-africa-europe-1-aae-1,Asia Africa Europe-1 (AAE-1),25000,2017 June,20,telegeography-2021,"China Unicom, Telecom Egypt, Etisalat, Omantel, Djibouti Telecom, OTEGLOBE, Pakistan Telecommunications Company Ltd., PCCW, Ooredoo, Mobily, Viettel Corporation, TeleYemen, Retelit, Reliance Jio Infocom, VNPT International, Metfone, Hyalroute, TIME dotCom",Cambodia|China|Djibouti|Egypt|France|Greece|India|Italy|Malaysia|Myanmar|Oman|Pakistan|Qatar|Saudi Arabia|Thailand|United Arab Emirates|Vietnam|Yemen
+asia-direct-cable-adc,Asia Direct Cable (ADC),9400,2022 Q4,7,telegeography-2021,"PLDT, CAT Telecom Public Company Limited, China Telecom, China Unicom, Singtel, Softbank Corp, Tata Communications, Viettel Corporation",China|Japan|Philippines|Singapore|Thailand|Vietnam
+asia-pacific-gateway-apg,Asia Pacific Gateway (APG),10400,2016 November,11,telegeography-2021,"NTT, China Telecom, China Unicom, Chunghwa Telecom, KT, Starhub, LG Uplus, China Mobile, Viettel Corporation, VNPT International, Facebook, TIME dotCom",China|Japan|Malaysia|Singapore|South Korea|Taiwan|Thailand|Vietnam
+asia-submarine-cable-express-asecahaya-malaysia,Asia Submarine-cable Express (ASE)/Cahaya Malaysia,8148,2012 August,6,telegeography-2021,"NTT, PLDT, Telekom Malaysia, Starhub",China|Japan|Malaysia|Philippines|Singapore
+asia-america-gateway-aag-cable-system,Asia-America Gateway (AAG) Cable System,20000,2009 November,10,telegeography-2021,"Telekom Malaysia, AT&T, Starhub, PLDT, CAT Telecom Public Company Limited, Airtel (Bharti), Telstra, Telkom Indonesia, BT, Eastern Telecom, Indosat Ooredoo, Spark New Zealand, Viettel Corporation, Saigon Postel Corporation, VNPT International, BayanTel, Ezecom, Unified National Networks (UNN)",Brunei|China|Malaysia|Philippines|Singapore|Thailand|United States|Vietnam
+atisa,Atisa,279,2017 June,4,telegeography-2021,Docomo Pacific,Northern Mariana Islands|United States
+atlantic-crossing-1-ac-1,Atlantic Crossing-1 (AC-1),14301,1998 May,4,telegeography-2021,Lumen,Germany|Netherlands|United Kingdom|United States
+atlantis-2,Atlantis-2,8500,2000 February,7,telegeography-2021,"Embratel, Deutsche Telekom, Telecom Italia Sparkle, Telecom Argentina, Telxius, Altice Portugal, Orange, Telefónica Larga Distancia de Puerto Rico, AT&T, BICS, KT, Singtel, Tata Communications, Verizon, BT, Orange Polska",Argentina|Brazil|Cape Verde|Portugal|Senegal|Spain
+atlas-offshore,Atlas Offshore,1634,2007 July,2,telegeography-2021,Maroc Telecom,France|Morocco
+australia-japan-cable-ajc,Australia-Japan Cable (AJC),12700,2001 December,6,telegeography-2021,"Softbank Corp, Telstra, Verizon, AT&T, NTT",Australia|Japan|United States
+australia-papua-new-guinea-2-apng-2,Australia-Papua New Guinea-2 (APNG-2),1800,2006,2,telegeography-2021,"Telikom Papua New Guinea, Telstra",Australia|Papua New Guinea
+australia-singapore-cable-asc,Australia-Singapore Cable (ASC),4600,2018 September,4,telegeography-2021,Vocus Communications,Australia|Christmas Island|Indonesia|Singapore
+avassa,Avassa,260,2016 November,4,telegeography-2021,"Comoros Telecom, STOI",Comoros|Mayotte
+azerbaijan-turkmenistan,Azerbaijan-Turkmenistan,300,2021 Q4,2,telegeography-2021,"Azertelecom, Turkmentelecom",Azerbaijan|Turkmenistan
+azores-fiber-optic-system-afos,Azores Fiber Optic System (AFOS),1100,1998 July,7,telegeography-2021,Altice Portugal,Portugal
+balok,BALOK,60,2016 February,2,telegeography-2021,XL Axiata,Indonesia
+bcs-east,BCS East,8,1995,2,telegeography-2021,Telia Carrier,Latvia|Lithuania
+bcs-east-west-interlink,BCS East-West Interlink,218,1997 November,2,telegeography-2021,Telia Carrier,Lithuania|Sweden
+bcs-north---phase-1,BCS North - Phase 1,513,1998,5,telegeography-2021,Telia Carrier,Finland|Sweden
+bcs-north---phase-2,BCS North - Phase 2,4,2000,3,telegeography-2021,Telia Carrier,Finland|Russia
+berytar,BERYTAR,134,1997 April,4,telegeography-2021,"Syrian Telecommunications Establishment, Lebanese Ministry of Telecommunications",Lebanon|Syria
+bkk-digitek,BKK Digitek,210,2020 Q2,3,telegeography-2021,BKK Digitek,Norway
+brusa,BRUSA,11000,2018 August,4,telegeography-2021,Telxius,Brazil|United States
+bt-highlands-and-islands-submarine-cable-system,BT Highlands and Islands Submarine Cable System,402,2014 December,40,telegeography-2021,BT,United Kingdom
+bt-north-sea,BT North Sea,,2021,4,telegeography-2021,BT,Belgium|Netherlands|United Kingdom
+bt-mt-1,BT-MT-1,80,1990,4,telegeography-2021,"BT, Manx Telecom",Isle of Man|United Kingdom
+bugio,BUGIO,73,1996 July,2,telegeography-2021,Altice Portugal,Portugal
+bahamas-2,Bahamas 2,470,1997 June,3,telegeography-2021,"AT&T, Telefonica, Verizon",Bahamas|United States
+bahamas-domestic-submarine-network-bdsni,Bahamas Domestic Submarine Network (BDSNi),2817,2006,15,telegeography-2021,"Bahamas Telecommunications Company, Teleco",Bahamas|Haiti
+bahamas-internet-cable-system-bics,Bahamas Internet Cable System (BICS),1100,2001 July,8,telegeography-2021,Caribbean Crossings,Bahamas|United States
+balalink,Balalink,274,2001 October,2,telegeography-2021,IslaLink,Spain
+baltic-sea-submarine-cable,Baltic Sea Submarine Cable,1042,2000,3,telegeography-2021,CITIC Telecom International,Estonia|Finland|Sweden
+baltica,Baltica,437,1997 March,4,telegeography-2021,"Telia Carrier, Orange Polska, TDC Group, Telenor, Slovak Telekom, Ukrtelecom",Denmark|Poland|Sweden
+bass-strait-1,Bass Strait-1,241,1995,2,telegeography-2021,Telstra,Australia
+bass-strait-2,Bass Strait-2,239,2003,2,telegeography-2021,Telstra,Australia
+basslink,Basslink,298,2005 November,2,telegeography-2021,Basslink Telecoms,Australia
+batam-dumai-melaka-bdm-cable-system,Batam Dumai Melaka (BDM) Cable System,353,2009 November,3,telegeography-2021,"Moratelindo, Telekom Malaysia",Indonesia|Malaysia
+batam-sarawak-internet-cable-system-basics,Batam Sarawak Internet Cable System (BaSICS),762,2021 Q1,2,telegeography-2021,"PP Telecommunication Sdn Bhd, XL Axiata",Indonesia|Malaysia
+batam-singapore-cable-system-bscs,Batam Singapore Cable System (BSCS),73,2009,2,telegeography-2021,Telkom Indonesia,Indonesia|Singapore
+batam-rengit-cable-system-brcs,Batam-Rengit Cable System (BRCS),64,2007 October,2,telegeography-2021,XL Axiata,Indonesia|Malaysia
+bay-of-bengal-gateway-bbg,Bay of Bengal Gateway (BBG),8100,2016 Q1,6,telegeography-2021,"Vodafone, Telekom Malaysia, Omantel, Reliance Jio Infocom, Dialog Axiata, Etisalat, AT&T, China Telecom, Telstra",India|Malaysia|Oman|Sri Lanka|United Arab Emirates
+bharat-lanka-cable-system,Bharat Lanka Cable System,325,2006 June,2,telegeography-2021,"Bharat Sanchar Nigam Ltd. (BSNL), Sri Lanka Telecom",India|Sri Lanka
+bicentenario,Bicentenario,250,2011 December,2,telegeography-2021,"Antel Uruguay, Telecom Argentina",Argentina|Uruguay
+bluemed,BlueMed,1000,2021,2,telegeography-2021,Telecom Italia Sparkle,Italy
+bodo-rost-cable,Bodo-Rost Cable,109,2016,2,telegeography-2021,Telenor,Norway
+boracay-palawan-submarine-cable-system,Boracay-Palawan Submarine Cable System,332,2013 June,3,telegeography-2021,Globe Telecom,Philippines
+boriken-submarine-cable-system-bscs,Boriken Submarine Cable System (BSCS),670,2023 Q4,5,telegeography-2021,"Blackburn Technologies, LLC.",Dominican Republic|United States|Virgin Islands (U.S.)
+botnia,Botnia,93,1994,2,telegeography-2021,Telia Carrier,Finland|Sweden
+brazilian-festoon,Brazilian Festoon,2543,1996,14,telegeography-2021,Embratel,Brazil
+c-lion1,C-Lion1,1172,2016 March,3,telegeography-2021,Cinia Group Oy,Finland|Germany
+cadmos,CADMOS,230,1995 September,2,telegeography-2021,"Cyta, Lebanese Ministry of Telecommunications, AT&T, Orange, Telekom Austria, Syrian Telecommunications Establishment, Telecom Italia Sparkle, Tata Communications, Deutsche Telekom",Cyprus|Lebanon
+cam-ring,CAM Ring,1120,2003,3,telegeography-2021,Altice Portugal,Portugal
+candalta,CANDALTA,110,1999,2,telegeography-2021,Telefonica,Spain
+cantat-3,CANTAT-3,2500,1994 November,7,telegeography-2021,Shefa,Denmark|Faroe Islands|Germany|Iceland
+cap-1,CAP-1,12000,2022 Q4,2,telegeography-2021,"China Mobile, Facebook, Amazon Web Services",Philippines|United States
+cobracable,COBRAcable,304,2019 November,2,telegeography-2021,Relined,Denmark|Netherlands
+cogim,COGIM,438,2005,2,telegeography-2021,Télébec,Canada
+confluence-1,CONFLUENCE-1,2571,2022 Q4,5,telegeography-2021,Confluence Networks,United States
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Cabo Verde Telecom Domestic Submarine Cable Phase 1,,1997,5,telegeography-2021,Cabo Verde Telecom (CVT),Cape Verde
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Cabo Verde Telecom Domestic Submarine Cable Phase 2,,2002,3,telegeography-2021,Cabo Verde Telecom (CVT),Cape Verde
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Cabo Verde Telecom Domestic Submarine Cable Phase 3,,2011,8,telegeography-2021,Cabo Verde Telecom (CVT),Cape Verde
+canalink,Canalink,1835,2011,7,telegeography-2021,IT3,Morocco|Spain
+caribbean-regional-communications-infrastructure-program-carcip,Caribbean Regional Communications Infrastructure Program (CARCIP),225,2019 June,9,telegeography-2021,Digicel,Grenada|Saint Vincent and the Grenadines
+caribbean-bermuda-u-s-cbus,Caribbean-Bermuda U.S. (CBUS),1600,2009 October,2,telegeography-2021,C&W Networks,Bermuda|Virgin Islands (U.K.)
+caucasus-cable-system,Caucasus Cable System,1200,2008 November,2,telegeography-2021,Caucasus Online,Bulgaria|Georgia
+cayman-jamaica-fiber-system,Cayman-Jamaica Fiber System,870,1997 June,3,telegeography-2021,C&W Networks,Cayman Islands|Jamaica
+ceiba-1,Ceiba-1,287,2011 June,2,telegeography-2021,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),Equatorial Guinea
+ceiba-2,Ceiba-2,290,2017,3,telegeography-2021,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),Cameroon|Equatorial Guinea
+celtic-norse,Celtic Norse,2000,2022 Q4,4,telegeography-2021,"Eidsiva Energi, NTE, TrønderEnergi",Iceland|Ireland|Norway|United Kingdom
+celtixconnect-1-cc-1,CeltixConnect-1 (CC-1),131,2012 January,2,telegeography-2021,Aqua Comms,Ireland|United Kingdom
+challenger-bermuda-1-cb-1,Challenger Bermuda-1 (CB-1),1448,2008 December,2,telegeography-2021,OneCommunications,Bermuda|United States
+channel-islands-9-liberty-submarine-cable,Channel Islands-9 Liberty Submarine Cable,,2008 June,2,telegeography-2021,JTGlobal,Guernsey|United Kingdom
+chennai-andaman-nicobar-islands-cable,Chennai-Andaman & Nicobar Islands Cable,2300,2020 August,9,telegeography-2021,Bharat Sanchar Nigam Ltd. (BSNL),India
+chuuk-pohnpei-cable,Chuuk-Pohnpei Cable,1200,2019 May,2,telegeography-2021,Federated States of Micronesia Telecommunications Company,Micronesia
+circe-north,Circe North,203,1999 February,2,telegeography-2021,"VTLWavenet, euNetworks",Netherlands|United Kingdom
+circe-south,Circe South,115,1999 February,2,telegeography-2021,"VTLWavenet, euNetworks",France|United Kingdom
+colombia-florida-subsea-fiber-cfx-1,Colombia-Florida Subsea Fiber (CFX-1),2400,2008 August,4,telegeography-2021,C&W Networks,Colombia|Jamaica|United States
+colombian-festoon,Colombian Festoon,400,1997,5,telegeography-2021,n.a.,Colombia
+columbus-ii-b,Columbus-II b,2068,1994 December,2,telegeography-2021,n.a.,United States
+columbus-iii-azores-portugal,Columbus-III Azores-Portugal,,1999 December,2,telegeography-2021,Altice Portugal,Portugal
+comoros-domestic-cable-system,Comoros Domestic Cable System,,2010,3,telegeography-2021,Comores Telecom,Comoros
+concerto,Concerto,550,1999,2,telegeography-2021,GTT,Belgium|United Kingdom
+converge-ict-domestic-submarine-cable,Converge ICT Domestic Submarine Cable,1300,2021,22,telegeography-2021,Converge ICT,Philippines
+coral-sea-cable-system-cs,Coral Sea Cable System (CS²),4700,2020 February,6,telegeography-2021,"Solomon Island Submarine Cable Company, PNG DataCo Limited",Australia|Papua New Guinea|Solomon Islands
+corse-continent-4-cc4,Corse-Continent 4 (CC4),190,1992,2,telegeography-2021,Orange,France
+corse-continent-5-cc5,Corse-Continent 5 (CC5),299,1995,2,telegeography-2021,Orange,France
+cross-straits-cable-network,Cross Straits Cable Network,21,2012 August,4,telegeography-2021,"Chunghwa Telecom, China Telecom, China Unicom, China Mobile",China|Taiwan
+crosschannel-fibre,CrossChannel Fibre,155,2021 Q4,2,telegeography-2021,Crosslake Fibre,France|United Kingdom
+crosslake-fibre,Crosslake Fibre,59,2019 October,2,telegeography-2021,Crosslake Fibre,Canada|United States
+curie,Curie,10476,2020 Q2,3,telegeography-2021,Google,Chile|Panama|United States
+damai-cable-system,DAMAI Cable System,575,2019 July,3,telegeography-2021,Triasmitra,Indonesia
+danice,DANICE,2304,2009 August,2,telegeography-2021,Farice,Denmark|Iceland
+dos-continentes-l-ll,DOS CONTINENTES l & ll,95,2020 March,4,telegeography-2021,GTD España,Spain
+danica-north,Danica North,25,1998,2,telegeography-2021,Telia Carrier,Denmark|Sweden
+denmark-poland-2,Denmark-Poland 2,110,1991,2,telegeography-2021,"Orange Polska, TDC Group, Telia Carrier, Telenor",Denmark|Poland
+denmark-sweden-15,Denmark-Sweden 15,5,1989,2,telegeography-2021,"TDC Group, Telia Carrier",Denmark|Sweden
+denmark-sweden-16,Denmark-Sweden 16,15,1991,2,telegeography-2021,TDC Group,Denmark|Sweden
+denmark-sweden-17,Denmark-Sweden 17,11,1994,2,telegeography-2021,"TDC Group, Tele2",Denmark|Sweden
+denmark-sweden-18,Denmark-Sweden 18,,1996,2,telegeography-2021,"Telenor, TDC Group",Denmark|Sweden
+dhiraagu-cable-network,Dhiraagu Cable Network,1253,2012 April,8,telegeography-2021,Dhiraagu,Maldives
+dhiraagu-slt-submarine-cable-network,Dhiraagu-SLT Submarine Cable Network,850,2007 February,2,telegeography-2021,"Sri Lanka Telecom, Dhiraagu",Maldives|Sri Lanka
+didon,Didon,170,2014 May,2,telegeography-2021,"Orange Tunisie, Ooredoo Tunisie",Italy|Tunisia
+djibouti-africa-regional-express-1-dare1,Djibouti Africa Regional Express 1 (DARE1),4854,2020 June,4,telegeography-2021,"Djibouti Telecom, Africa Marine Express, Telesom, Hormuud Telecom Somalia, Golis Telecommunications, Somtel International, Telkom Kenya",Djibouti|Kenya|Somalia
+dumai-melaka-cable-system,Dumai-Melaka Cable System,159,2005 February,2,telegeography-2021,"Telkom Indonesia, Telekom Malaysia",Indonesia|Malaysia
+dunant,Dunant,6400,2021 Q1,2,telegeography-2021,Google,France|United States
+e-llan,E-LLAN,,2007,2,telegeography-2021,Manx Electricity Authority,Isle of Man|United Kingdom
+eac-c2c,EAC-C2C,36500,2002 November,16,telegeography-2021,Telstra,China|Japan|Philippines|Singapore|South Korea|Taiwan
+eclink,ECLink,987,2007 October,2,telegeography-2021,C&W Networks,Curaçao|Trinidad and Tobago
+esat-1,ESAT-1,261,1999 August,2,telegeography-2021,Esat BT,Ireland|United Kingdom
+esat-2,ESAT-2,245,2000,2,telegeography-2021,Esat BT,Ireland|United Kingdom
+east-west,East-West,1750,2011 February,3,telegeography-2021,C&W Networks,Dominican Republic|Jamaica|Virgin Islands (U.K.)
+east-west-submarine-cable-system,East-West Submarine Cable System,950,2004,4,telegeography-2021,Sacofa,Indonesia|Malaysia
+eastern-africa-submarine-system-eassy,Eastern Africa Submarine System (EASSy),10500,2010 July,9,telegeography-2021,"Botswana Fibre Networks, Telkom South Africa, Sudan Telecom Company, Telma (Telecom Malagasy), Tanzania Telecommunications Company Limited, Zambia Telecom, Mauritius Telecom, Vodacom DRC, MTN, Comores Telecom, Neotel, BT, Etisalat, Saudi Telecom, Orange, Airtel (Bharti), WIOCC, Djibouti Telecom, Telkom Kenya",Comoros|Djibouti|Kenya|Madagascar|Mozambique|Somalia|South Africa|Sudan|Tanzania
+eastern-arctic-undersea-fibre-optic-network-eaufon,Eastern Arctic Undersea Fibre Optic Network (EAUFON),1200,2021 December,5,telegeography-2021,Kativik Regional Government,Canada
+eastern-caribbean-fiber-system-ecfs,Eastern Caribbean Fiber System (ECFS),1730,1995 September,13,telegeography-2021,"Orange, AT&T, Verizon, Guyana Telephone and Telegraph (GT&T), Codetel, C&W Networks",Anguilla|Antigua and Barbuda|Barbados|Dominica|Grenada|Guadeloupe|Martinique|Saint Kitts and Nevis|Saint Lucia|Saint Vincent and the Grenadines|Sint Maarten|Trinidad and Tobago|Virgin Islands (U.K.)
+eastern-light,Eastern Light,,2019 October,4,telegeography-2021,Eastern Light,Finland|Sweden
+elektra-globalconnect-1-gc1,Elektra-GlobalConnect 1 (GC1),44,2000 August,2,telegeography-2021,GlobalConnect,Denmark|Germany
+ellalink,EllaLink,6200,2021 Q2,6,telegeography-2021,EllaLink Group,Brazil|Cape Verde|French Guiana|Portugal
+emerald-bridge-fibres,Emerald Bridge Fibres,120,2012 December,2,telegeography-2021,"Zayo Group, ESB Telecoms",Ireland|United Kingdom
+energinet-laeso-varberg,Energinet Laeso-Varberg,,2011,2,telegeography-2021,Energinet,Denmark|Sweden
+energinet-lyngsa-laeso,Energinet Lyngsa-Laeso,,2011 August,2,telegeography-2021,Energinet,Denmark
+epic-malta-sicily-cable-system-emscs,Epic Malta-Sicily Cable System (EMSCS),260,2004 July,2,telegeography-2021,Epic,Italy|Malta
+equiano,Equiano,,2021,5,telegeography-2021,Google,"Ascension and Tristan da Cunha|Congo, Dem. Rep.|Nigeria|Portugal|South Africa"
+estepona-tetouan,Estepona-Tetouan,113,1994 July,2,telegeography-2021,"Telxius, Maroc Telecom",Morocco|Spain
+europe-india-gateway-eig,Europe India Gateway (EIG),15000,2011 February,12,telegeography-2021,"AT&T, Airtel (Bharti), Bharat Sanchar Nigam Ltd. (BSNL), BT, Djibouti Telecom, du, Gibtelecom, Libya International Telecommunications Company, MTN, Omantel, Altice Portugal, Saudi Telecom, Telecom Egypt, Telkom South Africa, Verizon, Vodafone",Djibouti|Egypt|Gibraltar|India|Libya|Monaco|Oman|Portugal|Saudi Arabia|United Arab Emirates|United Kingdom
+falcon,FALCON,10300,2006 September,19,telegeography-2021,Global Cloud Xchange,Bahrain|Egypt|India|Iran|Iraq|Kuwait|Maldives|Oman|Qatar|Saudi Arabia|Sri Lanka|Sudan|United Arab Emirates|Yemen
+farice-1,FARICE-1,1205,2004 January,3,telegeography-2021,Farice,Faroe Islands|Iceland|United Kingdom
+faster,FASTER,11629,2016 June,4,telegeography-2021,"Google, KDDI, Singtel, China Telecom, China Mobile, TIME dotCom, Lumen",Japan|Taiwan|United States
+flag-atlantic-1-fa-1,FLAG Atlantic-1 (FA-1),14500,2001 June,4,telegeography-2021,Global Cloud Xchange,France|United Kingdom|United States
+flag-europe-asia-fea,FLAG Europe-Asia (FEA),28000,1997 November,16,telegeography-2021,Global Cloud Xchange,China|Egypt|India|Italy|Japan|Jordan|Malaysia|Saudi Arabia|South Korea|Spain|Thailand|United Arab Emirates|United Kingdom
+flag-north-asia-loopreach-north-asia-loop,FLAG North Asia Loop/REACH North Asia Loop,9504,2001 June,4,telegeography-2021,"Global Cloud Xchange, PCCW, Telstra",China|Japan|South Korea|Taiwan
+fly-lion3,FLY-LION3,400,2019 October,2,telegeography-2021,"Orange, Comoros Cables, Société Réunionnaise du Radiotéléphone",Comoros|Mayotte
+fos-quellon-chacabuco,FOS Quellon-Chacabuco,350,2015 January,2,telegeography-2021,Gtd Teleductos S.A.,Chile
+far-east-submarine-cable-system,Far East Submarine Cable System,1855,2016 Q2,3,telegeography-2021,Rostelecom,Russia
+farland-north,Farland North,150,1989,2,telegeography-2021,BT,Netherlands|United Kingdom
+fehmarn-blt,Fehmarn Bält,20,2000,2,telegeography-2021,Telia Carrier,Denmark|Germany
+fiber-optic-gulf-fog,Fiber Optic Gulf (FOG),1300,1998 June,4,telegeography-2021,"Kuwait Ministry of Communications, Etisalat, Ooredoo, Batelco",Bahrain|Kuwait|Qatar|United Arab Emirates
+fibra-optica-austral,Fibra Optica Austral,2800,2020 Q1,4,telegeography-2021,Subtel,Chile
+fibra-optica-al-pacfico,Fibra Optica al Pacífico,1180,2020 September,2,telegeography-2021,Entel Bolivia,Peru
+fibralink,Fibralink,1000,2006 March,3,telegeography-2021,C&W Networks,Dominican Republic|Haiti|Jamaica
+finland-estonia-connection-fec,Finland Estonia Connection (FEC),250,2000 January,2,telegeography-2021,Elisa Corporation,Estonia|Finland
+finland-estonia-2-eesf-2,Finland-Estonia 2 (EESF-2),98,1992,2,telegeography-2021,"Telia Eesti, Telia Carrier",Estonia|Finland
+finland-estonia-3-eesf-3,Finland-Estonia 3 (EESF-3),104,1994,2,telegeography-2021,"Telia Carrier, Telia Eesti",Estonia|Finland
+flores-corvo-cable-system,Flores-Corvo Cable System,685,2014 January,4,telegeography-2021,Viatel,Portugal
+go-1-mediterranean-cable-system,GO-1 Mediterranean Cable System,290,2008 December,2,telegeography-2021,GO plc,Italy|Malta
+gtmo-1,GTMO-1,1528,2016,2,telegeography-2021,U.S. Government,Cuba|United States
+gtmo-pr,GTMO-PR,1400,2019 April,2,telegeography-2021,U.S. Government,Cuba|United States
+gtt-atlantic,GTT Atlantic,12200,2001 April,5,telegeography-2021,GTT,Canada|Ireland|United Kingdom|United States
+gtt-express,GTT Express,4600,2015 September,3,telegeography-2021,GTT,Canada|Ireland|United Kingdom
+gemini-bermuda,Gemini Bermuda,1287,2007 October,2,telegeography-2021,C&W Networks,Bermuda|United States
+geo-eirgrid,Geo-Eirgrid,187,2012 December,2,telegeography-2021,Eirgrid,Ireland|United Kingdom
+georgia-russia,Georgia-Russia,433,2000 December,3,telegeography-2021,"Rostelecom, FOPTNET, DanTelco",Georgia|Russia
+germany-denmark-3,Germany-Denmark 3,,2000 March,2,telegeography-2021,TDC Group,Denmark|Germany
+glo-1,Glo-1,9800,2010 October,3,telegeography-2021,Globacom Limited,Ghana|Nigeria|United Kingdom
+glo-2,Glo-2,850,2021 Q3,3,telegeography-2021,Globacom Limited,Nigeria
+global-caribbean-network-gcn,Global Caribbean Network (GCN),890,2006 September,6,telegeography-2021,"Leucadia National Corporation, Loret Group",Guadeloupe|United States
+globalconnect-2-gc2,GlobalConnect 2 (GC2),95,2001 August,2,telegeography-2021,GlobalConnect,Denmark|Sweden
+globalconnect-3-gc3,GlobalConnect 3 (GC3),19,2006,2,telegeography-2021,GlobalConnect,Denmark
+globalconnect-kpn,GlobalConnect-KPN,43,2006,2,telegeography-2021,GlobalConnect,Denmark|Germany
+globenet,GlobeNet,23500,2000 October,7,telegeography-2021,GlobeNet,Bermuda|Brazil|Colombia|United States|Venezuela
+gondwana-1,Gondwana-1,2151,2008 September,2,telegeography-2021,OPT,Australia|New Caledonia
+gondwana-2picot-2,Gondwana-2/Picot-2,,2022,7,telegeography-2021,OPT,Fiji|New Caledonia
+grace-hopper,Grace Hopper,,2022,3,telegeography-2021,Google,Spain|United Kingdom|United States
+greenland-connect,Greenland Connect,4780,2009 March,4,telegeography-2021,TELE Greenland,Canada|Greenland|Iceland
+greenland-connect-north,Greenland Connect North,680,2017 December,4,telegeography-2021,TELE Greenland,Greenland
+guadeloupe-cable-des-iles-du-sud-gcis,Guadeloupe Cable des Iles du Sud (GCIS),118,2021,5,telegeography-2021,Regional Councel of Guadeloupe,Guadeloupe
+guam-okinawa-kyushu-incheon-goki,Guam Okinawa Kyushu Incheon (GOKI),4244,2013 December,3,telegeography-2021,AT&T,Japan|United States
+guernsey-jersey-4,Guernsey-Jersey-4,36,1994 January,2,telegeography-2021,Sure,Guernsey|Jersey
+gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System,5270,2012 February,9,telegeography-2021,"Gulf Bridge International, Airtel (Bharti)",Bahrain|India|Iran|Iraq|Kuwait|Oman|Qatar|Saudi Arabia|United Arab Emirates
+gulf-of-california-cable,Gulf of California Cable,250,2019 Q4,2,telegeography-2021,Megacable,Mexico
+gulf-of-mexico-fiber-optic-network,Gulf of Mexico Fiber Optic Network,1200,2008,2,telegeography-2021,Tampnet,United States
+gulf2africa-g2a,Gulf2Africa (G2A),1500,2017 December,3,telegeography-2021,"Omantel, Golis Telecommunications, Telesom, Ethio Telecom",Oman|Somalia
+h2-cable,H2 Cable,9200,2024,2,telegeography-2021,H2 Cable,Australia|Taiwan
+hannibal-system,HANNIBAL System,178,2009 October,2,telegeography-2021,Tunisia Telecom,Italy|Tunisia
+hantru1-cable-system,HANTRU1 Cable System,2917,2010 March,4,telegeography-2021,"Hannon Armstrong, Federated States of Micronesia Telecommunications Company, Marshall Islands Telecommunications Authority",Marshall Islands|Micronesia|United States
+hics-hawaii-inter-island-cable-system,HICS (Hawaii Inter-Island Cable System),479,1994 July,5,telegeography-2021,Hawaiian Telcom,United States
+hifn-hawaii-island-fibre-network,HIFN (Hawaii Island Fibre Network),529,1997 June,7,telegeography-2021,"Hawaiian Telcom, Lumen",United States
+hainan-hong-kong-submarine-cable-system,Hainan-Hong Kong Submarine Cable System,780,2021,3,telegeography-2021,China Mobile,China
+havfrueaec-2,Havfrue/AEC-2,7200,2020 November,4,telegeography-2021,"Aqua Comms, Facebook, Bulk Infrastructure, Google",Denmark|Ireland|Norway|United States
+havhingstenceltixconnect-2-cc-2,Havhingsten/CeltixConnect-2 (CC-2),300,2021 Q1,4,telegeography-2021,Aqua Comms,Ireland|Isle of Man|United Kingdom
+havhingstennorth-sea-connect-nsc,Havhingsten/North Sea Connect (NSC),700,2021 Q1,2,telegeography-2021,Aqua Comms,Denmark|United Kingdom
+havsil,Havsil,120,2021 Q4,2,telegeography-2021,Bulk Infrastructure,Denmark|Norway
+havtor,Havtor,165,2022 Q3,2,telegeography-2021,Nordic Consulting AS,Denmark|Norway
+hawaiki,Hawaiki,14000,2018 July,5,telegeography-2021,Hawaiki Submarine Cable LP,American Samoa|Australia|New Zealand|United States
+hawk,Hawk,3400,2011,3,telegeography-2021,Global Cloud Xchange,Cyprus|Egypt|France
+high-capacity-undersea-guernsey-optical-fibre-hugo,High-capacity Undersea Guernsey Optical-fibre (HUGO),425,2007,4,telegeography-2021,"Sure, Vodafone",France|Guernsey|United Kingdom
+hokkaido-sakhalin-cable-system-hscs,Hokkaido-Sakhalin Cable System (HSCS),570,2008 July,2,telegeography-2021,"NTT, TTK",Japan|Russia
+hong-kong-americas-hka,Hong Kong-Americas (HKA),13780,2021,4,telegeography-2021,"Facebook, Telstra, Tata Communications, China Telecom, China Unicom, RTI",China|Taiwan|United States
+honotua,Honotua,4805,2010 September,6,telegeography-2021,OPT French Polynesia,French Polynesia|United States
+imewe,IMEWE,12091,2010 December,9,telegeography-2021,"Telecom Italia Sparkle, Etisalat, Tata Communications, Pakistan Telecommunications Company Ltd., Orange, Airtel (Bharti), Saudi Telecom, Ogero, Telecom Egypt",Egypt|France|India|Italy|Lebanon|Pakistan|Saudi Arabia|United Arab Emirates
+indigo-central,INDIGO-Central,4850,2019 May,2,telegeography-2021,"Superloop, Google, Indosat Ooredoo, Australia’s Academic and Research Network (AARNET), Singtel Optus",Australia
+indigo-west,INDIGO-West,4600,2019 May,3,telegeography-2021,"Superloop, Telstra, Singtel, Google, Indosat Ooredoo, Australia’s Academic and Research Network (AARNET)",Australia|Indonesia|Singapore
+ingrid,INGRID,64,2004 October,4,telegeography-2021,CIEG,France|Guernsey|Jersey
+ip-only-denmark-sweden,IP-Only Denmark-Sweden,,1994,2,telegeography-2021,IP-Only,Denmark|Sweden
+iris,IRIS,1607,2022 October,2,telegeography-2021,Farice,Iceland|Ireland
+indonesia-global-gateway-igg-system,Indonesia Global Gateway (IGG) System,5300,2018 May,10,telegeography-2021,"Telin, Telkom Indonesia",Indonesia|Singapore
+interchange-cable-network-1-icn1,Interchange Cable Network 1 (ICN1),1259,2014 January,2,telegeography-2021,Interchange,Fiji|Vanuatu
+interchange-cable-network-2-icn2,Interchange Cable Network 2 (ICN2),1632,2021,3,telegeography-2021,Interchange,Solomon Islands|Vanuatu
+isles-of-scilly-cable,Isles of Scilly Cable,,2014,2,telegeography-2021,BT,United Kingdom
+italy-albania,Italy-Albania,240,1997,2,telegeography-2021,"Telecom Italia Sparkle, Albania Telecom",Albania|Italy
+italy-croatia,Italy-Croatia,230,1994,2,telegeography-2021,"Telecom Italia Sparkle, T-Hrvatski Telekom",Croatia|Italy
+italy-greece-1,Italy-Greece 1,169,1995,2,telegeography-2021,WIS Telecom,Greece|Italy
+italy-libya,Italy-Libya,570,1998,2,telegeography-2021,"Telecom Italia Sparkle, Libya International Telecommunications Company",Italy|Libya
+italy-malta,Italy-Malta,238,1995,2,telegeography-2021,"Telecom Italia Sparkle, GO plc",Italy|Malta
+italy-monaco,Italy-Monaco,162,1995,2,telegeography-2021,"Telecom Italia Sparkle, Monaco Telecom",Italy|Monaco
+ixchel,Ixchel,32,2007 August,2,telegeography-2021,Telmex,Mexico
+jakabare,JAKABARE,1330,2009 November,4,telegeography-2021,Indosat Ooredoo,Indonesia|Singapore
+jasuka,JASUKA,10860,2006,17,telegeography-2021,Telkom Indonesia,Indonesia|Malaysia
+jupiter,JUPITER,14557,2020,5,telegeography-2021,"Amazon Web Services, Facebook, NTT, PLDT, PCCW, Softbank Corp",Japan|Philippines|United States
+jaka2ladema,JaKa2LaDeMa,1700,2010,10,telegeography-2021,Telkom Indonesia,Indonesia
+jakarta-surabaya-cable-system-jayabaya,Jakarta Surabaya Cable System (JAYABAYA),888,2018 December,4,telegeography-2021,Triasmitra,Indonesia
+jakarta-bangka-bintan-batam-singapore-b3js,Jakarta-Bangka-Bintan-Batam-Singapore (B3JS),1031,2012 November,5,telegeography-2021,Moratelindo,Indonesia|Singapore
+jambi-batam-cable-system-jiba,Jambi-Batam Cable System (JIBA),267,2014,2,telegeography-2021,"Moratelindo, XL Axiata, Indosat Ooredoo",Indonesia
+janna,Janna,634,2005 April,4,telegeography-2021,"Regione Sardegne, GTT, Wind Italy, Tiscali",Italy
+japan-information-highway-jih,Japan Information Highway (JIH),5150,1999,7,telegeography-2021,KDDI,Japan
+japan-guam-australia-north-jga-n,Japan-Guam-Australia North (JGA-N),2600,2020 July,2,telegeography-2021,RTI,Japan|United States
+japan-guam-australia-south-jga-s,Japan-Guam-Australia South (JGA-S),7081,2020 March,3,telegeography-2021,"Google, Australia’s Academic and Research Network (AARNET), RTI",Australia|United States
+japan-u-s-cable-network-jus,Japan-U.S. Cable Network (JUS),22682,2001 September,6,telegeography-2021,"Verizon, AT&T, BT, Sprint, Lumen, NTT, Chunghwa Telecom, Tata Communications, Singtel, Telekom Malaysia, Softbank Corp, Orange, SK Broadband, KT, China Telecom, China Unicom, LG Uplus, HKBN Enterprise Solutions, Starhub, PCCW, Telstra, Vodafone, PLDT, KDDI",Japan|United States
+java-bali-cable-system-jbcs,Java Bali Cable System (JBCS),40,2013,2,telegeography-2021,Triasmitra,Indonesia
+java-kalimantan-sulawesi-jakasusi,Java-Kalimantan-Sulawesi (JAKASUSI),1100,2006,3,telegeography-2021,Indosat Ooredoo,Indonesia
+jerry-newton,Jerry Newton,,2007 October,2,telegeography-2021,C&W Networks,Curaçao|Netherlands
+jonah,Jonah,2297,2012 January,2,telegeography-2021,Bezeq International Ltd.,Israel|Italy
+junior,Junior,390,2018 Q3,2,telegeography-2021,Google,Brazil
+kanawa,Kanawa,1746,2019 January,2,telegeography-2021,Orange,French Guiana|Martinique
+kattegat-2,Kattegat 2,75,2001,4,telegeography-2021,TDC Group,Denmark|Sweden
+kerch-strait-cable,Kerch Strait Cable,46,2014 April,2,telegeography-2021,Miranda Media,Russia|Ukraine
+ketchcan1-submarine-fiber-cable-system,KetchCan1 Submarine Fiber Cable System,167,2020 September,2,telegeography-2021,Ketchican Public Utilities,Canada|United States
+kodiak-kenai-fiber-link-kkfl,Kodiak Kenai Fiber Link (KKFL),966,2007 January,6,telegeography-2021,GCI,United States
+korea-japan-cable-network-kjcn,Korea-Japan Cable Network (KJCN),500,2002 March,3,telegeography-2021,"QTNet, KT, Softbank Corp, NTT",Japan|South Korea
+kumul-domestic-submarine-cable-system,Kumul Domestic Submarine Cable System,5457,2019 February,15,telegeography-2021,PNG DataCo Limited,Indonesia|Papua New Guinea
+kuwait-iran,Kuwait-Iran,380,2005 June,4,telegeography-2021,"Telecommunication Infrastructure Company of Iran, Kuwait Ministry of Communications",Iran|Kuwait
+lfon-libyan-fiber-optic-network,LFON (Libyan Fiber Optic Network),1639,1999,13,telegeography-2021,"Libyan Post, Telecommunications and Information Technology Company (LPTIC Holding)",Libya
+la-gomera-el-hierro,La Gomera-El Hierro,,n.a.,2,telegeography-2021,Telefonica,Spain
+labuan-brunei-submarine-cable,Labuan-Brunei Submarine Cable,52,2017 April,2,telegeography-2021,Common Tower Technologies Sdn Bhd,Brunei|Malaysia
+lanis-1,Lanis-1,113,1992,2,telegeography-2021,Vodafone,Isle of Man|United Kingdom
+lanis-2,Lanis-2,67,1992,2,telegeography-2021,Vodafone,Isle of Man|United Kingdom
+lanis-3,Lanis-3,122,1992,2,telegeography-2021,Vodafone,United Kingdom
+latvia-sweden-1-lv-se-1,Latvia-Sweden 1 (LV-SE 1),304,1994,2,telegeography-2021,"Telia Carrier, Tele2, Tet, Telecom Italia Sparkle",Latvia|Sweden
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Lazaro Cardenas-Manzanillo Santiago Submarine Cable System (LCMSSCS),322,2013,3,telegeography-2021,Telmex,Mexico
+lev-submarine-system,Lev Submarine System,2600,1999 March,3,telegeography-2021,Telecom Italia Sparkle,Cyprus|Israel|Italy
+libreville-port-gentil-cable,Libreville-Port Gentil Cable,198,2012 April,2,telegeography-2021,Republic of Gabon,Gabon
+link-1-phase-1,Link 1 Phase-1,368,2003 December,2,telegeography-2021,XL Axiata,Indonesia
+link-1-phase-2,Link 1 Phase-2,94,2005 May,2,telegeography-2021,XL Axiata,Indonesia
+link-2-phase-1,Link 2 Phase-1,281,2004 January,2,telegeography-2021,XL Axiata,Indonesia
+link-2-phase-2,Link 2 Phase-2,221,2005 May,2,telegeography-2021,XL Axiata,Indonesia
+link-3-phase-1,Link 3 Phase-1,275,2003 December,2,telegeography-2021,XL Axiata,Indonesia
+link-3-phase-2,Link 3 Phase-2,342,2005 May,3,telegeography-2021,XL Axiata,Indonesia
+link-4-phase-2,Link 4 Phase-2,300,2005 March,2,telegeography-2021,XL Axiata,Indonesia
+link-5-phase-2,Link 5 Phase-2,365,2005 July,2,telegeography-2021,XL Axiata,Indonesia
+lower-indian-ocean-network-lion,Lower Indian Ocean Network (LION),1060,2009 November,3,telegeography-2021,"Orange, Mauritius Telecom, Orange Madagascar",Madagascar|Mauritius|Réunion
+lower-indian-ocean-network-2-lion2,Lower Indian Ocean Network 2 (LION2),2700,2012 April,2,telegeography-2021,"Orange, Mauritius Telecom, Orange Madagascar, Telkom Kenya, Société Réunionnaise du Radiotéléphone, Emtel, STOI",Kenya|Mayotte
+luwuk-tutuyan-cable-system-ltcs,Luwuk Tutuyan Cable System (LTCS),446,2015,2,telegeography-2021,Telkom Indonesia,Indonesia
+lynn-canal-fiber,Lynn Canal Fiber,138,2016 October,3,telegeography-2021,Alaska Power & Telephone Company (AP&T),United States
+marea,MAREA,6605,2018 May,2,telegeography-2021,"Facebook, Microsoft, Telxius",Spain|United States
+mist,MIST,8100,2022 Q3,5,telegeography-2021,Orient Link,India|Malaysia|Myanmar|Singapore
+mainone,MainOne,7000,2010 July,5,telegeography-2021,MainOne Cable Company,Côte d'Ivoire|Ghana|Nigeria|Portugal|Senegal
+malaysia-cambodia-thailand-mct-cable,Malaysia-Cambodia-Thailand (MCT) Cable,1300,2017 March,3,telegeography-2021,"Telekom Malaysia, Ezecom, Symphony, DTAC",Cambodia|Malaysia|Thailand
+malbec,Malbec,2600,2021 Q1,3,telegeography-2021,"GlobeNet, Facebook",Argentina|Brazil
+maldives-sri-lanka-cable-msc,Maldives Sri Lanka Cable (MSC),,2021 Q1,2,telegeography-2021,"Ooredoo Maldives, Dhiraagu, Dialog Axiata",Maldives|Sri Lanka
+malta-gozo-cable,Malta-Gozo Cable,13,2021,2,telegeography-2021,Government of Malta,Malta
+malta-italy-interconnector,Malta-Italy Interconnector,95,2015,2,telegeography-2021,Government of Malta,Italy|Malta
+manatua,Manatua,3634,2020 July,6,telegeography-2021,"OPT French Polynesia, Samoa Submarine Cable Company, Avaroa Cable Ltd., Telecom Niue",Cook Islands|French Polynesia|Niue|Samoa
+mandji-fiber-optic-cable,Mandji Fiber Optic Cable,50,2021,2,telegeography-2021,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),Equatorial Guinea
+maple-leaf-fibre,Maple Leaf Fibre,290,2021 Q4,2,telegeography-2021,Maple Leaf Fibre,Canada
+mariana-guam-cable,Mariana-Guam Cable,,1997,4,telegeography-2021,IT&E,Northern Mariana Islands|United States
+mataram-kupang-cable-system-mkcs,Mataram Kupang Cable System (MKCS),1318,2011 April,7,telegeography-2021,Telkom Indonesia,Indonesia
+matrix-cable-system,Matrix Cable System,1055,2008 August,3,telegeography-2021,Matrix Networks Pte. Ltd.,Indonesia|Singapore
+mauritius-and-rodrigues-submarine-cable-system-mars,Mauritius and Rodrigues Submarine Cable System (MARS),677,2019 February,2,telegeography-2021,Mauritius Telecom,Mauritius
+maya-1,Maya-1,4400,2000 October,7,telegeography-2021,"Verizon, AT&T, Sprint, Hondutel, Telefonica, Orbitel, Telecom Italia Sparkle, C&W Networks, Embratel, ETB, Axtel, Instituto Costarricense de Electricidad, BICS, Prepa Networks, Orange, Tricom, RSL Telecom, América Móvil",Cayman Islands|Colombia|Costa Rica|Honduras|Mexico|Panama|United States
+med-cable-network,Med Cable Network,1300,2005 October,4,telegeography-2021,Orascom Telecom Holding,Algeria|France
+mednautilus-submarine-system,MedNautilus Submarine System,7000,2001 November,7,telegeography-2021,Telecom Italia Sparkle,Cyprus|Greece|Israel|Italy|Turkey
+melita-1,Melita 1,97,2009 June,2,telegeography-2021,Melita,Italy|Malta
+meltingpot-indianoceanic-submarine-system-metiss,Meltingpot Indianoceanic Submarine System (METISS),3200,2021,4,telegeography-2021,"Telma (Telecom Malagasy), CEB Fibernet, Emtel, Canal+ Telecom, SFR, Zeop (incl. Reunicable)",Madagascar|Mauritius|Réunion|South Africa
+mid-atlantic-crossing-mac,Mid-Atlantic Crossing (MAC),7500,2000 June,3,telegeography-2021,Lumen,United States
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Middle East North Africa (MENA) Cable System/Gulf Bridge International,8000,2014 December,5,telegeography-2021,"Telecom Egypt, Gulf Bridge International",Egypt|Italy|Oman|Saudi Arabia
+miyazaki-okinawa-cable-moc,Miyazaki-Okinawa Cable (MOC),,1997,2,telegeography-2021,KDDI,Japan
+monet,Monet,10556,2017 December,3,telegeography-2021,"Angola Cables, Google, Algar Telecom, Antel Uruguay",Brazil|United States
+moratelindo-international-cable-system-1-mic-1,Moratelindo International Cable System-1 (MIC-1),70,2008 January,2,telegeography-2021,Moratelindo,Indonesia|Singapore
+n0r5ke-viking,N0r5ke Viking,750,2021 Q1,14,telegeography-2021,NOR5KE Fibre AS,Norway
+no-uk,NO-UK,713,2021 Q4,2,telegeography-2021,NO-UK COM AS,Norway|United Kingdom
+national-digital-transmission-network-ndtn,National Digital Transmission Network (NDTN),1400,1999 March,6,telegeography-2021,Telecoms Infrastructure Corporation of the Philippines (TelicPhil),Philippines
+nationwide-submarine-cable-ooredoo-maldives-nascom,Nationwide Submarine Cable Ooredoo Maldives (NaSCOM),1136,2017 January,6,telegeography-2021,Ooredoo Maldives,Maldives
+natitua,Natitua,2400,2018 December,11,telegeography-2021,OPT French Polynesia,French Polynesia
+natitua-sud,Natitua Sud,820,2022 Q3,3,telegeography-2021,OPT French Polynesia,French Polynesia
+nelson-levin,Nelson-Levin,212,2001 June,2,telegeography-2021,Spark New Zealand,New Zealand
+new-cross-pacific-ncp-cable-system,New Cross Pacific (NCP) Cable System,13618,2018 May,7,telegeography-2021,"China Telecom, China Unicom, Chunghwa Telecom, KT, China Mobile, Microsoft, Softbank Corp",China|Japan|South Korea|Taiwan|United States
+nigeria-cameroon-submarine-cable-system-ncscs,Nigeria Cameroon Submarine Cable System (NCSCS),1100,2015 December,2,telegeography-2021,Camtel,Cameroon|Nigeria
+nordbalt,NordBalt,400,2016,2,telegeography-2021,"Lietuvos Energija, Svenska Kraftnät",Lithuania|Sweden
+north-west-cable-system,North West Cable System,2100,2016 September,3,telegeography-2021,Vocus Communications,Australia
+northstar,NorthStar,3229,1999 October,4,telegeography-2021,Alaska Communications,United States
+northern-lights,Northern Lights,67,2008,2,telegeography-2021,BT,United Kingdom
+nunavut-undersea-fibre-optic-network-system,Nunavut Undersea Fibre Optic Network System,1700,2023,4,telegeography-2021,Government of Nunavut,Canada|Greenland
+nzadi-cable-system,Nzadi Cable System,,2023 Q4,3,telegeography-2021,"Kakike, Lda., KumoxiCom, Lda.",Angola
+omranepeg-cable-system,OMRAN/EPEG Cable System,600,2013 Q1,5,telegeography-2021,"Omantel, Vodafone",Iran|Oman
+oteglobe-kokkini-bari,OTEGLOBE Kokkini-Bari,700,2004 June,2,telegeography-2021,OTEGLOBE,Greece|Italy
+okinawa-cellular-cable,Okinawa Cellular Cable,760,2020 April,2,telegeography-2021,Okinawa Cellular Telephone Company,Japan
+oman-australia-cable-oac,Oman Australia Cable (OAC),9800,2021 December,2,telegeography-2021,SUB.CO,Australia|Oman
+oran-valencia-orval,Oran-Valencia (ORVAL),770,2020 December,3,telegeography-2021,Algerie Telecom,Algeria|Spain
+orient-express,Orient Express,1300,2021,3,telegeography-2021,"du, Wi-Tribe (Pakistan)",Pakistan|United Arab Emirates
+pasuli,PASULI,40,2019 August,2,telegeography-2021,"XL Axiata, FiberStar",Indonesia
+peace-cable,PEACE Cable,15000,2021 Q1,13,telegeography-2021,Peace Cable International Network Co. Ltd.,Cyprus|Djibouti|Egypt|France|Kenya|Pakistan|Seychelles|Somalia
+penbal-5,PENBAL-5,309,1994,2,telegeography-2021,Telefonica,Spain
+pgascom,PGASCOM,264,2010,3,telegeography-2021,PGASCOM,Indonesia|Singapore
+pipe-pacific-cable-1-ppc-1,PIPE Pacific Cable-1 (PPC-1),6900,2009 October,3,telegeography-2021,TPG,Australia|Papua New Guinea|United States
+pldt-domestic-fiber-optic-network-dfon,PLDT Domestic Fiber Optic Network (DFON),11100,1997,13,telegeography-2021,PLDT,Philippines
+png-lng,PNG LNG,200,2014,2,telegeography-2021,Telikom Papua New Guinea,Papua New Guinea
+poseidon,POSEIDON,800,2014 April,2,telegeography-2021,"Ocean Specialists, Inc (OSI)",Cyprus
+pacific-cable,Pacific Cable,7300,2021,5,telegeography-2021,"América Móvil, Telxius",Chile|Ecuador|Guatemala|Peru
+pacific-caribbean-cable-system-pccs,Pacific Caribbean Cable System (PCCS),6000,2015 September,9,telegeography-2021,"C&W Networks, Telconet, Setar, United Telecommunication Services (UTS), Telxius",Aruba|Colombia|Curaçao|Ecuador|Panama|United States|Virgin Islands (U.K.)
+pacific-crossing-1-pc-1,Pacific Crossing-1 (PC-1),21000,1999 December,4,telegeography-2021,Pacific Crossing,Japan|United States
+pacific-light-cable-network-plcn,Pacific Light Cable Network (PLCN),11806,2020 April,3,telegeography-2021,"Google, Facebook",Philippines|Taiwan|United States
+palapa-ring-east,Palapa Ring East,6300,2019 October,18,telegeography-2021,"Indonesian Government, Moratelindo, Telekom PT SmartFren",Indonesia
+palapa-ring-middle,Palapa Ring Middle,2100,2018 December,20,telegeography-2021,Indonesian Government,Indonesia
+palapa-ring-west,Palapa Ring West,1980,2018 February,5,telegeography-2021,Indonesian Government,Indonesia
+palawa-iloilo-cable-system,Palawa-Iloilo Cable System,300,2014 January,2,telegeography-2021,PLDT,Philippines
+pan-american-pan-am,Pan American (PAN-AM),7225,1999 February,10,telegeography-2021,"AT&T, Telefonica del Peru, Softbank Corp, Telecom Italia Sparkle, CANTV, Tata Communications, Telefónica de Argentina, Telstra, Verizon, Entel Chile, Telecom Argentina, Telconet, Instituto Costarricense de Electricidad, C&W Networks, Embratel, CNT",Aruba|Chile|Colombia|Ecuador|Panama|Peru|United States|Venezuela|Virgin Islands (U.S.)
+pan-european-crossing-uk-belgium,Pan European Crossing (UK-Belgium),117,1999,2,telegeography-2021,Lumen,Belgium|United Kingdom
+pan-european-crossing-uk-ireland,Pan European Crossing (UK-Ireland),495,2000 September,4,telegeography-2021,Lumen,Ireland|United Kingdom
+pan-american-crossing-pac,Pan-American Crossing (PAC),10000,2000 March,5,telegeography-2021,Lumen,Costa Rica|Mexico|Panama|United States
+paniolo-cable-network,Paniolo Cable Network,576,2009,7,telegeography-2021,Paniolo Cable Company,United States
+pencan-8,Pencan-8,1400,2011,2,telegeography-2021,Telefonica,Spain
+pencan-9,Pencan-9,1398,n.a.,2,telegeography-2021,Telefonica,Spain
+persona,Persona,800,2008,2,telegeography-2021,EastLink,Canada
+picot-1,Picot-1,,2008,3,telegeography-2021,OPT,New Caledonia
+pishgaman-oman-iran-poi-network,Pishgaman Oman Iran (POI) Network,400,2012 June,3,telegeography-2021,Pishgaman Kavir,Iran|Oman
+polar-circle-cable,Polar Circle Cable,1004,2007 September,7,telegeography-2021,KystTele,Norway
+prat,Prat,3500,2020 Q2,7,telegeography-2021,Gtd Teleductos S.A.,Chile
+qatar-u-a-e-submarine-cable-system,Qatar-U.A.E. Submarine Cable System,100,2004 December,4,telegeography-2021,"Etisalat, Ooredoo",Qatar|United Arab Emirates
+quintillion-subsea-cable-network,Quintillion Subsea Cable Network,1900,2017 December,6,telegeography-2021,Quintillion,United States
+rockabill,Rockabill,221,2019 November,2,telegeography-2021,euNetworks,Ireland|United Kingdom
+russia-japan-cable-network-rjcn,Russia-Japan Cable Network (RJCN),1800,2008 September,2,telegeography-2021,"Rostelecom, KDDI",Japan|Russia
+rnne-rdvig,Rønne-Rødvig,153,1989,2,telegeography-2021,TDC Group,Denmark
+s-u-b-cable-system,S-U-B Cable System,2009,2008,3,telegeography-2021,Telkom Indonesia,Indonesia
+safe,SAFE,13500,2002 April,6,telegeography-2021,"Orange, Telekom Malaysia, Telkom South Africa, Tata Communications, AT&T, Camtel, Angola Telecom, Ghana Telecommunications Company, Mauritius Telecom, Verizon, NATCOM (Nigeria), OPT, Telefonica, BICS, China Telecom, Chunghwa Telecom, Cote d’Ivoire Telecom, Maroc Telecom, KT, KPN, Singtel, Sprint, Telecom Italia Sparkle, Telecom Namibia, Telstra, PCCW, Sonatel, Neotel, Vodafone",India|Malaysia|Mauritius|Réunion|South Africa
+sat-3wasc,SAT-3/WASC,14350,2002 April,12,telegeography-2021,"Telkom South Africa, Tata Communications, AT&T, BT, Camtel, Angola Telecom, Ghana Telecommunications Company, Mauritius Telecom, Verizon, NATCOM (Nigeria), OPT, BICS, Sprint, Singtel, KPN, Orange, Telecom Italia Sparkle, Telecom Namibia, Telekom Malaysia, Telxius, China Telecom, Chunghwa Telecom, Cote d’Ivoire Telecom, Deutsche Telekom, Maroc Telecom, KT, Altice Portugal, PCCW, Telstra, Cyta, Neotel, Vodafone, Benin Telecoms",Angola|Benin|Cameroon|Côte d'Ivoire|Gabon|Ghana|Nigeria|Portugal|Senegal|South Africa|Spain
+sea-us,SEA-US,14500,2017 August,7,telegeography-2021,"RTI, Globe Telecom, Hawaiian Telcom, GTA TeleGuam, Telin",Indonesia|Micronesia|Palau|Philippines|United States
+seacomtata-tgn-eurasia,SEACOM/Tata TGN-Eurasia,15000,2009 July,8,telegeography-2021,"Tata Communications, SEACOM",Djibouti|Egypt|India|Kenya|Mozambique|Saudi Arabia|South Africa|Tanzania
+sealink,SEALink,345,2025,2,telegeography-2021,Alaska Power & Telephone Company (AP&T),United States
+seax-1,SEAX-1,250,2018 May,3,telegeography-2021,SEAX,Indonesia|Malaysia|Singapore
+shefa-2,SHEFA-2,1000,2008 March,7,telegeography-2021,Shefa,Faroe Islands|United Kingdom
+sjjk,SJJK,543,2008 December,5,telegeography-2021,XL Axiata,Indonesia
+smpcs-packet-1,SMPCS Packet-1,3156,2015,12,telegeography-2021,Telkom Indonesia,Indonesia
+smpcs-packet-2,SMPCS Packet-2,3498,2015,11,telegeography-2021,Telkom Indonesia,Indonesia
+saba-statia-cable-system-sscs,"Saba, Statia Cable System (SSCS)",198,2013,5,telegeography-2021,Government of the Netherlands,Saint Barthélemy|Saint Kitts and Nevis|Saint Martin|Sint Eustatius and Saba
+sakhalin-kuril-islands-cable,Sakhalin-Kuril Islands Cable,940,2019 March,4,telegeography-2021,Rostelecom,Russia
+samoa-american-samoa-sas,Samoa-American Samoa (SAS),250,2009 May,2,telegeography-2021,"American Samoa Government, Elandia",American Samoa|Samoa
+san-andres-isla-tolu-submarine-cable-sait,San Andres Isla Tolu Submarine Cable (SAIT),826,2010 December,2,telegeography-2021,Energía Integral Andina,Colombia
+saudi-arabia-sudan-1-sas-1,Saudi Arabia-Sudan-1 (SAS-1),333,2003 April,2,telegeography-2021,"Sudan Telecom Company, Saudi Telecom, The Arab Investment Company",Saudi Arabia|Sudan
+saudi-arabia-sudan-2-sas-2,Saudi Arabia-Sudan-2 (SAS-2),330,2011 July,2,telegeography-2021,"Sudan Telecom Company, Saudi Telecom",Saudi Arabia|Sudan
+scandinavian-ring-north,Scandinavian Ring North,5,2000,2,telegeography-2021,Telia Carrier,Denmark|Sweden
+scandinavian-ring-south,Scandinavian Ring South,21,2000,2,telegeography-2021,Telia Carrier,Denmark|Sweden
+scotland-northern-ireland-1,Scotland-Northern Ireland 1,35,1989,2,telegeography-2021,BT,United Kingdom
+scotland-northern-ireland-2,Scotland-Northern Ireland 2,82,1993,2,telegeography-2021,BT,United Kingdom
+seamewe-3,SeaMeWe-3,39000,1999 September,38,telegeography-2021,"Orange, BT, KDDI, Singtel, Telecom Italia Sparkle, Telekom Malaysia, OTEGLOBE, AT&T, BICS, CAT Telecom Public Company Limited, China Telecom, Deutsche Telekom, Etisalat, Telecom Egypt, CTM, Indosat Ooredoo, Jabatan Telecom Brunei, KT, Altice Portugal, Maroc Telecom, PLDT, Saudi Telecom, Sri Lanka Telecom, Turk Telekom, Tata Communications, Chunghwa Telecom, Verizon, KPN, Telekom Austria, Singtel Optus, Telstra, VNPT International, Omantel, PCCW, Pakistan Telecommunications Company Ltd., Cyta, eir, LG Uplus, Softbank Corp, Telkom South Africa, Rostelecom, Orange Polska, Singtel Optus, Telecom Argentina, Myanmar Post and Telecommunication (MPT), Vocus Communications, Djibouti Telecom, Embratel, Vodafone, Turk Telekom International, Ukrtelecom, Singtel Optus, Tunisia Telecom",Australia|Belgium|Brunei|China|Cyprus|Djibouti|Egypt|France|Greece|India|Indonesia|Italy|Japan|Malaysia|Morocco|Myanmar|Oman|Pakistan|Philippines|Portugal|Saudi Arabia|Singapore|South Korea|Sri Lanka|Taiwan|Thailand|Turkey|United Arab Emirates|United Kingdom|Vietnam
+seamewe-4,SeaMeWe-4,20000,2005 December,16,telegeography-2021,"Bangladesh Submarine Cable Company Limited (BSCCL), Orange, Singtel, Telecom Italia Sparkle, Tata Communications, Telekom Malaysia, Airtel (Bharti), Sri Lanka Telecom, Etisalat, Saudi Telecom, CAT Telecom Public Company Limited, Tunisia Telecom, Verizon, Pakistan Telecommunications Company Ltd., Telecom Egypt, Algerie Telecom",Algeria|Bangladesh|Egypt|France|India|Italy|Malaysia|Pakistan|Saudi Arabia|Singapore|Sri Lanka|Thailand|Tunisia|United Arab Emirates
+seamewe-5,SeaMeWe-5,20000,2016 December,18,telegeography-2021,"Telekom Malaysia, Bangladesh Submarine Cable Company Limited (BSCCL), China Mobile, China Telecom, Orange, Myanmar Post and Telecommunication (MPT), Saudi Telecom, Sri Lanka Telecom, Telkom Indonesia, Singtel, Telecom Italia Sparkle, TeleYemen, China Unicom, du, Turk Telekom International, TransWorld Associates (Pvt.) Limited, Ooredoo, Telecom Egypt, Djibouti Telecom",Bangladesh|Djibouti|Egypt|France|Indonesia|Italy|Malaysia|Myanmar|Oman|Pakistan|Saudi Arabia|Singapore|Sri Lanka|Turkey|United Arab Emirates|Yemen
+seabras-1,Seabras-1,10800,2017 September,2,telegeography-2021,"Seaborn Networks, Telecom Italia Sparkle",Brazil|United States
+segunda-fos-canal-de-chacao,Segunda FOS Canal de Chacao,40,2015 January,2,telegeography-2021,Gtd Teleductos S.A.,Chile
+senegal-horn-of-africa-regional-express-share-cable,Senegal Horn of Africa Regional Express (SHARE) Cable,720,2021 Q1,2,telegeography-2021,n.a.,Cape Verde|Senegal
+seychelles-to-east-africa-system-seas,Seychelles to East Africa System (SEAS),1930,2012 August,2,telegeography-2021,Seychelles Cable System Ltd.,Seychelles|Tanzania
+silphium,Silphium,425,2013 January,2,telegeography-2021,Libya International Telecommunications Company,Greece|Libya
+singapore-myanmar-sigmar,Singapore-Myanmar (SIGMAR),2227,2021,2,telegeography-2021,Campana Group,Myanmar|Singapore
+sint-maarten-puerto-rico-network-one-smpr-1,Sint Maarten Puerto Rico Network One (SMPR-1),375,2004 December,3,telegeography-2021,"TelEm Group, Dauphin Telecom",Saint Martin|Sint Maarten|United States
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,4,2018,2,telegeography-2021,Etisalat,United Arab Emirates
+sirius-north,Sirius North,147,1999,2,telegeography-2021,Virgin Media Business,United Kingdom
+sirius-south,Sirius South,219,1999,2,telegeography-2021,Virgin Media Business,Ireland|United Kingdom
+sistem-kabel-rakyat-1malaysia-skr1m,Sistem Kabel Rakyat 1Malaysia (SKR1M),3800,2017 September,6,telegeography-2021,"Telekom Malaysia, TIME dotCom",Malaysia
+skagenfiber-west,Skagenfiber West,170,2020 November,2,telegeography-2021,Altibox (inc. Lyse Tele),Denmark|Norway
+skagerrak-4,Skagerrak 4,137,2014 December,2,telegeography-2021,Statnett,Denmark|Norway
+solas,Solas,232,1999 April,2,telegeography-2021,"eir, Vodafone",Ireland|United Kingdom
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Sorsogon-Samar Submarine Fiber Optical Interconnection Project (SSSFOIP),21,2019,2,telegeography-2021,National Grid Corporation of the Philippines,Philippines
+south-america-1-sam-1,South America-1 (SAm-1),25000,2001 March,16,telegeography-2021,Telxius,Argentina|Brazil|Chile|Colombia|Dominican Republic|Ecuador|Guatemala|Peru|United States
+south-american-crossing-sac,South American Crossing (SAC),20000,2000 September,11,telegeography-2021,"Telecom Italia Sparkle, Lumen",Argentina|Brazil|Chile|Colombia|Panama|Peru|United States|Venezuela
+south-atlantic-cable-system-sacs,South Atlantic Cable System (SACS),6165,2018 September,2,telegeography-2021,Angola Cables,Angola|Brazil
+south-atlantic-inter-link-sail,South Atlantic Inter Link (SAIL),5800,2018 September,2,telegeography-2021,"Camtel, China Unicom",Brazil|Cameroon
+southeast-asia-japan-cable-sjc,Southeast Asia Japan Cable (SJC),8900,2013 June,6,telegeography-2021,"Globe Telecom, Google, KDDI, Telkom Indonesia, Singtel, China Telecom, TOT, China Mobile, Chunghwa Telecom, Unified National Networks (UNN)",Brunei|China|Japan|Philippines|Singapore
+southeast-asia-japan-cable-2-sjc2,Southeast Asia-Japan Cable 2 (SJC2),10500,2021 Q4,10,telegeography-2021,"China Mobile, Chunghwa Telecom, Facebook, KDDI, Singtel, SK Broadband, VNPT-Vinaphone, True Corporation, Telin, DongHwa Telecom",China|Japan|Singapore|South Korea|Taiwan|Thailand|Vietnam
+southern-caribbean-fiber,Southern Caribbean Fiber,3000,2006 September,16,telegeography-2021,Digicel,Antigua and Barbuda|Barbados|Dominica|Grenada|Guadeloupe|Martinique|Montserrat|Saint Barthélemy|Saint Kitts and Nevis|Saint Lucia|Saint Martin|Saint Vincent and the Grenadines|Trinidad and Tobago|United States
+southern-cross-cable-network-sccn,Southern Cross Cable Network (SCCN),30500,2000 November,9,telegeography-2021,Southern Cross Cable Network,Australia|Fiji|New Zealand|United States
+southern-cross-next,Southern Cross NEXT,13700,2022 Q2,8,telegeography-2021,Southern Cross Cable Network,Australia|Fiji|Kiribati|New Zealand|Samoa|Tokelau|United States
+st-pierre-and-miquelon-cable,St. Pierre and Miquelon Cable,200,2018 May,4,telegeography-2021,French Authority of St. Pierre and Miquelon,Canada|Saint Pierre and Miquelon
+st-thomas-st-croix-system,St. Thomas-St. Croix System,183,2013 July,7,telegeography-2021,"Virgin Islands Next Generation Networks, Inc.",United States|Virgin Islands (U.S.)
+strategic-evolution-underwater-link-seul,Strategic Evolution Underwater Link (SEUL),24,2017 July,2,telegeography-2021,Belize Telemedia,Belize
+subcan-link-1,Subcan Link 1,143,2002 May,2,telegeography-2021,Cable Submarine de Canarias,Spain
+subcan-link-2,Subcan Link 2,136,2002 May,2,telegeography-2021,Cable Submarine de Canarias,Spain
+sumatera-bangka-cable-system-sbcs,Sumatera Bangka Cable System (SBCS),57,2014,2,telegeography-2021,Telkom Indonesia,Indonesia
+suriname-guyana-submarine-cable-system-sg-scs,Suriname-Guyana Submarine Cable System (SG-SCS),1249,2010 July,3,telegeography-2021,"Guyana Telephone and Telegraph (GT&T), Telesur",Guyana|Suriname|Trinidad and Tobago
+svalbard-undersea-cable-system,Svalbard Undersea Cable System,2714,2004 January,2,telegeography-2021,Telenor,Norway
+swansea-brean,Swansea-Brean,97,1993,2,telegeography-2021,Vodafone,United Kingdom
+sweden-estonia-ee-s-1,Sweden-Estonia (EE-S 1),240,1995 June,3,telegeography-2021,"Telia Carrier, Telia Eesti, GN Great Nordic",Estonia|Sweden
+sweden-finland-4-sfs-4,Sweden-Finland 4 (SFS-4),254,1993 December,2,telegeography-2021,"Telia Carrier, Elisa Corporation",Finland|Sweden
+sweden-finland-link-sfl,Sweden-Finland Link (SFL),142,1994,2,telegeography-2021,"Telia Carrier, Elisa Corporation",Finland|Sweden
+sweden-latvia,Sweden-Latvia,391,2005 January,3,telegeography-2021,Latvia State Radio and Television Centre,Latvia|Sweden
+sxs,SxS,10400,2022,2,telegeography-2021,RTI,United States
+te-northtgn-eurasiaseacomalexandrosmedex,TE North/TGN-Eurasia/SEACOM/Alexandros/Medex,3634,2011 July,4,telegeography-2021,"Telecom Egypt, Cyta, SEACOM, Tata Communications, Algerie Telecom, PCCW",Algeria|Cyprus|Egypt|France
+terra-sw,TERRA SW,,2012,11,telegeography-2021,GCI,United States
+topaz,TOPAZ,,2022,3,telegeography-2021,Google,Canada|Japan
+transcan-2,TRANSCAN-2,238,1990,4,telegeography-2021,Telefonica,Spain
+transcan-3,TRANSCAN-3,210,2000,2,telegeography-2021,Telefonica,Spain
+tt-1,TT-1,48,2012 August,2,telegeography-2021,"C&W Networks, TSTT, Alliance Telecommunications",Trinidad and Tobago
+taba-aqaba,Taba-Aqaba,13,1998,2,telegeography-2021,National Electric Power Company of Jordan,Egypt|Jordan
+taino-carib,Taino-Carib,186,1992 December,3,telegeography-2021,"AT&T, Embratel, Orange, C&W Networks",United States
+taiwan-strait-express-1-tse-1,Taiwan Strait Express-1 (TSE-1),260,2013 January,2,telegeography-2021,"China Unicom, Far Eastone Telecommunications, Taiwan Mobile, Chunghwa Telecom, China Mobile, Taiwan International Gateway Corporation",China|Taiwan
+tamares-north,Tamares North,345,2012 January,2,telegeography-2021,Tamares UK Group,Cyprus|Israel
+tampnet-offshore-foc-network,Tampnet Offshore FOC Network,1751,1999 July,5,telegeography-2021,Tampnet,Norway|United Kingdom
+tangerine,Tangerine,112,2000 September,2,telegeography-2021,Lumen,Belgium|United Kingdom
+tanjun-pandan-sungai-kakap-cable-system,Tanjun Pandan-Sungai Kakap Cable System,348,2019 Q4,2,telegeography-2021,Moratelindo,Indonesia
+tannat,Tannat,2000,2018 Q1,3,telegeography-2021,"Google, Antel Uruguay",Argentina|Brazil|Uruguay
+tarakan-selor-cable-system-tscs,Tarakan Selor Cable System (TSCS),83,2014,2,telegeography-2021,Telkom Indonesia,Indonesia
+tasman-global-access-tga-cable,Tasman Global Access (TGA) Cable,2288,2017 March,2,telegeography-2021,"Spark New Zealand, Vodafone, Telstra",Australia|New Zealand
+tata-tgn-atlantic,Tata TGN-Atlantic,13000,2001 June,2,telegeography-2021,Tata Communications,United Kingdom|United States
+tata-tgn-gulf,Tata TGN-Gulf,4031,2012 February,6,telegeography-2021,Tata Communications,Bahrain|Oman|Qatar|Saudi Arabia|United Arab Emirates
+tata-tgn-intra-asia-tgn-ia,Tata TGN-Intra Asia (TGN-IA),6700,2009 March,4,telegeography-2021,Tata Communications,China|Philippines|Singapore|Vietnam
+tata-tgn-pacific,Tata TGN-Pacific,22300,2002 December,5,telegeography-2021,Tata Communications,Japan|United States
+tata-tgn-tata-indicom,Tata TGN-Tata Indicom,3175,2004 November,2,telegeography-2021,Tata Communications,India|Singapore
+tata-tgn-western-europe,Tata TGN-Western Europe,3578,2002 June,3,telegeography-2021,Tata Communications,Portugal|Spain|United Kingdom
+telstra-endeavour,Telstra Endeavour,9125,2008 September,2,telegeography-2021,Telstra,Australia|United States
+tenerife-gran-canaria,Tenerife-Gran Canaria,110,1999,2,telegeography-2021,Telefonica,Spain
+tenerife-la-gomera-la-palma,Tenerife-La Gomera-La Palma,222,1994,3,telegeography-2021,Telefonica,Spain
+tenerife-la-palma,Tenerife-La Palma,,n.a.,2,telegeography-2021,Telefonica,Spain
+thailand-indonesia-singapore-tis,Thailand-Indonesia-Singapore (TIS),968,2003 December,3,telegeography-2021,"Singtel, CAT Telecom Public Company Limited, Telkom Indonesia",Indonesia|Singapore|Thailand
+the-east-african-marine-system-teams,The East African Marine System (TEAMS),4900,2009 October,2,telegeography-2021,"Etisalat, TEAMS Ltd.",Kenya|United Arab Emirates
+tobrok-emasaed-cable-system,Tobrok-Emasaed Cable System,178,2010 October,2,telegeography-2021,Libya International Telecommunications Company,Libya
+tokelau-submarine-cable,Tokelau Submarine Cable,250,2021,3,telegeography-2021,Teletok,Tokelau
+tonga-cable,Tonga Cable,827,2013 August,2,telegeography-2021,"Tonga Communications Corporation, Government of Tonga, Digicel Tonga",Fiji|Tonga
+tonga-domestic-cable-extension-tdce,Tonga Domestic Cable Extension (TDCE),410,2018 January,3,telegeography-2021,Tonga Cable Limited,Tonga
+trans-caspian-fiber-optic-tcfo,Trans Caspian Fiber Optic (TCFO),341,2022 Q4,2,telegeography-2021,"Azertelecom, Transtelecom Kazakhstan",Azerbaijan|Kazakhstan
+trans-pacific-express-tpe-cable-system,Trans-Pacific Express (TPE) Cable System,17000,2008 August,6,telegeography-2021,"China Telecom, China Unicom, Chunghwa Telecom, KT, Verizon, NTT, AT&T",China|Japan|South Korea|Taiwan|United States
+transworld-tw1,Transworld (TW1),1300,2006 June,3,telegeography-2021,TransWorld Associates (Pvt.) Limited,Oman|Pakistan|United Arab Emirates
+trapani-kelibia,Trapani-Kelibia,209,1995 November,2,telegeography-2021,"Tunisia Telecom, Telecom Italia Sparkle",Italy|Tunisia
+tui-samoa,Tui-Samoa,1693,2018 February,6,telegeography-2021,Samoa Submarine Cable Company,Fiji|Samoa|Wallis and Futuna
+turcyos-1,Turcyos-1,110,1993,2,telegeography-2021,Turk Telekom,Cyprus|Turkey
+turcyos-2,Turcyos-2,213,2011 March,2,telegeography-2021,Turk Telekom,Cyprus|Turkey
+tverrlinken,Tverrlinken,,2010,4,telegeography-2021,KystTele,Norway
+uae-iran,UAE-Iran,170,1992,2,telegeography-2021,"Etisalat, Telecommunication Infrastructure Company of Iran",Iran|United Arab Emirates
+ugarit,UGARIT,239,1995 February,2,telegeography-2021,"Cyta, Tata Communications, Telecom Italia Sparkle, BT, Telekom Austria, AT&T, Orange, Lebanese Ministry of Telecommunications, Singtel, Telefonica, Syrian Telecommunications Establishment, Vivacom, Deutsche Telekom",Cyprus|Syria
+uk-channel-islands-7,UK-Channel Islands-7,124,1994 January,2,telegeography-2021,"Sure, BT",Guernsey|United Kingdom
+uk-channel-islands-8,UK-Channel Islands-8,237,1994 January,2,telegeography-2021,n.a.,Jersey|United Kingdom
+ultramar-ge,Ultramar GE,263,2021,2,telegeography-2021,GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial),Equatorial Guinea|Sao Tome and Principe
+ulysses-2,Ulysses 2,,1997,2,telegeography-2021,Verizon,Netherlands|United Kingdom
+unisur,Unisur,265,1995 March,2,telegeography-2021,"Antel Uruguay, Telxius",Argentina|Uruguay
+unityeac-pacific,Unity/EAC-Pacific,9620,2010 March,2,telegeography-2021,"Telstra, Google, Singtel, KDDI, Airtel (Bharti), TIME dotCom",Japan|United States
+venezuelan-festoon,Venezuelan Festoon,1200,1998,12,telegeography-2021,CANTV,Venezuela
+wall-li,WALL-LI,60,2021 Q3,2,telegeography-2021,Crosslake Fibre,United States
+west-african-cable-system-wacs,West African Cable System (WACS),14530,2012 May,13,telegeography-2021,"Broadband Infraco, Telkom South Africa, Vodacom DRC, MTN, Tata Communications, Togo Telecom, Telecom Namibia, Office Congolais de Poste et Télécommunication, Congo Telecom, Altice Portugal, Angola Cables, Cape Verde Telecom, Vodafone Espana, Vodafone, Neotel, PCCW, Camtel, Vodafone Ghana","Angola|Cameroon|Cape Verde|Congo, Dem. Rep.|Congo, Rep.|Côte d'Ivoire|Ghana|Namibia|Nigeria|Portugal|South Africa|Spain|Togo"
+x-link-submarine-cable,X-Link Submarine Cable,775,2019 December,4,telegeography-2021,E-Networks Inc.,Barbados|Grenada|Guyana|Suriname
+yellow,Yellow,7001,2000 September,2,telegeography-2021,Lumen,United Kingdom|United States
+i2i-cable-network-i2icn,i2i Cable Network (i2icn),3200,2002 April,2,telegeography-2021,Airtel (Bharti),India|Singapore
+sea2shore,sea2shore,32,2016,2,telegeography-2021,National Grid,United States

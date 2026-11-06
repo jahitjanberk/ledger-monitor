@@ -1,0 +1,2653 @@
+date,chokepoint,portid,transits,tanker,container,dry_bulk,general_cargo,roro,capacity_dwt,source
+2025-01-01,Bab el-Mandeb Strait,chokepoint4,46,16,5,18,5,2,1908742,portwatch
+2025-01-02,Bab el-Mandeb Strait,chokepoint4,36,7,10,11,8,0,680433,portwatch
+2025-01-03,Bab el-Mandeb Strait,chokepoint4,21,4,6,3,7,1,202851,portwatch
+2025-01-04,Bab el-Mandeb Strait,chokepoint4,25,5,8,10,2,0,1276775,portwatch
+2025-01-05,Bab el-Mandeb Strait,chokepoint4,27,9,4,9,4,1,1509049,portwatch
+2025-01-06,Bab el-Mandeb Strait,chokepoint4,32,10,7,11,4,0,789746,portwatch
+2025-01-07,Bab el-Mandeb Strait,chokepoint4,26,10,3,11,1,1,1185532,portwatch
+2025-01-08,Bab el-Mandeb Strait,chokepoint4,40,13,9,9,8,1,1048863,portwatch
+2025-01-09,Bab el-Mandeb Strait,chokepoint4,27,9,6,8,3,1,893845,portwatch
+2025-01-10,Bab el-Mandeb Strait,chokepoint4,34,15,6,8,5,0,882554,portwatch
+2025-01-11,Bab el-Mandeb Strait,chokepoint4,29,9,6,10,4,0,800046,portwatch
+2025-01-12,Bab el-Mandeb Strait,chokepoint4,44,13,11,14,5,1,1159909,portwatch
+2025-01-13,Bab el-Mandeb Strait,chokepoint4,50,15,12,17,6,0,1710344,portwatch
+2025-01-14,Bab el-Mandeb Strait,chokepoint4,23,8,6,6,3,0,843999,portwatch
+2025-01-15,Bab el-Mandeb Strait,chokepoint4,39,11,12,8,8,0,638102,portwatch
+2025-01-16,Bab el-Mandeb Strait,chokepoint4,30,11,9,6,4,0,794830,portwatch
+2025-01-17,Bab el-Mandeb Strait,chokepoint4,30,9,6,13,2,0,1185513,portwatch
+2025-01-18,Bab el-Mandeb Strait,chokepoint4,19,6,2,8,3,0,805656,portwatch
+2025-01-19,Bab el-Mandeb Strait,chokepoint4,35,17,7,10,1,0,1614874,portwatch
+2025-01-20,Bab el-Mandeb Strait,chokepoint4,28,8,5,12,3,0,570677,portwatch
+2025-01-21,Bab el-Mandeb Strait,chokepoint4,35,10,12,9,4,0,997584,portwatch
+2025-01-22,Bab el-Mandeb Strait,chokepoint4,29,11,4,11,2,1,1023516,portwatch
+2025-01-23,Bab el-Mandeb Strait,chokepoint4,39,12,5,17,5,0,1489010,portwatch
+2025-01-24,Bab el-Mandeb Strait,chokepoint4,38,15,9,11,2,1,1740894,portwatch
+2025-01-25,Bab el-Mandeb Strait,chokepoint4,28,10,11,5,1,1,591081,portwatch
+2025-01-26,Bab el-Mandeb Strait,chokepoint4,28,9,10,4,5,0,980556,portwatch
+2025-01-27,Bab el-Mandeb Strait,chokepoint4,38,15,8,10,4,1,1428070,portwatch
+2025-01-28,Bab el-Mandeb Strait,chokepoint4,29,11,5,7,6,0,1257226,portwatch
+2025-01-29,Bab el-Mandeb Strait,chokepoint4,35,10,10,13,2,0,1239590,portwatch
+2025-01-30,Bab el-Mandeb Strait,chokepoint4,27,9,10,3,4,1,976438,portwatch
+2025-01-31,Bab el-Mandeb Strait,chokepoint4,32,11,6,8,6,1,885629,portwatch
+2025-02-01,Bab el-Mandeb Strait,chokepoint4,34,9,8,10,7,0,982267,portwatch
+2025-02-02,Bab el-Mandeb Strait,chokepoint4,37,10,10,10,6,1,1365454,portwatch
+2025-02-03,Bab el-Mandeb Strait,chokepoint4,21,7,4,7,3,0,714072,portwatch
+2025-02-04,Bab el-Mandeb Strait,chokepoint4,30,10,6,9,4,1,1030449,portwatch
+2025-02-05,Bab el-Mandeb Strait,chokepoint4,27,9,7,4,7,0,716403,portwatch
+2025-02-06,Bab el-Mandeb Strait,chokepoint4,37,13,7,12,4,1,1151788,portwatch
+2025-02-07,Bab el-Mandeb Strait,chokepoint4,37,12,6,12,5,2,1345031,portwatch
+2025-02-08,Bab el-Mandeb Strait,chokepoint4,32,10,8,7,6,1,555685,portwatch
+2025-02-09,Bab el-Mandeb Strait,chokepoint4,33,11,6,10,5,1,1265507,portwatch
+2025-02-10,Bab el-Mandeb Strait,chokepoint4,36,11,9,11,5,0,983034,portwatch
+2025-02-11,Bab el-Mandeb Strait,chokepoint4,30,11,6,8,4,1,1053344,portwatch
+2025-02-12,Bab el-Mandeb Strait,chokepoint4,20,6,4,7,3,0,693867,portwatch
+2025-02-13,Bab el-Mandeb Strait,chokepoint4,39,17,11,8,2,1,1562919,portwatch
+2025-02-14,Bab el-Mandeb Strait,chokepoint4,36,16,5,8,6,1,1186156,portwatch
+2025-02-15,Bab el-Mandeb Strait,chokepoint4,32,7,10,10,5,0,1198060,portwatch
+2025-02-16,Bab el-Mandeb Strait,chokepoint4,28,9,3,13,3,0,1184807,portwatch
+2025-02-17,Bab el-Mandeb Strait,chokepoint4,38,9,11,13,5,0,1234505,portwatch
+2025-02-18,Bab el-Mandeb Strait,chokepoint4,30,11,10,7,2,0,805341,portwatch
+2025-02-19,Bab el-Mandeb Strait,chokepoint4,33,11,8,8,6,0,779962,portwatch
+2025-02-20,Bab el-Mandeb Strait,chokepoint4,37,14,6,10,6,1,1910534,portwatch
+2025-02-21,Bab el-Mandeb Strait,chokepoint4,32,10,11,5,6,0,776051,portwatch
+2025-02-22,Bab el-Mandeb Strait,chokepoint4,32,14,4,9,5,0,1017503,portwatch
+2025-02-23,Bab el-Mandeb Strait,chokepoint4,25,9,9,4,2,1,890138,portwatch
+2025-02-24,Bab el-Mandeb Strait,chokepoint4,32,11,6,10,3,2,1223700,portwatch
+2025-02-25,Bab el-Mandeb Strait,chokepoint4,34,9,8,10,6,1,794729,portwatch
+2025-02-26,Bab el-Mandeb Strait,chokepoint4,34,13,5,7,7,2,1056220,portwatch
+2025-02-27,Bab el-Mandeb Strait,chokepoint4,30,11,5,9,5,0,1523923,portwatch
+2025-02-28,Bab el-Mandeb Strait,chokepoint4,30,6,11,10,3,0,938363,portwatch
+2025-03-01,Bab el-Mandeb Strait,chokepoint4,22,10,3,5,4,0,513667,portwatch
+2025-03-02,Bab el-Mandeb Strait,chokepoint4,41,16,6,11,6,2,1288161,portwatch
+2025-03-03,Bab el-Mandeb Strait,chokepoint4,25,13,2,6,4,0,999310,portwatch
+2025-03-04,Bab el-Mandeb Strait,chokepoint4,33,11,8,11,3,0,1722264,portwatch
+2025-03-05,Bab el-Mandeb Strait,chokepoint4,29,4,8,16,1,0,860154,portwatch
+2025-03-06,Bab el-Mandeb Strait,chokepoint4,38,14,7,13,4,0,1508059,portwatch
+2025-03-07,Bab el-Mandeb Strait,chokepoint4,35,9,12,5,9,0,1026523,portwatch
+2025-03-08,Bab el-Mandeb Strait,chokepoint4,36,8,9,12,6,1,1190900,portwatch
+2025-03-09,Bab el-Mandeb Strait,chokepoint4,30,15,5,6,4,0,1293412,portwatch
+2025-03-10,Bab el-Mandeb Strait,chokepoint4,33,10,7,11,5,0,838341,portwatch
+2025-03-11,Bab el-Mandeb Strait,chokepoint4,38,14,7,8,7,2,1429135,portwatch
+2025-03-12,Bab el-Mandeb Strait,chokepoint4,19,8,5,4,0,2,657928,portwatch
+2025-03-13,Bab el-Mandeb Strait,chokepoint4,38,15,9,10,3,1,1732512,portwatch
+2025-03-14,Bab el-Mandeb Strait,chokepoint4,33,8,5,15,4,1,1337196,portwatch
+2025-03-15,Bab el-Mandeb Strait,chokepoint4,42,15,14,12,1,0,1856380,portwatch
+2025-03-16,Bab el-Mandeb Strait,chokepoint4,31,14,5,8,3,1,1045720,portwatch
+2025-03-17,Bab el-Mandeb Strait,chokepoint4,36,15,7,8,5,1,1506051,portwatch
+2025-03-18,Bab el-Mandeb Strait,chokepoint4,37,13,3,15,4,2,1061652,portwatch
+2025-03-19,Bab el-Mandeb Strait,chokepoint4,41,17,10,9,5,0,1226861,portwatch
+2025-03-20,Bab el-Mandeb Strait,chokepoint4,24,12,4,5,3,0,1249169,portwatch
+2025-03-21,Bab el-Mandeb Strait,chokepoint4,35,11,14,6,4,0,1055017,portwatch
+2025-03-22,Bab el-Mandeb Strait,chokepoint4,29,10,5,10,4,0,1104667,portwatch
+2025-03-23,Bab el-Mandeb Strait,chokepoint4,37,16,7,9,5,0,1403906,portwatch
+2025-03-24,Bab el-Mandeb Strait,chokepoint4,26,11,7,4,4,0,735297,portwatch
+2025-03-25,Bab el-Mandeb Strait,chokepoint4,35,13,6,13,2,1,1615716,portwatch
+2025-03-26,Bab el-Mandeb Strait,chokepoint4,26,10,5,7,3,1,953236,portwatch
+2025-03-27,Bab el-Mandeb Strait,chokepoint4,32,8,10,13,0,1,1236379,portwatch
+2025-03-28,Bab el-Mandeb Strait,chokepoint4,40,13,6,14,7,0,1966175,portwatch
+2025-03-29,Bab el-Mandeb Strait,chokepoint4,24,11,5,7,1,0,1062210,portwatch
+2025-03-30,Bab el-Mandeb Strait,chokepoint4,35,13,9,10,3,0,1403797,portwatch
+2025-03-31,Bab el-Mandeb Strait,chokepoint4,41,10,14,13,4,0,1458072,portwatch
+2025-04-01,Bab el-Mandeb Strait,chokepoint4,24,9,3,10,1,1,1099298,portwatch
+2025-04-02,Bab el-Mandeb Strait,chokepoint4,33,11,6,9,5,2,1326033,portwatch
+2025-04-03,Bab el-Mandeb Strait,chokepoint4,41,19,9,6,6,1,1342226,portwatch
+2025-04-04,Bab el-Mandeb Strait,chokepoint4,38,15,5,12,6,0,1603408,portwatch
+2025-04-05,Bab el-Mandeb Strait,chokepoint4,38,15,10,8,5,0,1229432,portwatch
+2025-04-06,Bab el-Mandeb Strait,chokepoint4,26,6,4,10,5,1,904527,portwatch
+2025-04-07,Bab el-Mandeb Strait,chokepoint4,38,19,9,5,5,0,1441340,portwatch
+2025-04-08,Bab el-Mandeb Strait,chokepoint4,38,16,4,11,6,1,1339464,portwatch
+2025-04-09,Bab el-Mandeb Strait,chokepoint4,34,10,7,9,7,1,1405976,portwatch
+2025-04-10,Bab el-Mandeb Strait,chokepoint4,31,10,4,7,8,2,792533,portwatch
+2025-04-11,Bab el-Mandeb Strait,chokepoint4,25,14,6,1,2,2,754733,portwatch
+2025-04-12,Bab el-Mandeb Strait,chokepoint4,31,11,5,9,5,1,1241475,portwatch
+2025-04-13,Bab el-Mandeb Strait,chokepoint4,40,16,9,7,6,2,1190927,portwatch
+2025-04-14,Bab el-Mandeb Strait,chokepoint4,28,11,9,7,0,1,1165952,portwatch
+2025-04-15,Bab el-Mandeb Strait,chokepoint4,28,6,7,11,4,0,1120199,portwatch
+2025-04-16,Bab el-Mandeb Strait,chokepoint4,35,16,9,7,2,1,1264130,portwatch
+2025-04-17,Bab el-Mandeb Strait,chokepoint4,23,9,1,10,3,0,1342508,portwatch
+2025-04-18,Bab el-Mandeb Strait,chokepoint4,32,13,6,9,3,1,1116304,portwatch
+2025-04-19,Bab el-Mandeb Strait,chokepoint4,44,13,8,15,7,1,1497234,portwatch
+2025-04-20,Bab el-Mandeb Strait,chokepoint4,20,5,8,6,0,1,718190,portwatch
+2025-04-21,Bab el-Mandeb Strait,chokepoint4,44,14,8,13,8,1,1870523,portwatch
+2025-04-22,Bab el-Mandeb Strait,chokepoint4,35,8,11,10,5,1,1259596,portwatch
+2025-04-23,Bab el-Mandeb Strait,chokepoint4,33,9,4,12,8,0,1317737,portwatch
+2025-04-24,Bab el-Mandeb Strait,chokepoint4,32,17,6,7,2,0,1360074,portwatch
+2025-04-25,Bab el-Mandeb Strait,chokepoint4,32,12,8,9,3,0,1330372,portwatch
+2025-04-26,Bab el-Mandeb Strait,chokepoint4,36,11,8,13,2,2,1143222,portwatch
+2025-04-27,Bab el-Mandeb Strait,chokepoint4,27,5,6,9,6,1,926677,portwatch
+2025-04-28,Bab el-Mandeb Strait,chokepoint4,32,11,4,11,6,0,927335,portwatch
+2025-04-29,Bab el-Mandeb Strait,chokepoint4,39,11,7,13,7,1,1518696,portwatch
+2025-04-30,Bab el-Mandeb Strait,chokepoint4,28,10,4,9,5,0,1144352,portwatch
+2025-05-01,Bab el-Mandeb Strait,chokepoint4,27,8,8,4,6,1,827762,portwatch
+2025-05-02,Bab el-Mandeb Strait,chokepoint4,23,7,7,6,3,0,580996,portwatch
+2025-05-03,Bab el-Mandeb Strait,chokepoint4,41,20,9,7,3,2,1077575,portwatch
+2025-05-04,Bab el-Mandeb Strait,chokepoint4,33,12,5,8,6,2,1370425,portwatch
+2025-05-05,Bab el-Mandeb Strait,chokepoint4,26,11,7,4,3,1,1041238,portwatch
+2025-05-06,Bab el-Mandeb Strait,chokepoint4,31,12,3,11,4,1,1267191,portwatch
+2025-05-07,Bab el-Mandeb Strait,chokepoint4,29,9,8,6,5,1,838063,portwatch
+2025-05-08,Bab el-Mandeb Strait,chokepoint4,39,13,6,13,7,0,1920213,portwatch
+2025-05-09,Bab el-Mandeb Strait,chokepoint4,35,9,6,12,8,0,1215809,portwatch
+2025-05-10,Bab el-Mandeb Strait,chokepoint4,36,16,5,6,8,1,1207977,portwatch
+2025-05-11,Bab el-Mandeb Strait,chokepoint4,29,8,5,11,4,1,1057814,portwatch
+2025-05-12,Bab el-Mandeb Strait,chokepoint4,33,8,6,13,6,0,1134670,portwatch
+2025-05-13,Bab el-Mandeb Strait,chokepoint4,32,7,10,10,5,0,1020498,portwatch
+2025-05-14,Bab el-Mandeb Strait,chokepoint4,29,6,10,9,3,1,852920,portwatch
+2025-05-15,Bab el-Mandeb Strait,chokepoint4,35,17,4,7,3,4,1384351,portwatch
+2025-05-16,Bab el-Mandeb Strait,chokepoint4,39,16,7,7,7,2,922107,portwatch
+2025-05-17,Bab el-Mandeb Strait,chokepoint4,33,12,7,8,5,1,1145871,portwatch
+2025-05-18,Bab el-Mandeb Strait,chokepoint4,37,11,9,11,5,1,1196380,portwatch
+2025-05-19,Bab el-Mandeb Strait,chokepoint4,33,9,8,9,5,2,1198123,portwatch
+2025-05-20,Bab el-Mandeb Strait,chokepoint4,36,10,5,13,8,0,1344994,portwatch
+2025-05-21,Bab el-Mandeb Strait,chokepoint4,38,15,7,9,7,0,1639158,portwatch
+2025-05-22,Bab el-Mandeb Strait,chokepoint4,28,9,8,6,5,0,712738,portwatch
+2025-05-23,Bab el-Mandeb Strait,chokepoint4,40,15,8,8,6,3,1436617,portwatch
+2025-05-24,Bab el-Mandeb Strait,chokepoint4,29,10,4,7,6,2,1210208,portwatch
+2025-05-25,Bab el-Mandeb Strait,chokepoint4,38,15,7,10,6,0,1519183,portwatch
+2025-05-26,Bab el-Mandeb Strait,chokepoint4,33,9,6,11,6,1,1062087,portwatch
+2025-05-27,Bab el-Mandeb Strait,chokepoint4,39,16,3,10,9,1,1209850,portwatch
+2025-05-28,Bab el-Mandeb Strait,chokepoint4,23,9,6,4,3,1,946928,portwatch
+2025-05-29,Bab el-Mandeb Strait,chokepoint4,39,10,8,11,9,1,1476112,portwatch
+2025-05-30,Bab el-Mandeb Strait,chokepoint4,37,13,8,10,5,1,910916,portwatch
+2025-05-31,Bab el-Mandeb Strait,chokepoint4,27,8,7,7,4,1,1234188,portwatch
+2025-06-01,Bab el-Mandeb Strait,chokepoint4,39,12,10,11,6,0,1153636,portwatch
+2025-06-02,Bab el-Mandeb Strait,chokepoint4,40,10,10,11,9,0,1247544,portwatch
+2025-06-03,Bab el-Mandeb Strait,chokepoint4,30,10,7,8,4,1,828508,portwatch
+2025-06-04,Bab el-Mandeb Strait,chokepoint4,43,15,6,14,6,2,1631366,portwatch
+2025-06-05,Bab el-Mandeb Strait,chokepoint4,32,12,7,10,3,0,1119704,portwatch
+2025-06-06,Bab el-Mandeb Strait,chokepoint4,32,11,10,6,5,0,1285908,portwatch
+2025-06-07,Bab el-Mandeb Strait,chokepoint4,40,11,10,14,5,0,1606274,portwatch
+2025-06-08,Bab el-Mandeb Strait,chokepoint4,30,12,5,8,3,2,1002539,portwatch
+2025-06-09,Bab el-Mandeb Strait,chokepoint4,45,19,3,14,9,0,1168918,portwatch
+2025-06-10,Bab el-Mandeb Strait,chokepoint4,29,11,4,8,5,1,1046626,portwatch
+2025-06-11,Bab el-Mandeb Strait,chokepoint4,35,11,9,8,6,1,1063739,portwatch
+2025-06-12,Bab el-Mandeb Strait,chokepoint4,44,11,11,13,9,0,1506644,portwatch
+2025-06-13,Bab el-Mandeb Strait,chokepoint4,24,7,5,10,2,0,801432,portwatch
+2025-06-14,Bab el-Mandeb Strait,chokepoint4,36,14,4,12,4,2,1207890,portwatch
+2025-06-15,Bab el-Mandeb Strait,chokepoint4,36,12,10,9,3,2,1047179,portwatch
+2025-06-16,Bab el-Mandeb Strait,chokepoint4,35,14,11,5,4,1,1099248,portwatch
+2025-06-17,Bab el-Mandeb Strait,chokepoint4,24,8,2,8,6,0,1248009,portwatch
+2025-06-18,Bab el-Mandeb Strait,chokepoint4,26,9,5,7,4,1,689421,portwatch
+2025-06-19,Bab el-Mandeb Strait,chokepoint4,22,12,3,5,2,0,1067497,portwatch
+2025-06-20,Bab el-Mandeb Strait,chokepoint4,27,13,7,4,2,1,1074890,portwatch
+2025-06-21,Bab el-Mandeb Strait,chokepoint4,24,11,8,5,0,0,912892,portwatch
+2025-06-22,Bab el-Mandeb Strait,chokepoint4,25,15,2,5,3,0,1297560,portwatch
+2025-06-23,Bab el-Mandeb Strait,chokepoint4,29,9,6,11,2,1,925121,portwatch
+2025-06-24,Bab el-Mandeb Strait,chokepoint4,32,15,3,11,3,0,1048189,portwatch
+2025-06-25,Bab el-Mandeb Strait,chokepoint4,27,10,5,8,4,0,946634,portwatch
+2025-06-26,Bab el-Mandeb Strait,chokepoint4,29,9,7,10,2,1,1297775,portwatch
+2025-06-27,Bab el-Mandeb Strait,chokepoint4,34,14,9,3,8,0,745146,portwatch
+2025-06-28,Bab el-Mandeb Strait,chokepoint4,32,9,10,10,3,0,1335583,portwatch
+2025-06-29,Bab el-Mandeb Strait,chokepoint4,19,6,5,7,1,0,744139,portwatch
+2025-06-30,Bab el-Mandeb Strait,chokepoint4,32,15,1,12,3,1,1340243,portwatch
+2025-07-01,Bab el-Mandeb Strait,chokepoint4,44,15,6,13,6,4,1212983,portwatch
+2025-07-02,Bab el-Mandeb Strait,chokepoint4,34,15,8,9,2,0,1781727,portwatch
+2025-07-03,Bab el-Mandeb Strait,chokepoint4,29,10,4,13,2,0,1568056,portwatch
+2025-07-04,Bab el-Mandeb Strait,chokepoint4,30,14,6,6,4,0,897084,portwatch
+2025-07-05,Bab el-Mandeb Strait,chokepoint4,25,7,10,5,3,0,777759,portwatch
+2025-07-06,Bab el-Mandeb Strait,chokepoint4,30,7,5,12,6,0,1039033,portwatch
+2025-07-07,Bab el-Mandeb Strait,chokepoint4,37,10,10,11,6,0,1519560,portwatch
+2025-07-08,Bab el-Mandeb Strait,chokepoint4,35,13,9,11,2,0,1177019,portwatch
+2025-07-09,Bab el-Mandeb Strait,chokepoint4,27,13,2,9,2,1,1596208,portwatch
+2025-07-10,Bab el-Mandeb Strait,chokepoint4,36,16,5,10,4,1,1182894,portwatch
+2025-07-11,Bab el-Mandeb Strait,chokepoint4,37,14,8,8,6,1,1575471,portwatch
+2025-07-12,Bab el-Mandeb Strait,chokepoint4,39,8,12,14,5,0,1329058,portwatch
+2025-07-13,Bab el-Mandeb Strait,chokepoint4,34,15,8,9,2,0,1427011,portwatch
+2025-07-14,Bab el-Mandeb Strait,chokepoint4,26,8,2,10,6,0,941477,portwatch
+2025-07-15,Bab el-Mandeb Strait,chokepoint4,33,10,9,6,6,2,1308220,portwatch
+2025-07-16,Bab el-Mandeb Strait,chokepoint4,27,11,4,6,5,1,989869,portwatch
+2025-07-17,Bab el-Mandeb Strait,chokepoint4,35,13,8,7,7,0,1447849,portwatch
+2025-07-18,Bab el-Mandeb Strait,chokepoint4,25,10,4,6,2,3,934564,portwatch
+2025-07-19,Bab el-Mandeb Strait,chokepoint4,24,7,4,8,5,0,661241,portwatch
+2025-07-20,Bab el-Mandeb Strait,chokepoint4,23,9,4,7,1,2,885800,portwatch
+2025-07-21,Bab el-Mandeb Strait,chokepoint4,37,7,7,12,10,1,869171,portwatch
+2025-07-22,Bab el-Mandeb Strait,chokepoint4,46,20,9,14,3,0,1448948,portwatch
+2025-07-23,Bab el-Mandeb Strait,chokepoint4,18,5,6,3,4,0,366240,portwatch
+2025-07-24,Bab el-Mandeb Strait,chokepoint4,34,12,6,12,3,1,1252731,portwatch
+2025-07-25,Bab el-Mandeb Strait,chokepoint4,30,13,6,7,3,1,1314434,portwatch
+2025-07-26,Bab el-Mandeb Strait,chokepoint4,32,7,9,6,8,2,870263,portwatch
+2025-07-27,Bab el-Mandeb Strait,chokepoint4,31,10,11,8,1,1,1212968,portwatch
+2025-07-28,Bab el-Mandeb Strait,chokepoint4,25,5,8,5,5,2,691757,portwatch
+2025-07-29,Bab el-Mandeb Strait,chokepoint4,27,13,6,3,5,0,631388,portwatch
+2025-07-30,Bab el-Mandeb Strait,chokepoint4,26,7,4,12,2,1,896303,portwatch
+2025-07-31,Bab el-Mandeb Strait,chokepoint4,32,10,8,8,5,1,1160557,portwatch
+2025-08-01,Bab el-Mandeb Strait,chokepoint4,37,11,8,15,3,0,1508384,portwatch
+2025-08-02,Bab el-Mandeb Strait,chokepoint4,44,20,8,11,3,2,1257541,portwatch
+2025-08-03,Bab el-Mandeb Strait,chokepoint4,30,7,8,13,2,0,1232057,portwatch
+2025-08-04,Bab el-Mandeb Strait,chokepoint4,32,11,6,8,7,0,987095,portwatch
+2025-08-05,Bab el-Mandeb Strait,chokepoint4,29,12,2,10,4,1,1054058,portwatch
+2025-08-06,Bab el-Mandeb Strait,chokepoint4,38,17,7,9,4,1,1480056,portwatch
+2025-08-07,Bab el-Mandeb Strait,chokepoint4,27,16,3,4,4,0,519418,portwatch
+2025-08-08,Bab el-Mandeb Strait,chokepoint4,47,17,12,13,3,2,1962252,portwatch
+2025-08-09,Bab el-Mandeb Strait,chokepoint4,36,9,9,11,7,0,937558,portwatch
+2025-08-10,Bab el-Mandeb Strait,chokepoint4,39,17,5,8,9,0,1202701,portwatch
+2025-08-11,Bab el-Mandeb Strait,chokepoint4,37,11,7,11,6,2,1329384,portwatch
+2025-08-12,Bab el-Mandeb Strait,chokepoint4,40,8,13,11,7,1,963094,portwatch
+2025-08-13,Bab el-Mandeb Strait,chokepoint4,47,15,8,12,11,1,1848606,portwatch
+2025-08-14,Bab el-Mandeb Strait,chokepoint4,42,7,10,14,10,1,1237793,portwatch
+2025-08-15,Bab el-Mandeb Strait,chokepoint4,33,13,8,7,3,2,1394501,portwatch
+2025-08-16,Bab el-Mandeb Strait,chokepoint4,25,7,8,6,4,0,603616,portwatch
+2025-08-17,Bab el-Mandeb Strait,chokepoint4,23,7,4,9,2,1,639641,portwatch
+2025-08-18,Bab el-Mandeb Strait,chokepoint4,27,10,3,7,7,0,765373,portwatch
+2025-08-19,Bab el-Mandeb Strait,chokepoint4,33,7,7,12,6,1,858632,portwatch
+2025-08-20,Bab el-Mandeb Strait,chokepoint4,34,9,9,9,7,0,1259583,portwatch
+2025-08-21,Bab el-Mandeb Strait,chokepoint4,27,11,3,7,4,2,1128694,portwatch
+2025-08-22,Bab el-Mandeb Strait,chokepoint4,27,6,5,11,5,0,602816,portwatch
+2025-08-23,Bab el-Mandeb Strait,chokepoint4,33,8,7,13,5,0,1244101,portwatch
+2025-08-24,Bab el-Mandeb Strait,chokepoint4,35,10,9,11,5,0,949519,portwatch
+2025-08-25,Bab el-Mandeb Strait,chokepoint4,30,8,6,9,5,2,1288535,portwatch
+2025-08-26,Bab el-Mandeb Strait,chokepoint4,34,11,6,11,4,2,1269228,portwatch
+2025-08-27,Bab el-Mandeb Strait,chokepoint4,42,17,9,11,4,1,1628730,portwatch
+2025-08-28,Bab el-Mandeb Strait,chokepoint4,34,15,5,9,5,0,1210860,portwatch
+2025-08-29,Bab el-Mandeb Strait,chokepoint4,43,15,4,16,6,2,1979006,portwatch
+2025-08-30,Bab el-Mandeb Strait,chokepoint4,48,10,8,25,4,1,1520046,portwatch
+2025-08-31,Bab el-Mandeb Strait,chokepoint4,33,12,6,9,6,0,1067692,portwatch
+2025-09-01,Bab el-Mandeb Strait,chokepoint4,29,9,2,10,5,3,1284741,portwatch
+2025-09-02,Bab el-Mandeb Strait,chokepoint4,29,7,6,12,4,0,772756,portwatch
+2025-09-03,Bab el-Mandeb Strait,chokepoint4,38,10,5,16,6,1,1482628,portwatch
+2025-09-04,Bab el-Mandeb Strait,chokepoint4,30,12,2,12,3,1,1330302,portwatch
+2025-09-05,Bab el-Mandeb Strait,chokepoint4,46,10,12,20,4,0,1381297,portwatch
+2025-09-06,Bab el-Mandeb Strait,chokepoint4,35,11,8,9,5,2,804636,portwatch
+2025-09-07,Bab el-Mandeb Strait,chokepoint4,32,11,5,11,4,1,1028371,portwatch
+2025-09-08,Bab el-Mandeb Strait,chokepoint4,33,6,7,15,5,0,1077523,portwatch
+2025-09-09,Bab el-Mandeb Strait,chokepoint4,35,11,7,11,6,0,1739613,portwatch
+2025-09-10,Bab el-Mandeb Strait,chokepoint4,29,6,8,11,3,1,1186074,portwatch
+2025-09-11,Bab el-Mandeb Strait,chokepoint4,31,12,4,9,5,1,1087769,portwatch
+2025-09-12,Bab el-Mandeb Strait,chokepoint4,39,13,4,14,8,0,1344166,portwatch
+2025-09-13,Bab el-Mandeb Strait,chokepoint4,43,17,8,16,2,0,1524062,portwatch
+2025-09-14,Bab el-Mandeb Strait,chokepoint4,39,15,7,12,4,1,1194573,portwatch
+2025-09-15,Bab el-Mandeb Strait,chokepoint4,35,12,9,9,5,0,1056260,portwatch
+2025-09-16,Bab el-Mandeb Strait,chokepoint4,40,11,7,14,7,1,1998161,portwatch
+2025-09-17,Bab el-Mandeb Strait,chokepoint4,29,10,3,12,4,0,1316877,portwatch
+2025-09-18,Bab el-Mandeb Strait,chokepoint4,36,10,6,16,2,2,1618552,portwatch
+2025-09-19,Bab el-Mandeb Strait,chokepoint4,36,8,7,11,10,0,1310445,portwatch
+2025-09-20,Bab el-Mandeb Strait,chokepoint4,33,15,9,7,1,1,827776,portwatch
+2025-09-21,Bab el-Mandeb Strait,chokepoint4,31,9,9,10,1,2,1066739,portwatch
+2025-09-22,Bab el-Mandeb Strait,chokepoint4,33,12,4,12,5,0,1129556,portwatch
+2025-09-23,Bab el-Mandeb Strait,chokepoint4,29,11,5,7,5,1,972704,portwatch
+2025-09-24,Bab el-Mandeb Strait,chokepoint4,24,8,5,8,3,0,647727,portwatch
+2025-09-25,Bab el-Mandeb Strait,chokepoint4,44,13,10,14,6,1,1542153,portwatch
+2025-09-26,Bab el-Mandeb Strait,chokepoint4,26,10,2,10,4,0,1116783,portwatch
+2025-09-27,Bab el-Mandeb Strait,chokepoint4,43,16,9,12,5,1,1134467,portwatch
+2025-09-28,Bab el-Mandeb Strait,chokepoint4,34,16,6,11,1,0,2094638,portwatch
+2025-09-29,Bab el-Mandeb Strait,chokepoint4,30,11,4,4,10,1,1318560,portwatch
+2025-09-30,Bab el-Mandeb Strait,chokepoint4,27,7,6,8,5,1,942630,portwatch
+2025-10-01,Bab el-Mandeb Strait,chokepoint4,23,7,4,8,4,0,510389,portwatch
+2025-10-02,Bab el-Mandeb Strait,chokepoint4,46,17,12,11,5,1,2101052,portwatch
+2025-10-03,Bab el-Mandeb Strait,chokepoint4,33,11,7,11,4,0,1266312,portwatch
+2025-10-04,Bab el-Mandeb Strait,chokepoint4,46,17,16,8,5,0,1550647,portwatch
+2025-10-05,Bab el-Mandeb Strait,chokepoint4,31,11,4,11,5,0,1308395,portwatch
+2025-10-06,Bab el-Mandeb Strait,chokepoint4,39,18,3,10,4,4,1423061,portwatch
+2025-10-07,Bab el-Mandeb Strait,chokepoint4,31,18,5,7,1,0,1357406,portwatch
+2025-10-08,Bab el-Mandeb Strait,chokepoint4,31,12,5,8,6,0,991720,portwatch
+2025-10-09,Bab el-Mandeb Strait,chokepoint4,41,11,5,16,8,1,1867797,portwatch
+2025-10-10,Bab el-Mandeb Strait,chokepoint4,34,14,8,9,3,0,1092223,portwatch
+2025-10-11,Bab el-Mandeb Strait,chokepoint4,34,15,7,6,6,0,1206135,portwatch
+2025-10-12,Bab el-Mandeb Strait,chokepoint4,28,9,5,10,3,1,1192784,portwatch
+2025-10-13,Bab el-Mandeb Strait,chokepoint4,32,8,7,11,3,3,1466488,portwatch
+2025-10-14,Bab el-Mandeb Strait,chokepoint4,42,13,8,12,6,3,1094159,portwatch
+2025-10-15,Bab el-Mandeb Strait,chokepoint4,29,6,4,10,8,1,840404,portwatch
+2025-10-16,Bab el-Mandeb Strait,chokepoint4,32,10,1,15,4,2,1496114,portwatch
+2025-10-17,Bab el-Mandeb Strait,chokepoint4,41,10,7,13,10,1,1372452,portwatch
+2025-10-18,Bab el-Mandeb Strait,chokepoint4,46,18,9,14,4,1,1510542,portwatch
+2025-10-19,Bab el-Mandeb Strait,chokepoint4,41,13,10,14,4,0,1365326,portwatch
+2025-10-20,Bab el-Mandeb Strait,chokepoint4,41,16,7,16,2,0,1961214,portwatch
+2025-10-21,Bab el-Mandeb Strait,chokepoint4,55,15,10,20,7,3,2228784,portwatch
+2025-10-22,Bab el-Mandeb Strait,chokepoint4,30,10,7,5,7,1,939513,portwatch
+2025-10-23,Bab el-Mandeb Strait,chokepoint4,35,14,4,10,7,0,1172911,portwatch
+2025-10-24,Bab el-Mandeb Strait,chokepoint4,29,8,6,12,3,0,765026,portwatch
+2025-10-25,Bab el-Mandeb Strait,chokepoint4,42,13,8,14,6,1,1546380,portwatch
+2025-10-26,Bab el-Mandeb Strait,chokepoint4,30,10,4,13,3,0,1471909,portwatch
+2025-10-27,Bab el-Mandeb Strait,chokepoint4,24,10,2,9,3,0,1002245,portwatch
+2025-10-28,Bab el-Mandeb Strait,chokepoint4,32,12,8,5,7,0,818288,portwatch
+2025-10-29,Bab el-Mandeb Strait,chokepoint4,41,12,10,16,3,0,1949534,portwatch
+2025-10-30,Bab el-Mandeb Strait,chokepoint4,38,13,7,12,6,0,1465640,portwatch
+2025-10-31,Bab el-Mandeb Strait,chokepoint4,42,14,10,12,5,1,1847875,portwatch
+2025-11-01,Bab el-Mandeb Strait,chokepoint4,25,6,4,10,4,1,807600,portwatch
+2025-11-02,Bab el-Mandeb Strait,chokepoint4,43,11,6,19,7,0,1746985,portwatch
+2025-11-03,Bab el-Mandeb Strait,chokepoint4,43,15,10,13,5,0,1379044,portwatch
+2025-11-04,Bab el-Mandeb Strait,chokepoint4,33,12,6,13,2,0,1748588,portwatch
+2025-11-05,Bab el-Mandeb Strait,chokepoint4,31,14,5,9,1,2,1174265,portwatch
+2025-11-06,Bab el-Mandeb Strait,chokepoint4,50,21,6,11,9,3,1462972,portwatch
+2025-11-07,Bab el-Mandeb Strait,chokepoint4,38,13,6,13,4,2,1538817,portwatch
+2025-11-08,Bab el-Mandeb Strait,chokepoint4,42,19,5,13,5,0,1915250,portwatch
+2025-11-09,Bab el-Mandeb Strait,chokepoint4,44,14,8,11,6,5,1061359,portwatch
+2025-11-10,Bab el-Mandeb Strait,chokepoint4,32,9,6,11,6,0,1565201,portwatch
+2025-11-11,Bab el-Mandeb Strait,chokepoint4,41,18,5,14,3,1,1596807,portwatch
+2025-11-12,Bab el-Mandeb Strait,chokepoint4,27,8,5,10,4,0,1177943,portwatch
+2025-11-13,Bab el-Mandeb Strait,chokepoint4,34,10,7,10,6,1,1138217,portwatch
+2025-11-14,Bab el-Mandeb Strait,chokepoint4,28,13,6,6,3,0,1245377,portwatch
+2025-11-15,Bab el-Mandeb Strait,chokepoint4,37,10,10,14,3,0,1398167,portwatch
+2025-11-16,Bab el-Mandeb Strait,chokepoint4,38,11,6,17,3,1,1888144,portwatch
+2025-11-17,Bab el-Mandeb Strait,chokepoint4,40,12,2,15,7,4,1560109,portwatch
+2025-11-18,Bab el-Mandeb Strait,chokepoint4,41,9,7,16,9,0,1787035,portwatch
+2025-11-19,Bab el-Mandeb Strait,chokepoint4,38,11,5,11,9,2,1323192,portwatch
+2025-11-20,Bab el-Mandeb Strait,chokepoint4,47,14,6,16,11,0,1480673,portwatch
+2025-11-21,Bab el-Mandeb Strait,chokepoint4,39,18,7,10,3,1,1458410,portwatch
+2025-11-22,Bab el-Mandeb Strait,chokepoint4,33,15,7,6,5,0,1210278,portwatch
+2025-11-23,Bab el-Mandeb Strait,chokepoint4,47,12,10,16,9,0,1655403,portwatch
+2025-11-24,Bab el-Mandeb Strait,chokepoint4,30,8,6,12,4,0,855922,portwatch
+2025-11-25,Bab el-Mandeb Strait,chokepoint4,45,15,6,17,6,1,1554068,portwatch
+2025-11-26,Bab el-Mandeb Strait,chokepoint4,38,12,7,14,4,1,971646,portwatch
+2025-11-27,Bab el-Mandeb Strait,chokepoint4,32,13,5,9,4,1,872097,portwatch
+2025-11-28,Bab el-Mandeb Strait,chokepoint4,37,16,5,12,3,1,1351067,portwatch
+2025-11-29,Bab el-Mandeb Strait,chokepoint4,33,15,4,11,2,1,1375678,portwatch
+2025-11-30,Bab el-Mandeb Strait,chokepoint4,47,10,10,22,5,0,1922004,portwatch
+2025-12-01,Bab el-Mandeb Strait,chokepoint4,29,12,5,6,6,0,1016342,portwatch
+2025-12-02,Bab el-Mandeb Strait,chokepoint4,42,11,10,14,5,2,1793174,portwatch
+2025-12-03,Bab el-Mandeb Strait,chokepoint4,42,16,7,15,3,1,1495932,portwatch
+2025-12-04,Bab el-Mandeb Strait,chokepoint4,26,10,4,8,2,2,979634,portwatch
+2025-12-05,Bab el-Mandeb Strait,chokepoint4,39,9,11,12,7,0,1030902,portwatch
+2025-12-06,Bab el-Mandeb Strait,chokepoint4,40,9,10,12,7,2,1277481,portwatch
+2025-12-07,Bab el-Mandeb Strait,chokepoint4,40,13,9,9,9,0,1340467,portwatch
+2025-12-08,Bab el-Mandeb Strait,chokepoint4,19,5,4,9,1,0,568470,portwatch
+2025-12-09,Bab el-Mandeb Strait,chokepoint4,13,5,1,6,1,0,633425,portwatch
+2025-12-10,Bab el-Mandeb Strait,chokepoint4,26,12,1,9,4,0,1264662,portwatch
+2025-12-11,Bab el-Mandeb Strait,chokepoint4,24,8,2,10,3,1,591931,portwatch
+2025-12-12,Bab el-Mandeb Strait,chokepoint4,31,14,6,6,4,1,1194975,portwatch
+2025-12-13,Bab el-Mandeb Strait,chokepoint4,27,10,2,11,3,1,1305941,portwatch
+2025-12-14,Bab el-Mandeb Strait,chokepoint4,37,15,7,9,6,0,1335215,portwatch
+2025-12-15,Bab el-Mandeb Strait,chokepoint4,26,8,7,6,5,0,550362,portwatch
+2025-12-16,Bab el-Mandeb Strait,chokepoint4,35,14,6,7,7,1,1285470,portwatch
+2025-12-17,Bab el-Mandeb Strait,chokepoint4,40,14,10,10,5,1,1464464,portwatch
+2025-12-18,Bab el-Mandeb Strait,chokepoint4,35,17,1,11,5,1,1577120,portwatch
+2025-12-19,Bab el-Mandeb Strait,chokepoint4,29,10,4,9,5,1,1800647,portwatch
+2025-12-20,Bab el-Mandeb Strait,chokepoint4,23,11,6,4,2,0,1127708,portwatch
+2025-12-21,Bab el-Mandeb Strait,chokepoint4,39,14,6,11,8,0,1304673,portwatch
+2025-12-22,Bab el-Mandeb Strait,chokepoint4,24,6,8,6,4,0,887534,portwatch
+2025-12-23,Bab el-Mandeb Strait,chokepoint4,34,9,6,15,3,1,1258631,portwatch
+2025-12-24,Bab el-Mandeb Strait,chokepoint4,30,12,5,10,3,0,1409965,portwatch
+2025-12-25,Bab el-Mandeb Strait,chokepoint4,43,17,9,12,5,0,1642394,portwatch
+2025-12-26,Bab el-Mandeb Strait,chokepoint4,30,12,5,8,4,1,1052171,portwatch
+2025-12-27,Bab el-Mandeb Strait,chokepoint4,38,11,10,14,1,2,963930,portwatch
+2025-12-28,Bab el-Mandeb Strait,chokepoint4,43,12,6,15,7,3,1595594,portwatch
+2025-12-29,Bab el-Mandeb Strait,chokepoint4,42,18,8,10,5,1,1918214,portwatch
+2025-12-30,Bab el-Mandeb Strait,chokepoint4,34,13,3,12,6,0,1412230,portwatch
+2025-12-31,Bab el-Mandeb Strait,chokepoint4,34,12,6,11,4,1,1257552,portwatch
+2026-01-01,Bab el-Mandeb Strait,chokepoint4,29,10,3,13,3,0,1524872,portwatch
+2026-01-02,Bab el-Mandeb Strait,chokepoint4,26,4,7,11,4,0,801889,portwatch
+2026-01-03,Bab el-Mandeb Strait,chokepoint4,37,12,7,13,2,3,1287948,portwatch
+2026-01-04,Bab el-Mandeb Strait,chokepoint4,31,8,8,9,6,0,740447,portwatch
+2026-01-05,Bab el-Mandeb Strait,chokepoint4,28,11,3,11,2,1,1140085,portwatch
+2026-01-06,Bab el-Mandeb Strait,chokepoint4,26,10,4,7,3,2,1147373,portwatch
+2026-01-07,Bab el-Mandeb Strait,chokepoint4,42,17,11,10,3,1,1584120,portwatch
+2026-01-08,Bab el-Mandeb Strait,chokepoint4,31,10,2,13,4,2,1266108,portwatch
+2026-01-09,Bab el-Mandeb Strait,chokepoint4,36,14,8,7,4,3,902555,portwatch
+2026-01-10,Bab el-Mandeb Strait,chokepoint4,36,11,5,15,5,0,1132244,portwatch
+2026-01-11,Bab el-Mandeb Strait,chokepoint4,38,18,5,9,4,2,1462902,portwatch
+2026-01-12,Bab el-Mandeb Strait,chokepoint4,39,14,9,12,4,0,1263734,portwatch
+2026-01-13,Bab el-Mandeb Strait,chokepoint4,32,10,4,15,3,0,1498535,portwatch
+2026-01-14,Bab el-Mandeb Strait,chokepoint4,23,5,7,9,1,1,852406,portwatch
+2026-01-15,Bab el-Mandeb Strait,chokepoint4,39,12,6,12,9,0,1504151,portwatch
+2026-01-16,Bab el-Mandeb Strait,chokepoint4,37,11,5,15,6,0,1162836,portwatch
+2026-01-17,Bab el-Mandeb Strait,chokepoint4,27,10,6,4,5,2,703384,portwatch
+2026-01-18,Bab el-Mandeb Strait,chokepoint4,35,9,3,12,11,0,1279141,portwatch
+2026-01-19,Bab el-Mandeb Strait,chokepoint4,33,10,6,12,4,1,961710,portwatch
+2026-01-20,Bab el-Mandeb Strait,chokepoint4,37,13,9,9,6,0,1134410,portwatch
+2026-01-21,Bab el-Mandeb Strait,chokepoint4,30,8,8,10,4,0,556325,portwatch
+2026-01-22,Bab el-Mandeb Strait,chokepoint4,30,5,9,11,3,2,738473,portwatch
+2026-01-23,Bab el-Mandeb Strait,chokepoint4,34,13,4,10,6,1,920517,portwatch
+2026-01-24,Bab el-Mandeb Strait,chokepoint4,35,16,8,6,5,0,1145722,portwatch
+2026-01-25,Bab el-Mandeb Strait,chokepoint4,40,14,5,12,9,0,1517219,portwatch
+2026-01-26,Bab el-Mandeb Strait,chokepoint4,42,15,7,10,10,0,1360986,portwatch
+2026-01-27,Bab el-Mandeb Strait,chokepoint4,33,13,8,11,0,1,1492625,portwatch
+2026-01-28,Bab el-Mandeb Strait,chokepoint4,36,12,6,10,5,3,1293773,portwatch
+2026-01-29,Bab el-Mandeb Strait,chokepoint4,32,10,6,11,4,1,1535195,portwatch
+2026-01-30,Bab el-Mandeb Strait,chokepoint4,34,11,5,10,6,2,997681,portwatch
+2026-01-31,Bab el-Mandeb Strait,chokepoint4,31,19,5,6,1,0,1324362,portwatch
+2026-02-01,Bab el-Mandeb Strait,chokepoint4,37,13,1,19,4,0,1456726,portwatch
+2026-02-02,Bab el-Mandeb Strait,chokepoint4,22,11,4,5,1,1,731666,portwatch
+2026-02-03,Bab el-Mandeb Strait,chokepoint4,35,11,8,10,4,2,1127220,portwatch
+2026-02-04,Bab el-Mandeb Strait,chokepoint4,45,12,4,19,10,0,1754279,portwatch
+2026-02-05,Bab el-Mandeb Strait,chokepoint4,30,12,3,14,1,0,1060837,portwatch
+2026-02-06,Bab el-Mandeb Strait,chokepoint4,32,10,9,7,6,0,647751,portwatch
+2026-02-07,Bab el-Mandeb Strait,chokepoint4,30,13,5,7,4,1,937851,portwatch
+2026-02-08,Bab el-Mandeb Strait,chokepoint4,44,16,10,13,4,1,1042329,portwatch
+2026-02-09,Bab el-Mandeb Strait,chokepoint4,32,18,1,7,5,1,1041320,portwatch
+2026-02-10,Bab el-Mandeb Strait,chokepoint4,32,13,7,5,7,0,1014242,portwatch
+2026-02-11,Bab el-Mandeb Strait,chokepoint4,41,17,4,15,3,2,1864186,portwatch
+2026-02-12,Bab el-Mandeb Strait,chokepoint4,34,9,8,12,4,1,1257880,portwatch
+2026-02-13,Bab el-Mandeb Strait,chokepoint4,43,18,8,14,3,0,1647312,portwatch
+2026-02-14,Bab el-Mandeb Strait,chokepoint4,31,10,3,10,7,1,1335750,portwatch
+2026-02-15,Bab el-Mandeb Strait,chokepoint4,34,10,4,14,6,0,1221422,portwatch
+2026-02-16,Bab el-Mandeb Strait,chokepoint4,30,13,2,10,5,0,957454,portwatch
+2026-02-17,Bab el-Mandeb Strait,chokepoint4,51,16,7,18,8,2,1818174,portwatch
+2026-02-18,Bab el-Mandeb Strait,chokepoint4,41,17,7,10,4,3,1483425,portwatch
+2026-02-19,Bab el-Mandeb Strait,chokepoint4,27,9,5,7,3,3,684857,portwatch
+2026-02-20,Bab el-Mandeb Strait,chokepoint4,49,19,8,11,8,3,1939726,portwatch
+2026-02-21,Bab el-Mandeb Strait,chokepoint4,38,19,6,9,3,1,1955677,portwatch
+2026-02-22,Bab el-Mandeb Strait,chokepoint4,47,14,11,16,6,0,1645159,portwatch
+2026-02-23,Bab el-Mandeb Strait,chokepoint4,37,13,6,13,3,2,1734248,portwatch
+2026-02-24,Bab el-Mandeb Strait,chokepoint4,43,13,7,14,9,0,1111628,portwatch
+2026-02-25,Bab el-Mandeb Strait,chokepoint4,38,14,5,11,6,2,1408541,portwatch
+2026-02-26,Bab el-Mandeb Strait,chokepoint4,46,18,10,11,6,1,1479339,portwatch
+2026-02-27,Bab el-Mandeb Strait,chokepoint4,36,14,7,11,3,1,1347979,portwatch
+2026-02-28,Bab el-Mandeb Strait,chokepoint4,25,13,3,4,5,0,1593122,portwatch
+2026-03-01,Bab el-Mandeb Strait,chokepoint4,31,14,5,8,3,1,1296946,portwatch
+2026-03-02,Bab el-Mandeb Strait,chokepoint4,29,11,5,8,4,1,779933,portwatch
+2026-03-03,Bab el-Mandeb Strait,chokepoint4,43,17,7,14,5,0,1293853,portwatch
+2026-03-04,Bab el-Mandeb Strait,chokepoint4,28,8,2,9,7,2,1126620,portwatch
+2026-03-05,Bab el-Mandeb Strait,chokepoint4,32,9,5,14,3,1,1006543,portwatch
+2026-03-06,Bab el-Mandeb Strait,chokepoint4,34,12,5,14,3,0,1050161,portwatch
+2026-03-07,Bab el-Mandeb Strait,chokepoint4,34,16,3,10,4,1,1143626,portwatch
+2026-03-08,Bab el-Mandeb Strait,chokepoint4,47,19,10,14,4,0,1698754,portwatch
+2026-03-09,Bab el-Mandeb Strait,chokepoint4,25,10,6,7,1,1,1024563,portwatch
+2026-03-10,Bab el-Mandeb Strait,chokepoint4,21,12,4,5,0,0,1109863,portwatch
+2026-03-11,Bab el-Mandeb Strait,chokepoint4,40,20,4,12,4,0,1490614,portwatch
+2026-03-12,Bab el-Mandeb Strait,chokepoint4,32,16,5,5,3,3,1070423,portwatch
+2026-03-13,Bab el-Mandeb Strait,chokepoint4,39,10,7,9,12,1,1101974,portwatch
+2026-03-14,Bab el-Mandeb Strait,chokepoint4,29,14,4,8,2,1,1069508,portwatch
+2026-03-15,Bab el-Mandeb Strait,chokepoint4,26,16,2,5,3,0,1133249,portwatch
+2026-03-16,Bab el-Mandeb Strait,chokepoint4,49,21,9,15,4,0,1655172,portwatch
+2026-03-17,Bab el-Mandeb Strait,chokepoint4,34,18,3,8,4,1,1364121,portwatch
+2026-03-18,Bab el-Mandeb Strait,chokepoint4,42,22,5,13,2,0,1176112,portwatch
+2026-03-19,Bab el-Mandeb Strait,chokepoint4,44,20,9,11,2,2,1954168,portwatch
+2026-03-20,Bab el-Mandeb Strait,chokepoint4,32,14,3,9,5,1,1584415,portwatch
+2026-03-21,Bab el-Mandeb Strait,chokepoint4,41,19,2,11,7,2,1360310,portwatch
+2026-03-22,Bab el-Mandeb Strait,chokepoint4,38,13,7,10,7,1,1825035,portwatch
+2026-03-23,Bab el-Mandeb Strait,chokepoint4,28,20,3,2,2,1,986432,portwatch
+2026-03-24,Bab el-Mandeb Strait,chokepoint4,29,12,4,10,2,1,1562317,portwatch
+2026-03-25,Bab el-Mandeb Strait,chokepoint4,44,14,7,16,5,2,1655006,portwatch
+2026-03-26,Bab el-Mandeb Strait,chokepoint4,38,16,6,6,8,2,1184432,portwatch
+2026-03-27,Bab el-Mandeb Strait,chokepoint4,37,14,6,14,3,0,1514793,portwatch
+2026-03-28,Bab el-Mandeb Strait,chokepoint4,36,12,9,11,3,1,1156279,portwatch
+2026-03-29,Bab el-Mandeb Strait,chokepoint4,38,16,7,14,1,0,1266794,portwatch
+2026-03-30,Bab el-Mandeb Strait,chokepoint4,47,13,3,18,10,3,1754168,portwatch
+2026-03-31,Bab el-Mandeb Strait,chokepoint4,35,16,5,10,2,2,1383225,portwatch
+2026-04-01,Bab el-Mandeb Strait,chokepoint4,42,19,6,10,5,2,1514096,portwatch
+2026-04-02,Bab el-Mandeb Strait,chokepoint4,40,15,4,13,5,3,1137429,portwatch
+2026-04-03,Bab el-Mandeb Strait,chokepoint4,28,13,1,9,5,0,2132373,portwatch
+2026-04-04,Bab el-Mandeb Strait,chokepoint4,39,20,7,9,2,1,1284790,portwatch
+2026-04-05,Bab el-Mandeb Strait,chokepoint4,36,16,7,7,5,1,1078709,portwatch
+2026-04-06,Bab el-Mandeb Strait,chokepoint4,40,20,3,10,6,1,1318121,portwatch
+2026-04-07,Bab el-Mandeb Strait,chokepoint4,38,21,4,10,2,1,1826727,portwatch
+2026-04-08,Bab el-Mandeb Strait,chokepoint4,32,15,4,8,3,2,1431210,portwatch
+2026-04-09,Bab el-Mandeb Strait,chokepoint4,39,12,10,11,5,1,1235868,portwatch
+2026-04-10,Bab el-Mandeb Strait,chokepoint4,32,11,6,9,5,1,1102613,portwatch
+2026-04-11,Bab el-Mandeb Strait,chokepoint4,39,18,7,8,6,0,1178343,portwatch
+2026-04-12,Bab el-Mandeb Strait,chokepoint4,33,11,5,10,5,2,1812324,portwatch
+2026-04-13,Bab el-Mandeb Strait,chokepoint4,34,15,7,8,3,1,1073648,portwatch
+2026-04-14,Bab el-Mandeb Strait,chokepoint4,35,17,5,9,4,0,1737817,portwatch
+2026-04-15,Bab el-Mandeb Strait,chokepoint4,41,16,10,7,7,1,1131212,portwatch
+2026-04-16,Bab el-Mandeb Strait,chokepoint4,48,16,7,20,5,0,2329284,portwatch
+2026-04-17,Bab el-Mandeb Strait,chokepoint4,27,11,2,11,3,0,990221,portwatch
+2026-04-18,Bab el-Mandeb Strait,chokepoint4,22,6,4,7,4,1,813230,portwatch
+2026-04-19,Bab el-Mandeb Strait,chokepoint4,43,17,7,9,7,3,1129447,portwatch
+2026-04-20,Bab el-Mandeb Strait,chokepoint4,52,15,12,17,7,1,1945244,portwatch
+2026-04-21,Bab el-Mandeb Strait,chokepoint4,36,14,6,13,3,0,877193,portwatch
+2026-04-22,Bab el-Mandeb Strait,chokepoint4,36,12,5,9,8,2,797144,portwatch
+2026-04-23,Bab el-Mandeb Strait,chokepoint4,29,9,8,7,3,2,954448,portwatch
+2026-04-24,Bab el-Mandeb Strait,chokepoint4,47,16,9,9,11,2,1675029,portwatch
+2026-04-25,Bab el-Mandeb Strait,chokepoint4,39,13,4,14,6,2,1408538,portwatch
+2026-04-26,Bab el-Mandeb Strait,chokepoint4,38,18,2,12,4,2,1460658,portwatch
+2026-04-27,Bab el-Mandeb Strait,chokepoint4,33,8,6,16,2,1,1630936,portwatch
+2026-04-28,Bab el-Mandeb Strait,chokepoint4,36,19,3,10,3,1,1882571,portwatch
+2026-04-29,Bab el-Mandeb Strait,chokepoint4,27,11,6,10,0,0,1513842,portwatch
+2026-04-30,Bab el-Mandeb Strait,chokepoint4,41,15,9,10,6,1,1585430,portwatch
+2026-05-01,Bab el-Mandeb Strait,chokepoint4,42,13,9,17,2,1,1526963,portwatch
+2026-05-02,Bab el-Mandeb Strait,chokepoint4,28,12,4,5,7,0,618205,portwatch
+2026-05-03,Bab el-Mandeb Strait,chokepoint4,36,18,7,9,2,0,1571144,portwatch
+2026-05-04,Bab el-Mandeb Strait,chokepoint4,45,13,11,12,7,2,1741857,portwatch
+2026-05-05,Bab el-Mandeb Strait,chokepoint4,32,16,5,8,2,1,1645059,portwatch
+2026-05-06,Bab el-Mandeb Strait,chokepoint4,31,14,5,7,4,1,1423721,portwatch
+2026-05-07,Bab el-Mandeb Strait,chokepoint4,25,8,4,6,6,1,807391,portwatch
+2026-05-08,Bab el-Mandeb Strait,chokepoint4,44,14,4,15,9,2,1648529,portwatch
+2026-05-09,Bab el-Mandeb Strait,chokepoint4,29,13,3,9,4,0,1337263,portwatch
+2026-05-10,Bab el-Mandeb Strait,chokepoint4,32,12,7,4,8,1,773907,portwatch
+2026-05-11,Bab el-Mandeb Strait,chokepoint4,30,9,4,13,2,2,1473697,portwatch
+2026-05-12,Bab el-Mandeb Strait,chokepoint4,45,20,8,11,3,3,1951047,portwatch
+2026-05-13,Bab el-Mandeb Strait,chokepoint4,38,16,5,8,7,2,1782637,portwatch
+2026-05-14,Bab el-Mandeb Strait,chokepoint4,38,13,6,7,9,3,1810717,portwatch
+2026-05-15,Bab el-Mandeb Strait,chokepoint4,24,7,6,5,6,0,657910,portwatch
+2026-05-16,Bab el-Mandeb Strait,chokepoint4,38,13,5,11,6,3,1357349,portwatch
+2026-05-17,Bab el-Mandeb Strait,chokepoint4,34,10,4,12,6,2,987441,portwatch
+2026-05-18,Bab el-Mandeb Strait,chokepoint4,45,19,5,13,6,2,1448844,portwatch
+2026-05-19,Bab el-Mandeb Strait,chokepoint4,45,15,12,6,6,6,1169144,portwatch
+2026-05-20,Bab el-Mandeb Strait,chokepoint4,37,17,7,9,3,1,1119644,portwatch
+2026-05-21,Bab el-Mandeb Strait,chokepoint4,35,17,5,8,3,2,1306208,portwatch
+2026-05-22,Bab el-Mandeb Strait,chokepoint4,38,12,6,14,4,2,1363478,portwatch
+2026-05-23,Bab el-Mandeb Strait,chokepoint4,42,13,4,16,7,2,1330174,portwatch
+2026-05-24,Bab el-Mandeb Strait,chokepoint4,46,23,4,12,7,0,1527777,portwatch
+2026-05-25,Bab el-Mandeb Strait,chokepoint4,37,15,4,10,8,0,1803214,portwatch
+2026-05-26,Bab el-Mandeb Strait,chokepoint4,26,14,5,6,1,0,1003510,portwatch
+2026-05-27,Bab el-Mandeb Strait,chokepoint4,40,12,11,10,3,4,1268470,portwatch
+2026-05-28,Bab el-Mandeb Strait,chokepoint4,42,17,12,8,4,1,1220296,portwatch
+2026-05-29,Bab el-Mandeb Strait,chokepoint4,30,13,6,8,3,0,1560840,portwatch
+2026-05-30,Bab el-Mandeb Strait,chokepoint4,32,10,4,14,3,1,1784666,portwatch
+2026-05-31,Bab el-Mandeb Strait,chokepoint4,33,13,2,12,3,3,945247,portwatch
+2026-06-01,Bab el-Mandeb Strait,chokepoint4,41,20,5,10,6,0,1707824,portwatch
+2026-06-02,Bab el-Mandeb Strait,chokepoint4,38,10,9,9,9,1,1314814,portwatch
+2026-06-03,Bab el-Mandeb Strait,chokepoint4,31,10,5,12,4,0,1284866,portwatch
+2026-06-04,Bab el-Mandeb Strait,chokepoint4,47,16,8,13,6,4,1514986,portwatch
+2026-06-05,Bab el-Mandeb Strait,chokepoint4,28,10,4,9,4,1,819039,portwatch
+2026-06-06,Bab el-Mandeb Strait,chokepoint4,41,17,6,10,6,2,1584761,portwatch
+2026-06-07,Bab el-Mandeb Strait,chokepoint4,37,18,5,8,5,1,1508288,portwatch
+2026-06-08,Bab el-Mandeb Strait,chokepoint4,31,10,7,8,6,0,771645,portwatch
+2026-06-09,Bab el-Mandeb Strait,chokepoint4,38,13,4,17,3,1,1323650,portwatch
+2026-06-10,Bab el-Mandeb Strait,chokepoint4,32,15,4,4,8,1,1412017,portwatch
+2026-06-11,Bab el-Mandeb Strait,chokepoint4,41,16,10,11,3,1,1163705,portwatch
+2026-06-12,Bab el-Mandeb Strait,chokepoint4,41,15,6,11,7,2,1798151,portwatch
+2026-06-13,Bab el-Mandeb Strait,chokepoint4,38,19,5,11,2,1,1357264,portwatch
+2026-06-14,Bab el-Mandeb Strait,chokepoint4,33,8,7,13,3,2,1243123,portwatch
+2026-06-15,Bab el-Mandeb Strait,chokepoint4,35,16,2,12,2,3,1161325,portwatch
+2026-06-16,Bab el-Mandeb Strait,chokepoint4,25,12,4,5,1,3,622071,portwatch
+2026-06-17,Bab el-Mandeb Strait,chokepoint4,42,14,5,14,7,2,1522771,portwatch
+2026-06-18,Bab el-Mandeb Strait,chokepoint4,41,14,9,9,6,3,1676000,portwatch
+2026-06-19,Bab el-Mandeb Strait,chokepoint4,41,15,5,10,8,3,1540083,portwatch
+2026-06-20,Bab el-Mandeb Strait,chokepoint4,39,21,8,5,3,2,2010302,portwatch
+2026-06-21,Bab el-Mandeb Strait,chokepoint4,37,13,6,7,7,4,793006,portwatch
+2026-06-22,Bab el-Mandeb Strait,chokepoint4,30,12,6,8,3,1,1514967,portwatch
+2026-06-23,Bab el-Mandeb Strait,chokepoint4,30,11,4,10,3,2,1282822,portwatch
+2026-06-24,Bab el-Mandeb Strait,chokepoint4,37,12,6,16,2,1,1725489,portwatch
+2026-06-25,Bab el-Mandeb Strait,chokepoint4,46,15,5,19,5,2,1788945,portwatch
+2026-06-26,Bab el-Mandeb Strait,chokepoint4,36,16,4,11,4,1,1394475,portwatch
+2026-06-27,Bab el-Mandeb Strait,chokepoint4,32,6,3,10,12,1,1172634,portwatch
+2026-06-28,Bab el-Mandeb Strait,chokepoint4,37,14,3,18,2,0,2360155,portwatch
+2026-06-29,Bab el-Mandeb Strait,chokepoint4,36,11,6,12,4,3,1586516,portwatch
+2026-06-30,Bab el-Mandeb Strait,chokepoint4,38,14,5,13,3,3,1485765,portwatch
+2026-07-01,Bab el-Mandeb Strait,chokepoint4,32,12,10,7,2,1,1496359,portwatch
+2026-07-02,Bab el-Mandeb Strait,chokepoint4,39,11,3,20,4,1,1783132,portwatch
+2026-07-03,Bab el-Mandeb Strait,chokepoint4,31,7,7,12,3,2,1297127,portwatch
+2026-07-04,Bab el-Mandeb Strait,chokepoint4,31,15,5,10,1,0,1026788,portwatch
+2026-07-05,Bab el-Mandeb Strait,chokepoint4,34,13,6,11,3,1,1805301,portwatch
+2026-07-06,Bab el-Mandeb Strait,chokepoint4,29,13,2,10,3,1,1426053,portwatch
+2026-07-07,Bab el-Mandeb Strait,chokepoint4,27,6,7,6,5,3,882519,portwatch
+2026-07-08,Bab el-Mandeb Strait,chokepoint4,32,10,4,12,4,2,1525961,portwatch
+2026-07-09,Bab el-Mandeb Strait,chokepoint4,29,11,5,7,4,2,1159255,portwatch
+2026-07-10,Bab el-Mandeb Strait,chokepoint4,27,11,3,9,4,0,1541982,portwatch
+2026-07-11,Bab el-Mandeb Strait,chokepoint4,44,21,6,13,3,1,1650599,portwatch
+2026-07-12,Bab el-Mandeb Strait,chokepoint4,41,14,7,10,10,0,1366176,portwatch
+2026-07-13,Bab el-Mandeb Strait,chokepoint4,46,22,5,12,6,1,1954128,portwatch
+2026-07-14,Bab el-Mandeb Strait,chokepoint4,46,14,9,15,6,2,1564038,portwatch
+2026-07-15,Bab el-Mandeb Strait,chokepoint4,40,15,5,16,2,2,1317165,portwatch
+2026-07-16,Bab el-Mandeb Strait,chokepoint4,33,10,2,14,3,4,1189533,portwatch
+2026-07-17,Bab el-Mandeb Strait,chokepoint4,46,16,4,12,11,3,1594172,portwatch
+2026-07-18,Bab el-Mandeb Strait,chokepoint4,40,11,6,19,2,2,1845862,portwatch
+2026-07-19,Bab el-Mandeb Strait,chokepoint4,33,18,3,9,2,1,1341101,portwatch
+2026-07-20,Bab el-Mandeb Strait,chokepoint4,35,12,6,11,5,1,1469920,portwatch
+2026-07-21,Bab el-Mandeb Strait,chokepoint4,26,8,4,9,4,1,994834,portwatch
+2026-07-22,Bab el-Mandeb Strait,chokepoint4,31,7,9,13,2,0,1155436,portwatch
+2026-07-23,Bab el-Mandeb Strait,chokepoint4,34,14,4,7,7,2,1568922,portwatch
+2026-07-24,Bab el-Mandeb Strait,chokepoint4,30,7,6,6,5,6,1016622,portwatch
+2026-07-25,Bab el-Mandeb Strait,chokepoint4,22,5,5,9,3,0,700899,portwatch
+2026-07-26,Bab el-Mandeb Strait,chokepoint4,20,6,4,4,5,1,814080,portwatch
+2026-07-27,Bab el-Mandeb Strait,chokepoint4,32,12,4,10,5,1,1446031,portwatch
+2026-07-28,Bab el-Mandeb Strait,chokepoint4,33,13,1,16,3,0,1179765,portwatch
+2026-07-29,Bab el-Mandeb Strait,chokepoint4,34,6,9,10,7,2,765593,portwatch
+2026-07-30,Bab el-Mandeb Strait,chokepoint4,38,14,7,8,6,3,734770,portwatch
+2026-07-31,Bab el-Mandeb Strait,chokepoint4,28,7,7,9,3,2,614761,portwatch
+2026-08-01,Bab el-Mandeb Strait,chokepoint4,20,5,1,7,7,0,626072,portwatch
+2026-08-02,Bab el-Mandeb Strait,chokepoint4,30,6,7,10,5,2,1067102,portwatch
+2026-08-03,Bab el-Mandeb Strait,chokepoint4,17,5,3,8,1,0,588450,portwatch
+2026-08-04,Bab el-Mandeb Strait,chokepoint4,27,9,5,7,5,1,1119992,portwatch
+2026-08-05,Bab el-Mandeb Strait,chokepoint4,14,4,1,5,2,2,479625,portwatch
+2026-08-06,Bab el-Mandeb Strait,chokepoint4,31,13,2,8,6,2,1080015,portwatch
+2026-08-07,Bab el-Mandeb Strait,chokepoint4,30,13,5,8,3,1,891777,portwatch
+2026-08-08,Bab el-Mandeb Strait,chokepoint4,25,8,2,10,3,2,647340,portwatch
+2026-08-09,Bab el-Mandeb Strait,chokepoint4,34,9,10,10,3,2,1026734,portwatch
+2026-08-10,Bab el-Mandeb Strait,chokepoint4,29,13,4,9,2,1,782465,portwatch
+2026-08-11,Bab el-Mandeb Strait,chokepoint4,25,6,6,8,5,0,676619,portwatch
+2026-08-12,Bab el-Mandeb Strait,chokepoint4,25,6,4,9,5,1,972120,portwatch
+2026-08-13,Bab el-Mandeb Strait,chokepoint4,20,7,2,7,1,3,553186,portwatch
+2026-08-14,Bab el-Mandeb Strait,chokepoint4,31,7,5,15,3,1,1140524,portwatch
+2026-08-15,Bab el-Mandeb Strait,chokepoint4,40,10,9,13,6,2,1066055,portwatch
+2026-08-16,Bab el-Mandeb Strait,chokepoint4,36,13,4,12,5,2,1378089,portwatch
+2026-08-17,Bab el-Mandeb Strait,chokepoint4,29,5,6,8,10,0,754030,portwatch
+2026-08-18,Bab el-Mandeb Strait,chokepoint4,32,13,5,8,4,2,672649,portwatch
+2026-08-19,Bab el-Mandeb Strait,chokepoint4,33,12,6,10,5,0,905976,portwatch
+2026-08-20,Bab el-Mandeb Strait,chokepoint4,29,14,4,7,2,2,947827,portwatch
+2026-08-21,Bab el-Mandeb Strait,chokepoint4,21,7,3,7,2,2,635516,portwatch
+2026-08-22,Bab el-Mandeb Strait,chokepoint4,33,11,5,15,1,1,983351,portwatch
+2026-08-23,Bab el-Mandeb Strait,chokepoint4,29,6,7,13,2,1,1117466,portwatch
+2026-08-24,Bab el-Mandeb Strait,chokepoint4,36,12,4,10,10,0,1155194,portwatch
+2026-08-25,Bab el-Mandeb Strait,chokepoint4,25,10,6,4,3,2,907715,portwatch
+2026-08-26,Bab el-Mandeb Strait,chokepoint4,26,9,4,8,3,2,765317,portwatch
+2026-08-27,Bab el-Mandeb Strait,chokepoint4,21,4,5,6,6,0,685258,portwatch
+2026-08-28,Bab el-Mandeb Strait,chokepoint4,27,7,5,12,2,1,952444,portwatch
+2026-08-29,Bab el-Mandeb Strait,chokepoint4,20,8,2,6,2,2,641277,portwatch
+2026-08-30,Bab el-Mandeb Strait,chokepoint4,29,6,3,11,7,2,955552,portwatch
+2026-08-31,Bab el-Mandeb Strait,chokepoint4,24,5,5,7,6,1,616646,portwatch
+2026-09-01,Bab el-Mandeb Strait,chokepoint4,19,2,4,9,2,2,583729,portwatch
+2026-09-02,Bab el-Mandeb Strait,chokepoint4,38,18,8,8,3,1,1877300,portwatch
+2026-09-03,Bab el-Mandeb Strait,chokepoint4,24,5,6,7,4,2,749058,portwatch
+2026-09-04,Bab el-Mandeb Strait,chokepoint4,32,11,4,11,6,0,939446,portwatch
+2026-09-05,Bab el-Mandeb Strait,chokepoint4,18,2,5,5,5,1,479054,portwatch
+2026-09-06,Bab el-Mandeb Strait,chokepoint4,23,6,3,10,1,3,772334,portwatch
+2026-09-07,Bab el-Mandeb Strait,chokepoint4,34,13,10,9,2,0,928473,portwatch
+2026-09-08,Bab el-Mandeb Strait,chokepoint4,22,7,5,5,3,2,1079450,portwatch
+2026-09-09,Bab el-Mandeb Strait,chokepoint4,35,10,4,13,6,2,1204665,portwatch
+2026-09-10,Bab el-Mandeb Strait,chokepoint4,27,7,5,9,3,3,811308,portwatch
+2026-09-11,Bab el-Mandeb Strait,chokepoint4,22,6,5,5,4,2,961218,portwatch
+2026-09-12,Bab el-Mandeb Strait,chokepoint4,20,5,3,8,2,2,714526,portwatch
+2026-09-13,Bab el-Mandeb Strait,chokepoint4,31,9,9,9,4,0,918133,portwatch
+2026-09-14,Bab el-Mandeb Strait,chokepoint4,25,5,3,9,7,1,742155,portwatch
+2026-09-15,Bab el-Mandeb Strait,chokepoint4,24,9,4,9,1,1,974505,portwatch
+2026-09-16,Bab el-Mandeb Strait,chokepoint4,19,6,5,8,0,0,784020,portwatch
+2026-09-17,Bab el-Mandeb Strait,chokepoint4,27,5,9,8,2,3,762343,portwatch
+2026-09-18,Bab el-Mandeb Strait,chokepoint4,27,6,6,11,3,1,932286,portwatch
+2026-09-19,Bab el-Mandeb Strait,chokepoint4,25,10,4,4,3,4,813758,portwatch
+2026-09-20,Bab el-Mandeb Strait,chokepoint4,26,5,4,12,4,1,715953,portwatch
+2026-09-21,Bab el-Mandeb Strait,chokepoint4,27,8,6,6,5,2,782264,portwatch
+2026-09-22,Bab el-Mandeb Strait,chokepoint4,22,9,2,8,1,2,1101879,portwatch
+2026-09-23,Bab el-Mandeb Strait,chokepoint4,25,8,6,8,3,0,847745,portwatch
+2026-09-24,Bab el-Mandeb Strait,chokepoint4,31,8,2,11,6,4,1175553,portwatch
+2026-09-25,Bab el-Mandeb Strait,chokepoint4,29,10,6,8,4,1,1359322,portwatch
+2026-09-26,Bab el-Mandeb Strait,chokepoint4,29,12,8,7,2,0,1136344,portwatch
+2026-09-27,Bab el-Mandeb Strait,chokepoint4,27,11,4,10,2,0,1321601,portwatch
+2026-09-28,Bab el-Mandeb Strait,chokepoint4,30,9,4,11,4,2,943325,portwatch
+2026-09-29,Bab el-Mandeb Strait,chokepoint4,37,12,5,13,7,0,980632,portwatch
+2026-09-30,Bab el-Mandeb Strait,chokepoint4,22,7,4,6,4,1,738133,portwatch
+2026-10-01,Bab el-Mandeb Strait,chokepoint4,28,8,4,7,9,0,888347,portwatch
+2026-10-02,Bab el-Mandeb Strait,chokepoint4,26,8,6,5,5,2,823908,portwatch
+2026-10-03,Bab el-Mandeb Strait,chokepoint4,30,8,5,11,4,2,1149125,portwatch
+2026-10-04,Bab el-Mandeb Strait,chokepoint4,34,11,9,9,5,0,1133173,portwatch
+2026-10-05,Bab el-Mandeb Strait,chokepoint4,28,13,3,10,1,1,1301061,portwatch
+2026-10-06,Bab el-Mandeb Strait,chokepoint4,33,8,6,10,7,2,903855,portwatch
+2026-10-07,Bab el-Mandeb Strait,chokepoint4,35,12,6,11,4,2,1473591,portwatch
+2026-10-08,Bab el-Mandeb Strait,chokepoint4,25,9,5,7,4,0,788622,portwatch
+2026-10-09,Bab el-Mandeb Strait,chokepoint4,24,6,5,6,5,2,673505,portwatch
+2026-10-10,Bab el-Mandeb Strait,chokepoint4,22,5,8,6,0,3,573864,portwatch
+2026-10-11,Bab el-Mandeb Strait,chokepoint4,31,7,11,6,2,5,1136777,portwatch
+2026-10-12,Bab el-Mandeb Strait,chokepoint4,34,12,4,11,5,2,997549,portwatch
+2026-10-13,Bab el-Mandeb Strait,chokepoint4,17,6,3,7,1,0,600323,portwatch
+2026-10-14,Bab el-Mandeb Strait,chokepoint4,24,10,6,4,3,1,1037239,portwatch
+2026-10-15,Bab el-Mandeb Strait,chokepoint4,24,7,5,6,6,0,952646,portwatch
+2026-10-16,Bab el-Mandeb Strait,chokepoint4,25,11,3,8,2,1,1333613,portwatch
+2026-10-17,Bab el-Mandeb Strait,chokepoint4,29,7,8,6,7,1,1028126,portwatch
+2026-10-18,Bab el-Mandeb Strait,chokepoint4,32,17,4,6,3,2,1055547,portwatch
+2026-10-19,Bab el-Mandeb Strait,chokepoint4,36,9,11,11,4,1,991763,portwatch
+2026-10-20,Bab el-Mandeb Strait,chokepoint4,33,10,12,6,3,2,1050978,portwatch
+2026-10-21,Bab el-Mandeb Strait,chokepoint4,21,6,4,5,6,0,661045,portwatch
+2026-10-22,Bab el-Mandeb Strait,chokepoint4,23,7,3,10,0,3,848233,portwatch
+2026-10-23,Bab el-Mandeb Strait,chokepoint4,32,11,9,7,4,1,954463,portwatch
+2026-10-24,Bab el-Mandeb Strait,chokepoint4,21,11,3,5,1,1,844169,portwatch
+2026-10-25,Bab el-Mandeb Strait,chokepoint4,36,13,9,7,6,1,1157839,portwatch
+2025-01-01,Cape of Good Hope,chokepoint7,79,16,26,31,5,1,5510081,portwatch
+2025-01-02,Cape of Good Hope,chokepoint7,66,11,14,37,3,1,4085138,portwatch
+2025-01-03,Cape of Good Hope,chokepoint7,99,24,22,41,5,7,5702847,portwatch
+2025-01-04,Cape of Good Hope,chokepoint7,88,26,18,37,4,3,4992040,portwatch
+2025-01-05,Cape of Good Hope,chokepoint7,81,16,22,39,3,1,5372667,portwatch
+2025-01-06,Cape of Good Hope,chokepoint7,82,13,16,48,2,3,5083512,portwatch
+2025-01-07,Cape of Good Hope,chokepoint7,76,18,23,29,3,3,4770256,portwatch
+2025-01-08,Cape of Good Hope,chokepoint7,75,14,18,36,5,2,3944706,portwatch
+2025-01-09,Cape of Good Hope,chokepoint7,64,8,16,32,2,6,3465803,portwatch
+2025-01-10,Cape of Good Hope,chokepoint7,95,20,16,40,11,8,5416456,portwatch
+2025-01-11,Cape of Good Hope,chokepoint7,100,19,16,56,4,5,6228337,portwatch
+2025-01-12,Cape of Good Hope,chokepoint7,75,15,27,27,2,4,3981208,portwatch
+2025-01-13,Cape of Good Hope,chokepoint7,82,16,19,43,2,2,5642359,portwatch
+2025-01-14,Cape of Good Hope,chokepoint7,83,22,23,36,2,0,6218356,portwatch
+2025-01-15,Cape of Good Hope,chokepoint7,76,16,18,37,2,3,4378372,portwatch
+2025-01-16,Cape of Good Hope,chokepoint7,89,15,20,46,7,1,6458105,portwatch
+2025-01-17,Cape of Good Hope,chokepoint7,74,13,19,38,3,1,4353114,portwatch
+2025-01-18,Cape of Good Hope,chokepoint7,72,12,12,35,8,5,3620625,portwatch
+2025-01-19,Cape of Good Hope,chokepoint7,89,13,18,45,8,5,5257727,portwatch
+2025-01-20,Cape of Good Hope,chokepoint7,94,22,20,45,3,4,5353027,portwatch
+2025-01-21,Cape of Good Hope,chokepoint7,103,18,26,49,5,5,6017057,portwatch
+2025-01-22,Cape of Good Hope,chokepoint7,102,13,27,51,8,3,5592097,portwatch
+2025-01-23,Cape of Good Hope,chokepoint7,87,23,20,38,4,2,4295693,portwatch
+2025-01-24,Cape of Good Hope,chokepoint7,79,13,21,38,4,3,4964797,portwatch
+2025-01-25,Cape of Good Hope,chokepoint7,101,21,16,52,4,8,5703203,portwatch
+2025-01-26,Cape of Good Hope,chokepoint7,82,8,17,51,4,2,5300778,portwatch
+2025-01-27,Cape of Good Hope,chokepoint7,70,10,17,39,0,4,3477452,portwatch
+2025-01-28,Cape of Good Hope,chokepoint7,92,9,25,55,2,1,5345820,portwatch
+2025-01-29,Cape of Good Hope,chokepoint7,97,18,25,43,7,4,4665517,portwatch
+2025-01-30,Cape of Good Hope,chokepoint7,88,11,22,44,7,4,5368931,portwatch
+2025-01-31,Cape of Good Hope,chokepoint7,76,8,18,36,8,6,4103998,portwatch
+2025-02-01,Cape of Good Hope,chokepoint7,73,10,13,42,3,5,4363369,portwatch
+2025-02-02,Cape of Good Hope,chokepoint7,74,13,16,42,1,2,4653715,portwatch
+2025-02-03,Cape of Good Hope,chokepoint7,101,19,28,45,7,2,5323642,portwatch
+2025-02-04,Cape of Good Hope,chokepoint7,93,17,21,49,3,3,4813382,portwatch
+2025-02-05,Cape of Good Hope,chokepoint7,79,14,21,36,5,3,4203408,portwatch
+2025-02-06,Cape of Good Hope,chokepoint7,82,18,18,37,3,6,5033088,portwatch
+2025-02-07,Cape of Good Hope,chokepoint7,93,11,29,48,1,4,5547976,portwatch
+2025-02-08,Cape of Good Hope,chokepoint7,66,21,8,33,2,2,3909828,portwatch
+2025-02-09,Cape of Good Hope,chokepoint7,74,18,18,30,6,2,4013615,portwatch
+2025-02-10,Cape of Good Hope,chokepoint7,91,17,20,45,7,2,5098630,portwatch
+2025-02-11,Cape of Good Hope,chokepoint7,97,19,26,49,2,1,6088818,portwatch
+2025-02-12,Cape of Good Hope,chokepoint7,95,14,16,51,13,1,4407854,portwatch
+2025-02-13,Cape of Good Hope,chokepoint7,85,13,18,50,2,2,5293260,portwatch
+2025-02-14,Cape of Good Hope,chokepoint7,84,11,16,49,6,2,5799182,portwatch
+2025-02-15,Cape of Good Hope,chokepoint7,94,14,24,49,3,4,5690908,portwatch
+2025-02-16,Cape of Good Hope,chokepoint7,98,20,26,42,5,5,4962710,portwatch
+2025-02-17,Cape of Good Hope,chokepoint7,87,10,17,51,5,4,4696139,portwatch
+2025-02-18,Cape of Good Hope,chokepoint7,94,24,16,44,7,3,3709545,portwatch
+2025-02-19,Cape of Good Hope,chokepoint7,80,16,15,42,2,5,4724150,portwatch
+2025-02-20,Cape of Good Hope,chokepoint7,112,15,24,63,7,3,6168205,portwatch
+2025-02-21,Cape of Good Hope,chokepoint7,82,13,22,37,6,4,5310558,portwatch
+2025-02-22,Cape of Good Hope,chokepoint7,94,18,23,44,4,5,6361380,portwatch
+2025-02-23,Cape of Good Hope,chokepoint7,88,15,23,46,3,1,5946175,portwatch
+2025-02-24,Cape of Good Hope,chokepoint7,93,17,22,47,5,2,5846121,portwatch
+2025-02-25,Cape of Good Hope,chokepoint7,96,20,18,47,3,8,4903205,portwatch
+2025-02-26,Cape of Good Hope,chokepoint7,71,13,17,37,4,0,4834316,portwatch
+2025-02-27,Cape of Good Hope,chokepoint7,93,13,28,46,4,2,5183966,portwatch
+2025-02-28,Cape of Good Hope,chokepoint7,92,21,18,42,9,2,4587680,portwatch
+2025-03-01,Cape of Good Hope,chokepoint7,86,20,20,39,4,3,5064646,portwatch
+2025-03-02,Cape of Good Hope,chokepoint7,83,23,15,37,6,2,5049900,portwatch
+2025-03-03,Cape of Good Hope,chokepoint7,93,18,16,52,4,3,5187334,portwatch
+2025-03-04,Cape of Good Hope,chokepoint7,84,19,15,44,0,6,4732013,portwatch
+2025-03-05,Cape of Good Hope,chokepoint7,78,8,15,47,5,3,5060697,portwatch
+2025-03-06,Cape of Good Hope,chokepoint7,76,11,15,41,5,4,5142373,portwatch
+2025-03-07,Cape of Good Hope,chokepoint7,75,13,25,30,2,5,4764416,portwatch
+2025-03-08,Cape of Good Hope,chokepoint7,97,12,23,53,4,5,6426124,portwatch
+2025-03-09,Cape of Good Hope,chokepoint7,105,25,24,51,2,3,5636670,portwatch
+2025-03-10,Cape of Good Hope,chokepoint7,82,18,24,35,3,2,4862277,portwatch
+2025-03-11,Cape of Good Hope,chokepoint7,76,15,15,43,1,2,4875047,portwatch
+2025-03-12,Cape of Good Hope,chokepoint7,76,13,16,44,2,1,4253682,portwatch
+2025-03-13,Cape of Good Hope,chokepoint7,56,17,10,25,2,2,2924395,portwatch
+2025-03-14,Cape of Good Hope,chokepoint7,59,9,22,24,3,1,3101021,portwatch
+2025-03-15,Cape of Good Hope,chokepoint7,100,13,26,47,9,5,6641542,portwatch
+2025-03-16,Cape of Good Hope,chokepoint7,83,17,25,36,2,3,5906517,portwatch
+2025-03-17,Cape of Good Hope,chokepoint7,73,7,18,40,3,5,5495845,portwatch
+2025-03-18,Cape of Good Hope,chokepoint7,73,10,21,35,5,2,4443090,portwatch
+2025-03-19,Cape of Good Hope,chokepoint7,65,13,15,32,2,3,4610089,portwatch
+2025-03-20,Cape of Good Hope,chokepoint7,80,10,24,40,1,5,5634824,portwatch
+2025-03-21,Cape of Good Hope,chokepoint7,87,22,21,41,3,0,6435040,portwatch
+2025-03-22,Cape of Good Hope,chokepoint7,91,12,23,38,11,7,5357559,portwatch
+2025-03-23,Cape of Good Hope,chokepoint7,71,12,14,38,3,4,4226632,portwatch
+2025-03-24,Cape of Good Hope,chokepoint7,79,11,23,40,2,3,5256720,portwatch
+2025-03-25,Cape of Good Hope,chokepoint7,60,8,12,32,4,4,3281490,portwatch
+2025-03-26,Cape of Good Hope,chokepoint7,90,24,24,36,2,4,6174870,portwatch
+2025-03-27,Cape of Good Hope,chokepoint7,90,22,25,37,4,2,5647578,portwatch
+2025-03-28,Cape of Good Hope,chokepoint7,100,19,28,44,2,7,6332685,portwatch
+2025-03-29,Cape of Good Hope,chokepoint7,89,17,14,49,8,1,6879632,portwatch
+2025-03-30,Cape of Good Hope,chokepoint7,63,13,8,40,0,2,4074834,portwatch
+2025-03-31,Cape of Good Hope,chokepoint7,82,8,21,42,7,4,4005815,portwatch
+2025-04-01,Cape of Good Hope,chokepoint7,78,18,17,34,3,6,5367884,portwatch
+2025-04-02,Cape of Good Hope,chokepoint7,86,16,20,41,6,3,6094827,portwatch
+2025-04-03,Cape of Good Hope,chokepoint7,85,21,19,42,2,1,5165232,portwatch
+2025-04-04,Cape of Good Hope,chokepoint7,80,15,22,40,2,1,5158028,portwatch
+2025-04-05,Cape of Good Hope,chokepoint7,84,16,23,38,6,1,4997997,portwatch
+2025-04-06,Cape of Good Hope,chokepoint7,64,13,16,30,2,3,5597841,portwatch
+2025-04-07,Cape of Good Hope,chokepoint7,90,26,22,34,2,6,4651676,portwatch
+2025-04-08,Cape of Good Hope,chokepoint7,82,20,16,31,9,6,5090658,portwatch
+2025-04-09,Cape of Good Hope,chokepoint7,81,13,21,41,4,2,6463246,portwatch
+2025-04-10,Cape of Good Hope,chokepoint7,65,18,16,29,1,1,4579673,portwatch
+2025-04-11,Cape of Good Hope,chokepoint7,105,26,26,47,5,1,7449951,portwatch
+2025-04-12,Cape of Good Hope,chokepoint7,84,17,9,46,7,5,5586567,portwatch
+2025-04-13,Cape of Good Hope,chokepoint7,82,13,18,41,6,4,5566854,portwatch
+2025-04-14,Cape of Good Hope,chokepoint7,76,13,15,43,4,1,5580235,portwatch
+2025-04-15,Cape of Good Hope,chokepoint7,92,24,20,43,4,1,6253952,portwatch
+2025-04-16,Cape of Good Hope,chokepoint7,99,16,23,48,7,5,4972597,portwatch
+2025-04-17,Cape of Good Hope,chokepoint7,66,11,18,31,4,2,3844069,portwatch
+2025-04-18,Cape of Good Hope,chokepoint7,102,21,28,45,4,4,5903334,portwatch
+2025-04-19,Cape of Good Hope,chokepoint7,79,16,14,45,2,2,5553047,portwatch
+2025-04-20,Cape of Good Hope,chokepoint7,70,18,17,27,4,4,4710160,portwatch
+2025-04-21,Cape of Good Hope,chokepoint7,77,19,17,32,4,5,4282788,portwatch
+2025-04-22,Cape of Good Hope,chokepoint7,81,11,22,39,4,5,5045405,portwatch
+2025-04-23,Cape of Good Hope,chokepoint7,95,16,20,50,4,5,6786037,portwatch
+2025-04-24,Cape of Good Hope,chokepoint7,104,21,27,48,3,5,6573703,portwatch
+2025-04-25,Cape of Good Hope,chokepoint7,92,16,21,51,3,1,6861993,portwatch
+2025-04-26,Cape of Good Hope,chokepoint7,90,19,15,44,5,7,5619717,portwatch
+2025-04-27,Cape of Good Hope,chokepoint7,79,13,22,38,3,3,5305763,portwatch
+2025-04-28,Cape of Good Hope,chokepoint7,82,10,19,43,4,6,4684811,portwatch
+2025-04-29,Cape of Good Hope,chokepoint7,89,22,16,46,2,3,5897709,portwatch
+2025-04-30,Cape of Good Hope,chokepoint7,85,15,18,46,4,2,5566015,portwatch
+2025-05-01,Cape of Good Hope,chokepoint7,60,13,9,35,1,2,4330585,portwatch
+2025-05-02,Cape of Good Hope,chokepoint7,63,9,20,28,0,6,4745768,portwatch
+2025-05-03,Cape of Good Hope,chokepoint7,71,17,13,37,2,2,4992033,portwatch
+2025-05-04,Cape of Good Hope,chokepoint7,101,17,29,45,9,1,6398757,portwatch
+2025-05-05,Cape of Good Hope,chokepoint7,110,17,23,59,6,5,7240128,portwatch
+2025-05-06,Cape of Good Hope,chokepoint7,111,25,30,45,6,5,6766886,portwatch
+2025-05-07,Cape of Good Hope,chokepoint7,97,14,19,56,6,2,7397668,portwatch
+2025-05-08,Cape of Good Hope,chokepoint7,104,19,24,52,7,2,5812912,portwatch
+2025-05-09,Cape of Good Hope,chokepoint7,85,15,23,43,3,1,5384789,portwatch
+2025-05-10,Cape of Good Hope,chokepoint7,64,20,3,37,2,2,3544831,portwatch
+2025-05-11,Cape of Good Hope,chokepoint7,62,12,8,40,0,2,4485920,portwatch
+2025-05-12,Cape of Good Hope,chokepoint7,108,19,31,47,6,5,6967109,portwatch
+2025-05-13,Cape of Good Hope,chokepoint7,87,19,21,35,6,6,5395601,portwatch
+2025-05-14,Cape of Good Hope,chokepoint7,139,21,41,62,7,8,7239283,portwatch
+2025-05-15,Cape of Good Hope,chokepoint7,102,16,25,49,8,4,4540437,portwatch
+2025-05-16,Cape of Good Hope,chokepoint7,123,24,28,63,5,3,8892438,portwatch
+2025-05-17,Cape of Good Hope,chokepoint7,100,16,18,57,7,2,6377978,portwatch
+2025-05-18,Cape of Good Hope,chokepoint7,106,24,19,48,10,5,6756140,portwatch
+2025-05-19,Cape of Good Hope,chokepoint7,84,19,11,43,4,7,5049140,portwatch
+2025-05-20,Cape of Good Hope,chokepoint7,50,10,6,32,0,2,3597981,portwatch
+2025-05-21,Cape of Good Hope,chokepoint7,50,15,10,24,1,0,3856937,portwatch
+2025-05-22,Cape of Good Hope,chokepoint7,66,17,16,30,2,1,4454906,portwatch
+2025-05-23,Cape of Good Hope,chokepoint7,89,19,22,43,1,4,6022235,portwatch
+2025-05-24,Cape of Good Hope,chokepoint7,111,14,34,47,6,10,5968345,portwatch
+2025-05-25,Cape of Good Hope,chokepoint7,103,15,31,50,4,3,5977700,portwatch
+2025-05-26,Cape of Good Hope,chokepoint7,99,24,17,47,9,2,6676993,portwatch
+2025-05-27,Cape of Good Hope,chokepoint7,92,18,20,50,1,3,6428184,portwatch
+2025-05-28,Cape of Good Hope,chokepoint7,101,21,27,46,2,5,7199009,portwatch
+2025-05-29,Cape of Good Hope,chokepoint7,77,20,17,36,3,1,4972263,portwatch
+2025-05-30,Cape of Good Hope,chokepoint7,73,10,10,47,4,2,5506740,portwatch
+2025-05-31,Cape of Good Hope,chokepoint7,84,18,12,46,2,6,6703432,portwatch
+2025-06-01,Cape of Good Hope,chokepoint7,75,14,15,39,4,3,4099254,portwatch
+2025-06-02,Cape of Good Hope,chokepoint7,101,16,26,50,5,4,5740644,portwatch
+2025-06-03,Cape of Good Hope,chokepoint7,112,15,29,52,8,8,6736916,portwatch
+2025-06-04,Cape of Good Hope,chokepoint7,90,18,19,47,5,1,6155015,portwatch
+2025-06-05,Cape of Good Hope,chokepoint7,106,15,39,43,5,4,5225736,portwatch
+2025-06-06,Cape of Good Hope,chokepoint7,106,22,29,46,4,5,6252549,portwatch
+2025-06-07,Cape of Good Hope,chokepoint7,99,20,18,57,4,0,6512232,portwatch
+2025-06-08,Cape of Good Hope,chokepoint7,88,14,14,56,3,1,6778838,portwatch
+2025-06-09,Cape of Good Hope,chokepoint7,88,18,21,42,4,3,5126032,portwatch
+2025-06-10,Cape of Good Hope,chokepoint7,93,22,29,30,5,7,4954354,portwatch
+2025-06-11,Cape of Good Hope,chokepoint7,65,9,15,36,2,3,4289956,portwatch
+2025-06-12,Cape of Good Hope,chokepoint7,83,12,19,50,0,2,7124591,portwatch
+2025-06-13,Cape of Good Hope,chokepoint7,82,13,18,43,3,5,6311560,portwatch
+2025-06-14,Cape of Good Hope,chokepoint7,125,21,33,64,6,1,8301919,portwatch
+2025-06-15,Cape of Good Hope,chokepoint7,103,23,22,46,4,8,7389390,portwatch
+2025-06-16,Cape of Good Hope,chokepoint7,112,21,22,61,3,5,6753032,portwatch
+2025-06-17,Cape of Good Hope,chokepoint7,75,12,11,50,1,1,5263808,portwatch
+2025-06-18,Cape of Good Hope,chokepoint7,88,22,15,48,1,2,4961348,portwatch
+2025-06-19,Cape of Good Hope,chokepoint7,64,10,20,31,2,1,3901520,portwatch
+2025-06-20,Cape of Good Hope,chokepoint7,75,17,15,35,3,5,5606851,portwatch
+2025-06-21,Cape of Good Hope,chokepoint7,117,22,47,44,2,2,8347319,portwatch
+2025-06-22,Cape of Good Hope,chokepoint7,91,13,29,37,7,5,7027983,portwatch
+2025-06-23,Cape of Good Hope,chokepoint7,63,16,9,32,4,2,4304114,portwatch
+2025-06-24,Cape of Good Hope,chokepoint7,88,15,22,42,5,4,4818252,portwatch
+2025-06-25,Cape of Good Hope,chokepoint7,69,9,8,46,2,4,5933224,portwatch
+2025-06-26,Cape of Good Hope,chokepoint7,79,18,14,44,2,1,5646821,portwatch
+2025-06-27,Cape of Good Hope,chokepoint7,66,15,15,33,2,1,3834082,portwatch
+2025-06-28,Cape of Good Hope,chokepoint7,92,12,31,41,2,6,4744282,portwatch
+2025-06-29,Cape of Good Hope,chokepoint7,116,18,24,61,5,8,7474334,portwatch
+2025-06-30,Cape of Good Hope,chokepoint7,145,27,32,70,5,11,9742445,portwatch
+2025-07-01,Cape of Good Hope,chokepoint7,145,27,29,74,9,6,8628085,portwatch
+2025-07-02,Cape of Good Hope,chokepoint7,108,12,23,60,8,5,8778007,portwatch
+2025-07-03,Cape of Good Hope,chokepoint7,98,14,23,53,6,2,5797557,portwatch
+2025-07-04,Cape of Good Hope,chokepoint7,90,14,21,48,4,3,5475817,portwatch
+2025-07-05,Cape of Good Hope,chokepoint7,75,15,9,45,4,2,5534467,portwatch
+2025-07-06,Cape of Good Hope,chokepoint7,71,10,13,42,4,2,4680914,portwatch
+2025-07-07,Cape of Good Hope,chokepoint7,85,15,25,41,1,3,5440623,portwatch
+2025-07-08,Cape of Good Hope,chokepoint7,111,14,20,64,6,7,7995779,portwatch
+2025-07-09,Cape of Good Hope,chokepoint7,124,26,25,63,8,2,8680875,portwatch
+2025-07-10,Cape of Good Hope,chokepoint7,103,19,20,53,5,6,6779449,portwatch
+2025-07-11,Cape of Good Hope,chokepoint7,58,14,7,36,1,0,3364116,portwatch
+2025-07-12,Cape of Good Hope,chokepoint7,77,15,7,48,4,3,5024386,portwatch
+2025-07-13,Cape of Good Hope,chokepoint7,135,23,42,62,5,3,8525237,portwatch
+2025-07-14,Cape of Good Hope,chokepoint7,117,16,28,63,4,6,6337467,portwatch
+2025-07-15,Cape of Good Hope,chokepoint7,102,16,30,46,4,6,4832022,portwatch
+2025-07-16,Cape of Good Hope,chokepoint7,91,16,17,52,4,2,6289161,portwatch
+2025-07-17,Cape of Good Hope,chokepoint7,66,17,8,36,5,0,4734956,portwatch
+2025-07-18,Cape of Good Hope,chokepoint7,58,15,6,33,2,2,4962162,portwatch
+2025-07-19,Cape of Good Hope,chokepoint7,120,20,37,55,4,4,6058035,portwatch
+2025-07-20,Cape of Good Hope,chokepoint7,141,22,34,65,11,9,7990618,portwatch
+2025-07-21,Cape of Good Hope,chokepoint7,102,25,25,48,2,2,6427002,portwatch
+2025-07-22,Cape of Good Hope,chokepoint7,89,13,15,49,4,8,4605300,portwatch
+2025-07-23,Cape of Good Hope,chokepoint7,110,19,22,62,6,1,7158565,portwatch
+2025-07-24,Cape of Good Hope,chokepoint7,85,12,17,50,3,3,6023591,portwatch
+2025-07-25,Cape of Good Hope,chokepoint7,77,10,15,45,1,6,5673305,portwatch
+2025-07-26,Cape of Good Hope,chokepoint7,86,8,26,46,3,3,5716414,portwatch
+2025-07-27,Cape of Good Hope,chokepoint7,109,23,24,55,3,4,7955546,portwatch
+2025-07-28,Cape of Good Hope,chokepoint7,92,15,20,49,5,3,6427109,portwatch
+2025-07-29,Cape of Good Hope,chokepoint7,110,28,23,46,4,9,5659218,portwatch
+2025-07-30,Cape of Good Hope,chokepoint7,95,24,23,45,3,0,5456980,portwatch
+2025-07-31,Cape of Good Hope,chokepoint7,59,14,11,33,1,0,4307482,portwatch
+2025-08-01,Cape of Good Hope,chokepoint7,59,20,5,31,2,1,5103603,portwatch
+2025-08-02,Cape of Good Hope,chokepoint7,134,23,42,62,6,1,10112470,portwatch
+2025-08-03,Cape of Good Hope,chokepoint7,117,14,35,58,5,5,7340856,portwatch
+2025-08-04,Cape of Good Hope,chokepoint7,82,19,17,34,4,8,4754757,portwatch
+2025-08-05,Cape of Good Hope,chokepoint7,93,26,15,45,3,4,6620640,portwatch
+2025-08-06,Cape of Good Hope,chokepoint7,92,17,16,44,11,4,5187805,portwatch
+2025-08-07,Cape of Good Hope,chokepoint7,105,17,29,46,8,5,5353024,portwatch
+2025-08-08,Cape of Good Hope,chokepoint7,100,23,18,49,8,2,5563215,portwatch
+2025-08-09,Cape of Good Hope,chokepoint7,80,19,10,48,1,2,5870962,portwatch
+2025-08-10,Cape of Good Hope,chokepoint7,56,8,11,33,0,4,2931847,portwatch
+2025-08-11,Cape of Good Hope,chokepoint7,96,19,30,44,2,1,6268969,portwatch
+2025-08-12,Cape of Good Hope,chokepoint7,120,23,31,58,5,3,7918566,portwatch
+2025-08-13,Cape of Good Hope,chokepoint7,127,24,29,62,7,5,8458475,portwatch
+2025-08-14,Cape of Good Hope,chokepoint7,93,20,17,46,5,5,6145637,portwatch
+2025-08-15,Cape of Good Hope,chokepoint7,111,15,23,66,2,5,7683482,portwatch
+2025-08-16,Cape of Good Hope,chokepoint7,103,17,23,53,4,6,6680737,portwatch
+2025-08-17,Cape of Good Hope,chokepoint7,102,18,17,53,10,4,6832923,portwatch
+2025-08-18,Cape of Good Hope,chokepoint7,105,23,20,52,4,6,6463750,portwatch
+2025-08-19,Cape of Good Hope,chokepoint7,114,22,25,59,7,1,7262264,portwatch
+2025-08-20,Cape of Good Hope,chokepoint7,102,17,33,47,3,2,6123630,portwatch
+2025-08-21,Cape of Good Hope,chokepoint7,94,20,24,44,3,3,6108475,portwatch
+2025-08-22,Cape of Good Hope,chokepoint7,82,20,8,51,2,1,5983497,portwatch
+2025-08-23,Cape of Good Hope,chokepoint7,48,10,1,37,0,0,3477001,portwatch
+2025-08-24,Cape of Good Hope,chokepoint7,87,15,13,54,2,3,6405769,portwatch
+2025-08-25,Cape of Good Hope,chokepoint7,127,17,37,57,8,8,7153614,portwatch
+2025-08-26,Cape of Good Hope,chokepoint7,144,25,36,66,7,10,7198987,portwatch
+2025-08-27,Cape of Good Hope,chokepoint7,115,14,23,69,9,0,7224706,portwatch
+2025-08-28,Cape of Good Hope,chokepoint7,104,22,19,58,3,2,6539953,portwatch
+2025-08-29,Cape of Good Hope,chokepoint7,96,23,22,42,5,4,7192907,portwatch
+2025-08-30,Cape of Good Hope,chokepoint7,85,16,18,44,4,3,5364090,portwatch
+2025-08-31,Cape of Good Hope,chokepoint7,69,12,13,36,3,5,4313902,portwatch
+2025-09-01,Cape of Good Hope,chokepoint7,95,10,28,50,5,2,5834030,portwatch
+2025-09-02,Cape of Good Hope,chokepoint7,82,9,18,47,4,4,5251187,portwatch
+2025-09-03,Cape of Good Hope,chokepoint7,104,19,25,51,3,6,6600311,portwatch
+2025-09-04,Cape of Good Hope,chokepoint7,82,14,16,41,5,6,4797410,portwatch
+2025-09-05,Cape of Good Hope,chokepoint7,106,26,15,51,7,7,7844817,portwatch
+2025-09-06,Cape of Good Hope,chokepoint7,96,21,23,48,3,1,6416894,portwatch
+2025-09-07,Cape of Good Hope,chokepoint7,79,13,24,34,5,3,3919345,portwatch
+2025-09-08,Cape of Good Hope,chokepoint7,82,16,18,42,3,3,5483931,portwatch
+2025-09-09,Cape of Good Hope,chokepoint7,100,17,28,45,7,3,6385087,portwatch
+2025-09-10,Cape of Good Hope,chokepoint7,114,21,22,69,2,0,8882428,portwatch
+2025-09-11,Cape of Good Hope,chokepoint7,90,19,19,38,9,5,5618400,portwatch
+2025-09-12,Cape of Good Hope,chokepoint7,94,23,24,37,7,3,7334025,portwatch
+2025-09-13,Cape of Good Hope,chokepoint7,92,14,28,36,8,6,5555361,portwatch
+2025-09-14,Cape of Good Hope,chokepoint7,101,18,22,54,3,4,6671339,portwatch
+2025-09-15,Cape of Good Hope,chokepoint7,66,11,11,39,3,2,4704200,portwatch
+2025-09-16,Cape of Good Hope,chokepoint7,61,17,3,36,4,1,4738427,portwatch
+2025-09-17,Cape of Good Hope,chokepoint7,87,20,21,39,3,4,5928833,portwatch
+2025-09-18,Cape of Good Hope,chokepoint7,99,23,26,42,5,3,7144312,portwatch
+2025-09-19,Cape of Good Hope,chokepoint7,144,27,42,62,6,7,8574474,portwatch
+2025-09-20,Cape of Good Hope,chokepoint7,109,25,18,56,6,4,6962654,portwatch
+2025-09-21,Cape of Good Hope,chokepoint7,107,23,19,56,4,5,6537985,portwatch
+2025-09-22,Cape of Good Hope,chokepoint7,97,18,22,53,2,2,5834588,portwatch
+2025-09-23,Cape of Good Hope,chokepoint7,100,20,22,52,3,3,6178412,portwatch
+2025-09-24,Cape of Good Hope,chokepoint7,86,19,18,36,3,10,4617231,portwatch
+2025-09-25,Cape of Good Hope,chokepoint7,107,27,22,51,4,3,8055246,portwatch
+2025-09-26,Cape of Good Hope,chokepoint7,74,10,17,39,2,6,4445738,portwatch
+2025-09-27,Cape of Good Hope,chokepoint7,87,17,20,45,3,2,5556209,portwatch
+2025-09-28,Cape of Good Hope,chokepoint7,85,16,19,44,4,2,5651476,portwatch
+2025-09-29,Cape of Good Hope,chokepoint7,100,19,21,50,8,2,6767476,portwatch
+2025-09-30,Cape of Good Hope,chokepoint7,107,23,20,56,5,3,6612970,portwatch
+2025-10-01,Cape of Good Hope,chokepoint7,118,24,17,67,6,4,8218171,portwatch
+2025-10-02,Cape of Good Hope,chokepoint7,88,19,16,46,3,4,6865927,portwatch
+2025-10-03,Cape of Good Hope,chokepoint7,84,12,25,37,7,3,5857768,portwatch
+2025-10-04,Cape of Good Hope,chokepoint7,124,21,34,60,4,5,6073093,portwatch
+2025-10-05,Cape of Good Hope,chokepoint7,87,16,14,52,2,3,7166989,portwatch
+2025-10-06,Cape of Good Hope,chokepoint7,63,14,4,37,5,3,4728636,portwatch
+2025-10-07,Cape of Good Hope,chokepoint7,87,13,16,50,5,3,5327383,portwatch
+2025-10-08,Cape of Good Hope,chokepoint7,121,29,34,50,5,3,7481151,portwatch
+2025-10-09,Cape of Good Hope,chokepoint7,124,24,29,60,4,7,6893850,portwatch
+2025-10-10,Cape of Good Hope,chokepoint7,110,16,31,53,6,4,6067817,portwatch
+2025-10-11,Cape of Good Hope,chokepoint7,94,17,17,56,3,1,6081282,portwatch
+2025-10-12,Cape of Good Hope,chokepoint7,106,18,14,62,8,4,7240498,portwatch
+2025-10-13,Cape of Good Hope,chokepoint7,102,24,15,52,5,6,6172743,portwatch
+2025-10-14,Cape of Good Hope,chokepoint7,82,13,20,41,3,5,5628015,portwatch
+2025-10-15,Cape of Good Hope,chokepoint7,72,11,12,47,1,1,6368207,portwatch
+2025-10-16,Cape of Good Hope,chokepoint7,72,18,13,39,1,1,5404668,portwatch
+2025-10-17,Cape of Good Hope,chokepoint7,100,18,35,43,4,0,6249312,portwatch
+2025-10-18,Cape of Good Hope,chokepoint7,107,15,30,50,7,5,6257905,portwatch
+2025-10-19,Cape of Good Hope,chokepoint7,75,13,16,40,3,3,5144889,portwatch
+2025-10-20,Cape of Good Hope,chokepoint7,89,29,15,35,4,6,5840695,portwatch
+2025-10-21,Cape of Good Hope,chokepoint7,83,19,23,35,3,3,5195968,portwatch
+2025-10-22,Cape of Good Hope,chokepoint7,93,15,22,47,3,6,5174556,portwatch
+2025-10-23,Cape of Good Hope,chokepoint7,121,19,28,64,4,6,7744750,portwatch
+2025-10-24,Cape of Good Hope,chokepoint7,91,21,19,43,5,3,5563791,portwatch
+2025-10-25,Cape of Good Hope,chokepoint7,94,23,19,44,7,1,5791421,portwatch
+2025-10-26,Cape of Good Hope,chokepoint7,89,27,17,42,1,2,5775868,portwatch
+2025-10-27,Cape of Good Hope,chokepoint7,77,15,8,47,5,2,6334046,portwatch
+2025-10-28,Cape of Good Hope,chokepoint7,104,15,38,42,4,5,6399083,portwatch
+2025-10-29,Cape of Good Hope,chokepoint7,86,18,19,37,5,7,4362708,portwatch
+2025-10-30,Cape of Good Hope,chokepoint7,92,24,20,44,2,2,6911184,portwatch
+2025-10-31,Cape of Good Hope,chokepoint7,81,12,19,41,4,5,4615439,portwatch
+2025-11-01,Cape of Good Hope,chokepoint7,91,19,27,39,5,1,6619528,portwatch
+2025-11-02,Cape of Good Hope,chokepoint7,82,15,16,44,4,3,4546858,portwatch
+2025-11-03,Cape of Good Hope,chokepoint7,82,14,16,41,9,2,5256799,portwatch
+2025-11-04,Cape of Good Hope,chokepoint7,104,16,25,52,8,3,6348086,portwatch
+2025-11-05,Cape of Good Hope,chokepoint7,86,13,14,45,11,3,4917224,portwatch
+2025-11-06,Cape of Good Hope,chokepoint7,71,11,19,33,2,6,5019149,portwatch
+2025-11-07,Cape of Good Hope,chokepoint7,85,16,21,41,1,6,5005581,portwatch
+2025-11-08,Cape of Good Hope,chokepoint7,86,17,13,46,7,3,5241266,portwatch
+2025-11-09,Cape of Good Hope,chokepoint7,81,17,17,42,4,1,5011834,portwatch
+2025-11-10,Cape of Good Hope,chokepoint7,106,21,28,51,3,3,7582538,portwatch
+2025-11-11,Cape of Good Hope,chokepoint7,95,19,18,48,4,6,5371539,portwatch
+2025-11-12,Cape of Good Hope,chokepoint7,75,17,15,34,4,5,4509402,portwatch
+2025-11-13,Cape of Good Hope,chokepoint7,76,12,23,32,7,2,6070722,portwatch
+2025-11-14,Cape of Good Hope,chokepoint7,64,8,16,32,6,2,3236003,portwatch
+2025-11-15,Cape of Good Hope,chokepoint7,75,13,13,42,5,2,5134908,portwatch
+2025-11-16,Cape of Good Hope,chokepoint7,79,20,12,41,3,3,5653871,portwatch
+2025-11-17,Cape of Good Hope,chokepoint7,83,19,17,41,3,3,5120025,portwatch
+2025-11-18,Cape of Good Hope,chokepoint7,94,19,19,51,3,2,6618078,portwatch
+2025-11-19,Cape of Good Hope,chokepoint7,97,21,23,45,3,5,7320892,portwatch
+2025-11-20,Cape of Good Hope,chokepoint7,83,11,13,46,6,7,4460096,portwatch
+2025-11-21,Cape of Good Hope,chokepoint7,95,15,25,49,3,3,6466714,portwatch
+2025-11-22,Cape of Good Hope,chokepoint7,81,17,19,29,4,12,3748915,portwatch
+2025-11-23,Cape of Good Hope,chokepoint7,99,24,14,49,6,6,6037172,portwatch
+2025-11-24,Cape of Good Hope,chokepoint7,87,14,19,47,5,2,5215418,portwatch
+2025-11-25,Cape of Good Hope,chokepoint7,89,21,21,39,5,3,6556930,portwatch
+2025-11-26,Cape of Good Hope,chokepoint7,77,18,18,38,3,0,5418129,portwatch
+2025-11-27,Cape of Good Hope,chokepoint7,104,20,27,51,3,3,5961007,portwatch
+2025-11-28,Cape of Good Hope,chokepoint7,110,21,29,50,6,4,7833377,portwatch
+2025-11-29,Cape of Good Hope,chokepoint7,93,20,21,42,5,5,6192220,portwatch
+2025-11-30,Cape of Good Hope,chokepoint7,85,14,17,45,4,5,5557549,portwatch
+2025-12-01,Cape of Good Hope,chokepoint7,83,19,16,41,5,2,5206486,portwatch
+2025-12-02,Cape of Good Hope,chokepoint7,83,20,20,36,4,3,5928078,portwatch
+2025-12-03,Cape of Good Hope,chokepoint7,84,14,18,41,9,2,4625259,portwatch
+2025-12-04,Cape of Good Hope,chokepoint7,90,16,25,41,4,4,5018615,portwatch
+2025-12-05,Cape of Good Hope,chokepoint7,89,18,21,40,3,7,5862042,portwatch
+2025-12-06,Cape of Good Hope,chokepoint7,81,13,22,36,6,4,4295847,portwatch
+2025-12-07,Cape of Good Hope,chokepoint7,84,11,18,49,5,1,5786140,portwatch
+2025-12-08,Cape of Good Hope,chokepoint7,76,15,14,37,7,3,4037661,portwatch
+2025-12-09,Cape of Good Hope,chokepoint7,74,11,15,42,4,2,4201429,portwatch
+2025-12-10,Cape of Good Hope,chokepoint7,103,14,29,54,1,5,6300222,portwatch
+2025-12-11,Cape of Good Hope,chokepoint7,87,12,19,44,5,7,4673476,portwatch
+2025-12-12,Cape of Good Hope,chokepoint7,89,13,21,48,7,0,6100675,portwatch
+2025-12-13,Cape of Good Hope,chokepoint7,87,14,19,48,4,2,5867453,portwatch
+2025-12-14,Cape of Good Hope,chokepoint7,91,18,18,50,3,2,5270113,portwatch
+2025-12-15,Cape of Good Hope,chokepoint7,102,23,19,51,7,2,7527726,portwatch
+2025-12-16,Cape of Good Hope,chokepoint7,76,15,14,46,1,0,5510261,portwatch
+2025-12-17,Cape of Good Hope,chokepoint7,83,17,17,44,2,3,5823049,portwatch
+2025-12-18,Cape of Good Hope,chokepoint7,71,17,23,24,2,5,4521765,portwatch
+2025-12-19,Cape of Good Hope,chokepoint7,74,17,23,29,4,1,5169071,portwatch
+2025-12-20,Cape of Good Hope,chokepoint7,82,17,19,38,4,4,4897918,portwatch
+2025-12-21,Cape of Good Hope,chokepoint7,64,15,13,30,3,3,3788363,portwatch
+2025-12-22,Cape of Good Hope,chokepoint7,91,28,24,34,3,2,5966073,portwatch
+2025-12-23,Cape of Good Hope,chokepoint7,89,20,19,43,5,2,6694936,portwatch
+2025-12-24,Cape of Good Hope,chokepoint7,78,11,12,46,5,4,5532044,portwatch
+2025-12-25,Cape of Good Hope,chokepoint7,77,8,24,35,7,3,4674581,portwatch
+2025-12-26,Cape of Good Hope,chokepoint7,99,20,28,40,6,5,6012707,portwatch
+2025-12-27,Cape of Good Hope,chokepoint7,78,10,12,46,3,7,3838768,portwatch
+2025-12-28,Cape of Good Hope,chokepoint7,81,15,21,35,7,3,4399872,portwatch
+2025-12-29,Cape of Good Hope,chokepoint7,84,20,22,34,5,3,5234687,portwatch
+2025-12-30,Cape of Good Hope,chokepoint7,108,16,28,55,3,6,7419477,portwatch
+2025-12-31,Cape of Good Hope,chokepoint7,89,17,15,52,3,2,6333287,portwatch
+2026-01-01,Cape of Good Hope,chokepoint7,80,15,21,38,4,2,5026026,portwatch
+2026-01-02,Cape of Good Hope,chokepoint7,89,15,24,43,4,3,5928164,portwatch
+2026-01-03,Cape of Good Hope,chokepoint7,77,20,17,31,6,3,4115615,portwatch
+2026-01-04,Cape of Good Hope,chokepoint7,80,18,20,36,3,3,4834235,portwatch
+2026-01-05,Cape of Good Hope,chokepoint7,99,17,28,42,4,8,5721426,portwatch
+2026-01-06,Cape of Good Hope,chokepoint7,73,12,20,36,5,0,4254747,portwatch
+2026-01-07,Cape of Good Hope,chokepoint7,54,9,12,30,0,3,4073482,portwatch
+2026-01-08,Cape of Good Hope,chokepoint7,100,14,24,46,9,7,6431186,portwatch
+2026-01-09,Cape of Good Hope,chokepoint7,98,19,28,46,1,4,6044428,portwatch
+2026-01-10,Cape of Good Hope,chokepoint7,90,18,22,35,9,6,4922676,portwatch
+2026-01-11,Cape of Good Hope,chokepoint7,93,12,12,58,6,5,4510923,portwatch
+2026-01-12,Cape of Good Hope,chokepoint7,99,22,20,49,7,1,7350739,portwatch
+2026-01-13,Cape of Good Hope,chokepoint7,89,14,19,43,9,4,4285287,portwatch
+2026-01-14,Cape of Good Hope,chokepoint7,84,17,20,36,4,7,4144703,portwatch
+2026-01-15,Cape of Good Hope,chokepoint7,97,15,25,48,7,2,6710593,portwatch
+2026-01-16,Cape of Good Hope,chokepoint7,85,14,22,41,4,4,5412366,portwatch
+2026-01-17,Cape of Good Hope,chokepoint7,88,14,17,53,1,3,5110758,portwatch
+2026-01-18,Cape of Good Hope,chokepoint7,85,22,23,30,3,7,4606938,portwatch
+2026-01-19,Cape of Good Hope,chokepoint7,76,16,16,36,6,2,4940655,portwatch
+2026-01-20,Cape of Good Hope,chokepoint7,94,18,16,49,2,9,5593210,portwatch
+2026-01-21,Cape of Good Hope,chokepoint7,92,17,17,52,2,4,5279464,portwatch
+2026-01-22,Cape of Good Hope,chokepoint7,93,18,21,49,4,1,6020166,portwatch
+2026-01-23,Cape of Good Hope,chokepoint7,83,19,20,36,6,2,5476958,portwatch
+2026-01-24,Cape of Good Hope,chokepoint7,74,14,20,32,5,3,4392818,portwatch
+2026-01-25,Cape of Good Hope,chokepoint7,90,15,30,35,8,2,4725166,portwatch
+2026-01-26,Cape of Good Hope,chokepoint7,108,24,21,52,4,7,5748891,portwatch
+2026-01-27,Cape of Good Hope,chokepoint7,98,23,22,48,1,4,4949938,portwatch
+2026-01-28,Cape of Good Hope,chokepoint7,87,13,19,47,3,5,4421907,portwatch
+2026-01-29,Cape of Good Hope,chokepoint7,94,18,20,47,5,4,5952192,portwatch
+2026-01-30,Cape of Good Hope,chokepoint7,101,16,21,53,9,2,5165548,portwatch
+2026-01-31,Cape of Good Hope,chokepoint7,69,11,16,36,2,4,3888822,portwatch
+2026-02-01,Cape of Good Hope,chokepoint7,75,15,17,35,4,4,4165606,portwatch
+2026-02-02,Cape of Good Hope,chokepoint7,68,7,13,40,5,3,3675660,portwatch
+2026-02-03,Cape of Good Hope,chokepoint7,81,7,18,49,4,3,4295040,portwatch
+2026-02-04,Cape of Good Hope,chokepoint7,96,16,21,48,3,8,5240421,portwatch
+2026-02-05,Cape of Good Hope,chokepoint7,78,13,16,45,4,0,4073265,portwatch
+2026-02-06,Cape of Good Hope,chokepoint7,80,11,23,40,3,3,5141360,portwatch
+2026-02-07,Cape of Good Hope,chokepoint7,67,13,16,36,1,1,4659307,portwatch
+2026-02-08,Cape of Good Hope,chokepoint7,80,16,17,44,2,1,4762077,portwatch
+2026-02-09,Cape of Good Hope,chokepoint7,85,12,14,49,7,3,5172724,portwatch
+2026-02-10,Cape of Good Hope,chokepoint7,98,13,26,51,4,4,6022169,portwatch
+2026-02-11,Cape of Good Hope,chokepoint7,84,19,11,48,3,3,5066441,portwatch
+2026-02-12,Cape of Good Hope,chokepoint7,83,17,21,41,2,2,4723497,portwatch
+2026-02-13,Cape of Good Hope,chokepoint7,78,16,18,40,3,1,5327381,portwatch
+2026-02-14,Cape of Good Hope,chokepoint7,82,13,24,44,1,0,5138848,portwatch
+2026-02-15,Cape of Good Hope,chokepoint7,92,12,25,49,2,4,6161542,portwatch
+2026-02-16,Cape of Good Hope,chokepoint7,104,24,23,51,2,4,6176657,portwatch
+2026-02-17,Cape of Good Hope,chokepoint7,82,9,16,50,4,3,6087791,portwatch
+2026-02-18,Cape of Good Hope,chokepoint7,76,13,20,36,3,4,4460812,portwatch
+2026-02-19,Cape of Good Hope,chokepoint7,103,17,23,53,6,4,5052864,portwatch
+2026-02-20,Cape of Good Hope,chokepoint7,98,11,23,54,5,5,4172877,portwatch
+2026-02-21,Cape of Good Hope,chokepoint7,94,16,18,35,11,14,5088829,portwatch
+2026-02-22,Cape of Good Hope,chokepoint7,114,14,14,69,15,2,4992338,portwatch
+2026-02-23,Cape of Good Hope,chokepoint7,104,14,28,50,6,6,6761761,portwatch
+2026-02-24,Cape of Good Hope,chokepoint7,101,11,27,55,5,3,6320545,portwatch
+2026-02-25,Cape of Good Hope,chokepoint7,70,13,15,39,1,2,5040261,portwatch
+2026-02-26,Cape of Good Hope,chokepoint7,87,12,22,45,4,4,5363920,portwatch
+2026-02-27,Cape of Good Hope,chokepoint7,110,15,31,58,4,2,5619314,portwatch
+2026-02-28,Cape of Good Hope,chokepoint7,67,9,13,36,5,4,2650093,portwatch
+2026-03-01,Cape of Good Hope,chokepoint7,79,12,6,58,2,1,4500788,portwatch
+2026-03-02,Cape of Good Hope,chokepoint7,77,11,17,43,2,4,3998153,portwatch
+2026-03-03,Cape of Good Hope,chokepoint7,105,13,29,52,5,6,5725036,portwatch
+2026-03-04,Cape of Good Hope,chokepoint7,117,15,29,65,6,2,5495679,portwatch
+2026-03-05,Cape of Good Hope,chokepoint7,116,14,27,59,10,6,7390252,portwatch
+2026-03-06,Cape of Good Hope,chokepoint7,79,12,24,36,5,2,4879598,portwatch
+2026-03-07,Cape of Good Hope,chokepoint7,73,10,11,45,3,4,4212305,portwatch
+2026-03-08,Cape of Good Hope,chokepoint7,82,14,23,40,2,3,4898754,portwatch
+2026-03-09,Cape of Good Hope,chokepoint7,105,18,20,61,2,4,5336243,portwatch
+2026-03-10,Cape of Good Hope,chokepoint7,93,13,23,48,5,4,4554265,portwatch
+2026-03-11,Cape of Good Hope,chokepoint7,99,12,20,55,5,7,5482962,portwatch
+2026-03-12,Cape of Good Hope,chokepoint7,83,11,19,45,5,3,5240024,portwatch
+2026-03-13,Cape of Good Hope,chokepoint7,91,11,30,41,6,3,5656834,portwatch
+2026-03-14,Cape of Good Hope,chokepoint7,84,20,14,40,8,2,4352857,portwatch
+2026-03-15,Cape of Good Hope,chokepoint7,92,25,26,36,0,5,5495580,portwatch
+2026-03-16,Cape of Good Hope,chokepoint7,83,13,16,47,5,2,5242098,portwatch
+2026-03-17,Cape of Good Hope,chokepoint7,98,28,19,46,1,4,6811742,portwatch
+2026-03-18,Cape of Good Hope,chokepoint7,107,15,25,54,8,5,4865640,portwatch
+2026-03-19,Cape of Good Hope,chokepoint7,90,20,21,39,7,3,5016533,portwatch
+2026-03-20,Cape of Good Hope,chokepoint7,89,24,16,46,1,2,5480617,portwatch
+2026-03-21,Cape of Good Hope,chokepoint7,91,19,20,45,3,4,5374957,portwatch
+2026-03-22,Cape of Good Hope,chokepoint7,86,16,27,36,3,4,4421837,portwatch
+2026-03-23,Cape of Good Hope,chokepoint7,85,23,15,37,5,5,3828899,portwatch
+2026-03-24,Cape of Good Hope,chokepoint7,87,21,11,42,6,7,3538794,portwatch
+2026-03-25,Cape of Good Hope,chokepoint7,92,25,16,41,5,5,5520321,portwatch
+2026-03-26,Cape of Good Hope,chokepoint7,103,24,29,40,2,8,6720811,portwatch
+2026-03-27,Cape of Good Hope,chokepoint7,86,21,20,37,5,3,5737599,portwatch
+2026-03-28,Cape of Good Hope,chokepoint7,87,29,15,35,5,3,4104797,portwatch
+2026-03-29,Cape of Good Hope,chokepoint7,91,23,21,39,4,4,6120813,portwatch
+2026-03-30,Cape of Good Hope,chokepoint7,80,16,16,40,5,3,4166850,portwatch
+2026-03-31,Cape of Good Hope,chokepoint7,99,21,20,51,6,1,6398214,portwatch
+2026-04-01,Cape of Good Hope,chokepoint7,85,11,19,49,2,4,4330626,portwatch
+2026-04-02,Cape of Good Hope,chokepoint7,89,24,15,44,2,4,3755061,portwatch
+2026-04-03,Cape of Good Hope,chokepoint7,102,24,23,43,6,6,5038572,portwatch
+2026-04-04,Cape of Good Hope,chokepoint7,114,28,32,39,6,9,5846472,portwatch
+2026-04-05,Cape of Good Hope,chokepoint7,66,24,9,32,1,0,4142757,portwatch
+2026-04-06,Cape of Good Hope,chokepoint7,64,20,14,28,1,1,4236964,portwatch
+2026-04-07,Cape of Good Hope,chokepoint7,76,15,17,39,4,1,5300995,portwatch
+2026-04-08,Cape of Good Hope,chokepoint7,116,32,32,43,3,6,6032002,portwatch
+2026-04-09,Cape of Good Hope,chokepoint7,105,31,21,43,7,3,5994757,portwatch
+2026-04-10,Cape of Good Hope,chokepoint7,102,25,27,39,6,5,5535681,portwatch
+2026-04-11,Cape of Good Hope,chokepoint7,93,19,17,50,2,5,6882349,portwatch
+2026-04-12,Cape of Good Hope,chokepoint7,96,19,25,42,3,7,6552880,portwatch
+2026-04-13,Cape of Good Hope,chokepoint7,104,29,24,41,4,6,6542323,portwatch
+2026-04-14,Cape of Good Hope,chokepoint7,106,28,26,44,5,3,5534232,portwatch
+2026-04-15,Cape of Good Hope,chokepoint7,90,22,16,45,5,2,6781468,portwatch
+2026-04-16,Cape of Good Hope,chokepoint7,95,35,17,37,1,5,5175645,portwatch
+2026-04-17,Cape of Good Hope,chokepoint7,96,22,28,42,2,2,7017474,portwatch
+2026-04-18,Cape of Good Hope,chokepoint7,91,19,26,37,3,6,4186449,portwatch
+2026-04-19,Cape of Good Hope,chokepoint7,86,27,4,51,4,0,5115548,portwatch
+2026-04-20,Cape of Good Hope,chokepoint7,66,19,10,30,2,5,3965198,portwatch
+2026-04-21,Cape of Good Hope,chokepoint7,82,19,11,48,4,0,4131201,portwatch
+2026-04-22,Cape of Good Hope,chokepoint7,75,25,18,25,3,4,5640112,portwatch
+2026-04-23,Cape of Good Hope,chokepoint7,121,23,38,47,5,8,7546514,portwatch
+2026-04-24,Cape of Good Hope,chokepoint7,132,22,33,55,10,12,8758572,portwatch
+2026-04-25,Cape of Good Hope,chokepoint7,130,24,28,66,5,7,10050778,portwatch
+2026-04-26,Cape of Good Hope,chokepoint7,82,24,13,43,0,2,5724410,portwatch
+2026-04-27,Cape of Good Hope,chokepoint7,67,14,5,41,1,6,4504249,portwatch
+2026-04-28,Cape of Good Hope,chokepoint7,70,21,27,20,2,0,4550282,portwatch
+2026-04-29,Cape of Good Hope,chokepoint7,75,21,16,33,4,1,3900415,portwatch
+2026-04-30,Cape of Good Hope,chokepoint7,108,24,29,50,1,4,6471856,portwatch
+2026-05-01,Cape of Good Hope,chokepoint7,86,23,27,32,2,2,4700501,portwatch
+2026-05-02,Cape of Good Hope,chokepoint7,123,20,32,60,5,6,7304563,portwatch
+2026-05-03,Cape of Good Hope,chokepoint7,107,22,18,57,7,3,5754268,portwatch
+2026-05-04,Cape of Good Hope,chokepoint7,88,24,14,44,2,4,5792816,portwatch
+2026-05-05,Cape of Good Hope,chokepoint7,84,13,10,50,5,6,4752320,portwatch
+2026-05-06,Cape of Good Hope,chokepoint7,67,14,9,39,1,4,4643368,portwatch
+2026-05-07,Cape of Good Hope,chokepoint7,95,19,27,43,4,2,7125811,portwatch
+2026-05-08,Cape of Good Hope,chokepoint7,95,23,28,38,4,2,7038709,portwatch
+2026-05-09,Cape of Good Hope,chokepoint7,126,21,39,57,5,4,7818928,portwatch
+2026-05-10,Cape of Good Hope,chokepoint7,65,22,6,35,1,1,4367401,portwatch
+2026-05-11,Cape of Good Hope,chokepoint7,35,9,0,24,2,0,2691166,portwatch
+2026-05-12,Cape of Good Hope,chokepoint7,55,19,2,34,0,0,2528195,portwatch
+2026-05-13,Cape of Good Hope,chokepoint7,100,23,20,48,5,4,8650380,portwatch
+2026-05-14,Cape of Good Hope,chokepoint7,119,31,37,40,6,5,7965342,portwatch
+2026-05-15,Cape of Good Hope,chokepoint7,161,40,40,62,7,12,9814719,portwatch
+2026-05-16,Cape of Good Hope,chokepoint7,150,30,29,77,7,7,7618848,portwatch
+2026-05-17,Cape of Good Hope,chokepoint7,101,17,20,44,15,5,5206248,portwatch
+2026-05-18,Cape of Good Hope,chokepoint7,95,18,18,49,4,6,6636383,portwatch
+2026-05-19,Cape of Good Hope,chokepoint7,73,17,19,33,4,0,6015778,portwatch
+2026-05-20,Cape of Good Hope,chokepoint7,112,30,23,47,4,8,5464156,portwatch
+2026-05-21,Cape of Good Hope,chokepoint7,110,30,20,55,1,4,6241844,portwatch
+2026-05-22,Cape of Good Hope,chokepoint7,105,19,27,53,2,4,7009632,portwatch
+2026-05-23,Cape of Good Hope,chokepoint7,80,17,15,41,2,5,5093290,portwatch
+2026-05-24,Cape of Good Hope,chokepoint7,109,26,23,40,9,11,6926654,portwatch
+2026-05-25,Cape of Good Hope,chokepoint7,97,22,24,43,3,5,6224551,portwatch
+2026-05-26,Cape of Good Hope,chokepoint7,82,16,20,40,3,3,5741698,portwatch
+2026-05-27,Cape of Good Hope,chokepoint7,78,17,8,47,3,3,4983339,portwatch
+2026-05-28,Cape of Good Hope,chokepoint7,98,25,26,43,3,1,6811230,portwatch
+2026-05-29,Cape of Good Hope,chokepoint7,88,10,20,47,5,6,5922830,portwatch
+2026-05-30,Cape of Good Hope,chokepoint7,121,24,23,64,6,4,8791834,portwatch
+2026-05-31,Cape of Good Hope,chokepoint7,100,17,20,54,5,4,6754076,portwatch
+2026-06-01,Cape of Good Hope,chokepoint7,109,24,27,43,8,7,6003745,portwatch
+2026-06-02,Cape of Good Hope,chokepoint7,86,23,17,36,2,8,4630632,portwatch
+2026-06-03,Cape of Good Hope,chokepoint7,78,11,16,45,3,3,4905316,portwatch
+2026-06-04,Cape of Good Hope,chokepoint7,69,16,11,39,0,3,4523157,portwatch
+2026-06-05,Cape of Good Hope,chokepoint7,103,19,32,45,1,6,7785783,portwatch
+2026-06-06,Cape of Good Hope,chokepoint7,96,26,24,40,4,2,7335882,portwatch
+2026-06-07,Cape of Good Hope,chokepoint7,100,30,25,35,3,7,6244187,portwatch
+2026-06-08,Cape of Good Hope,chokepoint7,102,23,20,49,3,7,7226243,portwatch
+2026-06-09,Cape of Good Hope,chokepoint7,88,15,20,42,5,6,5866213,portwatch
+2026-06-10,Cape of Good Hope,chokepoint7,105,17,27,51,8,2,6097980,portwatch
+2026-06-11,Cape of Good Hope,chokepoint7,81,16,10,46,6,3,5502935,portwatch
+2026-06-12,Cape of Good Hope,chokepoint7,76,19,16,37,3,1,5491036,portwatch
+2026-06-13,Cape of Good Hope,chokepoint7,79,15,22,36,3,3,5192459,portwatch
+2026-06-14,Cape of Good Hope,chokepoint7,107,21,24,58,2,2,7503652,portwatch
+2026-06-15,Cape of Good Hope,chokepoint7,96,27,19,42,3,5,5082763,portwatch
+2026-06-16,Cape of Good Hope,chokepoint7,97,25,16,49,4,3,5692792,portwatch
+2026-06-17,Cape of Good Hope,chokepoint7,83,15,14,49,4,1,5442189,portwatch
+2026-06-18,Cape of Good Hope,chokepoint7,94,15,27,44,4,4,5776839,portwatch
+2026-06-19,Cape of Good Hope,chokepoint7,95,17,28,39,6,5,4966763,portwatch
+2026-06-20,Cape of Good Hope,chokepoint7,98,22,22,43,5,6,6763800,portwatch
+2026-06-21,Cape of Good Hope,chokepoint7,106,27,30,44,2,3,6701078,portwatch
+2026-06-22,Cape of Good Hope,chokepoint7,110,21,23,54,4,8,6885309,portwatch
+2026-06-23,Cape of Good Hope,chokepoint7,90,22,20,41,2,5,5069481,portwatch
+2026-06-24,Cape of Good Hope,chokepoint7,78,14,9,46,4,5,4885751,portwatch
+2026-06-25,Cape of Good Hope,chokepoint7,91,17,22,42,6,4,5767505,portwatch
+2026-06-26,Cape of Good Hope,chokepoint7,91,28,26,33,4,0,6126858,portwatch
+2026-06-27,Cape of Good Hope,chokepoint7,105,21,21,53,6,4,6367869,portwatch
+2026-06-28,Cape of Good Hope,chokepoint7,80,19,14,39,2,6,5712528,portwatch
+2026-06-29,Cape of Good Hope,chokepoint7,88,12,19,50,5,2,5038762,portwatch
+2026-06-30,Cape of Good Hope,chokepoint7,103,27,23,46,3,4,7668507,portwatch
+2026-07-01,Cape of Good Hope,chokepoint7,100,14,24,49,8,5,5813379,portwatch
+2026-07-02,Cape of Good Hope,chokepoint7,97,15,25,45,4,8,5983927,portwatch
+2026-07-03,Cape of Good Hope,chokepoint7,101,21,24,51,2,3,7587621,portwatch
+2026-07-04,Cape of Good Hope,chokepoint7,69,11,15,37,4,2,4833529,portwatch
+2026-07-05,Cape of Good Hope,chokepoint7,115,19,31,53,8,4,6604091,portwatch
+2026-07-06,Cape of Good Hope,chokepoint7,99,19,16,46,9,9,5943041,portwatch
+2026-07-07,Cape of Good Hope,chokepoint7,97,14,24,44,7,8,4830439,portwatch
+2026-07-08,Cape of Good Hope,chokepoint7,76,20,14,38,3,1,5582733,portwatch
+2026-07-09,Cape of Good Hope,chokepoint7,85,22,13,46,3,1,5804873,portwatch
+2026-07-10,Cape of Good Hope,chokepoint7,88,19,26,37,4,2,5617366,portwatch
+2026-07-11,Cape of Good Hope,chokepoint7,91,12,26,47,3,3,5902263,portwatch
+2026-07-12,Cape of Good Hope,chokepoint7,97,18,20,50,4,5,6810030,portwatch
+2026-07-13,Cape of Good Hope,chokepoint7,103,25,22,49,4,3,7348204,portwatch
+2026-07-14,Cape of Good Hope,chokepoint7,103,18,30,42,6,7,6239430,portwatch
+2026-07-15,Cape of Good Hope,chokepoint7,87,13,24,45,4,1,5911132,portwatch
+2026-07-16,Cape of Good Hope,chokepoint7,95,17,20,48,7,3,4834740,portwatch
+2026-07-17,Cape of Good Hope,chokepoint7,89,13,15,55,2,4,6577689,portwatch
+2026-07-18,Cape of Good Hope,chokepoint7,84,20,19,41,2,2,6796305,portwatch
+2026-07-19,Cape of Good Hope,chokepoint7,90,13,21,47,5,4,5973257,portwatch
+2026-07-20,Cape of Good Hope,chokepoint7,81,13,18,41,5,4,5107910,portwatch
+2026-07-21,Cape of Good Hope,chokepoint7,93,19,21,46,4,3,6149501,portwatch
+2026-07-22,Cape of Good Hope,chokepoint7,101,19,14,56,8,4,6261654,portwatch
+2026-07-23,Cape of Good Hope,chokepoint7,93,21,15,48,6,3,5959398,portwatch
+2026-07-24,Cape of Good Hope,chokepoint7,81,17,17,39,4,4,4631275,portwatch
+2026-07-25,Cape of Good Hope,chokepoint7,91,19,19,42,3,8,5359157,portwatch
+2026-07-26,Cape of Good Hope,chokepoint7,92,17,20,48,3,4,5268348,portwatch
+2026-07-27,Cape of Good Hope,chokepoint7,77,16,19,35,4,3,5121229,portwatch
+2026-07-28,Cape of Good Hope,chokepoint7,69,14,10,38,4,3,3292695,portwatch
+2026-07-29,Cape of Good Hope,chokepoint7,72,13,18,36,2,3,3612340,portwatch
+2026-07-30,Cape of Good Hope,chokepoint7,99,20,19,56,1,3,7027450,portwatch
+2026-07-31,Cape of Good Hope,chokepoint7,123,27,30,59,6,1,5737947,portwatch
+2026-08-01,Cape of Good Hope,chokepoint7,83,25,10,39,7,2,5251929,portwatch
+2026-08-02,Cape of Good Hope,chokepoint7,97,26,19,44,5,3,5511497,portwatch
+2026-08-03,Cape of Good Hope,chokepoint7,83,24,22,27,8,2,5544899,portwatch
+2026-08-04,Cape of Good Hope,chokepoint7,89,21,15,45,2,6,4950558,portwatch
+2026-08-05,Cape of Good Hope,chokepoint7,103,21,19,55,1,7,5027186,portwatch
+2026-08-06,Cape of Good Hope,chokepoint7,85,13,14,46,5,7,4683694,portwatch
+2026-08-07,Cape of Good Hope,chokepoint7,83,22,22,35,3,1,5554056,portwatch
+2026-08-08,Cape of Good Hope,chokepoint7,85,22,17,41,1,4,5147141,portwatch
+2026-08-09,Cape of Good Hope,chokepoint7,83,16,23,38,2,4,4603047,portwatch
+2026-08-10,Cape of Good Hope,chokepoint7,83,22,14,42,2,3,4171222,portwatch
+2026-08-11,Cape of Good Hope,chokepoint7,102,28,17,48,3,6,5723400,portwatch
+2026-08-12,Cape of Good Hope,chokepoint7,69,11,13,43,1,1,4215222,portwatch
+2026-08-13,Cape of Good Hope,chokepoint7,86,21,18,40,3,4,5799043,portwatch
+2026-08-14,Cape of Good Hope,chokepoint7,81,14,12,49,3,3,4353831,portwatch
+2026-08-15,Cape of Good Hope,chokepoint7,123,28,23,60,6,6,8784867,portwatch
+2026-08-16,Cape of Good Hope,chokepoint7,99,18,20,55,3,3,6088608,portwatch
+2026-08-17,Cape of Good Hope,chokepoint7,83,20,20,32,6,5,5339520,portwatch
+2026-08-18,Cape of Good Hope,chokepoint7,79,15,18,41,3,2,4831325,portwatch
+2026-08-19,Cape of Good Hope,chokepoint7,105,23,26,43,5,8,6609009,portwatch
+2026-08-20,Cape of Good Hope,chokepoint7,99,19,25,47,3,5,5748636,portwatch
+2026-08-21,Cape of Good Hope,chokepoint7,95,21,24,46,1,3,6626580,portwatch
+2026-08-22,Cape of Good Hope,chokepoint7,96,23,16,45,8,4,5548064,portwatch
+2026-08-23,Cape of Good Hope,chokepoint7,84,20,16,40,4,4,5182488,portwatch
+2026-08-24,Cape of Good Hope,chokepoint7,101,26,22,43,4,6,7235514,portwatch
+2026-08-25,Cape of Good Hope,chokepoint7,86,18,19,44,3,2,4284712,portwatch
+2026-08-26,Cape of Good Hope,chokepoint7,83,9,24,42,4,4,3889491,portwatch
+2026-08-27,Cape of Good Hope,chokepoint7,98,19,18,50,4,7,5299675,portwatch
+2026-08-28,Cape of Good Hope,chokepoint7,98,25,16,48,6,3,5766243,portwatch
+2026-08-29,Cape of Good Hope,chokepoint7,89,22,11,47,4,5,5020850,portwatch
+2026-08-30,Cape of Good Hope,chokepoint7,88,19,23,39,3,4,5333953,portwatch
+2026-08-31,Cape of Good Hope,chokepoint7,82,16,14,46,1,5,4992334,portwatch
+2026-09-01,Cape of Good Hope,chokepoint7,100,25,16,47,4,8,5485950,portwatch
+2026-09-02,Cape of Good Hope,chokepoint7,90,14,17,48,7,4,4582739,portwatch
+2026-09-03,Cape of Good Hope,chokepoint7,77,19,14,39,2,3,3969141,portwatch
+2026-09-04,Cape of Good Hope,chokepoint7,58,11,17,27,2,1,3601814,portwatch
+2026-09-05,Cape of Good Hope,chokepoint7,63,11,24,25,2,1,3329488,portwatch
+2026-09-06,Cape of Good Hope,chokepoint7,80,14,17,37,4,8,5307047,portwatch
+2026-09-07,Cape of Good Hope,chokepoint7,120,28,24,46,15,7,7231062,portwatch
+2026-09-08,Cape of Good Hope,chokepoint7,87,16,10,54,4,3,6676081,portwatch
+2026-09-09,Cape of Good Hope,chokepoint7,98,20,17,55,4,2,6496092,portwatch
+2026-09-10,Cape of Good Hope,chokepoint7,96,17,17,57,4,1,6479027,portwatch
+2026-09-11,Cape of Good Hope,chokepoint7,82,22,11,42,4,3,6142017,portwatch
+2026-09-12,Cape of Good Hope,chokepoint7,69,14,12,35,4,4,5044836,portwatch
+2026-09-13,Cape of Good Hope,chokepoint7,82,14,19,42,3,4,6814382,portwatch
+2026-09-14,Cape of Good Hope,chokepoint7,101,16,20,56,6,3,6547910,portwatch
+2026-09-15,Cape of Good Hope,chokepoint7,101,15,18,58,7,3,6222390,portwatch
+2026-09-16,Cape of Good Hope,chokepoint7,77,11,16,41,6,3,5287286,portwatch
+2026-09-17,Cape of Good Hope,chokepoint7,86,22,13,40,5,6,5626984,portwatch
+2026-09-18,Cape of Good Hope,chokepoint7,84,19,15,44,5,1,5355218,portwatch
+2026-09-19,Cape of Good Hope,chokepoint7,86,16,20,42,4,4,5618694,portwatch
+2026-09-20,Cape of Good Hope,chokepoint7,85,14,18,45,5,3,5033239,portwatch
+2026-09-21,Cape of Good Hope,chokepoint7,84,15,14,48,3,4,5471380,portwatch
+2026-09-22,Cape of Good Hope,chokepoint7,78,15,9,47,5,2,5075777,portwatch
+2026-09-23,Cape of Good Hope,chokepoint7,91,22,10,42,9,8,6040904,portwatch
+2026-09-24,Cape of Good Hope,chokepoint7,95,20,15,47,5,8,6036962,portwatch
+2026-09-25,Cape of Good Hope,chokepoint7,103,17,23,54,5,4,5862724,portwatch
+2026-09-26,Cape of Good Hope,chokepoint7,91,24,14,43,2,8,4984271,portwatch
+2026-09-27,Cape of Good Hope,chokepoint7,75,26,7,35,4,3,5428230,portwatch
+2026-09-28,Cape of Good Hope,chokepoint7,91,17,19,48,4,3,5547754,portwatch
+2026-09-29,Cape of Good Hope,chokepoint7,65,18,16,29,0,2,3572149,portwatch
+2026-09-30,Cape of Good Hope,chokepoint7,89,23,9,44,9,4,6003665,portwatch
+2026-10-01,Cape of Good Hope,chokepoint7,95,19,17,52,3,4,7439275,portwatch
+2026-10-02,Cape of Good Hope,chokepoint7,99,16,16,56,6,5,6105760,portwatch
+2026-10-03,Cape of Good Hope,chokepoint7,76,21,10,35,4,6,3644445,portwatch
+2026-10-04,Cape of Good Hope,chokepoint7,99,17,24,48,3,7,5277587,portwatch
+2026-10-05,Cape of Good Hope,chokepoint7,92,22,21,42,7,0,5990907,portwatch
+2026-10-06,Cape of Good Hope,chokepoint7,75,16,13,39,4,3,5384655,portwatch
+2026-10-07,Cape of Good Hope,chokepoint7,84,18,14,45,5,2,5746649,portwatch
+2026-10-08,Cape of Good Hope,chokepoint7,82,16,11,49,2,4,4845973,portwatch
+2026-10-09,Cape of Good Hope,chokepoint7,99,23,17,49,5,5,6118126,portwatch
+2026-10-10,Cape of Good Hope,chokepoint7,66,12,11,34,7,2,4399430,portwatch
+2026-10-11,Cape of Good Hope,chokepoint7,90,15,18,44,7,6,5913632,portwatch
+2026-10-12,Cape of Good Hope,chokepoint7,93,20,21,39,7,6,5186431,portwatch
+2026-10-13,Cape of Good Hope,chokepoint7,81,19,10,42,7,3,5260931,portwatch
+2026-10-14,Cape of Good Hope,chokepoint7,93,21,13,50,3,6,4194278,portwatch
+2026-10-15,Cape of Good Hope,chokepoint7,98,18,16,56,3,5,6725919,portwatch
+2026-10-16,Cape of Good Hope,chokepoint7,88,26,18,36,5,3,5596022,portwatch
+2026-10-17,Cape of Good Hope,chokepoint7,69,13,10,39,5,2,4436246,portwatch
+2026-10-18,Cape of Good Hope,chokepoint7,78,18,13,39,5,3,4242000,portwatch
+2026-10-19,Cape of Good Hope,chokepoint7,90,25,16,43,4,2,4368835,portwatch
+2026-10-20,Cape of Good Hope,chokepoint7,88,13,13,56,2,4,6598509,portwatch
+2026-10-21,Cape of Good Hope,chokepoint7,73,17,11,40,2,3,5790053,portwatch
+2026-10-22,Cape of Good Hope,chokepoint7,89,33,14,35,5,2,5483658,portwatch
+2026-10-23,Cape of Good Hope,chokepoint7,80,27,10,36,3,4,4642446,portwatch
+2026-10-24,Cape of Good Hope,chokepoint7,90,20,19,42,6,3,5526252,portwatch
+2026-10-25,Cape of Good Hope,chokepoint7,100,18,17,52,10,3,6404664,portwatch
+2025-01-01,Strait of Hormuz,chokepoint6,75,41,18,12,2,2,2863166,portwatch
+2025-01-02,Strait of Hormuz,chokepoint6,65,37,14,7,2,5,2573736,portwatch
+2025-01-03,Strait of Hormuz,chokepoint6,67,37,15,7,5,3,3188496,portwatch
+2025-01-04,Strait of Hormuz,chokepoint6,77,40,19,14,3,1,2900630,portwatch
+2025-01-05,Strait of Hormuz,chokepoint6,56,38,9,5,4,0,1851550,portwatch
+2025-01-06,Strait of Hormuz,chokepoint6,54,25,11,13,3,2,1450968,portwatch
+2025-01-07,Strait of Hormuz,chokepoint6,63,34,10,12,3,4,2884952,portwatch
+2025-01-08,Strait of Hormuz,chokepoint6,65,30,19,12,2,2,1942284,portwatch
+2025-01-09,Strait of Hormuz,chokepoint6,64,37,13,10,3,1,2663159,portwatch
+2025-01-10,Strait of Hormuz,chokepoint6,68,42,13,11,2,0,2661043,portwatch
+2025-01-11,Strait of Hormuz,chokepoint6,80,49,16,11,3,1,3268762,portwatch
+2025-01-12,Strait of Hormuz,chokepoint6,91,53,16,12,4,6,3813067,portwatch
+2025-01-13,Strait of Hormuz,chokepoint6,64,38,10,11,3,2,2352411,portwatch
+2025-01-14,Strait of Hormuz,chokepoint6,71,33,13,11,8,6,2220650,portwatch
+2025-01-15,Strait of Hormuz,chokepoint6,66,33,10,15,4,4,2792939,portwatch
+2025-01-16,Strait of Hormuz,chokepoint6,74,43,20,5,4,2,2434769,portwatch
+2025-01-17,Strait of Hormuz,chokepoint6,76,46,15,10,1,4,3555557,portwatch
+2025-01-18,Strait of Hormuz,chokepoint6,77,45,15,9,4,4,2740097,portwatch
+2025-01-19,Strait of Hormuz,chokepoint6,65,32,15,11,3,4,2136392,portwatch
+2025-01-20,Strait of Hormuz,chokepoint6,72,45,15,8,2,2,2300160,portwatch
+2025-01-21,Strait of Hormuz,chokepoint6,71,38,11,14,4,4,2297933,portwatch
+2025-01-22,Strait of Hormuz,chokepoint6,59,35,11,10,3,0,2617250,portwatch
+2025-01-23,Strait of Hormuz,chokepoint6,62,41,10,9,2,0,2678134,portwatch
+2025-01-24,Strait of Hormuz,chokepoint6,68,31,18,17,0,2,2832322,portwatch
+2025-01-25,Strait of Hormuz,chokepoint6,89,52,15,17,2,3,2913588,portwatch
+2025-01-26,Strait of Hormuz,chokepoint6,79,54,12,4,5,4,2975340,portwatch
+2025-01-27,Strait of Hormuz,chokepoint6,73,41,18,12,2,0,2099337,portwatch
+2025-01-28,Strait of Hormuz,chokepoint6,60,33,13,7,1,6,2189935,portwatch
+2025-01-29,Strait of Hormuz,chokepoint6,83,48,16,12,5,2,2463689,portwatch
+2025-01-30,Strait of Hormuz,chokepoint6,75,38,14,18,1,4,3341627,portwatch
+2025-01-31,Strait of Hormuz,chokepoint6,78,46,21,4,5,2,2091899,portwatch
+2025-02-01,Strait of Hormuz,chokepoint6,60,31,12,14,3,0,2302407,portwatch
+2025-02-02,Strait of Hormuz,chokepoint6,59,40,8,7,3,1,1832543,portwatch
+2025-02-03,Strait of Hormuz,chokepoint6,78,44,17,13,4,0,3291596,portwatch
+2025-02-04,Strait of Hormuz,chokepoint6,80,46,12,15,3,4,2245546,portwatch
+2025-02-05,Strait of Hormuz,chokepoint6,62,35,14,8,2,3,1878992,portwatch
+2025-02-06,Strait of Hormuz,chokepoint6,77,34,18,16,5,4,2542055,portwatch
+2025-02-07,Strait of Hormuz,chokepoint6,56,29,13,7,5,2,2041448,portwatch
+2025-02-08,Strait of Hormuz,chokepoint6,60,33,12,11,4,0,2158574,portwatch
+2025-02-09,Strait of Hormuz,chokepoint6,75,45,15,11,2,2,2149340,portwatch
+2025-02-10,Strait of Hormuz,chokepoint6,66,45,5,9,4,3,3522982,portwatch
+2025-02-11,Strait of Hormuz,chokepoint6,92,49,19,12,6,6,2553286,portwatch
+2025-02-12,Strait of Hormuz,chokepoint6,100,59,17,15,4,5,4217636,portwatch
+2025-02-13,Strait of Hormuz,chokepoint6,128,63,29,25,6,5,5045477,portwatch
+2025-02-14,Strait of Hormuz,chokepoint6,75,47,11,10,5,2,2955771,portwatch
+2025-02-15,Strait of Hormuz,chokepoint6,70,38,16,13,0,3,2499695,portwatch
+2025-02-16,Strait of Hormuz,chokepoint6,67,40,10,11,3,3,2971658,portwatch
+2025-02-17,Strait of Hormuz,chokepoint6,64,33,17,8,3,3,2604457,portwatch
+2025-02-18,Strait of Hormuz,chokepoint6,83,39,22,11,8,3,2793145,portwatch
+2025-02-19,Strait of Hormuz,chokepoint6,76,43,22,6,5,0,2812889,portwatch
+2025-02-20,Strait of Hormuz,chokepoint6,67,45,11,6,4,1,2391814,portwatch
+2025-02-21,Strait of Hormuz,chokepoint6,83,40,19,16,3,5,3357262,portwatch
+2025-02-22,Strait of Hormuz,chokepoint6,114,65,24,17,7,1,4677146,portwatch
+2025-02-23,Strait of Hormuz,chokepoint6,78,40,15,14,7,2,1737320,portwatch
+2025-02-24,Strait of Hormuz,chokepoint6,68,40,15,8,1,4,2314503,portwatch
+2025-02-25,Strait of Hormuz,chokepoint6,64,39,12,10,2,1,2571769,portwatch
+2025-02-26,Strait of Hormuz,chokepoint6,37,20,7,7,2,1,1085133,portwatch
+2025-02-27,Strait of Hormuz,chokepoint6,70,38,13,11,5,3,1124019,portwatch
+2025-02-28,Strait of Hormuz,chokepoint6,60,35,9,13,3,0,2622145,portwatch
+2025-03-01,Strait of Hormuz,chokepoint6,65,36,9,12,5,3,2363447,portwatch
+2025-03-02,Strait of Hormuz,chokepoint6,60,34,10,12,3,1,2781023,portwatch
+2025-03-03,Strait of Hormuz,chokepoint6,74,54,10,9,1,0,3828684,portwatch
+2025-03-04,Strait of Hormuz,chokepoint6,74,39,16,11,4,4,2698249,portwatch
+2025-03-05,Strait of Hormuz,chokepoint6,71,40,14,14,3,0,2735751,portwatch
+2025-03-06,Strait of Hormuz,chokepoint6,105,68,20,9,1,7,4049122,portwatch
+2025-03-07,Strait of Hormuz,chokepoint6,82,56,12,7,6,1,2614493,portwatch
+2025-03-08,Strait of Hormuz,chokepoint6,104,68,16,14,3,3,3691567,portwatch
+2025-03-09,Strait of Hormuz,chokepoint6,63,36,12,9,6,0,2239097,portwatch
+2025-03-10,Strait of Hormuz,chokepoint6,82,46,22,5,6,3,4326212,portwatch
+2025-03-11,Strait of Hormuz,chokepoint6,74,37,15,14,4,4,3676423,portwatch
+2025-03-12,Strait of Hormuz,chokepoint6,94,55,21,12,4,2,3633758,portwatch
+2025-03-13,Strait of Hormuz,chokepoint6,79,44,18,13,3,1,2600664,portwatch
+2025-03-14,Strait of Hormuz,chokepoint6,94,41,23,23,2,5,3711298,portwatch
+2025-03-15,Strait of Hormuz,chokepoint6,77,45,16,9,6,1,2373548,portwatch
+2025-03-16,Strait of Hormuz,chokepoint6,109,62,21,10,12,4,4160208,portwatch
+2025-03-17,Strait of Hormuz,chokepoint6,76,35,13,17,11,0,2806213,portwatch
+2025-03-18,Strait of Hormuz,chokepoint6,83,46,19,11,4,3,3508262,portwatch
+2025-03-19,Strait of Hormuz,chokepoint6,81,45,19,10,3,4,2656177,portwatch
+2025-03-20,Strait of Hormuz,chokepoint6,113,70,20,20,2,1,5091994,portwatch
+2025-03-21,Strait of Hormuz,chokepoint6,91,55,16,9,7,4,2747495,portwatch
+2025-03-22,Strait of Hormuz,chokepoint6,85,53,18,9,4,1,3676275,portwatch
+2025-03-23,Strait of Hormuz,chokepoint6,79,40,18,15,6,0,2931585,portwatch
+2025-03-24,Strait of Hormuz,chokepoint6,76,41,16,12,3,4,2790214,portwatch
+2025-03-25,Strait of Hormuz,chokepoint6,61,36,8,9,3,5,1415305,portwatch
+2025-03-26,Strait of Hormuz,chokepoint6,56,24,16,13,2,1,1601148,portwatch
+2025-03-27,Strait of Hormuz,chokepoint6,64,34,17,11,1,1,3776666,portwatch
+2025-03-28,Strait of Hormuz,chokepoint6,115,64,24,21,6,0,4168589,portwatch
+2025-03-29,Strait of Hormuz,chokepoint6,110,68,19,17,4,2,4090010,portwatch
+2025-03-30,Strait of Hormuz,chokepoint6,99,66,14,13,3,3,3242336,portwatch
+2025-03-31,Strait of Hormuz,chokepoint6,101,54,15,19,5,8,3801096,portwatch
+2025-04-01,Strait of Hormuz,chokepoint6,117,62,30,15,2,8,4328694,portwatch
+2025-04-02,Strait of Hormuz,chokepoint6,115,60,19,18,9,9,3410613,portwatch
+2025-04-03,Strait of Hormuz,chokepoint6,127,80,25,14,4,4,5240998,portwatch
+2025-04-04,Strait of Hormuz,chokepoint6,105,60,14,21,6,4,5447477,portwatch
+2025-04-05,Strait of Hormuz,chokepoint6,112,58,26,19,6,3,3882714,portwatch
+2025-04-06,Strait of Hormuz,chokepoint6,104,58,25,10,9,2,4155664,portwatch
+2025-04-07,Strait of Hormuz,chokepoint6,96,54,20,12,6,4,3432265,portwatch
+2025-04-08,Strait of Hormuz,chokepoint6,106,69,15,13,2,7,4252160,portwatch
+2025-04-09,Strait of Hormuz,chokepoint6,112,59,20,21,8,4,3401990,portwatch
+2025-04-10,Strait of Hormuz,chokepoint6,99,55,23,15,4,2,4204356,portwatch
+2025-04-11,Strait of Hormuz,chokepoint6,109,59,23,17,6,4,3957026,portwatch
+2025-04-12,Strait of Hormuz,chokepoint6,100,50,22,20,4,4,4244929,portwatch
+2025-04-13,Strait of Hormuz,chokepoint6,96,58,19,13,3,3,3921283,portwatch
+2025-04-14,Strait of Hormuz,chokepoint6,104,56,20,12,11,5,4393479,portwatch
+2025-04-15,Strait of Hormuz,chokepoint6,124,72,21,21,5,5,3417676,portwatch
+2025-04-16,Strait of Hormuz,chokepoint6,101,60,24,12,5,0,4351758,portwatch
+2025-04-17,Strait of Hormuz,chokepoint6,58,31,13,9,4,1,2151848,portwatch
+2025-04-18,Strait of Hormuz,chokepoint6,51,25,9,11,4,2,1557952,portwatch
+2025-04-19,Strait of Hormuz,chokepoint6,76,42,18,13,0,3,3104743,portwatch
+2025-04-20,Strait of Hormuz,chokepoint6,80,50,19,9,1,1,3859798,portwatch
+2025-04-21,Strait of Hormuz,chokepoint6,108,61,22,14,7,4,3810304,portwatch
+2025-04-22,Strait of Hormuz,chokepoint6,124,61,25,24,7,7,4021055,portwatch
+2025-04-23,Strait of Hormuz,chokepoint6,107,65,21,11,5,5,3659136,portwatch
+2025-04-24,Strait of Hormuz,chokepoint6,122,64,26,16,9,7,3343846,portwatch
+2025-04-25,Strait of Hormuz,chokepoint6,102,63,12,16,7,4,3852635,portwatch
+2025-04-26,Strait of Hormuz,chokepoint6,110,67,20,14,3,6,4162666,portwatch
+2025-04-27,Strait of Hormuz,chokepoint6,93,59,16,15,3,0,3231783,portwatch
+2025-04-28,Strait of Hormuz,chokepoint6,94,52,19,19,2,2,3953703,portwatch
+2025-04-29,Strait of Hormuz,chokepoint6,101,56,22,17,3,3,3626777,portwatch
+2025-04-30,Strait of Hormuz,chokepoint6,118,63,28,19,5,3,4570623,portwatch
+2025-05-01,Strait of Hormuz,chokepoint6,101,58,17,19,2,5,4681610,portwatch
+2025-05-02,Strait of Hormuz,chokepoint6,97,63,19,9,3,3,3142313,portwatch
+2025-05-03,Strait of Hormuz,chokepoint6,97,52,23,11,6,5,3802000,portwatch
+2025-05-04,Strait of Hormuz,chokepoint6,77,48,12,11,4,2,3596074,portwatch
+2025-05-05,Strait of Hormuz,chokepoint6,110,66,23,14,6,1,4377006,portwatch
+2025-05-06,Strait of Hormuz,chokepoint6,105,54,26,20,3,2,3570651,portwatch
+2025-05-07,Strait of Hormuz,chokepoint6,64,30,19,7,4,4,2621482,portwatch
+2025-05-08,Strait of Hormuz,chokepoint6,85,41,21,13,6,4,2226951,portwatch
+2025-05-09,Strait of Hormuz,chokepoint6,101,58,21,15,4,3,2287330,portwatch
+2025-05-10,Strait of Hormuz,chokepoint6,113,68,18,16,8,3,3817044,portwatch
+2025-05-11,Strait of Hormuz,chokepoint6,107,69,18,11,7,2,3890066,portwatch
+2025-05-12,Strait of Hormuz,chokepoint6,112,68,19,19,5,1,4831120,portwatch
+2025-05-13,Strait of Hormuz,chokepoint6,99,54,14,19,8,4,3242513,portwatch
+2025-05-14,Strait of Hormuz,chokepoint6,115,66,22,19,5,3,3907143,portwatch
+2025-05-15,Strait of Hormuz,chokepoint6,105,61,27,8,7,2,4307806,portwatch
+2025-05-16,Strait of Hormuz,chokepoint6,98,49,17,20,10,2,3881906,portwatch
+2025-05-17,Strait of Hormuz,chokepoint6,105,56,28,12,4,5,3653166,portwatch
+2025-05-18,Strait of Hormuz,chokepoint6,115,71,22,13,6,3,4269856,portwatch
+2025-05-19,Strait of Hormuz,chokepoint6,114,64,22,14,10,4,4055872,portwatch
+2025-05-20,Strait of Hormuz,chokepoint6,120,67,19,23,5,6,4464552,portwatch
+2025-05-21,Strait of Hormuz,chokepoint6,115,63,24,16,8,4,3861747,portwatch
+2025-05-22,Strait of Hormuz,chokepoint6,103,59,21,13,4,6,2735768,portwatch
+2025-05-23,Strait of Hormuz,chokepoint6,119,68,16,25,6,4,4571462,portwatch
+2025-05-24,Strait of Hormuz,chokepoint6,100,51,24,14,10,1,3674494,portwatch
+2025-05-25,Strait of Hormuz,chokepoint6,106,53,26,23,2,2,3606583,portwatch
+2025-05-26,Strait of Hormuz,chokepoint6,117,54,28,24,7,4,5044915,portwatch
+2025-05-27,Strait of Hormuz,chokepoint6,97,53,26,12,3,3,3790793,portwatch
+2025-05-28,Strait of Hormuz,chokepoint6,82,44,18,12,6,2,3530127,portwatch
+2025-05-29,Strait of Hormuz,chokepoint6,112,73,13,15,7,4,5240454,portwatch
+2025-05-30,Strait of Hormuz,chokepoint6,107,65,15,16,7,4,2807910,portwatch
+2025-05-31,Strait of Hormuz,chokepoint6,94,51,21,15,3,4,3139400,portwatch
+2025-06-01,Strait of Hormuz,chokepoint6,99,47,29,13,7,3,3557678,portwatch
+2025-06-02,Strait of Hormuz,chokepoint6,121,66,28,18,8,1,4636331,portwatch
+2025-06-03,Strait of Hormuz,chokepoint6,94,55,14,17,4,4,3523627,portwatch
+2025-06-04,Strait of Hormuz,chokepoint6,110,67,25,6,6,6,4462507,portwatch
+2025-06-05,Strait of Hormuz,chokepoint6,87,50,16,16,3,2,3982969,portwatch
+2025-06-06,Strait of Hormuz,chokepoint6,71,43,13,12,0,3,1708501,portwatch
+2025-06-07,Strait of Hormuz,chokepoint6,77,45,9,15,5,3,3407132,portwatch
+2025-06-08,Strait of Hormuz,chokepoint6,107,61,17,20,8,1,4406782,portwatch
+2025-06-09,Strait of Hormuz,chokepoint6,133,69,32,22,7,3,5356359,portwatch
+2025-06-10,Strait of Hormuz,chokepoint6,117,60,29,18,6,4,3888059,portwatch
+2025-06-11,Strait of Hormuz,chokepoint6,99,50,22,18,6,3,3479971,portwatch
+2025-06-12,Strait of Hormuz,chokepoint6,98,63,17,11,5,2,4057224,portwatch
+2025-06-13,Strait of Hormuz,chokepoint6,113,66,13,20,9,5,3803022,portwatch
+2025-06-14,Strait of Hormuz,chokepoint6,102,53,22,19,5,3,3638888,portwatch
+2025-06-15,Strait of Hormuz,chokepoint6,102,63,17,13,4,5,4489258,portwatch
+2025-06-16,Strait of Hormuz,chokepoint6,112,58,26,15,6,7,4255172,portwatch
+2025-06-17,Strait of Hormuz,chokepoint6,85,49,18,13,4,1,3870210,portwatch
+2025-06-18,Strait of Hormuz,chokepoint6,124,71,19,21,10,3,3673406,portwatch
+2025-06-19,Strait of Hormuz,chokepoint6,101,53,26,14,4,4,4354676,portwatch
+2025-06-20,Strait of Hormuz,chokepoint6,88,49,19,11,6,3,3157368,portwatch
+2025-06-21,Strait of Hormuz,chokepoint6,118,68,24,15,6,5,3705347,portwatch
+2025-06-22,Strait of Hormuz,chokepoint6,96,60,19,11,4,2,4178605,portwatch
+2025-06-23,Strait of Hormuz,chokepoint6,87,39,19,18,8,3,3033554,portwatch
+2025-06-24,Strait of Hormuz,chokepoint6,108,65,22,12,8,1,3675161,portwatch
+2025-06-25,Strait of Hormuz,chokepoint6,104,68,14,15,6,1,3850337,portwatch
+2025-06-26,Strait of Hormuz,chokepoint6,99,55,27,12,3,2,4222912,portwatch
+2025-06-27,Strait of Hormuz,chokepoint6,116,70,22,11,9,4,3499058,portwatch
+2025-06-28,Strait of Hormuz,chokepoint6,104,58,21,17,6,2,4248286,portwatch
+2025-06-29,Strait of Hormuz,chokepoint6,102,55,20,17,5,5,3538039,portwatch
+2025-06-30,Strait of Hormuz,chokepoint6,93,49,17,12,12,3,3337974,portwatch
+2025-07-01,Strait of Hormuz,chokepoint6,85,44,20,13,6,2,2590824,portwatch
+2025-07-02,Strait of Hormuz,chokepoint6,93,54,19,14,4,2,3379303,portwatch
+2025-07-03,Strait of Hormuz,chokepoint6,83,48,15,11,2,7,3096953,portwatch
+2025-07-04,Strait of Hormuz,chokepoint6,96,58,18,13,6,1,3883340,portwatch
+2025-07-05,Strait of Hormuz,chokepoint6,98,62,17,12,5,2,2965941,portwatch
+2025-07-06,Strait of Hormuz,chokepoint6,76,45,13,13,3,2,2349972,portwatch
+2025-07-07,Strait of Hormuz,chokepoint6,70,31,19,9,8,3,2843158,portwatch
+2025-07-08,Strait of Hormuz,chokepoint6,77,42,16,10,7,2,2274226,portwatch
+2025-07-09,Strait of Hormuz,chokepoint6,91,60,12,12,1,6,4333939,portwatch
+2025-07-10,Strait of Hormuz,chokepoint6,111,62,23,16,8,2,4401946,portwatch
+2025-07-11,Strait of Hormuz,chokepoint6,85,55,12,11,3,4,4279989,portwatch
+2025-07-12,Strait of Hormuz,chokepoint6,106,62,23,18,0,3,4749611,portwatch
+2025-07-13,Strait of Hormuz,chokepoint6,95,53,17,20,3,2,3196559,portwatch
+2025-07-14,Strait of Hormuz,chokepoint6,116,69,19,18,5,5,3948693,portwatch
+2025-07-15,Strait of Hormuz,chokepoint6,109,53,31,16,5,4,4523300,portwatch
+2025-07-16,Strait of Hormuz,chokepoint6,111,67,14,23,3,4,4413860,portwatch
+2025-07-17,Strait of Hormuz,chokepoint6,116,61,19,23,8,5,4814267,portwatch
+2025-07-18,Strait of Hormuz,chokepoint6,81,42,19,15,4,1,3142360,portwatch
+2025-07-19,Strait of Hormuz,chokepoint6,86,52,17,11,4,2,3174166,portwatch
+2025-07-20,Strait of Hormuz,chokepoint6,112,64,25,15,6,2,4329749,portwatch
+2025-07-21,Strait of Hormuz,chokepoint6,88,47,17,13,8,3,4062426,portwatch
+2025-07-22,Strait of Hormuz,chokepoint6,96,44,25,9,10,8,3309647,portwatch
+2025-07-23,Strait of Hormuz,chokepoint6,100,60,12,17,6,5,3222202,portwatch
+2025-07-24,Strait of Hormuz,chokepoint6,88,47,16,19,3,3,3391946,portwatch
+2025-07-25,Strait of Hormuz,chokepoint6,82,48,17,9,4,4,3213941,portwatch
+2025-07-26,Strait of Hormuz,chokepoint6,93,63,16,8,3,3,3627455,portwatch
+2025-07-27,Strait of Hormuz,chokepoint6,102,59,15,16,8,4,4203963,portwatch
+2025-07-28,Strait of Hormuz,chokepoint6,96,55,19,13,5,4,2877592,portwatch
+2025-07-29,Strait of Hormuz,chokepoint6,98,54,23,11,5,5,3572585,portwatch
+2025-07-30,Strait of Hormuz,chokepoint6,110,65,19,14,7,5,4936062,portwatch
+2025-07-31,Strait of Hormuz,chokepoint6,102,55,22,17,6,2,3088972,portwatch
+2025-08-01,Strait of Hormuz,chokepoint6,75,52,12,8,1,2,2601694,portwatch
+2025-08-02,Strait of Hormuz,chokepoint6,103,60,18,16,5,4,4778825,portwatch
+2025-08-03,Strait of Hormuz,chokepoint6,80,43,16,15,4,2,3434668,portwatch
+2025-08-04,Strait of Hormuz,chokepoint6,72,39,12,14,2,5,2546290,portwatch
+2025-08-05,Strait of Hormuz,chokepoint6,105,54,27,14,4,6,4512049,portwatch
+2025-08-06,Strait of Hormuz,chokepoint6,72,33,11,18,5,5,2611435,portwatch
+2025-08-07,Strait of Hormuz,chokepoint6,70,39,18,3,6,4,2991192,portwatch
+2025-08-08,Strait of Hormuz,chokepoint6,75,43,13,13,2,4,2281609,portwatch
+2025-08-09,Strait of Hormuz,chokepoint6,71,42,15,7,4,3,3073615,portwatch
+2025-08-10,Strait of Hormuz,chokepoint6,98,57,16,18,3,4,3791292,portwatch
+2025-08-11,Strait of Hormuz,chokepoint6,101,59,18,14,6,4,3608588,portwatch
+2025-08-12,Strait of Hormuz,chokepoint6,127,68,28,20,9,2,4292322,portwatch
+2025-08-13,Strait of Hormuz,chokepoint6,120,71,20,20,4,5,4040652,portwatch
+2025-08-14,Strait of Hormuz,chokepoint6,103,57,16,17,7,6,3791593,portwatch
+2025-08-15,Strait of Hormuz,chokepoint6,75,49,12,6,6,2,2552729,portwatch
+2025-08-16,Strait of Hormuz,chokepoint6,82,45,14,16,5,2,3493655,portwatch
+2025-08-17,Strait of Hormuz,chokepoint6,127,74,19,20,6,8,5119655,portwatch
+2025-08-18,Strait of Hormuz,chokepoint6,94,49,17,22,3,3,3365287,portwatch
+2025-08-19,Strait of Hormuz,chokepoint6,106,53,26,16,5,6,5453458,portwatch
+2025-08-20,Strait of Hormuz,chokepoint6,86,49,19,11,5,2,3696907,portwatch
+2025-08-21,Strait of Hormuz,chokepoint6,81,48,13,15,3,2,3631576,portwatch
+2025-08-22,Strait of Hormuz,chokepoint6,115,73,19,10,6,7,3891785,portwatch
+2025-08-23,Strait of Hormuz,chokepoint6,87,52,19,9,5,2,3138347,portwatch
+2025-08-24,Strait of Hormuz,chokepoint6,104,56,23,17,4,4,4266823,portwatch
+2025-08-25,Strait of Hormuz,chokepoint6,90,49,20,9,9,3,3081808,portwatch
+2025-08-26,Strait of Hormuz,chokepoint6,82,39,17,11,10,5,2709157,portwatch
+2025-08-27,Strait of Hormuz,chokepoint6,90,45,14,19,7,5,3591188,portwatch
+2025-08-28,Strait of Hormuz,chokepoint6,108,64,16,17,6,5,3242102,portwatch
+2025-08-29,Strait of Hormuz,chokepoint6,101,51,23,15,7,5,3580056,portwatch
+2025-08-30,Strait of Hormuz,chokepoint6,121,74,17,17,8,5,5570397,portwatch
+2025-08-31,Strait of Hormuz,chokepoint6,109,60,18,18,7,6,3339679,portwatch
+2025-09-01,Strait of Hormuz,chokepoint6,114,69,29,8,6,2,3981741,portwatch
+2025-09-02,Strait of Hormuz,chokepoint6,81,45,14,16,4,2,2710254,portwatch
+2025-09-03,Strait of Hormuz,chokepoint6,86,39,15,19,6,7,3180895,portwatch
+2025-09-04,Strait of Hormuz,chokepoint6,61,39,9,8,3,2,1927643,portwatch
+2025-09-05,Strait of Hormuz,chokepoint6,121,75,23,19,3,1,4838728,portwatch
+2025-09-06,Strait of Hormuz,chokepoint6,104,64,18,13,6,3,3809733,portwatch
+2025-09-07,Strait of Hormuz,chokepoint6,101,55,18,17,8,3,4803269,portwatch
+2025-09-08,Strait of Hormuz,chokepoint6,99,58,19,14,4,4,3943058,portwatch
+2025-09-09,Strait of Hormuz,chokepoint6,85,43,20,14,6,2,3095470,portwatch
+2025-09-10,Strait of Hormuz,chokepoint6,86,44,16,11,10,5,2938848,portwatch
+2025-09-11,Strait of Hormuz,chokepoint6,69,33,15,9,9,3,2479423,portwatch
+2025-09-12,Strait of Hormuz,chokepoint6,61,41,8,7,4,1,1766235,portwatch
+2025-09-13,Strait of Hormuz,chokepoint6,61,32,19,7,1,2,2541421,portwatch
+2025-09-14,Strait of Hormuz,chokepoint6,64,39,10,10,3,2,1987819,portwatch
+2025-09-15,Strait of Hormuz,chokepoint6,76,34,16,16,7,3,1820987,portwatch
+2025-09-16,Strait of Hormuz,chokepoint6,99,62,18,12,1,6,3485398,portwatch
+2025-09-17,Strait of Hormuz,chokepoint6,107,55,26,15,3,8,3133846,portwatch
+2025-09-18,Strait of Hormuz,chokepoint6,115,66,21,20,2,6,4250885,portwatch
+2025-09-19,Strait of Hormuz,chokepoint6,77,37,20,8,8,4,3303319,portwatch
+2025-09-20,Strait of Hormuz,chokepoint6,64,46,7,10,1,0,2384164,portwatch
+2025-09-21,Strait of Hormuz,chokepoint6,73,51,9,11,1,1,2159952,portwatch
+2025-09-22,Strait of Hormuz,chokepoint6,63,37,6,12,6,2,1961959,portwatch
+2025-09-23,Strait of Hormuz,chokepoint6,88,53,19,9,3,4,3673182,portwatch
+2025-09-24,Strait of Hormuz,chokepoint6,90,52,14,13,5,6,3138412,portwatch
+2025-09-25,Strait of Hormuz,chokepoint6,62,26,21,9,5,1,2610617,portwatch
+2025-09-26,Strait of Hormuz,chokepoint6,76,38,14,22,1,1,2094117,portwatch
+2025-09-27,Strait of Hormuz,chokepoint6,102,60,17,16,9,0,4126879,portwatch
+2025-09-28,Strait of Hormuz,chokepoint6,124,76,22,18,8,0,5198166,portwatch
+2025-09-29,Strait of Hormuz,chokepoint6,129,70,23,22,5,9,4259656,portwatch
+2025-09-30,Strait of Hormuz,chokepoint6,100,56,21,9,10,4,3284740,portwatch
+2025-10-01,Strait of Hormuz,chokepoint6,116,72,17,14,11,2,4190857,portwatch
+2025-10-02,Strait of Hormuz,chokepoint6,94,56,19,13,1,5,5125971,portwatch
+2025-10-03,Strait of Hormuz,chokepoint6,101,55,21,18,2,5,4217949,portwatch
+2025-10-04,Strait of Hormuz,chokepoint6,118,73,26,12,4,3,2804847,portwatch
+2025-10-05,Strait of Hormuz,chokepoint6,121,72,21,16,7,5,4557078,portwatch
+2025-10-06,Strait of Hormuz,chokepoint6,89,44,20,17,6,2,3741189,portwatch
+2025-10-07,Strait of Hormuz,chokepoint6,101,56,18,13,6,8,3511635,portwatch
+2025-10-08,Strait of Hormuz,chokepoint6,55,26,12,10,3,4,1648055,portwatch
+2025-10-09,Strait of Hormuz,chokepoint6,56,30,11,12,2,1,2155703,portwatch
+2025-10-10,Strait of Hormuz,chokepoint6,69,31,14,14,8,2,1848378,portwatch
+2025-10-11,Strait of Hormuz,chokepoint6,69,39,15,7,5,3,2481336,portwatch
+2025-10-12,Strait of Hormuz,chokepoint6,55,23,10,12,8,2,2037181,portwatch
+2025-10-13,Strait of Hormuz,chokepoint6,71,38,10,12,7,4,2639433,portwatch
+2025-10-14,Strait of Hormuz,chokepoint6,120,63,27,19,7,4,6268750,portwatch
+2025-10-15,Strait of Hormuz,chokepoint6,62,38,13,8,2,1,2026327,portwatch
+2025-10-16,Strait of Hormuz,chokepoint6,51,28,11,9,2,1,2119801,portwatch
+2025-10-17,Strait of Hormuz,chokepoint6,58,24,12,15,6,1,2289152,portwatch
+2025-10-18,Strait of Hormuz,chokepoint6,72,43,12,9,6,2,2797815,portwatch
+2025-10-19,Strait of Hormuz,chokepoint6,82,47,17,14,1,3,3438270,portwatch
+2025-10-20,Strait of Hormuz,chokepoint6,82,48,10,15,3,6,3004065,portwatch
+2025-10-21,Strait of Hormuz,chokepoint6,103,53,27,16,4,3,3501341,portwatch
+2025-10-22,Strait of Hormuz,chokepoint6,116,65,20,16,8,7,4589674,portwatch
+2025-10-23,Strait of Hormuz,chokepoint6,109,58,23,17,7,4,4201243,portwatch
+2025-10-24,Strait of Hormuz,chokepoint6,104,63,16,19,4,2,3810703,portwatch
+2025-10-25,Strait of Hormuz,chokepoint6,101,61,17,16,5,2,4862822,portwatch
+2025-10-26,Strait of Hormuz,chokepoint6,99,59,20,13,6,1,4274201,portwatch
+2025-10-27,Strait of Hormuz,chokepoint6,106,57,25,7,8,9,3628192,portwatch
+2025-10-28,Strait of Hormuz,chokepoint6,103,52,28,18,3,2,3316791,portwatch
+2025-10-29,Strait of Hormuz,chokepoint6,114,70,17,17,8,2,3921704,portwatch
+2025-10-30,Strait of Hormuz,chokepoint6,95,48,18,15,7,7,3826916,portwatch
+2025-10-31,Strait of Hormuz,chokepoint6,80,42,16,16,5,1,4365246,portwatch
+2025-11-01,Strait of Hormuz,chokepoint6,74,47,13,11,2,1,2553874,portwatch
+2025-11-02,Strait of Hormuz,chokepoint6,60,35,14,6,2,3,2549551,portwatch
+2025-11-03,Strait of Hormuz,chokepoint6,51,25,6,14,5,1,1303075,portwatch
+2025-11-04,Strait of Hormuz,chokepoint6,74,50,10,10,2,2,1680727,portwatch
+2025-11-05,Strait of Hormuz,chokepoint6,78,47,12,13,2,4,3652477,portwatch
+2025-11-06,Strait of Hormuz,chokepoint6,69,39,11,12,6,1,2673165,portwatch
+2025-11-07,Strait of Hormuz,chokepoint6,77,36,15,16,7,3,2937349,portwatch
+2025-11-08,Strait of Hormuz,chokepoint6,107,63,16,22,2,4,4229678,portwatch
+2025-11-09,Strait of Hormuz,chokepoint6,71,45,10,9,4,3,3163747,portwatch
+2025-11-10,Strait of Hormuz,chokepoint6,67,41,9,13,2,2,3080936,portwatch
+2025-11-11,Strait of Hormuz,chokepoint6,100,60,21,12,4,3,3842763,portwatch
+2025-11-12,Strait of Hormuz,chokepoint6,70,41,14,9,3,3,2607578,portwatch
+2025-11-13,Strait of Hormuz,chokepoint6,100,51,18,22,8,1,3533633,portwatch
+2025-11-14,Strait of Hormuz,chokepoint6,83,47,12,12,5,7,3926081,portwatch
+2025-11-15,Strait of Hormuz,chokepoint6,69,38,13,12,3,3,3270241,portwatch
+2025-11-16,Strait of Hormuz,chokepoint6,70,33,13,17,5,2,2610839,portwatch
+2025-11-17,Strait of Hormuz,chokepoint6,60,33,11,10,5,1,2160568,portwatch
+2025-11-18,Strait of Hormuz,chokepoint6,72,41,14,9,4,4,2558404,portwatch
+2025-11-19,Strait of Hormuz,chokepoint6,64,38,9,12,1,4,2699564,portwatch
+2025-11-20,Strait of Hormuz,chokepoint6,67,43,13,6,2,3,2793698,portwatch
+2025-11-21,Strait of Hormuz,chokepoint6,49,32,8,7,2,0,2091681,portwatch
+2025-11-22,Strait of Hormuz,chokepoint6,51,30,8,9,2,2,1264153,portwatch
+2025-11-23,Strait of Hormuz,chokepoint6,61,27,14,10,6,4,1354677,portwatch
+2025-11-24,Strait of Hormuz,chokepoint6,46,23,11,7,2,3,1638191,portwatch
+2025-11-25,Strait of Hormuz,chokepoint6,67,36,11,14,3,3,2433647,portwatch
+2025-11-26,Strait of Hormuz,chokepoint6,51,32,5,5,6,3,1609519,portwatch
+2025-11-27,Strait of Hormuz,chokepoint6,49,29,7,9,4,0,2611752,portwatch
+2025-11-28,Strait of Hormuz,chokepoint6,50,26,6,14,2,2,1826655,portwatch
+2025-11-29,Strait of Hormuz,chokepoint6,57,29,16,7,4,1,1413716,portwatch
+2025-11-30,Strait of Hormuz,chokepoint6,57,35,7,7,7,1,2880714,portwatch
+2025-12-01,Strait of Hormuz,chokepoint6,65,35,6,14,10,0,3946406,portwatch
+2025-12-02,Strait of Hormuz,chokepoint6,59,30,13,12,3,1,1933339,portwatch
+2025-12-03,Strait of Hormuz,chokepoint6,51,26,11,8,2,4,2422386,portwatch
+2025-12-04,Strait of Hormuz,chokepoint6,45,30,8,5,2,0,2400695,portwatch
+2025-12-05,Strait of Hormuz,chokepoint6,44,26,2,13,3,0,1585789,portwatch
+2025-12-06,Strait of Hormuz,chokepoint6,68,39,12,13,1,3,2017076,portwatch
+2025-12-07,Strait of Hormuz,chokepoint6,64,40,9,9,4,2,2876026,portwatch
+2025-12-08,Strait of Hormuz,chokepoint6,59,27,10,14,3,5,2187229,portwatch
+2025-12-09,Strait of Hormuz,chokepoint6,82,46,12,16,6,2,2792137,portwatch
+2025-12-10,Strait of Hormuz,chokepoint6,52,31,6,9,6,0,1826983,portwatch
+2025-12-11,Strait of Hormuz,chokepoint6,50,30,7,7,4,2,2291678,portwatch
+2025-12-12,Strait of Hormuz,chokepoint6,41,22,6,9,3,1,1729166,portwatch
+2025-12-13,Strait of Hormuz,chokepoint6,46,26,9,4,5,2,1755425,portwatch
+2025-12-14,Strait of Hormuz,chokepoint6,49,36,7,4,2,0,2760730,portwatch
+2025-12-15,Strait of Hormuz,chokepoint6,47,18,13,9,4,3,2132683,portwatch
+2025-12-16,Strait of Hormuz,chokepoint6,55,31,10,11,2,1,2870631,portwatch
+2025-12-17,Strait of Hormuz,chokepoint6,50,32,4,10,2,2,1429475,portwatch
+2025-12-18,Strait of Hormuz,chokepoint6,55,33,10,8,3,1,2640513,portwatch
+2025-12-19,Strait of Hormuz,chokepoint6,31,17,9,4,1,0,1341392,portwatch
+2025-12-20,Strait of Hormuz,chokepoint6,48,20,10,12,4,2,2038706,portwatch
+2025-12-21,Strait of Hormuz,chokepoint6,54,29,13,11,0,1,1857869,portwatch
+2025-12-22,Strait of Hormuz,chokepoint6,46,26,5,9,5,1,1375593,portwatch
+2025-12-23,Strait of Hormuz,chokepoint6,58,26,16,13,1,2,3012110,portwatch
+2025-12-24,Strait of Hormuz,chokepoint6,65,29,13,17,5,1,2117952,portwatch
+2025-12-25,Strait of Hormuz,chokepoint6,68,32,11,16,4,5,2404701,portwatch
+2025-12-26,Strait of Hormuz,chokepoint6,62,36,10,10,6,0,3178834,portwatch
+2025-12-27,Strait of Hormuz,chokepoint6,66,39,9,10,6,2,2669762,portwatch
+2025-12-28,Strait of Hormuz,chokepoint6,55,24,4,15,10,2,2183289,portwatch
+2025-12-29,Strait of Hormuz,chokepoint6,50,26,13,4,4,3,1462025,portwatch
+2025-12-30,Strait of Hormuz,chokepoint6,66,35,10,10,8,3,2531272,portwatch
+2025-12-31,Strait of Hormuz,chokepoint6,71,46,10,8,3,4,1799417,portwatch
+2026-01-01,Strait of Hormuz,chokepoint6,64,29,20,7,4,4,2664408,portwatch
+2026-01-02,Strait of Hormuz,chokepoint6,51,23,7,16,4,1,2065317,portwatch
+2026-01-03,Strait of Hormuz,chokepoint6,59,34,15,4,4,2,2839469,portwatch
+2026-01-04,Strait of Hormuz,chokepoint6,49,26,8,11,1,3,2143949,portwatch
+2026-01-05,Strait of Hormuz,chokepoint6,61,30,12,12,6,1,2711045,portwatch
+2026-01-06,Strait of Hormuz,chokepoint6,61,31,15,5,7,3,1024199,portwatch
+2026-01-07,Strait of Hormuz,chokepoint6,66,37,12,10,4,3,2122045,portwatch
+2026-01-08,Strait of Hormuz,chokepoint6,62,37,8,12,3,2,3008400,portwatch
+2026-01-09,Strait of Hormuz,chokepoint6,74,40,9,15,6,4,3727608,portwatch
+2026-01-10,Strait of Hormuz,chokepoint6,63,34,10,10,5,4,1777076,portwatch
+2026-01-11,Strait of Hormuz,chokepoint6,64,31,16,11,2,4,2698117,portwatch
+2026-01-12,Strait of Hormuz,chokepoint6,52,34,8,4,2,4,2028340,portwatch
+2026-01-13,Strait of Hormuz,chokepoint6,53,26,12,10,3,2,1329359,portwatch
+2026-01-14,Strait of Hormuz,chokepoint6,61,34,4,14,7,2,1828588,portwatch
+2026-01-15,Strait of Hormuz,chokepoint6,62,35,14,9,3,1,2717989,portwatch
+2026-01-16,Strait of Hormuz,chokepoint6,53,29,6,10,3,5,1803234,portwatch
+2026-01-17,Strait of Hormuz,chokepoint6,38,23,5,8,2,0,1445923,portwatch
+2026-01-18,Strait of Hormuz,chokepoint6,54,20,12,10,9,3,2205633,portwatch
+2026-01-19,Strait of Hormuz,chokepoint6,58,29,9,11,7,2,2329720,portwatch
+2026-01-20,Strait of Hormuz,chokepoint6,58,33,8,11,2,4,2084853,portwatch
+2026-01-21,Strait of Hormuz,chokepoint6,56,29,16,7,2,2,2817276,portwatch
+2026-01-22,Strait of Hormuz,chokepoint6,64,38,5,15,2,4,2283905,portwatch
+2026-01-23,Strait of Hormuz,chokepoint6,48,24,9,7,8,0,1816685,portwatch
+2026-01-24,Strait of Hormuz,chokepoint6,46,21,9,10,4,2,1375843,portwatch
+2026-01-25,Strait of Hormuz,chokepoint6,64,41,9,8,3,3,3131426,portwatch
+2026-01-26,Strait of Hormuz,chokepoint6,43,19,7,7,7,3,1789952,portwatch
+2026-01-27,Strait of Hormuz,chokepoint6,61,30,19,5,5,2,1723064,portwatch
+2026-01-28,Strait of Hormuz,chokepoint6,54,28,8,9,6,3,1713078,portwatch
+2026-01-29,Strait of Hormuz,chokepoint6,72,41,13,11,5,2,2316681,portwatch
+2026-01-30,Strait of Hormuz,chokepoint6,71,39,14,10,4,4,2475446,portwatch
+2026-01-31,Strait of Hormuz,chokepoint6,70,40,9,13,7,1,3011406,portwatch
+2026-02-01,Strait of Hormuz,chokepoint6,49,19,10,11,4,5,1646216,portwatch
+2026-02-02,Strait of Hormuz,chokepoint6,67,41,11,6,6,3,3449459,portwatch
+2026-02-03,Strait of Hormuz,chokepoint6,66,33,13,10,10,0,2028119,portwatch
+2026-02-04,Strait of Hormuz,chokepoint6,43,20,9,6,6,2,1481118,portwatch
+2026-02-05,Strait of Hormuz,chokepoint6,71,36,12,14,7,2,2679244,portwatch
+2026-02-06,Strait of Hormuz,chokepoint6,60,34,7,14,2,3,1694325,portwatch
+2026-02-07,Strait of Hormuz,chokepoint6,60,40,6,12,1,1,2748142,portwatch
+2026-02-08,Strait of Hormuz,chokepoint6,58,32,11,8,6,1,1605017,portwatch
+2026-02-09,Strait of Hormuz,chokepoint6,53,33,4,12,1,3,1763162,portwatch
+2026-02-10,Strait of Hormuz,chokepoint6,65,39,11,9,4,2,3290551,portwatch
+2026-02-11,Strait of Hormuz,chokepoint6,81,49,10,14,5,3,2028460,portwatch
+2026-02-12,Strait of Hormuz,chokepoint6,68,32,11,14,8,3,2682780,portwatch
+2026-02-13,Strait of Hormuz,chokepoint6,103,54,20,18,6,5,3755606,portwatch
+2026-02-14,Strait of Hormuz,chokepoint6,91,53,17,16,4,1,3605080,portwatch
+2026-02-15,Strait of Hormuz,chokepoint6,74,42,9,17,4,2,2608269,portwatch
+2026-02-16,Strait of Hormuz,chokepoint6,54,35,8,5,5,1,2274188,portwatch
+2026-02-17,Strait of Hormuz,chokepoint6,75,40,14,11,5,5,2900635,portwatch
+2026-02-18,Strait of Hormuz,chokepoint6,109,54,22,19,7,7,4341719,portwatch
+2026-02-19,Strait of Hormuz,chokepoint6,115,63,23,23,4,2,5208398,portwatch
+2026-02-20,Strait of Hormuz,chokepoint6,94,55,20,11,6,2,3974738,portwatch
+2026-02-21,Strait of Hormuz,chokepoint6,86,53,9,19,3,2,2432463,portwatch
+2026-02-22,Strait of Hormuz,chokepoint6,127,69,31,19,5,3,5235136,portwatch
+2026-02-23,Strait of Hormuz,chokepoint6,104,65,11,14,8,6,2632999,portwatch
+2026-02-24,Strait of Hormuz,chokepoint6,93,49,15,19,4,6,3251647,portwatch
+2026-02-25,Strait of Hormuz,chokepoint6,116,59,31,17,6,3,5597047,portwatch
+2026-02-26,Strait of Hormuz,chokepoint6,89,45,15,12,13,4,1844542,portwatch
+2026-02-27,Strait of Hormuz,chokepoint6,64,37,5,15,6,1,1863357,portwatch
+2026-02-28,Strait of Hormuz,chokepoint6,57,36,5,11,4,1,2946748,portwatch
+2026-03-01,Strait of Hormuz,chokepoint6,20,5,3,9,3,0,494931,portwatch
+2026-03-02,Strait of Hormuz,chokepoint6,4,1,0,3,0,0,61822,portwatch
+2026-03-03,Strait of Hormuz,chokepoint6,4,1,1,2,0,0,103665,portwatch
+2026-03-04,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-03-05,Strait of Hormuz,chokepoint6,3,1,0,1,1,0,24031,portwatch
+2026-03-06,Strait of Hormuz,chokepoint6,2,0,0,0,2,0,143,portwatch
+2026-03-07,Strait of Hormuz,chokepoint6,3,1,0,2,0,0,102414,portwatch
+2026-03-08,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,51168,portwatch
+2026-03-09,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,1599,portwatch
+2026-03-10,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,42122,portwatch
+2026-03-11,Strait of Hormuz,chokepoint6,2,0,1,1,0,0,123362,portwatch
+2026-03-12,Strait of Hormuz,chokepoint6,1,0,1,0,0,0,0,portwatch
+2026-03-13,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-03-14,Strait of Hormuz,chokepoint6,1,0,1,0,0,0,0,portwatch
+2026-03-15,Strait of Hormuz,chokepoint6,7,2,2,3,0,0,363277,portwatch
+2026-03-16,Strait of Hormuz,chokepoint6,4,0,0,2,2,0,0,portwatch
+2026-03-17,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,47804,portwatch
+2026-03-18,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-03-19,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-03-20,Strait of Hormuz,chokepoint6,3,2,0,1,0,0,193637,portwatch
+2026-03-21,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-03-22,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,31388,portwatch
+2026-03-23,Strait of Hormuz,chokepoint6,4,2,0,2,0,0,137492,portwatch
+2026-03-24,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,12988,portwatch
+2026-03-25,Strait of Hormuz,chokepoint6,2,2,0,0,0,0,3212,portwatch
+2026-03-26,Strait of Hormuz,chokepoint6,4,0,0,4,0,0,73148,portwatch
+2026-03-27,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,68784,portwatch
+2026-03-28,Strait of Hormuz,chokepoint6,6,1,0,5,0,0,97272,portwatch
+2026-03-29,Strait of Hormuz,chokepoint6,5,2,0,2,1,0,124948,portwatch
+2026-03-30,Strait of Hormuz,chokepoint6,6,3,2,0,1,0,109762,portwatch
+2026-03-31,Strait of Hormuz,chokepoint6,5,2,1,1,1,0,84095,portwatch
+2026-04-01,Strait of Hormuz,chokepoint6,7,1,0,4,2,0,87033,portwatch
+2026-04-02,Strait of Hormuz,chokepoint6,1,0,0,1,0,0,40276,portwatch
+2026-04-03,Strait of Hormuz,chokepoint6,3,2,0,1,0,0,147579,portwatch
+2026-04-04,Strait of Hormuz,chokepoint6,11,3,1,6,1,0,134722,portwatch
+2026-04-05,Strait of Hormuz,chokepoint6,4,4,0,0,0,0,264106,portwatch
+2026-04-06,Strait of Hormuz,chokepoint6,5,0,1,3,1,0,107315,portwatch
+2026-04-07,Strait of Hormuz,chokepoint6,3,2,0,1,0,0,113878,portwatch
+2026-04-08,Strait of Hormuz,chokepoint6,3,0,0,3,0,0,35363,portwatch
+2026-04-09,Strait of Hormuz,chokepoint6,8,5,0,2,1,0,217203,portwatch
+2026-04-10,Strait of Hormuz,chokepoint6,3,0,0,3,0,0,0,portwatch
+2026-04-11,Strait of Hormuz,chokepoint6,7,3,1,2,1,0,402443,portwatch
+2026-04-12,Strait of Hormuz,chokepoint6,12,3,1,8,0,0,208464,portwatch
+2026-04-13,Strait of Hormuz,chokepoint6,7,4,1,1,1,0,106407,portwatch
+2026-04-14,Strait of Hormuz,chokepoint6,5,3,1,1,0,0,114192,portwatch
+2026-04-15,Strait of Hormuz,chokepoint6,7,4,1,2,0,0,344547,portwatch
+2026-04-16,Strait of Hormuz,chokepoint6,3,1,1,1,0,0,79186,portwatch
+2026-04-17,Strait of Hormuz,chokepoint6,8,3,0,5,0,0,5366,portwatch
+2026-04-18,Strait of Hormuz,chokepoint6,20,12,4,4,0,0,827847,portwatch
+2026-04-19,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,11633,portwatch
+2026-04-20,Strait of Hormuz,chokepoint6,3,2,1,0,0,0,56282,portwatch
+2026-04-21,Strait of Hormuz,chokepoint6,4,3,0,0,1,0,76063,portwatch
+2026-04-22,Strait of Hormuz,chokepoint6,5,2,2,1,0,0,120039,portwatch
+2026-04-23,Strait of Hormuz,chokepoint6,3,0,0,1,2,0,33377,portwatch
+2026-04-24,Strait of Hormuz,chokepoint6,6,2,0,1,3,0,72566,portwatch
+2026-04-25,Strait of Hormuz,chokepoint6,4,2,0,1,1,0,107546,portwatch
+2026-04-26,Strait of Hormuz,chokepoint6,3,1,0,1,1,0,37503,portwatch
+2026-04-27,Strait of Hormuz,chokepoint6,7,2,0,4,1,0,82042,portwatch
+2026-04-28,Strait of Hormuz,chokepoint6,10,3,2,2,3,0,452697,portwatch
+2026-04-29,Strait of Hormuz,chokepoint6,39,23,3,10,3,0,804846,portwatch
+2026-04-30,Strait of Hormuz,chokepoint6,11,4,3,2,2,0,175020,portwatch
+2026-05-01,Strait of Hormuz,chokepoint6,7,2,0,2,3,0,70976,portwatch
+2026-05-02,Strait of Hormuz,chokepoint6,6,4,0,2,0,0,93041,portwatch
+2026-05-03,Strait of Hormuz,chokepoint6,6,1,0,3,2,0,127798,portwatch
+2026-05-04,Strait of Hormuz,chokepoint6,2,0,1,1,0,0,12784,portwatch
+2026-05-05,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-05-06,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-05-07,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-05-08,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-05-09,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,98525,portwatch
+2026-05-10,Strait of Hormuz,chokepoint6,7,2,1,2,2,0,457574,portwatch
+2026-05-11,Strait of Hormuz,chokepoint6,7,4,0,2,1,0,114837,portwatch
+2026-05-12,Strait of Hormuz,chokepoint6,3,1,0,0,1,1,344,portwatch
+2026-05-13,Strait of Hormuz,chokepoint6,4,2,0,0,2,0,350554,portwatch
+2026-05-14,Strait of Hormuz,chokepoint6,10,3,1,1,5,0,65186,portwatch
+2026-05-15,Strait of Hormuz,chokepoint6,4,2,0,0,2,0,6679,portwatch
+2026-05-16,Strait of Hormuz,chokepoint6,7,1,0,5,1,0,178812,portwatch
+2026-05-17,Strait of Hormuz,chokepoint6,3,1,0,0,2,0,10961,portwatch
+2026-05-18,Strait of Hormuz,chokepoint6,4,1,1,0,2,0,16651,portwatch
+2026-05-19,Strait of Hormuz,chokepoint6,4,3,1,0,0,0,609497,portwatch
+2026-05-20,Strait of Hormuz,chokepoint6,8,4,2,2,0,0,418971,portwatch
+2026-05-21,Strait of Hormuz,chokepoint6,5,2,0,2,1,0,74078,portwatch
+2026-05-22,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,0,portwatch
+2026-05-23,Strait of Hormuz,chokepoint6,6,1,0,1,4,0,312575,portwatch
+2026-05-24,Strait of Hormuz,chokepoint6,5,2,0,3,0,0,87734,portwatch
+2026-05-25,Strait of Hormuz,chokepoint6,4,0,1,2,1,0,86752,portwatch
+2026-05-26,Strait of Hormuz,chokepoint6,4,2,0,1,1,0,0,portwatch
+2026-05-27,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,106096,portwatch
+2026-05-28,Strait of Hormuz,chokepoint6,2,0,0,1,1,0,65232,portwatch
+2026-05-29,Strait of Hormuz,chokepoint6,1,0,0,0,0,1,6056,portwatch
+2026-05-30,Strait of Hormuz,chokepoint6,4,0,0,2,2,0,52574,portwatch
+2026-05-31,Strait of Hormuz,chokepoint6,5,0,1,1,3,0,48820,portwatch
+2026-06-01,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,90292,portwatch
+2026-06-02,Strait of Hormuz,chokepoint6,11,3,1,2,4,1,96510,portwatch
+2026-06-03,Strait of Hormuz,chokepoint6,9,3,0,3,3,0,115719,portwatch
+2026-06-04,Strait of Hormuz,chokepoint6,3,1,0,0,2,0,1047,portwatch
+2026-06-05,Strait of Hormuz,chokepoint6,2,0,0,0,2,0,0,portwatch
+2026-06-06,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,93370,portwatch
+2026-06-07,Strait of Hormuz,chokepoint6,2,0,0,0,2,0,366,portwatch
+2026-06-08,Strait of Hormuz,chokepoint6,7,1,2,1,3,0,61448,portwatch
+2026-06-09,Strait of Hormuz,chokepoint6,4,2,0,1,1,0,110820,portwatch
+2026-06-10,Strait of Hormuz,chokepoint6,3,0,0,0,3,0,13825,portwatch
+2026-06-11,Strait of Hormuz,chokepoint6,2,2,0,0,0,0,11142,portwatch
+2026-06-12,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,11375,portwatch
+2026-06-13,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-06-14,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-06-15,Strait of Hormuz,chokepoint6,7,2,0,2,3,0,86520,portwatch
+2026-06-16,Strait of Hormuz,chokepoint6,10,3,1,0,6,0,38841,portwatch
+2026-06-17,Strait of Hormuz,chokepoint6,8,0,2,4,2,0,135479,portwatch
+2026-06-18,Strait of Hormuz,chokepoint6,20,10,1,7,2,0,824115,portwatch
+2026-06-19,Strait of Hormuz,chokepoint6,9,3,2,1,3,0,729047,portwatch
+2026-06-20,Strait of Hormuz,chokepoint6,25,12,1,7,5,0,856885,portwatch
+2026-06-21,Strait of Hormuz,chokepoint6,6,1,1,2,2,0,161589,portwatch
+2026-06-22,Strait of Hormuz,chokepoint6,16,12,0,4,0,0,505171,portwatch
+2026-06-23,Strait of Hormuz,chokepoint6,29,12,3,10,4,0,1372629,portwatch
+2026-06-24,Strait of Hormuz,chokepoint6,51,20,6,19,5,1,1964318,portwatch
+2026-06-25,Strait of Hormuz,chokepoint6,46,21,8,12,5,0,1866357,portwatch
+2026-06-26,Strait of Hormuz,chokepoint6,30,17,2,8,3,0,1000055,portwatch
+2026-06-27,Strait of Hormuz,chokepoint6,25,9,3,7,6,0,955285,portwatch
+2026-06-28,Strait of Hormuz,chokepoint6,16,7,3,2,4,0,289138,portwatch
+2026-06-29,Strait of Hormuz,chokepoint6,26,13,4,6,3,0,1287883,portwatch
+2026-06-30,Strait of Hormuz,chokepoint6,16,6,0,8,2,0,565738,portwatch
+2026-07-01,Strait of Hormuz,chokepoint6,29,18,2,4,5,0,1582436,portwatch
+2026-07-02,Strait of Hormuz,chokepoint6,28,15,4,7,2,0,582502,portwatch
+2026-07-03,Strait of Hormuz,chokepoint6,24,17,1,5,1,0,1382128,portwatch
+2026-07-04,Strait of Hormuz,chokepoint6,17,8,3,4,2,0,545114,portwatch
+2026-07-05,Strait of Hormuz,chokepoint6,22,16,0,5,1,0,892809,portwatch
+2026-07-06,Strait of Hormuz,chokepoint6,25,16,3,2,2,2,2314086,portwatch
+2026-07-07,Strait of Hormuz,chokepoint6,26,10,1,8,3,4,1407775,portwatch
+2026-07-08,Strait of Hormuz,chokepoint6,20,8,3,5,4,0,535304,portwatch
+2026-07-09,Strait of Hormuz,chokepoint6,10,3,3,2,2,0,166887,portwatch
+2026-07-10,Strait of Hormuz,chokepoint6,7,4,0,2,1,0,172119,portwatch
+2026-07-11,Strait of Hormuz,chokepoint6,6,3,0,3,0,0,228875,portwatch
+2026-07-12,Strait of Hormuz,chokepoint6,4,1,1,0,2,0,63878,portwatch
+2026-07-13,Strait of Hormuz,chokepoint6,10,2,1,3,4,0,65012,portwatch
+2026-07-14,Strait of Hormuz,chokepoint6,8,5,1,1,1,0,87376,portwatch
+2026-07-15,Strait of Hormuz,chokepoint6,9,3,1,4,1,0,214434,portwatch
+2026-07-16,Strait of Hormuz,chokepoint6,6,1,2,1,2,0,28460,portwatch
+2026-07-17,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,1231,portwatch
+2026-07-18,Strait of Hormuz,chokepoint6,6,2,0,2,2,0,132322,portwatch
+2026-07-19,Strait of Hormuz,chokepoint6,4,2,1,0,1,0,54047,portwatch
+2026-07-20,Strait of Hormuz,chokepoint6,5,2,1,1,1,0,1207,portwatch
+2026-07-21,Strait of Hormuz,chokepoint6,6,1,0,3,2,0,71614,portwatch
+2026-07-22,Strait of Hormuz,chokepoint6,6,1,0,1,4,0,35435,portwatch
+2026-07-23,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-07-24,Strait of Hormuz,chokepoint6,3,0,0,2,1,0,591,portwatch
+2026-07-25,Strait of Hormuz,chokepoint6,2,0,0,0,2,0,324,portwatch
+2026-07-26,Strait of Hormuz,chokepoint6,3,2,0,1,0,0,122054,portwatch
+2026-07-27,Strait of Hormuz,chokepoint6,5,0,0,3,2,0,170314,portwatch
+2026-07-28,Strait of Hormuz,chokepoint6,5,1,0,4,0,0,63967,portwatch
+2026-07-29,Strait of Hormuz,chokepoint6,7,3,0,4,0,0,179594,portwatch
+2026-07-30,Strait of Hormuz,chokepoint6,4,1,1,0,2,0,5325,portwatch
+2026-07-31,Strait of Hormuz,chokepoint6,8,2,1,2,3,0,470124,portwatch
+2026-08-01,Strait of Hormuz,chokepoint6,5,3,0,1,1,0,3003,portwatch
+2026-08-02,Strait of Hormuz,chokepoint6,3,0,1,1,1,0,107354,portwatch
+2026-08-03,Strait of Hormuz,chokepoint6,6,3,0,3,0,0,131517,portwatch
+2026-08-04,Strait of Hormuz,chokepoint6,7,4,0,3,0,0,214958,portwatch
+2026-08-05,Strait of Hormuz,chokepoint6,5,0,1,1,3,0,4805,portwatch
+2026-08-06,Strait of Hormuz,chokepoint6,2,0,0,1,1,0,25140,portwatch
+2026-08-07,Strait of Hormuz,chokepoint6,6,4,0,2,0,0,95136,portwatch
+2026-08-08,Strait of Hormuz,chokepoint6,10,2,3,3,2,0,389245,portwatch
+2026-08-09,Strait of Hormuz,chokepoint6,3,0,0,1,2,0,0,portwatch
+2026-08-10,Strait of Hormuz,chokepoint6,4,2,0,2,0,0,64034,portwatch
+2026-08-11,Strait of Hormuz,chokepoint6,9,2,0,3,4,0,99876,portwatch
+2026-08-12,Strait of Hormuz,chokepoint6,3,1,0,1,1,0,14580,portwatch
+2026-08-13,Strait of Hormuz,chokepoint6,6,2,0,4,0,0,150650,portwatch
+2026-08-14,Strait of Hormuz,chokepoint6,7,2,0,5,0,0,195694,portwatch
+2026-08-15,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,1067,portwatch
+2026-08-16,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,0,portwatch
+2026-08-17,Strait of Hormuz,chokepoint6,4,3,0,0,1,0,24505,portwatch
+2026-08-18,Strait of Hormuz,chokepoint6,6,4,0,1,1,0,312897,portwatch
+2026-08-19,Strait of Hormuz,chokepoint6,6,4,0,0,2,0,78931,portwatch
+2026-08-20,Strait of Hormuz,chokepoint6,5,2,0,2,1,0,136645,portwatch
+2026-08-21,Strait of Hormuz,chokepoint6,4,2,0,2,0,0,72476,portwatch
+2026-08-22,Strait of Hormuz,chokepoint6,7,1,2,2,2,0,184497,portwatch
+2026-08-23,Strait of Hormuz,chokepoint6,3,1,0,2,0,0,32472,portwatch
+2026-08-24,Strait of Hormuz,chokepoint6,3,2,0,0,1,0,69775,portwatch
+2026-08-25,Strait of Hormuz,chokepoint6,4,4,0,0,0,0,56680,portwatch
+2026-08-26,Strait of Hormuz,chokepoint6,5,2,0,2,1,0,88102,portwatch
+2026-08-27,Strait of Hormuz,chokepoint6,2,2,0,0,0,0,4989,portwatch
+2026-08-28,Strait of Hormuz,chokepoint6,7,0,0,4,3,0,151980,portwatch
+2026-08-29,Strait of Hormuz,chokepoint6,3,1,0,1,1,0,10089,portwatch
+2026-08-30,Strait of Hormuz,chokepoint6,6,2,0,2,2,0,70732,portwatch
+2026-08-31,Strait of Hormuz,chokepoint6,3,1,1,1,0,0,28355,portwatch
+2026-09-01,Strait of Hormuz,chokepoint6,4,1,0,3,0,0,63309,portwatch
+2026-09-02,Strait of Hormuz,chokepoint6,3,1,0,2,0,0,115187,portwatch
+2026-09-03,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,116969,portwatch
+2026-09-04,Strait of Hormuz,chokepoint6,2,0,1,1,0,0,53267,portwatch
+2026-09-05,Strait of Hormuz,chokepoint6,2,0,0,1,1,0,63174,portwatch
+2026-09-06,Strait of Hormuz,chokepoint6,6,2,1,3,0,0,212702,portwatch
+2026-09-07,Strait of Hormuz,chokepoint6,5,2,0,3,0,0,70380,portwatch
+2026-09-08,Strait of Hormuz,chokepoint6,6,2,0,3,1,0,390320,portwatch
+2026-09-09,Strait of Hormuz,chokepoint6,3,0,0,1,2,0,0,portwatch
+2026-09-10,Strait of Hormuz,chokepoint6,5,1,0,2,2,0,30768,portwatch
+2026-09-11,Strait of Hormuz,chokepoint6,8,3,0,3,2,0,96001,portwatch
+2026-09-12,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,84568,portwatch
+2026-09-13,Strait of Hormuz,chokepoint6,8,1,2,2,3,0,71701,portwatch
+2026-09-14,Strait of Hormuz,chokepoint6,2,0,0,2,0,0,0,portwatch
+2026-09-15,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,53291,portwatch
+2026-09-16,Strait of Hormuz,chokepoint6,1,0,0,1,0,0,51573,portwatch
+2026-09-17,Strait of Hormuz,chokepoint6,3,0,1,2,0,0,66754,portwatch
+2026-09-18,Strait of Hormuz,chokepoint6,7,2,0,4,1,0,144871,portwatch
+2026-09-19,Strait of Hormuz,chokepoint6,6,1,2,0,3,0,30815,portwatch
+2026-09-20,Strait of Hormuz,chokepoint6,1,0,0,1,0,0,48165,portwatch
+2026-09-21,Strait of Hormuz,chokepoint6,2,0,0,1,1,0,69956,portwatch
+2026-09-22,Strait of Hormuz,chokepoint6,3,1,0,0,2,0,41053,portwatch
+2026-09-23,Strait of Hormuz,chokepoint6,4,1,0,2,1,0,122256,portwatch
+2026-09-24,Strait of Hormuz,chokepoint6,5,3,0,2,0,0,104329,portwatch
+2026-09-25,Strait of Hormuz,chokepoint6,3,2,0,1,0,0,4771,portwatch
+2026-09-26,Strait of Hormuz,chokepoint6,4,1,0,1,2,0,15403,portwatch
+2026-09-27,Strait of Hormuz,chokepoint6,1,1,0,0,0,0,8866,portwatch
+2026-09-28,Strait of Hormuz,chokepoint6,4,2,2,0,0,0,34506,portwatch
+2026-09-29,Strait of Hormuz,chokepoint6,1,0,0,1,0,0,71715,portwatch
+2026-09-30,Strait of Hormuz,chokepoint6,4,4,0,0,0,0,94024,portwatch
+2026-10-01,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-10-02,Strait of Hormuz,chokepoint6,4,0,0,4,0,0,214811,portwatch
+2026-10-03,Strait of Hormuz,chokepoint6,2,0,0,1,1,0,83315,portwatch
+2026-10-04,Strait of Hormuz,chokepoint6,4,0,1,2,1,0,81884,portwatch
+2026-10-05,Strait of Hormuz,chokepoint6,8,1,0,5,2,0,439887,portwatch
+2026-10-06,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,119052,portwatch
+2026-10-07,Strait of Hormuz,chokepoint6,6,1,0,2,3,0,127964,portwatch
+2026-10-08,Strait of Hormuz,chokepoint6,4,0,1,2,1,0,73111,portwatch
+2026-10-09,Strait of Hormuz,chokepoint6,3,0,1,1,1,0,41992,portwatch
+2026-10-10,Strait of Hormuz,chokepoint6,4,0,1,2,1,0,50421,portwatch
+2026-10-11,Strait of Hormuz,chokepoint6,2,1,0,1,0,0,77388,portwatch
+2026-10-12,Strait of Hormuz,chokepoint6,3,0,0,3,0,0,214117,portwatch
+2026-10-13,Strait of Hormuz,chokepoint6,7,0,0,4,3,0,105860,portwatch
+2026-10-14,Strait of Hormuz,chokepoint6,3,0,0,2,1,0,17757,portwatch
+2026-10-15,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,10315,portwatch
+2026-10-16,Strait of Hormuz,chokepoint6,7,1,2,0,4,0,87360,portwatch
+2026-10-17,Strait of Hormuz,chokepoint6,0,0,0,0,0,0,0,portwatch
+2026-10-18,Strait of Hormuz,chokepoint6,4,2,0,2,0,0,125163,portwatch
+2026-10-19,Strait of Hormuz,chokepoint6,4,1,0,2,1,0,80025,portwatch
+2026-10-20,Strait of Hormuz,chokepoint6,3,1,0,1,1,0,36679,portwatch
+2026-10-21,Strait of Hormuz,chokepoint6,3,0,0,2,1,0,37157,portwatch
+2026-10-22,Strait of Hormuz,chokepoint6,4,1,1,2,0,0,3627,portwatch
+2026-10-23,Strait of Hormuz,chokepoint6,5,1,0,3,1,0,207995,portwatch
+2026-10-24,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,37735,portwatch
+2026-10-25,Strait of Hormuz,chokepoint6,2,1,0,0,1,0,0,portwatch
+2025-01-01,Suez Canal,chokepoint1,32,9,7,13,3,0,1125034,portwatch
+2025-01-02,Suez Canal,chokepoint1,33,8,12,5,7,1,1068959,portwatch
+2025-01-03,Suez Canal,chokepoint1,50,20,13,7,8,2,1571080,portwatch
+2025-01-04,Suez Canal,chokepoint1,29,13,6,8,2,0,776880,portwatch
+2025-01-05,Suez Canal,chokepoint1,30,14,9,2,4,1,867653,portwatch
+2025-01-06,Suez Canal,chokepoint1,55,16,12,22,4,1,1569864,portwatch
+2025-01-07,Suez Canal,chokepoint1,41,16,8,14,3,0,1447447,portwatch
+2025-01-08,Suez Canal,chokepoint1,32,9,7,9,6,1,771051,portwatch
+2025-01-09,Suez Canal,chokepoint1,36,10,10,10,6,0,1329807,portwatch
+2025-01-10,Suez Canal,chokepoint1,36,8,11,12,5,0,962057,portwatch
+2025-01-11,Suez Canal,chokepoint1,37,11,11,9,5,1,1697708,portwatch
+2025-01-12,Suez Canal,chokepoint1,30,11,9,8,2,0,828333,portwatch
+2025-01-13,Suez Canal,chokepoint1,43,18,11,8,5,1,1230034,portwatch
+2025-01-14,Suez Canal,chokepoint1,39,15,6,11,7,0,1383648,portwatch
+2025-01-15,Suez Canal,chokepoint1,28,14,5,5,3,1,964747,portwatch
+2025-01-16,Suez Canal,chokepoint1,41,14,9,13,4,1,1284312,portwatch
+2025-01-17,Suez Canal,chokepoint1,37,14,8,12,1,2,1221806,portwatch
+2025-01-18,Suez Canal,chokepoint1,31,12,9,6,4,0,1316084,portwatch
+2025-01-19,Suez Canal,chokepoint1,38,12,10,12,4,0,1592100,portwatch
+2025-01-20,Suez Canal,chokepoint1,38,13,10,9,5,1,1123123,portwatch
+2025-01-21,Suez Canal,chokepoint1,23,8,6,7,2,0,918252,portwatch
+2025-01-22,Suez Canal,chokepoint1,44,18,11,8,7,0,1652912,portwatch
+2025-01-23,Suez Canal,chokepoint1,36,9,7,12,8,0,1811918,portwatch
+2025-01-24,Suez Canal,chokepoint1,41,13,14,6,6,2,1261461,portwatch
+2025-01-25,Suez Canal,chokepoint1,38,12,10,10,6,0,951665,portwatch
+2025-01-26,Suez Canal,chokepoint1,37,11,9,10,6,1,1079078,portwatch
+2025-01-27,Suez Canal,chokepoint1,39,17,8,11,3,0,1416246,portwatch
+2025-01-28,Suez Canal,chokepoint1,40,17,7,11,5,0,1034744,portwatch
+2025-01-29,Suez Canal,chokepoint1,45,10,15,15,4,1,1676011,portwatch
+2025-01-30,Suez Canal,chokepoint1,30,11,5,10,4,0,988018,portwatch
+2025-01-31,Suez Canal,chokepoint1,42,21,10,7,4,0,1625126,portwatch
+2025-02-01,Suez Canal,chokepoint1,24,10,10,3,1,0,599300,portwatch
+2025-02-02,Suez Canal,chokepoint1,36,14,13,3,6,0,1073603,portwatch
+2025-02-03,Suez Canal,chokepoint1,30,8,13,5,3,1,1066275,portwatch
+2025-02-04,Suez Canal,chokepoint1,29,4,9,12,2,2,1067900,portwatch
+2025-02-05,Suez Canal,chokepoint1,32,15,8,9,0,0,1390440,portwatch
+2025-02-06,Suez Canal,chokepoint1,30,11,8,9,2,0,1311590,portwatch
+2025-02-07,Suez Canal,chokepoint1,30,7,7,14,2,0,823597,portwatch
+2025-02-08,Suez Canal,chokepoint1,21,7,10,2,2,0,731160,portwatch
+2025-02-09,Suez Canal,chokepoint1,45,20,9,8,8,0,1467850,portwatch
+2025-02-10,Suez Canal,chokepoint1,41,13,9,15,4,0,2140966,portwatch
+2025-02-11,Suez Canal,chokepoint1,38,16,11,7,4,0,1353171,portwatch
+2025-02-12,Suez Canal,chokepoint1,42,12,9,15,4,2,1420700,portwatch
+2025-02-13,Suez Canal,chokepoint1,42,12,14,11,5,0,891393,portwatch
+2025-02-14,Suez Canal,chokepoint1,35,14,13,5,3,0,836688,portwatch
+2025-02-15,Suez Canal,chokepoint1,31,10,7,10,4,0,1391667,portwatch
+2025-02-16,Suez Canal,chokepoint1,36,20,5,5,6,0,1186564,portwatch
+2025-02-17,Suez Canal,chokepoint1,33,12,11,6,4,0,1031826,portwatch
+2025-02-18,Suez Canal,chokepoint1,36,17,7,9,2,1,1616424,portwatch
+2025-02-19,Suez Canal,chokepoint1,40,13,13,10,3,1,1134247,portwatch
+2025-02-20,Suez Canal,chokepoint1,32,9,8,7,6,2,672292,portwatch
+2025-02-21,Suez Canal,chokepoint1,35,14,12,4,4,1,1191472,portwatch
+2025-02-22,Suez Canal,chokepoint1,32,12,8,8,4,0,984756,portwatch
+2025-02-23,Suez Canal,chokepoint1,27,10,7,7,3,0,1127550,portwatch
+2025-02-24,Suez Canal,chokepoint1,33,14,7,7,5,0,929559,portwatch
+2025-02-25,Suez Canal,chokepoint1,34,16,7,8,3,0,1369558,portwatch
+2025-02-26,Suez Canal,chokepoint1,36,12,7,9,8,0,1179280,portwatch
+2025-02-27,Suez Canal,chokepoint1,41,10,9,12,10,0,1556236,portwatch
+2025-02-28,Suez Canal,chokepoint1,35,10,12,13,0,0,1450348,portwatch
+2025-03-01,Suez Canal,chokepoint1,32,12,7,11,2,0,938092,portwatch
+2025-03-02,Suez Canal,chokepoint1,35,13,8,9,5,0,1529239,portwatch
+2025-03-03,Suez Canal,chokepoint1,35,12,8,7,6,2,1031223,portwatch
+2025-03-04,Suez Canal,chokepoint1,50,21,11,11,6,1,2018528,portwatch
+2025-03-05,Suez Canal,chokepoint1,31,10,6,11,2,2,1151287,portwatch
+2025-03-06,Suez Canal,chokepoint1,30,13,8,6,3,0,912073,portwatch
+2025-03-07,Suez Canal,chokepoint1,46,19,15,8,3,1,1199976,portwatch
+2025-03-08,Suez Canal,chokepoint1,37,9,8,14,4,2,2172814,portwatch
+2025-03-09,Suez Canal,chokepoint1,34,11,7,13,2,1,1471519,portwatch
+2025-03-10,Suez Canal,chokepoint1,34,15,11,6,2,0,1002882,portwatch
+2025-03-11,Suez Canal,chokepoint1,38,21,8,5,4,0,2224644,portwatch
+2025-03-12,Suez Canal,chokepoint1,34,9,13,6,5,1,1294861,portwatch
+2025-03-13,Suez Canal,chokepoint1,42,13,13,8,6,2,1117991,portwatch
+2025-03-14,Suez Canal,chokepoint1,33,13,7,7,4,2,1496816,portwatch
+2025-03-15,Suez Canal,chokepoint1,37,11,9,12,5,0,1704992,portwatch
+2025-03-16,Suez Canal,chokepoint1,50,21,10,12,6,1,1488786,portwatch
+2025-03-17,Suez Canal,chokepoint1,37,16,9,6,5,1,1260904,portwatch
+2025-03-18,Suez Canal,chokepoint1,29,9,9,7,3,1,865180,portwatch
+2025-03-19,Suez Canal,chokepoint1,27,14,4,8,1,0,1036882,portwatch
+2025-03-20,Suez Canal,chokepoint1,36,13,5,12,4,2,1542861,portwatch
+2025-03-21,Suez Canal,chokepoint1,42,17,10,10,4,1,1490141,portwatch
+2025-03-22,Suez Canal,chokepoint1,40,13,7,11,7,2,1288232,portwatch
+2025-03-23,Suez Canal,chokepoint1,45,15,10,15,5,0,1417451,portwatch
+2025-03-24,Suez Canal,chokepoint1,41,19,5,13,4,0,1766134,portwatch
+2025-03-25,Suez Canal,chokepoint1,32,13,8,7,4,0,1030395,portwatch
+2025-03-26,Suez Canal,chokepoint1,41,17,11,10,3,0,1782879,portwatch
+2025-03-27,Suez Canal,chokepoint1,34,17,9,5,3,0,1307509,portwatch
+2025-03-28,Suez Canal,chokepoint1,50,24,11,11,3,1,1854173,portwatch
+2025-03-29,Suez Canal,chokepoint1,28,13,7,5,3,0,805410,portwatch
+2025-03-30,Suez Canal,chokepoint1,41,19,7,11,4,0,1357623,portwatch
+2025-03-31,Suez Canal,chokepoint1,35,12,8,9,4,2,1579042,portwatch
+2025-04-01,Suez Canal,chokepoint1,37,13,11,11,2,0,1504266,portwatch
+2025-04-02,Suez Canal,chokepoint1,36,14,12,7,2,1,913814,portwatch
+2025-04-03,Suez Canal,chokepoint1,43,14,12,13,4,0,1844393,portwatch
+2025-04-04,Suez Canal,chokepoint1,42,19,13,8,1,1,1290278,portwatch
+2025-04-05,Suez Canal,chokepoint1,39,15,7,10,6,1,1429209,portwatch
+2025-04-06,Suez Canal,chokepoint1,25,8,4,8,4,1,724146,portwatch
+2025-04-07,Suez Canal,chokepoint1,31,14,10,4,3,0,1073415,portwatch
+2025-04-08,Suez Canal,chokepoint1,28,11,7,5,4,1,1225149,portwatch
+2025-04-09,Suez Canal,chokepoint1,38,16,7,11,4,0,1502119,portwatch
+2025-04-10,Suez Canal,chokepoint1,48,17,14,14,3,0,1861398,portwatch
+2025-04-11,Suez Canal,chokepoint1,38,16,9,10,3,0,1633820,portwatch
+2025-04-12,Suez Canal,chokepoint1,40,17,4,11,7,1,1546103,portwatch
+2025-04-13,Suez Canal,chokepoint1,52,25,10,11,5,1,2074489,portwatch
+2025-04-14,Suez Canal,chokepoint1,35,12,11,5,5,2,1055644,portwatch
+2025-04-15,Suez Canal,chokepoint1,28,11,3,8,6,0,1098804,portwatch
+2025-04-16,Suez Canal,chokepoint1,40,17,10,7,6,0,1631792,portwatch
+2025-04-17,Suez Canal,chokepoint1,40,13,14,7,4,2,1383602,portwatch
+2025-04-18,Suez Canal,chokepoint1,45,22,11,7,4,1,1003102,portwatch
+2025-04-19,Suez Canal,chokepoint1,30,15,6,7,2,0,924151,portwatch
+2025-04-20,Suez Canal,chokepoint1,31,12,8,8,3,0,1303620,portwatch
+2025-04-21,Suez Canal,chokepoint1,38,10,11,13,3,1,1389561,portwatch
+2025-04-22,Suez Canal,chokepoint1,40,12,10,9,6,3,1212525,portwatch
+2025-04-23,Suez Canal,chokepoint1,39,14,9,11,4,1,1433436,portwatch
+2025-04-24,Suez Canal,chokepoint1,34,13,9,9,3,0,1123037,portwatch
+2025-04-25,Suez Canal,chokepoint1,40,16,9,12,3,0,1373092,portwatch
+2025-04-26,Suez Canal,chokepoint1,30,9,11,6,3,1,912853,portwatch
+2025-04-27,Suez Canal,chokepoint1,34,11,7,8,8,0,1243861,portwatch
+2025-04-28,Suez Canal,chokepoint1,33,10,7,9,6,1,771683,portwatch
+2025-04-29,Suez Canal,chokepoint1,59,24,12,15,6,2,2128256,portwatch
+2025-04-30,Suez Canal,chokepoint1,18,11,3,2,2,0,658612,portwatch
+2025-05-01,Suez Canal,chokepoint1,51,23,15,8,4,1,2252164,portwatch
+2025-05-02,Suez Canal,chokepoint1,35,10,8,12,3,2,1407573,portwatch
+2025-05-03,Suez Canal,chokepoint1,33,10,8,8,7,0,1236001,portwatch
+2025-05-04,Suez Canal,chokepoint1,26,8,7,9,2,0,965482,portwatch
+2025-05-05,Suez Canal,chokepoint1,35,13,9,8,4,1,1038355,portwatch
+2025-05-06,Suez Canal,chokepoint1,35,12,10,6,7,0,1005215,portwatch
+2025-05-07,Suez Canal,chokepoint1,32,9,11,8,4,0,892567,portwatch
+2025-05-08,Suez Canal,chokepoint1,39,17,11,10,0,1,1294709,portwatch
+2025-05-09,Suez Canal,chokepoint1,31,9,12,6,4,0,1016215,portwatch
+2025-05-10,Suez Canal,chokepoint1,42,22,10,8,2,0,1807926,portwatch
+2025-05-11,Suez Canal,chokepoint1,27,13,3,6,2,3,619727,portwatch
+2025-05-12,Suez Canal,chokepoint1,24,9,5,5,4,1,899724,portwatch
+2025-05-13,Suez Canal,chokepoint1,41,13,11,13,3,1,1257064,portwatch
+2025-05-14,Suez Canal,chokepoint1,42,15,8,15,4,0,2058121,portwatch
+2025-05-15,Suez Canal,chokepoint1,49,16,12,14,5,2,1597663,portwatch
+2025-05-16,Suez Canal,chokepoint1,45,14,14,11,5,1,1559407,portwatch
+2025-05-17,Suez Canal,chokepoint1,35,18,6,6,5,0,1515366,portwatch
+2025-05-18,Suez Canal,chokepoint1,38,10,16,9,2,1,1270557,portwatch
+2025-05-19,Suez Canal,chokepoint1,30,11,9,8,2,0,1311894,portwatch
+2025-05-20,Suez Canal,chokepoint1,50,24,9,12,4,1,2024633,portwatch
+2025-05-21,Suez Canal,chokepoint1,36,17,9,7,2,1,1560732,portwatch
+2025-05-22,Suez Canal,chokepoint1,27,15,7,2,3,0,596833,portwatch
+2025-05-23,Suez Canal,chokepoint1,37,14,8,7,7,1,1336936,portwatch
+2025-05-24,Suez Canal,chokepoint1,43,21,8,12,2,0,1702078,portwatch
+2025-05-25,Suez Canal,chokepoint1,45,17,10,14,4,0,1375333,portwatch
+2025-05-26,Suez Canal,chokepoint1,30,10,9,7,3,1,988508,portwatch
+2025-05-27,Suez Canal,chokepoint1,34,11,10,12,1,0,1274725,portwatch
+2025-05-28,Suez Canal,chokepoint1,29,9,8,8,4,0,958561,portwatch
+2025-05-29,Suez Canal,chokepoint1,44,18,10,9,5,2,1288272,portwatch
+2025-05-30,Suez Canal,chokepoint1,40,21,6,7,5,1,1445511,portwatch
+2025-05-31,Suez Canal,chokepoint1,42,18,9,12,3,0,1922841,portwatch
+2025-06-01,Suez Canal,chokepoint1,37,12,10,11,3,1,1647461,portwatch
+2025-06-02,Suez Canal,chokepoint1,33,13,10,5,5,0,1475783,portwatch
+2025-06-03,Suez Canal,chokepoint1,28,11,6,9,2,0,726018,portwatch
+2025-06-04,Suez Canal,chokepoint1,35,14,7,9,4,1,1135646,portwatch
+2025-06-05,Suez Canal,chokepoint1,33,8,11,4,6,4,806660,portwatch
+2025-06-06,Suez Canal,chokepoint1,40,18,14,3,5,0,1300550,portwatch
+2025-06-07,Suez Canal,chokepoint1,34,14,10,8,2,0,1239200,portwatch
+2025-06-08,Suez Canal,chokepoint1,37,15,8,9,5,0,1196760,portwatch
+2025-06-09,Suez Canal,chokepoint1,40,18,9,12,1,0,1603221,portwatch
+2025-06-10,Suez Canal,chokepoint1,37,16,7,12,2,0,1252488,portwatch
+2025-06-11,Suez Canal,chokepoint1,47,17,12,7,8,3,1324555,portwatch
+2025-06-12,Suez Canal,chokepoint1,38,15,10,8,5,0,1392466,portwatch
+2025-06-13,Suez Canal,chokepoint1,42,20,10,9,3,0,1675581,portwatch
+2025-06-14,Suez Canal,chokepoint1,35,17,7,7,4,0,958274,portwatch
+2025-06-15,Suez Canal,chokepoint1,42,16,13,8,5,0,1127559,portwatch
+2025-06-16,Suez Canal,chokepoint1,30,12,9,5,4,0,829120,portwatch
+2025-06-17,Suez Canal,chokepoint1,45,15,9,12,9,0,1739795,portwatch
+2025-06-18,Suez Canal,chokepoint1,44,16,8,16,4,0,1531757,portwatch
+2025-06-19,Suez Canal,chokepoint1,34,8,8,12,4,2,863143,portwatch
+2025-06-20,Suez Canal,chokepoint1,35,11,10,6,8,0,1183979,portwatch
+2025-06-21,Suez Canal,chokepoint1,36,18,10,6,2,0,1274793,portwatch
+2025-06-22,Suez Canal,chokepoint1,34,16,9,6,2,1,1054980,portwatch
+2025-06-23,Suez Canal,chokepoint1,27,9,5,9,4,0,809606,portwatch
+2025-06-24,Suez Canal,chokepoint1,35,15,9,7,3,1,1324102,portwatch
+2025-06-25,Suez Canal,chokepoint1,28,16,4,4,3,1,699864,portwatch
+2025-06-26,Suez Canal,chokepoint1,38,19,12,5,1,1,1446983,portwatch
+2025-06-27,Suez Canal,chokepoint1,47,20,12,11,3,1,1849435,portwatch
+2025-06-28,Suez Canal,chokepoint1,35,13,6,9,5,2,1140207,portwatch
+2025-06-29,Suez Canal,chokepoint1,37,10,10,11,6,0,1255313,portwatch
+2025-06-30,Suez Canal,chokepoint1,37,14,11,6,5,1,1011144,portwatch
+2025-07-01,Suez Canal,chokepoint1,36,16,6,10,3,1,1460612,portwatch
+2025-07-02,Suez Canal,chokepoint1,38,15,8,11,3,1,1582774,portwatch
+2025-07-03,Suez Canal,chokepoint1,40,16,11,8,5,0,1362647,portwatch
+2025-07-04,Suez Canal,chokepoint1,29,11,7,9,1,1,1280708,portwatch
+2025-07-05,Suez Canal,chokepoint1,36,15,4,11,6,0,1287555,portwatch
+2025-07-06,Suez Canal,chokepoint1,46,21,9,9,5,2,1513379,portwatch
+2025-07-07,Suez Canal,chokepoint1,44,18,13,7,6,0,1637375,portwatch
+2025-07-08,Suez Canal,chokepoint1,37,11,8,14,4,0,1636396,portwatch
+2025-07-09,Suez Canal,chokepoint1,45,19,10,7,9,0,1563733,portwatch
+2025-07-10,Suez Canal,chokepoint1,40,16,8,8,8,0,1620695,portwatch
+2025-07-11,Suez Canal,chokepoint1,37,20,11,3,3,0,1120862,portwatch
+2025-07-12,Suez Canal,chokepoint1,32,12,8,8,3,1,1078153,portwatch
+2025-07-13,Suez Canal,chokepoint1,33,11,5,11,5,1,1300963,portwatch
+2025-07-14,Suez Canal,chokepoint1,38,20,8,8,2,0,1717031,portwatch
+2025-07-15,Suez Canal,chokepoint1,38,14,7,11,2,4,1293665,portwatch
+2025-07-16,Suez Canal,chokepoint1,39,17,8,7,7,0,1212062,portwatch
+2025-07-17,Suez Canal,chokepoint1,33,10,11,6,5,1,1014676,portwatch
+2025-07-18,Suez Canal,chokepoint1,33,10,11,7,5,0,1078673,portwatch
+2025-07-19,Suez Canal,chokepoint1,39,16,7,12,4,0,1297146,portwatch
+2025-07-20,Suez Canal,chokepoint1,38,18,7,8,4,1,1271772,portwatch
+2025-07-21,Suez Canal,chokepoint1,40,17,8,5,10,0,1300299,portwatch
+2025-07-22,Suez Canal,chokepoint1,50,18,14,13,5,0,2452112,portwatch
+2025-07-23,Suez Canal,chokepoint1,36,13,7,9,6,1,1639471,portwatch
+2025-07-24,Suez Canal,chokepoint1,44,18,10,10,5,1,1446278,portwatch
+2025-07-25,Suez Canal,chokepoint1,37,17,14,4,2,0,1107489,portwatch
+2025-07-26,Suez Canal,chokepoint1,32,13,9,7,3,0,1034457,portwatch
+2025-07-27,Suez Canal,chokepoint1,42,12,8,17,4,1,1615741,portwatch
+2025-07-28,Suez Canal,chokepoint1,44,16,5,18,4,1,1682618,portwatch
+2025-07-29,Suez Canal,chokepoint1,34,20,6,4,3,1,1507304,portwatch
+2025-07-30,Suez Canal,chokepoint1,39,20,9,6,4,0,982994,portwatch
+2025-07-31,Suez Canal,chokepoint1,29,7,6,9,6,1,864915,portwatch
+2025-08-01,Suez Canal,chokepoint1,42,12,12,12,3,3,1540544,portwatch
+2025-08-02,Suez Canal,chokepoint1,44,16,11,11,3,3,1250886,portwatch
+2025-08-03,Suez Canal,chokepoint1,35,16,8,7,4,0,1380990,portwatch
+2025-08-04,Suez Canal,chokepoint1,32,13,11,6,2,0,1400891,portwatch
+2025-08-05,Suez Canal,chokepoint1,41,19,3,13,5,1,1717023,portwatch
+2025-08-06,Suez Canal,chokepoint1,35,15,9,4,7,0,1530577,portwatch
+2025-08-07,Suez Canal,chokepoint1,33,12,8,8,5,0,1042078,portwatch
+2025-08-08,Suez Canal,chokepoint1,42,13,10,15,2,2,1552532,portwatch
+2025-08-09,Suez Canal,chokepoint1,47,17,14,11,5,0,1614212,portwatch
+2025-08-10,Suez Canal,chokepoint1,36,16,11,6,1,2,1410259,portwatch
+2025-08-11,Suez Canal,chokepoint1,39,17,7,11,4,0,1514705,portwatch
+2025-08-12,Suez Canal,chokepoint1,37,16,8,7,5,1,995336,portwatch
+2025-08-13,Suez Canal,chokepoint1,28,18,4,2,3,1,930130,portwatch
+2025-08-14,Suez Canal,chokepoint1,43,18,10,14,1,0,1288219,portwatch
+2025-08-15,Suez Canal,chokepoint1,41,11,11,13,5,1,1534423,portwatch
+2025-08-16,Suez Canal,chokepoint1,38,14,11,6,6,1,1302582,portwatch
+2025-08-17,Suez Canal,chokepoint1,35,13,7,12,2,1,1345271,portwatch
+2025-08-18,Suez Canal,chokepoint1,43,16,8,10,6,3,1610615,portwatch
+2025-08-19,Suez Canal,chokepoint1,43,15,9,12,6,1,1318083,portwatch
+2025-08-20,Suez Canal,chokepoint1,61,20,13,17,9,2,2100152,portwatch
+2025-08-21,Suez Canal,chokepoint1,25,13,7,4,1,0,598948,portwatch
+2025-08-22,Suez Canal,chokepoint1,36,16,6,11,2,1,1326343,portwatch
+2025-08-23,Suez Canal,chokepoint1,40,16,10,8,5,1,1386426,portwatch
+2025-08-24,Suez Canal,chokepoint1,45,15,15,12,3,0,1585926,portwatch
+2025-08-25,Suez Canal,chokepoint1,34,11,5,13,3,2,1342373,portwatch
+2025-08-26,Suez Canal,chokepoint1,40,19,5,9,6,1,1546761,portwatch
+2025-08-27,Suez Canal,chokepoint1,34,15,6,9,4,0,1345237,portwatch
+2025-08-28,Suez Canal,chokepoint1,32,12,11,6,2,1,577183,portwatch
+2025-08-29,Suez Canal,chokepoint1,42,15,11,12,2,2,1208831,portwatch
+2025-08-30,Suez Canal,chokepoint1,31,8,8,13,2,0,1378928,portwatch
+2025-08-31,Suez Canal,chokepoint1,44,13,11,16,4,0,1638165,portwatch
+2025-09-01,Suez Canal,chokepoint1,47,16,8,11,9,3,1340961,portwatch
+2025-09-02,Suez Canal,chokepoint1,37,18,7,7,3,2,1430578,portwatch
+2025-09-03,Suez Canal,chokepoint1,47,13,11,17,5,1,1472353,portwatch
+2025-09-04,Suez Canal,chokepoint1,44,19,10,8,7,0,1684809,portwatch
+2025-09-05,Suez Canal,chokepoint1,37,8,8,17,2,2,1369129,portwatch
+2025-09-06,Suez Canal,chokepoint1,39,14,8,12,4,1,1348985,portwatch
+2025-09-07,Suez Canal,chokepoint1,47,19,8,13,6,1,2047555,portwatch
+2025-09-08,Suez Canal,chokepoint1,35,14,8,7,5,1,1377853,portwatch
+2025-09-09,Suez Canal,chokepoint1,44,17,8,15,3,1,1829844,portwatch
+2025-09-10,Suez Canal,chokepoint1,39,16,9,10,4,0,1536426,portwatch
+2025-09-11,Suez Canal,chokepoint1,49,20,12,14,2,1,1832005,portwatch
+2025-09-12,Suez Canal,chokepoint1,51,18,15,10,5,3,1713566,portwatch
+2025-09-13,Suez Canal,chokepoint1,50,18,14,13,5,0,1436704,portwatch
+2025-09-14,Suez Canal,chokepoint1,47,14,10,19,4,0,1747230,portwatch
+2025-09-15,Suez Canal,chokepoint1,37,13,10,10,2,2,1363137,portwatch
+2025-09-16,Suez Canal,chokepoint1,34,14,9,9,2,0,1214132,portwatch
+2025-09-17,Suez Canal,chokepoint1,44,18,7,13,4,2,1648715,portwatch
+2025-09-18,Suez Canal,chokepoint1,37,15,5,12,5,0,1476084,portwatch
+2025-09-19,Suez Canal,chokepoint1,51,28,10,9,3,1,1514668,portwatch
+2025-09-20,Suez Canal,chokepoint1,39,12,8,14,5,0,1370502,portwatch
+2025-09-21,Suez Canal,chokepoint1,31,11,8,10,2,0,1307095,portwatch
+2025-09-22,Suez Canal,chokepoint1,45,16,14,11,3,1,1528560,portwatch
+2025-09-23,Suez Canal,chokepoint1,40,12,9,15,3,1,1438861,portwatch
+2025-09-24,Suez Canal,chokepoint1,52,22,9,13,6,2,2001044,portwatch
+2025-09-25,Suez Canal,chokepoint1,45,21,12,9,2,1,1471761,portwatch
+2025-09-26,Suez Canal,chokepoint1,36,12,9,11,2,2,1001011,portwatch
+2025-09-27,Suez Canal,chokepoint1,35,14,13,6,2,0,1196450,portwatch
+2025-09-28,Suez Canal,chokepoint1,46,21,9,8,4,4,1959389,portwatch
+2025-09-29,Suez Canal,chokepoint1,39,13,10,9,6,1,1494124,portwatch
+2025-09-30,Suez Canal,chokepoint1,38,13,8,11,6,0,1175240,portwatch
+2025-10-01,Suez Canal,chokepoint1,45,18,10,12,4,1,1701671,portwatch
+2025-10-02,Suez Canal,chokepoint1,42,18,11,6,7,0,1470423,portwatch
+2025-10-03,Suez Canal,chokepoint1,46,20,11,9,3,3,1704985,portwatch
+2025-10-04,Suez Canal,chokepoint1,36,12,11,11,1,1,1014336,portwatch
+2025-10-05,Suez Canal,chokepoint1,42,15,10,13,4,0,1645928,portwatch
+2025-10-06,Suez Canal,chokepoint1,39,13,9,10,7,0,1116764,portwatch
+2025-10-07,Suez Canal,chokepoint1,32,14,8,7,3,0,1483929,portwatch
+2025-10-08,Suez Canal,chokepoint1,42,13,7,15,7,0,1605154,portwatch
+2025-10-09,Suez Canal,chokepoint1,41,15,15,8,3,0,1228764,portwatch
+2025-10-10,Suez Canal,chokepoint1,36,12,12,7,4,1,1023355,portwatch
+2025-10-11,Suez Canal,chokepoint1,40,15,7,12,4,2,1412947,portwatch
+2025-10-12,Suez Canal,chokepoint1,43,24,9,6,3,1,1772188,portwatch
+2025-10-13,Suez Canal,chokepoint1,48,15,13,12,8,0,1512068,portwatch
+2025-10-14,Suez Canal,chokepoint1,43,13,6,18,6,0,1691943,portwatch
+2025-10-15,Suez Canal,chokepoint1,31,12,8,6,5,0,1441272,portwatch
+2025-10-16,Suez Canal,chokepoint1,51,17,11,15,7,1,1444468,portwatch
+2025-10-17,Suez Canal,chokepoint1,50,21,12,8,8,1,2193371,portwatch
+2025-10-18,Suez Canal,chokepoint1,32,8,9,6,6,3,668479,portwatch
+2025-10-19,Suez Canal,chokepoint1,51,18,15,13,3,2,2150859,portwatch
+2025-10-20,Suez Canal,chokepoint1,47,21,7,17,2,0,1719305,portwatch
+2025-10-21,Suez Canal,chokepoint1,32,14,7,7,4,0,1389865,portwatch
+2025-10-22,Suez Canal,chokepoint1,34,13,8,10,3,0,1399195,portwatch
+2025-10-23,Suez Canal,chokepoint1,49,17,14,14,4,0,1793205,portwatch
+2025-10-24,Suez Canal,chokepoint1,40,14,9,12,5,0,1313065,portwatch
+2025-10-25,Suez Canal,chokepoint1,47,15,15,12,2,3,1852974,portwatch
+2025-10-26,Suez Canal,chokepoint1,50,18,14,14,3,1,1734356,portwatch
+2025-10-27,Suez Canal,chokepoint1,45,15,9,16,4,1,1830626,portwatch
+2025-10-28,Suez Canal,chokepoint1,39,14,10,10,5,0,1551456,portwatch
+2025-10-29,Suez Canal,chokepoint1,36,14,6,12,3,1,1403828,portwatch
+2025-10-30,Suez Canal,chokepoint1,37,11,10,16,0,0,1437204,portwatch
+2025-10-31,Suez Canal,chokepoint1,35,16,8,6,5,0,1233279,portwatch
+2025-11-01,Suez Canal,chokepoint1,45,17,13,11,3,1,1573569,portwatch
+2025-11-02,Suez Canal,chokepoint1,36,10,11,8,6,1,1299959,portwatch
+2025-11-03,Suez Canal,chokepoint1,49,15,7,12,14,1,1104338,portwatch
+2025-11-04,Suez Canal,chokepoint1,39,22,12,1,3,1,1700155,portwatch
+2025-11-05,Suez Canal,chokepoint1,46,19,10,14,2,1,1798428,portwatch
+2025-11-06,Suez Canal,chokepoint1,37,11,9,10,4,3,1271908,portwatch
+2025-11-07,Suez Canal,chokepoint1,52,16,8,21,5,2,2164730,portwatch
+2025-11-08,Suez Canal,chokepoint1,38,15,8,9,4,2,1128319,portwatch
+2025-11-09,Suez Canal,chokepoint1,48,17,11,16,4,0,2004613,portwatch
+2025-11-10,Suez Canal,chokepoint1,48,20,10,10,4,4,1759088,portwatch
+2025-11-11,Suez Canal,chokepoint1,48,20,10,15,2,1,1996663,portwatch
+2025-11-12,Suez Canal,chokepoint1,43,16,10,10,7,0,1130786,portwatch
+2025-11-13,Suez Canal,chokepoint1,44,13,8,16,7,0,1888072,portwatch
+2025-11-14,Suez Canal,chokepoint1,47,13,16,10,6,2,1540810,portwatch
+2025-11-15,Suez Canal,chokepoint1,40,10,13,12,4,1,1542223,portwatch
+2025-11-16,Suez Canal,chokepoint1,45,16,10,16,3,0,1896621,portwatch
+2025-11-17,Suez Canal,chokepoint1,38,11,8,11,8,0,1338023,portwatch
+2025-11-18,Suez Canal,chokepoint1,28,12,3,11,2,0,1258722,portwatch
+2025-11-19,Suez Canal,chokepoint1,44,15,7,15,7,0,1604078,portwatch
+2025-11-20,Suez Canal,chokepoint1,50,16,10,18,6,0,1732259,portwatch
+2025-11-21,Suez Canal,chokepoint1,45,11,14,15,3,2,1235502,portwatch
+2025-11-22,Suez Canal,chokepoint1,34,14,2,12,5,1,1354173,portwatch
+2025-11-23,Suez Canal,chokepoint1,41,15,15,8,3,0,1069705,portwatch
+2025-11-24,Suez Canal,chokepoint1,49,13,10,15,10,1,2718703,portwatch
+2025-11-25,Suez Canal,chokepoint1,47,16,7,14,9,1,1406329,portwatch
+2025-11-26,Suez Canal,chokepoint1,40,20,6,10,3,1,1870525,portwatch
+2025-11-27,Suez Canal,chokepoint1,51,17,13,19,2,0,2050569,portwatch
+2025-11-28,Suez Canal,chokepoint1,44,16,8,11,7,2,1248968,portwatch
+2025-11-29,Suez Canal,chokepoint1,28,12,4,7,5,0,1326703,portwatch
+2025-11-30,Suez Canal,chokepoint1,44,15,12,13,4,0,1380736,portwatch
+2025-12-01,Suez Canal,chokepoint1,54,18,7,19,10,0,1871198,portwatch
+2025-12-02,Suez Canal,chokepoint1,32,12,6,13,1,0,1396062,portwatch
+2025-12-03,Suez Canal,chokepoint1,40,18,9,6,4,3,1093723,portwatch
+2025-12-04,Suez Canal,chokepoint1,44,21,8,9,5,1,1951746,portwatch
+2025-12-05,Suez Canal,chokepoint1,36,5,9,20,2,0,1412608,portwatch
+2025-12-06,Suez Canal,chokepoint1,44,18,8,14,4,0,2003968,portwatch
+2025-12-07,Suez Canal,chokepoint1,34,14,7,8,4,1,1266112,portwatch
+2025-12-08,Suez Canal,chokepoint1,45,18,12,10,2,3,1701674,portwatch
+2025-12-09,Suez Canal,chokepoint1,38,14,4,16,3,1,1822384,portwatch
+2025-12-10,Suez Canal,chokepoint1,31,14,4,10,3,0,1056884,portwatch
+2025-12-11,Suez Canal,chokepoint1,41,14,11,8,7,1,1347859,portwatch
+2025-12-12,Suez Canal,chokepoint1,43,14,13,9,7,0,1494130,portwatch
+2025-12-13,Suez Canal,chokepoint1,43,13,13,13,3,1,2146783,portwatch
+2025-12-14,Suez Canal,chokepoint1,50,23,10,10,7,0,1968623,portwatch
+2025-12-15,Suez Canal,chokepoint1,48,24,8,11,5,0,2276149,portwatch
+2025-12-16,Suez Canal,chokepoint1,34,16,8,5,4,1,1650259,portwatch
+2025-12-17,Suez Canal,chokepoint1,32,10,7,13,2,0,1256640,portwatch
+2025-12-18,Suez Canal,chokepoint1,44,19,11,11,3,0,1473335,portwatch
+2025-12-19,Suez Canal,chokepoint1,51,17,14,13,7,0,1510561,portwatch
+2025-12-20,Suez Canal,chokepoint1,38,19,5,11,2,1,1634443,portwatch
+2025-12-21,Suez Canal,chokepoint1,42,18,9,9,5,1,1500216,portwatch
+2025-12-22,Suez Canal,chokepoint1,45,22,7,12,4,0,1989575,portwatch
+2025-12-23,Suez Canal,chokepoint1,39,9,11,10,7,2,1502311,portwatch
+2025-12-24,Suez Canal,chokepoint1,36,14,4,15,2,1,1706651,portwatch
+2025-12-25,Suez Canal,chokepoint1,46,18,16,7,3,2,1670587,portwatch
+2025-12-26,Suez Canal,chokepoint1,37,12,9,12,4,0,1016521,portwatch
+2025-12-27,Suez Canal,chokepoint1,33,12,9,8,3,1,1494125,portwatch
+2025-12-28,Suez Canal,chokepoint1,33,12,10,8,3,0,1388343,portwatch
+2025-12-29,Suez Canal,chokepoint1,32,15,9,6,2,0,1462063,portwatch
+2025-12-30,Suez Canal,chokepoint1,39,9,6,18,4,2,1383769,portwatch
+2025-12-31,Suez Canal,chokepoint1,38,17,10,7,4,0,1101883,portwatch
+2026-01-01,Suez Canal,chokepoint1,27,12,6,7,2,0,1500726,portwatch
+2026-01-02,Suez Canal,chokepoint1,28,8,7,10,3,0,1005239,portwatch
+2026-01-03,Suez Canal,chokepoint1,38,20,9,6,3,0,1332300,portwatch
+2026-01-04,Suez Canal,chokepoint1,44,17,9,10,6,2,1515285,portwatch
+2026-01-05,Suez Canal,chokepoint1,44,16,10,12,4,2,1487279,portwatch
+2026-01-06,Suez Canal,chokepoint1,41,16,9,11,5,0,1524884,portwatch
+2026-01-07,Suez Canal,chokepoint1,29,9,7,7,3,3,723293,portwatch
+2026-01-08,Suez Canal,chokepoint1,43,13,9,14,6,1,1552548,portwatch
+2026-01-09,Suez Canal,chokepoint1,39,11,10,12,5,1,1480555,portwatch
+2026-01-10,Suez Canal,chokepoint1,35,11,10,12,1,1,1475790,portwatch
+2026-01-11,Suez Canal,chokepoint1,35,11,11,6,7,0,949312,portwatch
+2026-01-12,Suez Canal,chokepoint1,36,16,5,12,3,0,1108082,portwatch
+2026-01-13,Suez Canal,chokepoint1,34,17,3,10,2,2,1809504,portwatch
+2026-01-14,Suez Canal,chokepoint1,27,7,8,6,4,2,832798,portwatch
+2026-01-15,Suez Canal,chokepoint1,37,9,11,10,7,0,1216580,portwatch
+2026-01-16,Suez Canal,chokepoint1,51,21,12,9,7,2,1009167,portwatch
+2026-01-17,Suez Canal,chokepoint1,49,17,13,11,8,0,1467988,portwatch
+2026-01-18,Suez Canal,chokepoint1,45,20,12,10,3,0,1779612,portwatch
+2026-01-19,Suez Canal,chokepoint1,40,12,12,7,9,0,1135175,portwatch
+2026-01-20,Suez Canal,chokepoint1,40,20,8,8,4,0,1296230,portwatch
+2026-01-21,Suez Canal,chokepoint1,26,6,4,11,5,0,859857,portwatch
+2026-01-22,Suez Canal,chokepoint1,44,19,8,7,9,1,1415642,portwatch
+2026-01-23,Suez Canal,chokepoint1,38,9,11,11,6,1,1196992,portwatch
+2026-01-24,Suez Canal,chokepoint1,37,21,5,7,4,0,1057236,portwatch
+2026-01-25,Suez Canal,chokepoint1,44,15,12,7,7,3,1563653,portwatch
+2026-01-26,Suez Canal,chokepoint1,43,17,9,10,4,3,1657496,portwatch
+2026-01-27,Suez Canal,chokepoint1,50,18,8,14,9,1,1895718,portwatch
+2026-01-28,Suez Canal,chokepoint1,38,18,9,8,3,0,1259235,portwatch
+2026-01-29,Suez Canal,chokepoint1,46,15,9,15,6,1,1769661,portwatch
+2026-01-30,Suez Canal,chokepoint1,41,14,12,10,5,0,1511264,portwatch
+2026-01-31,Suez Canal,chokepoint1,42,14,12,12,4,0,1472185,portwatch
+2026-02-01,Suez Canal,chokepoint1,39,15,9,7,8,0,864390,portwatch
+2026-02-02,Suez Canal,chokepoint1,38,15,5,10,7,1,1587544,portwatch
+2026-02-03,Suez Canal,chokepoint1,31,11,7,10,3,0,990829,portwatch
+2026-02-04,Suez Canal,chokepoint1,36,16,9,8,2,1,1375284,portwatch
+2026-02-05,Suez Canal,chokepoint1,36,14,9,7,6,0,1465242,portwatch
+2026-02-06,Suez Canal,chokepoint1,45,18,12,11,4,0,1436738,portwatch
+2026-02-07,Suez Canal,chokepoint1,48,25,7,10,4,2,1721995,portwatch
+2026-02-08,Suez Canal,chokepoint1,49,19,13,11,6,0,1594831,portwatch
+2026-02-09,Suez Canal,chokepoint1,44,15,10,13,6,0,1845486,portwatch
+2026-02-10,Suez Canal,chokepoint1,39,16,6,14,3,0,1683382,portwatch
+2026-02-11,Suez Canal,chokepoint1,45,15,7,13,10,0,1355588,portwatch
+2026-02-12,Suez Canal,chokepoint1,48,18,10,15,5,0,1688509,portwatch
+2026-02-13,Suez Canal,chokepoint1,41,20,7,8,5,1,1420899,portwatch
+2026-02-14,Suez Canal,chokepoint1,44,19,9,10,3,3,1409266,portwatch
+2026-02-15,Suez Canal,chokepoint1,38,16,10,7,4,1,1317975,portwatch
+2026-02-16,Suez Canal,chokepoint1,51,22,14,8,7,0,1723121,portwatch
+2026-02-17,Suez Canal,chokepoint1,42,17,6,14,4,1,1785941,portwatch
+2026-02-18,Suez Canal,chokepoint1,41,18,5,14,3,1,1544830,portwatch
+2026-02-19,Suez Canal,chokepoint1,36,18,6,10,2,0,1693205,portwatch
+2026-02-20,Suez Canal,chokepoint1,34,17,10,5,1,1,1107753,portwatch
+2026-02-21,Suez Canal,chokepoint1,42,20,7,8,6,1,1068867,portwatch
+2026-02-22,Suez Canal,chokepoint1,36,14,10,5,7,0,851319,portwatch
+2026-02-23,Suez Canal,chokepoint1,44,14,9,13,6,2,1412431,portwatch
+2026-02-24,Suez Canal,chokepoint1,36,16,8,8,1,3,1137436,portwatch
+2026-02-25,Suez Canal,chokepoint1,45,19,12,12,2,0,1990448,portwatch
+2026-02-26,Suez Canal,chokepoint1,46,24,5,11,5,1,1822328,portwatch
+2026-02-27,Suez Canal,chokepoint1,47,22,13,9,2,1,1696778,portwatch
+2026-02-28,Suez Canal,chokepoint1,37,15,9,11,2,0,1428737,portwatch
+2026-03-01,Suez Canal,chokepoint1,36,14,11,8,3,0,922956,portwatch
+2026-03-02,Suez Canal,chokepoint1,40,11,10,11,7,1,1286534,portwatch
+2026-03-03,Suez Canal,chokepoint1,55,27,11,11,5,1,2512554,portwatch
+2026-03-04,Suez Canal,chokepoint1,42,17,14,9,1,1,1569335,portwatch
+2026-03-05,Suez Canal,chokepoint1,38,19,6,11,2,0,1411908,portwatch
+2026-03-06,Suez Canal,chokepoint1,38,19,7,5,7,0,1879989,portwatch
+2026-03-07,Suez Canal,chokepoint1,51,23,12,13,2,1,1681993,portwatch
+2026-03-08,Suez Canal,chokepoint1,35,11,7,10,4,3,1306443,portwatch
+2026-03-09,Suez Canal,chokepoint1,42,15,9,9,9,0,1374975,portwatch
+2026-03-10,Suez Canal,chokepoint1,37,9,11,11,6,0,1009532,portwatch
+2026-03-11,Suez Canal,chokepoint1,51,25,6,15,4,1,1422024,portwatch
+2026-03-12,Suez Canal,chokepoint1,38,11,15,7,4,1,1056040,portwatch
+2026-03-13,Suez Canal,chokepoint1,40,16,8,10,5,1,1148383,portwatch
+2026-03-14,Suez Canal,chokepoint1,25,15,1,6,3,0,1354076,portwatch
+2026-03-15,Suez Canal,chokepoint1,48,17,14,13,3,1,1624472,portwatch
+2026-03-16,Suez Canal,chokepoint1,33,11,7,7,5,3,1078727,portwatch
+2026-03-17,Suez Canal,chokepoint1,42,14,9,11,7,1,854745,portwatch
+2026-03-18,Suez Canal,chokepoint1,43,22,8,6,5,2,1741729,portwatch
+2026-03-19,Suez Canal,chokepoint1,43,14,12,11,5,1,1573197,portwatch
+2026-03-20,Suez Canal,chokepoint1,32,15,4,10,3,0,1242821,portwatch
+2026-03-21,Suez Canal,chokepoint1,38,19,6,7,6,0,847081,portwatch
+2026-03-22,Suez Canal,chokepoint1,47,21,8,14,4,0,1416305,portwatch
+2026-03-23,Suez Canal,chokepoint1,40,18,10,8,3,1,913941,portwatch
+2026-03-24,Suez Canal,chokepoint1,41,15,8,16,2,0,1814776,portwatch
+2026-03-25,Suez Canal,chokepoint1,51,21,15,7,8,0,1346084,portwatch
+2026-03-26,Suez Canal,chokepoint1,41,19,7,10,4,1,1974776,portwatch
+2026-03-27,Suez Canal,chokepoint1,42,13,14,8,6,1,1244069,portwatch
+2026-03-28,Suez Canal,chokepoint1,45,19,8,13,3,2,1609737,portwatch
+2026-03-29,Suez Canal,chokepoint1,37,20,6,8,1,2,1851073,portwatch
+2026-03-30,Suez Canal,chokepoint1,37,13,7,13,3,1,1425679,portwatch
+2026-03-31,Suez Canal,chokepoint1,43,20,8,11,4,0,1916971,portwatch
+2026-04-01,Suez Canal,chokepoint1,51,21,4,18,6,2,1690627,portwatch
+2026-04-02,Suez Canal,chokepoint1,48,24,6,15,2,1,1871490,portwatch
+2026-04-03,Suez Canal,chokepoint1,35,15,9,9,2,0,1552783,portwatch
+2026-04-04,Suez Canal,chokepoint1,52,24,12,9,7,0,913652,portwatch
+2026-04-05,Suez Canal,chokepoint1,48,22,5,17,2,2,1743762,portwatch
+2026-04-06,Suez Canal,chokepoint1,37,17,8,8,4,0,932459,portwatch
+2026-04-07,Suez Canal,chokepoint1,39,18,8,10,2,1,1555139,portwatch
+2026-04-08,Suez Canal,chokepoint1,40,14,8,10,4,4,1265582,portwatch
+2026-04-09,Suez Canal,chokepoint1,34,16,6,8,4,0,1407530,portwatch
+2026-04-10,Suez Canal,chokepoint1,46,19,11,9,5,2,1517664,portwatch
+2026-04-11,Suez Canal,chokepoint1,47,26,5,12,4,0,1029737,portwatch
+2026-04-12,Suez Canal,chokepoint1,43,17,7,11,6,2,1327236,portwatch
+2026-04-13,Suez Canal,chokepoint1,42,19,8,10,4,1,1568646,portwatch
+2026-04-14,Suez Canal,chokepoint1,35,12,8,9,4,2,1141230,portwatch
+2026-04-15,Suez Canal,chokepoint1,43,25,5,7,6,0,1506666,portwatch
+2026-04-16,Suez Canal,chokepoint1,37,12,7,7,7,4,803260,portwatch
+2026-04-17,Suez Canal,chokepoint1,34,12,9,8,5,0,1105781,portwatch
+2026-04-18,Suez Canal,chokepoint1,35,11,8,10,6,0,952694,portwatch
+2026-04-19,Suez Canal,chokepoint1,43,18,10,7,7,1,1217800,portwatch
+2026-04-20,Suez Canal,chokepoint1,47,17,9,12,7,2,2164561,portwatch
+2026-04-21,Suez Canal,chokepoint1,47,20,12,12,1,2,1207663,portwatch
+2026-04-22,Suez Canal,chokepoint1,50,25,4,15,1,5,1853028,portwatch
+2026-04-23,Suez Canal,chokepoint1,47,18,11,15,2,1,2129087,portwatch
+2026-04-24,Suez Canal,chokepoint1,32,15,6,9,2,0,1025998,portwatch
+2026-04-25,Suez Canal,chokepoint1,43,15,10,13,5,0,1516153,portwatch
+2026-04-26,Suez Canal,chokepoint1,43,12,11,16,4,0,1329198,portwatch
+2026-04-27,Suez Canal,chokepoint1,34,11,8,13,1,1,1289268,portwatch
+2026-04-28,Suez Canal,chokepoint1,38,18,10,6,4,0,1362886,portwatch
+2026-04-29,Suez Canal,chokepoint1,45,18,11,8,4,4,1843236,portwatch
+2026-04-30,Suez Canal,chokepoint1,49,23,10,10,5,1,1775930,portwatch
+2026-05-01,Suez Canal,chokepoint1,39,12,8,12,3,4,1713451,portwatch
+2026-05-02,Suez Canal,chokepoint1,23,4,11,5,3,0,555387,portwatch
+2026-05-03,Suez Canal,chokepoint1,33,15,4,9,3,2,1328041,portwatch
+2026-05-04,Suez Canal,chokepoint1,35,15,8,9,2,1,1449696,portwatch
+2026-05-05,Suez Canal,chokepoint1,36,14,7,11,4,0,1413784,portwatch
+2026-05-06,Suez Canal,chokepoint1,40,19,6,10,3,2,1444944,portwatch
+2026-05-07,Suez Canal,chokepoint1,46,18,9,17,2,0,1712468,portwatch
+2026-05-08,Suez Canal,chokepoint1,46,22,9,10,1,4,2228528,portwatch
+2026-05-09,Suez Canal,chokepoint1,44,19,9,11,4,1,1538229,portwatch
+2026-05-10,Suez Canal,chokepoint1,31,16,6,8,0,1,1066730,portwatch
+2026-05-11,Suez Canal,chokepoint1,47,20,15,10,2,0,1496621,portwatch
+2026-05-12,Suez Canal,chokepoint1,41,19,7,10,3,2,1918561,portwatch
+2026-05-13,Suez Canal,chokepoint1,32,16,3,11,2,0,1202860,portwatch
+2026-05-14,Suez Canal,chokepoint1,37,19,6,8,2,2,1169642,portwatch
+2026-05-15,Suez Canal,chokepoint1,42,16,7,13,5,1,1507991,portwatch
+2026-05-16,Suez Canal,chokepoint1,42,16,10,14,0,2,1941026,portwatch
+2026-05-17,Suez Canal,chokepoint1,33,9,11,6,5,2,1170995,portwatch
+2026-05-18,Suez Canal,chokepoint1,38,18,6,10,3,1,1351453,portwatch
+2026-05-19,Suez Canal,chokepoint1,43,20,6,14,3,0,1639171,portwatch
+2026-05-20,Suez Canal,chokepoint1,41,12,9,15,5,0,1755569,portwatch
+2026-05-21,Suez Canal,chokepoint1,37,15,7,10,3,2,1677833,portwatch
+2026-05-22,Suez Canal,chokepoint1,42,23,8,8,3,0,1816877,portwatch
+2026-05-23,Suez Canal,chokepoint1,49,18,8,13,7,3,1635908,portwatch
+2026-05-24,Suez Canal,chokepoint1,37,12,8,11,4,2,1012343,portwatch
+2026-05-25,Suez Canal,chokepoint1,49,22,11,11,4,1,2014346,portwatch
+2026-05-26,Suez Canal,chokepoint1,37,12,10,12,2,1,2082389,portwatch
+2026-05-27,Suez Canal,chokepoint1,29,12,7,9,1,0,1037984,portwatch
+2026-05-28,Suez Canal,chokepoint1,45,17,5,16,6,1,1725677,portwatch
+2026-05-29,Suez Canal,chokepoint1,43,14,12,14,3,0,1589003,portwatch
+2026-05-30,Suez Canal,chokepoint1,44,23,6,9,4,2,1227217,portwatch
+2026-05-31,Suez Canal,chokepoint1,31,11,9,8,2,1,1062271,portwatch
+2026-06-01,Suez Canal,chokepoint1,43,18,8,13,2,2,1651633,portwatch
+2026-06-02,Suez Canal,chokepoint1,45,19,7,15,2,2,2126783,portwatch
+2026-06-03,Suez Canal,chokepoint1,25,8,7,8,2,0,1026854,portwatch
+2026-06-04,Suez Canal,chokepoint1,46,13,11,17,4,1,1524312,portwatch
+2026-06-05,Suez Canal,chokepoint1,44,17,8,13,5,1,1580124,portwatch
+2026-06-06,Suez Canal,chokepoint1,43,15,9,14,2,3,1608143,portwatch
+2026-06-07,Suez Canal,chokepoint1,43,16,9,16,2,0,1871496,portwatch
+2026-06-08,Suez Canal,chokepoint1,49,16,12,16,4,1,1641225,portwatch
+2026-06-09,Suez Canal,chokepoint1,46,17,9,16,2,2,2376407,portwatch
+2026-06-10,Suez Canal,chokepoint1,39,11,9,15,2,2,1783471,portwatch
+2026-06-11,Suez Canal,chokepoint1,36,14,7,11,4,0,1216874,portwatch
+2026-06-12,Suez Canal,chokepoint1,29,16,8,3,2,0,1221191,portwatch
+2026-06-13,Suez Canal,chokepoint1,40,10,11,12,6,1,954094,portwatch
+2026-06-14,Suez Canal,chokepoint1,40,13,8,13,3,3,1510506,portwatch
+2026-06-15,Suez Canal,chokepoint1,39,16,12,6,3,2,1622560,portwatch
+2026-06-16,Suez Canal,chokepoint1,22,12,1,6,3,0,831168,portwatch
+2026-06-17,Suez Canal,chokepoint1,30,11,7,9,2,1,962419,portwatch
+2026-06-18,Suez Canal,chokepoint1,38,21,6,8,2,1,1947902,portwatch
+2026-06-19,Suez Canal,chokepoint1,47,15,9,17,5,1,1562833,portwatch
+2026-06-20,Suez Canal,chokepoint1,41,19,6,15,0,1,1595691,portwatch
+2026-06-21,Suez Canal,chokepoint1,48,20,10,15,0,3,1860495,portwatch
+2026-06-22,Suez Canal,chokepoint1,40,18,12,5,2,3,1533657,portwatch
+2026-06-23,Suez Canal,chokepoint1,48,17,8,18,4,1,2225752,portwatch
+2026-06-24,Suez Canal,chokepoint1,37,13,7,10,5,2,1670772,portwatch
+2026-06-25,Suez Canal,chokepoint1,51,21,9,15,3,3,1696912,portwatch
+2026-06-26,Suez Canal,chokepoint1,39,17,8,10,3,1,1453749,portwatch
+2026-06-27,Suez Canal,chokepoint1,39,16,13,7,3,0,1289214,portwatch
+2026-06-28,Suez Canal,chokepoint1,44,18,8,14,3,1,2044452,portwatch
+2026-06-29,Suez Canal,chokepoint1,34,11,8,9,5,1,1068637,portwatch
+2026-06-30,Suez Canal,chokepoint1,47,18,5,16,7,1,2144643,portwatch
+2026-07-01,Suez Canal,chokepoint1,34,14,7,11,2,0,1835515,portwatch
+2026-07-02,Suez Canal,chokepoint1,44,14,10,16,4,0,1406560,portwatch
+2026-07-03,Suez Canal,chokepoint1,49,15,8,18,7,1,1722857,portwatch
+2026-07-04,Suez Canal,chokepoint1,41,20,8,9,3,1,1386444,portwatch
+2026-07-05,Suez Canal,chokepoint1,46,20,7,16,3,0,1821853,portwatch
+2026-07-06,Suez Canal,chokepoint1,36,10,14,9,1,2,1564237,portwatch
+2026-07-07,Suez Canal,chokepoint1,41,15,5,16,4,1,1697641,portwatch
+2026-07-08,Suez Canal,chokepoint1,44,15,13,11,4,1,1830675,portwatch
+2026-07-09,Suez Canal,chokepoint1,37,16,6,14,1,0,1621135,portwatch
+2026-07-10,Suez Canal,chokepoint1,44,20,10,9,3,2,1390434,portwatch
+2026-07-11,Suez Canal,chokepoint1,48,19,9,16,2,2,1972985,portwatch
+2026-07-12,Suez Canal,chokepoint1,39,10,12,9,4,4,1325078,portwatch
+2026-07-13,Suez Canal,chokepoint1,43,20,9,11,3,0,2133513,portwatch
+2026-07-14,Suez Canal,chokepoint1,34,10,7,16,0,1,2108558,portwatch
+2026-07-15,Suez Canal,chokepoint1,42,21,6,12,1,2,1599188,portwatch
+2026-07-16,Suez Canal,chokepoint1,39,15,8,12,3,1,1503404,portwatch
+2026-07-17,Suez Canal,chokepoint1,44,18,9,11,5,1,1437081,portwatch
+2026-07-18,Suez Canal,chokepoint1,46,15,10,13,5,3,1545567,portwatch
+2026-07-19,Suez Canal,chokepoint1,43,21,9,8,4,1,1973255,portwatch
+2026-07-20,Suez Canal,chokepoint1,36,15,5,11,3,2,1025936,portwatch
+2026-07-21,Suez Canal,chokepoint1,40,14,9,9,6,2,1064198,portwatch
+2026-07-22,Suez Canal,chokepoint1,44,14,11,13,4,2,1810632,portwatch
+2026-07-23,Suez Canal,chokepoint1,46,17,9,15,4,1,1595346,portwatch
+2026-07-24,Suez Canal,chokepoint1,46,16,13,13,4,0,1570826,portwatch
+2026-07-25,Suez Canal,chokepoint1,37,17,9,8,3,0,859389,portwatch
+2026-07-26,Suez Canal,chokepoint1,37,15,6,9,6,1,1406914,portwatch
+2026-07-27,Suez Canal,chokepoint1,51,12,17,14,8,0,2078535,portwatch
+2026-07-28,Suez Canal,chokepoint1,43,13,11,14,3,2,1711440,portwatch
+2026-07-29,Suez Canal,chokepoint1,39,17,6,12,3,1,1394958,portwatch
+2026-07-30,Suez Canal,chokepoint1,47,18,10,8,9,2,1490722,portwatch
+2026-07-31,Suez Canal,chokepoint1,38,11,11,11,5,0,1702919,portwatch
+2026-08-01,Suez Canal,chokepoint1,42,15,7,12,6,2,1054183,portwatch
+2026-08-02,Suez Canal,chokepoint1,31,16,5,7,2,1,1245322,portwatch
+2026-08-03,Suez Canal,chokepoint1,44,17,11,15,1,0,1629747,portwatch
+2026-08-04,Suez Canal,chokepoint1,35,9,9,11,6,0,1725936,portwatch
+2026-08-05,Suez Canal,chokepoint1,43,22,6,11,2,2,1122360,portwatch
+2026-08-06,Suez Canal,chokepoint1,39,16,10,8,3,2,1223896,portwatch
+2026-08-07,Suez Canal,chokepoint1,43,14,8,9,7,5,1092368,portwatch
+2026-08-08,Suez Canal,chokepoint1,35,15,12,7,1,0,1291308,portwatch
+2026-08-09,Suez Canal,chokepoint1,48,16,13,16,3,0,1948912,portwatch
+2026-08-10,Suez Canal,chokepoint1,43,13,7,13,7,3,1526277,portwatch
+2026-08-11,Suez Canal,chokepoint1,57,22,10,15,8,2,2025377,portwatch
+2026-08-12,Suez Canal,chokepoint1,27,15,4,6,2,0,828942,portwatch
+2026-08-13,Suez Canal,chokepoint1,40,16,5,11,8,0,1099325,portwatch
+2026-08-14,Suez Canal,chokepoint1,39,17,14,6,2,0,1545753,portwatch
+2026-08-15,Suez Canal,chokepoint1,39,17,11,6,5,0,1205996,portwatch
+2026-08-16,Suez Canal,chokepoint1,41,18,11,10,1,1,1156924,portwatch
+2026-08-17,Suez Canal,chokepoint1,46,20,9,10,4,3,1644490,portwatch
+2026-08-18,Suez Canal,chokepoint1,39,14,12,10,2,1,1400889,portwatch
+2026-08-19,Suez Canal,chokepoint1,45,17,9,12,6,1,1474879,portwatch
+2026-08-20,Suez Canal,chokepoint1,33,12,6,12,3,0,1163366,portwatch
+2026-08-21,Suez Canal,chokepoint1,55,22,11,12,8,2,1747986,portwatch
+2026-08-22,Suez Canal,chokepoint1,39,17,10,8,3,1,1362057,portwatch
+2026-08-23,Suez Canal,chokepoint1,37,13,6,9,7,2,1057863,portwatch
+2026-08-24,Suez Canal,chokepoint1,46,15,10,11,8,2,1546509,portwatch
+2026-08-25,Suez Canal,chokepoint1,51,19,13,10,6,3,1607129,portwatch
+2026-08-26,Suez Canal,chokepoint1,41,19,7,12,1,2,1797218,portwatch
+2026-08-27,Suez Canal,chokepoint1,33,12,6,11,4,0,990230,portwatch
+2026-08-28,Suez Canal,chokepoint1,39,10,14,12,3,0,1407614,portwatch
+2026-08-29,Suez Canal,chokepoint1,38,16,11,6,3,2,1096394,portwatch
+2026-08-30,Suez Canal,chokepoint1,53,29,12,8,2,2,1691917,portwatch
+2026-08-31,Suez Canal,chokepoint1,30,12,10,5,2,1,1195282,portwatch
+2026-09-01,Suez Canal,chokepoint1,51,14,17,14,4,2,2179281,portwatch
+2026-09-02,Suez Canal,chokepoint1,41,15,9,13,3,1,1371952,portwatch
+2026-09-03,Suez Canal,chokepoint1,41,17,5,11,4,4,2092328,portwatch
+2026-09-04,Suez Canal,chokepoint1,56,14,17,17,5,3,2224519,portwatch
+2026-09-05,Suez Canal,chokepoint1,42,19,10,7,5,1,1216694,portwatch
+2026-09-06,Suez Canal,chokepoint1,30,16,9,2,1,2,1081066,portwatch
+2026-09-07,Suez Canal,chokepoint1,39,20,6,9,3,1,991418,portwatch
+2026-09-08,Suez Canal,chokepoint1,43,15,12,8,3,5,1650448,portwatch
+2026-09-09,Suez Canal,chokepoint1,37,18,7,10,2,0,1640210,portwatch
+2026-09-10,Suez Canal,chokepoint1,37,13,14,7,3,0,1724793,portwatch
+2026-09-11,Suez Canal,chokepoint1,48,23,12,9,3,1,1561840,portwatch
+2026-09-12,Suez Canal,chokepoint1,40,15,12,8,1,4,1254502,portwatch
+2026-09-13,Suez Canal,chokepoint1,21,7,8,4,2,0,1003061,portwatch
+2026-09-14,Suez Canal,chokepoint1,51,27,10,11,2,1,2354715,portwatch
+2026-09-15,Suez Canal,chokepoint1,32,11,10,8,2,1,1304361,portwatch
+2026-09-16,Suez Canal,chokepoint1,37,12,13,9,2,1,1696929,portwatch
+2026-09-17,Suez Canal,chokepoint1,37,12,11,10,2,2,1544385,portwatch
+2026-09-18,Suez Canal,chokepoint1,51,25,16,7,3,0,1593117,portwatch
+2026-09-19,Suez Canal,chokepoint1,43,13,10,10,8,2,1245657,portwatch
+2026-09-20,Suez Canal,chokepoint1,42,19,14,7,2,0,1713133,portwatch
+2026-09-21,Suez Canal,chokepoint1,38,17,9,9,1,2,1530074,portwatch
+2026-09-22,Suez Canal,chokepoint1,47,20,8,17,2,0,2112667,portwatch
+2026-09-23,Suez Canal,chokepoint1,32,11,7,9,2,3,1567894,portwatch
+2026-09-24,Suez Canal,chokepoint1,41,12,10,10,9,0,1094081,portwatch
+2026-09-25,Suez Canal,chokepoint1,37,16,8,8,5,0,1206751,portwatch
+2026-09-26,Suez Canal,chokepoint1,48,17,17,11,3,0,1886870,portwatch
+2026-09-27,Suez Canal,chokepoint1,37,12,10,8,4,3,1277754,portwatch
+2026-09-28,Suez Canal,chokepoint1,28,9,11,5,1,2,1152731,portwatch
+2026-09-29,Suez Canal,chokepoint1,40,12,11,10,6,1,1534120,portwatch
+2026-09-30,Suez Canal,chokepoint1,45,16,10,12,7,0,2145344,portwatch
+2026-10-01,Suez Canal,chokepoint1,55,24,15,13,0,3,2561497,portwatch
+2026-10-02,Suez Canal,chokepoint1,42,18,16,4,4,0,2372439,portwatch
+2026-10-03,Suez Canal,chokepoint1,46,15,17,9,3,2,2019755,portwatch
+2026-10-04,Suez Canal,chokepoint1,46,15,16,10,5,0,1413336,portwatch
+2026-10-05,Suez Canal,chokepoint1,36,17,11,4,3,1,1339861,portwatch
+2026-10-06,Suez Canal,chokepoint1,48,18,12,11,5,2,1798283,portwatch
+2026-10-07,Suez Canal,chokepoint1,32,15,14,2,1,0,1640112,portwatch
+2026-10-08,Suez Canal,chokepoint1,37,14,10,11,1,1,1710275,portwatch
+2026-10-09,Suez Canal,chokepoint1,55,19,12,14,7,3,1773726,portwatch
+2026-10-10,Suez Canal,chokepoint1,41,16,14,9,2,0,2094816,portwatch
+2026-10-11,Suez Canal,chokepoint1,43,20,13,5,4,1,1300421,portwatch
+2026-10-12,Suez Canal,chokepoint1,50,20,9,12,8,1,2194694,portwatch
+2026-10-13,Suez Canal,chokepoint1,36,12,11,8,3,2,1449755,portwatch
+2026-10-14,Suez Canal,chokepoint1,54,17,17,13,3,4,2648709,portwatch
+2026-10-15,Suez Canal,chokepoint1,42,17,12,8,3,2,1716065,portwatch
+2026-10-16,Suez Canal,chokepoint1,43,16,16,4,3,4,1542020,portwatch
+2026-10-17,Suez Canal,chokepoint1,42,14,14,14,0,0,2180846,portwatch
+2026-10-18,Suez Canal,chokepoint1,43,15,15,10,2,1,1554286,portwatch
+2026-10-19,Suez Canal,chokepoint1,36,16,9,2,7,2,1284126,portwatch
+2026-10-20,Suez Canal,chokepoint1,39,13,16,6,3,1,1852568,portwatch
+2026-10-21,Suez Canal,chokepoint1,40,16,10,11,3,0,1373546,portwatch
+2026-10-22,Suez Canal,chokepoint1,43,16,16,8,2,1,1769903,portwatch
+2026-10-23,Suez Canal,chokepoint1,44,21,13,4,6,0,1805704,portwatch
+2026-10-24,Suez Canal,chokepoint1,41,18,14,8,1,0,2077496,portwatch
+2026-10-25,Suez Canal,chokepoint1,46,14,19,8,4,1,1705711,portwatch

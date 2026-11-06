@@ -1,0 +1,6 @@
+rating,min,max,source
+Affordable,0,3,demographia-2026
+Moderately unaffordable,3.1,4,demographia-2026
+Seriously unaffordable,4.1,5,demographia-2026
+Severely unaffordable,5.1,8.9,demographia-2026
+Impossibly unaffordable,9,99,demographia-2026

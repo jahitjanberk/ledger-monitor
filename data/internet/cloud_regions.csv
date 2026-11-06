@@ -1,0 +1,137 @@
+provider,code,name,location,country,status,lon,lat,source,geo_source
+AWS,us-east-1,US East (N. Virginia),N. Virginia,United States,available,-77.49,39.04,aws-regions,geonames
+AWS,us-east-2,US East (Ohio),Ohio,United States,available,-83,39.96,aws-regions,geonames
+AWS,us-west-1,US West (N. California),N. California,United States,available,-121.89,37.34,aws-regions,geonames
+AWS,us-west-2,US West (Oregon),Oregon,United States,available,-122.68,45.52,aws-regions,geonames
+AWS,af-south-1,Africa (Cape Town),Cape Town,South Africa,available,18.42,-33.93,aws-regions,geonames
+AWS,ap-east-1,Asia Pacific (Hong Kong),Hong Kong,Hong Kong,available,114.17,22.28,aws-regions,geonames
+AWS,ap-south-2,Asia Pacific (Hyderabad),Hyderabad,India,available,78.46,17.38,aws-regions,geonames
+AWS,ap-southeast-3,Asia Pacific (Jakarta),Jakarta,Indonesia,available,106.85,-6.21,aws-regions,geonames
+AWS,ap-southeast-5,Asia Pacific (Malaysia),Malaysia,Malaysia,available,101.69,3.14,aws-regions,geonames
+AWS,ap-southeast-4,Asia Pacific (Melbourne),Melbourne,Australia,available,144.96,-37.81,aws-regions,geonames
+AWS,ap-south-1,Asia Pacific (Mumbai),Mumbai,India,available,72.88,19.07,aws-regions,geonames
+AWS,ap-southeast-6,Asia Pacific (New Zealand),New Zealand,New Zealand,available,174.76,-36.85,aws-regions,geonames
+AWS,ap-northeast-3,Asia Pacific (Osaka),Osaka,Japan,available,135.5,34.69,aws-regions,geonames
+AWS,ap-northeast-2,Asia Pacific (Seoul),Seoul,South Korea,available,126.98,37.57,aws-regions,geonames
+AWS,ap-southeast-1,Asia Pacific (Singapore),Singapore,Singapore,available,103.85,1.29,aws-regions,geonames
+AWS,ap-southeast-2,Asia Pacific (Sydney),Sydney,Australia,available,151.21,-33.87,aws-regions,geonames
+AWS,ap-east-2,Asia Pacific (Taipei),Taipei,Taiwan,available,121.53,25.05,aws-regions,geonames
+AWS,ap-southeast-7,Asia Pacific (Thailand),Thailand,Thailand,available,100.5,13.75,aws-regions,geonames
+AWS,ap-northeast-1,Asia Pacific (Tokyo),Tokyo,Japan,available,139.69,35.69,aws-regions,geonames
+AWS,ca-central-1,Canada (Central),Central Canada,Canada,available,-73.59,45.51,aws-regions,geonames
+AWS,ca-west-1,Canada West (Calgary),Calgary,Canada,available,-114.09,51.05,aws-regions,geonames
+AWS,eu-central-1,Europe (Frankfurt),Frankfurt,Germany,available,8.68,50.12,aws-regions,geonames
+AWS,eu-west-1,Europe (Ireland),Ireland,Ireland,available,-6.25,53.33,aws-regions,geonames
+AWS,eu-west-2,Europe (London),London,United Kingdom,available,-0.13,51.51,aws-regions,geonames
+AWS,eu-south-1,Europe (Milan),Milan,Italy,available,9.19,45.46,aws-regions,geonames
+AWS,eu-west-3,Europe (Paris),Paris,France,available,2.35,48.85,aws-regions,geonames
+AWS,eu-south-2,Europe (Spain),Spain,Spain,available,-0.88,41.66,aws-regions,geonames
+AWS,eu-north-1,Europe (Stockholm),Stockholm,Sweden,available,18.07,59.33,aws-regions,geonames
+AWS,eu-central-2,Europe (Zurich),Zurich,Switzerland,available,8.55,47.37,aws-regions,geonames
+AWS,il-central-1,Israel (Tel Aviv),Tel Aviv,Israel,available,34.78,32.08,aws-regions,geonames
+AWS,mx-central-1,Mexico (Central),Central Mexico,Mexico,available,-92.76,15.84,aws-regions,geonames
+AWS,me-south-1,Middle East (Bahrain),Bahrain,Bahrain,available,50.59,26.23,aws-regions,geonames
+AWS,me-central-1,Middle East (UAE),UAE,United Arab Emirates,available,55.31,25.08,aws-regions,geonames
+AWS,sa-east-1,South America (São Paulo),São Paulo,Brazil,available,-46.64,-23.55,aws-regions,geonames
+Azure,australiacentral,Australia Central,Canberra,Australia,available,149.13,-35.28,azure-regions,geonames
+Azure,australiacentral2,Australia Central 2,Canberra,Australia,restricted,149.13,-35.28,azure-regions,geonames
+Azure,australiaeast,Australia East,New South Wales,Australia,available,151.21,-33.87,azure-regions,geonames
+Azure,australiasoutheast,Australia Southeast,Victoria,Australia,available,144.96,-37.81,azure-regions,geonames
+Azure,austriaeast,Austria East,Vienna,Austria,available,16.37,48.21,azure-regions,geonames
+Azure,belgiumcentral,Belgium Central,Brussels,Belgium,available,4.35,50.85,azure-regions,geonames
+Azure,brazilsouth,Brazil South,Sao Paulo State,Brazil,available,-46.64,-23.55,azure-regions,geonames
+Azure,brazilsoutheast,Brazil Southeast,Rio,Brazil,restricted,-43.18,-22.91,azure-regions,geonames
+Azure,canadacentral,Canada Central,Toronto,Canada,available,-79.42,43.7,azure-regions,geonames
+Azure,canadaeast,Canada East,Quebec,Canada,available,-71.21,46.81,azure-regions,geonames
+Azure,centralindia,Central India,Pune,India,available,73.86,18.52,azure-regions,geonames
+Azure,centralus,Central US,Iowa,United States,available,-93.61,41.6,azure-regions,geonames
+Azure,chilecentral,Chile Central,Santiago,Chile,available,-70.65,-33.46,azure-regions,geonames
+Azure,denmarkeast,Denmark East,Copenhagen,Denmark,available,12.57,55.68,azure-regions,geonames
+Azure,eastasia,East Asia,Hong Kong,Hong Kong,available,114.17,22.28,azure-regions,geonames
+Azure,eastus,East US,Virginia,United States,available,-77.49,39.04,azure-regions,geonames
+Azure,eastus2,East US 2,Virginia,United States,available,-77.46,37.55,azure-regions,geonames
+Azure,francecentral,France Central,Paris,France,available,2.35,48.85,azure-regions,geonames
+Azure,francesouth,France South,Marseille,France,restricted,5.38,43.3,azure-regions,geonames
+Azure,germanynorth,Germany North,Berlin,Germany,restricted,13.41,52.52,azure-regions,geonames
+Azure,germanywestcentral,Germany West Central,Frankfurt,Germany,available,8.68,50.12,azure-regions,geonames
+Azure,indiasouthcentral,India South Central,Hyderabad,India,available,78.46,17.38,azure-regions,geonames
+Azure,indonesiacentral,Indonesia Central,Jakarta,Indonesia,available,106.85,-6.21,azure-regions,geonames
+Azure,israelcentral,Israel Central,Israel,Israel,available,34.78,32.08,azure-regions,geonames
+Azure,italynorth,Italy North,Milan,Italy,available,9.19,45.46,azure-regions,geonames
+Azure,japaneast,Japan East,"Tokyo, Saitama",Japan,available,139.69,35.69,azure-regions,geonames
+Azure,japanwest,Japan West,Osaka,Japan,available,135.5,34.69,azure-regions,geonames
+Azure,koreacentral,Korea Central,Seoul,South Korea,available,126.98,37.57,azure-regions,geonames
+Azure,koreasouth,Korea South,Busan,South Korea,available,129.03,35.1,azure-regions,geonames
+Azure,malaysiawest,Malaysia West,Kuala Lumpur,Malaysia,available,101.69,3.14,azure-regions,geonames
+Azure,mexicocentral,Mexico Central,Querétaro State,Mexico,available,-92.76,15.84,azure-regions,geonames
+Azure,newzealandnorth,New Zealand North,Auckland,New Zealand,available,174.76,-36.85,azure-regions,geonames
+Azure,northcentralus,North Central US,Illinois,United States,available,-87.65,41.85,azure-regions,geonames
+Azure,northeurope,North Europe,Ireland,Ireland,available,-6.25,53.33,azure-regions,geonames
+Azure,norwayeast,Norway East,Norway,Norway,available,10.75,59.91,azure-regions,geonames
+Azure,norwaywest,Norway West,Norway,Norway,restricted,5.73,58.97,azure-regions,geonames
+Azure,polandcentral,Poland Central,Warsaw,Poland,available,21.01,52.23,azure-regions,geonames
+Azure,qatarcentral,Qatar Central,Doha,Qatar,available,51.53,25.29,azure-regions,geonames
+Azure,southafricanorth,South Africa North,Johannesburg,South Africa,available,28.04,-26.2,azure-regions,geonames
+Azure,southafricawest,South Africa West,Cape Town,South Africa,restricted,18.42,-33.93,azure-regions,geonames
+Azure,southcentralus,South Central US,Texas,United States,available,-98.49,29.42,azure-regions,geonames
+Azure,southindia,South India,Chennai,India,available,80.28,13.09,azure-regions,geonames
+Azure,southeastasia,Southeast Asia,Singapore,Singapore,available,103.85,1.29,azure-regions,geonames
+Azure,southeastasia3,Southeast Asia 3,Johor Bahru,Malaysia,preview,103.76,1.47,azure-regions,geonames
+Azure,spaincentral,Spain Central,Madrid,Spain,available,-3.7,40.42,azure-regions,geonames
+Azure,swedencentral,Sweden Central,Gävle,Sweden,available,17.14,60.67,azure-regions,geonames
+Azure,switzerlandnorth,Switzerland North,Zurich,Switzerland,available,8.55,47.37,azure-regions,geonames
+Azure,switzerlandwest,Switzerland West,Geneva,Switzerland,restricted,6.14,46.2,azure-regions,geonames
+Azure,taiwannorth,Taiwan North,Taipei,Taiwan,preview,121.53,25.05,azure-regions,geonames
+Azure,uaecentral,UAE Central,Abu Dhabi,United Arab Emirates,restricted,54.4,24.45,azure-regions,geonames
+Azure,uaenorth,UAE North,Dubai,United Arab Emirates,available,55.31,25.08,azure-regions,geonames
+Azure,uksouth,UK South,London,United Kingdom,available,-0.13,51.51,azure-regions,geonames
+Azure,ukwest,UK West,Cardiff,United Kingdom,available,-3.18,51.48,azure-regions,geonames
+Azure,westcentralus,West Central US,Wyoming,United States,available,-104.82,41.14,azure-regions,geonames
+Azure,westeurope,West Europe,Netherlands,Netherlands,available,4.89,52.37,azure-regions,geonames
+Azure,westindia,West India,Mumbai,India,available,72.88,19.07,azure-regions,geonames
+Azure,westus,West US,California,United States,available,-122.42,37.77,azure-regions,geonames
+Azure,westus2,West US 2,Washington,United States,available,-122.33,47.61,azure-regions,geonames
+Azure,westus3,West US 3,Phoenix,United States,available,-112.07,33.45,azure-regions,geonames
+Google Cloud,asia-east1,asia-east1,Taiwan,Taiwan,available,120.54,24.08,gcp-regions,geonames
+Google Cloud,asia-northeast1,asia-northeast1,Tokyo,Japan,available,139.69,35.69,gcp-regions,geonames
+Google Cloud,asia-northeast2,asia-northeast2,Osaka,Japan,available,135.5,34.69,gcp-regions,geonames
+Google Cloud,asia-south1,asia-south1,"Mumbai, India",India,available,72.88,19.07,gcp-regions,geonames
+Google Cloud,asia-southeast3,asia-southeast3,Bangkok,Thailand,available,100.5,13.75,gcp-regions,geonames
+Google Cloud,europe-north1,europe-north1,Finland,Finland,available,27.2,60.57,gcp-regions,geonames
+Google Cloud,europe-north2,europe-north2,Stockholm,Sweden,available,18.07,59.33,gcp-regions,geonames
+Google Cloud,europe-southwest1,europe-southwest1,Madrid,Spain,available,-3.7,40.42,gcp-regions,geonames
+Google Cloud,europe-west1,europe-west1,Belgium,Belgium,available,3.82,50.45,gcp-regions,geonames
+Google Cloud,europe-west4,europe-west4,Netherlands,Netherlands,available,6.57,53.22,gcp-regions,geonames
+Google Cloud,europe-west8,europe-west8,Milan,Italy,available,9.19,45.46,gcp-regions,geonames
+Google Cloud,europe-west9,europe-west9,Paris,France,available,2.35,48.85,gcp-regions,geonames
+Google Cloud,me-west1,me-west1,Tel Aviv,Israel,available,34.78,32.08,gcp-regions,geonames
+Google Cloud,northamerica-south1,northamerica-south1,Mexico,Mexico,available,-92.76,15.84,gcp-regions,geonames
+Google Cloud,us-central1,us-central1,Iowa,United States,available,-95.86,41.26,gcp-regions,geonames
+Google Cloud,us-east1,us-east1,South Carolina,United States,available,-80.01,33.2,gcp-regions,geonames
+Google Cloud,us-east4,us-east4,Northern Virginia,United States,available,-77.49,39.04,gcp-regions,geonames
+Google Cloud,us-east5,us-east5,Columbus,United States,available,-83,39.96,gcp-regions,geonames
+Google Cloud,us-south1,us-south1,Dallas,United States,available,-96.81,32.78,gcp-regions,geonames
+Google Cloud,us-west1,us-west1,Oregon,United States,available,-121.18,45.59,gcp-regions,geonames
+Google Cloud,africa-south1,africa-south1,Johannesburg,South Africa,available,28.04,-26.2,gcp-regions,geonames
+Google Cloud,asia-east2,asia-east2,Hong Kong,Hong Kong,available,114.17,22.28,gcp-regions,geonames
+Google Cloud,asia-northeast3,asia-northeast3,"Seoul, South Korea",South Korea,available,126.98,37.57,gcp-regions,geonames
+Google Cloud,asia-southeast1,asia-southeast1,Singapore,Singapore,available,103.85,1.29,gcp-regions,geonames
+Google Cloud,asia-southeast2,asia-southeast2,Jakarta,Indonesia,available,106.85,-6.21,gcp-regions,geonames
+Google Cloud,asia-south2,asia-south2,"Delhi, India",India,available,77.22,28.64,gcp-regions,geonames
+Google Cloud,australia-southeast1,australia-southeast1,Sydney,Australia,available,151.21,-33.87,gcp-regions,geonames
+Google Cloud,australia-southeast2,australia-southeast2,Melbourne,Australia,available,144.96,-37.81,gcp-regions,geonames
+Google Cloud,europe-central2,europe-central2,"Warsaw, Poland",Poland,available,21.01,52.23,gcp-regions,geonames
+Google Cloud,europe-west10,europe-west10,Berlin,Germany,available,13.41,52.52,gcp-regions,geonames
+Google Cloud,europe-west12,europe-west12,Turin,Italy,available,7.69,45.07,gcp-regions,geonames
+Google Cloud,europe-west2,europe-west2,"London, UK",United Kingdom,available,-0.13,51.51,gcp-regions,geonames
+Google Cloud,europe-west3,europe-west3,"Frankfurt, Germany",Germany,available,8.68,50.12,gcp-regions,geonames
+Google Cloud,europe-west6,europe-west6,"Zurich, Switzerland",Switzerland,available,8.55,47.37,gcp-regions,geonames
+Google Cloud,me-central1,me-central1,Doha,Qatar,available,51.53,25.29,gcp-regions,geonames
+Google Cloud,me-central2,me-central2,Dammam,Saudi Arabia,available,50.1,26.43,gcp-regions,geonames
+Google Cloud,northamerica-northeast1,northamerica-northeast1,Montreal,Canada,available,-73.59,45.51,gcp-regions,geonames
+Google Cloud,northamerica-northeast2,northamerica-northeast2,Toronto,Canada,available,-79.42,43.7,gcp-regions,geonames
+Google Cloud,southamerica-east1,southamerica-east1,"Sao Paulo, Brazil",Brazil,available,-46.64,-23.55,gcp-regions,geonames
+Google Cloud,southamerica-west1,southamerica-west1,"Santiago, Chile",Chile,available,-70.65,-33.46,gcp-regions,geonames
+Google Cloud,us-west2,us-west2,Los Angeles,United States,available,-118.24,34.05,gcp-regions,geonames
+Google Cloud,us-west3,us-west3,Salt Lake City,United States,available,-111.89,40.76,gcp-regions,geonames
+Google Cloud,us-west4,us-west4,Las Vegas,United States,available,-115.14,36.17,gcp-regions,geonames

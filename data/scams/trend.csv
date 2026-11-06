@@ -1,0 +1,22 @@
+country,year,losses_local,currency,agency,source
+United States,2021,6900000000,USD,FBI IC3,fbi-ic3-2022
+United States,2022,10300000000,USD,FBI IC3,fbi-ic3-2022
+United States,2023,12500000000,USD,FBI IC3,fbi-ic3-2023
+United States,2024,16600000000,USD,FBI IC3,fbi-ic3-2024
+United States,2025,20877000000,USD,FBI IC3,fbi-ic3-2025
+United Kingdom,2021,1300000000,GBP,UK Finance,ukfinance-2022
+United Kingdom,2022,1200000000,GBP,UK Finance,ukfinance-2023
+United Kingdom,2023,1170000000,GBP,UK Finance,ukfinance-2024
+United Kingdom,2024,1170000000,GBP,UK Finance,ukfinance-2025
+United Kingdom,2025,1280000000,GBP,UK Finance,ukfinance-2026
+Australia,2022,3100000000,AUD,National Anti-Scam Centre,accc-2025-coverage
+Australia,2023,2740000000,AUD,National Anti-Scam Centre,accc-2023
+Australia,2024,2030000000,AUD,National Anti-Scam Centre,accc-2025-coverage
+Australia,2025,2180000000,AUD,National Anti-Scam Centre,accc-2025
+Singapore,2023,651800000,SGD,Singapore Police Force,spf-2024
+Singapore,2024,1100000000,SGD,Singapore Police Force,spf-2024
+Singapore,2025,913100000,SGD,Singapore Police Force,spf-2025
+Canada,2024,638000000,CAD,Canadian Anti-Fraud Centre,cafc-2024
+Canada,2025,704000000,CAD,Canadian Anti-Fraud Centre,cafc-2025
+India,2024,228494900000,INR,I4C (NCRP),i4c-2025
+India,2025,198129600000,INR,I4C (NCRP),i4c-2025

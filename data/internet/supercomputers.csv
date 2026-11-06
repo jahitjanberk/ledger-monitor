@@ -1,0 +1,6 @@
+rank,system,site,country,lon,lat,rmax_eflops,source,geo_source
+1,LineShine,National Supercomputing Center in Shenzhen,China,114.07,22.55,2.198,top500-2026,geonames
+2,El Capitan,Lawrence Livermore National Laboratory,United States,-121.77,37.68,1.8,top500-2026,geonames
+5,JUPITER Booster,Jülich Supercomputing Centre,Germany,6.36,50.92,,top500-2026,geonames
+9,Fugaku,RIKEN Center for Computational Science,Japan,135.18,34.69,,top500-2026,geonames
+10,Alps,Swiss National Supercomputing Centre (CSCS),Switzerland,8.96,46.01,,top500-2026,geonames

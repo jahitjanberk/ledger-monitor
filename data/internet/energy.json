@@ -1,0 +1,140 @@
+{
+  "id": "energy",
+  "title": "Data centre electricity",
+  "description": "Electricity used by data centres: global and regional (IEA), United States (LBNL) and Ireland (CSO).",
+  "records": [
+    {
+      "metric": "global_2024_twh",
+      "label": "Global data centre use, 2024",
+      "value": 415,
+      "unit": "TWh",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "global_2024_share",
+      "label": "Share of world electricity, 2024",
+      "value": 0.015,
+      "unit": "share",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "global_2030_twh",
+      "label": "Global projection, 2030",
+      "value": 945,
+      "unit": "TWh",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "share_us",
+      "label": "United States share of global data centre use, 2024",
+      "value": 0.45,
+      "unit": "share",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "share_china",
+      "label": "China share, 2024",
+      "value": 0.25,
+      "unit": "share",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "share_europe",
+      "label": "Europe share, 2024",
+      "value": 0.15,
+      "unit": "share",
+      "source": "iea-energy-ai"
+    },
+    {
+      "metric": "us_2018_twh",
+      "label": "US data centres, 2018",
+      "value": 76,
+      "unit": "TWh",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2018_share",
+      "label": "Share of US electricity, 2018",
+      "value": 0.019,
+      "unit": "share",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2023_twh",
+      "label": "US data centres, 2023",
+      "value": 176,
+      "unit": "TWh",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2023_share",
+      "label": "Share of US electricity, 2023",
+      "value": 0.044,
+      "unit": "share",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2028_low_twh",
+      "label": "US projection 2028, low",
+      "value": 325,
+      "unit": "TWh",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2028_high_twh",
+      "label": "US projection 2028, high",
+      "value": 580,
+      "unit": "TWh",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2028_low_share",
+      "label": "Share of US electricity 2028, low",
+      "value": 0.067,
+      "unit": "share",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "us_2028_high_share",
+      "label": "Share of US electricity 2028, high",
+      "value": 0.12,
+      "unit": "share",
+      "source": "lbnl-2024"
+    },
+    {
+      "metric": "ie_2015_share",
+      "label": "Ireland: data centres' share of metered electricity, 2015",
+      "value": 0.05,
+      "unit": "share",
+      "source": "cso-2024"
+    },
+    {
+      "metric": "ie_2024_share",
+      "label": "Ireland, 2024",
+      "value": 0.22,
+      "unit": "share",
+      "source": "cso-2024"
+    },
+    {
+      "metric": "ie_2025_share",
+      "label": "Ireland, 2025",
+      "value": 0.23,
+      "unit": "share",
+      "source": "cso-2025"
+    },
+    {
+      "metric": "ie_2024_gwh",
+      "label": "Ireland data centres, 2024",
+      "value": 6973,
+      "unit": "GWh",
+      "source": "cso-2025"
+    },
+    {
+      "metric": "ie_2025_gwh",
+      "label": "Ireland data centres, 2025",
+      "value": 7663,
+      "unit": "GWh",
+      "source": "cso-2025"
+    }
+  ]
+}

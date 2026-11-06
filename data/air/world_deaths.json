@@ -1,0 +1,279 @@
+{
+  "id": "world_deaths",
+  "title": "World air pollution deaths over time",
+  "description": "Deaths attributable to air pollution by type, 1990 to 2023 (IHME GBD 2023).",
+  "records": [
+    {
+      "year": 1990,
+      "air": 7106610,
+      "ambient_pm": 2599296,
+      "household": 4441913,
+      "ozone": 172676,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1991,
+      "air": 7165567,
+      "ambient_pm": 2627390,
+      "household": 4472526,
+      "ozone": 176017,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1992,
+      "air": 7210486,
+      "ambient_pm": 2660915,
+      "household": 4483212,
+      "ozone": 181375,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1993,
+      "air": 7313248,
+      "ambient_pm": 2752464,
+      "household": 4490688,
+      "ozone": 189825,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1994,
+      "air": 7363608,
+      "ambient_pm": 2793437,
+      "household": 4495428,
+      "ozone": 199212,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1995,
+      "air": 7404375,
+      "ambient_pm": 2818874,
+      "household": 4503772,
+      "ozone": 210285,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1996,
+      "air": 7439345,
+      "ambient_pm": 2836338,
+      "household": 4517776,
+      "ozone": 216760,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1997,
+      "air": 7475543,
+      "ambient_pm": 2864991,
+      "household": 4520668,
+      "ozone": 231775,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1998,
+      "air": 7527264,
+      "ambient_pm": 2914559,
+      "household": 4519954,
+      "ozone": 241591,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 1999,
+      "air": 7579016,
+      "ambient_pm": 2984708,
+      "household": 4494278,
+      "ozone": 261013,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2000,
+      "air": 7612530,
+      "ambient_pm": 3027502,
+      "household": 4482527,
+      "ozone": 261271,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2001,
+      "air": 7646982,
+      "ambient_pm": 3071685,
+      "household": 4467370,
+      "ozone": 270374,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2002,
+      "air": 7697278,
+      "ambient_pm": 3138620,
+      "household": 4446768,
+      "ozone": 279451,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2003,
+      "air": 7729095,
+      "ambient_pm": 3202092,
+      "household": 4408888,
+      "ozone": 302410,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2004,
+      "air": 7668609,
+      "ambient_pm": 3203816,
+      "household": 4341588,
+      "ozone": 318023,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2005,
+      "air": 7663870,
+      "ambient_pm": 3259112,
+      "household": 4272520,
+      "ozone": 327938,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2006,
+      "air": 7662583,
+      "ambient_pm": 3297871,
+      "household": 4221712,
+      "ozone": 344451,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2007,
+      "air": 7702199,
+      "ambient_pm": 3378471,
+      "household": 4175135,
+      "ozone": 363353,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2008,
+      "air": 7710970,
+      "ambient_pm": 3463145,
+      "household": 4098089,
+      "ozone": 373167,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2009,
+      "air": 7662163,
+      "ambient_pm": 3528335,
+      "household": 3990902,
+      "ozone": 352862,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2010,
+      "air": 7670124,
+      "ambient_pm": 3615183,
+      "household": 3904086,
+      "ozone": 350288,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2011,
+      "air": 7706848,
+      "ambient_pm": 3707019,
+      "household": 3840498,
+      "ozone": 353492,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2012,
+      "air": 7751030,
+      "ambient_pm": 3829220,
+      "household": 3767007,
+      "ozone": 350638,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2013,
+      "air": 7789771,
+      "ambient_pm": 3966388,
+      "household": 3676070,
+      "ozone": 348737,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2014,
+      "air": 7810886,
+      "ambient_pm": 4082790,
+      "household": 3583660,
+      "ozone": 344508,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2015,
+      "air": 7914134,
+      "ambient_pm": 4235133,
+      "household": 3512542,
+      "ozone": 360119,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2016,
+      "air": 8023308,
+      "ambient_pm": 4355390,
+      "household": 3473901,
+      "ozone": 384606,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2017,
+      "air": 8017194,
+      "ambient_pm": 4417136,
+      "household": 3396364,
+      "ozone": 399952,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2018,
+      "air": 7859853,
+      "ambient_pm": 4373025,
+      "household": 3289291,
+      "ozone": 396278,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2019,
+      "air": 7617102,
+      "ambient_pm": 4279338,
+      "household": 3139690,
+      "ozone": 404052,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2020,
+      "air": 7282123,
+      "ambient_pm": 4178420,
+      "household": 2912791,
+      "ozone": 373664,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2021,
+      "air": 7565409,
+      "ambient_pm": 4458527,
+      "household": 2905291,
+      "ozone": 381485,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2022,
+      "air": 7876676,
+      "ambient_pm": 4742828,
+      "household": 2904194,
+      "ozone": 441148,
+      "source": "ihme-gbd2023"
+    },
+    {
+      "year": 2023,
+      "air": 7901334,
+      "ambient_pm": 4919170,
+      "household": 2760964,
+      "ozone": 468806,
+      "source": "ihme-gbd2023"
+    }
+  ]
+}

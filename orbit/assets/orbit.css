@@ -1,0 +1,23 @@
+:root{--em-accent:#963C85;--em-soft:#F6DDF0;--or-b0:#E9D6EE;--or-b1:#D3A7DD;--or-b2:#B678C6;--or-b3:#8D48A6;--or-b4:#5B1E78;--or-us:#963C85;--or-cn:#E0523F;--or-ru:#3D5AFE;--or-rest:#A3A39B;--or-debris:#5C5C57;--or-rb:#E0A23F}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--em-accent:#D79CC8;--em-soft:#3D1636;--or-b0:#3A2A40;--or-b1:#5E3D6B;--or-b2:#8A55A0;--or-b3:#B77AD0;--or-b4:#E3B2F5;--or-us:#D79CC8;--or-cn:#FF7A6B;--or-ru:#8C9CFF;--or-rest:#6E6E68;--or-debris:#A1A19A;--or-rb:#F5C062}}
+:root[data-theme=dark]{--em-accent:#D79CC8;--em-soft:#3D1636;--or-b0:#3A2A40;--or-b1:#5E3D6B;--or-b2:#8A55A0;--or-b3:#B77AD0;--or-b4:#E3B2F5;--or-us:#D79CC8;--or-cn:#FF7A6B;--or-ru:#8C9CFF;--or-rest:#6E6E68;--or-debris:#A1A19A;--or-rb:#F5C062}
+.or-scale{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:10px;font-family:var(--em-mono);font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--em-muted)}
+.or-scale i,.or-key i{display:inline-block;width:.7rem;height:.7rem;border-radius:2px;vertical-align:-1px;margin-right:.4em}
+.or-key{display:flex;flex-wrap:wrap;gap:4px 14px;margin:8px 0 0;font-size:13px}
+.or-pick{display:flex;align-items:center;gap:8px;margin-top:10px}
+.or-pick select{font:inherit;font-size:14px;flex:1;min-width:0;padding:.4em .6em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:36px}
+.or-years svg{display:block;touch-action:pan-y}
+.or-grid{stroke:var(--em-line);stroke-width:1}
+.or-cursor{fill:var(--em-fg);fill-opacity:.12}
+.or-mini{display:grid;grid-template-columns:3rem 1fr auto;gap:8px;align-items:center;margin-top:6px;font-family:var(--em-mono);font-size:12px}
+.or-mini b{display:block;height:12px;background:var(--em-accent);border-radius:1px}
+.or-mini b.m{background:var(--em-bar-muted)}
+.or-mini em{font-style:normal}
+.or-search{font:inherit;padding:.55em .7em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:40px;width:min(100%,22rem);margin-bottom:12px}
+.or-tablebox{max-height:560px;overflow:auto}
+.or-tablebox thead th{position:sticky;top:0;background:var(--em-panel);z-index:1}
+.or-rowbtn{all:unset;cursor:pointer;font-weight:600}
+.or-rowbtn:hover{text-decoration:underline}
+.or-rowbtn:focus-visible{outline:2px solid var(--em-accent);outline-offset:2px}
+.or-org{font-family:var(--em-mono);font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--em-muted);font-weight:400;margin-left:.4em}
+.em-vis .m{width:100%}

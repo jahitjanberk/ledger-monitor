@@ -1,0 +1,42 @@
+{
+  "variant": "electricity",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Electricity mix by country",
+      "description": "Generation by source (% of electricity), total generation, generation per person and carbon intensity, 2025 where Ember has it, otherwise 2024, with 2015 carbon intensity.",
+      "rows": 195
+    },
+    {
+      "id": "world",
+      "title": "World electricity over time",
+      "description": "World generation mix and carbon intensity by year since 2000.",
+      "rows": 26
+    },
+    {
+      "id": "regions",
+      "title": "Electricity by region",
+      "description": "Ember regional totals, latest year.",
+      "rows": 8
+    },
+    {
+      "id": "uk",
+      "title": "United Kingdom over time",
+      "description": "UK generation mix and carbon intensity by year since 2000.",
+      "rows": 26
+    },
+    {
+      "id": "bands",
+      "title": "Carbon intensity classes",
+      "description": "The bands used to colour the map, in grams of CO2 equivalent per kWh.",
+      "rows": 5
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published headline figures from Ember's Global Electricity Review 2026 and the UK coal phase-out.",
+      "rows": 6
+    }
+  ]
+}

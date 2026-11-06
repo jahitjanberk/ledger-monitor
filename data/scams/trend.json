@@ -1,0 +1,175 @@
+{
+  "id": "trend",
+  "title": "Reported losses by year",
+  "description": "Annual reported losses by country, 2021 to 2025, in local currency. Earlier UK and Australian years are rounded headline totals.",
+  "records": [
+    {
+      "country": "United States",
+      "year": 2021,
+      "losses_local": 6900000000,
+      "currency": "USD",
+      "agency": "FBI IC3",
+      "source": "fbi-ic3-2022"
+    },
+    {
+      "country": "United States",
+      "year": 2022,
+      "losses_local": 10300000000,
+      "currency": "USD",
+      "agency": "FBI IC3",
+      "source": "fbi-ic3-2022"
+    },
+    {
+      "country": "United States",
+      "year": 2023,
+      "losses_local": 12500000000,
+      "currency": "USD",
+      "agency": "FBI IC3",
+      "source": "fbi-ic3-2023"
+    },
+    {
+      "country": "United States",
+      "year": 2024,
+      "losses_local": 16600000000,
+      "currency": "USD",
+      "agency": "FBI IC3",
+      "source": "fbi-ic3-2024"
+    },
+    {
+      "country": "United States",
+      "year": 2025,
+      "losses_local": 20877000000,
+      "currency": "USD",
+      "agency": "FBI IC3",
+      "source": "fbi-ic3-2025"
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2021,
+      "losses_local": 1300000000,
+      "currency": "GBP",
+      "agency": "UK Finance",
+      "source": "ukfinance-2022"
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2022,
+      "losses_local": 1200000000,
+      "currency": "GBP",
+      "agency": "UK Finance",
+      "source": "ukfinance-2023"
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2023,
+      "losses_local": 1170000000,
+      "currency": "GBP",
+      "agency": "UK Finance",
+      "source": "ukfinance-2024"
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2024,
+      "losses_local": 1170000000,
+      "currency": "GBP",
+      "agency": "UK Finance",
+      "source": "ukfinance-2025"
+    },
+    {
+      "country": "United Kingdom",
+      "year": 2025,
+      "losses_local": 1280000000,
+      "currency": "GBP",
+      "agency": "UK Finance",
+      "source": "ukfinance-2026"
+    },
+    {
+      "country": "Australia",
+      "year": 2022,
+      "losses_local": 3100000000,
+      "currency": "AUD",
+      "agency": "National Anti-Scam Centre",
+      "source": "accc-2025-coverage"
+    },
+    {
+      "country": "Australia",
+      "year": 2023,
+      "losses_local": 2740000000,
+      "currency": "AUD",
+      "agency": "National Anti-Scam Centre",
+      "source": "accc-2023"
+    },
+    {
+      "country": "Australia",
+      "year": 2024,
+      "losses_local": 2030000000,
+      "currency": "AUD",
+      "agency": "National Anti-Scam Centre",
+      "source": "accc-2025-coverage"
+    },
+    {
+      "country": "Australia",
+      "year": 2025,
+      "losses_local": 2180000000,
+      "currency": "AUD",
+      "agency": "National Anti-Scam Centre",
+      "source": "accc-2025"
+    },
+    {
+      "country": "Singapore",
+      "year": 2023,
+      "losses_local": 651800000,
+      "currency": "SGD",
+      "agency": "Singapore Police Force",
+      "source": "spf-2024"
+    },
+    {
+      "country": "Singapore",
+      "year": 2024,
+      "losses_local": 1100000000,
+      "currency": "SGD",
+      "agency": "Singapore Police Force",
+      "source": "spf-2024"
+    },
+    {
+      "country": "Singapore",
+      "year": 2025,
+      "losses_local": 913100000,
+      "currency": "SGD",
+      "agency": "Singapore Police Force",
+      "source": "spf-2025"
+    },
+    {
+      "country": "Canada",
+      "year": 2024,
+      "losses_local": 638000000,
+      "currency": "CAD",
+      "agency": "Canadian Anti-Fraud Centre",
+      "source": "cafc-2024"
+    },
+    {
+      "country": "Canada",
+      "year": 2025,
+      "losses_local": 704000000,
+      "currency": "CAD",
+      "agency": "Canadian Anti-Fraud Centre",
+      "source": "cafc-2025"
+    },
+    {
+      "country": "India",
+      "year": 2024,
+      "losses_local": 228494900000,
+      "currency": "INR",
+      "agency": "I4C (NCRP)",
+      "source": "i4c-2025"
+    },
+    {
+      "country": "India",
+      "year": 2025,
+      "losses_local": 198129600000,
+      "currency": "INR",
+      "agency": "I4C (NCRP)",
+      "source": "i4c-2025"
+    }
+  ]
+}

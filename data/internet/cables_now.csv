@@ -1,0 +1,3 @@
+metric,label,value,unit,source
+cables_tracked,"Active and planned cables tracked, 2026",600,cables (more than),telegeography-faq
+km_in_service,"Cable in service, early 2026",1500000,km (over),telegeography-faq

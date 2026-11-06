@@ -1,0 +1,887 @@
+{
+  "id": "azure_latency",
+  "title": "Azure measured latency",
+  "description": "Median (P50) round-trip latency between Azure regions over the 30 days to 30 July 2026, measured by Azure's backbone probes. Latency is directional.",
+  "records": [
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 11,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 12,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 78,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 139,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 167,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 229,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 261,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 180,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 164,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "uksouth",
+      "from_name": "UK South",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 141,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 11,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 17,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 85,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 143,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 169,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 233,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 265,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 185,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 166,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westeurope",
+      "from_name": "West Europe",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 140,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 13,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 17,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 73,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 130,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 176,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 225,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 263,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 172,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 172,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "northeurope",
+      "from_name": "North Europe",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 147,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 78,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 83,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 71,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 71,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 224,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 162,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 201,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 117,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 219,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "eastus",
+      "from_name": "East US",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 198,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 139,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 142,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 129,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 73,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 162,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 101,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 161,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 177,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 279,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "westus2",
+      "from_name": "West US 2",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 210,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 167,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 169,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 176,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 224,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 163,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 72,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 95,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 330,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 177,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southeastasia",
+      "from_name": "Southeast Asia",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 53,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 230,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 234,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 227,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 162,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 100,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 72,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 103,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 262,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 251,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "japaneast",
+      "from_name": "Japan East",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 122,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 261,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 264,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 263,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 202,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 161,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 95,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 104,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 295,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 328,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "australiaeast",
+      "from_name": "Australia East",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 144,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 181,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 185,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 172,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 118,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 177,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 331,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 262,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 295,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 321,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "brazilsouth",
+      "from_name": "Brazil South",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 304,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 163,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 166,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 172,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 220,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 280,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 177,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 247,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 328,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 321,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "southafricanorth",
+      "from_name": "South Africa North",
+      "to_code": "centralindia",
+      "to_name": "Central India",
+      "rtt_ms": 131,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "uksouth",
+      "to_name": "UK South",
+      "rtt_ms": 141,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "westeurope",
+      "to_name": "West Europe",
+      "rtt_ms": 139,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "northeurope",
+      "to_name": "North Europe",
+      "rtt_ms": 146,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "eastus",
+      "to_name": "East US",
+      "rtt_ms": 201,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "westus2",
+      "to_name": "West US 2",
+      "rtt_ms": 211,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "southeastasia",
+      "to_name": "Southeast Asia",
+      "rtt_ms": 53,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "japaneast",
+      "to_name": "Japan East",
+      "rtt_ms": 122,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "australiaeast",
+      "to_name": "Australia East",
+      "rtt_ms": 145,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "brazilsouth",
+      "to_name": "Brazil South",
+      "rtt_ms": 303,
+      "source": "azure-latency"
+    },
+    {
+      "from_code": "centralindia",
+      "from_name": "Central India",
+      "to_code": "southafricanorth",
+      "to_name": "South Africa North",
+      "rtt_ms": 131,
+      "source": "azure-latency"
+    }
+  ]
+}

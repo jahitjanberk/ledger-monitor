@@ -1,0 +1,49 @@
+{
+  "id": "us_detail",
+  "title": "US losses by category",
+  "description": "2025 US loss categories from FBI IC3 and FTC Consumer Sentinel.",
+  "records": [
+    {
+      "metric": "ic3_investment",
+      "label": "Investment fraud",
+      "agency": "FBI IC3",
+      "value": 8648617756,
+      "source": "fbi-ic3-2025-coverage"
+    },
+    {
+      "metric": "ic3_bec",
+      "label": "Business email compromise",
+      "agency": "FBI IC3",
+      "value": 3046598558,
+      "source": "fbi-ic3-2025-coverage"
+    },
+    {
+      "metric": "ic3_ai",
+      "label": "Complaints referencing AI",
+      "agency": "FBI IC3",
+      "value": 893346472,
+      "source": "fbi-ic3-2025-coverage"
+    },
+    {
+      "metric": "ftc_total",
+      "label": "All fraud reported to the FTC",
+      "agency": "FTC",
+      "value": 15900000000,
+      "source": "ftc-2026-testimony"
+    },
+    {
+      "metric": "ftc_investment",
+      "label": "Investment scams",
+      "agency": "FTC",
+      "value": 7900000000,
+      "source": "ftc-2026-imposters"
+    },
+    {
+      "metric": "ftc_imposter",
+      "label": "Imposter scams",
+      "agency": "FTC",
+      "value": 3500000000,
+      "source": "ftc-2026-imposters"
+    }
+  ]
+}

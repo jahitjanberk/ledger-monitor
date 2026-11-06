@@ -1,0 +1,42 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the map, as multiples of the WHO 2021 guideline of 5 µg/m³.",
+  "records": [
+    {
+      "band": "Within WHO guideline (5 or less)",
+      "min": 0,
+      "max": 5,
+      "unit": "µg/m³",
+      "source": "comeap-who-aqg"
+    },
+    {
+      "band": "Up to 2× the guideline",
+      "min": 5,
+      "max": 10,
+      "unit": "µg/m³",
+      "source": "comeap-who-aqg"
+    },
+    {
+      "band": "2 to 3×",
+      "min": 10,
+      "max": 15,
+      "unit": "µg/m³",
+      "source": "comeap-who-aqg"
+    },
+    {
+      "band": "3 to 7×",
+      "min": 15,
+      "max": 35,
+      "unit": "µg/m³",
+      "source": "comeap-who-aqg"
+    },
+    {
+      "band": "Over 7× (35 or more)",
+      "min": 35,
+      "max": null,
+      "unit": "µg/m³",
+      "source": "comeap-who-aqg"
+    }
+  ]
+}

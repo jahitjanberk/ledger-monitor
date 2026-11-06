@@ -1,0 +1,251 @@
+{
+  "id": "chokepoints",
+  "title": "Chokepoints",
+  "description": "The 28 chokepoints IMF PortWatch monitors, with EIA oil flows (first half of 2025) and PortWatch daily transits for the four with data here.",
+  "records": [
+    {
+      "chokepoint": "Suez Canal",
+      "portid": "chokepoint1",
+      "lat": 30.593,
+      "lon": 32.437,
+      "geo_source": "portwatch-db",
+      "eia_name": "Suez Canal and SUMED Pipeline",
+      "oil_mbd_1h25": 4.9,
+      "oil_mbd_2023": 8.8,
+      "oil_source": "eia-chokepoints",
+      "transits_2025": 38.5,
+      "transits_since_closure": 41.1,
+      "transits_change_pct": 6.8,
+      "transits_source": "portwatch"
+    },
+    {
+      "chokepoint": "Panama Canal",
+      "portid": "chokepoint2",
+      "lat": 9.121,
+      "lon": -79.767,
+      "geo_source": "portwatch-db",
+      "eia_name": "Panama Canal",
+      "oil_mbd_1h25": 2.3,
+      "oil_mbd_2023": 2.2,
+      "oil_source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Bosporus Strait",
+      "portid": "chokepoint3",
+      "lat": 41.169,
+      "lon": 29.092,
+      "geo_source": "portwatch-db",
+      "eia_name": "Turkish Straits (Dardanelles)",
+      "oil_mbd_1h25": 3.7,
+      "oil_mbd_2023": 3.5,
+      "oil_source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Bab el-Mandeb Strait",
+      "portid": "chokepoint4",
+      "lat": 12.789,
+      "lon": 43.35,
+      "geo_source": "portwatch-db",
+      "eia_name": "Bab el-Mandeb",
+      "oil_mbd_1h25": 4.2,
+      "oil_mbd_2023": 9.3,
+      "oil_source": "eia-chokepoints",
+      "transits_2025": 33.5,
+      "transits_since_closure": 32.7,
+      "transits_change_pct": -2.4,
+      "transits_source": "portwatch"
+    },
+    {
+      "chokepoint": "Malacca Strait",
+      "portid": "chokepoint5",
+      "lat": 1.517,
+      "lon": 102.665,
+      "geo_source": "portwatch-db",
+      "eia_name": "Strait of Malacca",
+      "oil_mbd_1h25": 23.2,
+      "oil_mbd_2023": 24.0,
+      "oil_source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Strait of Hormuz",
+      "portid": "chokepoint6",
+      "lat": 26.297,
+      "lon": 56.86,
+      "geo_source": "portwatch-db",
+      "eia_name": "Strait of Hormuz",
+      "oil_mbd_1h25": 20.9,
+      "oil_mbd_2023": 21.8,
+      "oil_source": "eia-chokepoints",
+      "transits_2025": 85.5,
+      "transits_since_closure": 6.1,
+      "transits_change_pct": -92.9,
+      "transits_source": "portwatch"
+    },
+    {
+      "chokepoint": "Cape of Good Hope",
+      "portid": "chokepoint7",
+      "lat": -34.927,
+      "lon": 20.883,
+      "geo_source": "portwatch-db",
+      "eia_name": "Cape of Good Hope",
+      "oil_mbd_1h25": 9.1,
+      "oil_mbd_2023": 6.2,
+      "oil_source": "eia-chokepoints",
+      "transits_2025": 89.5,
+      "transits_since_closure": 91.2,
+      "transits_change_pct": 1.9,
+      "transits_source": "portwatch"
+    },
+    {
+      "chokepoint": "Gibraltar Strait",
+      "portid": "chokepoint8",
+      "lat": 35.942,
+      "lon": -5.755,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Dover Strait",
+      "portid": "chokepoint9",
+      "lat": 51.03,
+      "lon": 1.506,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Oresund Strait",
+      "portid": "chokepoint10",
+      "lat": 55.508,
+      "lon": 12.851,
+      "geo_source": "portwatch-db",
+      "eia_name": "Danish Straits",
+      "oil_mbd_1h25": 4.9,
+      "oil_mbd_2023": 5.0,
+      "oil_source": "eia-chokepoints"
+    },
+    {
+      "chokepoint": "Taiwan Strait",
+      "portid": "chokepoint11",
+      "lat": 24.724,
+      "lon": 119.831,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Korea Strait",
+      "portid": "chokepoint12",
+      "lat": 34.131,
+      "lon": 129.209,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Tsugaru Strait",
+      "portid": "chokepoint13",
+      "lat": 41.328,
+      "lon": 140.353,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Luzon Strait",
+      "portid": "chokepoint14",
+      "lat": 20.489,
+      "lon": 121.352,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Lombok Strait",
+      "portid": "chokepoint15",
+      "lat": -8.419,
+      "lon": 115.801,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Ombai Strait",
+      "portid": "chokepoint16",
+      "lat": -8.399,
+      "lon": 125.091,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Bohai Strait",
+      "portid": "chokepoint17",
+      "lat": 38.373,
+      "lon": 120.9,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Torres Strait",
+      "portid": "chokepoint18",
+      "lat": -9.863,
+      "lon": 142.248,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Sunda Strait",
+      "portid": "chokepoint19",
+      "lat": -5.967,
+      "lon": 105.775,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Makassar Strait",
+      "portid": "chokepoint20",
+      "lat": 0.352,
+      "lon": 119.257,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Magellan Strait",
+      "portid": "chokepoint21",
+      "lat": -52.64,
+      "lon": -69.595,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Yucatan Channel",
+      "portid": "chokepoint22",
+      "lat": 21.815,
+      "lon": -85.647,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Windward Passage",
+      "portid": "chokepoint23",
+      "lat": 19.986,
+      "lon": -73.698,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Mona Passage",
+      "portid": "chokepoint24",
+      "lat": 18.449,
+      "lon": -67.711,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Balabac Strait",
+      "portid": "chokepoint25",
+      "lat": 7.414,
+      "lon": 117.115,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Bering Strait",
+      "portid": "chokepoint26",
+      "lat": 65.966,
+      "lon": -165.55,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Mindoro Strait",
+      "portid": "chokepoint27",
+      "lat": 12.468,
+      "lon": 120.403,
+      "geo_source": "portwatch-db"
+    },
+    {
+      "chokepoint": "Kerch Strait",
+      "portid": "chokepoint28",
+      "lat": 45.267,
+      "lon": 36.544,
+      "geo_source": "portwatch-db"
+    }
+  ]
+}

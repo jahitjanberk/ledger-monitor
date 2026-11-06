@@ -1,0 +1,1797 @@
+{
+  "id": "sectors",
+  "title": "Withdrawals by sector",
+  "description": "Share of freshwater withdrawals going to agriculture, industry and domestic use, latest year (AQUASTAT via the World Bank).",
+  "records": [
+    {
+      "country": "Afghanistan",
+      "iso3": "AFG",
+      "iso_n3": "004",
+      "year": 2022,
+      "agriculture_pct": 98.2,
+      "industry_pct": 0.8,
+      "domestic_pct": 1.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Angola",
+      "iso3": "AGO",
+      "iso_n3": "024",
+      "year": 2022,
+      "agriculture_pct": 20.8,
+      "industry_pct": 33.9,
+      "domestic_pct": 45.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Albania",
+      "iso3": "ALB",
+      "iso_n3": "008",
+      "year": 2022,
+      "agriculture_pct": 70.9,
+      "industry_pct": 1.4,
+      "domestic_pct": 27.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso3": "ARE",
+      "iso_n3": "784",
+      "year": 2022,
+      "agriculture_pct": 51.2,
+      "industry_pct": 1.1,
+      "domestic_pct": 47.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Argentina",
+      "iso3": "ARG",
+      "iso_n3": "032",
+      "year": 2022,
+      "agriculture_pct": 73.9,
+      "industry_pct": 10.6,
+      "domestic_pct": 15.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Armenia",
+      "iso3": "ARM",
+      "iso_n3": "051",
+      "year": 2022,
+      "agriculture_pct": 77.5,
+      "industry_pct": 4.9,
+      "domestic_pct": 17.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "iso3": "ATG",
+      "iso_n3": "028",
+      "year": 2022,
+      "agriculture_pct": 15.7,
+      "industry_pct": 21.7,
+      "domestic_pct": 62.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Australia",
+      "iso3": "AUS",
+      "iso_n3": "036",
+      "year": 2022,
+      "agriculture_pct": 66.9,
+      "industry_pct": 18.6,
+      "domestic_pct": 14.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Austria",
+      "iso3": "AUT",
+      "iso_n3": "040",
+      "year": 2022,
+      "agriculture_pct": 5.2,
+      "industry_pct": 93.3,
+      "domestic_pct": 1.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Azerbaijan",
+      "iso3": "AZE",
+      "iso_n3": "031",
+      "year": 2022,
+      "agriculture_pct": 92.2,
+      "industry_pct": 4.6,
+      "domestic_pct": 3.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Burundi",
+      "iso3": "BDI",
+      "iso_n3": "108",
+      "year": 2022,
+      "agriculture_pct": 79.3,
+      "industry_pct": 5.4,
+      "domestic_pct": 15.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Belgium",
+      "iso3": "BEL",
+      "iso_n3": "056",
+      "year": 2022,
+      "agriculture_pct": 0.9,
+      "industry_pct": 84.1,
+      "domestic_pct": 15.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Benin",
+      "iso3": "BEN",
+      "iso_n3": "204",
+      "year": 2022,
+      "agriculture_pct": 25.2,
+      "industry_pct": 12.8,
+      "domestic_pct": 62.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Burkina Faso",
+      "iso3": "BFA",
+      "iso_n3": "854",
+      "year": 2022,
+      "agriculture_pct": 51.4,
+      "industry_pct": 2.7,
+      "domestic_pct": 45.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Bangladesh",
+      "iso3": "BGD",
+      "iso_n3": "050",
+      "year": 2022,
+      "agriculture_pct": 87.8,
+      "industry_pct": 2.1,
+      "domestic_pct": 10.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Bulgaria",
+      "iso3": "BGR",
+      "iso_n3": "100",
+      "year": 2022,
+      "agriculture_pct": 13.3,
+      "industry_pct": 71.3,
+      "domestic_pct": 15.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Bahrain",
+      "iso3": "BHR",
+      "iso_n3": "048",
+      "year": 2022,
+      "agriculture_pct": 33.3,
+      "industry_pct": 3.2,
+      "domestic_pct": 63.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Belarus",
+      "iso3": "BLR",
+      "iso_n3": "112",
+      "year": 2022,
+      "agriculture_pct": 27.2,
+      "industry_pct": 30.4,
+      "domestic_pct": 42.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Belize",
+      "iso3": "BLZ",
+      "iso_n3": "084",
+      "year": 2022,
+      "agriculture_pct": 67.7,
+      "industry_pct": 21.0,
+      "domestic_pct": 11.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Bolivia",
+      "iso3": "BOL",
+      "iso_n3": "068",
+      "year": 2022,
+      "agriculture_pct": 87.1,
+      "industry_pct": 1.5,
+      "domestic_pct": 11.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Brazil",
+      "iso3": "BRA",
+      "iso_n3": "076",
+      "year": 2022,
+      "agriculture_pct": 60.8,
+      "industry_pct": 15.0,
+      "domestic_pct": 24.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Barbados",
+      "iso3": "BRB",
+      "iso_n3": "052",
+      "year": 2022,
+      "agriculture_pct": 67.7,
+      "industry_pct": 7.7,
+      "domestic_pct": 24.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Bhutan",
+      "iso3": "BTN",
+      "iso_n3": "064",
+      "year": 2022,
+      "agriculture_pct": 94.1,
+      "industry_pct": 0.9,
+      "domestic_pct": 5.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Botswana",
+      "iso3": "BWA",
+      "iso_n3": "072",
+      "year": 2022,
+      "agriculture_pct": 28.0,
+      "industry_pct": 11.4,
+      "domestic_pct": 60.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Central African Republic",
+      "iso3": "CAF",
+      "iso_n3": "140",
+      "year": 2022,
+      "agriculture_pct": 0.6,
+      "industry_pct": 16.6,
+      "domestic_pct": 82.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Canada",
+      "iso3": "CAN",
+      "iso_n3": "124",
+      "year": 2022,
+      "agriculture_pct": 10.7,
+      "industry_pct": 75.8,
+      "domestic_pct": 13.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Switzerland",
+      "iso3": "CHE",
+      "iso_n3": "756",
+      "year": 2022,
+      "agriculture_pct": 9.2,
+      "industry_pct": 37.1,
+      "domestic_pct": 53.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Chile",
+      "iso3": "CHL",
+      "iso_n3": "152",
+      "year": 2022,
+      "agriculture_pct": 90.9,
+      "industry_pct": 5.1,
+      "domestic_pct": 4.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "China",
+      "iso3": "CHN",
+      "iso_n3": "156",
+      "year": 2022,
+      "agriculture_pct": 62.1,
+      "industry_pct": 17.7,
+      "domestic_pct": 20.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "iso3": "CIV",
+      "iso_n3": "384",
+      "year": 2022,
+      "agriculture_pct": 51.6,
+      "industry_pct": 20.8,
+      "domestic_pct": 27.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cameroon",
+      "iso3": "CMR",
+      "iso_n3": "120",
+      "year": 2022,
+      "agriculture_pct": 67.7,
+      "industry_pct": 9.6,
+      "domestic_pct": 22.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Democratic Republic of Congo",
+      "iso3": "COD",
+      "iso_n3": "180",
+      "year": 2022,
+      "agriculture_pct": 10.5,
+      "industry_pct": 21.5,
+      "domestic_pct": 68.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Congo",
+      "iso3": "COG",
+      "iso_n3": "178",
+      "year": 2022,
+      "agriculture_pct": 4.4,
+      "industry_pct": 26.2,
+      "domestic_pct": 69.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Colombia",
+      "iso3": "COL",
+      "iso_n3": "170",
+      "year": 2022,
+      "agriculture_pct": 82.2,
+      "industry_pct": 4.1,
+      "domestic_pct": 13.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Comoros",
+      "iso3": "COM",
+      "iso_n3": "174",
+      "year": 2022,
+      "agriculture_pct": 47,
+      "industry_pct": 5,
+      "domestic_pct": 48,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cape Verde",
+      "iso3": "CPV",
+      "iso_n3": "132",
+      "year": 2022,
+      "agriculture_pct": 39.0,
+      "industry_pct": 2.1,
+      "domestic_pct": 58.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Costa Rica",
+      "iso3": "CRI",
+      "iso_n3": "188",
+      "year": 2022,
+      "agriculture_pct": 60.7,
+      "industry_pct": 7.1,
+      "domestic_pct": 32.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cuba",
+      "iso3": "CUB",
+      "iso_n3": "192",
+      "year": 2022,
+      "agriculture_pct": 64.9,
+      "industry_pct": 10.6,
+      "domestic_pct": 24.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cyprus",
+      "iso3": "CYP",
+      "iso_n3": "196",
+      "year": 2022,
+      "agriculture_pct": 61.2,
+      "industry_pct": 5.9,
+      "domestic_pct": 38.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Czechia",
+      "iso3": "CZE",
+      "iso_n3": "203",
+      "year": 2022,
+      "agriculture_pct": 3.0,
+      "industry_pct": 53.7,
+      "domestic_pct": 43.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Germany",
+      "iso3": "DEU",
+      "iso_n3": "276",
+      "year": 2022,
+      "agriculture_pct": 4.2,
+      "industry_pct": 54.3,
+      "domestic_pct": 41.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Djibouti",
+      "iso3": "DJI",
+      "iso_n3": "262",
+      "year": 2022,
+      "agriculture_pct": 15.8,
+      "industry_pct": 0,
+      "domestic_pct": 84.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Dominica",
+      "iso3": "DMA",
+      "iso_n3": "212",
+      "year": 2022,
+      "agriculture_pct": 5,
+      "industry_pct": 0,
+      "domestic_pct": 95,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Denmark",
+      "iso3": "DNK",
+      "iso_n3": "208",
+      "year": 2022,
+      "agriculture_pct": 54.2,
+      "industry_pct": 4.8,
+      "domestic_pct": 41.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Dominican Republic",
+      "iso3": "DOM",
+      "iso_n3": "214",
+      "year": 2022,
+      "agriculture_pct": 83.3,
+      "industry_pct": 7.3,
+      "domestic_pct": 9.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Algeria",
+      "iso3": "DZA",
+      "iso_n3": "012",
+      "year": 2022,
+      "agriculture_pct": 67.4,
+      "industry_pct": 1.7,
+      "domestic_pct": 30.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Ecuador",
+      "iso3": "ECU",
+      "iso_n3": "218",
+      "year": 2022,
+      "agriculture_pct": 81.4,
+      "industry_pct": 5.5,
+      "domestic_pct": 13.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Egypt",
+      "iso3": "EGY",
+      "iso_n3": "818",
+      "year": 2022,
+      "agriculture_pct": 79.2,
+      "industry_pct": 7.0,
+      "domestic_pct": 13.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Eritrea",
+      "iso3": "ERI",
+      "iso_n3": "232",
+      "year": 2022,
+      "agriculture_pct": 94.5,
+      "industry_pct": 0.2,
+      "domestic_pct": 5.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Spain",
+      "iso3": "ESP",
+      "iso_n3": "724",
+      "year": 2022,
+      "agriculture_pct": 65.3,
+      "industry_pct": 19.0,
+      "domestic_pct": 15.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Estonia",
+      "iso3": "EST",
+      "iso_n3": "233",
+      "year": 2022,
+      "agriculture_pct": 0.4,
+      "industry_pct": 94.2,
+      "domestic_pct": 5.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Ethiopia",
+      "iso3": "ETH",
+      "iso_n3": "231",
+      "year": 2022,
+      "agriculture_pct": 91.8,
+      "industry_pct": 0.5,
+      "domestic_pct": 7.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Finland",
+      "iso3": "FIN",
+      "iso_n3": "246",
+      "year": 2022,
+      "agriculture_pct": 35.7,
+      "industry_pct": 46.4,
+      "domestic_pct": 17.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Fiji",
+      "iso3": "FJI",
+      "iso_n3": "242",
+      "year": 2022,
+      "agriculture_pct": 58.9,
+      "industry_pct": 11.3,
+      "domestic_pct": 29.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "France",
+      "iso3": "FRA",
+      "iso_n3": "250",
+      "year": 2022,
+      "agriculture_pct": 10.3,
+      "industry_pct": 68.1,
+      "domestic_pct": 21.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Gabon",
+      "iso3": "GAB",
+      "iso_n3": "266",
+      "year": 2022,
+      "agriculture_pct": 29.0,
+      "industry_pct": 10.1,
+      "domestic_pct": 60.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "United Kingdom",
+      "iso3": "GBR",
+      "iso_n3": "826",
+      "year": 2022,
+      "agriculture_pct": 14.0,
+      "industry_pct": 12.0,
+      "domestic_pct": 74.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Georgia",
+      "iso3": "GEO",
+      "iso_n3": "268",
+      "year": 2022,
+      "agriculture_pct": 33.6,
+      "industry_pct": 27.4,
+      "domestic_pct": 39.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Ghana",
+      "iso3": "GHA",
+      "iso_n3": "288",
+      "year": 2022,
+      "agriculture_pct": 73.1,
+      "industry_pct": 6.5,
+      "domestic_pct": 20.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Guinea",
+      "iso3": "GIN",
+      "iso_n3": "324",
+      "year": 2022,
+      "agriculture_pct": 67.4,
+      "industry_pct": 6.7,
+      "domestic_pct": 25.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Gambia",
+      "iso3": "GMB",
+      "iso_n3": "270",
+      "year": 2022,
+      "agriculture_pct": 38.6,
+      "industry_pct": 20.9,
+      "domestic_pct": 40.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "iso3": "GNB",
+      "iso_n3": "624",
+      "year": 2022,
+      "agriculture_pct": 75.8,
+      "industry_pct": 6.3,
+      "domestic_pct": 17.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "iso3": "GNQ",
+      "iso_n3": "226",
+      "year": 2022,
+      "agriculture_pct": 5.1,
+      "industry_pct": 15.2,
+      "domestic_pct": 79.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Greece",
+      "iso3": "GRC",
+      "iso_n3": "300",
+      "year": 2022,
+      "agriculture_pct": 80.5,
+      "industry_pct": 2.8,
+      "domestic_pct": 16.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Grenada",
+      "iso3": "GRD",
+      "iso_n3": "308",
+      "year": 2022,
+      "agriculture_pct": 14.9,
+      "industry_pct": 0,
+      "domestic_pct": 85.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Guatemala",
+      "iso3": "GTM",
+      "iso_n3": "320",
+      "year": 2022,
+      "agriculture_pct": 56.7,
+      "industry_pct": 18.1,
+      "domestic_pct": 25.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Guyana",
+      "iso3": "GUY",
+      "iso_n3": "328",
+      "year": 2022,
+      "agriculture_pct": 94.3,
+      "industry_pct": 1.4,
+      "domestic_pct": 4.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Honduras",
+      "iso3": "HND",
+      "iso_n3": "340",
+      "year": 2022,
+      "agriculture_pct": 73.3,
+      "industry_pct": 7.1,
+      "domestic_pct": 19.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Croatia",
+      "iso3": "HRV",
+      "iso_n3": "191",
+      "year": 2022,
+      "agriculture_pct": 7.5,
+      "industry_pct": 46.8,
+      "domestic_pct": 45.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Haiti",
+      "iso3": "HTI",
+      "iso_n3": "332",
+      "year": 2022,
+      "agriculture_pct": 83.4,
+      "industry_pct": 3.5,
+      "domestic_pct": 13.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Hungary",
+      "iso3": "HUN",
+      "iso_n3": "348",
+      "year": 2022,
+      "agriculture_pct": 11.0,
+      "industry_pct": 75.7,
+      "domestic_pct": 13.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Indonesia",
+      "iso3": "IDN",
+      "iso_n3": "360",
+      "year": 2022,
+      "agriculture_pct": 85.2,
+      "industry_pct": 4.1,
+      "domestic_pct": 10.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "India",
+      "iso3": "IND",
+      "iso_n3": "356",
+      "year": 2022,
+      "agriculture_pct": 90.4,
+      "industry_pct": 2.2,
+      "domestic_pct": 7.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Ireland",
+      "iso3": "IRL",
+      "iso_n3": "372",
+      "year": 2022,
+      "agriculture_pct": 2.4,
+      "industry_pct": 31.8,
+      "domestic_pct": 66.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Iran",
+      "iso3": "IRN",
+      "iso_n3": "364",
+      "year": 2022,
+      "agriculture_pct": 92.2,
+      "industry_pct": 1.2,
+      "domestic_pct": 6.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Iraq",
+      "iso3": "IRQ",
+      "iso_n3": "368",
+      "year": 2022,
+      "agriculture_pct": 73.5,
+      "industry_pct": 10.7,
+      "domestic_pct": 15.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Iceland",
+      "iso3": "ISL",
+      "iso_n3": "352",
+      "year": 2022,
+      "agriculture_pct": 0.1,
+      "industry_pct": 71.1,
+      "domestic_pct": 28.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Israel",
+      "iso3": "ISR",
+      "iso_n3": "376",
+      "year": 2021,
+      "agriculture_pct": 48.4,
+      "industry_pct": 4.0,
+      "domestic_pct": 38.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Italy",
+      "iso3": "ITA",
+      "iso_n3": "380",
+      "year": 2022,
+      "agriculture_pct": 50.2,
+      "industry_pct": 22.7,
+      "domestic_pct": 27.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Jamaica",
+      "iso3": "JAM",
+      "iso_n3": "388",
+      "year": 2022,
+      "agriculture_pct": 17.1,
+      "industry_pct": 9.5,
+      "domestic_pct": 73.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Jordan",
+      "iso3": "JOR",
+      "iso_n3": "400",
+      "year": 2022,
+      "agriculture_pct": 51.6,
+      "industry_pct": 3.3,
+      "domestic_pct": 45.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Japan",
+      "iso3": "JPN",
+      "iso_n3": "392",
+      "year": 2022,
+      "agriculture_pct": 66.7,
+      "industry_pct": 16.4,
+      "domestic_pct": 17.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Kazakhstan",
+      "iso3": "KAZ",
+      "iso_n3": "398",
+      "year": 2022,
+      "agriculture_pct": 56.7,
+      "industry_pct": 23.9,
+      "domestic_pct": 19.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Kenya",
+      "iso3": "KEN",
+      "iso_n3": "404",
+      "year": 2022,
+      "agriculture_pct": 80.2,
+      "industry_pct": 7.5,
+      "domestic_pct": 12.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "iso3": "KGZ",
+      "iso_n3": "417",
+      "year": 2022,
+      "agriculture_pct": 92.7,
+      "industry_pct": 4.4,
+      "domestic_pct": 2.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Cambodia",
+      "iso3": "KHM",
+      "iso_n3": "116",
+      "year": 2022,
+      "agriculture_pct": 94.0,
+      "industry_pct": 1.5,
+      "domestic_pct": 4.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "iso3": "KNA",
+      "iso_n3": "659",
+      "year": 2022,
+      "agriculture_pct": 1.3,
+      "industry_pct": 0,
+      "domestic_pct": 98.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "South Korea",
+      "iso3": "KOR",
+      "iso_n3": "410",
+      "year": 2022,
+      "agriculture_pct": 58.9,
+      "industry_pct": 16.4,
+      "domestic_pct": 24.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Kuwait",
+      "iso3": "KWT",
+      "iso_n3": "414",
+      "year": 2022,
+      "agriculture_pct": 62.3,
+      "industry_pct": 1.9,
+      "domestic_pct": 35.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Laos",
+      "iso3": "LAO",
+      "iso_n3": "418",
+      "year": 2022,
+      "agriculture_pct": 95.9,
+      "industry_pct": 2.3,
+      "domestic_pct": 1.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Lebanon",
+      "iso3": "LBN",
+      "iso_n3": "422",
+      "year": 2022,
+      "agriculture_pct": 38.0,
+      "industry_pct": 48.9,
+      "domestic_pct": 13.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Liberia",
+      "iso3": "LBR",
+      "iso_n3": "430",
+      "year": 2022,
+      "agriculture_pct": 8.4,
+      "industry_pct": 36.6,
+      "domestic_pct": 55.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Libya",
+      "iso3": "LBY",
+      "iso_n3": "434",
+      "year": 2022,
+      "agriculture_pct": 83.2,
+      "industry_pct": 4.8,
+      "domestic_pct": 12.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Saint Lucia",
+      "iso3": "LCA",
+      "iso_n3": "662",
+      "year": 2022,
+      "agriculture_pct": 70.9,
+      "industry_pct": 0,
+      "domestic_pct": 29.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso3": "LKA",
+      "iso_n3": "144",
+      "year": 2022,
+      "agriculture_pct": 87.4,
+      "industry_pct": 6.4,
+      "domestic_pct": 6.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Lesotho",
+      "iso3": "LSO",
+      "iso_n3": "426",
+      "year": 2022,
+      "agriculture_pct": 8.7,
+      "industry_pct": 45.7,
+      "domestic_pct": 45.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Lithuania",
+      "iso3": "LTU",
+      "iso_n3": "440",
+      "year": 2022,
+      "agriculture_pct": 19.6,
+      "industry_pct": 29.3,
+      "domestic_pct": 45.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Luxembourg",
+      "iso3": "LUX",
+      "iso_n3": "442",
+      "year": 2022,
+      "agriculture_pct": 1.0,
+      "industry_pct": 3.8,
+      "domestic_pct": 91.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Latvia",
+      "iso3": "LVA",
+      "iso_n3": "428",
+      "year": 2022,
+      "agriculture_pct": 29.1,
+      "industry_pct": 17.6,
+      "domestic_pct": 53.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Morocco",
+      "iso3": "MAR",
+      "iso_n3": "504",
+      "year": 2022,
+      "agriculture_pct": 87.8,
+      "industry_pct": 2.0,
+      "domestic_pct": 10.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Monaco",
+      "iso3": "MCO",
+      "iso_n3": "492",
+      "year": 2022,
+      "agriculture_pct": 0,
+      "industry_pct": 0,
+      "domestic_pct": 100,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Moldova",
+      "iso3": "MDA",
+      "iso_n3": "498",
+      "year": 2022,
+      "agriculture_pct": 6.9,
+      "industry_pct": 73.1,
+      "domestic_pct": 20.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Madagascar",
+      "iso3": "MDG",
+      "iso_n3": "450",
+      "year": 2022,
+      "agriculture_pct": 95.9,
+      "industry_pct": 1.2,
+      "domestic_pct": 2.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Maldives",
+      "iso3": "MDV",
+      "iso_n3": "462",
+      "year": 2022,
+      "agriculture_pct": 4.5,
+      "industry_pct": 5.1,
+      "domestic_pct": 94.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mexico",
+      "iso3": "MEX",
+      "iso_n3": "484",
+      "year": 2022,
+      "agriculture_pct": 76.3,
+      "industry_pct": 8.9,
+      "domestic_pct": 14.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "North Macedonia",
+      "iso3": "MKD",
+      "iso_n3": "807",
+      "year": 2022,
+      "agriculture_pct": 6.4,
+      "industry_pct": 1.5,
+      "domestic_pct": 14.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mali",
+      "iso3": "MLI",
+      "iso_n3": "466",
+      "year": 2022,
+      "agriculture_pct": 97.9,
+      "industry_pct": 0.1,
+      "domestic_pct": 2.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Malta",
+      "iso3": "MLT",
+      "iso_n3": "470",
+      "year": 2022,
+      "agriculture_pct": 34.5,
+      "industry_pct": 1.6,
+      "domestic_pct": 63.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Myanmar",
+      "iso3": "MMR",
+      "iso_n3": "104",
+      "year": 2022,
+      "agriculture_pct": 88.6,
+      "industry_pct": 1.5,
+      "domestic_pct": 10.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Montenegro",
+      "iso3": "MNE",
+      "iso_n3": "499",
+      "year": 2022,
+      "agriculture_pct": 0.3,
+      "industry_pct": 94.2,
+      "domestic_pct": 5.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mongolia",
+      "iso3": "MNG",
+      "iso_n3": "496",
+      "year": 2022,
+      "agriculture_pct": 54.3,
+      "industry_pct": 35.9,
+      "domestic_pct": 9.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mozambique",
+      "iso3": "MOZ",
+      "iso_n3": "508",
+      "year": 2022,
+      "agriculture_pct": 73.0,
+      "industry_pct": 1.7,
+      "domestic_pct": 25.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mauritania",
+      "iso3": "MRT",
+      "iso_n3": "478",
+      "year": 2022,
+      "agriculture_pct": 90.6,
+      "industry_pct": 2.4,
+      "domestic_pct": 7.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Mauritius",
+      "iso3": "MUS",
+      "iso_n3": "480",
+      "year": 2022,
+      "agriculture_pct": 47.9,
+      "industry_pct": 1.6,
+      "domestic_pct": 50.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Malawi",
+      "iso3": "MWI",
+      "iso_n3": "454",
+      "year": 2022,
+      "agriculture_pct": 85.9,
+      "industry_pct": 3.5,
+      "domestic_pct": 10.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Malaysia",
+      "iso3": "MYS",
+      "iso_n3": "458",
+      "year": 2022,
+      "agriculture_pct": 45.6,
+      "industry_pct": 29.9,
+      "domestic_pct": 24.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Namibia",
+      "iso3": "NAM",
+      "iso_n3": "516",
+      "year": 2022,
+      "agriculture_pct": 71.5,
+      "industry_pct": 6.6,
+      "domestic_pct": 21.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Niger",
+      "iso3": "NER",
+      "iso_n3": "562",
+      "year": 2022,
+      "agriculture_pct": 91.0,
+      "industry_pct": 1.5,
+      "domestic_pct": 7.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Nigeria",
+      "iso3": "NGA",
+      "iso_n3": "566",
+      "year": 2022,
+      "agriculture_pct": 44.2,
+      "industry_pct": 15.8,
+      "domestic_pct": 40.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Nicaragua",
+      "iso3": "NIC",
+      "iso_n3": "558",
+      "year": 2022,
+      "agriculture_pct": 85.0,
+      "industry_pct": 0.0,
+      "domestic_pct": 14.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Netherlands",
+      "iso3": "NLD",
+      "iso_n3": "528",
+      "year": 2022,
+      "agriculture_pct": 3.2,
+      "industry_pct": 70.2,
+      "domestic_pct": 26.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Norway",
+      "iso3": "NOR",
+      "iso_n3": "578",
+      "year": 2022,
+      "agriculture_pct": 31.4,
+      "industry_pct": 39.8,
+      "domestic_pct": 28.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Nepal",
+      "iso3": "NPL",
+      "iso_n3": "524",
+      "year": 2022,
+      "agriculture_pct": 98.1,
+      "industry_pct": 0.3,
+      "domestic_pct": 1.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "New Zealand",
+      "iso3": "NZL",
+      "iso_n3": "554",
+      "year": 2022,
+      "agriculture_pct": 64.9,
+      "industry_pct": 24.0,
+      "domestic_pct": 11.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Oman",
+      "iso3": "OMN",
+      "iso_n3": "512",
+      "year": 2022,
+      "agriculture_pct": 80.8,
+      "industry_pct": 12.4,
+      "domestic_pct": 6.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Pakistan",
+      "iso3": "PAK",
+      "iso_n3": "586",
+      "year": 2022,
+      "agriculture_pct": 94.0,
+      "industry_pct": 0.8,
+      "domestic_pct": 5.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Panama",
+      "iso3": "PAN",
+      "iso_n3": "591",
+      "year": 2022,
+      "agriculture_pct": 36.8,
+      "industry_pct": 0.5,
+      "domestic_pct": 62.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Peru",
+      "iso3": "PER",
+      "iso_n3": "604",
+      "year": 2022,
+      "agriculture_pct": 81.5,
+      "industry_pct": 6.4,
+      "domestic_pct": 12.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Philippines",
+      "iso3": "PHL",
+      "iso_n3": "608",
+      "year": 2022,
+      "agriculture_pct": 74.6,
+      "industry_pct": 14.9,
+      "domestic_pct": 10.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso3": "PNG",
+      "iso_n3": "598",
+      "year": 2022,
+      "agriculture_pct": 0.3,
+      "industry_pct": 42.7,
+      "domestic_pct": 57.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Poland",
+      "iso3": "POL",
+      "iso_n3": "616",
+      "year": 2022,
+      "agriculture_pct": 13.0,
+      "industry_pct": 65.5,
+      "domestic_pct": 21.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Puerto Rico",
+      "iso3": "PRI",
+      "iso_n3": "630",
+      "year": 2022,
+      "agriculture_pct": 3.5,
+      "industry_pct": 72.2,
+      "domestic_pct": 24.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "North Korea",
+      "iso3": "PRK",
+      "iso_n3": "408",
+      "year": 2022,
+      "agriculture_pct": 76.3,
+      "industry_pct": 13.2,
+      "domestic_pct": 10.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Portugal",
+      "iso3": "PRT",
+      "iso_n3": "620",
+      "year": 2022,
+      "agriculture_pct": 55.4,
+      "industry_pct": 29.7,
+      "domestic_pct": 14.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Paraguay",
+      "iso3": "PRY",
+      "iso_n3": "600",
+      "year": 2022,
+      "agriculture_pct": 78.6,
+      "industry_pct": 6.4,
+      "domestic_pct": 15.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Palestine",
+      "iso3": "PSE",
+      "iso_n3": "275",
+      "year": 2021,
+      "agriculture_pct": 49.2,
+      "industry_pct": 8.9,
+      "domestic_pct": 56.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Qatar",
+      "iso3": "QAT",
+      "iso_n3": "634",
+      "year": 2022,
+      "agriculture_pct": 33.3,
+      "industry_pct": 4.3,
+      "domestic_pct": 62.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Romania",
+      "iso3": "ROU",
+      "iso_n3": "642",
+      "year": 2022,
+      "agriculture_pct": 36.3,
+      "industry_pct": 48.3,
+      "domestic_pct": 15.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Russia",
+      "iso3": "RUS",
+      "iso_n3": "643",
+      "year": 2022,
+      "agriculture_pct": 28.8,
+      "industry_pct": 44.8,
+      "domestic_pct": 26.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Rwanda",
+      "iso3": "RWA",
+      "iso_n3": "646",
+      "year": 2022,
+      "agriculture_pct": 60.1,
+      "industry_pct": 1.7,
+      "domestic_pct": 38.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso3": "SAU",
+      "iso_n3": "682",
+      "year": 2022,
+      "agriculture_pct": 81.6,
+      "industry_pct": 5.4,
+      "domestic_pct": 13.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Sudan",
+      "iso3": "SDN",
+      "iso_n3": "729",
+      "year": 2022,
+      "agriculture_pct": 96.2,
+      "industry_pct": 0.3,
+      "domestic_pct": 3.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Senegal",
+      "iso3": "SEN",
+      "iso_n3": "686",
+      "year": 2022,
+      "agriculture_pct": 91.3,
+      "industry_pct": 0.0,
+      "domestic_pct": 8.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Singapore",
+      "iso3": "SGP",
+      "iso_n3": "702",
+      "year": 2022,
+      "agriculture_pct": 0,
+      "industry_pct": 45.1,
+      "domestic_pct": 54.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Sierra Leone",
+      "iso3": "SLE",
+      "iso_n3": "694",
+      "year": 2022,
+      "agriculture_pct": 21.5,
+      "industry_pct": 26.2,
+      "domestic_pct": 52.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "El Salvador",
+      "iso3": "SLV",
+      "iso_n3": "222",
+      "year": 2022,
+      "agriculture_pct": 72.8,
+      "industry_pct": 4.9,
+      "domestic_pct": 22.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Somalia",
+      "iso3": "SOM",
+      "iso_n3": "706",
+      "year": 2022,
+      "agriculture_pct": 99.5,
+      "industry_pct": 0.1,
+      "domestic_pct": 0.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Serbia",
+      "iso3": "SRB",
+      "iso_n3": "688",
+      "year": 2022,
+      "agriculture_pct": 8.3,
+      "industry_pct": 77.9,
+      "domestic_pct": 13.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "South Sudan",
+      "iso3": "SSD",
+      "iso_n3": "728",
+      "year": 2022,
+      "agriculture_pct": 36.5,
+      "industry_pct": 34.2,
+      "domestic_pct": 29.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "iso3": "STP",
+      "iso_n3": "678",
+      "year": 2022,
+      "agriculture_pct": 62.6,
+      "industry_pct": 1.5,
+      "domestic_pct": 35.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Suriname",
+      "iso3": "SUR",
+      "iso_n3": "740",
+      "year": 2022,
+      "agriculture_pct": 70.0,
+      "industry_pct": 22.0,
+      "domestic_pct": 8.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Slovakia",
+      "iso3": "SVK",
+      "iso_n3": "703",
+      "year": 2022,
+      "agriculture_pct": 5.8,
+      "industry_pct": 39.8,
+      "domestic_pct": 54.3,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Slovenia",
+      "iso3": "SVN",
+      "iso_n3": "705",
+      "year": 2022,
+      "agriculture_pct": 0.4,
+      "industry_pct": 78.0,
+      "domestic_pct": 21.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Sweden",
+      "iso3": "SWE",
+      "iso_n3": "752",
+      "year": 2022,
+      "agriculture_pct": 4.9,
+      "industry_pct": 61.3,
+      "domestic_pct": 33.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Eswatini",
+      "iso3": "SWZ",
+      "iso_n3": "748",
+      "year": 2022,
+      "agriculture_pct": 94.2,
+      "industry_pct": 1.9,
+      "domestic_pct": 3.9,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "iso_n3": "690",
+      "year": 2022,
+      "agriculture_pct": 6.6,
+      "industry_pct": 27.7,
+      "domestic_pct": 65.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Syria",
+      "iso3": "SYR",
+      "iso_n3": "760",
+      "year": 2022,
+      "agriculture_pct": 87.5,
+      "industry_pct": 3.7,
+      "domestic_pct": 8.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Chad",
+      "iso3": "TCD",
+      "iso_n3": "148",
+      "year": 2022,
+      "agriculture_pct": 76.4,
+      "industry_pct": 11.8,
+      "domestic_pct": 11.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Togo",
+      "iso3": "TGO",
+      "iso_n3": "768",
+      "year": 2022,
+      "agriculture_pct": 34.1,
+      "industry_pct": 2.8,
+      "domestic_pct": 63.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Thailand",
+      "iso3": "THA",
+      "iso_n3": "764",
+      "year": 2022,
+      "agriculture_pct": 90.4,
+      "industry_pct": 4.8,
+      "domestic_pct": 4.8,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Tajikistan",
+      "iso3": "TJK",
+      "iso_n3": "762",
+      "year": 2022,
+      "agriculture_pct": 74.5,
+      "industry_pct": 16.3,
+      "domestic_pct": 9.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Turkmenistan",
+      "iso3": "TKM",
+      "iso_n3": "795",
+      "year": 2022,
+      "agriculture_pct": 92.7,
+      "industry_pct": 4.6,
+      "domestic_pct": 2.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "East Timor",
+      "iso3": "TLS",
+      "iso_n3": "626",
+      "year": 2022,
+      "agriculture_pct": 91.4,
+      "industry_pct": 0.2,
+      "domestic_pct": 8.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "iso3": "TTO",
+      "iso_n3": "780",
+      "year": 2022,
+      "agriculture_pct": 4.4,
+      "industry_pct": 33.6,
+      "domestic_pct": 62.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Tunisia",
+      "iso3": "TUN",
+      "iso_n3": "788",
+      "year": 2022,
+      "agriculture_pct": 75.5,
+      "industry_pct": 1.7,
+      "domestic_pct": 22.7,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Turkey",
+      "iso3": "TUR",
+      "iso_n3": "792",
+      "year": 2022,
+      "agriculture_pct": 86.9,
+      "industry_pct": 2.0,
+      "domestic_pct": 11.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Tanzania",
+      "iso3": "TZA",
+      "iso_n3": "834",
+      "year": 2022,
+      "agriculture_pct": 89.4,
+      "industry_pct": 0.5,
+      "domestic_pct": 10.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Uganda",
+      "iso3": "UGA",
+      "iso_n3": "800",
+      "year": 2022,
+      "agriculture_pct": 40.7,
+      "industry_pct": 7.8,
+      "domestic_pct": 51.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Ukraine",
+      "iso3": "UKR",
+      "iso_n3": "804",
+      "year": 2022,
+      "agriculture_pct": 21.1,
+      "industry_pct": 44.8,
+      "domestic_pct": 34.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Uruguay",
+      "iso3": "URY",
+      "iso_n3": "858",
+      "year": 2022,
+      "agriculture_pct": 77.2,
+      "industry_pct": 13.4,
+      "domestic_pct": 9.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "United States",
+      "iso3": "USA",
+      "iso_n3": "840",
+      "year": 2022,
+      "agriculture_pct": 39.7,
+      "industry_pct": 47.2,
+      "domestic_pct": 13.1,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Uzbekistan",
+      "iso3": "UZB",
+      "iso_n3": "860",
+      "year": 2022,
+      "agriculture_pct": 92.1,
+      "industry_pct": 2.7,
+      "domestic_pct": 5.2,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "iso3": "VCT",
+      "iso_n3": "670",
+      "year": 2022,
+      "agriculture_pct": 0,
+      "industry_pct": 0.0,
+      "domestic_pct": 100.0,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Venezuela",
+      "iso3": "VEN",
+      "iso_n3": "862",
+      "year": 2022,
+      "agriculture_pct": 73.9,
+      "industry_pct": 3.5,
+      "domestic_pct": 22.6,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Vietnam",
+      "iso3": "VNM",
+      "iso_n3": "704",
+      "year": 2022,
+      "agriculture_pct": 94.8,
+      "industry_pct": 3.7,
+      "domestic_pct": 1.5,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Yemen",
+      "iso3": "YEM",
+      "iso_n3": "887",
+      "year": 2022,
+      "agriculture_pct": 90.7,
+      "industry_pct": 1.8,
+      "domestic_pct": 7.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "South Africa",
+      "iso3": "ZAF",
+      "iso_n3": "710",
+      "year": 2022,
+      "agriculture_pct": 59.4,
+      "industry_pct": 23.2,
+      "domestic_pct": 17.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Zambia",
+      "iso3": "ZMB",
+      "iso_n3": "894",
+      "year": 2022,
+      "agriculture_pct": 73.3,
+      "industry_pct": 8.3,
+      "domestic_pct": 18.4,
+      "source": "aquastat-wdi"
+    },
+    {
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "iso_n3": "716",
+      "year": 2022,
+      "agriculture_pct": 87.2,
+      "industry_pct": 1.7,
+      "domestic_pct": 11.1,
+      "source": "aquastat-wdi"
+    }
+  ]
+}

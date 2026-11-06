@@ -1,0 +1,37 @@
+{
+  "id": "bands",
+  "title": "Carbon intensity classes",
+  "description": "The bands used to colour the map, in grams of CO2 equivalent per kWh.",
+  "records": [
+    {
+      "band": "Under 100",
+      "min_g_kwh": 0,
+      "max_g_kwh": 100,
+      "source": "ember-yearly"
+    },
+    {
+      "band": "100 to 250",
+      "min_g_kwh": 100,
+      "max_g_kwh": 250,
+      "source": "ember-yearly"
+    },
+    {
+      "band": "250 to 400",
+      "min_g_kwh": 250,
+      "max_g_kwh": 400,
+      "source": "ember-yearly"
+    },
+    {
+      "band": "400 to 600",
+      "min_g_kwh": 400,
+      "max_g_kwh": 600,
+      "source": "ember-yearly"
+    },
+    {
+      "band": "600 or more",
+      "min_g_kwh": 600,
+      "max_g_kwh": null,
+      "source": "ember-yearly"
+    }
+  ]
+}

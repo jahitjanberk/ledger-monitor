@@ -1,0 +1,42 @@
+{
+  "variant": "air",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "PM2.5 exposure and air pollution deaths by country",
+      "description": "Population-weighted PM2.5 (SatPM, latest year), WHO's SDG 11.6.2 estimate, and IHME deaths attributable to air pollution in 2023.",
+      "rows": 241
+    },
+    {
+      "id": "world_pm25",
+      "title": "World PM2.5 exposure over time",
+      "description": "Population-weighted PM2.5 for the world by year (SatPM).",
+      "rows": 27
+    },
+    {
+      "id": "world_deaths",
+      "title": "World air pollution deaths over time",
+      "description": "Deaths attributable to air pollution by type, 1990 to 2023 (IHME GBD 2023).",
+      "rows": 34
+    },
+    {
+      "id": "regions",
+      "title": "PM2.5 by continent",
+      "description": "Population-weighted PM2.5 by continent, latest year (SatPM).",
+      "rows": 6
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the map, as multiples of the WHO 2021 guideline of 5 \u00b5g/m\u00b3.",
+      "rows": 5
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from WHO and IQAir.",
+      "rows": 6
+    }
+  ]
+}

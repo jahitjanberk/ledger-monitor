@@ -1,0 +1,1474 @@
+{
+  "id": "drinking",
+  "title": "Safely managed drinking water by country",
+  "description": "Share of people using safely managed drinking water, and the number not doing so, 2024 or latest (WHO/UNICEF JMP).",
+  "records": [
+    {
+      "country": "Afghanistan",
+      "iso3": "AFG",
+      "iso_n3": "004",
+      "year": 2024,
+      "safely_managed_pct": 30.6,
+      "people_without": 29616670,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Albania",
+      "iso3": "ALB",
+      "iso_n3": "008",
+      "year": 2024,
+      "safely_managed_pct": 70.8,
+      "people_without": 815370,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Andorra",
+      "iso3": "AND",
+      "iso_n3": "020",
+      "year": 2024,
+      "safely_managed_pct": 90.6,
+      "people_without": 7669,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso3": "ARE",
+      "iso_n3": "784",
+      "year": 2024,
+      "safely_managed_pct": 98.6,
+      "people_without": 149823,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Armenia",
+      "iso3": "ARM",
+      "iso_n3": "051",
+      "year": 2024,
+      "safely_managed_pct": 82.1,
+      "people_without": 533126,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "American Samoa",
+      "iso3": "ASM",
+      "iso_n3": "016",
+      "year": 2024,
+      "safely_managed_pct": 90.5,
+      "people_without": 4425,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Austria",
+      "iso3": "AUT",
+      "iso_n3": "040",
+      "year": 2024,
+      "safely_managed_pct": 98.9,
+      "people_without": 101101,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Azerbaijan",
+      "iso3": "AZE",
+      "iso_n3": "031",
+      "year": 2024,
+      "safely_managed_pct": 57.8,
+      "people_without": 4360813,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Belgium",
+      "iso3": "BEL",
+      "iso_n3": "056",
+      "year": 2024,
+      "safely_managed_pct": 99.5,
+      "people_without": 53161,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Benin",
+      "iso3": "BEN",
+      "iso_n3": "204",
+      "year": 2024,
+      "safely_managed_pct": 17.7,
+      "people_without": 11903280,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bonaire Sint Eustatius and Saba",
+      "iso3": "BES",
+      "iso_n3": "535",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bangladesh",
+      "iso3": "BGD",
+      "iso_n3": "050",
+      "year": 2024,
+      "safely_managed_pct": 59.1,
+      "people_without": 70942870,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bulgaria",
+      "iso3": "BGR",
+      "iso_n3": "100",
+      "year": 2024,
+      "safely_managed_pct": 96.2,
+      "people_without": 256314,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bahrain",
+      "iso3": "BHR",
+      "iso_n3": "048",
+      "year": 2024,
+      "safely_managed_pct": 98.9,
+      "people_without": 17614,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "iso3": "BIH",
+      "iso_n3": "070",
+      "year": 2024,
+      "safely_managed_pct": 86.4,
+      "people_without": 430335,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Saint Barthelemy",
+      "iso3": "BLM",
+      "iso_n3": "652",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Belarus",
+      "iso3": "BLR",
+      "iso_n3": "112",
+      "year": 2024,
+      "safely_managed_pct": 93.1,
+      "people_without": 636996,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Brazil",
+      "iso3": "BRA",
+      "iso_n3": "076",
+      "year": 2024,
+      "safely_managed_pct": 88.6,
+      "people_without": 24117038,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Bhutan",
+      "iso3": "BTN",
+      "iso_n3": "064",
+      "year": 2024,
+      "safely_managed_pct": 65.6,
+      "people_without": 272330,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Botswana",
+      "iso3": "BWA",
+      "iso_n3": "072",
+      "year": 2024,
+      "safely_managed_pct": 63.3,
+      "people_without": 925484,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Central African Republic",
+      "iso3": "CAF",
+      "iso_n3": "140",
+      "year": 2024,
+      "safely_managed_pct": 6.2,
+      "people_without": 4999255,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Canada",
+      "iso3": "CAN",
+      "iso_n3": "124",
+      "year": 2024,
+      "safely_managed_pct": 96.9,
+      "people_without": 1235862,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Switzerland",
+      "iso3": "CHE",
+      "iso_n3": "756",
+      "year": 2024,
+      "safely_managed_pct": 96.7,
+      "people_without": 294426,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Chile",
+      "iso3": "CHL",
+      "iso_n3": "152",
+      "year": 2024,
+      "safely_managed_pct": 97.8,
+      "people_without": 429142,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Cote d'Ivoire",
+      "iso3": "CIV",
+      "iso_n3": "384",
+      "year": 2024,
+      "safely_managed_pct": 36.4,
+      "people_without": 20294544,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Democratic Republic of Congo",
+      "iso3": "COD",
+      "iso_n3": "180",
+      "year": 2024,
+      "safely_managed_pct": 11.9,
+      "people_without": 96302280,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Congo",
+      "iso3": "COG",
+      "iso_n3": "178",
+      "year": 2021,
+      "safely_managed_pct": 45.9,
+      "people_without": 3189153,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Colombia",
+      "iso3": "COL",
+      "iso_n3": "170",
+      "year": 2024,
+      "safely_managed_pct": 74.3,
+      "people_without": 13571010,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Costa Rica",
+      "iso3": "CRI",
+      "iso_n3": "188",
+      "year": 2024,
+      "safely_managed_pct": 80.5,
+      "people_without": 1000329,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Cyprus",
+      "iso3": "CYP",
+      "iso_n3": "196",
+      "year": 2024,
+      "safely_managed_pct": 99.7,
+      "people_without": 3788,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Czechia",
+      "iso3": "CZE",
+      "iso_n3": "203",
+      "year": 2024,
+      "safely_managed_pct": 98.1,
+      "people_without": 199164,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Germany",
+      "iso3": "DEU",
+      "iso_n3": "276",
+      "year": 2024,
+      "safely_managed_pct": 99.9,
+      "people_without": 69927,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Denmark",
+      "iso3": "DNK",
+      "iso_n3": "208",
+      "year": 2024,
+      "safely_managed_pct": 99.9,
+      "people_without": 4852,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Dominican Republic",
+      "iso3": "DOM",
+      "iso_n3": "214",
+      "year": 2024,
+      "safely_managed_pct": 45.3,
+      "people_without": 6247170,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Algeria",
+      "iso3": "DZA",
+      "iso_n3": "012",
+      "year": 2024,
+      "safely_managed_pct": 69.0,
+      "people_without": 14498774,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Ecuador",
+      "iso3": "ECU",
+      "iso_n3": "218",
+      "year": 2024,
+      "safely_managed_pct": 69.9,
+      "people_without": 5461136,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Egypt",
+      "iso3": "EGY",
+      "iso_n3": "818",
+      "year": 2024,
+      "safely_managed_pct": 78.9,
+      "people_without": 24542776,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Spain",
+      "iso3": "ESP",
+      "iso_n3": "724",
+      "year": 2024,
+      "safely_managed_pct": 99.5,
+      "people_without": 259452,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Estonia",
+      "iso3": "EST",
+      "iso_n3": "233",
+      "year": 2024,
+      "safely_managed_pct": 98.9,
+      "people_without": 14369,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Ethiopia",
+      "iso3": "ETH",
+      "iso_n3": "231",
+      "year": 2024,
+      "safely_managed_pct": 13.5,
+      "people_without": 114169360,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Finland",
+      "iso3": "FIN",
+      "iso_n3": "246",
+      "year": 2024,
+      "safely_managed_pct": 99.6,
+      "people_without": 19840,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Fiji",
+      "iso3": "FJI",
+      "iso_n3": "242",
+      "year": 2024,
+      "safely_managed_pct": 42.1,
+      "people_without": 537666,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "France",
+      "iso3": "FRA",
+      "iso_n3": "250",
+      "year": 2024,
+      "safely_managed_pct": 99.7,
+      "people_without": 191194,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "United Kingdom",
+      "iso3": "GBR",
+      "iso_n3": "826",
+      "year": 2024,
+      "safely_managed_pct": 99.8,
+      "people_without": 122408,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Georgia",
+      "iso3": "GEO",
+      "iso_n3": "268",
+      "year": 2024,
+      "safely_managed_pct": 70.5,
+      "people_without": 1122249,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Ghana",
+      "iso3": "GHA",
+      "iso_n3": "288",
+      "year": 2024,
+      "safely_managed_pct": 42.9,
+      "people_without": 19643804,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Gibraltar",
+      "iso3": "GIB",
+      "iso_n3": "292",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Guadeloupe",
+      "iso3": "GLP",
+      "iso_n3": "312",
+      "year": 2024,
+      "safely_managed_pct": 96.7,
+      "people_without": 12555,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Gambia",
+      "iso3": "GMB",
+      "iso_n3": "270",
+      "year": 2024,
+      "safely_managed_pct": 48.2,
+      "people_without": 1430253,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "iso3": "GNB",
+      "iso_n3": "624",
+      "year": 2024,
+      "safely_managed_pct": 24.0,
+      "people_without": 1673357,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Greece",
+      "iso3": "GRC",
+      "iso_n3": "300",
+      "year": 2024,
+      "safely_managed_pct": 96.7,
+      "people_without": 332969,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Grenada",
+      "iso3": "GRD",
+      "iso_n3": "308",
+      "year": 2017,
+      "safely_managed_pct": 89.9,
+      "people_without": 11639,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Guatemala",
+      "iso3": "GTM",
+      "iso_n3": "320",
+      "year": 2024,
+      "safely_managed_pct": 48.8,
+      "people_without": 9426413,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "French Guiana",
+      "iso3": "GUF",
+      "iso_n3": "254",
+      "year": 2024,
+      "safely_managed_pct": 92.2,
+      "people_without": 23950,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Guam",
+      "iso3": "GUM",
+      "iso_n3": "316",
+      "year": 2024,
+      "safely_managed_pct": 94.0,
+      "people_without": 10071,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Guyana",
+      "iso3": "GUY",
+      "iso_n3": "328",
+      "year": 2024,
+      "safely_managed_pct": 67.2,
+      "people_without": 272809,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Hong Kong",
+      "iso3": "HKG",
+      "iso_n3": "344",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Honduras",
+      "iso3": "HND",
+      "iso_n3": "340",
+      "year": 2024,
+      "safely_managed_pct": 65.5,
+      "people_without": 3733112,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Croatia",
+      "iso3": "HRV",
+      "iso_n3": "191",
+      "year": 2024,
+      "safely_managed_pct": 87.3,
+      "people_without": 493396,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Hungary",
+      "iso3": "HUN",
+      "iso_n3": "348",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Indonesia",
+      "iso3": "IDN",
+      "iso_n3": "360",
+      "year": 2024,
+      "safely_managed_pct": 30.5,
+      "people_without": 197134740,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Isle of Man",
+      "iso3": "IMN",
+      "iso_n3": "833",
+      "year": 2024,
+      "safely_managed_pct": 99.9,
+      "people_without": 75,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "India",
+      "iso3": "IND",
+      "iso_n3": "356",
+      "year": 2024,
+      "safely_managed_pct": 76.4,
+      "people_without": 341808670,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Ireland",
+      "iso3": "IRL",
+      "iso_n3": "372",
+      "year": 2024,
+      "safely_managed_pct": 96.1,
+      "people_without": 203632,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Iran",
+      "iso3": "IRN",
+      "iso_n3": "364",
+      "year": 2024,
+      "safely_managed_pct": 94.4,
+      "people_without": 5116614,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Iraq",
+      "iso3": "IRQ",
+      "iso_n3": "368",
+      "year": 2024,
+      "safely_managed_pct": 59.8,
+      "people_without": 18496344,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Iceland",
+      "iso3": "ISL",
+      "iso_n3": "352",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Israel",
+      "iso3": "ISR",
+      "iso_n3": "376",
+      "year": 2024,
+      "safely_managed_pct": 99.5,
+      "people_without": 50503,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Italy",
+      "iso3": "ITA",
+      "iso_n3": "380",
+      "year": 2024,
+      "safely_managed_pct": 96.8,
+      "people_without": 1923636,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Jersey",
+      "iso3": "JEY",
+      "iso_n3": "832",
+      "year": 2024,
+      "safely_managed_pct": 92.8,
+      "people_without": 7430,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Jordan",
+      "iso3": "JOR",
+      "iso_n3": "400",
+      "year": 2024,
+      "safely_managed_pct": 89.0,
+      "people_without": 1276558,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Japan",
+      "iso3": "JPN",
+      "iso_n3": "392",
+      "year": 2024,
+      "safely_managed_pct": 98.7,
+      "people_without": 1575342,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Kazakhstan",
+      "iso3": "KAZ",
+      "iso_n3": "398",
+      "year": 2024,
+      "safely_managed_pct": 91.5,
+      "people_without": 1741016,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "iso3": "KGZ",
+      "iso_n3": "417",
+      "year": 2024,
+      "safely_managed_pct": 73.9,
+      "people_without": 1876892,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Cambodia",
+      "iso3": "KHM",
+      "iso_n3": "116",
+      "year": 2024,
+      "safely_managed_pct": 30.0,
+      "people_without": 12349705,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Kiribati",
+      "iso3": "KIR",
+      "iso_n3": "296",
+      "year": 2024,
+      "safely_managed_pct": 15.1,
+      "people_without": 114222,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "South Korea",
+      "iso3": "KOR",
+      "iso_n3": "410",
+      "year": 2024,
+      "safely_managed_pct": 99.3,
+      "people_without": 370986,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Kuwait",
+      "iso3": "KWT",
+      "iso_n3": "414",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Laos",
+      "iso3": "LAO",
+      "iso_n3": "418",
+      "year": 2024,
+      "safely_managed_pct": 35.2,
+      "people_without": 5035796,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Lebanon",
+      "iso3": "LBN",
+      "iso_n3": "422",
+      "year": 2024,
+      "safely_managed_pct": 47.7,
+      "people_without": 3036518,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Liechtenstein",
+      "iso3": "LIE",
+      "iso_n3": "438",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso3": "LKA",
+      "iso_n3": "144",
+      "year": 2024,
+      "safely_managed_pct": 46.9,
+      "people_without": 12260375,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Lesotho",
+      "iso3": "LSO",
+      "iso_n3": "426",
+      "year": 2024,
+      "safely_managed_pct": 31.3,
+      "people_without": 1605336,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Lithuania",
+      "iso3": "LTU",
+      "iso_n3": "440",
+      "year": 2024,
+      "safely_managed_pct": 96.7,
+      "people_without": 93391,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Luxembourg",
+      "iso3": "LUX",
+      "iso_n3": "442",
+      "year": 2024,
+      "safely_managed_pct": 99.7,
+      "people_without": 2335,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Latvia",
+      "iso3": "LVA",
+      "iso_n3": "428",
+      "year": 2024,
+      "safely_managed_pct": 97.0,
+      "people_without": 55943,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Macao",
+      "iso3": "MAC",
+      "iso_n3": "446",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Saint Martin (French part)",
+      "iso3": "MAF",
+      "iso_n3": "663",
+      "year": 2024,
+      "safely_managed_pct": 96.6,
+      "people_without": 882,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Morocco",
+      "iso3": "MAR",
+      "iso_n3": "504",
+      "year": 2024,
+      "safely_managed_pct": 80.0,
+      "people_without": 7623164,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Monaco",
+      "iso3": "MCO",
+      "iso_n3": "492",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Moldova",
+      "iso3": "MDA",
+      "iso_n3": "498",
+      "year": 2024,
+      "safely_managed_pct": 75.8,
+      "people_without": 733978,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Madagascar",
+      "iso3": "MDG",
+      "iso_n3": "450",
+      "year": 2024,
+      "safely_managed_pct": 22.1,
+      "people_without": 24914766,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Mexico",
+      "iso3": "MEX",
+      "iso_n3": "484",
+      "year": 2024,
+      "safely_managed_pct": 43.0,
+      "people_without": 74634440,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "North Macedonia",
+      "iso3": "MKD",
+      "iso_n3": "807",
+      "year": 2024,
+      "safely_managed_pct": 80.8,
+      "people_without": 350190,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Malta",
+      "iso3": "MLT",
+      "iso_n3": "470",
+      "year": 2024,
+      "safely_managed_pct": 99.8,
+      "people_without": 935,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Myanmar",
+      "iso3": "MMR",
+      "iso_n3": "104",
+      "year": 2024,
+      "safely_managed_pct": 59.7,
+      "people_without": 21950470,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Montenegro",
+      "iso3": "MNE",
+      "iso_n3": "499",
+      "year": 2024,
+      "safely_managed_pct": 85.5,
+      "people_without": 92574,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Mongolia",
+      "iso3": "MNG",
+      "iso_n3": "496",
+      "year": 2024,
+      "safely_managed_pct": 43.4,
+      "people_without": 1968521,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "iso3": "MNP",
+      "iso_n3": "580",
+      "year": 2024,
+      "safely_managed_pct": 81.5,
+      "people_without": 8212,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Mozambique",
+      "iso3": "MOZ",
+      "iso_n3": "508",
+      "year": 2024,
+      "safely_managed_pct": 27.5,
+      "people_without": 25093158,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Martinique",
+      "iso3": "MTQ",
+      "iso_n3": "474",
+      "year": 2024,
+      "safely_managed_pct": 99.0,
+      "people_without": 3487,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Malawi",
+      "iso3": "MWI",
+      "iso_n3": "454",
+      "year": 2024,
+      "safely_managed_pct": 18.2,
+      "people_without": 17717996,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Malaysia",
+      "iso3": "MYS",
+      "iso_n3": "458",
+      "year": 2024,
+      "safely_managed_pct": 94.7,
+      "people_without": 1884428,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Mayotte",
+      "iso3": "MYT",
+      "iso_n3": "175",
+      "year": 2023,
+      "safely_managed_pct": 92.5,
+      "people_without": 23824,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "New Caledonia",
+      "iso3": "NCL",
+      "iso_n3": "540",
+      "year": 2024,
+      "safely_managed_pct": 96.9,
+      "people_without": 9173,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Nigeria",
+      "iso3": "NGA",
+      "iso_n3": "566",
+      "year": 2024,
+      "safely_managed_pct": 29.9,
+      "people_without": 163097620,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Niue",
+      "iso3": "NIU",
+      "iso_n3": "570",
+      "year": 2024,
+      "safely_managed_pct": 93.0,
+      "people_without": 128,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Netherlands",
+      "iso3": "NLD",
+      "iso_n3": "528",
+      "year": 2024,
+      "safely_managed_pct": 100.0,
+      "people_without": 7382,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Norway",
+      "iso3": "NOR",
+      "iso_n3": "578",
+      "year": 2024,
+      "safely_managed_pct": 99.1,
+      "people_without": 52282,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Nepal",
+      "iso3": "NPL",
+      "iso_n3": "524",
+      "year": 2024,
+      "safely_managed_pct": 16.5,
+      "people_without": 24762520,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Nauru",
+      "iso3": "NRU",
+      "iso_n3": "520",
+      "year": 2024,
+      "safely_managed_pct": 18.7,
+      "people_without": 9717,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "New Zealand",
+      "iso3": "NZL",
+      "iso_n3": "554",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Oman",
+      "iso3": "OMN",
+      "iso_n3": "512",
+      "year": 2024,
+      "safely_managed_pct": 91.1,
+      "people_without": 469995,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Pakistan",
+      "iso3": "PAK",
+      "iso_n3": "586",
+      "year": 2024,
+      "safely_managed_pct": 45.0,
+      "people_without": 138264030,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Peru",
+      "iso3": "PER",
+      "iso_n3": "604",
+      "year": 2024,
+      "safely_managed_pct": 49.4,
+      "people_without": 17304514,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Philippines",
+      "iso3": "PHL",
+      "iso_n3": "608",
+      "year": 2024,
+      "safely_managed_pct": 48.5,
+      "people_without": 59677960,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Palau",
+      "iso3": "PLW",
+      "iso_n3": "585",
+      "year": 2024,
+      "safely_managed_pct": 90.8,
+      "people_without": 1632,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Poland",
+      "iso3": "POL",
+      "iso_n3": "616",
+      "year": 2024,
+      "safely_managed_pct": 88.7,
+      "people_without": 4364354,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Puerto Rico",
+      "iso3": "PRI",
+      "iso_n3": "630",
+      "year": 2024,
+      "safely_managed_pct": 98.9,
+      "people_without": 34359,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "North Korea",
+      "iso3": "PRK",
+      "iso_n3": "408",
+      "year": 2023,
+      "safely_managed_pct": 66.6,
+      "people_without": 8820474,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Portugal",
+      "iso3": "PRT",
+      "iso_n3": "620",
+      "year": 2024,
+      "safely_managed_pct": 95.2,
+      "people_without": 498606,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Paraguay",
+      "iso3": "PRY",
+      "iso_n3": "600",
+      "year": 2024,
+      "safely_managed_pct": 64.4,
+      "people_without": 2469223,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Palestine",
+      "iso3": "PSE",
+      "iso_n3": "275",
+      "year": 2024,
+      "safely_managed_pct": 80.6,
+      "people_without": 1063807,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "French Polynesia",
+      "iso3": "PYF",
+      "iso_n3": "258",
+      "year": 2024,
+      "safely_managed_pct": 90.4,
+      "people_without": 26916,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Qatar",
+      "iso3": "QAT",
+      "iso_n3": "634",
+      "year": 2024,
+      "safely_managed_pct": 95.3,
+      "people_without": 141897,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Reunion",
+      "iso3": "REU",
+      "iso_n3": "638",
+      "year": 2024,
+      "safely_managed_pct": 95.7,
+      "people_without": 37806,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Romania",
+      "iso3": "ROU",
+      "iso_n3": "642",
+      "year": 2024,
+      "safely_managed_pct": 82.2,
+      "people_without": 3387920,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Russia",
+      "iso3": "RUS",
+      "iso_n3": "643",
+      "year": 2024,
+      "safely_managed_pct": 76.3,
+      "people_without": 34379316,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Senegal",
+      "iso3": "SEN",
+      "iso_n3": "686",
+      "year": 2024,
+      "safely_managed_pct": 27.2,
+      "people_without": 13470714,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Singapore",
+      "iso3": "SGP",
+      "iso_n3": "702",
+      "year": 2024,
+      "safely_managed_pct": 100,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Saint Helena",
+      "iso3": "SHN",
+      "iso_n3": "654",
+      "year": 2024,
+      "safely_managed_pct": 98.4,
+      "people_without": 84,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Sierra Leone",
+      "iso3": "SLE",
+      "iso_n3": "694",
+      "year": 2024,
+      "safely_managed_pct": 10.9,
+      "people_without": 7700441,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "San Marino",
+      "iso3": "SMR",
+      "iso_n3": "674",
+      "year": 2024,
+      "safely_managed_pct": 100.0,
+      "people_without": 0,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "iso3": "SPM",
+      "iso_n3": "666",
+      "year": 2024,
+      "safely_managed_pct": 96.0,
+      "people_without": 223,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Serbia",
+      "iso3": "SRB",
+      "iso_n3": "688",
+      "year": 2024,
+      "safely_managed_pct": 75.0,
+      "people_without": 1686259,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "iso3": "STP",
+      "iso_n3": "678",
+      "year": 2024,
+      "safely_managed_pct": 36.7,
+      "people_without": 149141,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Suriname",
+      "iso3": "SUR",
+      "iso_n3": "740",
+      "year": 2024,
+      "safely_managed_pct": 55.8,
+      "people_without": 280119,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Slovakia",
+      "iso3": "SVK",
+      "iso_n3": "703",
+      "year": 2024,
+      "safely_managed_pct": 99.6,
+      "people_without": 23593,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Slovenia",
+      "iso3": "SVN",
+      "iso_n3": "705",
+      "year": 2024,
+      "safely_managed_pct": 99.6,
+      "people_without": 9013,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Sweden",
+      "iso3": "SWE",
+      "iso_n3": "752",
+      "year": 2024,
+      "safely_managed_pct": 99.8,
+      "people_without": 25372,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Eswatini",
+      "iso3": "SWZ",
+      "iso_n3": "748",
+      "year": 2024,
+      "safely_managed_pct": 38.2,
+      "people_without": 767858,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Seychelles",
+      "iso3": "SYC",
+      "iso_n3": "690",
+      "year": 2024,
+      "safely_managed_pct": 64.7,
+      "people_without": 46035,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "iso3": "TCA",
+      "iso_n3": "796",
+      "year": 2024,
+      "safely_managed_pct": 47.0,
+      "people_without": 24640,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Chad",
+      "iso3": "TCD",
+      "iso_n3": "148",
+      "year": 2024,
+      "safely_managed_pct": 6.3,
+      "people_without": 19011990,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Togo",
+      "iso3": "TGO",
+      "iso_n3": "768",
+      "year": 2024,
+      "safely_managed_pct": 20.5,
+      "people_without": 7562402,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Tajikistan",
+      "iso3": "TJK",
+      "iso_n3": "762",
+      "year": 2024,
+      "safely_managed_pct": 65.1,
+      "people_without": 3695379,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Turkmenistan",
+      "iso3": "TKM",
+      "iso_n3": "795",
+      "year": 2024,
+      "safely_managed_pct": 94.9,
+      "people_without": 385701,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Tonga",
+      "iso3": "TON",
+      "iso_n3": "776",
+      "year": 2024,
+      "safely_managed_pct": 29.6,
+      "people_without": 73341,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "iso3": "TTO",
+      "iso_n3": "780",
+      "year": 2024,
+      "safely_managed_pct": 69.4,
+      "people_without": 461845,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Tunisia",
+      "iso3": "TUN",
+      "iso_n3": "788",
+      "year": 2024,
+      "safely_managed_pct": 65.0,
+      "people_without": 4299676,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Tuvalu",
+      "iso3": "TUV",
+      "iso_n3": "798",
+      "year": 2024,
+      "safely_managed_pct": 8.7,
+      "people_without": 8805,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Tanzania",
+      "iso3": "TZA",
+      "iso_n3": "834",
+      "year": 2024,
+      "safely_managed_pct": 31.3,
+      "people_without": 47083412,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Uganda",
+      "iso3": "UGA",
+      "iso_n3": "800",
+      "year": 2024,
+      "safely_managed_pct": 18.1,
+      "people_without": 40963800,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Ukraine",
+      "iso3": "UKR",
+      "iso_n3": "804",
+      "year": 2024,
+      "safely_managed_pct": 87.9,
+      "people_without": 4593059,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "United States",
+      "iso3": "USA",
+      "iso_n3": "840",
+      "year": 2024,
+      "safely_managed_pct": 97.6,
+      "people_without": 8401852,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Uzbekistan",
+      "iso3": "UZB",
+      "iso_n3": "860",
+      "year": 2024,
+      "safely_managed_pct": 81.9,
+      "people_without": 6570768,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "United States Virgin Islands",
+      "iso3": "VIR",
+      "iso_n3": "850",
+      "year": 2024,
+      "safely_managed_pct": 98.7,
+      "people_without": 1123,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Vietnam",
+      "iso3": "VNM",
+      "iso_n3": "704",
+      "year": 2024,
+      "safely_managed_pct": 58.6,
+      "people_without": 41828256,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Vanuatu",
+      "iso3": "VUT",
+      "iso_n3": "548",
+      "year": 2024,
+      "safely_managed_pct": 19.2,
+      "people_without": 264853,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "iso3": "WLF",
+      "iso_n3": "876",
+      "year": 2024,
+      "safely_managed_pct": 68.9,
+      "people_without": 3507,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Samoa",
+      "iso3": "WSM",
+      "iso_n3": "882",
+      "year": 2024,
+      "safely_managed_pct": 62.5,
+      "people_without": 81753,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "South Africa",
+      "iso3": "ZAF",
+      "iso_n3": "710",
+      "year": 2024,
+      "safely_managed_pct": 68.0,
+      "people_without": 20477460,
+      "source": "jmp-2025"
+    },
+    {
+      "country": "Zimbabwe",
+      "iso3": "ZWE",
+      "iso_n3": "716",
+      "year": 2024,
+      "safely_managed_pct": 25.5,
+      "people_without": 12399168,
+      "source": "jmp-2025"
+    }
+  ]
+}

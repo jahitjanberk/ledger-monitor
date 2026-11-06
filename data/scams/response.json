@@ -1,0 +1,42 @@
+{
+  "id": "response",
+  "title": "Reporting and recovery",
+  "description": "Published rates of reporting, reimbursement and recovery.",
+  "records": [
+    {
+      "metric": "uk_reimbursed",
+      "label": "UK APP losses reimbursed by banks",
+      "value": 0.61,
+      "source": "ukfinance-2026",
+      "currency": null
+    },
+    {
+      "metric": "sg_recovered",
+      "label": "Singapore losses recovered by police",
+      "value": 140500000,
+      "currency": "SGD",
+      "source": "spf-2025"
+    },
+    {
+      "metric": "ca_reported_low",
+      "label": "Share of Canadian frauds reported (low)",
+      "value": 0.05,
+      "source": "cafc-2025-release",
+      "currency": null
+    },
+    {
+      "metric": "ca_reported_high",
+      "label": "Share of Canadian frauds reported (high)",
+      "value": 0.1,
+      "source": "cafc-2025-release",
+      "currency": null
+    },
+    {
+      "metric": "gasa_recovered",
+      "label": "Victims worldwide who recovered their losses",
+      "value": 0.04,
+      "source": "gasa-global-2024",
+      "currency": null
+    }
+  ]
+}

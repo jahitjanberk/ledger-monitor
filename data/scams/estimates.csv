@@ -1,0 +1,6 @@
+country,iso_n3,year,est_local,currency,lon,lat,source
+Pakistan,586,2025,9300000000,USD,69,30,gasa-pakistan-2025
+Germany,276,2025,10600000000,EUR,10.4,51,gasa-germany-2025
+Brazil,076,2025,99000000000,BRL,-52,-10,gasa-brazil-2025
+South Korea,410,2025,1400000000,USD,127.8,36.4,gasa-korea-2025
+Denmark,208,2026,10100000000,DKK,9.5,56,gasa-denmark-2026

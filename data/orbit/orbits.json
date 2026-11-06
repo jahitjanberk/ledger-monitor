@@ -1,0 +1,551 @@
+{
+  "id": "orbits",
+  "title": "Payloads and rocket bodies by orbit",
+  "description": "Tracked payloads and rocket bodies in each orbit at the end of each year (debris not included).",
+  "records": [
+    {
+      "year": 1958,
+      "geostationary_orbit": 0,
+      "high_earth_orbit": 0,
+      "low_earth_orbit": 2,
+      "medium_earth_orbit": 0,
+      "source": "ussf"
+    },
+    {
+      "year": 1959,
+      "geostationary_orbit": 0,
+      "high_earth_orbit": 0,
+      "low_earth_orbit": 7,
+      "medium_earth_orbit": 0,
+      "source": "ussf"
+    },
+    {
+      "year": 1960,
+      "geostationary_orbit": 0,
+      "high_earth_orbit": 0,
+      "low_earth_orbit": 19,
+      "medium_earth_orbit": 0,
+      "source": "ussf"
+    },
+    {
+      "year": 1961,
+      "geostationary_orbit": 0,
+      "high_earth_orbit": 0,
+      "low_earth_orbit": 29,
+      "medium_earth_orbit": 2,
+      "source": "ussf"
+    },
+    {
+      "year": 1962,
+      "geostationary_orbit": 0,
+      "high_earth_orbit": 0,
+      "low_earth_orbit": 49,
+      "medium_earth_orbit": 3,
+      "source": "ussf"
+    },
+    {
+      "year": 1963,
+      "geostationary_orbit": 1,
+      "high_earth_orbit": 2,
+      "low_earth_orbit": 74,
+      "medium_earth_orbit": 9,
+      "source": "ussf"
+    },
+    {
+      "year": 1964,
+      "geostationary_orbit": 2,
+      "high_earth_orbit": 4,
+      "low_earth_orbit": 119,
+      "medium_earth_orbit": 9,
+      "source": "ussf"
+    },
+    {
+      "year": 1965,
+      "geostationary_orbit": 3,
+      "high_earth_orbit": 6,
+      "low_earth_orbit": 209,
+      "medium_earth_orbit": 15,
+      "source": "ussf"
+    },
+    {
+      "year": 1966,
+      "geostationary_orbit": 4,
+      "high_earth_orbit": 7,
+      "low_earth_orbit": 256,
+      "medium_earth_orbit": 31,
+      "source": "ussf"
+    },
+    {
+      "year": 1967,
+      "geostationary_orbit": 8,
+      "high_earth_orbit": 9,
+      "low_earth_orbit": 314,
+      "medium_earth_orbit": 55,
+      "source": "ussf"
+    },
+    {
+      "year": 1968,
+      "geostationary_orbit": 10,
+      "high_earth_orbit": 10,
+      "low_earth_orbit": 362,
+      "medium_earth_orbit": 69,
+      "source": "ussf"
+    },
+    {
+      "year": 1969,
+      "geostationary_orbit": 15,
+      "high_earth_orbit": 12,
+      "low_earth_orbit": 412,
+      "medium_earth_orbit": 78,
+      "source": "ussf"
+    },
+    {
+      "year": 1970,
+      "geostationary_orbit": 18,
+      "high_earth_orbit": 13,
+      "low_earth_orbit": 481,
+      "medium_earth_orbit": 88,
+      "source": "ussf"
+    },
+    {
+      "year": 1971,
+      "geostationary_orbit": 23,
+      "high_earth_orbit": 15,
+      "low_earth_orbit": 593,
+      "medium_earth_orbit": 89,
+      "source": "ussf"
+    },
+    {
+      "year": 1972,
+      "geostationary_orbit": 26,
+      "high_earth_orbit": 17,
+      "low_earth_orbit": 682,
+      "medium_earth_orbit": 94,
+      "source": "ussf"
+    },
+    {
+      "year": 1973,
+      "geostationary_orbit": 30,
+      "high_earth_orbit": 22,
+      "low_earth_orbit": 769,
+      "medium_earth_orbit": 95,
+      "source": "ussf"
+    },
+    {
+      "year": 1974,
+      "geostationary_orbit": 37,
+      "high_earth_orbit": 23,
+      "low_earth_orbit": 862,
+      "medium_earth_orbit": 102,
+      "source": "ussf"
+    },
+    {
+      "year": 1975,
+      "geostationary_orbit": 49,
+      "high_earth_orbit": 24,
+      "low_earth_orbit": 993,
+      "medium_earth_orbit": 107,
+      "source": "ussf"
+    },
+    {
+      "year": 1976,
+      "geostationary_orbit": 61,
+      "high_earth_orbit": 33,
+      "low_earth_orbit": 1137,
+      "medium_earth_orbit": 113,
+      "source": "ussf"
+    },
+    {
+      "year": 1977,
+      "geostationary_orbit": 71,
+      "high_earth_orbit": 41,
+      "low_earth_orbit": 1231,
+      "medium_earth_orbit": 127,
+      "source": "ussf"
+    },
+    {
+      "year": 1978,
+      "geostationary_orbit": 78,
+      "high_earth_orbit": 50,
+      "low_earth_orbit": 1312,
+      "medium_earth_orbit": 138,
+      "source": "ussf"
+    },
+    {
+      "year": 1979,
+      "geostationary_orbit": 87,
+      "high_earth_orbit": 56,
+      "low_earth_orbit": 1341,
+      "medium_earth_orbit": 147,
+      "source": "ussf"
+    },
+    {
+      "year": 1980,
+      "geostationary_orbit": 95,
+      "high_earth_orbit": 61,
+      "low_earth_orbit": 1370,
+      "medium_earth_orbit": 159,
+      "source": "ussf"
+    },
+    {
+      "year": 1981,
+      "geostationary_orbit": 107,
+      "high_earth_orbit": 68,
+      "low_earth_orbit": 1466,
+      "medium_earth_orbit": 173,
+      "source": "ussf"
+    },
+    {
+      "year": 1982,
+      "geostationary_orbit": 121,
+      "high_earth_orbit": 78,
+      "low_earth_orbit": 1528,
+      "medium_earth_orbit": 185,
+      "source": "ussf"
+    },
+    {
+      "year": 1983,
+      "geostationary_orbit": 137,
+      "high_earth_orbit": 87,
+      "low_earth_orbit": 1639,
+      "medium_earth_orbit": 203,
+      "source": "ussf"
+    },
+    {
+      "year": 1984,
+      "geostationary_orbit": 153,
+      "high_earth_orbit": 102,
+      "low_earth_orbit": 1754,
+      "medium_earth_orbit": 231,
+      "source": "ussf"
+    },
+    {
+      "year": 1985,
+      "geostationary_orbit": 173,
+      "high_earth_orbit": 112,
+      "low_earth_orbit": 1881,
+      "medium_earth_orbit": 253,
+      "source": "ussf"
+    },
+    {
+      "year": 1986,
+      "geostationary_orbit": 182,
+      "high_earth_orbit": 120,
+      "low_earth_orbit": 1986,
+      "medium_earth_orbit": 266,
+      "source": "ussf"
+    },
+    {
+      "year": 1987,
+      "geostationary_orbit": 193,
+      "high_earth_orbit": 128,
+      "low_earth_orbit": 2083,
+      "medium_earth_orbit": 280,
+      "source": "ussf"
+    },
+    {
+      "year": 1988,
+      "geostationary_orbit": 208,
+      "high_earth_orbit": 143,
+      "low_earth_orbit": 2146,
+      "medium_earth_orbit": 297,
+      "source": "ussf"
+    },
+    {
+      "year": 1989,
+      "geostationary_orbit": 220,
+      "high_earth_orbit": 160,
+      "low_earth_orbit": 2189,
+      "medium_earth_orbit": 322,
+      "source": "ussf"
+    },
+    {
+      "year": 1990,
+      "geostationary_orbit": 238,
+      "high_earth_orbit": 177,
+      "low_earth_orbit": 2291,
+      "medium_earth_orbit": 341,
+      "source": "ussf"
+    },
+    {
+      "year": 1991,
+      "geostationary_orbit": 251,
+      "high_earth_orbit": 195,
+      "low_earth_orbit": 2353,
+      "medium_earth_orbit": 356,
+      "source": "ussf"
+    },
+    {
+      "year": 1992,
+      "geostationary_orbit": 264,
+      "high_earth_orbit": 211,
+      "low_earth_orbit": 2422,
+      "medium_earth_orbit": 380,
+      "source": "ussf"
+    },
+    {
+      "year": 1993,
+      "geostationary_orbit": 279,
+      "high_earth_orbit": 221,
+      "low_earth_orbit": 2502,
+      "medium_earth_orbit": 399,
+      "source": "ussf"
+    },
+    {
+      "year": 1994,
+      "geostationary_orbit": 299,
+      "high_earth_orbit": 238,
+      "low_earth_orbit": 2585,
+      "medium_earth_orbit": 420,
+      "source": "ussf"
+    },
+    {
+      "year": 1995,
+      "geostationary_orbit": 314,
+      "high_earth_orbit": 257,
+      "low_earth_orbit": 2631,
+      "medium_earth_orbit": 438,
+      "source": "ussf"
+    },
+    {
+      "year": 1996,
+      "geostationary_orbit": 329,
+      "high_earth_orbit": 274,
+      "low_earth_orbit": 2686,
+      "medium_earth_orbit": 446,
+      "source": "ussf"
+    },
+    {
+      "year": 1997,
+      "geostationary_orbit": 341,
+      "high_earth_orbit": 295,
+      "low_earth_orbit": 2800,
+      "medium_earth_orbit": 464,
+      "source": "ussf"
+    },
+    {
+      "year": 1998,
+      "geostationary_orbit": 346,
+      "high_earth_orbit": 318,
+      "low_earth_orbit": 3263,
+      "medium_earth_orbit": 472,
+      "source": "ussf"
+    },
+    {
+      "year": 1999,
+      "geostationary_orbit": 354,
+      "high_earth_orbit": 332,
+      "low_earth_orbit": 3324,
+      "medium_earth_orbit": 497,
+      "source": "ussf"
+    },
+    {
+      "year": 2000,
+      "geostationary_orbit": 375,
+      "high_earth_orbit": 357,
+      "low_earth_orbit": 3349,
+      "medium_earth_orbit": 518,
+      "source": "ussf"
+    },
+    {
+      "year": 2001,
+      "geostationary_orbit": 385,
+      "high_earth_orbit": 371,
+      "low_earth_orbit": 3328,
+      "medium_earth_orbit": 529,
+      "source": "ussf"
+    },
+    {
+      "year": 2002,
+      "geostationary_orbit": 396,
+      "high_earth_orbit": 388,
+      "low_earth_orbit": 3338,
+      "medium_earth_orbit": 539,
+      "source": "ussf"
+    },
+    {
+      "year": 2003,
+      "geostationary_orbit": 413,
+      "high_earth_orbit": 398,
+      "low_earth_orbit": 3376,
+      "medium_earth_orbit": 557,
+      "source": "ussf"
+    },
+    {
+      "year": 2004,
+      "geostationary_orbit": 426,
+      "high_earth_orbit": 408,
+      "low_earth_orbit": 3406,
+      "medium_earth_orbit": 572,
+      "source": "ussf"
+    },
+    {
+      "year": 2005,
+      "geostationary_orbit": 437,
+      "high_earth_orbit": 420,
+      "low_earth_orbit": 3424,
+      "medium_earth_orbit": 585,
+      "source": "ussf"
+    },
+    {
+      "year": 2006,
+      "geostationary_orbit": 454,
+      "high_earth_orbit": 430,
+      "low_earth_orbit": 3473,
+      "medium_earth_orbit": 599,
+      "source": "ussf"
+    },
+    {
+      "year": 2007,
+      "geostationary_orbit": 465,
+      "high_earth_orbit": 443,
+      "low_earth_orbit": 3539,
+      "medium_earth_orbit": 615,
+      "source": "ussf"
+    },
+    {
+      "year": 2008,
+      "geostationary_orbit": 490,
+      "high_earth_orbit": 451,
+      "low_earth_orbit": 3598,
+      "medium_earth_orbit": 636,
+      "source": "ussf"
+    },
+    {
+      "year": 2009,
+      "geostationary_orbit": 516,
+      "high_earth_orbit": 456,
+      "low_earth_orbit": 3666,
+      "medium_earth_orbit": 657,
+      "source": "ussf"
+    },
+    {
+      "year": 2010,
+      "geostationary_orbit": 542,
+      "high_earth_orbit": 460,
+      "low_earth_orbit": 3724,
+      "medium_earth_orbit": 682,
+      "source": "ussf"
+    },
+    {
+      "year": 2011,
+      "geostationary_orbit": 569,
+      "high_earth_orbit": 463,
+      "low_earth_orbit": 3775,
+      "medium_earth_orbit": 709,
+      "source": "ussf"
+    },
+    {
+      "year": 2012,
+      "geostationary_orbit": 604,
+      "high_earth_orbit": 466,
+      "low_earth_orbit": 3829,
+      "medium_earth_orbit": 728,
+      "source": "ussf"
+    },
+    {
+      "year": 2013,
+      "geostationary_orbit": 628,
+      "high_earth_orbit": 468,
+      "low_earth_orbit": 3963,
+      "medium_earth_orbit": 750,
+      "source": "ussf"
+    },
+    {
+      "year": 2014,
+      "geostationary_orbit": 658,
+      "high_earth_orbit": 474,
+      "low_earth_orbit": 4013,
+      "medium_earth_orbit": 789,
+      "source": "ussf"
+    },
+    {
+      "year": 2015,
+      "geostationary_orbit": 691,
+      "high_earth_orbit": 477,
+      "low_earth_orbit": 4065,
+      "medium_earth_orbit": 825,
+      "source": "ussf"
+    },
+    {
+      "year": 2016,
+      "geostationary_orbit": 726,
+      "high_earth_orbit": 478,
+      "low_earth_orbit": 4141,
+      "medium_earth_orbit": 847,
+      "source": "ussf"
+    },
+    {
+      "year": 2017,
+      "geostationary_orbit": 760,
+      "high_earth_orbit": 478,
+      "low_earth_orbit": 4438,
+      "medium_earth_orbit": 865,
+      "source": "ussf"
+    },
+    {
+      "year": 2018,
+      "geostationary_orbit": 788,
+      "high_earth_orbit": 481,
+      "low_earth_orbit": 4679,
+      "medium_earth_orbit": 914,
+      "source": "ussf"
+    },
+    {
+      "year": 2019,
+      "geostationary_orbit": 815,
+      "high_earth_orbit": 482,
+      "low_earth_orbit": 4981,
+      "medium_earth_orbit": 943,
+      "source": "ussf"
+    },
+    {
+      "year": 2020,
+      "geostationary_orbit": 833,
+      "high_earth_orbit": 485,
+      "low_earth_orbit": 6068,
+      "medium_earth_orbit": 954,
+      "source": "ussf"
+    },
+    {
+      "year": 2021,
+      "geostationary_orbit": 858,
+      "high_earth_orbit": 487,
+      "low_earth_orbit": 7615,
+      "medium_earth_orbit": 964,
+      "source": "ussf"
+    },
+    {
+      "year": 2022,
+      "geostationary_orbit": 885,
+      "high_earth_orbit": 493,
+      "low_earth_orbit": 9499,
+      "medium_earth_orbit": 988,
+      "source": "ussf"
+    },
+    {
+      "year": 2023,
+      "geostationary_orbit": 912,
+      "high_earth_orbit": 496,
+      "low_earth_orbit": 11520,
+      "medium_earth_orbit": 1008,
+      "source": "ussf"
+    },
+    {
+      "year": 2024,
+      "geostationary_orbit": 935,
+      "high_earth_orbit": 499,
+      "low_earth_orbit": 13011,
+      "medium_earth_orbit": 1026,
+      "source": "ussf"
+    },
+    {
+      "year": 2025,
+      "geostationary_orbit": 958,
+      "high_earth_orbit": 503,
+      "low_earth_orbit": 16084,
+      "medium_earth_orbit": 1047,
+      "source": "ussf"
+    }
+  ]
+}

@@ -1,0 +1,1099 @@
+{
+  "id": "countries",
+  "title": "Country codes",
+  "description": "Countries in the cable data matched to Natural Earth map shapes (ISO 3166 numeric). Small islands have no shape at this map scale.",
+  "records": [
+    {
+      "country": "Albania",
+      "iso_n3": "008",
+      "map_name": "Albania",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Algeria",
+      "iso_n3": "012",
+      "map_name": "Algeria",
+      "source": "natural-earth"
+    },
+    {
+      "country": "American Samoa",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Angola",
+      "iso_n3": "024",
+      "map_name": "Angola",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Anguilla",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Antigua and Barbuda",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Argentina",
+      "iso_n3": "032",
+      "map_name": "Argentina",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Aruba",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Ascension and Tristan da Cunha",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Australia",
+      "iso_n3": "036",
+      "map_name": "Australia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Austria",
+      "iso_n3": "040",
+      "map_name": "Austria",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Azerbaijan",
+      "iso_n3": "031",
+      "map_name": "Azerbaijan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Bahamas",
+      "iso_n3": "044",
+      "map_name": "Bahamas",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Bahrain",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Bangladesh",
+      "iso_n3": "050",
+      "map_name": "Bangladesh",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Barbados",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Belgium",
+      "iso_n3": "056",
+      "map_name": "Belgium",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Belize",
+      "iso_n3": "084",
+      "map_name": "Belize",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Benin",
+      "iso_n3": "204",
+      "map_name": "Benin",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Bermuda",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Brazil",
+      "iso_n3": "076",
+      "map_name": "Brazil",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Brunei",
+      "iso_n3": "096",
+      "map_name": "Brunei",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Bulgaria",
+      "iso_n3": "100",
+      "map_name": "Bulgaria",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cambodia",
+      "iso_n3": "116",
+      "map_name": "Cambodia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cameroon",
+      "iso_n3": "120",
+      "map_name": "Cameroon",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Canada",
+      "iso_n3": "124",
+      "map_name": "Canada",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cape Verde",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cayman Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Chile",
+      "iso_n3": "152",
+      "map_name": "Chile",
+      "source": "natural-earth"
+    },
+    {
+      "country": "China",
+      "iso_n3": "156",
+      "map_name": "China",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Christmas Island",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Colombia",
+      "iso_n3": "170",
+      "map_name": "Colombia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Comoros",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Congo, Dem. Rep.",
+      "iso_n3": "180",
+      "map_name": "Dem. Rep. Congo",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Congo, Rep.",
+      "iso_n3": "178",
+      "map_name": "Congo",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cook Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Costa Rica",
+      "iso_n3": "188",
+      "map_name": "Costa Rica",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Croatia",
+      "iso_n3": "191",
+      "map_name": "Croatia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cuba",
+      "iso_n3": "192",
+      "map_name": "Cuba",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Curaçao",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Cyprus",
+      "iso_n3": "196",
+      "map_name": "Cyprus",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "iso_n3": "384",
+      "map_name": "Côte d'Ivoire",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Denmark",
+      "iso_n3": "208",
+      "map_name": "Denmark",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Djibouti",
+      "iso_n3": "262",
+      "map_name": "Djibouti",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Dominica",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Dominican Republic",
+      "iso_n3": "214",
+      "map_name": "Dominican Rep.",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Ecuador",
+      "iso_n3": "218",
+      "map_name": "Ecuador",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Egypt",
+      "iso_n3": "818",
+      "map_name": "Egypt",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Equatorial Guinea",
+      "iso_n3": "226",
+      "map_name": "Eq. Guinea",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Estonia",
+      "iso_n3": "233",
+      "map_name": "Estonia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Faroe Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Fiji",
+      "iso_n3": "242",
+      "map_name": "Fiji",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Finland",
+      "iso_n3": "246",
+      "map_name": "Finland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "France",
+      "iso_n3": "250",
+      "map_name": "France",
+      "source": "natural-earth"
+    },
+    {
+      "country": "French Guiana",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "French Polynesia",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Gabon",
+      "iso_n3": "266",
+      "map_name": "Gabon",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Gambia",
+      "iso_n3": "270",
+      "map_name": "Gambia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Georgia",
+      "iso_n3": "268",
+      "map_name": "Georgia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Germany",
+      "iso_n3": "276",
+      "map_name": "Germany",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Ghana",
+      "iso_n3": "288",
+      "map_name": "Ghana",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Gibraltar",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Greece",
+      "iso_n3": "300",
+      "map_name": "Greece",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Greenland",
+      "iso_n3": "304",
+      "map_name": "Greenland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Grenada",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guadeloupe",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guatemala",
+      "iso_n3": "320",
+      "map_name": "Guatemala",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guernsey",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guinea",
+      "iso_n3": "324",
+      "map_name": "Guinea",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "iso_n3": "624",
+      "map_name": "Guinea-Bissau",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Guyana",
+      "iso_n3": "328",
+      "map_name": "Guyana",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Haiti",
+      "iso_n3": "332",
+      "map_name": "Haiti",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Honduras",
+      "iso_n3": "340",
+      "map_name": "Honduras",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Hong Kong",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Iceland",
+      "iso_n3": "352",
+      "map_name": "Iceland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "India",
+      "iso_n3": "356",
+      "map_name": "India",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Indonesia",
+      "iso_n3": "360",
+      "map_name": "Indonesia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Iran",
+      "iso_n3": "364",
+      "map_name": "Iran",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Iraq",
+      "iso_n3": "368",
+      "map_name": "Iraq",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Ireland",
+      "iso_n3": "372",
+      "map_name": "Ireland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Isle of Man",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Israel",
+      "iso_n3": "376",
+      "map_name": "Israel",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Italy",
+      "iso_n3": "380",
+      "map_name": "Italy",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Jamaica",
+      "iso_n3": "388",
+      "map_name": "Jamaica",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Japan",
+      "iso_n3": "392",
+      "map_name": "Japan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Jersey",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Jordan",
+      "iso_n3": "400",
+      "map_name": "Jordan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Kazakhstan",
+      "iso_n3": "398",
+      "map_name": "Kazakhstan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Kenya",
+      "iso_n3": "404",
+      "map_name": "Kenya",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Kiribati",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Kuwait",
+      "iso_n3": "414",
+      "map_name": "Kuwait",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Latvia",
+      "iso_n3": "428",
+      "map_name": "Latvia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Lebanon",
+      "iso_n3": "422",
+      "map_name": "Lebanon",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Liberia",
+      "iso_n3": "430",
+      "map_name": "Liberia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Libya",
+      "iso_n3": "434",
+      "map_name": "Libya",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Lithuania",
+      "iso_n3": "440",
+      "map_name": "Lithuania",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Madagascar",
+      "iso_n3": "450",
+      "map_name": "Madagascar",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Malaysia",
+      "iso_n3": "458",
+      "map_name": "Malaysia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Maldives",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Malta",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Marshall Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Martinique",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Mauritania",
+      "iso_n3": "478",
+      "map_name": "Mauritania",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Mauritius",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Mayotte",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Mexico",
+      "iso_n3": "484",
+      "map_name": "Mexico",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Micronesia",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Monaco",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Montserrat",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Morocco",
+      "iso_n3": "504",
+      "map_name": "Morocco",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Mozambique",
+      "iso_n3": "508",
+      "map_name": "Mozambique",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Myanmar",
+      "iso_n3": "104",
+      "map_name": "Myanmar",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Namibia",
+      "iso_n3": "516",
+      "map_name": "Namibia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Netherlands",
+      "iso_n3": "528",
+      "map_name": "Netherlands",
+      "source": "natural-earth"
+    },
+    {
+      "country": "New Caledonia",
+      "iso_n3": "540",
+      "map_name": "New Caledonia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "New Zealand",
+      "iso_n3": "554",
+      "map_name": "New Zealand",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Nicaragua",
+      "iso_n3": "558",
+      "map_name": "Nicaragua",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Nigeria",
+      "iso_n3": "566",
+      "map_name": "Nigeria",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Niue",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Norway",
+      "iso_n3": "578",
+      "map_name": "Norway",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Oman",
+      "iso_n3": "512",
+      "map_name": "Oman",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Pakistan",
+      "iso_n3": "586",
+      "map_name": "Pakistan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Palau",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Panama",
+      "iso_n3": "591",
+      "map_name": "Panama",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Papua New Guinea",
+      "iso_n3": "598",
+      "map_name": "Papua New Guinea",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Peru",
+      "iso_n3": "604",
+      "map_name": "Peru",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Philippines",
+      "iso_n3": "608",
+      "map_name": "Philippines",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Poland",
+      "iso_n3": "616",
+      "map_name": "Poland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Portugal",
+      "iso_n3": "620",
+      "map_name": "Portugal",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Qatar",
+      "iso_n3": "634",
+      "map_name": "Qatar",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Russia",
+      "iso_n3": "643",
+      "map_name": "Russia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Réunion",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Barthélemy",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Kitts and Nevis",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Lucia",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Martin",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Pierre and Miquelon",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saint Vincent and the Grenadines",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Samoa",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sao Tome and Principe",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Saudi Arabia",
+      "iso_n3": "682",
+      "map_name": "Saudi Arabia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Senegal",
+      "iso_n3": "686",
+      "map_name": "Senegal",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Seychelles",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sierra Leone",
+      "iso_n3": "694",
+      "map_name": "Sierra Leone",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Singapore",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sint Eustatius and Saba",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sint Maarten",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Solomon Islands",
+      "iso_n3": "090",
+      "map_name": "Solomon Is.",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Somalia",
+      "iso_n3": "706",
+      "map_name": "Somalia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "South Africa",
+      "iso_n3": "710",
+      "map_name": "South Africa",
+      "source": "natural-earth"
+    },
+    {
+      "country": "South Korea",
+      "iso_n3": "410",
+      "map_name": "South Korea",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Spain",
+      "iso_n3": "724",
+      "map_name": "Spain",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso_n3": "144",
+      "map_name": "Sri Lanka",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sudan",
+      "iso_n3": "729",
+      "map_name": "Sudan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Suriname",
+      "iso_n3": "740",
+      "map_name": "Suriname",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Sweden",
+      "iso_n3": "752",
+      "map_name": "Sweden",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Switzerland",
+      "iso_n3": "756",
+      "map_name": "Switzerland",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Syria",
+      "iso_n3": "760",
+      "map_name": "Syria",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Taiwan",
+      "iso_n3": "158",
+      "map_name": "Taiwan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Tanzania",
+      "iso_n3": "834",
+      "map_name": "Tanzania",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Thailand",
+      "iso_n3": "764",
+      "map_name": "Thailand",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Togo",
+      "iso_n3": "768",
+      "map_name": "Togo",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Tokelau",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Tonga",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Trinidad and Tobago",
+      "iso_n3": "780",
+      "map_name": "Trinidad and Tobago",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Tunisia",
+      "iso_n3": "788",
+      "map_name": "Tunisia",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Turkey",
+      "iso_n3": "792",
+      "map_name": "Turkey",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Turkmenistan",
+      "iso_n3": "795",
+      "map_name": "Turkmenistan",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Ukraine",
+      "iso_n3": "804",
+      "map_name": "Ukraine",
+      "source": "natural-earth"
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso_n3": "784",
+      "map_name": "United Arab Emirates",
+      "source": "natural-earth"
+    },
+    {
+      "country": "United Kingdom",
+      "iso_n3": "826",
+      "map_name": "United Kingdom",
+      "source": "natural-earth"
+    },
+    {
+      "country": "United States",
+      "iso_n3": "840",
+      "map_name": "United States of America",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Uruguay",
+      "iso_n3": "858",
+      "map_name": "Uruguay",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Vanuatu",
+      "iso_n3": "548",
+      "map_name": "Vanuatu",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Venezuela",
+      "iso_n3": "862",
+      "map_name": "Venezuela",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Vietnam",
+      "iso_n3": "704",
+      "map_name": "Vietnam",
+      "source": "natural-earth"
+    },
+    {
+      "country": "Virgin Islands (U.K.)",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Virgin Islands (U.S.)",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Wallis and Futuna",
+      "iso_n3": null,
+      "map_name": null,
+      "source": "natural-earth"
+    },
+    {
+      "country": "Yemen",
+      "iso_n3": "887",
+      "map_name": "Yemen",
+      "source": "natural-earth"
+    }
+  ]
+}

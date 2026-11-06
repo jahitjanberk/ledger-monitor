@@ -1,0 +1,22 @@
+:root{--em-accent:#A93A4E;--em-soft:#F7DCE3;--ai-b0:#7CC4AE;--ai-b1:#E8D98A;--ai-b2:#F0B46B;--ai-b3:#D9662F;--ai-b4:#7A1F2B;--ai-hh:#8C7A6B;--ai-oz:#62B6CB}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--em-accent:#E597A4;--em-soft:#3D1620;--ai-b0:#4FC29C;--ai-b1:#E8D06A;--ai-b2:#F5A55B;--ai-b3:#F0703A;--ai-b4:#D8435A;--ai-hh:#C2AE9C;--ai-oz:#86D3E6}}
+:root[data-theme=dark]{--em-accent:#E597A4;--em-soft:#3D1620;--ai-b0:#4FC29C;--ai-b1:#E8D06A;--ai-b2:#F5A55B;--ai-b3:#F0703A;--ai-b4:#D8435A;--ai-hh:#C2AE9C;--ai-oz:#86D3E6}
+.ai-scale{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:10px;font-family:var(--em-mono);font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--em-muted)}
+.ai-scale i,.ai-pill i,.ai-key i{display:inline-block;width:.7rem;height:.7rem;border-radius:2px;vertical-align:-1px;margin-right:.4em}
+.ai-pill{display:inline-flex;align-items:center;font-size:12px;white-space:nowrap}
+.ai-rate{font-family:var(--em-mono);font-size:12px;text-transform:uppercase;letter-spacing:.05em;margin:4px 0 0}
+.ai-key{display:flex;flex-wrap:wrap;gap:4px 14px;margin:8px 0 0;font-size:13px}
+.ai-pick{display:flex;align-items:center;gap:8px;margin-top:10px}
+.ai-pick select{font:inherit;font-size:14px;flex:1;min-width:0;padding:.4em .6em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:36px}
+.ai-stack{display:flex;height:16px;gap:2px;margin-top:8px;border-radius:var(--em-r);overflow:hidden}
+.ai-stack span{min-width:2px}
+.ai-grid{stroke:var(--em-line);stroke-width:1}
+.ai-aqg{position:absolute;top:-3px;bottom:-3px;width:0;border-left:1.5px dashed var(--em-fg)}
+.ai-search{font:inherit;padding:.55em .7em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:40px;width:min(100%,22rem);margin-bottom:12px}
+.ai-tablebox{max-height:560px;overflow:auto}
+.ai-tablebox thead th{position:sticky;top:0;background:var(--em-panel);z-index:1}
+.ai-rowbtn{all:unset;cursor:pointer;font-weight:600}
+.ai-rowbtn:hover{text-decoration:underline}
+.ai-rowbtn:focus-visible{outline:2px solid var(--em-accent);outline-offset:2px}
+.ai-sw{display:inline-block;width:.6rem;height:.6rem;border-radius:2px;margin-right:.5em}
+.em-vis .m{width:100%}

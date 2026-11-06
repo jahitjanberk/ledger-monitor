@@ -1,0 +1,10 @@
+nation,nation_code,iso_n3,median_multiple,median_multiple_prev,source,prev_source
+Australia,AU,036,9.9,9.7,demographia-2026,demographia-2025
+Canada,CA,124,5.4,5.4,demographia-2026,demographia-2025
+China: Hong Kong,HK,344,14.1,14.4,demographia-2026,demographia-2025
+Ireland,IE,372,4.9,5.1,demographia-2026,demographia-2025
+New Zealand,NZ,554,7.7,7.7,demographia-2026,demographia-2025
+Singapore,SG,702,4.3,4.2,demographia-2026,demographia-2025
+United Kingdom,GB,826,5.2,5.6,demographia-2026,demographia-2025
+United States,US,840,4.5,4.8,demographia-2026,demographia-2025
+All 96 markets,ALL,,5,5.1,demographia-2026,demographia-2025

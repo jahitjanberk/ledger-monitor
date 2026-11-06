@@ -1,0 +1,42 @@
+{
+  "id": "ai_compute",
+  "title": "AI compute by country",
+  "description": "Share of AI chip compute (H100-equivalents) acquired since 2022, as of Q2 2026, from Epoch AI's AI Chip Imports explorer.",
+  "records": [
+    {
+      "country": "United States",
+      "share": 0.722,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "China",
+      "share": 0.096,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "European Union",
+      "share": 0.051,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.024,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "India",
+      "share": 0.016,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "Japan",
+      "share": 0.016,
+      "source": "epoch-chips-2026"
+    },
+    {
+      "country": "Rest of world",
+      "share": 0.075,
+      "source": "epoch-chips-2026"
+    }
+  ]
+}

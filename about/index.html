@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>About · Economy Monitor</title>
+<meta name="description" content="Who makes Economy Monitor, how its figures are chosen, and what has changed.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%233B50B5'/%3E%3Cpath d='M16 7v18M7 16h18' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/fonts.css">
+<script>try{var t=localStorage.getItem("em-theme");t&&(document.documentElement.dataset.theme=t)}catch(e){}</script>
+<style>
+:root { --bg: #F5F5F1; --panel: #FBFBF8; --fg: #0A0A0A; --muted: #52524D; --line: #DADAD3; --accent: #3B50B5;
+  --sans: "Inter Tight", "Helvetica Neue", Arial, system-ui, sans-serif; --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace; color-scheme: light; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #0E0F12; --panel: #15171B; --fg: #F2F2EE; --muted: #ADADA6; --line: #2B2D33; --accent: #9CA8E8; color-scheme: dark; } }
+:root[data-theme="dark"] { --bg: #0E0F12; --panel: #15171B; --fg: #F2F2EE; --muted: #ADADA6; --line: #2B2D33; --accent: #9CA8E8; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font-family: var(--sans); line-height: 1.5; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.nf { max-width: 960px; margin: 0 auto; padding: 0 16px 40px; }
+@media (min-width: 700px) { .nf { padding: 0 40px 40px; } }
+.bar { padding: 14px 0; border-bottom: 1px solid var(--line); }
+.brand { font-family: var(--mono); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--fg); text-decoration: none; display: inline-flex; align-items: center; gap: .6em; min-height: 32px; }
+.brand i { width: 14px; height: 14px; background: var(--accent); display: inline-block; }
+.eyebrow { font-size: 13px; font-weight: 500; color: var(--muted); margin: 48px 0 0; }
+h1 { font-size: clamp(2rem, 1.2rem + 3.4vw, 3.5rem); line-height: 1.04; letter-spacing: -0.035em; font-weight: 600; margin: 14px 0 12px; }
+p.lede { color: var(--muted); font-size: 1.1rem; margin: 0; max-width: 52ch; }
+h2 { font-size: 1.35rem; letter-spacing: -0.02em; font-weight: 600; margin: 40px 0 8px; line-height: 1.2; }
+main p, main li { max-width: 66ch; }
+main a { color: var(--fg); text-underline-offset: .2em; }
+main ul { padding-left: 1.1em; margin: 8px 0 0; }
+main li { margin: 6px 0; }
+.log { list-style: none; padding: 0; margin: 12px 0 0; border-top: 1px solid var(--line); }
+.log li { display: grid; grid-template-columns: 8.5rem minmax(0, 1fr); gap: 4px 16px; padding: 12px 0; margin: 0; border-bottom: 1px solid var(--line); max-width: 760px; }
+.log time { font-family: var(--mono); font-size: 13px; color: var(--muted); padding-top: 2px; }
+@media (max-width: 560px) { .log li { grid-template-columns: 1fr; } }
+.home { display: inline-flex; align-items: center; min-height: 44px; margin-top: 24px; font-size: 14px; font-weight: 500; color: var(--fg); }
+</style>
+</head>
+<body>
+<div class="nf">
+  <nav class="bar" aria-label="Site"><a class="brand" href="../"><i aria-hidden="true"></i>Economy Monitor</a></nav>
+  <main>
+    <p class="eyebrow">About</p>
+    <h1>About Economy Monitor</h1>
+    <p class="lede">Eight dashboards on the systems people rely on every day: undersea cables, housing, scams, water, electricity, shipping routes, orbit and the air. Each one starts from a single finding and lets you check it.</p>
+
+    <h2>How the figures are chosen</h2>
+    <ul>
+      <li>Every figure comes from a named publisher, and every one on the page links to its source.</li>
+      <li>Official statistics come first. Where there are none, survey or modelled estimates are used, and the source drawer says which kind each number is.</li>
+      <li>Reported and estimated figures are kept apart rather than added together, because they measure different things.</li>
+      <li>Each dashboard ends with a method note, a list of what it doesn’t show, and every source it uses.</li>
+      <li>All the data is published as CSV and JSON, with the source of each row, under the licences listed <a href="https://github.com/jahitjanberk/economy-monitor/blob/main/DATA_LICENSE.md">on GitHub</a>.</li>
+    </ul>
+
+    <h2>Who makes it</h2>
+    <p>Economy Monitor is made by <a href="https://github.com/jahitjanberk" rel="author">jahitjanberk</a>. The code is MIT-licensed and lives <a href="https://github.com/jahitjanberk/economy-monitor">on GitHub</a>, along with the full <a href="https://github.com/jahitjanberk/economy-monitor/blob/main/METHODOLOGY.md">methodology</a>.</p>
+    <p>If a number is wrong or out of date, <a href="https://github.com/jahitjanberk/economy-monitor/issues">open an issue</a> with a link to a better source. Corrections are recorded in the log below.</p>
+
+    <h2>Changes</h2>
+    <ol class="log" reversed>
+      <li><time datetime="2026-11-06">6 Nov 2026</time><span>Each dashboard now opens with an annotated chart and ends with a list of what it doesn’t show. Headings and labels rewritten as plain sentences, and the colours toned down. Added this page.</span></li>
+      <li><time datetime="2026-11-05">5 Nov 2026</time><span>Text contrast raised to WCAG AA throughout, with a skip link on every page and screen-reader names for chart segments. Added links to individual sections, CSV downloads for each section, a print layout and a page-not-found page.</span></li>
+    </ol>
+    <a class="home" href="../">← All dashboards</a>
+  </main>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+region,year,generation_twh,carbon_intensity_g_kwh,per_capita_kwh,coal_pct,gas_pct,oil_pct,nuclear_pct,hydro_pct,wind_pct,solar_pct,bioenergy_pct,other_renewables_pct,renewables_pct,low_carbon_pct,fossil_pct,source
+Africa,2025,998.1,529.9,,23.8,42.0,6.9,1.0,17.9,3.2,4.0,0.4,0.6,26.2,27.2,72.8,ember-yearly
+Asia,2025,16728.9,544.4,,51.6,10.2,1.1,5.1,12.3,7.8,9.7,2.1,0.2,32.0,37.1,62.9,ember-yearly
+Europe,2025,5101.7,282.7,,12.8,23.7,2.4,19.5,16.1,12.3,8.7,4.1,0.5,41.6,61.1,38.9,ember-yearly
+Latin America and Caribbean,2025,1846.9,247.0,,3.6,24.3,6.7,2.0,40.2,10.0,8.6,4.5,0.3,63.5,65.5,34.5,ember-yearly
+Middle East,2025,1581.7,634.6,,0.2,73.2,18.4,3.0,1.0,0.5,3.6,0.0,0.0,5.1,8.1,91.9,ember-yearly
+North America,2025,5172.8,359.9,,14.8,37.2,0.8,16.8,11.3,10.0,7.7,1.1,0.3,30.5,47.3,52.7,ember-yearly
+Oceania,2025,342.2,469.9,,36.2,15.1,4.1,0.0,11.2,12.7,16.7,1.1,2.8,44.5,44.5,55.5,ember-yearly
+World,2025,31772.3,458.3,3860,33.0,21.8,2.6,8.8,14.0,8.5,8.7,2.2,0.3,33.8,42.6,57.4,ember-yearly

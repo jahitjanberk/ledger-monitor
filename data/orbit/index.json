@@ -1,0 +1,36 @@
+{
+  "variant": "orbit",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "launchers",
+      "title": "Objects launched by country or organisation",
+      "description": "Objects registered with the UN by launching state or organisation, all years to 2025 and in 2025.",
+      "rows": 115
+    },
+    {
+      "id": "yearly",
+      "title": "Objects launched each year",
+      "description": "World total by year of launch, with the United States, China and Russia.",
+      "rows": 69
+    },
+    {
+      "id": "orbits",
+      "title": "Payloads and rocket bodies by orbit",
+      "description": "Tracked payloads and rocket bodies in each orbit at the end of each year (debris not included).",
+      "rows": 68
+    },
+    {
+      "id": "leo",
+      "title": "Tracked objects in low Earth orbit",
+      "description": "Payloads, rocket bodies and tracked debris in low Earth orbit at the end of each year.",
+      "rows": 68
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures on tracked objects, debris and Starlink.",
+      "rows": 6
+    }
+  ]
+}

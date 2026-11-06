@@ -1,0 +1,43 @@
+{
+  "sources": {
+    "demographia-2026": {
+      "publisher": "Chapman University Center for Demographics and Policy",
+      "title": "Demographia International Housing Affordability, 2026 Edition",
+      "url": "https://blogs.chapman.edu/wp-content/uploads/sites/56/2026/05/Demographia-International-Housing-Affordability-2026-Edition-1.pdf",
+      "published": "2026-05",
+      "method": "reported",
+      "notes": "Data for the third quarter of 2025."
+    },
+    "demographia-2025": {
+      "publisher": "Chapman University Center for Demographics and Policy",
+      "title": "Demographia International Housing Affordability, 2025 Edition",
+      "url": "https://blogs.chapman.edu/wp-content/uploads/sites/56/2025/06/Demographic-International-Housing-Affordability-2025.pdf",
+      "published": "2025-05",
+      "method": "reported",
+      "notes": "Data for the third quarter of 2024."
+    },
+    "ons-2025": {
+      "publisher": "Office for National Statistics",
+      "title": "Housing affordability in England and Wales: 2025",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2025",
+      "published": "2026-03-26",
+      "method": "reported",
+      "notes": "London ratio corrected to 10.6 by the ONS on 13 May 2026."
+    },
+    "ubs-2025": {
+      "publisher": "UBS",
+      "title": "UBS Global Real Estate Bubble Index 2025",
+      "url": "https://www.ubs.com/global/de/media/display-page-ndp/en-20250923-grebi25.html",
+      "published": "2025-09-23",
+      "method": "reference"
+    },
+    "geonames": {
+      "publisher": "GeoNames (via the all-the-cities package)",
+      "title": "GeoNames cities with population over 1,000",
+      "url": "https://www.geonames.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Used only to place markets on the map."
+    }
+  }
+}

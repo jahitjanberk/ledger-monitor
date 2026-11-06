@@ -1,0 +1,52 @@
+{
+  "id": "fx",
+  "title": "Exchange rates (2025 average)",
+  "description": "IRS yearly average exchange rates for 2025, units of currency per US dollar.",
+  "records": [
+    {
+      "currency": "USD",
+      "per_usd": 1,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "GBP",
+      "per_usd": 0.759,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "AUD",
+      "per_usd": 1.551,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "CAD",
+      "per_usd": 1.398,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "SGD",
+      "per_usd": 1.307,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "EUR",
+      "per_usd": 0.886,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "BRL",
+      "per_usd": 5.593,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "DKK",
+      "per_usd": 6.617,
+      "source": "irs-fx-2025"
+    },
+    {
+      "currency": "INR",
+      "per_usd": 87.133,
+      "source": "irs-fx-2025"
+    }
+  ]
+}

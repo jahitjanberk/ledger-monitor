@@ -1,0 +1,26 @@
+# Cache rules for Netlify and Cloudflare Pages (other hosts ignore this file).
+# Files whose names carry a content hash, and the fonts, never change in place,
+# so browsers may keep them for a year. Everything else is checked on each visit.
+# index-CzSELinI.css is left out: it was edited after the build, so its name no longer matches its content.
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/maplibre-ChAaPfnC.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/d3-CYFjbSD-.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/story-Cpe0Yf6I.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/charts-B-YMMjus.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/og/*
+  Cache-Control: public, max-age=86400
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

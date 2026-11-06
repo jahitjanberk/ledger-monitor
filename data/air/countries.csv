@@ -1,0 +1,242 @@
+country,iso3,iso_n3,year,pm25,times_guideline,band,pm25_2000,pm25_2015,pm25_human,source,who_pm25,who_year,who_source,deaths_air,deaths_pm,deaths_household,deaths_ozone,share_deaths_pct,pm_death_rate,deaths_year,deaths_source
+Qatar,QAT,634,2024,75.5,15.1,Over 7× (35 or more),68.1,73.5,56.4,satpm,58.5,2023,who-sdg1162,517,513,0,10,19.6,16.5,2023,ihme-gbd2023
+Bangladesh,BGD,050,2024,65,13.0,Over 7× (35 or more),50.5,68.1,60.3,satpm,43.9,2023,who-sdg1162,271271,63347,200128,27802,27.3,36.4,2023,ihme-gbd2023
+Kuwait,KWT,414,2024,57.3,11.5,Over 7× (35 or more),56.7,60,35.9,satpm,48.9,2023,who-sdg1162,1552,1546,1,10,18.1,33.0,2023,ihme-gbd2023
+United Arab Emirates,ARE,784,2024,55.7,11.1,Over 7× (35 or more),53.1,54.8,34.8,satpm,34.3,2023,who-sdg1162,2296,2275,1,44,19.8,22.5,2023,ihme-gbd2023
+Pakistan,PAK,586,2024,53.8,10.8,Over 7× (35 or more),42.4,54.6,44.8,satpm,43.1,2023,who-sdg1162,247949,99098,143535,17976,20.5,40.6,2023,ihme-gbd2023
+Cameroon,CMR,120,2024,51.5,10.3,Over 7× (35 or more),50.7,54.5,40.0,satpm,55.4,2023,who-sdg1162,28141,7768,20543,396,13.9,22.9,2023,ihme-gbd2023
+Saudi Arabia,SAU,682,2024,50.4,10.1,Over 7× (35 or more),47,57.6,37.5,satpm,45.0,2023,who-sdg1162,14781,14648,10,236,17.9,44.4,2023,ihme-gbd2023
+Nigeria,NGA,566,2024,50,10.0,Over 7× (35 or more),52,55.8,30.5,satpm,54.7,2023,who-sdg1162,205753,81606,123028,2381,13.9,33.3,2023,ihme-gbd2023
+Iraq,IRQ,368,2024,48.8,9.8,Over 7× (35 or more),47,47.9,34.3,satpm,40.4,2023,who-sdg1162,35997,35720,357,787,19.0,80.9,2023,ihme-gbd2023
+Bahrain,BHR,048,2024,48.1,9.6,Over 7× (35 or more),50.9,54,34.5,satpm,46.2,2023,who-sdg1162,700,679,2,33,16.7,43.4,2023,ihme-gbd2023
+Niger,NER,562,2024,47.9,9.6,Over 7× (35 or more),52.7,56.8,15.3,satpm,53.6,2023,who-sdg1162,33452,5722,27525,245,16.2,21.5,2023,ihme-gbd2023
+India,IND,356,2024,44.2,8.8,Over 7× (35 or more),36.6,56.4,40.8,satpm,43.1,2023,who-sdg1162,2005762,969726,937780,233970,21.4,67.2,2023,ihme-gbd2023
+Rwanda,RWA,646,2024,41.8,8.4,Over 7× (35 or more),39.1,44.9,40.4,satpm,29.4,2023,who-sdg1162,12173,1704,10467,120,14.2,12.2,2023,ihme-gbd2023
+Egypt,EGY,818,2024,41.3,8.3,Over 7× (35 or more),41.8,43.1,29.5,satpm,53.6,2023,who-sdg1162,113115,111303,1021,1394,18.1,101.4,2023,ihme-gbd2023
+Democratic Republic of Congo,COD,180,2024,41.2,8.2,Over 7× (35 or more),32.7,42.6,41.3,satpm,28.8,2023,who-sdg1162,89596,11405,77094,2124,15.7,12.1,2023,ihme-gbd2023
+Nepal,NPL,524,2024,40.7,8.1,Over 7× (35 or more),34.2,46.3,37.5,satpm,47.8,2023,who-sdg1162,41316,11006,28274,5316,24.5,35.4,2023,ihme-gbd2023
+Bolivia,BOL,068,2024,40.6,8.1,Over 7× (35 or more),24.7,25.2,40.6,satpm,16.9,2023,who-sdg1162,6539,4827,1622,108,9.2,40.0,2023,ihme-gbd2023
+Burundi,BDI,108,2024,40.4,8.1,Over 7× (35 or more),36.8,43.9,39,satpm,23.6,2023,who-sdg1162,12337,1144,11181,69,13.5,8.0,2023,ihme-gbd2023
+Congo,COG,178,2024,40.3,8.1,Over 7× (35 or more),24.9,38.5,37.6,satpm,27.2,2023,who-sdg1162,4153,1750,2360,96,13.2,28.6,2023,ihme-gbd2023
+Afghanistan,AFG,004,2024,40,8.0,Over 7× (35 or more),30.4,33.7,30.2,satpm,50.4,2023,who-sdg1162,30691,3198,27681,377,23.3,8.8,2023,ihme-gbd2023
+Chad,TCD,148,2024,39.2,7.8,Over 7× (35 or more),39.9,43.6,20.5,satpm,52.1,2023,who-sdg1162,23889,3995,20209,171,15.6,20.7,2023,ihme-gbd2023
+Mongolia,MNG,496,2024,38.2,7.6,Over 7× (35 or more),25.5,41.1,29.4,satpm,40.9,2023,who-sdg1162,2462,1908,544,23,16.0,55.1,2023,ihme-gbd2023
+Iran,IRN,364,2024,37.7,7.5,Over 7× (35 or more),35.1,36.1,28.7,satpm,33.0,2023,who-sdg1162,53474,51870,65,2343,15.6,59.0,2023,ihme-gbd2023
+Uganda,UGA,800,2024,37.3,7.5,Over 7× (35 or more),34.1,34.9,36.3,satpm,30.3,2023,who-sdg1162,27136,3404,23472,155,11.5,7.5,2023,ihme-gbd2023
+Senegal,SEN,686,2024,36.5,7.3,Over 7× (35 or more),40.5,38.7,12.7,satpm,44.7,2023,who-sdg1162,14974,2310,12578,158,16.5,12.3,2023,ihme-gbd2023
+Gambia,GMB,270,2024,35.7,7.1,Over 7× (35 or more),38.7,36.5,15.0,satpm,40.9,2023,who-sdg1162,2640,441,2174,21,18.5,17.5,2023,ihme-gbd2023
+Equatorial Guinea,GNQ,226,2024,35.4,7.1,Over 7× (35 or more),28.9,36.4,33.0,satpm,28.1,2023,who-sdg1162,738,703,34,16,10.2,43.2,2023,ihme-gbd2023
+Benin,BEN,204,2024,35.3,7.1,Over 7× (35 or more),35,39.2,24.6,satpm,28.2,2023,who-sdg1162,11478,2124,9149,189,14.3,14.9,2023,ihme-gbd2023
+Mauritania,MRT,478,2024,35.2,7.0,Over 7× (35 or more),39.2,37.9,7.5,satpm,45.6,2023,who-sdg1162,3921,1614,2318,30,15.5,35.1,2023,ihme-gbd2023
+Yemen,YEM,887,2024,35,7.0,3 to 7×,33.5,38.4,24.3,satpm,34.4,2023,who-sdg1162,28926,6923,21984,309,23.5,19.5,2023,ihme-gbd2023
+Burkina Faso,BFA,854,2024,34.6,6.9,3 to 7×,39.3,39.2,16.0,satpm,38.5,2023,who-sdg1162,18190,2922,15016,197,13.2,12.0,2023,ihme-gbd2023
+Oman,OMN,512,2024,34.1,6.8,3 to 7×,31.6,33.9,21.7,satpm,30.4,2023,who-sdg1162,1645,1624,1,32,15.8,31.6,2023,ihme-gbd2023
+Jordan,JOR,400,2024,32.6,6.5,3 to 7×,29,33.3,26.0,satpm,23.7,2023,who-sdg1162,5142,5075,3,94,13.7,38.4,2023,ihme-gbd2023
+Tajikistan,TJK,762,2024,32.6,6.5,3 to 7×,25,29.4,25.9,satpm,32.2,2023,who-sdg1162,9271,3473,5716,169,21.0,32.5,2023,ihme-gbd2023
+Central African Republic,CAF,140,2024,32.3,6.5,3 to 7×,32.1,32.5,30.1,satpm,27.1,2023,who-sdg1162,9215,941,8185,180,14.5,14.3,2023,ihme-gbd2023
+Gabon,GAB,266,2024,32.2,6.4,3 to 7×,19.4,29.3,28.5,satpm,22.9,2023,who-sdg1162,1122,1068,40,20,9.1,55.8,2023,ihme-gbd2023
+Armenia,ARM,051,2024,31.8,6.4,3 to 7×,25.3,29.5,26.8,satpm,31.5,2023,who-sdg1162,3779,3704,42,62,14.6,122.2,2023,ihme-gbd2023
+Honduras,HND,340,2024,31.6,6.3,3 to 7×,25.9,24.6,28.8,satpm,23.3,2023,who-sdg1162,7569,2920,4613,115,18.4,27.3,2023,ihme-gbd2023
+China,CHN,156,2024,31.3,6.3,3 to 7×,33.4,49.6,29.6,satpm,32.1,2023,who-sdg1162,2037563,1778639,215050,93729,18.8,124.3,2023,ihme-gbd2023
+Myanmar,MMR,104,2024,31.2,6.2,3 to 7×,25.2,30.6,29.6,satpm,29.2,2023,who-sdg1162,125873,36470,87966,2913,23.9,63.4,2023,ihme-gbd2023
+Djibouti,DJI,262,2024,31.1,6.2,3 to 7×,34.4,34.5,25.5,satpm,28.4,2023,who-sdg1162,746,414,330,3,10.5,29.8,2023,ihme-gbd2023
+Mali,MLI,466,2024,31,6.2,3 to 7×,36.6,34.8,12.3,satpm,36.8,2023,who-sdg1162,24556,4110,20402,210,14.7,17.0,2023,ihme-gbd2023
+Togo,TGO,768,2024,31,6.2,3 to 7×,33.9,35.2,22.3,satpm,33.3,2023,who-sdg1162,7920,1386,6465,114,15.4,16.2,2023,ihme-gbd2023
+Syria,SYR,760,2024,30.8,6.2,3 to 7×,27.3,30.5,24.5,satpm,28.2,2023,who-sdg1162,14470,14157,55,361,16.8,79.6,2023,ihme-gbd2023
+El Salvador,SLV,222,2024,30.7,6.1,3 to 7×,26.8,26.4,29.6,satpm,25.0,2023,who-sdg1162,4921,4038,811,103,10.7,65.3,2023,ihme-gbd2023
+Uzbekistan,UZB,860,2024,30,6.0,3 to 7×,28.8,30.5,24.3,satpm,24.4,2023,who-sdg1162,37465,31691,5510,238,20.2,89.7,2023,ihme-gbd2023
+Turkmenistan,TKM,795,2024,29.1,5.8,3 to 7×,28.7,26,19.0,satpm,16.5,2023,who-sdg1162,5288,5258,1,41,16.2,93.7,2023,ihme-gbd2023
+Guinea-Bissau,GNB,624,2024,29,5.8,3 to 7×,32.7,30.4,15.2,satpm,37.5,2023,who-sdg1162,2451,334,2139,18,17.2,15.4,2023,ihme-gbd2023
+Sudan,SDN,729,2024,28.8,5.8,3 to 7×,28.2,30.9,16.9,satpm,29.8,2023,who-sdg1162,38357,18584,19836,513,18.7,49.6,2023,ihme-gbd2023
+Ghana,GHA,288,2024,28.2,5.6,3 to 7×,28.9,29.1,20.6,satpm,43.3,2023,who-sdg1162,32525,9440,23139,300,15.6,28.4,2023,ihme-gbd2023
+Guatemala,GTM,320,2024,27.7,5.5,3 to 7×,26.2,22.9,27.2,satpm,24.4,2023,who-sdg1162,10553,4521,6016,56,13.7,27.4,2023,ihme-gbd2023
+Peru,PER,604,2024,27.6,5.5,3 to 7×,22.3,24.5,24.7,satpm,18.4,2023,who-sdg1162,16984,14531,2357,214,8.1,40.2,2023,ihme-gbd2023
+Laos,LAO,418,2024,27,5.4,3 to 7×,22.9,24.7,26.7,satpm,26.9,2023,who-sdg1162,12772,3056,9691,157,23.3,40.6,2023,ihme-gbd2023
+Lebanon,LBN,422,2024,26.2,5.2,3 to 7×,27.2,29.2,20.1,satpm,26.5,2023,who-sdg1162,3417,3288,33,128,11.0,57.6,2023,ihme-gbd2023
+Angola,AGO,024,2024,26.1,5.2,3 to 7×,18.8,21,25.1,satpm,22.6,2023,who-sdg1162,18266,6725,11302,322,9.5,18.6,2023,ihme-gbd2023
+Turkey,TUR,792,2024,25.6,5.1,3 to 7×,23.2,25.8,23.0,satpm,21.1,2023,who-sdg1162,73474,70953,72,4296,12.3,82.6,2023,ihme-gbd2023
+Vietnam,VNM,704,2024,25.6,5.1,3 to 7×,19.8,25.2,24.6,satpm,22.9,2023,who-sdg1162,94827,57575,36074,1917,14.2,55.8,2023,ihme-gbd2023
+Zambia,ZMB,894,2024,25.4,5.1,3 to 7×,18.4,22,24.4,satpm,16.6,2023,who-sdg1162,13797,1998,11650,59,12.5,9.5,2023,ihme-gbd2023
+Bosnia and Herzegovina,BIH,070,2024,25.2,5.0,3 to 7×,28.8,29.7,23.2,satpm,24.5,2023,who-sdg1162,6294,4714,1521,101,16.3,147.7,2023,ihme-gbd2023
+Eritrea,ERI,232,2024,25,5.0,3 to 7×,26.6,28,17.9,satpm,25.0,2023,who-sdg1162,5855,954,4868,28,11.9,13.6,2023,ihme-gbd2023
+Bhutan,BTN,064,2024,24.7,4.9,3 to 7×,23.1,30.9,25.2,satpm,29.5,2023,who-sdg1162,638,473,95,99,13.4,63.4,2023,ihme-gbd2023
+Tanzania,TZA,834,2024,24.6,4.9,3 to 7×,22,23.5,22.4,satpm,15.2,2023,who-sdg1162,45861,4746,40760,172,13.7,7.3,2023,ihme-gbd2023
+Lesotho,LSO,426,2024,24.5,4.9,3 to 7×,24.4,24.8,22.6,satpm,19.1,2023,who-sdg1162,2327,397,1924,52,11.4,20.7,2023,ihme-gbd2023
+South Africa,ZAF,710,2024,24.4,4.9,3 to 7×,21.2,22.9,21.6,satpm,19.8,2023,who-sdg1162,32967,27773,4590,886,6.6,43.4,2023,ihme-gbd2023
+South Sudan,SSD,728,2024,24.1,4.8,3 to 7×,23.1,25.6,20.9,satpm,22.5,2023,who-sdg1162,10378,846,9681,33,12.4,8.6,2023,ihme-gbd2023
+Guinea,GIN,324,2024,23.9,4.8,3 to 7×,26.3,26.7,15.2,satpm,35.7,2023,who-sdg1162,16885,2119,14752,161,16.8,15.0,2023,ihme-gbd2023
+Azerbaijan,AZE,031,2024,23.7,4.7,3 to 7×,24.2,22.4,16.6,satpm,24.0,2023,who-sdg1162,9203,8872,257,153,13.8,84.3,2023,ihme-gbd2023
+Thailand,THA,764,2024,23.3,4.7,3 to 7×,20.5,21.7,22.1,satpm,25.1,2023,who-sdg1162,54746,50947,2155,2281,8.6,77.5,2023,ihme-gbd2023
+Chile,CHL,152,2024,23.2,4.6,3 to 7×,21.7,25.4,20.1,satpm,21.6,2023,who-sdg1162,9658,9205,344,154,7.6,48.1,2023,ihme-gbd2023
+Palestine,PSE,275,2024,23.2,4.6,3 to 7×,21.7,23.7,17.8,satpm,20.4,2023,who-sdg1162,1753,1617,99,39,7.6,29.9,2023,ihme-gbd2023
+Philippines,PHL,608,2024,23.1,4.6,3 to 7×,20.8,21.8,18.4,satpm,16.9,2023,who-sdg1162,99041,43951,54986,105,16.3,38.4,2023,ihme-gbd2023
+Kenya,KEN,404,2024,22,4.4,3 to 7×,21.2,19.6,20.2,satpm,18.2,2023,who-sdg1162,28462,3920,24474,172,11.7,7.5,2023,ihme-gbd2023
+Malawi,MWI,454,2024,21.8,4.4,3 to 7×,15.6,18.7,19.9,satpm,14.8,2023,who-sdg1162,14982,964,14058,47,11.8,4.6,2023,ihme-gbd2023
+Georgia,GEO,268,2024,21.5,4.3,3 to 7×,19.8,21.2,18.3,satpm,18.0,2023,who-sdg1162,4766,4175,549,98,10.5,116.6,2023,ihme-gbd2023
+Paraguay,PRY,600,2024,21.3,4.3,3 to 7×,14.1,14.8,20.6,satpm,16.4,2023,who-sdg1162,3787,2571,1126,111,9.4,40.7,2023,ihme-gbd2023
+North Korea,PRK,408,2024,21.2,4.2,3 to 7×,20,28.4,20.5,satpm,24.9,2023,who-sdg1162,61566,6874,53852,2685,27.5,26.0,2023,ihme-gbd2023
+South Korea,KOR,410,2024,21,4.2,3 to 7×,21.1,24.6,19.6,satpm,19.2,2023,who-sdg1162,36765,34835,81,2318,10.1,67.4,2023,ihme-gbd2023
+North Macedonia,MKD,807,2024,20.7,4.1,3 to 7×,29,28.3,19.4,satpm,23.2,2023,who-sdg1162,2730,2516,201,22,13.0,135.8,2023,ihme-gbd2023
+Sri Lanka,LKA,144,2024,20.7,4.1,3 to 7×,18,21.1,17.3,satpm,21.4,2023,who-sdg1162,27591,16675,10423,769,15.0,73.6,2023,ihme-gbd2023
+Bulgaria,BGR,100,2024,20.6,4.1,3 to 7×,27.3,22.2,19.1,satpm,13.7,2023,who-sdg1162,11118,10510,554,110,10.5,151.7,2023,ihme-gbd2023
+Nicaragua,NIC,558,2024,20.5,4.1,3 to 7×,18.8,18.8,17.4,satpm,18.6,2023,who-sdg1162,3675,1094,2556,43,14.7,16.1,2023,ihme-gbd2023
+Israel,ISR,376,2024,20.4,4.1,3 to 7×,20.2,21.9,16.7,satpm,16.9,2023,who-sdg1162,4507,4305,11,233,8.3,43.1,2023,ihme-gbd2023
+Costa Rica,CRI,188,2024,20.3,4.1,3 to 7×,15.7,19,16.2,satpm,15.6,2023,who-sdg1162,1989,1877,78,43,6.9,36.0,2023,ihme-gbd2023
+Cote d'Ivoire,CIV,384,2024,20.2,4.0,3 to 7×,19.6,21.4,15.1,satpm,32.5,2023,who-sdg1162,25217,5947,19229,221,13.1,17.6,2023,ihme-gbd2023
+Ethiopia,ETH,231,2024,20.2,4.0,3 to 7×,19.3,23.8,18.3,satpm,22.3,2023,who-sdg1162,87978,8488,79112,387,12.2,7.5,2023,ihme-gbd2023
+Sierra Leone,SLE,694,2024,20.2,4.0,3 to 7×,20.7,21.3,14.7,satpm,36.9,2023,who-sdg1162,9153,988,8050,64,14.3,12.3,2023,ihme-gbd2023
+Tunisia,TUN,788,2024,20.2,4.0,3 to 7×,19.9,17.2,11.6,satpm,22.3,2023,who-sdg1162,6721,6422,28,334,9.0,53.6,2023,ihme-gbd2023
+Zimbabwe,ZWE,716,2024,20.1,4.0,3 to 7×,14.9,17.6,18.9,satpm,15.4,2023,who-sdg1162,11912,1123,10717,110,11.4,7.0,2023,ihme-gbd2023
+Eswatini,SWZ,748,2024,20,4.0,3 to 7×,15.8,18.7,18.3,satpm,15.3,2023,who-sdg1162,755,283,473,14,7.5,23.8,2023,ihme-gbd2023
+Macao,MAC,446,2024,19.7,3.9,3 to 7×,25,29.7,,satpm,,,,,,,,,,,
+Western Sahara,ESH,732,2024,19.5,3.9,3 to 7×,19,16.6,5.8,satpm,25.6,2023,who-sdg1162,,,,,,,,
+Cambodia,KHM,116,2024,19,3.8,3 to 7×,15.9,16.1,17.6,satpm,21.0,2023,who-sdg1162,20255,3227,16861,309,21.4,18.8,2023,ihme-gbd2023
+Indonesia,IDN,360,2024,18.5,3.7,3 to 7×,13.3,23.1,17.7,satpm,17.8,2023,who-sdg1162,192112,147126,42670,4389,10.7,51.2,2023,ihme-gbd2023
+Mexico,MEX,484,2024,18.3,3.7,3 to 7×,19.8,16.7,17.4,satpm,16.7,2023,who-sdg1162,61370,54070,5582,1989,7.9,41.0,2023,ihme-gbd2023
+Ecuador,ECU,218,2024,17.7,3.5,3 to 7×,14,17.1,17.0,satpm,8.4,2023,who-sdg1162,7064,6492,526,83,7.1,36.6,2023,ihme-gbd2023
+Jamaica,JAM,388,2024,17.6,3.5,3 to 7×,16.6,18.3,15.3,satpm,11.5,2023,who-sdg1162,1692,1400,271,24,8.2,49.2,2023,ihme-gbd2023
+Serbia,SRB,688,2024,17.6,3.5,3 to 7×,22,22.9,16.1,satpm,18.3,2023,who-sdg1162,14085,12012,1977,101,11.9,133.8,2023,ihme-gbd2023
+Morocco,MAR,504,2024,17.4,3.5,3 to 7×,16.6,18.4,9.9,satpm,14.3,2023,who-sdg1162,28010,27390,353,687,10.4,74.2,2023,ihme-gbd2023
+Liberia,LBR,430,2024,17.2,3.4,3 to 7×,15.1,18.3,13.1,satpm,32.5,2023,who-sdg1162,6038,571,5533,44,15.6,10.0,2023,ihme-gbd2023
+Montenegro,MNE,499,2024,17.2,3.4,3 to 7×,20.8,20.1,15.8,satpm,14.6,2023,who-sdg1162,890,702,177,12,12.5,107.3,2023,ihme-gbd2023
+Libya,LBY,434,2024,17.1,3.4,3 to 7×,17.9,16.3,9.1,satpm,24.5,2023,who-sdg1162,3271,3186,6,92,7.4,43.0,2023,ihme-gbd2023
+Cape Verde,CPV,132,2024,17,3.4,3 to 7×,23.1,18.5,4.9,satpm,29.1,2023,who-sdg1162,309,165,138,4,11.0,33.3,2023,ihme-gbd2023
+Kyrgyzstan,KGZ,417,2024,17,3.4,3 to 7×,19.9,21.2,14.8,satpm,21.4,2023,who-sdg1162,4652,1593,2955,143,17.1,22.0,2023,ihme-gbd2023
+Mozambique,MOZ,508,2024,17,3.4,3 to 7×,13.3,14.6,14.5,satpm,12.6,2023,who-sdg1162,24145,1244,23441,55,11.9,3.7,2023,ihme-gbd2023
+Albania,ALB,008,2024,16.9,3.4,3 to 7×,19.9,18.6,14.0,satpm,13.5,2023,who-sdg1162,2322,1836,478,25,10.8,75.7,2023,ihme-gbd2023
+Botswana,BWA,072,2024,16.7,3.3,3 to 7×,13.6,14.8,15.9,satpm,14.9,2023,who-sdg1162,896,590,279,35,5.7,24.1,2023,ihme-gbd2023
+Cyprus,CYP,196,2024,16.6,3.3,3 to 7×,17.3,16.6,14.1,satpm,14.6,2023,who-sdg1162,784,717,1,77,7.7,52.4,2023,ihme-gbd2023
+Taiwan,TWN,158,2024,16.6,3.3,3 to 7×,20.5,20.7,15.0,satpm,,,,14523,12744,1298,569,6.6,54.9,2023,ihme-gbd2023
+Kazakhstan,KAZ,398,2024,16,3.2,3 to 7×,15.3,17.9,13.7,satpm,17.2,2023,who-sdg1162,12758,12045,164,875,10.5,59.0,2023,ihme-gbd2023
+Hong Kong,HKG,344,2024,15.8,3.2,3 to 7×,20,23,,satpm,,,,,,,,,,,
+Venezuela,VEN,862,2024,15.8,3.2,3 to 7×,13.6,16.5,11.9,satpm,17.3,2023,who-sdg1162,18432,17634,578,158,8.9,68.7,2023,ihme-gbd2023
+Poland,POL,616,2024,15.6,3.1,3 to 7×,25.2,22,14.3,satpm,15.4,2023,who-sdg1162,29254,28638,333,580,6.7,73.4,2023,ihme-gbd2023
+Sao Tome and Principe,STP,678,2024,15.6,3.1,3 to 7×,17,16.6,12.6,satpm,26.7,2023,who-sdg1162,134,33,99,5,12.7,14.9,2023,ihme-gbd2023
+Namibia,NAM,516,2024,15.5,3.1,3 to 7×,13.5,12.6,14.5,satpm,14.1,2023,who-sdg1162,1586,570,987,44,9.0,18.9,2023,ihme-gbd2023
+Brazil,BRA,076,2024,15.3,3.1,3 to 7×,11.6,13.4,13.5,satpm,21.3,2023,who-sdg1162,87399,78040,5078,5039,5.9,36.8,2023,ihme-gbd2023
+Malaysia,MYS,458,2024,15.3,3.1,3 to 7×,13.5,24.4,13.9,satpm,18.2,2023,who-sdg1162,16315,15905,57,428,8.8,46.6,2023,ihme-gbd2023
+Italy,ITA,380,2024,15.2,3.0,3 to 7×,20.3,18.6,13.3,satpm,13.7,2023,who-sdg1162,51297,47216,324,4296,6.8,80.2,2023,ihme-gbd2023
+Colombia,COL,170,2024,15.1,3.0,3 to 7×,13.8,15.7,13.9,satpm,14.8,2023,who-sdg1162,21719,20638,745,389,7.9,39.6,2023,ihme-gbd2023
+Greece,GRC,300,2024,15.1,3.0,3 to 7×,18.6,16.4,13.0,satpm,15.0,2023,who-sdg1162,9340,8920,21,448,6.4,83.6,2023,ihme-gbd2023
+Cayman Islands,CYM,136,2024,15,3.0,2 to 3×,14.7,15.9,11.3,satpm,10.0,2023,who-sdg1162,,,,,,,,
+Guyana,GUY,328,2024,14.8,3.0,2 to 3×,13.1,16.6,8.4,satpm,10.3,2023,who-sdg1162,417,399,23,0,6.5,48.8,2023,ihme-gbd2023
+Panama,PAN,591,2024,14.7,2.9,2 to 3×,11.2,15.2,11.0,satpm,12.1,2023,who-sdg1162,1552,1550,19,27,6.7,36.9,2023,ihme-gbd2023
+Croatia,HRV,191,2024,14.6,2.9,2 to 3×,20.1,19.4,13.2,satpm,13.8,2023,who-sdg1162,4325,4030,139,189,7.9,103.6,2023,ihme-gbd2023
+Argentina,ARG,032,2024,14.5,2.9,2 to 3×,15,15.2,13.3,satpm,12.5,2023,who-sdg1162,23641,23191,9,611,6.1,48.8,2023,ihme-gbd2023
+Algeria,DZA,012,2024,14.4,2.9,2 to 3×,12.9,13.4,7.1,satpm,18.8,2023,who-sdg1162,20543,19774,11,943,9.4,44.5,2023,ihme-gbd2023
+Belize,BLZ,084,2024,14.4,2.9,2 to 3×,12.7,12.1,12.6,satpm,11.8,2023,who-sdg1162,163,115,46,3,9.0,27.9,2023,ihme-gbd2023
+Romania,ROU,642,2024,14.3,2.9,2 to 3×,20.1,17.7,12.7,satpm,11.0,2023,who-sdg1162,20373,19898,656,98,7.9,103.0,2023,ihme-gbd2023
+Ukraine,UKR,804,2024,14.2,2.8,2 to 3×,19.6,16.3,11.8,satpm,9.6,2023,who-sdg1162,50373,46884,3149,362,8.3,119.2,2023,ihme-gbd2023
+Haiti,HTI,332,2024,14,2.8,2 to 3×,13.2,14.6,10.4,satpm,26.0,2023,who-sdg1162,19379,1623,17801,84,19.6,12.0,2023,ihme-gbd2023
+Slovenia,SVN,705,2024,13.5,2.7,2 to 3×,19.3,17,11.5,satpm,12.5,2023,who-sdg1162,1159,1058,32,78,5.0,50.0,2023,ihme-gbd2023
+Suriname,SUR,740,2024,13.5,2.7,2 to 3×,12.1,15.1,6.7,satpm,9.8,2023,who-sdg1162,314,294,21,0,7.1,49.5,2023,ihme-gbd2023
+Trinidad and Tobago,TTO,780,2024,13.5,2.7,2 to 3×,12.9,13.2,6.3,satpm,9.6,2023,who-sdg1162,878,877,0,1,6.4,63.2,2023,ihme-gbd2023
+Vatican,VAT,336,2024,13.5,2.7,2 to 3×,21,18.5,10.9,satpm,14.2,2023,who-sdg1162,,,,,,,,
+Hungary,HUN,348,2024,13.4,2.7,2 to 3×,24.3,20.1,11.9,satpm,11.6,2023,who-sdg1162,9372,8329,745,370,7.0,86.5,2023,ihme-gbd2023
+Slovakia,SVK,703,2024,13.2,2.6,2 to 3×,22.8,19.6,12.0,satpm,12.6,2023,who-sdg1162,3543,3457,14,82,6.4,63.8,2023,ihme-gbd2023
+Mauritius,MUS,480,2024,13,2.6,2 to 3×,13.9,13.5,5.7,satpm,8.1,2023,who-sdg1162,945,942,5,0,7.2,73.9,2023,ihme-gbd2023
+Belarus,BLR,112,2024,12.9,2.6,2 to 3×,18,15,11.6,satpm,9.6,2023,who-sdg1162,7921,7902,14,42,6.2,83.2,2023,ihme-gbd2023
+French Guiana,GUF,254,2024,12.9,2.6,2 to 3×,11.4,13.2,5.9,satpm,8.8,2023,who-sdg1162,,,,,,,,
+Russia,RUS,643,2024,12.9,2.6,2 to 3×,15.3,11.8,11.0,satpm,7.7,2023,who-sdg1162,91734,89748,1063,1135,4.8,60.4,2023,ihme-gbd2023
+San Marino,SMR,674,2024,12.9,2.6,2 to 3×,17.4,15.9,11.3,satpm,8.6,2023,who-sdg1162,19,17,0,1,6.0,48.9,2023,ihme-gbd2023
+Latvia,LVA,428,2024,12.7,2.5,2 to 3×,17.6,15.6,11.8,satpm,10.9,2023,who-sdg1162,1910,1785,127,10,6.1,94.2,2023,ihme-gbd2023
+Gibraltar,GIB,292,2024,12.6,2.5,2 to 3×,11.2,12.9,8.7,satpm,8.4,2023,who-sdg1162,,,,,,,,
+Moldova,MDA,498,2024,12.6,2.5,2 to 3×,17.5,15,10.9,satpm,9.2,2023,who-sdg1162,3524,2599,900,29,8.7,72.0,2023,ihme-gbd2023
+Dominican Republic,DOM,214,2024,12.3,2.5,2 to 3×,11,11.9,8.7,satpm,33.5,2023,who-sdg1162,5186,4524,635,42,6.8,40.3,2023,ihme-gbd2023
+Singapore,SGP,702,2024,12.2,2.4,2 to 3×,12.3,24.9,11.1,satpm,11.8,2023,who-sdg1162,2305,2240,15,58,8.4,39.4,2023,ihme-gbd2023
+Czechia,CZE,203,2024,12.1,2.4,2 to 3×,20.3,17,11.2,satpm,11.2,2023,who-sdg1162,6653,6259,58,367,5.6,57.5,2023,ihme-gbd2023
+Curacao,CUW,531,2024,12,2.4,2 to 3×,9.5,11.3,6.7,satpm,14.2,2023,who-sdg1162,,,,,,,,
+Uruguay,URY,858,2024,11.9,2.4,2 to 3×,11.9,12,9.5,satpm,11.6,2023,who-sdg1162,1645,1593,14,44,4.3,46.8,2023,ihme-gbd2023
+Martinique,MTQ,474,2024,11.8,2.4,2 to 3×,11.6,12.7,4.2,satpm,8.9,2023,who-sdg1162,,,,,,,,
+Lithuania,LTU,440,2024,11.6,2.3,2 to 3×,16.3,15,10.6,satpm,8.6,2023,who-sdg1162,1944,1894,58,12,4.5,66.7,2023,ihme-gbd2023
+Madagascar,MDG,450,2024,11.6,2.3,2 to 3×,9.5,12.6,9.1,satpm,12.2,2023,who-sdg1162,28789,1301,27604,63,15.0,4.2,2023,ihme-gbd2023
+Somalia,SOM,706,2024,11.5,2.3,2 to 3×,15.7,12.3,8.4,satpm,17.0,2023,who-sdg1162,16988,1087,15630,54,11.3,5.0,2023,ihme-gbd2023
+Barbados,BRB,052,2024,11.2,2.2,2 to 3×,10.8,11.8,3.5,satpm,9.8,2023,who-sdg1162,141,140,0,0,4.2,46.7,2023,ihme-gbd2023
+Malta,MLT,470,2024,11.1,2.2,2 to 3×,12.6,13.1,8.1,satpm,11.2,2023,who-sdg1162,225,206,2,18,5.3,37.1,2023,ihme-gbd2023
+Papua New Guinea,PNG,598,2024,11,2.2,2 to 3×,8.4,11.8,9.5,satpm,6.3,2023,who-sdg1162,13591,1260,12325,2,23.9,11.3,2023,ihme-gbd2023
+Aruba,ABW,533,2024,10.9,2.2,2 to 3×,9.3,10.6,6.2,satpm,13.9,2023,who-sdg1162,,,,,,,,
+East Timor,TLS,626,2024,10.8,2.2,2 to 3×,9.7,11.3,9.4,satpm,12.2,2023,who-sdg1162,1720,126,1591,14,20.9,8.8,2023,ihme-gbd2023
+Maldives,MDV,462,2024,10.7,2.1,2 to 3×,13.6,11.9,7.2,satpm,9.8,2023,who-sdg1162,106,88,3,21,6.1,16.3,2023,ihme-gbd2023
+Monaco,MCO,492,2024,10.7,2.1,2 to 3×,15.8,14.6,9.2,satpm,8.7,2023,who-sdg1162,28,26,0,2,4.7,66.8,2023,ihme-gbd2023
+Grenada,GRD,308,2024,10.6,2.1,2 to 3×,11,11.5,3.5,satpm,8.9,2023,who-sdg1162,47,43,3,0,4.7,37.8,2023,ihme-gbd2023
+Comoros,COM,174,2024,10.5,2.1,2 to 3×,8.5,8.5,7.2,satpm,11.5,2023,who-sdg1162,584,38,548,1,13.2,4.4,2023,ihme-gbd2023
+Japan,JPN,392,2024,10.5,2.1,2 to 3×,15.3,13.3,10,satpm,8.5,2023,who-sdg1162,97799,93771,555,3831,5.0,75.2,2023,ihme-gbd2023
+Portugal,PRT,620,2024,10.5,2.1,2 to 3×,11.8,10.3,7.4,satpm,6.5,2023,who-sdg1162,4711,4379,29,318,3.5,41.6,2023,ihme-gbd2023
+Liechtenstein,LIE,438,2024,10.4,2.1,2 to 3×,15.9,13.2,10.3,satpm,7.0,2023,who-sdg1162,,,,,,,,
+Saint Lucia,LCA,662,2024,10.4,2.1,2 to 3×,10.5,10.9,3.7,satpm,8.8,2023,who-sdg1162,49,46,2,0,3.8,25.8,2023,ihme-gbd2023
+Austria,AUT,040,2024,10.3,2.1,2 to 3×,16.1,13.7,9.6,satpm,9.9,2023,who-sdg1162,3671,3267,68,356,3.9,36.1,2023,ihme-gbd2023
+Saint Vincent and the Grenadines,VCT,670,2024,10.2,2.0,2 to 3×,10.2,11.4,3.5,satpm,8.7,2023,who-sdg1162,46,42,4,0,4.2,36.1,2023,ihme-gbd2023
+Spain,ESP,724,2024,10,2.0,Up to 2× the guideline,12.7,11.3,7.6,satpm,8.3,2023,who-sdg1162,21505,18995,123,2584,4.3,39.8,2023,ihme-gbd2023
+Bonaire Sint Eustatius and Saba,BES,535,2024,9.9,2.0,Up to 2× the guideline,9.6,10.2,5.1,satpm,12.6,2023,who-sdg1162,,,,,,,,
+Cuba,CUB,192,2024,9.9,2.0,Up to 2× the guideline,11.9,9.3,8.1,satpm,12.4,2023,who-sdg1162,5123,4695,262,176,4.2,41.5,2023,ihme-gbd2023
+Mayotte,MYT,175,2024,9.8,2.0,Up to 2× the guideline,9.1,8.6,7.1,satpm,11.9,2023,who-sdg1162,,,,,,,,
+Falkland Islands,FLK,238,2024,9.7,1.9,Up to 2× the guideline,9.6,11.3,2.8,satpm,,,,,,,,,,,
+Netherlands,NLD,528,2024,9.6,1.9,Up to 2× the guideline,15.1,12.7,8.9,satpm,9.1,2023,who-sdg1162,5190,4649,36,527,2.9,26.1,2023,ihme-gbd2023
+Belgium,BEL,056,2024,9.3,1.9,Up to 2× the guideline,14.9,12.4,8.5,satpm,9.7,2023,who-sdg1162,3632,3259,37,352,3.0,28.1,2023,ihme-gbd2023
+Guadeloupe,GLP,312,2024,9.3,1.9,Up to 2× the guideline,9,9.8,3.9,satpm,8.0,2023,who-sdg1162,,,,,,,,
+Dominica,DMA,212,2024,9.1,1.8,Up to 2× the guideline,9,9.5,3.6,satpm,7.8,2023,who-sdg1162,34,27,8,0,5.1,38.8,2023,ihme-gbd2023
+Germany,DEU,276,2024,9.1,1.8,Up to 2× the guideline,14.9,12.1,8.5,satpm,8.8,2023,who-sdg1162,35516,32077,616,2940,3.2,38.0,2023,ihme-gbd2023
+Denmark,DNK,208,2024,9,1.8,Up to 2× the guideline,13.2,9.5,8.2,satpm,7.9,2023,who-sdg1162,1475,1240,11,233,2.4,21.0,2023,ihme-gbd2023
+Switzerland,CHE,756,2024,9,1.8,Up to 2× the guideline,15.3,12.3,8.3,satpm,8.2,2023,who-sdg1162,2543,2283,11,261,3.3,25.4,2023,ihme-gbd2023
+Brunei,BRN,096,2024,8.9,1.8,Up to 2× the guideline,6.5,12.9,8.4,satpm,4.8,2023,who-sdg1162,69,67,1,1,3.8,14.6,2023,ihme-gbd2023
+France,FRA,250,2024,8.9,1.8,Up to 2× the guideline,13.9,12,7.8,satpm,9.3,2023,who-sdg1162,17984,16618,183,1250,2.5,23.8,2023,ihme-gbd2023
+United Kingdom,GBR,826,2024,8.8,1.8,Up to 2× the guideline,11.9,10.5,7.8,satpm,8.0,2023,who-sdg1162,22780,22049,189,574,3.2,31.9,2023,ihme-gbd2023
+Andorra,AND,020,2024,8.7,1.7,Up to 2× the guideline,11.5,9.5,7.2,satpm,8.7,2023,who-sdg1162,25,23,0,3,3.4,25.0,2023,ihme-gbd2023
+Luxembourg,LUX,442,2024,8.4,1.7,Up to 2× the guideline,15.1,11.9,7.7,satpm,7.0,2023,who-sdg1162,105,89,1,16,2.4,13.6,2023,ihme-gbd2023
+Turks and Caicos Islands,TCA,796,2024,8.4,1.7,Up to 2× the guideline,9.7,7.3,4.5,satpm,14,2023,who-sdg1162,,,,,,,,
+Jersey,JEY,832,2024,8.1,1.6,Up to 2× the guideline,9.9,9.3,7.0,satpm,8.0,2023,who-sdg1162,,,,,,,,
+Antigua and Barbuda,ATG,028,2024,7.8,1.6,Up to 2× the guideline,8.6,8.8,3.1,satpm,8.7,2023,who-sdg1162,16,16,0,0,2.7,17.5,2023,ihme-gbd2023
+Montserrat,MSR,500,2024,7.6,1.5,Up to 2× the guideline,8.6,8.7,3.3,satpm,,,,,,,,,,,
+United States,USA,840,2024,7.5,1.5,Up to 2× the guideline,12.8,8.1,7.1,satpm,9.9,2023,who-sdg1162,82463,69744,384,12843,2.4,20.8,2023,ihme-gbd2023
+Guernsey,GGY,831,2024,7.4,1.5,Up to 2× the guideline,8.9,8,6.2,satpm,8.3,2023,who-sdg1162,,,,,,,,
+Ireland,IRL,372,2024,7.4,1.5,Up to 2× the guideline,8.8,7.7,5.6,satpm,6.8,2023,who-sdg1162,889,870,6,13,2.4,16.3,2023,ihme-gbd2023
+Puerto Rico,PRI,630,2024,7.3,1.5,Up to 2× the guideline,7.4,6.5,3.7,satpm,10.3,2023,who-sdg1162,915,908,2,5,2.2,27.5,2023,ihme-gbd2023
+Canada,CAN,124,2024,7,1.4,Up to 2× the guideline,8.4,7.3,6.7,satpm,9.1,2023,who-sdg1162,7062,6273,29,793,2.0,16.3,2023,ihme-gbd2023
+New Zealand,NZL,554,2024,7,1.4,Up to 2× the guideline,6.7,7,4.0,satpm,5.9,2023,who-sdg1162,924,877,4,44,2.2,17.1,2023,ihme-gbd2023
+Solomon Islands,SLB,090,2024,7,1.4,Up to 2× the guideline,4.7,8.8,5.5,satpm,6.3,2023,who-sdg1162,1671,88,1583,0,26.4,10.2,2023,ihme-gbd2023
+Seychelles,SYC,690,2024,6.9,1.4,Up to 2× the guideline,6.8,6.4,3.8,satpm,9.7,2023,who-sdg1162,22,21,0,1,2.8,19.8,2023,ihme-gbd2023
+Saint Kitts and Nevis,KNA,659,2024,6.8,1.4,Up to 2× the guideline,8.3,8,3.0,satpm,7.8,2023,who-sdg1162,11,11,0,0,3.0,22.3,2023,ihme-gbd2023
+Estonia,EST,233,2024,6.7,1.3,Up to 2× the guideline,9.1,7.9,6.1,satpm,5.4,2023,who-sdg1162,221,191,26,7,1.2,14.1,2023,ihme-gbd2023
+Norway,NOR,578,2024,6.7,1.3,Up to 2× the guideline,8.4,6.3,5.8,satpm,5.5,2023,who-sdg1162,488,408,5,76,1.1,7.5,2023,ihme-gbd2023
+Sint Maarten (Dutch part),SXM,534,2024,6.7,1.3,Up to 2× the guideline,7.7,7.3,2.8,satpm,8.7,2023,who-sdg1162,,,,,,,,
+Saint Barthelemy,BLM,652,2024,6.6,1.3,Up to 2× the guideline,8.4,7.7,2.8,satpm,7.8,2023,who-sdg1162,,,,,,,,
+Saint Martin (French part),MAF,663,2024,6.6,1.3,Up to 2× the guideline,7.9,7,2.8,satpm,7.6,2023,who-sdg1162,,,,,,,,
+Isle of Man,IMN,833,2024,6.5,1.3,Up to 2× the guideline,7.6,7.9,5.5,satpm,6.2,2023,who-sdg1162,,,,,,,,
+Anguilla,AIA,660,2024,6.1,1.2,Up to 2× the guideline,8.3,6.5,2.5,satpm,7.9,2023,who-sdg1162,,,,,,,,
+United States Virgin Islands,VIR,850,2024,6.1,1.2,Up to 2× the guideline,6.6,6,3.0,satpm,8.3,2023,who-sdg1162,19,19,0,0,1.6,22.0,2023,ihme-gbd2023
+Vanuatu,VUT,548,2024,5.8,1.2,Up to 2× the guideline,5.8,7.2,4.0,satpm,6.6,2023,who-sdg1162,447,20,426,1,25.2,6.2,2023,ihme-gbd2023
+British Virgin Islands,VGB,092,2024,5.7,1.1,Up to 2× the guideline,6.7,5.6,2.7,satpm,7.9,2023,who-sdg1162,,,,,,,,
+Fiji,FJI,242,2024,5.7,1.1,Up to 2× the guideline,5.4,5.8,2.7,satpm,6.3,2023,who-sdg1162,499,230,268,2,6.2,24.5,2023,ihme-gbd2023
+Sweden,SWE,752,2024,5.7,1.1,Up to 2× the guideline,8,6.1,5.2,satpm,4.8,2023,who-sdg1162,1037,919,10,109,1.0,8.7,2023,ihme-gbd2023
+Australia,AUS,036,2024,5.4,1.1,Up to 2× the guideline,5.3,5.8,3.9,satpm,6.3,2023,who-sdg1162,4157,3932,60,174,2.1,14.6,2023,ihme-gbd2023
+Finland,FIN,246,2024,5.4,1.1,Up to 2× the guideline,7.1,6.1,4.9,satpm,4.5,2023,who-sdg1162,440,406,6,29,0.6,7.3,2023,ihme-gbd2023
+Bahamas,BHS,044,2024,5.2,1.0,Up to 2× the guideline,6.4,4.6,3.9,satpm,8.1,2023,who-sdg1162,28,26,1,1,1.0,6.4,2023,ihme-gbd2023
+Saint Pierre and Miquelon,SPM,666,2024,5.1,1.0,Up to 2× the guideline,5.1,5.7,4.2,satpm,,,,,,,,,,,
+Reunion,REU,638,2024,5,1.0,Within WHO guideline (5 or less),5.5,5.9,2.7,satpm,5.9,2023,who-sdg1162,,,,,,,,
+New Caledonia,NCL,540,2024,4.9,1.0,Within WHO guideline (5 or less),5.5,5.5,2.9,satpm,6.0,2023,who-sdg1162,,,,,,,,
+Iceland,ISL,352,2024,4.6,0.9,Within WHO guideline (5 or less),4.1,4.1,3.0,satpm,6.3,2023,who-sdg1162,27,21,0,5,1.0,5.5,2023,ihme-gbd2023
+Tuvalu,TUV,798,2024,4.5,0.9,Within WHO guideline (5 or less),3.1,5.5,1.7,satpm,,,,5,1,4,0,3.9,9.6,2023,ihme-gbd2023
+Aland Islands,ALA,248,2024,4.3,0.9,Within WHO guideline (5 or less),6.2,4.7,3.9,satpm,,,,,,,,,,,
+Saint Helena,SHN,654,2024,4.1,0.8,Within WHO guideline (5 or less),3.5,4,2.5,satpm,,,,,,,,,,,
+Samoa,WSM,882,2024,4.1,0.8,Within WHO guideline (5 or less),3.6,4.8,1.4,satpm,6.1,2023,who-sdg1162,239,18,221,2,17.8,8.0,2023,ihme-gbd2023
+Cocos Islands,CCK,166,2024,4,0.8,Within WHO guideline (5 or less),3.2,4.7,1.8,satpm,,,,,,,,,,,
+Faroe Islands,FRO,234,2024,4,0.8,Within WHO guideline (5 or less),5.1,4.1,2.5,satpm,6.2,2023,who-sdg1162,,,,,,,,
+Tokelau,TKL,772,2024,4,0.8,Within WHO guideline (5 or less),3.5,4.7,1.1,satpm,,,,0,0,0,0,1.7,11.4,2023,ihme-gbd2023
+Wallis and Futuna,WLF,876,2024,4,0.8,Within WHO guideline (5 or less),3.6,4.4,1.4,satpm,,,,,,,,,,,
+Bermuda,BMU,060,2024,3.9,0.8,Within WHO guideline (5 or less),7.6,5.4,2.8,satpm,7.3,2023,who-sdg1162,8,6,1,1,1.2,9.8,2023,ihme-gbd2023
+American Samoa,ASM,016,2024,3.8,0.8,Within WHO guideline (5 or less),3.2,4.2,1.2,satpm,6.4,2023,who-sdg1162,14,6,8,0,3.9,12.5,2023,ihme-gbd2023
+Nauru,NRU,520,2024,3.8,0.8,Within WHO guideline (5 or less),3.1,6.2,1.3,satpm,5.2,2023,who-sdg1162,3,2,1,0,2.8,13.6,2023,ihme-gbd2023
+Tonga,TON,776,2024,3.8,0.8,Within WHO guideline (5 or less),4.2,3.5,1.5,satpm,6.2,2023,who-sdg1162,90,9,81,1,12.6,8.5,2023,ihme-gbd2023
+Christmas Island,CXR,162,2024,3.7,0.7,Within WHO guideline (5 or less),3.9,5.7,2.1,satpm,,,,,,,,,,,
+Kiribati,KIR,296,2024,3.7,0.7,Within WHO guideline (5 or less),3.4,5.6,1.0,satpm,5.8,2023,who-sdg1162,77,3,73,3,12.7,2.3,2023,ihme-gbd2023
+French Polynesia,PYF,258,2024,3.6,0.7,Within WHO guideline (5 or less),3.2,3.7,1.3,satpm,6.0,2023,who-sdg1162,,,,,,,,
+Norfolk Island,NFK,574,2024,3.5,0.7,Within WHO guideline (5 or less),3.6,3.3,1.7,satpm,,,,,,,,,,,
+Cook Islands,COK,184,2024,3.3,0.7,Within WHO guideline (5 or less),3.1,3.4,1.1,satpm,,,,2,1,0,0,1.1,9.5,2023,ihme-gbd2023
+Palau,PLW,585,2024,3.3,0.7,Within WHO guideline (5 or less),4.1,6.6,1.4,satpm,6.3,2023,who-sdg1162,4,4,0,0,2.2,20.9,2023,ihme-gbd2023
+Niue,NIU,570,2024,3.2,0.6,Within WHO guideline (5 or less),3,3.1,1.0,satpm,,,,0,0,0,0,2.1,14.5,2023,ihme-gbd2023
+Pitcairn,PCN,612,2024,3.1,0.6,Within WHO guideline (5 or less),2.8,3.2,1.6,satpm,,,,,,,,,,,
+Marshall Islands,MHL,584,2024,2.8,0.6,Within WHO guideline (5 or less),3,4.1,0.7,satpm,6.6,2023,who-sdg1162,30,4,26,0,9.4,9.2,2023,ihme-gbd2023
+Micronesia (country),FSM,583,2024,2.3,0.5,Within WHO guideline (5 or less),2.6,3.8,0.6,satpm,6.2,2023,who-sdg1162,90,6,84,0,11.5,5.8,2023,ihme-gbd2023
+Guam,GUM,316,2024,1.9,0.4,Within WHO guideline (5 or less),2.1,3.7,0.6,satpm,7.4,2023,who-sdg1162,17,11,6,0,1.4,7.1,2023,ihme-gbd2023
+Northern Mariana Islands,MNP,580,2024,1.5,0.3,Within WHO guideline (5 or less),2.1,2.9,0.6,satpm,7.2,2023,who-sdg1162,6,3,2,1,1.9,5.8,2023,ihme-gbd2023
+Greenland,GRL,304,2024,1.1,0.2,Within WHO guideline (5 or less),1.8,1.5,0.8,satpm,4.8,2023,who-sdg1162,2,0,0,1,0.3,0.5,2023,ihme-gbd2023

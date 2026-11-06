@@ -1,0 +1,7 @@
+id,label,value,unit,note,source
+tracked,Objects tracked in orbit by space surveillance networks,40000,objects,About; end of 2024,esa-2025
+active,Of which active payloads,11000,satellites,About; end of 2024,esa-2025
+debris10,Estimated debris objects larger than 10 cm,50000,objects,Over,esa-2025
+debris1,Estimated debris objects larger than 1 cm,1200000,objects,Over,esa-2025
+reentry,Intact satellites or rocket bodies re-entering the atmosphere,3,a day,"More than, on average",esa-2025
+starlink,"Active Starlink satellites, 17 March 2026",10020,satellites,Roughly two-thirds of all active satellites,mcdowell-2026

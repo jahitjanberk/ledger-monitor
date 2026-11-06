@@ -1,0 +1,78 @@
+{
+  "variant": "internet",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "ai_clusters",
+      "title": "GPU cluster performance",
+      "description": "Share of global GPU cluster (AI supercomputer) performance by country, May 2025, from Epoch AI. The US share is published as about three quarters.",
+      "rows": 2
+    },
+    {
+      "id": "ai_compute",
+      "title": "AI compute by country",
+      "description": "Share of AI chip compute (H100-equivalents) acquired since 2022, as of Q2 2026, from Epoch AI's AI Chip Imports explorer.",
+      "rows": 7
+    },
+    {
+      "id": "azure_latency",
+      "title": "Azure measured latency",
+      "description": "Median (P50) round-trip latency between Azure regions over the 30 days to 30 July 2026, measured by Azure's backbone probes. Latency is directional.",
+      "rows": 110
+    },
+    {
+      "id": "cables",
+      "title": "Submarine cables (2021 snapshot)",
+      "description": "Cable systems in TeleGeography's Submarine Cable Map as of its January 2021 open-data snapshot: length, ready-for-service year, owners and the countries each one lands in (separated by |).",
+      "rows": 478
+    },
+    {
+      "id": "cables_now",
+      "title": "Submarine cables today",
+      "description": "TeleGeography's current headline figures for the global submarine cable network.",
+      "rows": 2
+    },
+    {
+      "id": "cloud_regions",
+      "title": "Cloud regions",
+      "description": "AWS, Azure and Google Cloud regions as listed by each provider, plotted at a representative city in the named area.",
+      "rows": 136
+    },
+    {
+      "id": "countries",
+      "title": "Country codes",
+      "description": "Countries in the cable data matched to Natural Earth map shapes (ISO 3166 numeric). Small islands have no shape at this map scale.",
+      "rows": 182
+    },
+    {
+      "id": "energy",
+      "title": "Data centre electricity",
+      "description": "Electricity used by data centres: global and regional (IEA), United States (LBNL) and Ireland (CSO).",
+      "rows": 19
+    },
+    {
+      "id": "landings",
+      "title": "Cable landing points (2021 snapshot)",
+      "description": "Landing points in TeleGeography's January 2021 open-data snapshot.",
+      "rows": 1261
+    },
+    {
+      "id": "supercomputers",
+      "title": "Top supercomputers",
+      "description": "Systems from the June 2026 TOP500 top ten whose site is named in the source.",
+      "rows": 5
+    },
+    {
+      "id": "top500_countries",
+      "title": "TOP500 systems by country",
+      "description": "Number of systems on the June 2026 TOP500 list.",
+      "rows": 4
+    },
+    {
+      "id": "water",
+      "title": "Data centre water",
+      "description": "Water consumed by data centres in the United States (LBNL estimate) and by Google and Meta's data centres, 2023.",
+      "rows": 6
+    }
+  ]
+}

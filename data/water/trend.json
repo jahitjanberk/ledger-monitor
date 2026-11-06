@@ -1,0 +1,127 @@
+{
+  "id": "trend",
+  "title": "World water stress over time",
+  "description": "SDG 6.4.2 world value by year.",
+  "records": [
+    {
+      "year": 2000,
+      "stress_pct": 17.5,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2001,
+      "stress_pct": 17.6,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2002,
+      "stress_pct": 17.8,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2003,
+      "stress_pct": 17.9,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2004,
+      "stress_pct": 17.9,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2005,
+      "stress_pct": 17.9,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2006,
+      "stress_pct": 18.4,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2007,
+      "stress_pct": 18.5,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2008,
+      "stress_pct": 18.1,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2009,
+      "stress_pct": 18.1,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2010,
+      "stress_pct": 18.1,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2011,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2012,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2013,
+      "stress_pct": 17.9,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2014,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2015,
+      "stress_pct": 17.8,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2016,
+      "stress_pct": 17.9,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2017,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2018,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2019,
+      "stress_pct": 18.0,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2020,
+      "stress_pct": 17.8,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2021,
+      "stress_pct": 17.8,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2022,
+      "stress_pct": 17.8,
+      "source": "fao-sdg642"
+    },
+    {
+      "year": 2023,
+      "stress_pct": 17.6,
+      "source": "fao-sdg642"
+    }
+  ]
+}
