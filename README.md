@@ -67,6 +67,14 @@
 | [Extreme Heat](heat/) | How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work |
 | [Critical Minerals](minerals/) | Where the minerals in batteries, phones and power grids are mined and refined, and who controls them |
 
+## Across the dashboards
+
+- **[Country profiles](country/)**: one page per country (240 of them) with its figures from every dashboard, each cited and ranked against other countries. For example [Kenya](country/ken/) or the [United Kingdom](country/gbr/).
+- **[Compare](compare/)**: up to four countries side by side. The choice is kept in the address, so a link like [`compare/?c=KEN,IND,BRA`](compare/?c=KEN,IND,BRA) can be shared.
+- **Search** on the hub finds dashboards, countries, minerals and sea routes.
+- **[Embed a chart](embed/)**: any dashboard's headline chart in an iframe on your own site, drawn from the published data and naming its source.
+- **[Updates feed](feed.xml)**: an Atom feed of new dashboards and data refreshes.
+
 ## Running it locally
 
 The site is plain HTML, CSS and JavaScript with no build step. Serve the folder with any static web server, or use the included one (Node.js 18 or later):
@@ -76,6 +84,17 @@ node scripts/serve.mjs
 ```
 
 Then open http://localhost:8765/. Opening the HTML files directly from disk won't work, because browsers block the dashboards' scripts and data on `file://` pages.
+
+## Regenerating the pages
+
+The country pages, compare data, search index and feed are generated from `data/`. After changing any data, run:
+
+```sh
+node scripts/hub-sparks.mjs && node scripts/countries.mjs && node scripts/preload-hints.mjs && node scripts/seo.mjs
+node scripts/feed.mjs        # after adding an entry to docs/updates.json
+node scripts/freshness.mjs   # which sources are due for a new edition
+node scripts/check.mjs       # loads every page in a headless browser and reports problems
+```
 
 ## The data
 

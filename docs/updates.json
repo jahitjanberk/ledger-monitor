@@ -1,0 +1,26 @@
+{
+  "_about": "Entries for feed.xml, newest first. Add one each time data is refreshed or a page is added, then run: node scripts/feed.mjs. 'path' is relative to the site root.",
+  "updates": [
+    {
+      "id": "2026-11-06-countries",
+      "date": "2026-11-06T21:30:00Z",
+      "title": "Country profiles, comparisons, search and embeddable charts",
+      "path": "country/",
+      "summary": "Every country now has a profile page that brings its figures from all the dashboards together, each cited and ranked against other countries. You can compare up to four countries side by side, search the hub for a country, dashboard or mineral, and embed any dashboard's headline chart on your own site."
+    },
+    {
+      "id": "2026-11-06-four-dashboards",
+      "date": "2026-11-06T20:20:49Z",
+      "title": "Four new dashboards: Food, Debt, Heat and Critical Minerals",
+      "path": "",
+      "summary": "Food Prices & Hunger, Debt vs Public Services, Extreme Heat and Critical Minerals join the monitor, each built from FAO, IMF, World Bank, Copernicus, USGS and IEA data, with scripts to rebuild their tables from fresh downloads."
+    },
+    {
+      "id": "2026-11-06-launch",
+      "date": "2026-11-06T16:40:24Z",
+      "title": "Eight open-data dashboards",
+      "path": "",
+      "summary": "Chokepoints, Electricity Mix & Grid Carbon, The Air We Breathe, Housing Affordability, Water Stress, The Scam Economy, Where the Internet Lives and Who Owns Orbit, with every number linked to its source and all data free to download."
+    }
+  ]
+}

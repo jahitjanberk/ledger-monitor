@@ -1,0 +1,17 @@
+/* The embeddable chart page (embed/). Uses the dashboard tokens (--em-*) and chart styles from em.css. */
+.eb { max-width: 720px; margin: 0 auto; padding: 24px 16px 40px; }
+.eb.eb-framed { max-width: none; padding: 12px; }
+.eb .em-fig { max-width: none; flex: none; }
+.eb-framed .em-fig-s a { color: var(--em-fg); }
+.eb-msg { color: var(--em-muted); font-size: 14px; margin: 0; padding: 16px; }
+.eb-eyebrow { font-family: var(--em-mono); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; margin: 0; }
+.eb h1 { font-size: clamp(1.8rem, 1.3rem + 2vw, 2.6rem); letter-spacing: -0.03em; line-height: 1.05; margin: 12px 0; }
+.eb-lede { color: var(--em-muted); margin: 0 0 24px; max-width: 60ch; }
+.eb-field { display: flex; flex-direction: column; gap: 6px; font-size: 13px; font-weight: 500; color: var(--em-muted); margin: 0 0 20px; }
+.eb-field select, .eb-field textarea { font: inherit; font-size: 15px; color: var(--em-fg); background: var(--em-panel); border: 1px solid var(--em-line); border-radius: 2px; padding: 8px 10px; min-height: 44px; width: 100%; }
+.eb-field textarea { font-family: var(--em-mono); font-size: 13px; resize: vertical; }
+.eb-preview { padding: 16px; border: 1px solid var(--em-line); border-radius: 2px; background: var(--em-bg); margin: 0 0 20px; }
+.eb-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; margin: 0; }
+.eb-actions button { font: inherit; font-size: 14px; font-weight: 500; min-height: 44px; padding: 0 16px; border: 1px solid var(--em-fg); border-radius: 2px; background: var(--em-fg); color: var(--em-bg); cursor: pointer; }
+.eb-note { font-size: 13px; color: var(--em-muted); margin: 20px 0 0; }
+.eb-note code { font-family: var(--em-mono); }

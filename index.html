@@ -15,10 +15,11 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%233B50B5'/%3E%3Cpath d='M16 7v18M7 16h18' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%233B50B5'/%3E%3Cpath d='M6 10h20M6 16h20M6 22h20' stroke='%23fff' stroke-opacity='.45' stroke-width='2'/%3E%3Cpath d='M7 23l6-7 5 3 8-10' fill='none' stroke='%23fff' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <link rel="preload" href="assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="assets/fonts/jetbrains-mono-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/fonts.css">
+<link rel="alternate" type="application/atom+xml" title="Ledger Monitor updates" href="feed.xml">
 <script>try{var t=localStorage.getItem("em-theme");t&&(document.documentElement.dataset.theme=t)}catch(e){}</script>
 <style>
 /* Hub: the same Swiss technical system as the dashboards. Each card carries its dashboard's accent. */
@@ -35,10 +36,13 @@ a { color: inherit; }
 @media (min-width: 700px) { .hb { padding-left: max(40px, env(safe-area-inset-left, 0px)); padding-right: max(40px, env(safe-area-inset-right, 0px)); } }
 .hb-eyebrow { font-size: 13px; font-weight: 500; color: var(--muted); margin: 0; }
 .nw { white-space: nowrap; }
-.hb-bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.hb-bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
 .hb-brand { font-family: var(--mono); font-size: 13px; letter-spacing: .06em; text-transform: uppercase; display: inline-flex; align-items: center; gap: .6em; }
-.hb-brand i { width: 14px; height: 14px; background: var(--accent); display: inline-block; }
-.hb-bar-r { display: flex; gap: 8px; }
+.hb-brand i { width: 14px; height: 14px; background: var(--accent); display: inline-block; position: relative; }
+.hb-brand i::after { content: ""; position: absolute; inset: 0; background: var(--panel); -webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M6 10h20M6 16h20M6 22h20' stroke='%23000' stroke-opacity='.45' stroke-width='2'/%3E%3Cpath d='M7 23l6-7 5 3 8-10' fill='none' stroke='%23000' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/100% no-repeat;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M6 10h20M6 16h20M6 22h20' stroke='%23000' stroke-opacity='.45' stroke-width='2'/%3E%3Cpath d='M7 23l6-7 5 3 8-10' fill='none' stroke='%23000' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/100% no-repeat; }
+.hb-bar-r { display: flex; gap: 8px; flex-wrap: wrap; }
+/* On narrow phones About leaves the bar; it is still linked under the headline and in the footer. */
+@media (max-width: 440px) { .hb-bar-r .hb-about { display: none; } }
 .hb-btn { font-size: 13px; font-weight: 500; height: 36px; min-width: 36px; padding: 0 10px; border: 1px solid var(--line); border-radius: 2px; background: transparent; color: var(--fg); text-decoration: none; display: inline-flex; align-items: center; justify-content: center; cursor: pointer; }
 .hb-btn:hover { border-color: var(--fg); }
 @media (pointer: coarse) { .hb-btn { height: 44px; min-width: 44px; } }
@@ -91,6 +95,20 @@ a { color: inherit; }
 #dashboards:focus{outline:none}
 .hb-filenote { margin: 32px 0 0; padding: 14px 16px; border: 1px solid var(--fg); border-radius: 2px; background: var(--panel); max-width: 72ch; }
 .hb-filenote code { font-family: var(--mono); font-size: .9em; }
+/* Search: dashboards, country profiles and topics, from assets/search.json. */
+.hb-search { margin-top: 28px; max-width: 640px; position: relative; }
+.hb-search label { display: block; font-size: 13px; font-weight: 500; color: var(--muted); margin-bottom: 6px; }
+.hb-search input { font: inherit; font-size: 16px; color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 2px; padding: 0 12px; height: 48px; width: 100%; }
+.hb-search input:focus { border-color: var(--fg); outline: none; box-shadow: 0 0 0 2px var(--accent); }
+.hb-count { margin: 6px 0 0; font-size: 13px; color: var(--muted); min-height: 1.5em; }
+.hb-results { list-style: none; margin: 4px 0 0; padding: 0; border: 1px solid var(--line); border-radius: 2px; background: var(--panel); }
+.hb-results li + li { border-top: 1px solid var(--line); }
+.hb-results a { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 10px 12px; text-decoration: none; }
+.hb-results a:hover, .hb-results a:focus-visible { background: var(--bg); outline-offset: -2px; }
+.hb-results b { font-weight: 600; }
+.hb-results span { font-size: 13px; color: var(--muted); text-align: right; }
+.hb-also { margin: 14px 0 0; font-size: 14px; color: var(--muted); }
+.hb-also a { color: var(--fg); }
 </style>
 </head>
 <body>
@@ -99,7 +117,9 @@ a { color: inherit; }
   <nav class="hb-bar" aria-label="Site">
     <span class="hb-brand"><i aria-hidden="true"></i>Ledger Monitor</span>
     <span class="hb-bar-r">
-      <a class="hb-btn" href="about/">About</a>
+      <a class="hb-btn" href="country/">Countries</a>
+      <a class="hb-btn" href="compare/">Compare</a>
+      <a class="hb-btn hb-about" href="about/">About</a>
       <a class="hb-btn" href="https://github.com/jahitjanberk/ledger-monitor" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
       <button type="button" class="hb-btn" id="hb-theme" aria-label="Switch light or dark theme">◐</button>
     </span>
@@ -109,7 +129,14 @@ a { color: inherit; }
     <p class="hb-eyebrow">Twelve open-data dashboards</p>
     <h1>The systems behind everyday life, measured from public sources</h1>
     <p class="hb-lede">Every number links to the report it came from, and all the data is free to download.</p>
-    <p class="hb-by">By <a href="https://github.com/jahitjanberk" rel="author">jahitjanberk</a> · updated 6 Nov 2026 · <a href="about/">About this project</a></p>
+    <p class="hb-by">By <a href="https://github.com/jahitjanberk" rel="author">jahit</a> · updated 6 Nov 2026 · <a href="about/">About this project</a></p>
+    <div class="hb-search" role="search">
+      <label for="hb-q">Search the dashboards, countries and topics</label>
+      <input id="hb-q" type="search" autocomplete="off" spellcheck="false" placeholder="e.g. Kenya, lithium, Hormuz" aria-controls="hb-results" aria-describedby="hb-count">
+      <p class="hb-count" id="hb-count" aria-live="polite"></p>
+      <ul class="hb-results" id="hb-results" hidden></ul>
+    </div>
+    <p class="hb-also">Or browse <a href="country/">every country's profile</a>, or <a href="compare/">compare countries side by side</a>.</p>
   </header>
 
   <section class="hb-grid" id="dashboards" tabindex="-1" aria-label="Dashboards">
@@ -240,8 +267,8 @@ a { color: inherit; }
   </section>
 
   <footer class="hb-foot">
-    <span>Ledger Monitor, by <a href="https://github.com/jahitjanberk" rel="author">jahitjanberk</a> · <a href="about/">About</a> · code MIT · <a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/DATA_LICENSE.md" target="_blank" rel="noopener noreferrer">data licences</a></span>
-    <span><a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/METHODOLOGY.md" target="_blank" rel="noopener noreferrer">Methodology</a> · <a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute data</a></span>
+    <span>Ledger Monitor, by <a href="https://github.com/jahitjanberk" rel="author">jahit</a> · <a href="about/">About</a> · code MIT · <a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/DATA_LICENSE.md" target="_blank" rel="noopener noreferrer">data licences</a></span>
+    <span><a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/METHODOLOGY.md" target="_blank" rel="noopener noreferrer">Methodology</a> · <a href="https://github.com/jahitjanberk/ledger-monitor/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute data</a> · <a href="feed.xml">Updates feed</a></span>
   </footer>
 </div>
 <script src="hub.js"></script>

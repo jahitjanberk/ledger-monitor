@@ -11,8 +11,10 @@ Raw downloads go in `scripts/.raw/`, which git ignores, laid out as below. To ke
 
 After rebuilding, refresh the derived pages and check them:
 
-    node scripts/hub-sparks.mjs && node scripts/preload-hints.mjs && node scripts/seo.mjs && node scripts/og-images.mjs
+    node scripts/hub-sparks.mjs && node scripts/countries.mjs && node scripts/preload-hints.mjs && node scripts/seo.mjs && node scripts/og-images.mjs
     node scripts/check.mjs
+
+Then add a line to `docs/updates.json` and run `node scripts/feed.mjs`, so feed readers hear about the refresh. `node scripts/freshness.mjs` lists the sources that are due for a new edition.
 
 Each builder prints a short report: compare it with the published figures before you publish. Headline facts quoted from reports (the `facts` table) and source dates (`SOURCES`) are written in the scripts, so update them by hand when a new edition comes out.
 

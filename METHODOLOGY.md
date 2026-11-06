@@ -182,3 +182,17 @@ Refining shares are from the International Energy Agency's *Global Critical Mine
 - The child labour estimate dates from 2014 and covers all mines in southern DR Congo, not cobalt alone.
 
 Sources: [`data/minerals/sources.json`](data/minerals/sources.json) · Data: [`data/minerals/`](data/minerals/)
+
+## Country profiles and comparisons
+
+The [country pages](country/) and the [compare page](compare/) add no data of their own. They are built by `scripts/countries.mjs` from the dashboards' published country tables, joined on the ISO 3166 country code. Tables that name countries without a code (cable landing points, cloud regions and mineral refining) are matched by name, with a short list of spellings written in the script; the few names it can't match are printed when it runs and left off the profiles. A country gets a page when it has figures from at least two dashboards.
+
+Each figure keeps its own year and source, which are shown beside it, so two figures on one page can describe different years. The rank compares the country with every country in the same table that has a value; ties share a rank, so a country with 0% coal is "highest" or "lowest" together with all the others at 0%. The bar under each figure places the country between the lowest and highest values by rank, not by size, so one extreme value doesn't squash the rest. On the compare page the bars do use size: each is scaled to the largest of the countries shown on that row.
+
+**What this doesn't show**
+
+- A rank says nothing about whether a value is good or bad: being "highest" is good for renewables and bad for air pollution. Read the label.
+- Rankings cover different sets of countries for each figure, from fewer than ten for housing to about 240 for air and heat.
+- The dashboards' own method notes, above, apply to every figure on the profiles.
+
+Code: [`scripts/countries.mjs`](scripts/countries.mjs) · Data: [`country/profiles.json`](country/profiles.json)
