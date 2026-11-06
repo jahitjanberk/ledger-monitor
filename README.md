@@ -1,7 +1,7 @@
 # Ledger Monitor
 
 <p align="center">
-  <strong>Fifteen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
+  <strong>Seventeen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code licence: MIT"></a>
   <a href="DATA_LICENSE.md"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="Data licence: CC BY 4.0"></a>
   <a href="https://github.com/jahitjanberk/ledger-monitor/commits/main"><img src="https://img.shields.io/github/last-commit/jahitjanberk/ledger-monitor" alt="Last commit"></a>
-  <img src="https://img.shields.io/badge/dashboards-15-informational" alt="15 dashboards">
+  <img src="https://img.shields.io/badge/dashboards-17-informational" alt="17 dashboards">
   <img src="https://img.shields.io/badge/build%20step-none-brightgreen" alt="No build step">
 </p>
 
@@ -42,6 +42,8 @@
   <a href="https://jahitjanberk.github.io/ledger-monitor/medicines/"><img src="https://img.shields.io/badge/Medicines-Open-0b7a75?style=for-the-badge&labelColor=555" alt="Medicine Shortages and Supply"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/energy/"><img src="https://img.shields.io/badge/Household%20Energy-Open-8a6400?style=for-the-badge&labelColor=555" alt="Household Energy Prices and Poverty"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/vaccines/"><img src="https://img.shields.io/badge/Vaccines%20%26%20Health%20Workers-Open-3f7a1e?style=for-the-badge&labelColor=555" alt="Vaccination and Health Workers"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/fertilizer/"><img src="https://img.shields.io/badge/Fertiliser-Open-566573?style=for-the-badge&labelColor=555" alt="Fertiliser Prices and Supply"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/remittances/"><img src="https://img.shields.io/badge/Remittances-Open-a3306f?style=for-the-badge&labelColor=555" alt="The Cost of Sending Money Home"></a>
 </p>
 
 <p align="center">
@@ -74,6 +76,8 @@
 | [Critical Minerals](minerals/) | Where the minerals in batteries, phones and power grids are mined and refined, and who controls them |
 | [Medicine Shortages & Supply](medicines/) | Which medicines run short and for how long, why, and where the world's medicines and their ingredients are made |
 | [Household Energy Prices & Poverty](energy/) | Who still lacks electricity or clean cooking, what European households pay, and who can't afford to keep warm |
+| [Fertiliser Prices & Supply](fertilizer/) | What fertiliser costs, who makes and exports it, which countries depend on imports, and how the 2026 Hormuz closure fed through to farmers |
+| [The Cost of Sending Money Home](remittances/) | How much migrants send home, how much it matters to each economy, and what it costs to send by route and by type of provider |
 | [Vaccination & Health Workers](vaccines/) | How many children are vaccinated or get no vaccines at all, where measles is spreading, and where nurses and doctors are scarce |
 
 ## Across the dashboards
@@ -105,9 +109,11 @@ node scripts/freshness.mjs   # which sources are due for a new edition
 node scripts/check.mjs       # loads every page in a headless browser and reports problems
 ```
 
+On GitHub, [`check.yml`](.github/workflows/check.yml) runs the page check on every pull request and push to `main`, and [`freshness.yml`](.github/workflows/freshness.yml) runs the freshness check every Monday and fails when a source is overdue.
+
 ## The data
 
-Each dashboard's tables are in `data/<dashboard>/` as CSV and JSON, with a `sources.json` listing every publisher, and a data page that links to them. [METHODOLOGY.md](METHODOLOGY.md) explains how each dashboard's figures are made and what they leave out. The Food, Debt, Heat, Minerals, Medicines, Energy and Vaccines tables can be rebuilt from fresh downloads with the scripts in [scripts/build/](scripts/build/README.md).
+Each dashboard's tables are in `data/<dashboard>/` as CSV and JSON, with a `sources.json` listing every publisher, and a data page that links to them. [METHODOLOGY.md](METHODOLOGY.md) explains how each dashboard's figures are made and what they leave out. Every dashboard's tables can be rebuilt from fresh downloads with the scripts in [scripts/build/](scripts/build/README.md).
 
 ## Licences
 

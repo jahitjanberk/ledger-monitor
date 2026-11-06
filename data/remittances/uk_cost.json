@@ -1,0 +1,73 @@
+{
+  "id": "uk_cost",
+  "title": "Average cost of sending $200 from the UK and worldwide, 2011 to 2025",
+  "description": "SDG indicator 10.c.1, third quarter of each year.",
+  "records": [
+    {
+      "year": 2011,
+      "uk_send": 7.73,
+      "global": 9.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2015,
+      "uk_send": 7.41,
+      "global": 7.52,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2017,
+      "uk_send": 7.01,
+      "global": 7.21,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2018,
+      "uk_send": 7.08,
+      "global": 6.94,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2019,
+      "uk_send": 7.28,
+      "global": 6.85,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2020,
+      "uk_send": 6.57,
+      "global": 6.75,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2021,
+      "uk_send": 6.06,
+      "global": 6.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2022,
+      "uk_send": 6.33,
+      "global": 6.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2023,
+      "uk_send": 5.97,
+      "global": 6.18,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2024,
+      "uk_send": 5.75,
+      "global": 6.62,
+      "source": "sdg-10c1"
+    },
+    {
+      "year": 2025,
+      "uk_send": 4.61,
+      "global": 6.36,
+      "source": "sdg-10c1"
+    }
+  ]
+}

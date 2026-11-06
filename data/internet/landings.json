@@ -1651,8 +1651,8 @@
     {
       "name": "Chung Hom Kok, China",
       "country": "China",
-      "lon": 114.203,
-      "lat": 22.222,
+      "lon": 114.206,
+      "lat": 22.225,
       "source": "telegeography-2021"
     },
     {
@@ -3779,8 +3779,8 @@
     {
       "name": "Kuala Tungkal, Indonesia",
       "country": "Indonesia",
-      "lon": 103.463,
-      "lat": -0.823,
+      "lon": 103.467,
+      "lat": -0.817,
       "source": "telegeography-2021"
     },
     {
@@ -3961,7 +3961,7 @@
     {
       "name": "Lahaina, HI, United States",
       "country": "United States",
-      "lon": -156.685,
+      "lon": -156.684,
       "lat": 20.901,
       "source": "telegeography-2021"
     },
@@ -4606,7 +4606,7 @@
       "name": "Maputo, Mozambique",
       "country": "Mozambique",
       "lon": 32.581,
-      "lat": -25.968,
+      "lat": -25.969,
       "source": "telegeography-2021"
     },
     {
@@ -5642,7 +5642,7 @@
       "name": "Palermo, Italy",
       "country": "Italy",
       "lon": 13.358,
-      "lat": 38.121,
+      "lat": 38.122,
       "source": "telegeography-2021"
     },
     {
@@ -5782,7 +5782,7 @@
       "name": "Perryville, AK, United States",
       "country": "United States",
       "lon": -159.145,
-      "lat": 55.917,
+      "lat": 55.918,
       "source": "telegeography-2021"
     },
     {
@@ -7496,7 +7496,7 @@
     {
       "name": "Sungailiat, Indonesia",
       "country": "Indonesia",
-      "lon": 106.132,
+      "lon": 106.133,
       "lat": -1.852,
       "source": "telegeography-2021"
     },

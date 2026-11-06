@@ -1,0 +1,55 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Figures quoted from the World Bank, Defra and Al Jazeera.",
+  "records": [
+    {
+      "id": "closure",
+      "label": "Iran's Revolutionary Guard announced the Strait of Hormuz closed",
+      "value": "2026-03-02",
+      "unit": "date",
+      "note": "Traffic fell to an average of five vessels a day",
+      "source": "aljazeera-2026-08"
+    },
+    {
+      "id": "me_urea",
+      "label": "Middle East share of global urea exports",
+      "value": 25,
+      "unit": "%",
+      "note": "\"Nearly one-quarter\"",
+      "source": "wb-fert-blog"
+    },
+    {
+      "id": "afford",
+      "label": "Fertiliser affordability for farmers in April 2026",
+      "value": "mid-2022",
+      "unit": "weakest since",
+      "note": "Fertiliser prices against food crop prices",
+      "source": "wb-fert-blog"
+    },
+    {
+      "id": "fi2026",
+      "label": "Forecast change in the World Bank fertiliser price index, 2026",
+      "value": 14.3,
+      "unit": "%",
+      "note": "April 2026 forecast: index 181.3 for 2026, against 138.7 in 2025",
+      "source": "wb-cmo-forecast"
+    },
+    {
+      "id": "fi2027",
+      "label": "Forecast change in the World Bank fertiliser price index, 2027",
+      "value": -12.4,
+      "unit": "%",
+      "note": "",
+      "source": "wb-cmo-forecast"
+    },
+    {
+      "id": "ukinputs",
+      "label": "Change in UK agricultural input prices, 12 months to August 2026",
+      "value": 8.6,
+      "unit": "%",
+      "note": "Fertilisers and soil improvers contributed 1.4 percentage points",
+      "source": "defra-api"
+    }
+  ]
+}

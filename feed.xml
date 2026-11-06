@@ -5,9 +5,16 @@
   <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
   <link rel="self" type="application/atom+xml" href="https://jahitjanberk.github.io/ledger-monitor/feed.xml"/>
   <id>https://jahitjanberk.github.io/ledger-monitor/</id>
-  <updated>2026-11-06T23:30:00Z</updated>
+  <updated>2026-11-07T01:00:00Z</updated>
   <author><name>jahit</name><uri>https://github.com/jahitjanberk</uri></author>
   <rights>Data: CC BY 4.0 compilation. Code: MIT.</rights>
+  <entry>
+    <title>Two new dashboards, rebuild scripts for every dashboard, and data corrections</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-fertiliser-remittances</id>
+    <updated>2026-11-07T01:00:00Z</updated>
+    <summary>Fertiliser Prices &amp; Supply (World Bank, FAOSTAT and Defra) and The Cost of Sending Money Home (World Bank Remittance Prices Worldwide and the UN SDG database) join the monitor. Every dashboard can now be rebuilt from its raw downloads. Rebuilding the Internet data fixed a duplicate cable and three misread cable lengths, so 26 countries, not 27, hang on a single cable; the Air dashboard now labels WHO&apos;s figure as urban areas and credits the Air Quality Life Index for pollution from human sources.</summary>
+  </entry>
   <entry>
     <title>Three new dashboards: Medicines, Household Energy and Vaccination</title>
     <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>

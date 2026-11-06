@@ -1,0 +1,157 @@
+{
+  "id": "breakdown",
+  "title": "Cost of sending $200 by provider type, payment method and access point, Q3 2025",
+  "description": "Simple averages over services, calculated from the RPW dataset; categories with fewer than 20 services left out.",
+  "records": [
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Bank account transfer",
+      "period": "2025 Q3",
+      "services": 2229,
+      "cost": 8.69,
+      "fee": 6.64,
+      "fx_margin": 2.05,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Cash",
+      "period": "2025 Q3",
+      "services": 1194,
+      "cost": 7.01,
+      "fee": 4.97,
+      "fx_margin": 2.04,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Mobile money",
+      "period": "2025 Q3",
+      "services": 54,
+      "cost": 5.29,
+      "fee": 2,
+      "fx_margin": 3.29,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Credit card",
+      "period": "2025 Q3",
+      "services": 1350,
+      "cost": 4.75,
+      "fee": 2.99,
+      "fx_margin": 1.76,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Credit or debit card",
+      "period": "2025 Q3",
+      "services": 2992,
+      "cost": 4.39,
+      "fee": 2.63,
+      "fx_margin": 1.76,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Paying for the transfer",
+      "category": "Debit card",
+      "period": "2025 Q3",
+      "services": 1642,
+      "cost": 4.1,
+      "fee": 2.34,
+      "fx_margin": 1.76,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Provider type",
+      "category": "Banks",
+      "period": "2025 Q3",
+      "services": 1070,
+      "cost": 14.99,
+      "fee": 12.49,
+      "fx_margin": 2.5,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Provider type",
+      "category": "Money transfer operators",
+      "period": "2025 Q3",
+      "services": 5446,
+      "cost": 4.73,
+      "fee": 2.91,
+      "fx_margin": 1.82,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Provider type",
+      "category": "Mobile operators",
+      "period": "2025 Q3",
+      "services": 23,
+      "cost": 4.69,
+      "fee": 2.01,
+      "fx_margin": 2.68,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Provider type",
+      "category": "Post offices",
+      "period": "2025 Q3",
+      "services": 74,
+      "cost": 4.05,
+      "fee": 2.49,
+      "fx_margin": 1.56,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Where the sender pays",
+      "category": "Bank branch",
+      "period": "2025 Q3",
+      "services": 554,
+      "cost": 17.61,
+      "fee": 15.38,
+      "fx_margin": 2.23,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Where the sender pays",
+      "category": "Call centre",
+      "period": "2025 Q3",
+      "services": 192,
+      "cost": 11.7,
+      "fee": 9.64,
+      "fx_margin": 2.06,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Where the sender pays",
+      "category": "Agent",
+      "period": "2025 Q3",
+      "services": 1276,
+      "cost": 6.4,
+      "fee": 4.48,
+      "fx_margin": 1.92,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Where the sender pays",
+      "category": "Mobile phone",
+      "period": "2025 Q3",
+      "services": 49,
+      "cost": 5.42,
+      "fee": 2.25,
+      "fx_margin": 3.17,
+      "source": "rpw"
+    },
+    {
+      "dimension": "Where the sender pays",
+      "category": "Internet",
+      "period": "2025 Q3",
+      "services": 4375,
+      "cost": 4.71,
+      "fee": 2.83,
+      "fx_margin": 1.88,
+      "source": "rpw"
+    }
+  ]
+}

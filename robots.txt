@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://jahitjanberk.github.io/ledger-monitor/sitemap.xml

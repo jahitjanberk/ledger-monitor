@@ -1,0 +1,190 @@
+country,iso3,iso_n3,region,income,received_usd_m,received_year,received_gdp_pct,received_gdp_year,paid_usd_m,paid_year,flows_source,cost_receive,cost_receive_2017,cost_send,cost_send_2017,corridors_in,corridors_out,cheapest_in,cost_source,gdp_band,cost_band,usd_band
+India,IND,356,South Asia,Lower middle income,150711.6,2025,3.81,2025,12082.6,2025,wdi-flows,5.3,5.98,4.16,3.03,20,2,1.91,sdg-10c1,3 to 10%,5 to 7%,$50bn or more
+Mexico,MEX,484,Latin America & Caribbean ,Upper middle income,65086.8,2025,3.55,2025,1184.1,2025,wdi-flows,4.53,4.86,,,1,0,4.53,sdg-10c1,3 to 10%,3 to 5%,$50bn or more
+France,FRA,250,Europe & Central Asia,High income,44535.9,2025,1.32,2025,22722.6,2025,wdi-flows,,,5.23,6.57,0,16,,sdg-10c1,1 to 3%,,$10bn to $50bn
+Philippines,PHL,608,East Asia & Pacific,Upper middle income,41559.6,2025,8.53,2025,293.4,2025,wdi-flows,4.53,5.46,,,14,0,2.52,sdg-10c1,3 to 10%,3 to 5%,$10bn to $50bn
+Egypt,EGY,818,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,41517.4,2025,11.37,2025,754.9,2025,wdi-flows,4.91,5.3,,,8,0,2.3,sdg-10c1,10 to 20%,3 to 5%,$10bn to $50bn
+Pakistan,PAK,586,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,40478,2025,9.94,2025,318,2025,wdi-flows,2.74,4.76,,12.07,12,0,0.35,sdg-10c1,3 to 10%,Under 3%,$10bn to $50bn
+Bangladesh,BGD,050,South Asia,Lower middle income,33879,2025,7.42,2025,164.9,2025,wdi-flows,7.3,4.42,,,11,0,5.11,sdg-10c1,3 to 10%,7 to 10%,$10bn to $50bn
+China,CHN,156,East Asia & Pacific,Upper middle income,30002.6,2025,0.15,2025,14036.7,2025,wdi-flows,7.31,10,,,16,0,3.3,sdg-10c1,Under 1%,7 to 10%,$10bn to $50bn
+Guatemala,GTM,320,Latin America & Caribbean ,Upper middle income,25675.5,2025,20.82,2025,29.5,2025,wdi-flows,4.18,4.99,,,1,0,4.18,sdg-10c1,20% or more,3 to 5%,$10bn to $50bn
+Germany,DEU,276,Europe & Central Asia,High income,23900.5,2025,0.47,2025,26674.8,2025,wdi-flows,,,4.49,7.57,0,24,,sdg-10c1,Under 1%,,$10bn to $50bn
+Nigeria,NGA,566,Sub-Saharan Africa ,Lower middle income,22789.1,2025,7.84,2025,113.2,2025,wdi-flows,4.3,8.51,,18.3,10,0,1.95,sdg-10c1,3 to 10%,3 to 5%,$10bn to $50bn
+Uzbekistan,UZB,860,Europe & Central Asia,Lower middle income,21100.9,2025,14.35,2025,1163,2025,wdi-flows,,1.67,,,0,0,,,10 to 20%,,$10bn to $50bn
+Indonesia,IDN,360,East Asia & Pacific,Upper middle income,17601.3,2025,1.22,2025,11675,2025,wdi-flows,5.13,7.13,,,9,0,3.23,sdg-10c1,1 to 3%,5 to 7%,$10bn to $50bn
+Belgium,BEL,056,Europe & Central Asia,High income,16346.9,2025,2.25,2025,11221.6,2025,wdi-flows,,,3.57,7.5,0,4,,sdg-10c1,1 to 3%,,$10bn to $50bn
+Nepal,NPL,524,South Asia,Lower middle income,14698.8,2025,32.31,2025,104.8,2025,wdi-flows,3.54,4.69,,,8,0,2.75,sdg-10c1,20% or more,3 to 5%,$10bn to $50bn
+Morocco,MAR,504,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13656.6,2025,7.49,2025,220.1,2025,wdi-flows,5.98,6.78,,,7,0,3.86,sdg-10c1,3 to 10%,5 to 7%,$10bn to $50bn
+Colombia,COL,170,Latin America & Caribbean ,Upper middle income,13129.4,2025,2.87,2025,429.2,2025,wdi-flows,5.14,5.36,,,2,0,4.95,sdg-10c1,1 to 3%,5 to 7%,$10bn to $50bn
+Italy,ITA,380,Europe & Central Asia,High income,12836.5,2025,0.5,2025,13913.9,2025,wdi-flows,,,7.44,5.98,0,19,,sdg-10c1,Under 1%,,$10bn to $50bn
+Dominican Republic,DOM,214,Latin America & Caribbean ,Upper middle income,12411.4,2025,9.74,2025,1173.8,2025,wdi-flows,5.02,6.83,7.68,7.35,3,1,4.91,sdg-10c1,3 to 10%,5 to 7%,$10bn to $50bn
+Honduras,HND,340,Latin America & Caribbean ,Lower middle income,11927.4,2025,30.12,2025,328.9,2025,wdi-flows,4.56,4.19,,,2,0,3.98,sdg-10c1,20% or more,3 to 5%,$10bn to $50bn
+Thailand,THA,764,East Asia & Pacific,Upper middle income,11898.9,2025,2.06,2025,9984.9,2025,wdi-flows,5.82,9.17,11.58,16.91,7,7,4.2,sdg-10c1,1 to 3%,5 to 7%,$10bn to $50bn
+Romania,ROU,642,Europe & Central Asia,High income,10647.2,2025,2.48,2025,2652.5,2025,wdi-flows,3.81,5.08,,,4,0,3.12,sdg-10c1,1 to 3%,3 to 5%,$10bn to $50bn
+Tajikistan,TJK,762,Europe & Central Asia,Lower middle income,10184,2025,57.66,2025,670.7,2025,wdi-flows,2.99,4.62,,,1,0,2.99,sdg-10c1,20% or more,Under 3%,$10bn to $50bn
+El Salvador,SLV,222,Latin America & Caribbean ,Upper middle income,10098.9,2025,27.51,2025,197.5,2025,wdi-flows,3.5,3.91,,,1,0,3.5,sdg-10c1,20% or more,3 to 5%,$10bn to $50bn
+Ukraine,UKR,804,Europe & Central Asia,Upper middle income,9877,2025,4.61,2025,256,2025,wdi-flows,6.23,6.79,,,5,0,3.49,sdg-10c1,3 to 10%,5 to 7%,$1bn to $10bn
+Poland,POL,616,Europe & Central Asia,High income,9461,2025,0.91,2025,5597,2025,wdi-flows,3.37,5.74,3.73,,2,1,2.66,sdg-10c1,Under 1%,3 to 5%,$1bn to $10bn
+United States,USA,840,North America,High income,9345,2025,0.03,2025,106528,2025,wdi-flows,,,5.04,5.71,0,42,,sdg-10c1,Under 1%,,$1bn to $10bn
+Malaysia,MYS,458,East Asia & Pacific,Upper middle income,8935.1,2025,1.89,2025,13826.5,2025,wdi-flows,4.21,8.06,4.49,4.65,2,9,3.65,sdg-10c1,1 to 3%,3 to 5%,$1bn to $10bn
+Sri Lanka,LKA,144,South Asia,Upper middle income,8305.6,2025,7.63,2025,158.7,2025,wdi-flows,4.06,5.25,,,11,0,2.34,sdg-10c1,3 to 10%,3 to 5%,$1bn to $10bn
+Ecuador,ECU,218,Latin America & Caribbean ,Upper middle income,7732.6,2025,5.93,2025,447,2025,wdi-flows,6.04,4.02,,,3,0,3.92,sdg-10c1,3 to 10%,5 to 7%,$1bn to $10bn
+Spain,ESP,724,Europe & Central Asia,High income,7297,2025,0.38,2025,794.1,2025,wdi-flows,,,5.37,5.63,0,13,,sdg-10c1,Under 1%,,$1bn to $10bn
+Croatia,HRV,191,Europe & Central Asia,High income,7246.5,2025,6.9,2025,2397.1,2025,wdi-flows,2.96,6.26,,,2,0,2.78,sdg-10c1,3 to 10%,Under 3%,$1bn to $10bn
+Ethiopia,ETH,231,Sub-Saharan Africa ,Low income,7137.7,2024,4.77,2024,69.3,2024,wdi-flows,4.18,6.48,,,4,0,3.14,sdg-10c1,3 to 10%,3 to 5%,$1bn to $10bn
+South Korea,KOR,410,East Asia & Pacific,High income,7070.9,2025,0.38,2025,14309.4,2025,wdi-flows,,,5.47,4.81,0,2,,sdg-10c1,Under 1%,,$1bn to $10bn
+Lebanon,LBN,422,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,6696.2,2023,33.35,2023,1775.2,2023,wdi-flows,8.47,11.66,,,8,0,5.08,sdg-10c1,20% or more,7 to 10%,$1bn to $10bn
+Serbia,SRB,688,Europe & Central Asia,Upper middle income,6557.6,2025,6.56,2025,1468.2,2025,wdi-flows,7.07,9.19,,,5,0,2.47,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Hungary,HUN,348,Europe & Central Asia,High income,5716,2025,2.32,2025,1344,2025,wdi-flows,5.25,8.08,,,3,0,3.81,sdg-10c1,1 to 3%,5 to 7%,$1bn to $10bn
+Sweden,SWE,752,Europe & Central Asia,High income,5413.5,2025,0.81,2025,4188.8,2025,wdi-flows,,,6.93,9.59,0,4,,sdg-10c1,Under 1%,,$1bn to $10bn
+United Kingdom,GBR,826,Europe & Central Asia,High income,5363.8,2025,0.13,2025,13169.4,2025,wdi-flows,,,4.61,7.01,0,33,,sdg-10c1,Under 1%,,$1bn to $10bn
+Peru,PER,604,Latin America & Caribbean ,Upper middle income,5299.3,2025,1.58,2025,341.1,2025,wdi-flows,4.86,4.63,,,4,0,3.63,sdg-10c1,1 to 3%,3 to 5%,$1bn to $10bn
+Nicaragua,NIC,558,Latin America & Caribbean ,Lower middle income,5245.6,2024,26.63,2024,145.7,2024,wdi-flows,4.95,4.16,,,2,0,4.13,sdg-10c1,20% or more,3 to 5%,$1bn to $10bn
+Netherlands,NLD,528,Europe & Central Asia,High income,5222.8,2025,0.39,2025,20193.6,2025,wdi-flows,,,5.52,8.2,0,8,,sdg-10c1,Under 1%,,$1bn to $10bn
+Kenya,KEN,404,Sub-Saharan Africa ,Lower middle income,5113.7,2025,3.76,2025,1.6,2025,wdi-flows,11.55,7.93,12.41,9.48,6,4,3.43,sdg-10c1,3 to 10%,10% or more,$1bn to $10bn
+Czechia,CZE,203,Europe & Central Asia,High income,4925.4,2025,1.26,2025,5959,2025,wdi-flows,,,6.27,9.85,0,2,,sdg-10c1,1 to 3%,,$1bn to $10bn
+Brazil,BRA,076,Latin America & Caribbean ,Upper middle income,4758.1,2025,0.21,2025,1859.8,2025,wdi-flows,5.38,6.33,11.91,4.64,6,3,3.86,sdg-10c1,Under 1%,5 to 7%,$1bn to $10bn
+Japan,JPN,392,East Asia & Pacific,High income,4726.8,2025,0.11,2025,7168.1,2025,wdi-flows,,,9.98,10.85,0,7,,sdg-10c1,Under 1%,,$1bn to $10bn
+Jordan,JOR,400,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,4431.1,2024,7.56,2024,576.9,2024,wdi-flows,4.88,5.7,4.09,4.57,6,3,2.84,sdg-10c1,3 to 10%,3 to 5%,$1bn to $10bn
+Venezuela,VEN,862,Latin America & Caribbean ,Lower middle income,4305,2025,4.32,2025,485,2025,wdi-flows,,,,,0,0,,,3 to 10%,,$1bn to $10bn
+Georgia,GEO,268,Europe & Central Asia,Upper middle income,4260.5,2025,11.17,2025,336.4,2025,wdi-flows,,1.34,,,0,0,,,10 to 20%,,$1bn to $10bn
+Haiti,HTI,332,Latin America & Caribbean ,Lower middle income,4111,2024,16.95,2024,770,2024,wdi-flows,5.31,8.09,,,4,0,4.7,sdg-10c1,10 to 20%,5 to 7%,$1bn to $10bn
+Tunisia,TUN,788,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,3876.8,2025,6.74,2025,77.2,2025,wdi-flows,5.49,8.48,,,2,0,5.48,sdg-10c1,3 to 10%,5 to 7%,$1bn to $10bn
+Switzerland,CHE,756,Europe & Central Asia,High income,3872.4,2025,0.37,2025,42676.2,2025,wdi-flows,,,6.69,9.89,0,5,,sdg-10c1,Under 1%,,$1bn to $10bn
+Austria,AUT,040,Europe & Central Asia,High income,3829.2,2025,0.66,2025,10810.8,2025,wdi-flows,,,4.43,6.91,0,6,,sdg-10c1,Under 1%,,$1bn to $10bn
+Jamaica,JAM,388,Latin America & Caribbean ,Upper middle income,3698.9,2025,16.29,2025,336.2,2025,wdi-flows,5.37,8.89,,,3,0,4.45,sdg-10c1,10 to 20%,5 to 7%,$1bn to $10bn
+Zimbabwe,ZWE,716,Sub-Saharan Africa ,Lower middle income,3509.9,2024,8.45,2024,43.8,2024,wdi-flows,8.37,11.23,,,4,0,5.04,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Bosnia and Herzegovina,BIH,070,Europe & Central Asia,Upper middle income,3494.7,2025,10.72,2025,190.2,2025,wdi-flows,5.66,6.5,,,2,0,4.9,sdg-10c1,10 to 20%,5 to 7%,$1bn to $10bn
+Democratic Republic of Congo,COD,180,Sub-Saharan Africa ,Low income,3318.3,2025,3.65,2025,1455.7,2025,wdi-flows,3.15,8.67,,,1,0,3.15,sdg-10c1,3 to 10%,3 to 5%,$1bn to $10bn
+Senegal,SEN,686,Sub-Saharan Africa ,Lower middle income,3267.1,2023,10.64,2023,339.6,2023,wdi-flows,5.78,5.09,25.7,4.06,2,1,2.4,sdg-10c1,10 to 20%,5 to 7%,$1bn to $10bn
+Kyrgyzstan,KGZ,417,Europe & Central Asia,Lower middle income,3197.2,2024,17.6,2024,460,2024,wdi-flows,9.85,4.01,,,1,0,9.85,sdg-10c1,10 to 20%,7 to 10%,$1bn to $10bn
+Slovakia,SVK,703,Europe & Central Asia,High income,3196.3,2025,2.07,2025,654.4,2025,wdi-flows,,,,,0,0,,,1 to 3%,,$1bn to $10bn
+Uganda,UGA,800,Sub-Saharan Africa ,Low income,2798,2025,4.51,2025,490.5,2025,wdi-flows,15.9,10.63,,,3,0,4.64,sdg-10c1,3 to 10%,10% or more,$1bn to $10bn
+Bulgaria,BGR,100,Europe & Central Asia,High income,2752.5,2025,2.1,2025,558.8,2025,wdi-flows,22.29,8.18,,,4,0,3.58,sdg-10c1,1 to 3%,10% or more,$1bn to $10bn
+Portugal,PRT,620,Europe & Central Asia,High income,2709.1,2025,0.78,2025,524.9,2025,wdi-flows,,,4.51,7.9,0,3,,sdg-10c1,Under 1%,,$1bn to $10bn
+Luxembourg,LUX,442,Europe & Central Asia,High income,2704.9,2025,2.67,2025,20011.6,2025,wdi-flows,,,,,0,0,,,1 to 3%,,$1bn to $10bn
+Albania,ALB,008,Europe & Central Asia,Upper middle income,2562.6,2025,8.39,2025,227.2,2025,wdi-flows,8.01,8.38,,,4,0,5.58,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Ghana,GHA,288,Sub-Saharan Africa ,Lower middle income,2422.9,2025,2.12,2025,1307.8,2025,wdi-flows,4.63,7.19,13.29,,5,1,4.24,sdg-10c1,1 to 3%,3 to 5%,$1bn to $10bn
+Belarus,BLR,112,Europe & Central Asia,Upper middle income,2368.9,2025,2.54,2025,476.8,2025,wdi-flows,,1.34,,,0,0,,,1 to 3%,,$1bn to $10bn
+Bermuda,BMU,060,North America,High income,2351,2025,24.23,2024,195.2,2025,wdi-flows,,,,,0,0,,,20% or more,,$1bn to $10bn
+Cambodia,KHM,116,East Asia & Pacific,Lower middle income,2198.2,2025,4.29,2025,345.6,2025,wdi-flows,9.87,15.06,,,1,0,9.87,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Australia,AUS,036,East Asia & Pacific,High income,2008.6,2025,0.11,2025,15959,2025,wdi-flows,,,5.23,8.84,0,16,,sdg-10c1,Under 1%,,$1bn to $10bn
+Moldova,MDA,498,Europe & Central Asia,Upper middle income,1914.4,2025,9.41,2025,503.8,2025,wdi-flows,7.36,5.74,,,2,0,4.66,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Cote d'Ivoire,CIV,384,Sub-Saharan Africa ,Lower middle income,1770.8,2024,2.03,2024,2047.2,2024,wdi-flows,4.05,5.52,6.17,2.44,1,1,4.05,sdg-10c1,1 to 3%,3 to 5%,$1bn to $10bn
+Algeria,DZA,012,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,1690.9,2025,0.59,2025,123.6,2025,wdi-flows,7.55,8.26,,,2,0,1.29,sdg-10c1,Under 1%,7 to 10%,$1bn to $10bn
+Denmark,DNK,208,Europe & Central Asia,High income,1688.9,2025,0.37,2025,5493.5,2025,wdi-flows,,,,,0,0,,,Under 1%,,$1bn to $10bn
+Russia,RUS,643,Europe & Central Asia,High income,1611.6,2025,0.06,2025,8872.5,2025,wdi-flows,,,,2.13,0,0,,,Under 1%,,$1bn to $10bn
+Armenia,ARM,051,Europe & Central Asia,Upper middle income,1573.7,2025,5.38,2025,630.6,2025,wdi-flows,7.14,3.97,,,1,0,7.14,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Paraguay,PRY,600,Latin America & Caribbean ,Upper middle income,1525.9,2025,3.1,2025,92.5,2025,wdi-flows,8.18,5.36,,,1,0,8.18,sdg-10c1,3 to 10%,7 to 10%,$1bn to $10bn
+Azerbaijan,AZE,031,Europe & Central Asia,Upper middle income,1492.2,2025,1.97,2025,643.4,2025,wdi-flows,,1.04,,,0,0,,,1 to 3%,,$1bn to $10bn
+Latvia,LVA,428,Europe & Central Asia,High income,1443.1,2025,2.97,2025,672.2,2025,wdi-flows,,5.11,,,0,0,,,1 to 3%,,$1bn to $10bn
+Lithuania,LTU,440,Europe & Central Asia,High income,1371.8,2025,1.44,2025,1054.1,2025,wdi-flows,4.67,7.07,,,1,0,4.67,sdg-10c1,1 to 3%,3 to 5%,$1bn to $10bn
+Qatar,QAT,634,"Middle East, North Africa, Afghanistan & Pakistan",High income,1258,2025,0.58,2025,12057.7,2025,wdi-flows,,,4.7,5.26,0,9,,sdg-10c1,Under 1%,,$1bn to $10bn
+Bolivia,BOL,068,Latin America & Caribbean ,Lower middle income,1246.5,2025,1.92,2025,140.5,2025,wdi-flows,18.52,4.1,,,2,0,15.8,sdg-10c1,1 to 3%,10% or more,$1bn to $10bn
+South Sudan,SSD,728,Sub-Saharan Africa ,Low income,1175.4,2023,,,169.8,2023,wdi-flows,9.82,9.66,,,5,0,3.45,sdg-10c1,,7 to 10%,$1bn to $10bn
+Israel,ISR,376,"Middle East, North Africa, Afghanistan & Pakistan",High income,1156.8,2025,0.19,2025,1750.3,2025,wdi-flows,,,13.13,11.23,0,1,,sdg-10c1,Under 1%,,$1bn to $10bn
+Tanzania,TZA,834,Sub-Saharan Africa ,Lower middle income,1123.3,2024,1.42,2024,681.9,2024,wdi-flows,11.25,10.6,57.76,14.4,3,3,4.88,sdg-10c1,1 to 3%,10% or more,$1bn to $10bn
+Slovenia,SVN,705,Europe & Central Asia,High income,1087.7,2025,1.37,2025,593.5,2025,wdi-flows,,,,,0,0,,,1 to 3%,,$1bn to $10bn
+Mali,MLI,466,Sub-Saharan Africa ,Low income,1068.9,2024,3.99,2024,266.1,2024,wdi-flows,10.15,5.05,,,3,0,2.88,sdg-10c1,3 to 10%,10% or more,$1bn to $10bn
+Norway,NOR,578,Europe & Central Asia,High income,1031.6,2025,0.19,2025,6313.4,2025,wdi-flows,,,3.53,6.22,0,2,,sdg-10c1,Under 1%,,$1bn to $10bn
+Liberia,LBR,430,Sub-Saharan Africa ,Low income,1016.8,2024,21.28,2024,150.8,2024,wdi-flows,5.36,5.53,,,1,0,5.36,sdg-10c1,20% or more,5 to 7%,$1bn to $10bn
+South Africa,ZAF,710,Sub-Saharan Africa ,Upper middle income,1004.7,2025,0.24,2025,1126.4,2025,wdi-flows,5.96,8.07,15.65,16.57,2,13,5.42,sdg-10c1,Under 1%,5 to 7%,$1bn to $10bn
+Argentina,ARG,032,Latin America & Caribbean ,Upper middle income,922.8,2025,0.14,2025,842.5,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Montenegro,MNE,499,Europe & Central Asia,Upper middle income,897.1,2025,9.72,2025,241.5,2025,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Finland,FIN,246,Europe & Central Asia,High income,876.4,2025,0.28,2025,1768.1,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Costa Rica,CRI,188,Latin America & Caribbean ,High income,845.5,2025,0.82,2025,660.5,2025,wdi-flows,5.97,5.71,6.86,3.33,1,1,5.97,sdg-10c1,Under 1%,5 to 7%,$100m to $1bn
+Cyprus,CYP,196,Europe & Central Asia,High income,844,2025,2.05,2025,1519.2,2025,wdi-flows,,,,,0,0,,,1 to 3%,,$100m to $1bn
+Canada,CAN,124,North America,High income,834,2025,0.04,2025,15115,2025,wdi-flows,,,5.27,7.29,0,15,,sdg-10c1,Under 1%,,$100m to $1bn
+Turkey,TUR,792,Europe & Central Asia,Upper middle income,761,2025,0.05,2025,2037,2025,wdi-flows,4.88,6.84,118.19,10.41,4,1,3.94,sdg-10c1,Under 1%,3 to 5%,$100m to $1bn
+Iraq,IRQ,368,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,757,2025,0.3,2025,596.4,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Ireland,IRL,372,Europe & Central Asia,High income,726.1,2025,0.1,2025,3802.3,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Palestine,PSE,275,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,693.3,2025,4.04,2025,0.8,2025,wdi-flows,3.55,7.29,,,1,0,3.55,sdg-10c1,3 to 10%,3 to 5%,$100m to $1bn
+Cameroon,CMR,120,Sub-Saharan Africa ,Lower middle income,690.2,2024,1.29,2024,101.3,2024,wdi-flows,3.08,4.4,4.38,15.38,1,1,3.08,sdg-10c1,1 to 3%,3 to 5%,$100m to $1bn
+Niger,NER,562,Sub-Saharan Africa ,Low income,650.4,2024,3.3,2024,466.2,2024,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Panama,PAN,591,Latin America & Caribbean ,High income,634.5,2025,0.7,2025,610.5,2025,wdi-flows,4.1,4.95,,,1,0,4.1,sdg-10c1,Under 1%,3 to 5%,$100m to $1bn
+Gambia,GMB,270,Sub-Saharan Africa ,Low income,617,2025,23.79,2025,83,2025,wdi-flows,12.05,9.72,,,1,0,12.05,sdg-10c1,20% or more,10% or more,$100m to $1bn
+Guinea,GIN,324,Sub-Saharan Africa ,Lower middle income,616.4,2024,2.46,2024,225,2024,wdi-flows,,,,,0,0,,,1 to 3%,,$100m to $1bn
+Madagascar,MDG,450,Sub-Saharan Africa ,Low income,616.4,2025,3.14,2025,78.7,2025,wdi-flows,5.31,7.92,,,1,0,5.31,sdg-10c1,3 to 10%,5 to 7%,$100m to $1bn
+Burkina Faso,BFA,854,Sub-Saharan Africa ,Low income,595.2,2024,2.57,2024,203,2024,wdi-flows,,,,,0,0,,,1 to 3%,,$100m to $1bn
+Greece,GRC,300,Europe & Central Asia,High income,582.9,2025,0.21,2025,3448.7,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Mongolia,MNG,496,East Asia & Pacific,Upper middle income,557.7,2025,2.2,2025,291.6,2025,wdi-flows,,,,,0,0,,,1 to 3%,,$100m to $1bn
+Guyana,GUY,328,Latin America & Caribbean ,High income,545.6,2023,3.22,2023,181.3,2023,wdi-flows,8.18,8.47,,,2,0,8.1,sdg-10c1,3 to 10%,7 to 10%,$100m to $1bn
+Estonia,EST,233,Europe & Central Asia,High income,536.3,2025,1.14,2025,291,2025,wdi-flows,,6.38,,,0,0,,,1 to 3%,,$100m to $1bn
+Lesotho,LSO,426,Sub-Saharan Africa ,Lower middle income,535,2025,20.79,2025,3.1,2025,wdi-flows,11.25,15.87,,,1,0,11.25,sdg-10c1,20% or more,10% or more,$100m to $1bn
+Rwanda,RWA,646,Sub-Saharan Africa ,Low income,517,2024,3.42,2024,100,2024,wdi-flows,10.73,11.54,22.57,6.23,4,1,5.03,sdg-10c1,3 to 10%,10% or more,$100m to $1bn
+Hong Kong,HKG,344,East Asia & Pacific,High income,478.5,2025,0.11,2025,1149,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Laos,LAO,418,East Asia & Pacific,Lower middle income,473,2025,2.58,2025,159.7,2025,wdi-flows,11.49,16.32,,,1,0,11.49,sdg-10c1,1 to 3%,10% or more,$100m to $1bn
+North Macedonia,MKD,807,Europe & Central Asia,Upper middle income,467.8,2025,2.45,2025,28.5,2025,wdi-flows,4.07,10.43,,,1,0,4.07,sdg-10c1,1 to 3%,3 to 5%,$100m to $1bn
+Fiji,FJI,242,East Asia & Pacific,Upper middle income,424.2,2024,7.11,2024,13.1,2024,wdi-flows,5.53,8.91,,,2,0,4.35,sdg-10c1,3 to 10%,5 to 7%,$100m to $1bn
+New Zealand,NZL,554,East Asia & Pacific,High income,407.2,2022,0.16,2022,1148.7,2025,wdi-flows,,,6.04,9.18,0,8,,sdg-10c1,Under 1%,,$100m to $1bn
+Zambia,ZMB,894,Sub-Saharan Africa ,Lower middle income,403.5,2025,1.4,2025,141,2025,wdi-flows,10.74,15.17,,,2,0,4.34,sdg-10c1,1 to 3%,10% or more,$100m to $1bn
+Cape Verde,CPV,132,Sub-Saharan Africa ,Upper middle income,356.8,2025,11.67,2025,36.6,2025,wdi-flows,7.22,10.15,,,2,0,3.52,sdg-10c1,10 to 20%,7 to 10%,$100m to $1bn
+Saudi Arabia,SAU,682,"Middle East, North Africa, Afghanistan & Pakistan",High income,350.6,2025,0.03,2025,58689.3,2025,wdi-flows,,,5.52,5.1,0,17,,sdg-10c1,Under 1%,,$100m to $1bn
+Benin,BEN,204,Sub-Saharan Africa ,Lower middle income,338.5,2023,1.72,2023,108.2,2023,wdi-flows,,18.3,,,0,0,,,1 to 3%,,$100m to $1bn
+Sierra Leone,SLE,694,Sub-Saharan Africa ,Low income,320.8,2024,4.6,2024,9.7,2024,wdi-flows,5.52,8.31,,,1,0,5.52,sdg-10c1,3 to 10%,5 to 7%,$100m to $1bn
+Malawi,MWI,454,Sub-Saharan Africa ,Low income,305.7,2025,2.05,2025,27.6,2025,wdi-flows,31.48,16.95,,,1,0,31.48,sdg-10c1,1 to 3%,10% or more,$100m to $1bn
+Comoros,COM,174,Sub-Saharan Africa ,Lower middle income,305.6,2023,20.84,2023,5.8,2023,wdi-flows,3.78,4.79,,,1,0,3.78,sdg-10c1,20% or more,3 to 5%,$100m to $1bn
+Samoa,WSM,882,East Asia & Pacific,Upper middle income,288.1,2025,22.37,2025,44.9,2025,wdi-flows,6.44,10.48,,,2,0,5.93,sdg-10c1,20% or more,5 to 7%,$100m to $1bn
+Mauritius,MUS,480,Sub-Saharan Africa ,Upper middle income,286.9,2024,1.92,2024,1122.2,2024,wdi-flows,,,,,0,0,,,1 to 3%,,$100m to $1bn
+Burundi,BDI,108,Sub-Saharan Africa ,Low income,273.1,2025,8.12,2025,22.4,2025,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Tonga,TON,776,East Asia & Pacific,Upper middle income,267.1,2025,39.32,2025,29.7,2025,wdi-flows,7.8,9.54,,,2,0,7.65,sdg-10c1,20% or more,7 to 10%,$100m to $1bn
+Mozambique,MOZ,508,Sub-Saharan Africa ,Low income,265.4,2025,1.19,2025,262.3,2025,wdi-flows,8.3,14.67,,,2,0,4.32,sdg-10c1,1 to 3%,7 to 10%,$100m to $1bn
+Iceland,ISL,352,Europe & Central Asia,High income,264.6,2025,0.69,2025,750,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Kazakhstan,KAZ,398,Europe & Central Asia,Upper middle income,236.8,2025,0.08,2025,2729.5,2025,wdi-flows,,1.34,,,0,0,,,Under 1%,,$100m to $1bn
+Guinea-Bissau,GNB,624,Sub-Saharan Africa ,Low income,217.2,2024,9.88,2024,84.7,2024,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Trinidad and Tobago,TTO,780,Latin America & Caribbean ,High income,199.6,2025,0.77,2025,151.4,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Vanuatu,VUT,548,East Asia & Pacific,Lower middle income,197.8,2022,17.17,2022,19.1,2022,wdi-flows,11.99,16.66,,,2,0,11.22,sdg-10c1,10 to 20%,10% or more,$100m to $1bn
+East Timor,TLS,626,East Asia & Pacific,Lower middle income,189.9,2025,9.99,2025,123.8,2025,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Curacao,CUW,531,Latin America & Caribbean ,High income,176.6,2023,5.38,2023,141.7,2023,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Suriname,SUR,740,Latin America & Caribbean ,Upper middle income,176.1,2025,3.89,2025,106.4,2025,wdi-flows,8.86,5.56,,,1,0,8.86,sdg-10c1,3 to 10%,7 to 10%,$100m to $1bn
+Macao,MAC,446,East Asia & Pacific,High income,173.8,2025,0.33,2025,2549.2,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Botswana,BWA,072,Sub-Saharan Africa ,Upper middle income,164.9,2025,0.83,2025,235.6,2025,wdi-flows,16.45,19.15,,,1,0,16.45,sdg-10c1,Under 1%,10% or more,$100m to $1bn
+Uruguay,URY,858,Latin America & Caribbean ,High income,150,2025,0.18,2025,132.8,2025,wdi-flows,,,,,0,0,,,Under 1%,,$100m to $1bn
+Belize,BLZ,084,Latin America & Caribbean ,Upper middle income,123.8,2025,3.72,2025,45.9,2025,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Bhutan,BTN,064,South Asia,Lower middle income,109.6,2024,3.28,2024,74.5,2024,wdi-flows,,,,,0,0,,,3 to 10%,,$100m to $1bn
+Chile,CHL,152,Latin America & Caribbean ,High income,100.3,2025,0.03,2025,691.3,2025,wdi-flows,,,4.93,4.25,0,1,,sdg-10c1,Under 1%,,$100m to $1bn
+Namibia,NAM,516,Sub-Saharan Africa ,Lower middle income,96.5,2024,0.71,2024,80.9,2024,wdi-flows,13.29,27.64,,,1,0,13.29,sdg-10c1,Under 1%,10% or more,Under $100m
+Solomon Islands,SLB,090,East Asia & Pacific,Lower middle income,95.2,2024,6.01,2024,51.8,2024,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Mauritania,MRT,478,Sub-Saharan Africa ,Lower middle income,94.5,2024,0.87,2024,69.3,2024,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Saint Vincent and the Grenadines,VCT,670,Latin America & Caribbean ,Upper middle income,88.3,2025,7.04,2025,15,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Marshall Islands,MHL,584,East Asia & Pacific,Upper middle income,66.9,2024,23.48,2024,15.9,2024,wdi-flows,,,,,0,0,,,20% or more,,Under $100m
+Bahamas,BHS,044,Latin America & Caribbean ,High income,65.9,2024,0.42,2024,320.9,2024,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Saint Lucia,LCA,662,Latin America & Caribbean ,Upper middle income,62.5,2025,2.35,2025,16.2,2025,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Djibouti,DJI,262,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,56,2024,1.35,2024,1,2024,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Angola,AGO,024,Sub-Saharan Africa ,Lower middle income,51.7,2025,0.04,2025,419.6,2025,wdi-flows,21.39,18.7,13.29,27.64,1,1,21.39,sdg-10c1,Under 1%,10% or more,Under $100m
+Sint Maarten (Dutch part),SXM,534,Latin America & Caribbean ,High income,48,2023,2.85,2023,104.3,2023,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Grenada,GRD,308,Latin America & Caribbean ,Upper middle income,47.5,2025,3.35,2025,52.8,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Congo,COG,178,Sub-Saharan Africa ,Lower middle income,44,2021,0.3,2021,78.3,2021,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Andorra,AND,020,Europe & Central Asia,High income,40,2025,0.89,2025,156.1,2025,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Saint Kitts and Nevis,KNA,659,Latin America & Caribbean ,High income,39.7,2025,3.36,2025,26.9,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Dominica,DMA,212,Latin America & Caribbean ,Upper middle income,39.6,2025,5.48,2025,9,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Aruba,ABW,533,Latin America & Caribbean ,High income,39,2023,1.04,2023,116.1,2023,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Oman,OMN,512,"Middle East, North Africa, Afghanistan & Pakistan",High income,39,2025,0.04,2025,9465.9,2025,wdi-flows,,,4.23,3.87,0,6,,sdg-10c1,Under 1%,,Under $100m
+Eswatini,SWZ,748,Sub-Saharan Africa ,Lower middle income,38.7,2025,0.75,2025,43.3,2025,wdi-flows,11.62,15.87,,,1,0,11.62,sdg-10c1,Under 1%,10% or more,Under $100m
+Sao Tome and Principe,STP,678,Sub-Saharan Africa ,Lower middle income,35.9,2025,3.66,2025,4.6,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+San Marino,SMR,674,Europe & Central Asia,High income,24.2,2024,1.1,2023,262.5,2024,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Kuwait,KWT,414,"Middle East, North Africa, Afghanistan & Pakistan",High income,23.9,2025,0.02,2025,16741.2,2025,wdi-flows,,,3.34,3.17,0,6,,sdg-10c1,Under 1%,,Under $100m
+Kiribati,KIR,296,East Asia & Pacific,Lower middle income,22.6,2025,6.48,2025,1.1,2025,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Antigua and Barbuda,ATG,028,Latin America & Caribbean ,High income,22,2025,0.94,2025,36.3,2025,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Malta,MLT,470,"Middle East, North Africa, Afghanistan & Pakistan",High income,15.7,2024,0.06,2024,226.4,2024,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Seychelles,SYC,690,Sub-Saharan Africa ,High income,12.5,2025,0.52,2025,67.9,2025,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Sudan,SDN,729,Sub-Saharan Africa ,Low income,11.9,2025,0.02,2025,21.2,2025,wdi-flows,21.22,4.9,,,3,0,13.44,sdg-10c1,Under 1%,10% or more,Under $100m
+Cayman Islands,CYM,136,Latin America & Caribbean ,High income,11.5,2024,0.15,2024,604.9,2024,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Maldives,MDV,462,South Asia,Upper middle income,5.9,2025,0.08,2025,661.8,2025,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Papua New Guinea,PNG,598,East Asia & Pacific,Lower middle income,3.9,2024,0.01,2024,83.7,2024,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Tuvalu,TUV,798,East Asia & Pacific,Upper middle income,2.6,2023,5.14,2023,2.2,2023,wdi-flows,,,,,0,0,,,3 to 10%,,Under $100m
+Nauru,NRU,520,East Asia & Pacific,High income,2.2,2024,1.33,2024,26.2,2024,wdi-flows,,,,,0,0,,,1 to 3%,,Under $100m
+Palau,PLW,585,East Asia & Pacific,High income,2.2,2023,0.8,2023,17.6,2023,wdi-flows,,,,,0,0,,,Under 1%,,Under $100m
+Afghanistan,AFG,004,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,,,,,,,8.83,9.88,,,4,0,5.75,sdg-10c1,,7 to 10%,
+United Arab Emirates,ARE,784,"Middle East, North Africa, Afghanistan & Pakistan",High income,,,,,62129.1,2025,wdi-flows,,,4.36,4.32,0,12,,sdg-10c1,,,
+Bahrain,BHR,048,"Middle East, North Africa, Afghanistan & Pakistan",High income,,,,,2545.3,2025,wdi-flows,,,3.41,3.17,0,4,,sdg-10c1,,,
+Cuba,CUB,192,Latin America & Caribbean ,Upper middle income,,,,,,,,8.75,11,,,1,0,8.75,sdg-10c1,,7 to 10%,
+Eritrea,ERI,232,Sub-Saharan Africa ,Low income,,,,,,,,7.73,11.47,,,2,0,6.55,sdg-10c1,,7 to 10%,
+Libya,LBY,434,"Middle East, North Africa, Afghanistan & Pakistan",Upper middle income,,,,,4819.4,2023,wdi-flows,,,,,0,0,,,,,
+Myanmar,MMR,104,East Asia & Pacific,Lower middle income,,,,,,,,6.86,12.13,,,3,0,0.24,sdg-10c1,,5 to 7%,
+Singapore,SGP,702,East Asia & Pacific,High income,,,,,,,,,,4.02,4.55,0,9,,sdg-10c1,,,
+Somalia,SOM,706,Sub-Saharan Africa ,Low income,,,,,,,,5.83,8.42,,,5,0,3.6,sdg-10c1,,5 to 7%,
+Syria,SYR,760,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,,,,,,,7.56,4.61,,,2,0,7.42,sdg-10c1,,7 to 10%,
+Togo,TGO,768,Sub-Saharan Africa ,Lower middle income,,,,,,,,3.42,7,,,2,0,3.36,sdg-10c1,,3 to 5%,
+Vietnam,VNM,704,East Asia & Pacific,Upper middle income,,,,,,,,5.5,7.64,,,12,0,3.7,sdg-10c1,,5 to 7%,
+Yemen,YEM,887,"Middle East, North Africa, Afghanistan & Pakistan",Low income,,,,,,,,4.37,5.39,,,3,0,2.69,sdg-10c1,,3 to 5%,

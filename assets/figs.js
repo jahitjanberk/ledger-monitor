@@ -301,4 +301,46 @@ export const FIGS = {
       };
     },
   },
+  fertilizer: {
+    files: ["prices"], title: "World Bank fertiliser price index, monthly, 2010 = 100",
+    source: "World Bank Commodity Price Data (Pink Sheet), November 2026",
+    draw([rows], w, h) {
+      rows = rows.filter((r) => r.month >= "2000-01" && r.fert_index != null).sort((a, b) => a.month.localeCompare(b.month));
+      const xo = (m) => +m.slice(0, 4) + (+m.slice(5, 7) - 1) / 12, mn = (m) => new Date(m + "-01T00:00:00Z").toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const peak = (from, to) => rows.filter((r) => r.month >= from && r.month <= to).reduce((p, r) => (r.fert_index > p.fert_index ? r : p));
+      const p08 = peak("2007-01", "2009-12"), p22 = peak("2021-01", "2023-12");
+      const x = fx(xo(a.month), xo(z.month), 0, w), y = fx(0, 300, base, 14);
+      const pts = rows.map((r) => [x(xo(r.month)), y(r.fert_index)]);
+      return {
+        label: `World Bank fertiliser price index (2010 = 100): ${num(a.fert_index)} in ${mn(a.month)}, ${num(p08.fert_index)} in ${mn(p08.month)}, ${num(p22.fert_index)} in ${mn(p22.month)} and ${num(z.fert_index)} in ${mn(z.month)}.`,
+        svg: `<path d="${pathOf(pts)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
+          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, pts[0][1] - 8, `${num(a.fert_index)} in ${a.month.slice(0, 4)}`)
+          + T(x(xo(p08.month)), y(p08.fert_index) - 8, `${num(p08.fert_index)} in ${mn(p08.month)}`, "", "middle")
+          + T(x(xo(p22.month)), y(p22.fert_index) - 8, `${num(p22.fert_index)} in ${mn(p22.month)}`, "", "end")
+          + T(w, y(z.fert_index) - 14, `${num(z.fert_index)} in ${mn(z.month)}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.month.slice(0, 4), "n") + T(w, h - 4, z.month.slice(0, 4), "n", "end"),
+      };
+    },
+  },
+  remittances: {
+    files: ["world"], title: "Average cost of sending $200 abroad, % of the amount sent",
+    source: "World Bank Remittance Prices Worldwide, via the UN SDG Global Database (indicator 10.c.1)",
+    draw([rows], w, h) {
+      rows = rows.filter((r) => r.cost_global != null).sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const x = fx(a.year, z.year, 0, w), y = fx(0, 10, base, 4), g = y(3);
+      const pts = rows.map((r) => [x(r.year), y(r.cost_global)]);
+      return {
+        label: `The global average cost of sending $200 fell from ${num(a.cost_global, 2)}% in ${a.year} to ${num(z.cost_global, 2)}% in ${z.year}. The UN target for 2030 is under 3%.`,
+        svg: `<path d="${pathOf(pts)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
+          + Ln(0, g, w, g, "rule") + T(0, g + 15, "UN target for 2030: 3%")
+          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, pts[0][1] - 8, `${num(a.cost_global, 2)}% in ${a.year}`)
+          + T(w, pts.at(-1)[1] - 10, `${num(z.cost_global, 2)}% in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
 };

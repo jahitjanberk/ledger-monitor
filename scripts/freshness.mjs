@@ -15,14 +15,23 @@ const CADENCE = {
   // Monthly or more often
   portwatch: 1, "wb-pinksheet": 1, "fao-ffpi": 1, "c3s-pulse": 1, "c3s-oct2026": 1, "metoffice-haduk": 1, "ons-mm23": 1, "ons-psf": 1,
   "faostat-cp": 3,
+  openfda: 1, "ema-shortages": 1, "cpe-pc": 1, "nhsbsa-ssp": 1,
+  "defra-api": 1,
+  // Quarterly: the GB price cap is set every three months (late Feb, May, Aug and Nov)
+  "ofgem-cap": 3, "ofgem-letter": 3,
   // Twice a year
-  "imf-fm": 6, "imf-weo": 6, unoosa: 6, ussf: 6, "top500-2026": 6, "aws-regions": 6, "azure-regions": 6, "gcp-regions": 6, "azure-latency": 6,
+  "es-elec": 6, "es-gas": 6, "who-cases": 6, "wb-cmo-forecast": 6, rpw: 6,
+  "imf-fm": 6, "imf-weo": 6, "top500-2026": 6, "aws-regions": 6, "azure-regions": 6, "gcp-regions": 6, "azure-latency": 6,
   // Yearly
   "fao-ffpi-real": 12, "ember-yearly": 12, satpm: 12, "who-sdg1162": 12, "iqair-2025": 12, "faostat-fs": 12, "faostat-cahd": 12, sofi2026: 12,
   grfc2026: 12, "usda-ers": 12, "wb-health": 12, "wb-edu": 12, "wb-pop": 12, "unctad-wod": 12, "owid-anom": 12, hadcrut5: 12, "wb-cckp": 12,
   "fao-sdg642": 12, "aquastat-wdi": 12, "aquastat-pc": 12, "usgs-mcs": 12, "iea-refined": 12, "iea-gcmo2026": 12, "oecd-inventory": 12,
   "demographia-2026": 12, "ons-2025": 12, "fbi-ic3-2025": 12, "ukfinance-2026": 12, "accc-2025": 12, "cafc-2025": 12, "spf-2025": 12,
-  "i4c-2025": 12, "gasa-global-2025": 12, "telegeography-2021": 12, "epoch-chips-2026": 12, "cso-2025": 12, "ukhsa-2026": 12,
+  "i4c-2025": 12, "gasa-global-2025": 12, unoosa: 12, ussf: 12, "epoch-chips-2026": 12, "cso-2025": 12, "ukhsa-2026": 12,
+  "wb-elec": 12, "wb-cook": 12, "es-warm": 12, "es-arrears": 12, "desnz-trends": 12, "desnz-report": 12, "sdg7-2026": 12,
+  "fda-rtc-2025": 12, "fda-sopq": 12, comtrade: 12, "ema-ulcm": 12, wuenic: 12, "who-nhwa": 12, "ukhsa-cover": 12, "sown-2025": 36,
+  "faostat-rfn": 12, "defra-bsfp": 12, "wdi-flows": 12, "sdg-10c1": 12,
+  // Not listed on purpose: telegeography-2021, a frozen snapshot (TeleGeography's current data is for subscribers only).
   // Less often
   "ihme-gbd2023": 24, "jmp-2025": 24, "eia-chokepoints": 24, "lbnl-2024": 36,
 };
@@ -42,7 +51,9 @@ const months = (a, b) => (b - a) / (1000 * 60 * 60 * 24 * 30.44);
 const rows = [];
 let oneOff = 0, undated = 0;
 for (const dash of DASHBOARDS) {
-  const { sources } = JSON.parse(fs.readFileSync(path.join(ROOT, `data/${dash}/sources.json`), "utf8"));
+  const file = path.join(ROOT, `data/${dash}/sources.json`);
+  if (!fs.existsSync(file)) { console.warn(`No data/${dash}/sources.json yet; skipped.`); continue; }
+  const { sources } = JSON.parse(fs.readFileSync(file, "utf8"));
   for (const [id, s] of Object.entries(sources)) {
     const every = CADENCE[id];
     if (!every) { oneOff++; continue; }

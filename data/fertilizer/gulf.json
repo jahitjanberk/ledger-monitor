@@ -1,0 +1,91 @@
+{
+  "id": "gulf",
+  "title": "Gulf states' fertiliser exports",
+  "description": "Exports of Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates in 2024, thousand tonnes of nutrient and share of world exports (FAOSTAT).",
+  "records": [
+    {
+      "country": "Saudi Arabia",
+      "iso3": "SAU",
+      "year": 2024,
+      "n_exp_kt": 2969,
+      "n_share_pct": 6.39,
+      "p_exp_kt": 2602,
+      "p_share_pct": 9.61,
+      "k_exp_kt": 18.2,
+      "k_share_pct": 0.05,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "Qatar",
+      "iso3": "QAT",
+      "year": 2024,
+      "n_exp_kt": 2470.7,
+      "n_share_pct": 5.32,
+      "p_exp_kt": 0,
+      "p_share_pct": 0,
+      "k_exp_kt": 0.3,
+      "k_share_pct": 0,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "Oman",
+      "iso3": "OMN",
+      "year": 2024,
+      "n_exp_kt": 1642.9,
+      "n_share_pct": 3.54,
+      "p_exp_kt": 0.1,
+      "p_share_pct": 0,
+      "k_exp_kt": 6.4,
+      "k_share_pct": 0.02,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "Bahrain",
+      "iso3": "BHR",
+      "year": 2024,
+      "n_exp_kt": 318.5,
+      "n_share_pct": 0.69,
+      "p_exp_kt": 0,
+      "p_share_pct": 0,
+      "k_exp_kt": 0,
+      "k_share_pct": 0,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "Iran",
+      "iso3": "IRN",
+      "year": 2024,
+      "n_exp_kt": 13.4,
+      "n_share_pct": 0.03,
+      "p_exp_kt": 0.3,
+      "p_share_pct": 0,
+      "k_exp_kt": 3.2,
+      "k_share_pct": 0.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "United Arab Emirates",
+      "iso3": "ARE",
+      "year": 2024,
+      "n_exp_kt": 8,
+      "n_share_pct": 0.02,
+      "p_exp_kt": 5.1,
+      "p_share_pct": 0.02,
+      "k_exp_kt": 7.6,
+      "k_share_pct": 0.02,
+      "source": "faostat-rfn"
+    },
+    {
+      "country": "Kuwait",
+      "iso3": "KWT",
+      "year": 2024,
+      "n_exp_kt": 0,
+      "n_share_pct": 0,
+      "p_exp_kt": 0,
+      "p_share_pct": 0,
+      "k_exp_kt": 1.2,
+      "k_share_pct": 0,
+      "source": "faostat-rfn"
+    }
+  ]
+}

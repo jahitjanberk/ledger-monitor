@@ -1,0 +1,68 @@
+{
+  "sources": {
+    "wb-pinksheet": {
+      "publisher": "World Bank",
+      "title": "Commodity Price Data (The Pink Sheet), monthly prices and indices, November 2026",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "published": "2026-11-03",
+      "method": "reference",
+      "notes": "Nominal US dollars a tonne, monthly averages, January 1960 to October 2026. Urea: prill, spot, f.o.b. Middle East (Black Sea before March 2022). DAP: spot, f.o.b. US Gulf. TSP: spot, import US Gulf. Potassium chloride (muriate of potash): granular, spot, CFR Brazil. Phosphate rock: f.o.b. North Africa. Natural gas, Europe: $ per million British thermal units. The fertiliser index is the World Bank's (2010 = 100). CC BY 4.0."
+    },
+    "wb-cmo-forecast": {
+      "publisher": "World Bank",
+      "title": "Commodity Markets Outlook, October 2026: Table 1, commodity prices and forecasts",
+      "url": "https://thedocs.worldbank.org/en/doc/2ac43f46629cf90c2ea5b8929a343593-0050012026/related/CMO-October-2026-Forecasts.pdf",
+      "published": "2026-10-28",
+      "method": "reference",
+      "notes": "Annual averages for 2024 and 2025 and forecasts for 2026 to 2028, nominal US dollars, with the April 2026 forecasts for comparison. Forecasts assume conflicts affecting supply do not escalate significantly. CC BY 4.0."
+    },
+    "wb-fert-blog": {
+      "publisher": "World Bank Data Blog (John Baffes and Kaltrina Temaj)",
+      "title": "Fertilizer prices surge as Strait of Hormuz disruptions tighten supplies",
+      "url": "https://blogs.worldbank.org/en/opendata/fertilizer-prices-surge-as-strait-of-hormuz-disruptions-tighten-",
+      "published": "2026-05-14",
+      "method": "reference",
+      "notes": "Based on the April 2026 Commodity Markets Outlook. Quoted for the Middle East's share of urea exports and for fertiliser affordability."
+    },
+    "faostat-rfn": {
+      "publisher": "FAO (FAOSTAT)",
+      "title": "Fertilizers by Nutrient (RFN), July 2026 update",
+      "url": "https://www.fao.org/faostat/en/#data/RFN",
+      "published": "2026-07-30",
+      "method": "reference",
+      "notes": "Production, imports, exports and agricultural use of inorganic fertilisers in tonnes of nutrient: nitrogen (N), phosphate (P2O5) and potash (K2O), 1961 to 2024, and use per hectare of cropland. Values are a mix of official, estimated and imputed figures; trade is partly mirror data from partner countries. CC BY 4.0."
+    },
+    "aljazeera-2026-08": {
+      "publisher": "Al Jazeera",
+      "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
+      "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
+      "published": "2026-08-27",
+      "method": "reference",
+      "notes": "Date the Strait of Hormuz was announced closed. The same source is used by the Chokepoints dashboard."
+    },
+    "defra-api": {
+      "publisher": "Defra",
+      "title": "Agricultural price indices, United Kingdom: August 2026 (monthly dataset, 2020 = 100)",
+      "url": "https://www.gov.uk/government/statistics/agricultural-price-indices",
+      "published": "2026-10-29",
+      "method": "reference",
+      "notes": "Indices of the prices UK farmers pay for fertilisers and other inputs and receive for wheat and other outputs, January 2014 to August 2026. Open Government Licence v3.0."
+    },
+    "defra-bsfp": {
+      "publisher": "Defra",
+      "title": "British Survey of Fertiliser Practice 2025: time series dataset (Table GB1.1)",
+      "url": "https://www.gov.uk/government/statistical-data-sets/british-survey-of-fertiliser-practice-dataset",
+      "published": "2026-07-16",
+      "method": "reference",
+      "notes": "Overall application rates of mineral fertiliser in Great Britain, kg of nutrient per hectare, averaged over all fields including those that received none, 1992 to 2025, for tillage crops, grassland and both. Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

@@ -10,18 +10,8 @@
       "rfs": "2023",
       "landings": 29,
       "source": "telegeography-2021",
-      "owners": null,
-      "countries": null
-    },
-    {
-      "id": "2africa",
-      "name": "2Africa",
-      "length_km": null,
-      "rfs": null,
-      "landings": 0,
-      "source": "telegeography-2021",
-      "owners": null,
-      "countries": null
+      "owners": "Facebook, Vodafone, MTN Group, China Mobile, WIOCC, Orange, Telecom Egypt, Saudi Telecom",
+      "countries": "Congo, Dem. Rep.|Congo, Rep.|Côte d'Ivoire|Djibouti|Egypt|France|Gabon|Ghana|Italy|Kenya|Madagascar|Mozambique|Nigeria|Oman|Portugal|Saudi Arabia|Senegal|Somalia|South Africa|Spain|Sudan|Tanzania|United Kingdom"
     },
     {
       "id": "acs-alaska-oregon-network-akorn",
@@ -456,7 +446,7 @@
     {
       "id": "bcs-east",
       "name": "BCS East",
-      "length_km": 8,
+      "length_km": 97.8,
       "rfs": "1995",
       "landings": 2,
       "source": "telegeography-2021",
@@ -486,7 +476,7 @@
     {
       "id": "bcs-north---phase-2",
       "name": "BCS North - Phase 2",
-      "length_km": 4,
+      "length_km": 280.4,
       "rfs": "2000",
       "landings": 3,
       "source": "telegeography-2021",
@@ -3926,7 +3916,7 @@
     {
       "id": "sir-abu-nuayr-cable",
       "name": "Sir Abu Nu’ayr Cable",
-      "length_km": 4,
+      "length_km": 84.4,
       "rfs": "2018",
       "landings": 2,
       "source": "telegeography-2021",

@@ -1,0 +1,11 @@
+map,band,min,max,unit,source
+nitrogen,Under 10 kg,0,10,kg of nitrogen per hectare of cropland,faostat-rfn
+nitrogen,10 to 50 kg,10,50,kg of nitrogen per hectare of cropland,faostat-rfn
+nitrogen,50 to 100 kg,50,100,kg of nitrogen per hectare of cropland,faostat-rfn
+nitrogen,100 to 150 kg,100,150,kg of nitrogen per hectare of cropland,faostat-rfn
+nitrogen,150 kg or more,150,,kg of nitrogen per hectare of cropland,faostat-rfn
+imports,Net exporter,,0,"net imports as % of agricultural use, N + P2O5 + K2O",faostat-rfn
+imports,Under 50%,0,50,"net imports as % of agricultural use, N + P2O5 + K2O",faostat-rfn
+imports,50 to 80%,50,80,"net imports as % of agricultural use, N + P2O5 + K2O",faostat-rfn
+imports,80 to 95%,80,95,"net imports as % of agricultural use, N + P2O5 + K2O",faostat-rfn
+imports,95% or more,95,,"net imports as % of agricultural use, N + P2O5 + K2O",faostat-rfn

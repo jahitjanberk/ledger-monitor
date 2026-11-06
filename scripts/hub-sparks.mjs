@@ -146,6 +146,20 @@ const SPARKS = {
       `Price concessions granted in England each month, from ${v[0]} in ${fmt(p[0].month)} to ${v.at(-1)} in ${fmt(p.at(-1).month)}, peaking at ${peak.concessions} in ${fmt(peak.month)}`,
       `Price concessions in England, per month`, `${p[0].month.slice(0, 4)}–${p.at(-1).month.slice(0, 4)}`);
   },
+  fertilizer() {
+    const p = rec("fertilizer/prices.json").filter((r) => r.month >= "2019-01" && r.urea != null).sort((a, b) => a.month.localeCompare(b.month));
+    const v = p.map((r) => r.urea), max = 1000;
+    const fmt = (m) => new Date(m + "-01T00:00:00Z").toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+    const hi = p.reduce((a, b) => (b.urea > a.urea ? b : a));
+    return fig(area(v, max, ACC) + line(v, max, ACC),
+      `Urea price, US dollars a tonne, monthly, from $${Math.round(v[0])} in ${fmt(p[0].month)} to $${Math.round(v.at(-1))} in ${fmt(p.at(-1).month)}, peaking at $${Math.round(hi.urea)} in ${fmt(hi.month)}`, `Urea, US$ a tonne, monthly`, `${p[0].month.slice(0, 4)}–${p.at(-1).month.slice(0, 4)}`);
+  },
+  remittances() {
+    const p = rec("remittances/world.json").filter((r) => r.cost_global != null).sort((a, b) => a.year - b.year);
+    const v = p.map((r) => r.cost_global), max = 10;
+    return fig(area(v, max, ACC) + line(v, max, ACC) + hline(3, max, MUTED, "UN target: 3%"),
+      `Average cost of sending $200 abroad, from ${v[0].toFixed(2)}% in ${p[0].year} to ${v.at(-1).toFixed(2)}% in ${p.at(-1).year}, against a 3% target`, `Cost of sending $200, %`, `${p[0].year}–${p.at(-1).year}`);
+  },
 };
 
 const file = path.join(ROOT, "index.html");

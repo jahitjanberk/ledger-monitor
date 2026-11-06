@@ -1,0 +1,623 @@
+{
+  "id": "regions",
+  "title": "Average cost of sending $200 to each SDG region, 2011 to 2025",
+  "description": "SDG indicator 10.c.1 by receiving region, third quarter of each year.",
+  "records": [
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2011,
+      "cost": 12.41,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2015,
+      "cost": 9.78,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2017,
+      "cost": 9.19,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2018,
+      "cost": 8.96,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2019,
+      "cost": 9.02,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2020,
+      "cost": 8.46,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2021,
+      "cost": 8.29,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2022,
+      "cost": 8.5,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2023,
+      "cost": 7.36,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2024,
+      "cost": 8.44,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "202",
+      "region": "Sub-Saharan Africa",
+      "year": 2025,
+      "cost": 8.38,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2011,
+      "cost": 7.68,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2015,
+      "cost": 6.29,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2017,
+      "cost": 5.66,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2018,
+      "cost": 5.87,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2019,
+      "cost": 5.92,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2020,
+      "cost": 5.83,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2021,
+      "cost": 5.72,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2022,
+      "cost": 5.64,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2023,
+      "cost": 5.83,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2024,
+      "cost": 6.19,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "419",
+      "region": "Latin America and the Caribbean",
+      "year": 2025,
+      "cost": 5.64,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2011,
+      "cost": 5.69,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2015,
+      "cost": 5.4,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2017,
+      "cost": 5.32,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2018,
+      "cost": 5.35,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2019,
+      "cost": 4.99,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2020,
+      "cost": 4.98,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2021,
+      "cost": 4.44,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2022,
+      "cost": 4.99,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2023,
+      "cost": 5.47,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2024,
+      "cost": 5.01,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "62",
+      "region": "Central and Southern Asia",
+      "year": 2025,
+      "cost": 4.88,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2011,
+      "cost": 8.36,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2015,
+      "cost": 7.38,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2017,
+      "cost": 7.62,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2018,
+      "cost": 6.89,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2019,
+      "cost": 6.89,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2020,
+      "cost": 6.73,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2021,
+      "cost": 5.87,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2022,
+      "cost": 5.38,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2023,
+      "cost": 5.43,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2024,
+      "cost": 6.12,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "753",
+      "region": "Eastern and South-Eastern Asia",
+      "year": 2025,
+      "cost": 5.64,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2011,
+      "cost": 7.16,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2015,
+      "cost": 7.54,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2017,
+      "cost": 7.01,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2018,
+      "cost": 6.84,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2019,
+      "cost": 6.67,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2020,
+      "cost": 7.35,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2021,
+      "cost": 6.47,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2022,
+      "cost": 6.1,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2023,
+      "cost": 6.08,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2024,
+      "cost": 6.38,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "747",
+      "region": "Northern Africa and Western Asia",
+      "year": 2025,
+      "cost": 6.02,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2011,
+      "cost": 13.39,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2015,
+      "cost": 10.1,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2017,
+      "cost": 10.93,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2018,
+      "cost": 9.57,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2019,
+      "cost": 9.6,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2020,
+      "cost": 9.08,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2021,
+      "cost": 8.91,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2022,
+      "cost": 8.23,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2023,
+      "cost": 8.33,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2024,
+      "cost": 8.31,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "543",
+      "region": "Oceania (excluding Australia and New Zealand)",
+      "year": 2025,
+      "cost": 7.35,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2011,
+      "cost": 7.77,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2015,
+      "cost": 6.57,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2017,
+      "cost": 6.8,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2018,
+      "cost": 6.69,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2019,
+      "cost": 6.74,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2020,
+      "cost": 6.38,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2021,
+      "cost": 6.35,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2022,
+      "cost": 7,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2023,
+      "cost": 6.46,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2024,
+      "cost": 7.13,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "513",
+      "region": "Europe and Northern America",
+      "year": 2025,
+      "cost": 7.12,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2011,
+      "cost": 9.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2015,
+      "cost": 7.52,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2017,
+      "cost": 7.21,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2018,
+      "cost": 6.94,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2019,
+      "cost": 6.85,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2020,
+      "cost": 6.75,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2021,
+      "cost": 6.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2022,
+      "cost": 6.3,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2023,
+      "cost": 6.18,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2024,
+      "cost": 6.62,
+      "source": "sdg-10c1"
+    },
+    {
+      "code": "1",
+      "region": "World",
+      "year": 2025,
+      "cost": 6.36,
+      "source": "sdg-10c1"
+    }
+  ]
+}

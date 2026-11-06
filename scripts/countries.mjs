@@ -32,6 +32,8 @@ const KEYED = [
   ["vaccines", "countries"],
   ["energy", "countries"],
   ["medicines", "countries"],
+  ["fertilizer", "countries"],
+  ["remittances", "countries"],
 ];
 const C = new Map(); // iso3 -> { iso3, n3, name }
 const byN3 = new Map(), byName = new Map();
@@ -170,8 +172,26 @@ const METRICS = [
     M({ id: "pharma_imports", label: "Pharmaceutical imports (HS 30)", unit: "US$ billion", dec: 2, get: (r) => r.imports_bn, year: (r) => r.year, src: (r) => r.trade_source }),
     M({ id: "abx_exports", label: "Antibiotic ingredient exports (HS 2941)", unit: "US$ million", dec: 1, get: (r) => r.abx_exports_m, year: (r) => r.year, src: (r) => r.trade_source }),
   ] },
+  { dash: "fertilizer", section: "map", table: ["fertilizer", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "n_per_ha", label: "Nitrogen fertiliser per hectare of cropland", unit: "kg", get: (r) => r.n_per_ha, year: (r) => r.year, src: (r) => r.source,
+      note: (r) => r.n_per_ha_2000 != null && `${nf(r.n_per_ha_2000, 1)} kg in 2000` }),
+    M({ id: "npk_per_ha", label: "Nitrogen, phosphate and potash per hectare of cropland", unit: "kg", get: (r) => r.npk_per_ha, year: (r) => r.year, src: (r) => r.source }),
+    M({ id: "fert_imports", label: "Fertiliser net imports as a share of farm use (N + P + K)", dec: 0, fmt: (v) => (v < 0 ? "Net exporter" : `${nf(v)}%`), get: (r) => r.import_dep_pct, year: (r) => r.year, src: (r) => r.source,
+      note: (r) => r.n_import_dep_pct != null && (r.n_import_dep_pct < 0 ? "Net exporter of nitrogen" : `Nitrogen alone: ${nf(r.n_import_dep_pct)}%`) }),
+    M({ id: "n_use", label: "Nitrogen fertiliser used on farms", unit: "thousand tonnes", get: (r) => r.n_use_kt, year: (r) => r.year, src: (r) => r.source,
+      note: (r) => r.n_prod_kt != null && `${nf(r.n_prod_kt, 1)} thousand tonnes made in the country` }),
+  ] },
+  { dash: "remittances", section: "map", table: ["remittances", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "rem_gdp", label: "Remittances received, share of GDP", unit: "%", get: (r) => r.received_gdp_pct, year: (r) => r.received_gdp_year, src: (r) => r.flows_source }),
+    M({ id: "rem_received", label: "Remittances received", dec: 0, fmt: (v) => `${nf(v)} million`, get: (r) => r.received_usd_m, year: (r) => r.received_year, src: (r) => r.flows_source }),
+    M({ id: "rem_paid", label: "Remittances paid out", dec: 0, fmt: (v) => `${nf(v)} million`, get: (r) => r.paid_usd_m, year: (r) => r.paid_year, src: (r) => r.flows_source }),
+    M({ id: "rem_cost_in", label: "Average cost of sending $200 to the country", unit: "%", dec: 2, get: (r) => r.cost_receive, year: (r) => r.cost_receive != null && 2025, src: (r) => r.cost_source,
+      note: (r) => r.cost_receive_2017 != null && `${nf(r.cost_receive_2017, 2)}% in 2017` }),
+    M({ id: "rem_cost_out", label: "Average cost of sending $200 from the country", unit: "%", dec: 2, get: (r) => r.cost_send, year: (r) => r.cost_send != null && 2025, src: (r) => r.cost_source,
+      note: (r) => r.cost_send_2017 != null && `${nf(r.cost_send_2017, 2)}% in 2017` }),
+  ] },
 ];
-const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines" };
+const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines", fertilizer: "Fertiliser", remittances: "Remittances" };
 
 // Values for every country, then ranks.
 const VAL = new Map(); // iso3 -> metric id -> { v, under, y, s, dash, row }

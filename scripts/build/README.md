@@ -1,16 +1,26 @@
 # Data builders
 
-Each script rebuilds one dashboard's published data from raw downloads: `data/<id>/*` (CSV, JSON, `sources.json`, `index.json`, the data page) and `<id>/assets/data.js`, which the dashboard loads. They need Node.js 18 or later and no packages.
+Each script rebuilds one dashboard's published data from raw downloads: `data/<id>/*` (CSV, JSON, `sources.json`, `index.json`, the data page) and `<id>/assets/data.js`, which the dashboard loads. They need Node.js 18 or later and no packages. Run `air.mjs` first when its country list changes: it writes `data/air/countries.json`, which the other builders read for country names and codes.
 
-    node scripts/build/food.mjs
+    node scripts/build/air.mjs
+    node scripts/build/chokepoints.mjs
     node scripts/build/debt.mjs
-    node scripts/build/heat.mjs
-    node scripts/build/minerals.mjs
-    node scripts/build/vaccines.mjs
+    node scripts/build/electricity.mjs
     node scripts/build/energy.mjs
+    node scripts/build/fertilizer.mjs
+    node scripts/build/food.mjs
+    node scripts/build/heat.mjs
+    node scripts/build/housing.mjs
+    node scripts/build/internet.mjs
     node scripts/build/medicines.mjs
+    node scripts/build/minerals.mjs
+    node scripts/build/orbit.mjs
+    node scripts/build/remittances.mjs
+    node scripts/build/scams.mjs
+    node scripts/build/vaccines.mjs
+    node scripts/build/water.mjs
 
-Raw downloads go in `scripts/.raw/`, which git ignores, laid out as below. To keep them elsewhere, set `RAW` to the folder that holds `food/`, `debt/`, `heat/`, `minerals/`, `medicines/`, `energy/`, `vaccines/` and `cmo/`. Excel files are read unzipped: unzip the `.xlsx` into the folder named.
+Raw downloads go in `scripts/.raw/`, which git ignores, laid out as below. To keep them elsewhere, set `RAW` to the folder that holds one subfolder per dashboard (`food/`, `debt/`, `air/` and so on) and the shared `cmo/`. Excel files are read unzipped: unzip the `.xlsx` into the folder named.
 
 After rebuilding, refresh the derived pages and check them:
 
@@ -114,3 +124,106 @@ When Ofgem publishes a new cap (next on 25 November 2026, for January to March 2
 | `nhsbsa_ssp.html` | NHSBSA Serious Shortage Protocols page: `https://www.nhsbsa.nhs.uk/pharmacies-gp-practices-and-appliance-contractors/serious-shortage-protocols-ssps` |
 
 FDA's yearly shortage counts, the FDA quality report figures and the headline facts are written in the script from the report PDFs (`https://www.fda.gov/drugs/drug-shortages/drug-shortages-additional-news-and-information` lists the reports to Congress; the quality report is at `https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/report-state-pharmaceutical-quality`). Add a row to `US_YEARS` when the next report to Congress comes out, usually mid-year. The CPE archive grows each month; if the builder's latest-month count differs from the total in CPE's "final update" news post, check the table parsing.
+
+## `fertilizer/`
+
+| File | Source |
+|---|---|
+| `rfn/` | FAOSTAT Fertilizers by Nutrient bulk file, unzipped: `https://bulks-faostat.fao.org/production/Inputs_FertilizersNutrient_E_All_Data_(Normalized).zip` |
+| `cmo_forecasts.txt` | World Bank Commodity Markets Outlook price forecasts, converted with `pdftotext -raw`: `https://thedocs.worldbank.org/en/doc/2ac43f46629cf90c2ea5b8929a343593-0050012026/related/CMO-October-2026-Forecasts.pdf` (linked as "Price forecasts" on [the commodity markets page](https://www.worldbank.org/en/research/commodity-markets)) |
+| `API_20261029.csv` | Defra agricultural price indices, monthly CSV (2020 = 100): `https://assets.publishing.service.gov.uk/media/6adf42f4b62d80a107bc5cf7/API_20261029.csv` (from [the API page](https://www.gov.uk/government/statistics/agricultural-price-indices); the file name changes each month, so update it in the script) |
+| `bsfp_ts/` | British Survey of Fertiliser Practice time series (`.ods`), unzipped so `content.xml` is in the folder: `https://assets.publishing.service.gov.uk/media/6a564aa72f6185941a9a64b5/BSFP_2025_timeseries_dataset_260716.ods` (from [the BSFP dataset page](https://www.gov.uk/government/statistical-data-sets/british-survey-of-fertiliser-practice-dataset)) |
+
+The builder also reads the shared Pink Sheet in `cmo/` (sheets 2 and 3) and `data/air/countries.json` for country names and numeric codes. The headline facts (World Bank blog, Al Jazeera, Defra's August 2026 release) are typed into the builder. When the World Bank publishes new forecasts (April and October), download the new PDF, convert it and update the `wb-cmo-forecast` source.
+
+## `chokepoints/`
+
+| File | Source |
+|---|---|
+| `portwatch_chokepoints_2026-10-31.csv` | IMF PortWatch "Daily Chokepoints Data" export of 31 October 2026 (data to 25 October 2026), from the public copy at `https://raw.githubusercontent.com/jhelvy/2026-global-oil-flows/42baea26/data/raw/portwatch_chokepoints_2026-10-31.csv`. The same rows can be queried from PortWatch's ArcGIS service, one chokepoint at a time (at most 1,000 rows per call; add `&resultOffset=1000` and so on for more): `https://services9.arcgis.com/weJ1QsnbMYJlCHdG/arcgis/rest/services/Daily_Chokepoints_Data/FeatureServer/0/query?where=portid%3D%27chokepoint6%27+AND+date%3E%3D%272025-01-01%27&outFields=*&orderByFields=date&resultRecordCount=1000&f=json` for `chokepoint1`, `4`, `6` and `7`. Save these as `portwatch_daily_<anything>.json`. The builder reads them when the CSV is missing. The service is rate-limited across all its users and often returns error 429, so wait a minute and try again. |
+| `portwatch_chokepoints_database.csv` | PortWatch chokepoints database (names and locations), CSV download: `https://hub.arcgis.com/api/v3/datasets/fa9a5800b0ee4855af8b2944ab1e07af_0/downloads/data?format=csv&spatialRefId=4326&where=1%3D1` |
+| `eia_world_oil_transit_chokepoints.html` | EIA *World Oil Transit Chokepoints* page, saved as HTML: `https://www.eia.gov/international/content/analysis/special_topics/world_oil_transit_chokepoints` (the first table is read) |
+
+The builder takes an optional end date, `node scripts/build/chokepoints.mjs 2026-11-22`, which defaults to the last published day (25 October 2026). To extend the series, save a newer export, either as a CSV with `PORTWATCH=<file>` or as ArcGIS query files. Then pass the new end date and update the `portwatch` source date and notes in the script. The dashboard text in `chokepoints/assets/chokepoints.js` ("PortWatch's export of 31 October 2026 … taken from a public copy") and the hub's "data to" date also need updating. PortWatch revises past days, so compare the builder's report with the published summary. The Hormuz closure date and the headline facts are written in the script.
+
+## `housing/`
+
+| File | Source |
+|---|---|
+| `ons_bulletin_2025.html` | Optional, used to check the ONS figures: `https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2025` |
+| `ubs_grebi_2025.html` | Optional, used to check the UBS cities: `https://www.ubs.com/global/de/media/display-page-ndp/en-20250923-grebi25.html` |
+
+The Demographia median multiples (2026 and 2025 editions) are published only as PDFs, so they are typed into the script with their source ids. So are the market coordinates (GeoNames, 2 decimals), the ONS ratios and the UBS risk groups. When the ONS bulletin and UBS release are downloaded, the builder checks the typed figures against them and prints any that it cannot find. The dashboard reads `housing/assets/data.js`, which the builder writes.
+
+## `electricity/`
+
+| File | Source |
+|---|---|
+| `owid-energy-data.csv` | Our World in Data energy dataset (Ember Yearly Electricity Data, 2026 release), pinned to the commit of 27 April 2026: `https://raw.githubusercontent.com/owid/energy-data/e7897aed55b514b8d16e0a3d8f1518789ac3de31/owid-energy-data.csv` |
+
+This GitHub file is OWID's legacy release and is no longer updated. OWID's new file is `https://catalog.ourworldindata.org/energy/owid_energy/owid_energy.csv` (new primary-energy method, renamed columns; see its `column_mapping.csv`). Moving to it means changing the column names in `mix()`. Countries are those in `data/air/countries.json` with generation above 0 TWh in 2025, or else 2024. Generation per person is generation ÷ OWID population. Headline facts (Ember Global Electricity Review 2026, Ratcliffe-on-Soar closure) are typed into the script.
+
+## `air/`
+
+| File | Source |
+|---|---|
+| `owid_outdoor-air-pollution-exposure.csv` | SatPM population-weighted PM2.5: `https://ourworldindata.org/grapher/outdoor-air-pollution-exposure.csv?v=1&csvType=full&useColumnShortNames=true` |
+| `owid_human-caused-air-pollution-exposure.csv` | AQLI PM2.5 from human sources (the `pm25_human` column): `https://ourworldindata.org/grapher/human-caused-air-pollution-exposure.csv?v=1&csvType=full&useColumnShortNames=true` |
+| `owid_ind_1298167.data.json`, `owid_ind_1298167.metadata.json` | WHO SDG 11.6.2 PM2.5, urban areas (the series behind `exposure-to-outdoor-air-pollution-in-urban-areas`): `https://api.ourworldindata.org/v1/indicators/1298167.data.json` and `.metadata.json` |
+| `owid_ind_<id>.data.json`, `owid_ind_<id>.metadata.json` for `1171305` (all air pollution deaths), `1171332` (ambient PM), `1171721` (household), `1171314` (ozone), `1172183` (share of age-standardised deaths), `1173306` (ambient PM deaths per 100,000, crude) | IHME GBD 2023 via OWID indicator API: `https://api.ourworldindata.org/v1/indicators/<id>.data.json` and `.metadata.json`. The grapher CSV downloads are blocked for IHME data (non-redistributable), but the indicator API serves them |
+| `iso3166_all.csv` | ISO 3166 codes, for `iso_n3`: `https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/99cdae15c839bb4f94a23db4e47b4a4c590dec61/all/all.csv` |
+
+Indicator ids change when OWID re-imports a dataset. If an id 404s, open the chart's `.config.json` (`https://ourworldindata.org/grapher/<slug>.config.json`, `dimensions[].variableId`) to find the new one. Charts: `deaths-from-air-pollution-line`, `share-deaths-air-pollution`, `death-rate-from-ambient-particulate-air-pollution`, `exposure-to-outdoor-air-pollution-in-urban-areas`. The WHO and IQAir headline facts are typed into the script.
+
+## `water/`
+
+| File | Source |
+|---|---|
+| `owid_ind_1305196.data.json`, `owid_ind_1305196.metadata.json` | FAO SDG 6.4.2 water stress via OWID indicator API (the series behind `freshwater-withdrawals-as-a-share-of-internal-resources`): `https://api.ourworldindata.org/v1/indicators/1305196.data.json` and `.metadata.json`. Countries with the same rounded value keep this file's entity order |
+| `un_sdg_ER_H2O_STRESS_regions.json` | UN SDG API, SDG regional aggregates for 2023: `https://unstats.un.org/sdgapi/v1/sdg/Series/Data?seriesCode=ER_H2O_STRESS&areaCode=1&areaCode=202&areaCode=747&areaCode=62&areaCode=753&areaCode=419&areaCode=543&areaCode=53&areaCode=513&timePeriod=2023&pageSize=100` |
+| `owid_agricultural-water-as-a-share-of-total-water-withdrawals.csv`, `owid_industrial-water-as-a-share-of-total-water-withdrawals.csv`, `owid_municipal-water-as-a-share-of-total-water-withdrawals.csv`, `owid_renewable-water-resources-per-capita.csv`, `owid_water-withdrawals-per-capita.csv` | AQUASTAT via OWID: `https://ourworldindata.org/grapher/<slug>.csv?v=1&csvType=full&useColumnShortNames=true` |
+| `owid_access-drinking-water-stacked.csv`, `owid_number-without-safe-drinking-water.csv` | WHO/UNICEF JMP via OWID, same URL pattern |
+
+When the stress year moves on, change `STRESS_YEAR` and the `timePeriod` in the UN SDG URL. The `jmp_without` fact is typed in. The builder prints a note if the JMP world figure no longer matches it. The other headline facts (WRI, GRACE, UNCCD, LBNL) are typed in from each report.
+
+## `orbit/`
+
+| File | Source |
+|---|---|
+| `owid_yearly-number-of-objects-launched-into-outer-space.csv` and `.metadata.json` | Our World in Data (UNOOSA Online Index): `https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space.csv?v=1&csvType=full&useColumnShortNames=true`, and the same URL with `.metadata.json` in place of `.csv` |
+| `owid_cumulative-number-of-objects-launched-into-outer-space.csv` and `.metadata.json` | The same, for `cumulative-number-of-objects-launched-into-outer-space` |
+| `owid_space-objects-by-orbit.csv` and `.metadata.json` | The same, for `space-objects-by-orbit` (US Space Force Space-Track catalogue: payloads and rocket bodies by orbit) |
+| `owid_low-earth-orbits-objects.csv` and `.metadata.json` | The same, for `low-earth-orbits-objects` (payloads, rocket bodies and debris in low Earth orbit) |
+
+The builder also reads `data/air/countries.json` for ISO numeric codes. If an OWID file's `lastUpdated` differs from the `published` date in `SOURCES`, the builder prints a warning: update the date in the script, and the `objects_2025` column and its description if a new year has been added. OWID refreshes the UNOOSA charts about once a year (next due 25 February 2027) and the Space-Track charts likewise (next due 8 January 2027). The ESA and Starlink facts are typed into the script.
+
+## `internet/`
+
+| File | Source |
+|---|---|
+| `tg2021/cable/*.json` (one per cable, plus `all.json` and a stray copy of `cable-geo.json`, which the builder skips) | TeleGeography Submarine Cable Map open data, January 2021, from the public mirror: `https://raw.githubusercontent.com/hadistlm/submarine-cable-map/master/data/cable/<file>`. List the files with `https://api.github.com/repos/hadistlm/submarine-cable-map/git/trees/HEAD?recursive=1` |
+| `tg2021/cable-geo.json` | Cable routes from the same mirror: `https://raw.githubusercontent.com/hadistlm/submarine-cable-map/master/data/cable-geo.json` |
+| `countries-110m.json` | Natural Earth 1:110m shapes, from world-atlas: `https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json` |
+| `azure-network-latency.html` | Microsoft's [Azure network round-trip latency statistics](https://learn.microsoft.com/en-us/azure/networking/azure-network-latency) page, saved as HTML |
+
+The cable data stays frozen at January 2021. TeleGeography no longer publishes open data: its current map data (the `submarinecablemap.com/api/v3` JSON) is restricted to paying subscribers, and only screen captures of the map are CC BY-SA. The cloud regions (provider pages, placed at GeoNames cities), TOP500, Epoch AI, IEA, LBNL, CSO and water figures are typed into the script. Update them by hand when the providers add regions or a new edition comes out. When Microsoft updates the latency page, save it again and change the dates in the `azure-latency` source and the `azure_latency` description.
+
+## `scams/`
+
+| File | Source |
+|---|---|
+| `irs_yearly_fx.html` | IRS yearly average currency exchange rates, saved as HTML: `https://www.irs.gov/individuals/international-taxpayers/yearly-average-currency-exchange-rates`. The builder reads the `FX_YEAR` column (2025) for the nine currencies it needs |
+
+Everything else is typed into the script, because the agencies publish their annual figures in PDFs, web pages and press releases: FBI IC3 Internet Crime Report (April), FTC Consumer Sentinel (March), UK Finance Annual Fraud Report (May–June), ACCC / National Anti-Scam Centre Targeting Scams (March), Canadian Anti-Fraud Centre (February–March), Singapore Police Force annual scams brief (February), I4C / NCRP (January), and GASA's Global State of Scams (October–November) and national State of Scams reports. Each row cites the source id of the page it was read from. When a new edition comes out, add a new source id (for example `gasa-global-2026`) instead of editing the old one, move the rows over, change the year in `FX_YEAR`, `FX_SOURCE` and the table titles, and check the dashboard text in `scams/assets/scams.js`, which quotes "2025" and "GASA Global State of Scams 2025/2024" in several places.
+
+## `remittances/`
+
+| File | Source |
+|---|---|
+| `rpw_dataset/` | Remittance Prices Worldwide complete dataset, unzipped: `https://datacatalogfiles.worldbank.org/ddh-published/0037898/DR0095523/rpw_dataset_2011_2025_q3.xlsx` (linked from [the Data Catalog page](https://datacatalog.worldbank.org/search/dataset/0037898/remittance-prices-worldwide); sheet6.xml is "Dataset (from Q2 2016)", about 300 MB, streamed) |
+| `RPW_main_report_and_annex_Q325.pdf` | RPW Issue 54 report, for the headline facts: `https://datacatalogfiles.worldbank.org/ddh-published/0037898/DR0095413/RPW_main_report_and_annex_Q325.pdf` |
+| `sdg_SI_RMT_COST.json`, `sdg_SI_RMT_COST_SND.json`, `sdg_SI_RMT_COST_BC.json`, `sdg_SI_RMT_COST_SC.json` | UN SDG API: `https://unstats.un.org/sdgs/UNSDGAPIV5/v1/sdg/Series/Data?seriesCode=<series>&pageSize=100000` |
+| `wb_<id>.json` for `BX.TRF.PWKR.CD.DT`, `BX.TRF.PWKR.DT.GD.ZS`, `BM.TRF.PWKR.CD.DT` | World Bank API: `https://api.worldbank.org/v2/country/all/indicator/<id>?format=json&per_page=20000&date=2000:2026` |
+| `wb_countries.json` | World Bank API country list (ISO2 codes, regions, income groups): `https://api.worldbank.org/v2/country?format=json&per_page=400` |
+
+remittanceprices.worldbank.org is behind a Cloudflare challenge, so use the Data Catalog links. The builder also reads `data/air/countries.json` for country names and numeric codes. Headline facts (RPW Issue 54 and SDG target 10.c) are typed into the builder.

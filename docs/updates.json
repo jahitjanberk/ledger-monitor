@@ -2,6 +2,13 @@
   "_about": "Entries for feed.xml, newest first. Add one each time data is refreshed or a page is added, then run: node scripts/feed.mjs. 'path' is relative to the site root.",
   "updates": [
     {
+      "id": "2026-11-07-fertiliser-remittances",
+      "date": "2026-11-07T01:00:00Z",
+      "title": "Two new dashboards, rebuild scripts for every dashboard, and data corrections",
+      "path": "",
+      "summary": "Fertiliser Prices & Supply (World Bank, FAOSTAT and Defra) and The Cost of Sending Money Home (World Bank Remittance Prices Worldwide and the UN SDG database) join the monitor. Every dashboard can now be rebuilt from its raw downloads. Rebuilding the Internet data fixed a duplicate cable and three misread cable lengths, so 26 countries, not 27, hang on a single cable; the Air dashboard now labels WHO's figure as urban areas and credits the Air Quality Life Index for pollution from human sources."
+    },
+    {
       "id": "2026-11-06-three-dashboards",
       "date": "2026-11-06T23:30:00Z",
       "title": "Three new dashboards: Medicines, Household Energy and Vaccination",

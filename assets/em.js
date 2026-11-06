@@ -35,6 +35,8 @@ const SECTION_DATA = {
   vaccines: { glance: ["world", "facts"], map: ["countries", "bands", "regions"], zero: ["world", "countries", "regions", "facts"], measles: ["world", "countries", "facts"], workforce: ["regions", "countries", "facts"], uk: ["uk_cover", "uk_nations", "uk_measles", "countries", "facts"], table: ["countries"] },
   energy: { glance: ["facts", "eu_poverty"], map: ["countries", "bands"], access: ["countries", "regions", "facts"], prices: ["countries", "eu_prices"], warm: ["countries", "eu_poverty"], uk: ["uk_cap", "uk_fuel_poverty", "uk_fpeer", "facts"], table: ["countries"] },
 medicines: { glance: ["shortages", "us_years", "uk_concessions"], map: ["countries", "bands"], shortages: ["us_years", "shortages", "categories"], causes: ["reasons", "api_sites", "countries", "facts"], europe: ["eu_critical", "eu_shortages", "facts"], uk: ["uk_concessions", "uk_ssp", "countries"], table: ["countries"] },
+  fertilizer: { glance: ["prices", "world"], map: ["countries", "bands"], prices: ["prices", "forecasts", "facts"], energy: ["prices", "gulf", "facts"], supply: ["producers", "countries"], use: ["regions", "world"], uk: ["uk_prices", "uk_rates", "countries", "facts"], table: ["countries"] },
+  remittances: { glance: ["world", "quarterly", "corridors", "facts"], map: ["countries", "bands", "corridors"], flows: ["world", "countries"], costs: ["world", "regions", "countries", "facts"], providers: ["quarterly", "breakdown", "facts"], corridors: ["corridors", "countries", "facts"], uk: ["uk_cost", "uk_flows", "corridors", "facts"], table: ["countries"] },
 };
 
 const DASHBOARDS = {
@@ -53,24 +55,28 @@ const DASHBOARDS = {
   vaccines: { title: "Vaccination & Health Workers", blurb: "Which children get vaccinated, where measles is spreading, and where nurses and doctors are scarce." },
   energy: { title: "Household Energy Prices & Poverty", blurb: "Who lacks electricity or clean cooking, what households pay, and who can't keep warm." },
 medicines: { title: "Medicine Shortages & Supply", blurb: "Which medicines are running short and for how long, and where medicines are made." },
+  fertilizer: { title: "Fertiliser Prices & Supply", blurb: "What fertiliser costs, who makes and exports it, and which countries depend on imports." },
+  remittances: { title: "The Cost of Sending Money Home", blurb: "How much migrants send home, and what banks and money transfer firms charge them to do it." },
 };
-// Three other dashboards per page, picked for overlapping subjects where there is one.
+// Three other dashboards per page, picked for overlapping subjects. Ids that don't exist yet are skipped.
 const MORE = {
-  air: ["electricity", "water", "chokepoints"],
-  electricity: ["air", "internet", "chokepoints"],
+  air: ["energy", "electricity", "heat"],
+  electricity: ["energy", "air", "minerals"],
   internet: ["electricity", "water", "orbit"],
-  water: ["internet", "air", "electricity"],
-  chokepoints: ["food", "electricity", "internet"],
-  orbit: ["internet", "chokepoints", "air"],
-  housing: ["food", "scams", "water"],
-  food: ["chokepoints", "water", "housing"],
-  debt: ["food", "housing", "scams"],
-  heat: ["food", "air", "electricity"],
-  minerals: ["chokepoints", "electricity", "internet"],
-  scams: ["housing", "internet", "chokepoints"],
-  vaccines: ["debt", "food", "water"],
+  water: ["food", "heat", "vaccines"],
+  chokepoints: ["fertilizer", "food", "medicines"],
+  orbit: ["internet", "chokepoints", "minerals"],
+  housing: ["energy", "food", "remittances"],
+  food: ["fertilizer", "chokepoints", "energy"],
+  debt: ["vaccines", "remittances", "food"],
+  heat: ["energy", "food", "air"],
+  minerals: ["medicines", "chokepoints", "electricity"],
+  scams: ["remittances", "housing", "internet"],
+  vaccines: ["medicines", "debt", "water"],
   energy: ["electricity", "air", "heat"],
-medicines: ["minerals", "chokepoints", "debt"],
+  medicines: ["minerals", "chokepoints", "vaccines"],
+  fertilizer: ["food", "chokepoints", "energy"],
+  remittances: ["debt", "scams", "food"],
 };
 
 const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
@@ -162,6 +168,18 @@ medicines: [
   "Trade is measured by value as each country reports it. Countries where multinationals book sales or route goods, such as Switzerland, Ireland and Belgium, look bigger than their factories, and Taiwan is missing.",
   "Price concessions in England show medicines pharmacies could not buy at the NHS price. They are a sign of supply problems, not a count of shortages.",
 ],
+  fertilizer: [
+    "Prices are international spot prices at ports, not what farmers pay. Farm-gate prices add shipping, margins and taxes, and move later.",
+    "FAO's use, production and trade figures mix official reports with estimates and partner countries' trade records. Some big exporters are under-recorded: FAO shows almost no exports from Iran, so the Gulf's share of nitrogen exports is likely to be higher than shown.",
+    "The latest FAO year is 2024, before the Strait of Hormuz closed, so the country figures do not show how trade has shifted since.",
+    "Use per hectare divides all fertiliser by cropland, which leaves out permanent grassland; in countries that fertilise a lot of grass, such as the UK and Ireland, it overstates what crops get.",
+  ],
+  remittances: [
+    "Costs are for sending the equivalent of $200 through the services the World Bank surveys in 48 sending and about 100 receiving countries. Each service counts equally, however much money goes through it.",
+    "Most cost figures are for one quarter of each year (July to September). The World Bank did not collect prices for April to June 2025, and the dataset has no prices for money sent from Russia since 2022.",
+    "A few corridors are recorded at more than the amount sent, such as Türkiye to Bulgaria at 118%, which suggests a data problem. They are kept in the data but left out of the charts.",
+    "Remittance flows are those recorded in balance of payments data, in current US dollars. Money sent through informal channels is not counted, and the latest year is partly estimated.",
+  ],
 };
 
 const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
