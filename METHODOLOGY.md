@@ -183,6 +183,53 @@ Refining shares are from the International Energy Agency's *Global Critical Mine
 
 Sources: [`data/minerals/sources.json`](data/minerals/sources.json) · Data: [`data/minerals/`](data/minerals/)
 
+## Vaccination & Health Workers
+
+Coverage is from the WHO/UNICEF Estimates of National Immunization Coverage (WUENIC), 2025 revision, released on 15 July 2026 and downloaded from the WHO Immunization Data portal: the share of surviving infants (those alive at their first birthday) who received each vaccine. DTP1 and DTP3 are the first and third doses of the diphtheria, tetanus and pertussis vaccine; MCV1 and MCV2 the first and second doses of a measles-containing vaccine, at the age each country recommends. WHO and UNICEF re-estimate the whole series with each release; for countries that did not report 2025, the estimate is carried forward from their last informed value.
+
+Zero-dose children are infants who did not receive a first dose of DTP vaccine. For each country we multiply the share without DTP1 by the number of surviving infants from the UN World Population Prospects 2024, as given in WHO's WUENIC country-profile file; the country figures add up to the published world total (13.47 million). Regional and world counts are the published target population minus those vaccinated. Measles and diphtheria cases are confirmed cases reported by national authorities through the WHO/UNICEF Joint Reporting Form, and measles incidence per million people is WHO's, from the portal's export of 11 June 2026. Health workers are medical doctors, and nursing and midwifery personnel, per 10,000 people, from WHO's National Health Workforce Accounts (December 2025 update) via the Global Health Observatory, latest year each country reported; regional and world figures are for 2024. Headline findings are quoted from the UNICEF and WHO release of 15 July 2026 and WHO's *State of the World's Nursing 2025*. UK figures are UKHSA's COVER annual statistics for 2025 to 2026: MMR at 24 months in England since 1988/89, MMR1, MMR2 and the pre-school booster at 5 years since 2009/10, and coverage at 5 years by UK nation; UK measles cases are those the UK reported to WHO.
+
+**What this doesn't show**
+
+- Coverage figures are WHO and UNICEF estimates built from countries' own reports and surveys. Each year's release revises the whole series, and fewer surveys were submitted this round, so recent years may change.
+- Zero-dose means no first dose of DTP vaccine by the first birthday. A child who missed DTP but had another vaccine still counts as zero-dose.
+- Measles cases are what countries confirmed and reported, not estimates of every case; 12 countries, including the United States, have no 2025 figure.
+- Health worker figures are each country's latest report, mostly 2023 or 2024, and count people in the workforce, not where they work or how many hours.
+
+Sources: [`data/vaccines/sources.json`](data/vaccines/sources.json) · Data: [`data/vaccines/`](data/vaccines/)
+
+## Household Energy Prices & Poverty
+
+Access to electricity and to clean cooking fuels and technologies are the shares of people with each, from the World Bank's *World Development Indicators* (updated 8 October 2026), which carry the estimates of the Tracking SDG 7 custodian agencies; the latest year is 2024. Clean cooking means mainly using electricity, gas, LPG, biogas, solar or alcohol fuels; wood, charcoal, kerosene and coal count as polluting. The number of people without access is our calculation: each country's 2024 population times the share without. Country totals add up to 655 million people without electricity, matching the figure in *Tracking SDG 7: The Energy Progress Report 2026*. World and regional headline figures are quoted from the report's joint news release of 24 June 2026.
+
+Household prices are Eurostat's half-yearly prices for a medium consumer (electricity band DC, 2,500 to 4,999 kWh a year; gas band D2, 20 to 199 GJ a year), including all taxes and levies, in euros and in purchasing power standards, for the first half of 2026. The share of people who can't afford to keep their home adequately warm, and the share behind on utility bills, come from the EU Statistics on Income and Living Conditions (EU-SILC), for everyone and for people at risk of poverty (below 60% of median income). We show each country's latest year from 2023 on, mostly 2025, which leaves out the UK (latest Eurostat figures 2018) and Iceland.
+
+The British price cap series is Ofgem's own recalculation of every cap period since April 2017 at the 2026 typical consumption values (2,500 kWh of electricity and 9,500 kWh of gas a year), for a dual fuel household paying by direct debit, GB average, including VAT and before levelisation, from sheet 1c of the default tariff cap level model v1.31. Ofgem's headline figure of £1,723 for October to December 2026 includes levelisation. From October 2022 to June 2023 the government's Energy Price Guarantee discounted bills, so households paid less than the cap in those periods. Fuel poverty is England's Low Income Low Energy Efficiency measure from DESNZ (*Fuel poverty trends 2026* and the *Annual fuel poverty statistics report: 2026*): a household is fuel poor if it has a low income and lives in a home rated band D or below for energy efficiency. 2025 is provisional and 2026 a projection.
+
+**What this doesn't show**
+
+- Access figures for 2024 are partly modelled where countries have no recent household survey, and people without access are our calculation from population.
+- Household prices and cold-home figures cover only European countries; there is no open, comparable price series for the rest of the world.
+- Cold homes and arrears are what people say in a survey, not measured temperatures or bills. The UK left the EU survey, so its latest Eurostat figures are from 2018 and are not shown.
+- The British price cap is the most a supplier can charge a typical customer on a default tariff, not what every household pays. Fuel poverty figures cover England only, and 2025 is provisional.
+
+Sources: [`data/energy/sources.json`](data/energy/sources.json) · Data: [`data/energy/`](data/energy/)
+
+## Medicine Shortages & Supply
+
+US shortages come from the FDA Drug Shortages Database through openFDA, downloaded on 6 November 2026. FDA lists each affected product presentation (strength and pack) separately; we group them by generic name and count a shortage as current when any of its presentations is listed as current. A shortage's start is the earliest date any presentation was first posted, and its length runs from then to the download date. Reasons and therapeutic categories are as FDA lists them; reasons come from each manufacturer, so one shortage can have several. The database covers medicines tracked by FDA's Center for Drug Evaluation and Research (CDER); FDA's own count of 93 ongoing shortages at the end of 2025 also includes 22 vaccine, blood and other biological product shortages tracked by CBER. New, prevented and ongoing shortages per year are quoted from the text of FDA's annual reports to Congress for 2017 to 2025; counts before 2016 cover CDER only. Manufacturing sites, inspections and the regional shares of active-ingredient sites are quoted from FDA's FY2025 Report on the State of Pharmaceutical Quality.
+
+Trade is from UN Comtrade: each country's reported exports and imports of HS chapter 30 (pharmaceutical products: finished medicines, vaccines, blood products) and HS 2941 (antibiotics as bulk ingredients) with the world, in current US dollars, for 2024, the latest year most countries have reported; 2025 is shown where reported. Shares are of the sum of all reporting countries. Figures reported as "Other Asia, not elsewhere specified", which cover Taiwan, are left out. The EU's critical medicines are the Union list of critical medicines, version 2.1 (revision 2), grouped by the first letter of each substance's ATC code; EU shortages are EMA's public catalogue, which covers shortages EMA assesses rather than every national shortage. UK price concessions are counted from Community Pharmacy England's monthly lists, one per distinct product and pack size; the counts match the monthly totals CPE publishes. Serious Shortage Protocols in force are read from the NHS Business Services Authority's list.
+
+**What this doesn't show**
+
+- US shortages are those in the FDA's database of medicines it tracks; vaccines and blood products, and shortages that FDA does not list, are left out. Each shortage is a generic name, which can cover several strengths and makers.
+- How long a shortage has lasted counts from when it was first posted, so a shortage that eased and came back counts as one long one.
+- Trade is measured by value as each country reports it. Countries where multinationals book sales or route goods, such as Switzerland, Ireland and Belgium, look bigger than their factories, and Taiwan is missing.
+- Price concessions in England show medicines pharmacies could not buy at the NHS price. They are a sign of supply problems, not a count of shortages.
+
+Sources: [`data/medicines/sources.json`](data/medicines/sources.json) · Data: [`data/medicines/`](data/medicines/)
+
 ## Country profiles and comparisons
 
 The [country pages](country/) and the [compare page](compare/) add no data of their own. They are built by `scripts/countries.mjs` from the dashboards' published country tables, joined on the ISO 3166 country code. Tables that name countries without a code (cable landing points, cloud regions and mineral refining) are matched by name, with a short list of spellings written in the script; the few names it can't match are printed when it runs and left off the profiles. A country gets a page when it has figures from at least two dashboards.

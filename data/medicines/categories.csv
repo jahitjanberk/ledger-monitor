@@ -1,0 +1,20 @@
+category,shortages,share_pct,source
+Pediatric,16,23.5,openfda
+Analgesia/Addiction,10,14.7,openfda
+Anesthesia,10,14.7,openfda
+Gastroenterology,10,14.7,openfda
+Cardiovascular,9,13.2,openfda
+Other,9,13.2,openfda
+Endocrinology/Metabolism,8,11.8,openfda
+Oncology,8,11.8,openfda
+Neurology,7,10.3,openfda
+Anti-Infective,7,10.3,openfda
+Psychiatry,6,8.8,openfda
+Rheumatology,4,5.9,openfda
+Hematology,3,4.4,openfda
+Ophthalmology,3,4.4,openfda
+Pulmonary/Allergy,3,4.4,openfda
+Total Parenteral Nutrition,1,1.5,openfda
+Renal,1,1.5,openfda
+Dermatology,1,1.5,openfda
+Medical Imaging,1,1.5,openfda

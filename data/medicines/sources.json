@@ -1,0 +1,140 @@
+{
+  "sources": {
+    "openfda": {
+      "publisher": "US Food and Drug Administration (openFDA)",
+      "title": "Drug shortages (drug/shortages endpoint), bulk download",
+      "url": "https://open.fda.gov/apis/drug/drugshortages/",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "One record per affected product presentation, as listed in the FDA Drug Shortages Database and tracked by CDER. Grouped here by generic name: a shortage is current when any of its presentations has status Current. Start is the earliest initial posting date. openFDA data is public domain (CC0); FDA says results are unvalidated and should not be used for medical decisions."
+    },
+    "fda-rtc-2025": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2025 (thirteenth annual report)",
+      "url": "https://www.fda.gov/media/193637/download",
+      "published": "2026-06",
+      "method": "reference",
+      "notes": "New, prevented and ongoing shortages tracked by CDER and CBER, from the report's text and Appendix C. Publication month taken from the PDF's metadata. US government work, public domain."
+    },
+    "fda-rtc-2024": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2024 (twelfth annual report)",
+      "url": "https://www.fda.gov/media/189325/download",
+      "published": "2025-08",
+      "method": "reference",
+      "notes": "Publication month taken from the PDF's metadata. Public domain."
+    },
+    "fda-rtc-2023": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2023 (eleventh annual report)",
+      "url": "https://www.fda.gov/media/179156/download",
+      "published": "2024-05",
+      "method": "reference",
+      "notes": "Publication month taken from the PDF's metadata. Public domain."
+    },
+    "fda-rtc-2022": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2022 (tenth annual report)",
+      "url": "https://www.fda.gov/media/169302/download",
+      "published": "2023-06",
+      "method": "reference",
+      "notes": "Also gives ongoing shortages at the end of 2020 and 2021. Public domain."
+    },
+    "fda-rtc-2021": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2021 (ninth annual report)",
+      "url": "https://www.fda.gov/media/159302/download",
+      "published": "2022-06",
+      "method": "reference",
+      "notes": "Public domain."
+    },
+    "fda-rtc-2020": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2020 (eighth annual report)",
+      "url": "https://www.fda.gov/media/150409/download",
+      "published": "2021-07",
+      "method": "reference",
+      "notes": "Public domain."
+    },
+    "fda-rtc-2019": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2019 (seventh annual report)",
+      "url": "https://www.fda.gov/media/139613/download",
+      "published": "2020-04",
+      "method": "reference",
+      "notes": "Public domain."
+    },
+    "fda-rtc-2018": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2018 (sixth annual report)",
+      "url": "https://www.fda.gov/media/130561/download",
+      "published": "2019-09",
+      "method": "reference",
+      "notes": "Gives new shortages for 2012 to 2016, prevented shortages for 2012 to 2018 and ongoing shortages at the end of 2013 to 2018. Before 2016 the counts cover CDER only; from 2016 they include CBER (vaccines, blood products). Public domain."
+    },
+    "fda-rtc-2017": {
+      "publisher": "US Food and Drug Administration",
+      "title": "Report to Congress: Drug Shortages CY 2017 (fifth annual report)",
+      "url": "https://www.fda.gov/media/113991/download",
+      "published": "2018-06",
+      "method": "reference",
+      "notes": "Public domain."
+    },
+    "fda-sopq": {
+      "publisher": "US Food and Drug Administration, Office of Pharmaceutical Quality",
+      "title": "FY2025 Report on the State of Pharmaceutical Quality",
+      "url": "https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/report-state-pharmaceutical-quality",
+      "published": "2026-06-29",
+      "method": "reference",
+      "notes": "Sites in CDER's Site Catalog making drugs for the US market, and the regional shares of active-ingredient (API) manufacturing locations for products whose applicant is in the US, calendar 2020 and 2025. Public domain."
+    },
+    "comtrade": {
+      "publisher": "UN Statistics Division, UN Comtrade",
+      "title": "International trade statistics: HS 30 (pharmaceutical products) and HS 2941 (antibiotics), exports and imports with the world, 2024 and 2025",
+      "url": "https://comtradeplus.un.org/",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Values in current US dollars as reported by each country (exports free on board, imports as reported). Downloaded from the public preview API on the date shown; 2025 figures cover fewer countries because many had not yet reported. UN Comtrade data is not openly licensed: redistribution is restricted under its usage policy, which exempts small numbers of records and free public visualisation. Ask comtrade@un.org before reusing these figures in bulk."
+    },
+    "ema-shortages": {
+      "publisher": "European Medicines Agency",
+      "title": "Medicine shortages catalogue (download of all shortages)",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues/public-information-medicine-shortages",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Shortages that EMA assesses: mostly centrally authorised medicines or shortages affecting several EU countries. National shortages are listed by each country's regulator instead. File generated 6 November 2026, 18:00. EMA content may be reproduced with acknowledgement of the source."
+    },
+    "ema-ulcm": {
+      "publisher": "European Medicines Agency, Heads of Medicines Agencies and European Commission",
+      "title": "Union list of critical medicines, version 2.1 (revision 2), EMA/229885/2026",
+      "url": "https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues/availability-medicines-during-crises/union-list-critical-medicines",
+      "published": "2026-11-04",
+      "method": "reference",
+      "notes": "Active substances, by ATC code, whose supply the EU treats as critical. Grouped here by the first letter of the ATC code (the anatomical main group), using the group names given in the file. Reproduction authorised with acknowledgement."
+    },
+    "cpe-pc": {
+      "publisher": "Community Pharmacy England",
+      "title": "Price concessions and price concession archive",
+      "url": "https://cpe.org.uk/funding-and-reimbursement/reimbursement/price-concessions/archive/",
+      "published": "2026-11-04",
+      "method": "reference",
+      "notes": "Each line is a generic medicine and pack size for which DHSC granted a price above the Drug Tariff because pharmacies in England could not buy it at the Tariff price. Counted here from the monthly lists in the archive, one per distinct product and pack size; the counts match the monthly totals CPE publishes in its updates. © Community Pharmacy England; the lists record DHSC decisions."
+    },
+    "nhsbsa-ssp": {
+      "publisher": "NHS Business Services Authority",
+      "title": "Serious Shortage Protocols (SSPs)",
+      "url": "https://www.nhsbsa.nhs.uk/pharmacies-gp-practices-and-appliance-contractors/serious-shortage-protocols-ssps",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Protocols issued by DHSC that let pharmacists in the UK supply an alternative to a prescribed medicine in serious shortage. Active list as read on the date shown. Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

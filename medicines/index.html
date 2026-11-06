@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-XnOHSLEiieKuPeLJBWy7Z1nqz7V8xHfDZNIJhjGciNw=' 'sha256-50w1Whx3irPo1Xx2ESNouowIhiFbG+BpPd6KI+ZRu2g='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; worker-src 'self' blob:; child-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Medicine Shortages &amp; Supply · Ledger Monitor</title>
+    <meta name="description" content="How many medicines are in short supply and for how long, why they run short, where medicines and their ingredients are made, and what shortages look like in the UK, from FDA, EMA, UN Comtrade and NHS data." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Ledger Monitor" />
+    <meta property="og:title" content="Medicine Shortages &amp; Supply" />
+    <meta property="og:description" content="How many medicines are in short supply and for how long, why they run short, where medicines and their ingredients are made, and what shortages look like in the UK, from FDA, EMA, UN Comtrade and NHS data." />
+    <meta property="og:image" content="../assets/og/medicines.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!--seo-->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Medicine Shortages & Supply","description":"How many medicines are in short supply and for how long, why they run short, where medicines and their ingredients are made, and what shortages look like in the UK, from FDA, EMA, UN Comtrade and NHS data. 12 tables: Pharmaceutical trade by country; Current US drug shortages; US shortages by therapeutic category; Reasons given for US shortages; US drug shortages per year, 2011 to 2025; Where active ingredients are made for US medicines; EU critical medicines by body system; Shortages in EMA's catalogue; Price concessions in England, monthly; Serious Shortage Protocols in force; Map classes; Headline findings.","url":"./","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"Ledger Monitor","url":"../"},"dateModified":"2026-11-06","isBasedOn":["https://open.fda.gov/apis/drug/drugshortages/","https://www.fda.gov/media/193637/download","https://www.fda.gov/media/189325/download","https://www.fda.gov/media/179156/download","https://www.fda.gov/media/169302/download","https://www.fda.gov/media/159302/download","https://www.fda.gov/media/150409/download","https://www.fda.gov/media/139613/download","https://www.fda.gov/media/130561/download","https://www.fda.gov/media/113991/download","https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/report-state-pharmaceutical-quality","https://comtradeplus.un.org/","https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues/public-information-medicine-shortages","https://www.ema.europa.eu/en/human-regulatory-overview/post-authorisation/medicine-shortages-availability-issues/availability-medicines-during-crises/union-list-critical-medicines","https://cpe.org.uk/funding-and-reimbursement/reimbursement/price-concessions/archive/","https://www.nhsbsa.nhs.uk/pharmacies-gp-practices-and-appliance-contractors/serious-shortage-protocols-ssps","https://www.naturalearthdata.com/"],"distribution":[{"@type":"DataDownload","name":"Pharmaceutical trade by country","encodingFormat":"text/csv","contentUrl":"../data/medicines/countries.csv"},{"@type":"DataDownload","name":"Current US drug shortages","encodingFormat":"text/csv","contentUrl":"../data/medicines/shortages.csv"},{"@type":"DataDownload","name":"US shortages by therapeutic category","encodingFormat":"text/csv","contentUrl":"../data/medicines/categories.csv"},{"@type":"DataDownload","name":"Reasons given for US shortages","encodingFormat":"text/csv","contentUrl":"../data/medicines/reasons.csv"},{"@type":"DataDownload","name":"US drug shortages per year, 2011 to 2025","encodingFormat":"text/csv","contentUrl":"../data/medicines/us_years.csv"},{"@type":"DataDownload","name":"Where active ingredients are made for US medicines","encodingFormat":"text/csv","contentUrl":"../data/medicines/api_sites.csv"},{"@type":"DataDownload","name":"EU critical medicines by body system","encodingFormat":"text/csv","contentUrl":"../data/medicines/eu_critical.csv"},{"@type":"DataDownload","name":"Shortages in EMA's catalogue","encodingFormat":"text/csv","contentUrl":"../data/medicines/eu_shortages.csv"},{"@type":"DataDownload","name":"Price concessions in England, monthly","encodingFormat":"text/csv","contentUrl":"../data/medicines/uk_concessions.csv"},{"@type":"DataDownload","name":"Serious Shortage Protocols in force","encodingFormat":"text/csv","contentUrl":"../data/medicines/uk_ssp.csv"},{"@type":"DataDownload","name":"Map classes","encodingFormat":"text/csv","contentUrl":"../data/medicines/bands.csv"},{"@type":"DataDownload","name":"Headline findings","encodingFormat":"text/csv","contentUrl":"../data/medicines/facts.csv"}]}</script>
+    <!--/seo-->
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230B7A75'/%3E%3Cpath d='M6 10h20M6 16h20M6 22h20' stroke='%23fff' stroke-opacity='.45' stroke-width='2'/%3E%3Cpath d='M7 23l6-7 5 3 8-10' fill='none' stroke='%23fff' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" />
+    <link rel="preload" href="../assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="../assets/fonts/jetbrains-mono-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="../assets/fonts.css">
+    <link rel="stylesheet" href="../assets/charts-B-YMMjus.css">
+    <link rel="stylesheet" href="../assets/index-CzSELinI.css">
+    <link rel="stylesheet" href="./assets/medicines.css">
+    <link rel="stylesheet" href="../assets/em.css">
+    <script>try{var t=localStorage.getItem("em-theme");t&&(document.documentElement.dataset.theme=t)}catch(e){}</script>
+    <!--preload-->
+    <link rel="modulepreload" href="../assets/charts.js" />
+    <link rel="modulepreload" href="../assets/d3-CYFjbSD-.js" />
+    <link rel="modulepreload" href="../assets/figs.js" />
+    <link rel="modulepreload" href="../assets/maplibre-ChAaPfnC.js" />
+    <link rel="modulepreload" href="../assets/story-Cpe0Yf6I.js" />
+    <link rel="modulepreload" href="./assets/data.js" />
+    <link rel="modulepreload" href="./assets/medicines.js" />
+    <!--/preload-->
+    <script type="module" src="./assets/main.js"></script>
+    <script type="module" src="../assets/em.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div class="em-wrap em-skel" aria-busy="true" aria-label="Loading the dashboard">
+        <div class="em-bar"><span class="em-brand"><i aria-hidden="true"></i>Ledger Monitor</span></div>
+        <div class="em-head"><p class="em-eyebrow">Loading Medicine Shortages &amp; Supply…</p><div class="sk sk-h1"></div><div class="sk sk-h1 short"></div><div class="sk sk-p"></div></div>
+        <div class="sk-kpis"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div>
+      </div>
+    </div>
+    <noscript>Ledger Monitor needs JavaScript to draw its maps and charts. The raw data is in the <a href="../data/medicines/index.html">data/medicines/</a> folder of the site.</noscript>
+      <!--loadcheck--><script>
+    // Explains a stuck loading screen. Browsers block module scripts and data on file:// pages,
+    // so the dashboard needs a web server; a slow or failed load gets a reload link instead.
+    (function () {
+      var app = document.getElementById("app");
+      function say(html) {
+        var skel = app.querySelector(".em-skel"), p = skel && skel.querySelector(".em-head .em-eyebrow");
+        if (!p) return;
+        skel.removeAttribute("aria-busy");
+        var m = document.createElement("p");
+        m.className = "em-loadmsg"; m.setAttribute("role", "alert"); m.innerHTML = html;
+        p.replaceWith(m);
+        skel.querySelectorAll(".sk").forEach(function (s) { s.remove(); });
+      }
+      if (location.protocol === "file:") {
+        say("<b>This dashboard can't run from a file on your computer.</b> Browsers block its scripts and data on file:// pages. Open it through a web server instead: in the project folder run <code>node scripts/serve.mjs</code>, then go to <a href=\"http://localhost:8765/\">http://localhost:8765/</a>.");
+        return;
+      }
+      setTimeout(function () {
+        if (app.querySelector(".em-skel .em-head .em-eyebrow")) say("<b>The dashboard is taking longer than usual to load.</b> Check your connection, then <a href=\"\">reload the page</a>.");
+      }, 15000);
+    })();
+    </script><!--/loadcheck-->
+  </body>
+</html>

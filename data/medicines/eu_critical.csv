@@ -1,0 +1,14 @@
+atc_group,group,substances,share_pct,source
+J,Antiinfectives for systemic use,90,30.1,ema-ulcm
+L,Antineoplastic and immunomodulating agents,64,21.4,ema-ulcm
+B,Blood and blood forming organs,27,9,ema-ulcm
+N,Nervous system,27,9,ema-ulcm
+C,Cardiovascular system,23,7.7,ema-ulcm
+V,Various,20,6.7,ema-ulcm
+A,Alimentary tract and metabolism,12,4,ema-ulcm
+H,"Systemic hormonal preparations, excl sex hormones and insulins",12,4,ema-ulcm
+S,Sensory organs,7,2.3,ema-ulcm
+M,Musculo-skeletal system,6,2,ema-ulcm
+R,Respiratory system,6,2,ema-ulcm
+P,"Antiparasitic products, insecticides and repellents",3,1,ema-ulcm
+G,Genito urinary system and sex hormones,2,0.7,ema-ulcm

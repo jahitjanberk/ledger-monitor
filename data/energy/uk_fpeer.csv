@@ -1,0 +1,5 @@
+fpeer_band,year,households_k,fuel_poor_k,fuel_poor_pct_of_band,share_of_fuel_poor_pct,average_gap,source
+"A, B and C",2025,15198,0,0,0,0,desnz-trends
+D,2025,7936,1886,23.8,79.8,211,desnz-trends
+E,2025,1426,352,24.7,14.9,799,desnz-trends
+F and G,2025,514,125,24.3,5.3,1742,desnz-trends

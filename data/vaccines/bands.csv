@@ -1,0 +1,21 @@
+map,band,min,max,unit,source
+dtp3,95% or more,95,,"DTP3 coverage, % of infants",wuenic
+dtp3,90 to 95%,90,95,"DTP3 coverage, % of infants",wuenic
+dtp3,80 to 90%,80,90,"DTP3 coverage, % of infants",wuenic
+dtp3,60 to 80%,60,80,"DTP3 coverage, % of infants",wuenic
+dtp3,Under 60%,,60,"DTP3 coverage, % of infants",wuenic
+zero,Under 2%,,2,% of infants with no DTP dose,wuenic
+zero,2 to 5%,2,5,% of infants with no DTP dose,wuenic
+zero,5 to 10%,5,10,% of infants with no DTP dose,wuenic
+zero,10 to 20%,10,20,% of infants with no DTP dose,wuenic
+zero,20% or more,20,,% of infants with no DTP dose,wuenic
+measles,Under 1,,1,reported measles cases per million people,who-cases
+measles,1 to 10,1,10,reported measles cases per million people,who-cases
+measles,10 to 50,10,50,reported measles cases per million people,who-cases
+measles,50 to 200,50,200,reported measles cases per million people,who-cases
+measles,200 or more,200,,reported measles cases per million people,who-cases
+nurses,100 or more,100,,"nurses and midwives per 10,000 people",who-nhwa
+nurses,50 to 100,50,100,"nurses and midwives per 10,000 people",who-nhwa
+nurses,25 to 50,25,50,"nurses and midwives per 10,000 people",who-nhwa
+nurses,10 to 25,10,25,"nurses and midwives per 10,000 people",who-nhwa
+nurses,Under 10,,10,"nurses and midwives per 10,000 people",who-nhwa

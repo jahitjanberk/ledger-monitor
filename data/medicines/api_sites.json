@@ -1,0 +1,31 @@
+{
+  "id": "api_sites",
+  "title": "Where active ingredients are made for US medicines",
+  "description": "Regional shares of active-ingredient manufacturing locations for products with a US applicant, 2020 and 2025 (FDA Report on the State of Pharmaceutical Quality, FY2025).",
+  "records": [
+    {
+      "region": "Europe",
+      "api_share_2020": 34,
+      "api_share_2025": 30.8,
+      "source": "fda-sopq"
+    },
+    {
+      "region": "India",
+      "api_share_2020": 17.9,
+      "api_share_2025": 21.2,
+      "source": "fda-sopq"
+    },
+    {
+      "region": "United States",
+      "api_share_2020": 22.9,
+      "api_share_2025": 21.1,
+      "source": "fda-sopq"
+    },
+    {
+      "region": "China",
+      "api_share_2020": 12.2,
+      "api_share_2025": 14.7,
+      "source": "fda-sopq"
+    }
+  ]
+}

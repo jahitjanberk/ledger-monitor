@@ -1,0 +1,47 @@
+{
+  "id": "uk_fpeer",
+  "title": "Fuel poverty in England by energy efficiency band, 2025",
+  "description": "Fuel poor households and the average fuel poverty gap by Fuel Poverty Energy Efficiency Rating (DESNZ, provisional).",
+  "records": [
+    {
+      "fpeer_band": "A, B and C",
+      "year": 2025,
+      "households_k": 15198,
+      "fuel_poor_k": 0,
+      "fuel_poor_pct_of_band": 0,
+      "share_of_fuel_poor_pct": 0,
+      "average_gap": 0,
+      "source": "desnz-trends"
+    },
+    {
+      "fpeer_band": "D",
+      "year": 2025,
+      "households_k": 7936,
+      "fuel_poor_k": 1886,
+      "fuel_poor_pct_of_band": 23.8,
+      "share_of_fuel_poor_pct": 79.8,
+      "average_gap": 211,
+      "source": "desnz-trends"
+    },
+    {
+      "fpeer_band": "E",
+      "year": 2025,
+      "households_k": 1426,
+      "fuel_poor_k": 352,
+      "fuel_poor_pct_of_band": 24.7,
+      "share_of_fuel_poor_pct": 14.9,
+      "average_gap": 799,
+      "source": "desnz-trends"
+    },
+    {
+      "fpeer_band": "F and G",
+      "year": 2025,
+      "households_k": 514,
+      "fuel_poor_k": 125,
+      "fuel_poor_pct_of_band": 24.3,
+      "share_of_fuel_poor_pct": 5.3,
+      "average_gap": 1742,
+      "source": "desnz-trends"
+    }
+  ]
+}

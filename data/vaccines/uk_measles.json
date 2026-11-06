@@ -1,0 +1,232 @@
+{
+  "id": "uk_measles",
+  "title": "Reported measles cases in the UK by year",
+  "description": "Confirmed measles cases reported by the UK to WHO, 1980 to 2025.",
+  "records": [
+    {
+      "year": 1980,
+      "measles_cases": 147962,
+      "source": "who-cases"
+    },
+    {
+      "year": 1981,
+      "measles_cases": 61779,
+      "source": "who-cases"
+    },
+    {
+      "year": 1982,
+      "measles_cases": 105642,
+      "source": "who-cases"
+    },
+    {
+      "year": 1983,
+      "measles_cases": 114948,
+      "source": "who-cases"
+    },
+    {
+      "year": 1984,
+      "measles_cases": 67632,
+      "source": "who-cases"
+    },
+    {
+      "year": 1985,
+      "measles_cases": 104774,
+      "source": "who-cases"
+    },
+    {
+      "year": 1986,
+      "measles_cases": 90214,
+      "source": "who-cases"
+    },
+    {
+      "year": 1987,
+      "measles_cases": 44850,
+      "source": "who-cases"
+    },
+    {
+      "year": 1988,
+      "measles_cases": 88259,
+      "source": "who-cases"
+    },
+    {
+      "year": 1989,
+      "measles_cases": 30160,
+      "source": "who-cases"
+    },
+    {
+      "year": 1990,
+      "measles_cases": 28228,
+      "source": "who-cases"
+    },
+    {
+      "year": 1991,
+      "measles_cases": 11727,
+      "source": "who-cases"
+    },
+    {
+      "year": 1992,
+      "measles_cases": 12317,
+      "source": "who-cases"
+    },
+    {
+      "year": 1993,
+      "measles_cases": 12018,
+      "source": "who-cases"
+    },
+    {
+      "year": 1994,
+      "measles_cases": 23525,
+      "source": "who-cases"
+    },
+    {
+      "year": 1995,
+      "measles_cases": 9017,
+      "source": "who-cases"
+    },
+    {
+      "year": 1996,
+      "measles_cases": 6866,
+      "source": "who-cases"
+    },
+    {
+      "year": 1997,
+      "measles_cases": 4844,
+      "source": "who-cases"
+    },
+    {
+      "year": 1998,
+      "measles_cases": 74,
+      "source": "who-cases"
+    },
+    {
+      "year": 2000,
+      "measles_cases": 104,
+      "source": "who-cases"
+    },
+    {
+      "year": 2001,
+      "measles_cases": 73,
+      "source": "who-cases"
+    },
+    {
+      "year": 2002,
+      "measles_cases": 314,
+      "source": "who-cases"
+    },
+    {
+      "year": 2003,
+      "measles_cases": 460,
+      "source": "who-cases"
+    },
+    {
+      "year": 2004,
+      "measles_cases": 189,
+      "source": "who-cases"
+    },
+    {
+      "year": 2005,
+      "measles_cases": 79,
+      "source": "who-cases"
+    },
+    {
+      "year": 2006,
+      "measles_cases": 764,
+      "source": "who-cases"
+    },
+    {
+      "year": 2007,
+      "measles_cases": 1022,
+      "source": "who-cases"
+    },
+    {
+      "year": 2008,
+      "measles_cases": 1445,
+      "source": "who-cases"
+    },
+    {
+      "year": 2009,
+      "measles_cases": 1212,
+      "source": "who-cases"
+    },
+    {
+      "year": 2010,
+      "measles_cases": 443,
+      "source": "who-cases"
+    },
+    {
+      "year": 2011,
+      "measles_cases": 1112,
+      "source": "who-cases"
+    },
+    {
+      "year": 2012,
+      "measles_cases": 2092,
+      "source": "who-cases"
+    },
+    {
+      "year": 2013,
+      "measles_cases": 1919,
+      "source": "who-cases"
+    },
+    {
+      "year": 2014,
+      "measles_cases": 133,
+      "source": "who-cases"
+    },
+    {
+      "year": 2015,
+      "measles_cases": 91,
+      "source": "who-cases"
+    },
+    {
+      "year": 2016,
+      "measles_cases": 558,
+      "source": "who-cases"
+    },
+    {
+      "year": 2017,
+      "measles_cases": 364,
+      "source": "who-cases"
+    },
+    {
+      "year": 2018,
+      "measles_cases": 1216,
+      "source": "who-cases"
+    },
+    {
+      "year": 2019,
+      "measles_cases": 1092,
+      "source": "who-cases"
+    },
+    {
+      "year": 2020,
+      "measles_cases": 95,
+      "source": "who-cases"
+    },
+    {
+      "year": 2021,
+      "measles_cases": 2,
+      "source": "who-cases"
+    },
+    {
+      "year": 2022,
+      "measles_cases": 63,
+      "source": "who-cases"
+    },
+    {
+      "year": 2023,
+      "measles_cases": 493,
+      "source": "who-cases"
+    },
+    {
+      "year": 2024,
+      "measles_cases": 3426,
+      "source": "who-cases"
+    },
+    {
+      "year": 2025,
+      "measles_cases": 1347,
+      "source": "who-cases"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+year,new_shortages,new_source,prevented,prevented_source,ongoing_end_year,ongoing_source,scope
+2011,251,fda-rtc-2025,,,,,CDER
+2012,117,fda-rtc-2018,282,fda-rtc-2018,,,CDER
+2013,44,fda-rtc-2018,170,fda-rtc-2018,97,fda-rtc-2018,CDER
+2014,44,fda-rtc-2018,101,fda-rtc-2018,74,fda-rtc-2018,CDER
+2015,26,fda-rtc-2018,142,fda-rtc-2018,64,fda-rtc-2018,CDER
+2016,26,fda-rtc-2018,126,fda-rtc-2018,48,fda-rtc-2018,CDER and CBER
+2017,39,fda-rtc-2017,145,fda-rtc-2018,41,fda-rtc-2018,CDER and CBER
+2018,54,fda-rtc-2018,160,fda-rtc-2018,67,fda-rtc-2018,CDER and CBER
+2019,51,fda-rtc-2019,154,fda-rtc-2019,76,fda-rtc-2019,CDER and CBER
+2020,43,fda-rtc-2020,199,fda-rtc-2020,86,fda-rtc-2022,CDER and CBER
+2021,41,fda-rtc-2021,317,fda-rtc-2021,83,fda-rtc-2021,CDER and CBER
+2022,49,fda-rtc-2022,222,fda-rtc-2022,86,fda-rtc-2022,CDER and CBER
+2023,55,fda-rtc-2023,236,fda-rtc-2023,98,fda-rtc-2023,CDER and CBER
+2024,15,fda-rtc-2024,283,fda-rtc-2024,113,fda-rtc-2024,CDER and CBER
+2025,4,fda-rtc-2025,330,fda-rtc-2025,93,fda-rtc-2025,CDER and CBER

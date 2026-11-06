@@ -1,0 +1,69 @@
+name,status,started,years,last_updated,injectable,dosage_forms,categories,reasons,presentations,unavailable,companies,source
+Fentanyl Citrate Injection,Current,2012-01-01,14.8,2026-11-03,true,Injection,Analgesia/Addiction; Pediatric,Demand increase for the drug; Other,20,0,3,openfda
+Atropine Sulfate Injection,Current,2012-01-01,14.8,2026-11-03,true,Injection,Anesthesia; Neurology; Pediatric,Discontinuation of the manufacture of the drug; Other; Requirements related to complying with good manufacturing practices,17,0,8,openfda
+Lidocaine Hydrochloride Injection,Current,2012-02-22,14.7,2026-11-03,true,Injection,Anesthesia; Cardiovascular; Pediatric,Demand increase for the drug; Other,65,0,10,openfda
+"Epinephrine Bitartrate, Lidocaine Hydrochloride Injection",Current,2012-02-22,14.7,2026-11-03,true,Injection,Anesthesia; Pediatric,Demand increase for the drug; Other,22,0,2,openfda
+"Cefotaxime Sodium Powder, for Solution",Current,2015-02-17,11.7,2026-10-14,false,"Powder, For Solution",Anti-Infective; Pediatric,Demand increase for the drug,6,0,2,openfda
+Sodium Acetate Injection,Current,2016-02-03,10.8,2026-11-03,true,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric; Total Parenteral Nutrition,Other,15,0,5,openfda
+Sodium Bicarbonate Injection,Current,2017-03-01,9.7,2026-11-03,true,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric,Demand increase for the drug; Other,11,0,5,openfda
+Morphine Sulfate Injection,Current,2017-10-31,9,2026-11-03,true,Injection,Analgesia/Addiction,Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,24,0,5,openfda
+Hydromorphone Hydrochloride Injection,Current,2017-10-31,9,2026-11-03,true,Injection,Analgesia/Addiction,Demand increase for the drug; Other,26,0,4,openfda
+Dopamine Hydrochloride Injection,Current,2017-11-06,9,2026-11-03,true,Injection,Cardiovascular,Demand increase for the drug; Other,11,0,3,openfda
+Dobutamine Hydrochloride Injection,Current,2017-11-06,9,2026-11-03,true,Injection,Cardiovascular; Pediatric; Renal,Other,10,0,3,openfda
+Heparin Sodium Injection,Current,2017-11-14,9,2026-11-03,true,Injection,Hematology,Demand increase for the drug; Other,8,0,4,openfda
+Bupivacaine Hydrochloride Injection,Current,2018-02-20,8.7,2026-11-03,true,Injection,Analgesia/Addiction; Anesthesia,Delay in shipping of the drug; Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,57,0,8,openfda
+"Bupivacaine Hydrochloride, Epinephrine Bitartrate Injection",Current,2018-02-20,8.7,2026-11-03,true,Injection,Analgesia/Addiction; Anesthesia,Delay in shipping of the drug; Demand increase for the drug; Other,26,0,2,openfda
+Ropivacaine Hydrochloride Injection,Current,2018-03-23,8.6,2026-11-03,true,Injection,Anesthesia,Delay in shipping of the drug; Demand increase for the drug; Other,49,0,5,openfda
+Ketorolac Tromethamine Injection,Current,2018-03-23,8.6,2026-11-03,true,Injection,Analgesia/Addiction,Delay in shipping of the drug; Demand increase for the drug; Other,25,0,7,openfda
+Lorazepam Injection,Current,2018-05-03,8.5,2026-11-03,true,Injection,Neurology,Demand increase for the drug; Other,11,0,4,openfda
+Dexamethasone Sodium Phosphate Injection,Current,2019-02-08,7.7,2026-11-03,true,Injection,Dermatology; Endocrinology/Metabolism; Gastroenterology; Hematology; Neurology; Oncology; Ophthalmology; Other; Pulmonary/Allergy; Rheumatology,Demand increase for the drug,19,0,5,openfda
+Echothiophate Iodide Ophthalmic Solution,Current,2019-09-24,7.1,2026-11-02,false,Ophthalmic Solution,Ophthalmology,,1,0,1,openfda
+Midazolam Hydrochloride Injection,Current,2020-04-02,6.6,2026-11-03,true,Injection,Anesthesia; Neurology,Delay in shipping of the drug; Demand increase for the drug; Other,30,0,6,openfda
+Furosemide Injection,Current,2020-04-07,6.6,2026-11-03,true,Injection,Cardiovascular,Demand increase for the drug; Discontinuation of the manufacture of the drug; Other; Requirements related to complying with good manufacturing practices,27,0,8,openfda
+Dexmedetomidine Hydrochloride Injection,Current,2020-04-10,6.6,2026-11-06,true,Injection,Anesthesia,Delay in shipping of the drug; Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,56,0,16,openfda
+Amino Acid Injection,Current,2020-12-08,5.9,2026-11-03,true,Injection,Gastroenterology,Shortage of an active ingredient; Shortage of an inactive ingredient component,16,0,3,openfda
+Azacitidine Injection,Current,2020-12-18,5.9,2026-11-03,true,Injection,Oncology,Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,9,0,9,openfda
+Valproate Sodium Injection,Current,2020-12-30,5.9,2026-11-03,true,Injection,Neurology,Demand increase for the drug,2,0,2,openfda
+Rifampin Injection,Current,2021-02-17,5.7,2026-11-03,true,Injection,Anti-Infective,Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,3,0,3,openfda
+Desmopressin Acetate Spray,Current,2021-03-12,5.7,2026-10-15,false,Spray,Hematology,Delay in shipping of the drug; Requirements related to complying with good manufacturing practices,4,0,2,openfda
+Triamcinolone Hexacetonide Injection,Current,2021-05-04,5.5,2026-09-15,true,Injection,Rheumatology,,1,0,1,openfda
+Sterile Water Injection,Current,2021-11-23,5,2026-11-03,true,Injection,Other,Demand increase for the drug; Other,13,0,5,openfda
+Methylprednisolone Acetate Injection,Current,2021-12-15,4.9,2026-11-06,true,Injection,Rheumatology,Demand increase for the drug; Other; Shortage of an active ingredient,23,0,5,openfda
+Rifampin Capsule,Current,2021-12-22,4.9,2026-11-03,false,Capsule,Anti-Infective,Discontinuation of the manufacture of the drug,9,0,2,openfda
+Metronidazole Injection,Current,2022-01-13,4.8,2026-11-03,true,Injection,Anti-Infective,Discontinuation of the manufacture of the drug; Other,4,0,3,openfda
+Dextrose Monohydrate 50% Injection,Current,2022-01-13,4.8,2026-10-27,true,Injection,Endocrinology/Metabolism; Gastroenterology; Pediatric,Demand increase for the drug; Other,3,0,2,openfda
+Dextrose Monohydrate 5% Injection,Current,2022-02-14,4.7,2026-11-03,true,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,Demand increase for the drug,36,0,4,openfda
+Dextrose Monohydrate 10% Injection,Current,2022-03-01,4.7,2026-11-03,true,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,Demand increase for the drug; Discontinuation of the manufacture of the drug,13,0,4,openfda
+Conivaptan Hydrochloride Injection,Current,2022-03-14,4.6,2026-10-15,true,Injection,Cardiovascular,Delay in shipping of the drug,1,0,1,openfda
+Sufentanil Citrate Injection,Current,2022-05-03,4.5,2026-10-21,true,Injection,Analgesia/Addiction; Pediatric,Other,4,0,2,openfda
+Remifentanil Hydrochloride Injection,Current,2022-06-28,4.4,2026-11-03,true,Injection,Analgesia/Addiction,Delay in shipping of the drug; Demand increase for the drug,9,0,3,openfda
+"Streptozocin Powder, For Solution",Current,2022-07-12,4.3,2026-11-02,false,"Powder, For Solution",Oncology,Other,2,0,2,openfda
+Flurazepam Hydrochloride Capsule,Current,2022-08-03,4.3,2026-09-15,false,Capsule,Neurology; Oncology; Other,Regulatory delay,6,0,2,openfda
+Etomidate Injection,Current,2022-10-05,4.1,2026-11-03,true,Injection,Anesthesia,Demand increase for the drug; Other,18,0,6,openfda
+"Amphetamine Aspartate Monohydrate, Amphetamine Sulfate, Dextroamphetamine Saccharate, Dextroamphetamine Sulfate Tablet",Current,2022-10-12,4.1,2026-11-04,false,Tablet,Psychiatry,Demand increase for the drug; Other; Shortage of an active ingredient,73,0,11,openfda
+Quinapril Hydrochloride Tablet,Current,2023-01-19,3.8,2026-11-04,false,Tablet,Cardiovascular,Discontinuation of the manufacture of the drug; Requirements related to complying with good manufacturing practices; Shortage of an active ingredient,16,0,4,openfda
+Quinapril/Hydrochlorothiazide Tablet,Current,2023-01-19,3.8,2026-11-04,false,Tablet,Cardiovascular,Discontinuation of the manufacture of the drug,6,0,2,openfda
+Rocuronium Bromide Injection,Current,2023-02-15,3.7,2026-11-03,true,Injection,Anesthesia,Delay in shipping of the drug; Demand increase for the drug,26,0,11,openfda
+Methotrexate Sodium Injection,Current,2023-03-13,3.7,2026-11-03,true,Injection,Oncology; Rheumatology,Demand increase for the drug; Other,15,0,5,openfda
+Clindamycin Phosphate Injection,Current,2023-03-21,3.6,2026-11-03,true,Injection,Anti-Infective,Discontinuation of the manufacture of the drug; Other,17,0,4,openfda
+Penicillin G Benzathine Injection,Current,2023-04-26,3.5,2026-10-21,true,Injection,Anti-Infective,Other,4,0,2,openfda
+Carboplatin Injection,Current,2023-04-28,3.5,2026-11-03,true,Injection,Oncology,Delay in shipping of the drug; Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,29,0,8,openfda
+Sterile Water Irrigant,Current,2023-04-28,3.5,2026-11-03,false,Irrigant,Gastroenterology; Other; Pediatric,Discontinuation of the manufacture of the drug; Other,9,0,3,openfda
+Lisdexamfetamine Dimesylate Capsule,Current,2023-07-14,3.3,2026-11-03,false,Capsule,Psychiatry,Other; Shortage of an active ingredient,90,0,13,openfda
+"Lisdexamfetamine Dimesylate Tablet, Chewable",Current,2023-07-14,3.3,2026-11-02,false,"Tablet, Chewable",Psychiatry,,18,0,3,openfda
+Liraglutide Injection,Current,2023-07-18,3.3,2026-10-14,true,Injection,Endocrinology/Metabolism,Delay in shipping of the drug; Discontinuation of the manufacture of the drug,9,0,3,openfda
+"Methylphenidate Hydrochloride Tablet, Extended Release",Current,2023-07-26,3.3,2026-11-03,false,Tablet,Psychiatry,Demand increase for the drug; Discontinuation of the manufacture of the drug; Other,34,0,6,openfda
+Propranolol Hydrochloride Injection,Current,2023-10-31,3,2026-11-03,true,Injection,Cardiovascular,Delay in shipping of the drug; Shortage of an active ingredient,2,0,2,openfda
+Cromolyn Sodium Concentrate,Current,2023-11-03,3,2026-11-03,false,Concentrate,Pulmonary/Allergy,Other,6,0,4,openfda
+Promethazine Hydrochloride Injection,Current,2023-11-21,3,2026-10-14,true,Injection,Analgesia/Addiction; Gastroenterology; Other; Pediatric; Pulmonary/Allergy,Demand increase for the drug; Other,10,1,2,openfda
+Technetium TC-99M Pyrophosphate Kit Injection,Current,2023-12-27,2.9,2026-11-02,true,Injection,Medical Imaging,Other; Shortage of an active ingredient,3,0,2,openfda
+Riluzole Oral Suspension,Current,2024-01-26,2.8,2026-10-15,false,Oral Suspension,Neurology,Requirements related to complying with good manufacturing practices,4,0,1,openfda
+Dextrose Monohydrate 70% Injection,Current,2024-10-11,2.1,2026-11-03,true,Injection,Endocrinology/Metabolism; Gastroenterology; Other; Pediatric,,4,0,3,openfda
+Hydroxocobalamin Injection,Current,2024-11-04,2,2026-11-02,true,Injection,Other,Other,2,0,2,openfda
+"Methylphenidate Film, Extended Release",Current,2025-02-28,1.7,2026-10-16,false,"Film, Extended Release",Psychiatry,,4,0,1,openfda
+Bacitracin Ophthalmic Ointment,Current,2025-03-03,1.7,2026-10-23,false,Ophthalmic Ointment,Anti-Infective; Ophthalmology,Discontinuation of the manufacture of the drug,1,0,1,openfda
+Meperidine Hydrochloride Injection,Current,2025-05-30,1.4,2026-10-21,true,Injection,Analgesia/Addiction,,6,0,2,openfda
+Furosemide Oral Solution,Current,2026-03-31,0.6,2026-10-27,false,Oral Solution,Cardiovascular,,3,0,1,openfda
+Isocarboxazid Tablet,Current,2026-04-16,0.6,2026-08-06,false,Tablet,Psychiatry,Other,1,0,1,openfda
+Ifosfamide Injection,Current,2026-06-12,0.4,2026-11-03,true,Injection,Oncology; Pediatric,Demand increase for the drug,8,0,4,openfda
+Pentostatin Injection,Current,2026-08-27,0.2,2026-10-21,true,Injection,Oncology,Other,1,0,1,openfda

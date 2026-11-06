@@ -2,6 +2,13 @@
   "_about": "Entries for feed.xml, newest first. Add one each time data is refreshed or a page is added, then run: node scripts/feed.mjs. 'path' is relative to the site root.",
   "updates": [
     {
+      "id": "2026-11-06-three-dashboards",
+      "date": "2026-11-06T23:30:00Z",
+      "title": "Three new dashboards: Medicines, Household Energy and Vaccination",
+      "path": "",
+      "summary": "Medicine Shortages & Supply (FDA, EMA, UN Comtrade and NHS data), Household Energy Prices & Poverty (World Bank, Eurostat, Ofgem and DESNZ) and Vaccination & Health Workers (WHO/UNICEF coverage estimates, WHO workforce data and UKHSA) join the monitor, each with a script to rebuild its tables and figures on the country profiles."
+    },
+    {
       "id": "2026-11-06-countries",
       "date": "2026-11-06T21:30:00Z",
       "title": "Country profiles, comparisons, search and embeddable charts",

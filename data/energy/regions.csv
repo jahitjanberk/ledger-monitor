@@ -1,0 +1,201 @@
+region,code,year,electricity_pct,cooking_pct,no_electricity_m,no_cooking_m,electricity_source,cooking_source,population_source
+World,WLD,2000,78.2,47.8,1342,3219,wb-elec,wb-cook,wb-pop
+World,WLD,2001,78.7,48.8,1329,3200,wb-elec,wb-cook,wb-pop
+World,WLD,2002,79.1,49.6,1322,3191,wb-elec,wb-cook,wb-pop
+World,WLD,2003,80,50.4,1284,3176,wb-elec,wb-cook,wb-pop
+World,WLD,2004,80,51.2,1301,3165,wb-elec,wb-cook,wb-pop
+World,WLD,2005,80.7,52.1,1269,3151,wb-elec,wb-cook,wb-pop
+World,WLD,2006,81.4,52.8,1242,3146,wb-elec,wb-cook,wb-pop
+World,WLD,2007,82,53.4,1216,3141,wb-elec,wb-cook,wb-pop
+World,WLD,2008,82.7,54.3,1184,3119,wb-elec,wb-cook,wb-pop
+World,WLD,2009,82.9,55.5,1185,3081,wb-elec,wb-cook,wb-pop
+World,WLD,2010,83.5,56.7,1159,3032,wb-elec,wb-cook,wb-pop
+World,WLD,2011,84.5,57.9,1098,2983,wb-elec,wb-cook,wb-pop
+World,WLD,2012,84.9,59.4,1081,2912,wb-elec,wb-cook,wb-pop
+World,WLD,2013,85.7,60.8,1038,2849,wb-elec,wb-cook,wb-pop
+World,WLD,2014,86.2,62.4,1015,2764,wb-elec,wb-cook,wb-pop
+World,WLD,2015,86.9,63.9,973,2683,wb-elec,wb-cook,wb-pop
+World,WLD,2016,88.1,65.6,895,2588,wb-elec,wb-cook,wb-pop
+World,WLD,2017,88.9,67.1,842,2504,wb-elec,wb-cook,wb-pop
+World,WLD,2018,89.8,68.7,785,2409,wb-elec,wb-cook,wb-pop
+World,WLD,2019,90.1,69.9,769,2344,wb-elec,wb-cook,wb-pop
+World,WLD,2020,90.4,71.3,754,2254,wb-elec,wb-cook,wb-pop
+World,WLD,2021,91.3,72.4,686,2184,wb-elec,wb-cook,wb-pop
+World,WLD,2022,91.3,73.7,696,2105,wb-elec,wb-cook,wb-pop
+World,WLD,2023,91.6,74.5,677,2054,wb-elec,wb-cook,wb-pop
+World,WLD,2024,91.9,75.4,657,2001,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2000,25.7,9.1,506,619,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2001,26.2,9.3,516,634,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2002,27.3,9.6,522,649,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2003,29.6,9.8,520,665,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2004,29.4,10.1,536,682,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2005,29.4,10.5,551,698,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2006,31.2,10.7,551,715,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2007,32.5,11.1,555,732,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2008,32.4,11.3,572,751,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2009,32.6,11.8,586,767,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2010,33.3,12,596,787,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2011,35.9,12.3,589,806,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2012,36.8,12.7,597,825,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2013,38,13.3,602,842,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2014,38.4,14,615,858,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2015,39.2,14.7,623,874,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2016,43.8,15.5,591,889,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2017,43.8,16.5,608,902,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2018,46.4,17.5,594,915,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2019,47.2,18.6,601,927,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2020,48.5,19.5,601,940,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2021,50.7,20.5,591,953,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2022,51.5,21.3,596,967,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2023,53.3,22.1,588,980,wb-elec,wb-cook,wb-pop
+Sub-Saharan Africa,SSF,2024,55.1,22.9,579,994,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2000,56.8,20.2,535,987,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2001,58.3,21.9,525,984,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2002,59.4,22.9,521,989,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2003,62.3,23.9,491,993,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2004,61.5,24.8,511,997,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2005,65.9,25.7,460,1001,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2006,65.9,26.6,466,1003,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2007,69.3,27.6,426,1004,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2008,71.8,28.6,397,1004,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2009,73,29.6,385,1003,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2010,74.1,31.4,375,991,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2011,77.3,33.3,332,977,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2012,78.4,36,320,949,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2013,80.8,38.8,288,919,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2014,82.8,42.4,261,876,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2015,86.5,45.3,207,842,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2016,88.3,48.9,182,795,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2017,91.4,52.5,135,747,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2018,94.8,56.2,82,696,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2019,95.5,58.9,73,659,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2020,96.4,62.6,58,606,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2021,99.4,65.3,10,567,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2022,99.1,68.9,15,512,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2023,99.4,71.6,10,472,wb-elec,wb-cook,wb-pop
+South Asia,SAS,2024,99.8,74.3,3,430,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2000,92.1,39.5,163,1241,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2001,92.5,40.9,154,1223,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2002,93,42.4,147,1201,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2003,93.2,44,144,1178,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2004,94,45.6,128,1153,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2005,93.6,47.2,137,1126,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2006,94.6,48.5,115,1109,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2007,94.7,49.8,116,1088,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2008,95.2,51.8,105,1052,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2009,95,54.6,110,999,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2010,95.5,57.4,99,944,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2011,96,60.1,89,890,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2012,96.2,63,85,832,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2013,96.5,65.2,80,789,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2014,96.6,67.9,77,733,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2015,97,70.7,70,674,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2016,97,73.4,69,617,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2017,97.7,75.4,54,574,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2018,97.7,77.9,55,518,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2019,97.9,79.7,50,480,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2020,97.8,81.6,52,437,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2021,98.2,83.3,44,396,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2022,98.2,84.9,42,358,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2023,98.4,86,38,333,wb-elec,wb-cook,wb-pop
+East Asia and Pacific,EAS,2024,98.6,87,34,311,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2000,91.7,80.5,43,101,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2001,92.3,81.4,40,98,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2002,92.7,81.7,39,98,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2003,92.7,82.5,39,95,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2004,93.2,82.8,37,94,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2005,93.5,83,36,94,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2006,94.3,83.7,32,91,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2007,94.5,83.7,31,92,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2008,95.2,84.3,27,90,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2009,95.4,84.5,27,90,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2010,95.9,84.9,24,89,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2011,96.2,85.3,23,88,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2012,96.6,85.9,21,85,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2013,96.9,86.2,19,83,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2014,97.1,86.5,18,83,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2015,97.3,86.8,17,82,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2016,97.5,87.4,16,79,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2017,97.7,87.9,14,77,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2018,97.8,88,14,77,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2019,98,88.3,13,75,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2020,98.1,88.9,12,71,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2021,98.3,89.1,11,70,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2022,98.6,89.5,9,69,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2023,98.4,89.7,10,68,wb-elec,wb-cook,wb-pop
+Latin America and Caribbean,LCN,2024,98,90.5,13,63,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2000,82.6,63.3,86,182,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2001,83.3,64.8,85,178,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2002,83.6,66.1,85,176,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2003,84.6,67.3,82,173,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2004,85,68.3,82,172,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2005,86,69.6,78,169,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2006,87.7,70.3,70,169,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2007,87.2,71.1,75,169,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2008,88.1,71.7,71,169,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2009,88.7,72.2,69,170,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2010,90.6,72.6,59,171,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2011,90.8,72.7,59,174,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2012,91.9,73.3,53,175,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2013,93.1,73.7,46,175,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2014,94,74,41,177,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2015,93.4,74.7,46,176,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2016,95.2,75.2,34,175,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2017,96,76,29,173,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2018,95,76.2,37,174,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2019,96,76.5,30,174,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2020,96.3,77.1,28,173,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2021,96.4,77.2,28,175,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2022,95.9,77.5,32,176,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2023,96.4,77.5,29,180,wb-elec,wb-cook,wb-pop
+Middle East and North Africa,MEA,2024,96.8,77.8,26,181,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2000,99.1,90.2,8,85,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2001,99.2,90.9,7,79,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2002,99.2,91.6,7,73,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2003,99.2,92.2,7,68,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2004,99.2,92.9,7,62,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2005,99.3,93.4,6,58,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2006,99.3,93.9,6,53,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2007,99.4,94.2,6,51,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2008,99.4,94.6,5,48,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2009,99.5,94.9,5,46,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2010,99.7,95.1,3,44,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2011,99.7,95.3,3,42,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2012,99.8,95.6,2,39,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2013,99.8,95.9,1,37,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2014,99.9,96.2,1,34,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2015,99.2,96.6,8,31,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2016,99.8,96.9,2,28,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2017,100,97.1,0,26,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2018,100,97.4,0,24,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2019,100,97.5,0,23,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2020,100,97.7,0,21,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2021,100,98,0,19,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2022,100,98.1,0,18,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2023,100,98.2,0,17,wb-elec,wb-cook,wb-pop
+Europe and Central Asia,ECS,2024,100,98.3,0,16,wb-elec,wb-cook,wb-pop
+North America,NAC,2000,100,98.9,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2001,100,98.9,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2002,100,98.9,0,4,wb-elec,wb-cook,wb-pop
+North America,NAC,2003,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2004,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2005,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2006,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2007,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2008,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2009,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2010,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2011,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2012,100,99,0,3,wb-elec,wb-cook,wb-pop
+North America,NAC,2013,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2014,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2015,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2016,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2017,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2018,100,99.9,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2019,100,100,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2020,100,100,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2021,100,100,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2022,100,100,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2023,100,100,0,0,wb-elec,wb-cook,wb-pop
+North America,NAC,2024,100,100,0,0,wb-elec,wb-cook,wb-pop

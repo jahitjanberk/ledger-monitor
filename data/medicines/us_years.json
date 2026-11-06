@@ -1,0 +1,157 @@
+{
+  "id": "us_years",
+  "title": "US drug shortages per year, 2011 to 2025",
+  "description": "New shortages, shortages prevented and shortages still ongoing at the end of each year, as stated in FDA's annual reports to Congress. Counts before 2016 are CDER only.",
+  "records": [
+    {
+      "year": 2011,
+      "new_shortages": 251,
+      "new_source": "fda-rtc-2025",
+      "prevented": null,
+      "prevented_source": null,
+      "ongoing_end_year": null,
+      "ongoing_source": null,
+      "scope": "CDER"
+    },
+    {
+      "year": 2012,
+      "new_shortages": 117,
+      "new_source": "fda-rtc-2018",
+      "prevented": 282,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": null,
+      "ongoing_source": null,
+      "scope": "CDER"
+    },
+    {
+      "year": 2013,
+      "new_shortages": 44,
+      "new_source": "fda-rtc-2018",
+      "prevented": 170,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 97,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER"
+    },
+    {
+      "year": 2014,
+      "new_shortages": 44,
+      "new_source": "fda-rtc-2018",
+      "prevented": 101,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 74,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER"
+    },
+    {
+      "year": 2015,
+      "new_shortages": 26,
+      "new_source": "fda-rtc-2018",
+      "prevented": 142,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 64,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER"
+    },
+    {
+      "year": 2016,
+      "new_shortages": 26,
+      "new_source": "fda-rtc-2018",
+      "prevented": 126,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 48,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2017,
+      "new_shortages": 39,
+      "new_source": "fda-rtc-2017",
+      "prevented": 145,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 41,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2018,
+      "new_shortages": 54,
+      "new_source": "fda-rtc-2018",
+      "prevented": 160,
+      "prevented_source": "fda-rtc-2018",
+      "ongoing_end_year": 67,
+      "ongoing_source": "fda-rtc-2018",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2019,
+      "new_shortages": 51,
+      "new_source": "fda-rtc-2019",
+      "prevented": 154,
+      "prevented_source": "fda-rtc-2019",
+      "ongoing_end_year": 76,
+      "ongoing_source": "fda-rtc-2019",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2020,
+      "new_shortages": 43,
+      "new_source": "fda-rtc-2020",
+      "prevented": 199,
+      "prevented_source": "fda-rtc-2020",
+      "ongoing_end_year": 86,
+      "ongoing_source": "fda-rtc-2022",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2021,
+      "new_shortages": 41,
+      "new_source": "fda-rtc-2021",
+      "prevented": 317,
+      "prevented_source": "fda-rtc-2021",
+      "ongoing_end_year": 83,
+      "ongoing_source": "fda-rtc-2021",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2022,
+      "new_shortages": 49,
+      "new_source": "fda-rtc-2022",
+      "prevented": 222,
+      "prevented_source": "fda-rtc-2022",
+      "ongoing_end_year": 86,
+      "ongoing_source": "fda-rtc-2022",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2023,
+      "new_shortages": 55,
+      "new_source": "fda-rtc-2023",
+      "prevented": 236,
+      "prevented_source": "fda-rtc-2023",
+      "ongoing_end_year": 98,
+      "ongoing_source": "fda-rtc-2023",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2024,
+      "new_shortages": 15,
+      "new_source": "fda-rtc-2024",
+      "prevented": 283,
+      "prevented_source": "fda-rtc-2024",
+      "ongoing_end_year": 113,
+      "ongoing_source": "fda-rtc-2024",
+      "scope": "CDER and CBER"
+    },
+    {
+      "year": 2025,
+      "new_shortages": 4,
+      "new_source": "fda-rtc-2025",
+      "prevented": 330,
+      "prevented_source": "fda-rtc-2025",
+      "ongoing_end_year": 93,
+      "ongoing_source": "fda-rtc-2025",
+      "scope": "CDER and CBER"
+    }
+  ]
+}

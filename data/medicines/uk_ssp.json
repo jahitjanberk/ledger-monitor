@@ -1,0 +1,63 @@
+{
+  "id": "uk_ssp",
+  "title": "Serious Shortage Protocols in force",
+  "description": "UK Serious Shortage Protocols active on 6 November 2026 (NHSBSA).",
+  "records": [
+    {
+      "ref": "SSP089",
+      "medicine": "Lansoprazole 30mg orodispersible tablets",
+      "start": "2026-09-09",
+      "end": "2027-01-15",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP088",
+      "medicine": "Lansoprazole 15mg orodispersible tablets",
+      "start": "2026-09-09",
+      "end": "2027-01-15",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP082",
+      "medicine": "Estradot 25 microgram patches",
+      "start": "2025-04-03",
+      "end": "2027-01-08",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP081",
+      "medicine": "Estradot 100 microgram patches",
+      "start": "2024-12-19",
+      "end": "2027-01-08",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP080",
+      "medicine": "Estradot 75 microgram patches",
+      "start": "2024-12-19",
+      "end": "2027-01-08",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP079",
+      "medicine": "Estradot 50 microgram patches",
+      "start": "2024-12-19",
+      "end": "2027-01-08",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "ref": "SSP061",
+      "medicine": "Creon 25000 capsules",
+      "start": "2024-05-24",
+      "end": "2027-01-08",
+      "status": "Active",
+      "source": "nhsbsa-ssp"
+    }
+  ]
+}

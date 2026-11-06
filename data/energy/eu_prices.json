@@ -1,0 +1,214 @@
+{
+  "id": "eu_prices",
+  "title": "EU household electricity and gas prices, half-yearly",
+  "description": "EU 27 average household price per kWh including all taxes, in euros and purchasing power standards, 2015 to the first half of 2026 (Eurostat).",
+  "records": [
+    {
+      "period": "2015-S1",
+      "elec_eur": 0.2083,
+      "elec_pps": null,
+      "gas_eur": 0.0672,
+      "gas_pps": null,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2015-S2",
+      "elec_eur": 0.2089,
+      "elec_pps": null,
+      "gas_eur": 0.0725,
+      "gas_pps": null,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2016-S1",
+      "elec_eur": 0.2051,
+      "elec_pps": null,
+      "gas_eur": 0.0643,
+      "gas_pps": null,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2016-S2",
+      "elec_eur": 0.2069,
+      "elec_pps": null,
+      "gas_eur": 0.0675,
+      "gas_pps": null,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2017-S1",
+      "elec_eur": 0.2089,
+      "elec_pps": 0.2089,
+      "gas_eur": 0.0619,
+      "gas_pps": 0.0623,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2017-S2",
+      "elec_eur": 0.2089,
+      "elec_pps": 0.2087,
+      "gas_eur": 0.0682,
+      "gas_pps": 0.0685,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2018-S1",
+      "elec_eur": 0.2103,
+      "elec_pps": 0.2101,
+      "gas_eur": 0.0631,
+      "gas_pps": 0.0632,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2018-S2",
+      "elec_eur": 0.2152,
+      "elec_pps": 0.2151,
+      "gas_eur": 0.0719,
+      "gas_pps": 0.072,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2019-S1",
+      "elec_eur": 0.2168,
+      "elec_pps": 0.2162,
+      "gas_eur": 0.0674,
+      "gas_pps": 0.0672,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2019-S2",
+      "elec_eur": 0.2169,
+      "elec_pps": 0.2167,
+      "gas_eur": 0.0728,
+      "gas_pps": 0.0726,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2020-S1",
+      "elec_eur": 0.2139,
+      "elec_pps": 0.2145,
+      "gas_eur": 0.0646,
+      "gas_pps": 0.065,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2020-S2",
+      "elec_eur": 0.2153,
+      "elec_pps": 0.2157,
+      "gas_eur": 0.0701,
+      "gas_pps": 0.0705,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2021-S1",
+      "elec_eur": 0.2203,
+      "elec_pps": 0.2204,
+      "gas_eur": 0.064,
+      "gas_pps": 0.064,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2021-S2",
+      "elec_eur": 0.2415,
+      "elec_pps": 0.2352,
+      "gas_eur": 0.0784,
+      "gas_pps": 0.079,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2022-S1",
+      "elec_eur": 0.249,
+      "elec_pps": 0.2496,
+      "gas_eur": 0.0847,
+      "gas_pps": 0.0853,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2022-S2",
+      "elec_eur": 0.2768,
+      "elec_pps": 0.2785,
+      "gas_eur": 0.1125,
+      "gas_pps": 0.1145,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2023-S1",
+      "elec_eur": 0.2887,
+      "elec_pps": 0.2868,
+      "gas_eur": 0.1163,
+      "gas_pps": 0.1104,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2023-S2",
+      "elec_eur": 0.2847,
+      "elec_pps": 0.2823,
+      "gas_eur": 0.1141,
+      "gas_pps": 0.1124,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2024-S1",
+      "elec_eur": 0.2916,
+      "elec_pps": 0.2853,
+      "gas_eur": 0.1104,
+      "gas_pps": 0.1069,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2024-S2",
+      "elec_eur": 0.2887,
+      "elec_pps": 0.2838,
+      "gas_eur": 0.1244,
+      "gas_pps": 0.121,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2025-S1",
+      "elec_eur": 0.2879,
+      "elec_pps": 0.2875,
+      "gas_eur": 0.1143,
+      "gas_pps": 0.111,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2025-S2",
+      "elec_eur": 0.2896,
+      "elec_pps": 0.2906,
+      "gas_eur": 0.1228,
+      "gas_pps": 0.1196,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    },
+    {
+      "period": "2026-S1",
+      "elec_eur": 0.2832,
+      "elec_pps": 0.2836,
+      "gas_eur": 0.1103,
+      "gas_pps": 0.1071,
+      "elec_source": "es-elec",
+      "gas_source": "es-gas"
+    }
+  ]
+}

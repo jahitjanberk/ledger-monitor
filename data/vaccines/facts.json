@@ -1,0 +1,127 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from the UNICEF and WHO release of the 2025 coverage estimates and WHO's State of the World's Nursing 2025.",
+  "records": [
+    {
+      "id": "zerodose",
+      "label": "Children who did not receive a single vaccine in 2025 (zero-dose)",
+      "value": 13.5,
+      "unit": "million",
+      "note": "Nearly 750,000 fewer than the previous year",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "dtp1",
+      "label": "Infants who received at least one dose of DTP vaccine, 2025",
+      "value": 90,
+      "unit": "%",
+      "note": "Nearly 116 million infants",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "dtp3",
+      "label": "Infants who completed the three-dose DTP series, 2025",
+      "value": 85,
+      "unit": "%",
+      "note": "110 million infants; one point below 2019",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "mcv",
+      "label": "Children receiving the first and second measles doses, 2025",
+      "value": 84,
+      "unit": "%",
+      "note": "84% first dose, 77% second dose, against the 95% needed to stop outbreaks",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "outbreaks",
+      "label": "Countries reporting large or disruptive measles outbreaks in 2025",
+      "value": 57,
+      "unit": "countries",
+      "note": "",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "fcv",
+      "label": "Share of zero-dose children living in fragile, conflict-affected or vulnerable settings",
+      "value": 50,
+      "unit": "% (more than)",
+      "note": "Those settings hold only about a third of the world's children",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "stagnant",
+      "label": "Countries whose DTP3 coverage is stagnating or falling behind since 2019",
+      "value": 65,
+      "unit": "countries",
+      "note": "100 countries have kept at least 90% DTP3 coverage since 2019; 30 improved",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "surveys",
+      "label": "National immunization coverage surveys submitted for the 2025 round",
+      "value": 18,
+      "unit": "surveys",
+      "note": "Down from 50 in 2024 and an average of 33 a year in 2015 to 2019",
+      "source": "wuenic-release"
+    },
+    {
+      "id": "nurses",
+      "label": "Nurses worldwide, 2023",
+      "value": 29.8,
+      "unit": "million",
+      "note": "Up from 27.9 million in 2018",
+      "source": "sown-2025"
+    },
+    {
+      "id": "shortage",
+      "label": "Global shortage of nurses, 2023",
+      "value": 5.8,
+      "unit": "million",
+      "note": "Down from 6.2 million in 2020; projected 4.1 million by 2030",
+      "source": "sown-2025"
+    },
+    {
+      "id": "shortage2030",
+      "label": "Projected global shortage of nurses, 2030",
+      "value": 4.1,
+      "unit": "million",
+      "note": "",
+      "source": "sown-2025"
+    },
+    {
+      "id": "concentration",
+      "label": "Share of the world's nurses in countries with 49% of the world's population",
+      "value": 78,
+      "unit": "%",
+      "note": "",
+      "source": "sown-2025"
+    },
+    {
+      "id": "foreignborn",
+      "label": "Nurses worldwide who are foreign-born",
+      "value": 1,
+      "unit": "in 7",
+      "note": "23% in high-income countries; 1% in lower middle-income and 3% in low-income countries",
+      "source": "sown-2025"
+    },
+    {
+      "id": "foreignhic",
+      "label": "Share of nurses in high-income countries who are foreign-born",
+      "value": 23,
+      "unit": "%",
+      "note": "",
+      "source": "sown-2025"
+    },
+    {
+      "id": "women",
+      "label": "Share of the global nursing workforce who are women",
+      "value": 85,
+      "unit": "%",
+      "note": "",
+      "source": "sown-2025"
+    }
+  ]
+}

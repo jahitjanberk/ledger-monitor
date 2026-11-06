@@ -1,0 +1,60 @@
+{
+  "variant": "energy",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Energy access, prices and cold homes by country",
+      "description": "Access to electricity and clean cooking (World Bank WDI, latest year 2024), people without each, and for European countries household electricity and gas prices (Eurostat, first half of 2026) and the share of people who can't keep their home warm or are behind on utility bills (EU-SILC, mostly 2025).",
+      "rows": 214
+    },
+    {
+      "id": "regions",
+      "title": "Access to electricity and clean cooking by region, 2000 to 2024",
+      "description": "World Bank regional aggregates of access rates, with people without access (our calculation from population).",
+      "rows": 200
+    },
+    {
+      "id": "eu_prices",
+      "title": "EU household electricity and gas prices, half-yearly",
+      "description": "EU 27 average household price per kWh including all taxes, in euros and purchasing power standards, 2015 to the first half of 2026 (Eurostat).",
+      "rows": 23
+    },
+    {
+      "id": "eu_poverty",
+      "title": "EU energy poverty indicators, yearly",
+      "description": "EU 27 share of people unable to keep their home adequately warm and in arrears on utility bills, all households and those at risk of poverty, 2015 to 2025 (Eurostat EU-SILC).",
+      "rows": 11
+    },
+    {
+      "id": "uk_cap",
+      "title": "GB energy price cap, typical direct debit bill",
+      "description": "Ofgem's cap for a typical dual fuel household paying by direct debit, £ a year, recalculated at 2026 typical consumption for every period from April 2017 to December 2026.",
+      "rows": 28
+    },
+    {
+      "id": "uk_fuel_poverty",
+      "title": "Fuel poverty in England, 2010 to 2025",
+      "description": "Households in fuel poverty under the Low Income Low Energy Efficiency measure, with the fuel poverty gap (DESNZ). 2025 is provisional.",
+      "rows": 16
+    },
+    {
+      "id": "uk_fpeer",
+      "title": "Fuel poverty in England by energy efficiency band, 2025",
+      "description": "Fuel poor households and the average fuel poverty gap by Fuel Poverty Energy Efficiency Rating (DESNZ, provisional).",
+      "rows": 4
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from the Tracking SDG 7 2026 joint release, Ofgem's October 2026 price cap letter and DESNZ's 2026 fuel poverty report.",
+      "rows": 16
+    }
+  ]
+}

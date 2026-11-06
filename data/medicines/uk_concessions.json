@@ -1,0 +1,777 @@
+{
+  "id": "uk_concessions",
+  "title": "Price concessions in England, monthly",
+  "description": "Generic medicines and pack sizes granted a price concession by DHSC each month, 2014-01 to 2026-10 (Community Pharmacy England).",
+  "records": [
+    {
+      "month": "2014-01",
+      "concessions": 10,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-02",
+      "concessions": 12,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-03",
+      "concessions": 13,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-04",
+      "concessions": 16,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-05",
+      "concessions": 17,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-06",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-07",
+      "concessions": 18,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-08",
+      "concessions": 17,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-09",
+      "concessions": 15,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-10",
+      "concessions": 12,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-11",
+      "concessions": 16,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2014-12",
+      "concessions": 16,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-01",
+      "concessions": 12,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-02",
+      "concessions": 19,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-03",
+      "concessions": 23,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-04",
+      "concessions": 19,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-05",
+      "concessions": 18,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-06",
+      "concessions": 19,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-07",
+      "concessions": 11,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-08",
+      "concessions": 12,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-09",
+      "concessions": 11,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-10",
+      "concessions": 12,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-11",
+      "concessions": 15,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2015-12",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-01",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-02",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-03",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-04",
+      "concessions": 13,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-05",
+      "concessions": 13,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-06",
+      "concessions": 20,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-07",
+      "concessions": 21,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-08",
+      "concessions": 24,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-09",
+      "concessions": 24,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-10",
+      "concessions": 24,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-11",
+      "concessions": 29,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2016-12",
+      "concessions": 30,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-01",
+      "concessions": 27,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-02",
+      "concessions": 28,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-03",
+      "concessions": 29,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-04",
+      "concessions": 27,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-05",
+      "concessions": 29,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-06",
+      "concessions": 38,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-07",
+      "concessions": 37,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-08",
+      "concessions": 49,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-09",
+      "concessions": 66,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-10",
+      "concessions": 81,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-11",
+      "concessions": 91,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2017-12",
+      "concessions": 86,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-01",
+      "concessions": 68,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-02",
+      "concessions": 69,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-03",
+      "concessions": 68,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-04",
+      "concessions": 47,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-05",
+      "concessions": 59,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-06",
+      "concessions": 56,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-07",
+      "concessions": 57,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-08",
+      "concessions": 48,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-09",
+      "concessions": 47,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-10",
+      "concessions": 45,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-11",
+      "concessions": 69,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2018-12",
+      "concessions": 80,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-01",
+      "concessions": 73,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-02",
+      "concessions": 90,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-03",
+      "concessions": 96,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-04",
+      "concessions": 71,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-05",
+      "concessions": 61,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-06",
+      "concessions": 65,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-07",
+      "concessions": 44,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-08",
+      "concessions": 39,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-09",
+      "concessions": 45,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-10",
+      "concessions": 40,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-11",
+      "concessions": 53,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2019-12",
+      "concessions": 62,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-01",
+      "concessions": 55,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-02",
+      "concessions": 54,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-03",
+      "concessions": 76,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-04",
+      "concessions": 74,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-05",
+      "concessions": 81,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-06",
+      "concessions": 49,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-07",
+      "concessions": 44,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-08",
+      "concessions": 45,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-09",
+      "concessions": 47,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-10",
+      "concessions": 40,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-11",
+      "concessions": 37,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2020-12",
+      "concessions": 39,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-01",
+      "concessions": 40,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-02",
+      "concessions": 45,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-03",
+      "concessions": 46,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-04",
+      "concessions": 42,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-05",
+      "concessions": 37,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-06",
+      "concessions": 36,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-07",
+      "concessions": 34,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-08",
+      "concessions": 38,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-09",
+      "concessions": 44,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-10",
+      "concessions": 48,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-11",
+      "concessions": 62,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2021-12",
+      "concessions": 74,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-01",
+      "concessions": 101,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-02",
+      "concessions": 91,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-03",
+      "concessions": 100,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-04",
+      "concessions": 89,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-05",
+      "concessions": 102,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-06",
+      "concessions": 111,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-07",
+      "concessions": 94,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-08",
+      "concessions": 139,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-09",
+      "concessions": 159,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-10",
+      "concessions": 155,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-11",
+      "concessions": 158,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2022-12",
+      "concessions": 198,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-01",
+      "concessions": 177,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-02",
+      "concessions": 176,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-03",
+      "concessions": 178,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-04",
+      "concessions": 145,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-05",
+      "concessions": 157,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-06",
+      "concessions": 134,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-07",
+      "concessions": 133,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-08",
+      "concessions": 134,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-09",
+      "concessions": 139,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-10",
+      "concessions": 130,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-11",
+      "concessions": 138,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2023-12",
+      "concessions": 155,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-01",
+      "concessions": 159,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-02",
+      "concessions": 169,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-03",
+      "concessions": 133,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-04",
+      "concessions": 133,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-05",
+      "concessions": 145,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-06",
+      "concessions": 151,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-07",
+      "concessions": 151,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-08",
+      "concessions": 151,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-09",
+      "concessions": 140,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-10",
+      "concessions": 106,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-11",
+      "concessions": 115,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2024-12",
+      "concessions": 138,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-01",
+      "concessions": 121,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-02",
+      "concessions": 106,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-03",
+      "concessions": 95,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-04",
+      "concessions": 101,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-05",
+      "concessions": 103,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-06",
+      "concessions": 98,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-07",
+      "concessions": 93,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-08",
+      "concessions": 100,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-09",
+      "concessions": 105,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-10",
+      "concessions": 107,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-11",
+      "concessions": 100,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2025-12",
+      "concessions": 114,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-01",
+      "concessions": 146,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-02",
+      "concessions": 174,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-03",
+      "concessions": 201,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-04",
+      "concessions": 216,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-05",
+      "concessions": 230,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-06",
+      "concessions": 257,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-07",
+      "concessions": 226,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-08",
+      "concessions": 243,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-09",
+      "concessions": 268,
+      "source": "cpe-pc"
+    },
+    {
+      "month": "2026-10",
+      "concessions": 245,
+      "source": "cpe-pc"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "uk_cap",
+  "title": "GB energy price cap, typical direct debit bill",
+  "description": "Ofgem's cap for a typical dual fuel household paying by direct debit, £ a year, recalculated at 2026 typical consumption for every period from April 2017 to December 2026.",
+  "records": [
+    {
+      "period": "Apr 2017 - Sep 2017",
+      "start": "2017-04",
+      "end": "2017-09",
+      "dual_fuel": 832,
+      "electricity": 442,
+      "gas": 391,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2017 - Mar 2018",
+      "start": "2017-10",
+      "end": "2018-03",
+      "dual_fuel": 827,
+      "electricity": 437,
+      "gas": 390,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2018 - Sep 2018",
+      "start": "2018-04",
+      "end": "2018-09",
+      "dual_fuel": 885,
+      "electricity": 472,
+      "gas": 413,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2018 - Mar 2019",
+      "start": "2018-10",
+      "end": "2019-03",
+      "dual_fuel": 945,
+      "electricity": 496,
+      "gas": 449,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2019 - Sep 2019",
+      "start": "2019-04",
+      "end": "2019-09",
+      "dual_fuel": 1039,
+      "electricity": 550,
+      "gas": 490,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2019 - Mar 2020",
+      "start": "2019-10",
+      "end": "2020-03",
+      "dual_fuel": 979,
+      "electricity": 532,
+      "gas": 447,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2020 - Sep 2020",
+      "start": "2020-04",
+      "end": "2020-09",
+      "dual_fuel": 967,
+      "electricity": 534,
+      "gas": 433,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2020 - Mar 2021",
+      "start": "2020-10",
+      "end": "2021-03",
+      "dual_fuel": 899,
+      "electricity": 519,
+      "gas": 380,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2021 - Sep 2021",
+      "start": "2021-04",
+      "end": "2021-09",
+      "dual_fuel": 979,
+      "electricity": 565,
+      "gas": 414,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2021 - Mar 2022",
+      "start": "2021-10",
+      "end": "2022-03",
+      "dual_fuel": 1093,
+      "electricity": 611,
+      "gas": 482,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2022 - Sep 2022",
+      "start": "2022-04",
+      "end": "2022-09",
+      "dual_fuel": 1673,
+      "electricity": 874,
+      "gas": 799,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2022 - Dec 2022",
+      "start": "2022-10",
+      "end": "2022-12",
+      "dual_fuel": 2972,
+      "electricity": 1466,
+      "gas": 1506,
+      "epg": "Energy Price Guarantee discount applied: households paid less than the cap",
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jan 2023 - Mar 2023",
+      "start": "2023-01",
+      "end": "2023-03",
+      "dual_fuel": 3582,
+      "electricity": 1856,
+      "gas": 1726,
+      "epg": "Energy Price Guarantee discount applied: households paid less than the cap",
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2023 - June 2023",
+      "start": "2023-04",
+      "end": "2023-06",
+      "dual_fuel": 2762,
+      "electricity": 1458,
+      "gas": 1304,
+      "epg": "Energy Price Guarantee discount applied: households paid less than the cap",
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jul 2023 - Sept 2023",
+      "start": "2023-07",
+      "end": "2023-09",
+      "dual_fuel": 1766,
+      "electricity": 946,
+      "gas": 819,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2023 - Dec 2023",
+      "start": "2023-10",
+      "end": "2023-12",
+      "dual_fuel": 1641,
+      "electricity": 879,
+      "gas": 763,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jan 2024 - Mar 2024",
+      "start": "2024-01",
+      "end": "2024-03",
+      "dual_fuel": 1723,
+      "electricity": 910,
+      "gas": 813,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2024 - June 2024",
+      "start": "2024-04",
+      "end": "2024-06",
+      "dual_fuel": 1510,
+      "electricity": 827,
+      "gas": 683,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jul 2024 - Sept 2024",
+      "start": "2024-07",
+      "end": "2024-09",
+      "dual_fuel": 1404,
+      "electricity": 774,
+      "gas": 629,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2024 - Dec 2024",
+      "start": "2024-10",
+      "end": "2024-12",
+      "dual_fuel": 1536,
+      "electricity": 831,
+      "gas": 705,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jan 2025 - Mar 2025",
+      "start": "2025-01",
+      "end": "2025-03",
+      "dual_fuel": 1554,
+      "electricity": 840,
+      "gas": 714,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2025 - June 2025",
+      "start": "2025-04",
+      "end": "2025-06",
+      "dual_fuel": 1649,
+      "electricity": 868,
+      "gas": 780,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jul 2025 - Sept 2025",
+      "start": "2025-07",
+      "end": "2025-09",
+      "dual_fuel": 1533,
+      "electricity": 825,
+      "gas": 707,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2025 - Dec 2025",
+      "start": "2025-10",
+      "end": "2025-12",
+      "dual_fuel": 1566,
+      "electricity": 849,
+      "gas": 717,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jan 2026 - Mar 2026",
+      "start": "2026-01",
+      "end": "2026-03",
+      "dual_fuel": 1574,
+      "electricity": 887,
+      "gas": 687,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Apr 2026 - June 2026",
+      "start": "2026-04",
+      "end": "2026-06",
+      "dual_fuel": 1467,
+      "electricity": 821,
+      "gas": 647,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Jul 2026 - Sept 2026",
+      "start": "2026-07",
+      "end": "2026-09",
+      "dual_fuel": 1654,
+      "electricity": 857,
+      "gas": 797,
+      "epg": null,
+      "source": "ofgem-cap"
+    },
+    {
+      "period": "Oct 2026 - Dec 2026",
+      "start": "2026-10",
+      "end": "2026-12",
+      "dual_fuel": 1715,
+      "electricity": 855,
+      "gas": 860,
+      "epg": null,
+      "source": "ofgem-cap"
+    }
+  ]
+}

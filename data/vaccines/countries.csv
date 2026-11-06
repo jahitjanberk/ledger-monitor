@@ -1,0 +1,196 @@
+country,iso3,iso_n3,who_region,year,dtp1,dtp3,mcv1,mcv2,dtp3_2019,mcv1_2019,zero_dose_pct,zero_dose,zero_dose_2019,surviving_infants,coverage_source,measles_cases,measles_cases_2024,measles_per_m,measles_source,diphtheria_cases,doctors_per_10k,doctors_year,nurses_per_10k,nurses_year,workforce_source,dtp3_band,zero_band,measles_band,nurses_band
+Nigeria,NGA,566,AFR,2025,70,62,56,35,66,58,30,2173753,1919927,7245843,wuenic,21270,14999,89.5,who-cases,15273,4.1,2024,11.5,2024,who-nhwa,60 to 80%,20% or more,50 to 200,10 to 25
+Democratic Republic of Congo,COD,180,AFR,2025,82,65,55,51,73,65,18,788455,604822,4380305,wuenic,89100,109419,789.7,who-cases,61,2.1,2022,11.7,2022,who-nhwa,60 to 80%,10 to 20%,200 or more,10 to 25
+Yemen,YEM,887,EMR,2025,49,39,41,38,60,54,51,695637,428194,1363994,wuenic,32448,5992,776.8,who-cases,1447,1.7,2022,5.4,2023,who-nhwa,Under 60%,20% or more,200 or more,Under 10
+India,IND,356,SEAR,2025,97,95,98,95,91,95,3,678756,1411903,22625184,wuenic,17995,18530,12.3,who-cases,3249,9.6,2024,27.2,2024,who-nhwa,95% or more,2 to 5%,10 to 50,25 to 50
+Indonesia,IDN,360,WPR,2025,85,82,85,78,85,88,15,656648,452693,4377653,wuenic,36590,6328,128.1,who-cases,254,5.6,2024,33,2024,who-nhwa,80 to 90%,10 to 20%,50 to 200,25 to 50
+Ethiopia,ETH,231,AFR,2025,84,81,77,72,70,65,16,650331,939743,4064567,wuenic,5572,31044,41.1,who-cases,0,1.6,2024,10.9,2024,who-nhwa,80 to 90%,10 to 20%,10 to 50,10 to 25
+Afghanistan,AFG,004,EMR,2025,67,61,56,42,65,57,33,480321,418401,1455519,wuenic,18260,9769,416.5,who-cases,5,3.2,2023,5.5,2023,who-nhwa,60 to 80%,20% or more,200 or more,Under 10
+Pakistan,PAK,586,EMR,2025,93,86,84,83,84,81,7,464848,575387,6640692,wuenic,20741,24709,81.3,who-cases,562,12.8,2024,5.2,2024,who-nhwa,80 to 90%,5 to 10%,50 to 200,Under 10
+Angola,AGO,024,AFR,2025,67,52,71,46,61,59,33,453892,367383,1375429,wuenic,2043,619,52.3,who-cases,0,2,2024,13.9,2024,who-nhwa,Under 60%,20% or more,50 to 200,10 to 25
+Philippines,PHL,608,WPR,2025,79,71,72,67,84,83,21,380906,255853,1813836,wuenic,5042,3844,43.2,who-cases,117,8.7,2024,52.9,2024,who-nhwa,60 to 80%,20% or more,10 to 50,50 to 100
+South Africa,ZAF,710,AFR,2025,67,65,66,72,85,83,33,380217,148826,1152172,wuenic,2778,931,42.9,who-cases,314,7.7,2024,41.5,2024,who-nhwa,60 to 80%,20% or more,10 to 50,25 to 50
+Tanzania,TZA,834,AFR,2025,87,83,84,74,91,89,13,306890,105948,2360690,wuenic,99,992,1.4,who-cases,,1.8,2024,2.6,2024,who-nhwa,80 to 90%,10 to 20%,1 to 10,Under 10
+Sudan,SDN,729,EMR,2025,83,71,68,56,93,90,17,272798,15362,1604692,wuenic,7708,1337,149.2,who-cases,186,2.5,2017,10.8,2018,who-nhwa,60 to 80%,10 to 20%,50 to 200,10 to 25
+China,CHN,156,WPR,2025,97,97,95,94,99,99,3,259920,145340,8663993,wuenic,1770,1272,1.2,who-cases,0,28.2,2023,39.6,2023,who-nhwa,95% or more,2 to 5%,1 to 10,25 to 50
+Madagascar,MDG,450,AFR,2025,74,64,49,41,69,60,26,256449,209882,986344,wuenic,2454,104,75,who-cases,107,1,2024,2.7,2024,who-nhwa,60 to 80%,20% or more,50 to 200,Under 10
+Bangladesh,BGD,050,SEAR,2025,93,92,90,86,98,97,7,237465,32419,3392360,wuenic,132,247,0.8,who-cases,0,7.2,2023,6.6,2023,who-nhwa,90 to 95%,5 to 10%,Under 1,Under 10
+Mexico,MEX,484,AMR,2025,89,89,88,69,82,73,11,218481,336100,1986193,wuenic,6579,7,49.9,who-cases,0,27.5,2023,30.5,2023,who-nhwa,80 to 90%,10 to 20%,10 to 50,25 to 50
+Myanmar,MMR,104,SEAR,2025,76,71,71,68,90,84,24,207217,63481,863405,wuenic,9,30,0.2,who-cases,107,7.6,2019,2.1,2022,who-nhwa,60 to 80%,20% or more,Under 1,Under 10
+Venezuela,VEN,862,AMR,2025,57,50,53,38,64,93,43,185154,69774,430590,wuenic,0,0,0,who-cases,0,16.6,2017,20,2018,who-nhwa,Under 60%,20% or more,Under 1,10 to 25
+Somalia,SOM,706,EMR,2025,77,72,61,31,57,52,23,179638,246105,781035,wuenic,1867,1529,95,who-cases,3622,0.7,2024,3.2,2024,who-nhwa,60 to 80%,20% or more,50 to 200,Under 10
+Cote d'Ivoire,CIV,384,AFR,2025,84,70,58,49,79,72,16,156272,55433,976703,wuenic,1013,1872,31,who-cases,0,2.6,2024,9.9,2024,who-nhwa,60 to 80%,10 to 20%,10 to 50,Under 10
+Syria,SYR,760,EMR,2025,75,60,69,62,67,76,25,148383,90824,593531,wuenic,109,128,4.3,who-cases,0,16.3,2022,14.4,2022,who-nhwa,60 to 80%,20% or more,1 to 10,10 to 25
+Kenya,KEN,404,AFR,2025,91,88,80,81,93,92,9,135201,56215,1502230,wuenic,751,1417,13.1,who-cases,,2.6,2024,12.1,2024,who-nhwa,80 to 90%,5 to 10%,10 to 50,10 to 25
+Kazakhstan,KAZ,398,EUR,2025,66,54,65,62,73,79,34,133556,77599,392812,wuenic,4240,28147,203.4,who-cases,0,30.6,2024,66.1,2024,who-nhwa,Under 60%,20% or more,200 or more,50 to 100
+Cameroon,CMR,120,AFR,2025,86,83,75,66,67,61,14,132246,247523,944612,wuenic,4117,863,137.8,who-cases,0,0.9,2024,6.6,2022,who-nhwa,80 to 90%,10 to 20%,50 to 200,Under 10
+Papua New Guinea,PNG,598,WPR,2025,49,43,45,28,35,37,51,127511,138006,250021,wuenic,0,47,0,who-cases,0,0.5,2024,8.1,2024,who-nhwa,Under 60%,20% or more,Under 1,Under 10
+Mozambique,MOZ,508,AFR,2025,90,70,65,44,85,83,10,125391,111815,1253905,wuenic,823,1237,23.1,who-cases,,0.9,2024,7.6,2024,who-nhwa,60 to 80%,10 to 20%,10 to 50,Under 10
+Chad,TCD,148,AFR,2025,86,71,68,52,53,40,14,120858,216814,863272,wuenic,495,6978,23.6,who-cases,4,0.8,2024,3.6,2024,who-nhwa,60 to 80%,10 to 20%,10 to 50,Under 10
+Guinea,GIN,324,AFR,2025,78,65,62,47,53,50,22,103424,146358,470108,wuenic,567,577,37.6,who-cases,72,1.2,2024,2,2024,who-nhwa,60 to 80%,20% or more,10 to 50,Under 10
+Argentina,ARG,032,AMR,2025,80,75,82,46,83,86,20,100846,80565,504231,wuenic,36,,0.8,who-cases,0,50.9,2023,64.9,2023,who-nhwa,60 to 80%,20% or more,Under 1,50 to 100
+Central African Republic,CAF,140,AFR,2025,59,46,44,,38,37,41,97495,99418,237793,wuenic,612,125,111,who-cases,66,1,2024,4.4,2024,who-nhwa,Under 60%,20% or more,50 to 200,Under 10
+Mali,MLI,466,AFR,2025,90,84,68,52,76,71,10,94122,148009,941222,wuenic,251,368,10,who-cases,712,3.2,2024,3.5,2024,who-nhwa,80 to 90%,10 to 20%,10 to 50,Under 10
+Bolivia,BOL,068,AMR,2025,65,59,67,61,75,79,35,89106,47861,254589,wuenic,539,4,42.8,who-cases,0,12.8,2021,16.2,2021,who-nhwa,Under 60%,20% or more,10 to 50,10 to 25
+Benin,BEN,204,AFR,2025,82,69,49,23,72,58,18,84483,83163,469351,wuenic,747,785,50.4,who-cases,0,2.1,2024,6.1,2024,who-nhwa,60 to 80%,10 to 20%,50 to 200,Under 10
+South Sudan,SSD,728,AFR,2025,76,73,72,7,61,65,24,81668,93282,340284,wuenic,138,3114,11.3,who-cases,,1.5,2024,7.1,2024,who-nhwa,60 to 80%,20% or more,10 to 50,Under 10
+United States,USA,840,AMR,2025,98,94,92,95,94,90,2,72973,112641,3648663,wuenic,,,,,,26.5,2022,123.9,2024,who-nhwa,90 to 95%,2 to 5%,,100 or more
+Japan,JPN,392,WPR,2025,91,91,92,95,98,96,9,67242,17268,747129,wuenic,265,45,2.2,who-cases,0,26.5,2022,124.4,2022,who-nhwa,90 to 95%,5 to 10%,1 to 10,100 or more
+Turkey,TUR,792,EUR,2025,94,94,92,91,99,97,6,62715,12780,1045251,wuenic,228,1582,2.6,who-cases,0,23.4,2023,35.3,2023,who-nhwa,90 to 95%,5 to 10%,1 to 10,25 to 50
+Haiti,HTI,332,AMR,2025,78,58,62,48,54,74,22,54589,38036,248133,wuenic,0,0,0,who-cases,62,2.9,2022,7.3,2022,who-nhwa,Under 60%,20% or more,Under 1,Under 10
+United Kingdom,GBR,826,EUR,2025,92,92,89,84,93,91,8,54241,49840,678013,wuenic,1347,3426,19.4,who-cases,15,33.5,2023,95.6,2023,who-nhwa,90 to 95%,5 to 10%,10 to 50,50 to 100
+Niger,NER,562,AFR,2025,95,87,82,80,81,79,5,54155,75526,1083102,wuenic,17686,2362,633.5,who-cases,1592,0.4,2023,4.2,2023,who-nhwa,80 to 90%,5 to 10%,200 or more,Under 10
+Ecuador,ECU,218,AMR,2025,80,77,78,79,85,83,20,53087,43595,265433,wuenic,0,0,0,who-cases,0,23.1,2020,26.3,2020,who-nhwa,60 to 80%,20% or more,Under 1,25 to 50
+Guatemala,GTM,320,AMR,2025,86,77,90,84,88,90,14,52426,15513,374472,wuenic,1,0,0.1,who-cases,0,16.3,2024,22.7,2023,who-nhwa,60 to 80%,10 to 20%,Under 1,10 to 25
+Brazil,BRA,076,AMR,2025,98,86,90,76,70,91,2,50063,583543,2503160,wuenic,38,5,0.2,who-cases,4,25,2024,58.3,2024,who-nhwa,80 to 90%,2 to 5%,Under 1,50 to 100
+Burundi,BDI,108,AFR,2025,89,89,86,80,93,92,11,50037,12995,454882,wuenic,795,2741,55.2,who-cases,,0.8,2024,7.9,2023,who-nhwa,80 to 90%,10 to 20%,50 to 200,Under 10
+Iraq,IRQ,368,EMR,2025,96,84,95,79,84,86,4,46716,77051,1167893,wuenic,143,32494,3,who-cases,8,10.6,2023,25.7,2023,who-nhwa,80 to 90%,2 to 5%,1 to 10,25 to 50
+Cambodia,KHM,116,WPR,2025,87,81,87,73,88,87,13,45344,25994,348798,wuenic,4613,666,258.5,who-cases,3,2.1,2019,10.1,2019,who-nhwa,80 to 90%,10 to 20%,200 or more,10 to 25
+Peru,PER,604,AMR,2025,92,84,84,66,88,85,8,42490,16225,531122,wuenic,5,2,0.1,who-cases,0,16.9,2023,27.4,2023,who-nhwa,80 to 90%,5 to 10%,Under 1,25 to 50
+Azerbaijan,AZE,031,EUR,2025,65,51,71,88,73,78,35,41527,34710,118649,wuenic,10,18584,1,who-cases,0,31.9,2022,55.8,2022,who-nhwa,Under 60%,20% or more,1 to 10,50 to 100
+Colombia,COL,170,AMR,2025,94,92,91,86,94,95,6,41232,35129,687200,wuenic,0,0,0,who-cases,0,25.4,2023,15.7,2024,who-nhwa,90 to 95%,5 to 10%,Under 1,10 to 25
+Laos,LAO,418,WPR,2025,74,67,58,58,66,70,26,40893,48713,157282,wuenic,3855,1,489.6,who-cases,0,3.8,2024,13.6,2024,who-nhwa,60 to 80%,20% or more,200 or more,10 to 25
+Malawi,MWI,454,AFR,2025,94,90,88,68,95,92,6,40104,18227,668399,wuenic,1158,958,52.1,who-cases,0,0.8,2024,5.8,2024,who-nhwa,90 to 95%,5 to 10%,50 to 200,Under 10
+Russia,RUS,643,EUR,2025,97,97,97,95,97,98,3,37125,44698,1237501,wuenic,6627,22455,46,who-cases,0,51.1,2022,70.4,2022,who-nhwa,95% or more,2 to 5%,10 to 50,50 to 100
+Burkina Faso,BFA,854,AFR,2025,95,91,88,65,91,88,5,35492,34309,709846,wuenic,4099,4397,170.3,who-cases,2,1.1,2024,8.2,2024,who-nhwa,90 to 95%,5 to 10%,50 to 200,Under 10
+Zimbabwe,ZWE,716,AFR,2025,93,91,90,78,90,85,7,34099,27626,487124,wuenic,1671,,98.6,who-cases,0,1.9,2024,14.7,2024,who-nhwa,90 to 95%,5 to 10%,50 to 200,10 to 25
+Uganda,UGA,800,AFR,2025,98,97,92,66,93,87,2,33868,62165,1693380,wuenic,12990,2180,252.8,who-cases,10,2.1,2024,23.3,2024,who-nhwa,95% or more,2 to 5%,200 or more,10 to 25
+Senegal,SEN,686,AFR,2025,94,91,92,78,91,86,6,32209,33946,536823,wuenic,127,496,6.7,who-cases,0,1.2,2024,4.3,2024,who-nhwa,90 to 95%,5 to 10%,1 to 10,Under 10
+Canada,CAN,124,AMR,2025,92,92,92,79,91,90,8,28792,33383,359894,wuenic,5072,147,126.4,who-cases,5,28.5,2024,116.2,2024,who-nhwa,90 to 95%,5 to 10%,50 to 200,100 or more
+Honduras,HND,340,AMR,2025,88,86,87,84,90,90,12,27851,18143,232088,wuenic,0,0,0,who-cases,0,19,2023,7.4,2023,who-nhwa,80 to 90%,10 to 20%,Under 1,Under 10
+Zambia,ZMB,894,AFR,2025,96,91,92,79,88,93,4,27477,37518,686937,wuenic,,299,,,,1.6,2024,16.7,2024,who-nhwa,90 to 95%,2 to 5%,,10 to 25
+Romania,ROU,642,EUR,2025,85,66,66,68,88,90,15,26657,23480,177711,wuenic,6837,25505,361.6,who-cases,0,37.1,2023,83.3,2023,who-nhwa,60 to 80%,10 to 20%,200 or more,50 to 100
+Tajikistan,TJK,762,EUR,2025,90,86,80,79,88,83,10,25970,24411,259704,wuenic,2246,0,208.2,who-cases,,18.7,2023,64.5,2023,who-nhwa,80 to 90%,10 to 20%,200 or more,50 to 100
+Australia,AUS,036,WPR,2025,92,92,91,91,95,94,8,24293,15223,303657,wuenic,181,57,6.7,who-cases,26,42.3,2023,144.3,2024,who-nhwa,90 to 95%,5 to 10%,1 to 10,100 or more
+Egypt,EGY,818,EMR,2025,99,98,97,96,95,95,1,24231,94401,2423056,wuenic,107,91,0.9,who-cases,0,11.8,2021,19.5,2021,who-nhwa,95% or more,Under 2%,Under 1,10 to 25
+Paraguay,PRY,600,AMR,2025,82,80,90,69,86,87,18,24106,16509,133924,wuenic,50,0,7.1,who-cases,0,38.9,2022,94.1,2022,who-nhwa,80 to 90%,10 to 20%,1 to 10,50 to 100
+Gabon,GAB,266,AFR,2025,65,62,56,,70,62,35,23629,15295,67510,wuenic,5,32,1.9,who-cases,,5.2,2022,23.7,2022,who-nhwa,60 to 80%,20% or more,1 to 10,10 to 25
+Thailand,THA,764,SEAR,2025,96,92,93,87,97,96,4,22741,6437,568518,wuenic,913,8202,12.7,who-cases,60,5.9,2023,35.7,2023,who-nhwa,90 to 95%,2 to 5%,10 to 50,25 to 50
+Kyrgyzstan,KGZ,417,EUR,2025,85,82,92,94,95,96,15,22193,1702,147953,wuenic,8962,14380,1228.5,who-cases,0,15.5,2024,40.3,2024,who-nhwa,80 to 90%,10 to 20%,200 or more,25 to 50
+Malaysia,MYS,458,WPR,2025,95,95,95,84,98,97,5,21895,4732,437891,wuenic,917,3791,25.5,who-cases,21,22.7,2024,40.3,2024,who-nhwa,95% or more,5 to 10%,10 to 50,25 to 50
+Germany,DEU,276,EUR,2025,97,89,96,92,91,97,3,21190,15533,706323,wuenic,234,645,2.8,who-cases,53,45.9,2023,124,2023,who-nhwa,80 to 90%,2 to 5%,1 to 10,100 or more
+Sierra Leone,SLE,694,AFR,2025,92,91,90,73,95,93,8,19764,11961,247055,wuenic,207,129,23.5,who-cases,0,1.3,2022,11.6,2022,who-nhwa,90 to 95%,5 to 10%,10 to 50,10 to 25
+Italy,ITA,380,EUR,2025,95,95,95,83,96,94,5,19091,16749,381824,wuenic,533,1045,9,who-cases,2,53.1,2023,71,2023,who-nhwa,95% or more,5 to 10%,1 to 10,50 to 100
+Uzbekistan,UZB,860,EUR,2025,98,98,99,99,96,98,2,18035,32227,901747,wuenic,2041,20940,55.1,who-cases,0,23.2,2023,107,2023,who-nhwa,95% or more,2 to 5%,50 to 200,100 or more
+Netherlands,NLD,528,EUR,2025,90,90,88,81,94,94,10,17376,10248,173762,wuenic,539,202,29.4,who-cases,7,38.7,2023,112.3,2023,who-nhwa,90 to 95%,10 to 20%,10 to 50,100 or more
+Liberia,LBR,430,AFR,2025,91,83,82,60,71,68,9,14945,21826,166060,wuenic,769,1053,134.2,who-cases,,1.8,2022,8.4,2024,who-nhwa,80 to 90%,5 to 10%,50 to 200,Under 10
+Togo,TGO,768,AFR,2025,95,90,81,58,88,81,5,14306,18759,286111,wuenic,928,353,108,who-cases,0,0.6,2024,4.1,2024,who-nhwa,90 to 95%,5 to 10%,50 to 200,Under 10
+Congo,COG,178,AFR,2025,93,85,85,63,79,73,7,13358,31576,190828,wuenic,519,483,80,who-cases,,5,2024,13.4,2024,who-nhwa,80 to 90%,5 to 10%,50 to 200,10 to 25
+Vietnam,VNM,704,WPR,2025,99,97,98,95,89,95,1,13110,59432,1310974,wuenic,11567,7854,113.9,who-cases,3,11.1,2021,14.4,2017,who-nhwa,95% or more,Under 2%,50 to 200,10 to 25
+Gambia,GMB,270,AFR,2025,84,82,78,78,88,85,16,12881,5331,80505,wuenic,13,8,4.6,who-cases,0,0.9,2023,6.6,2023,who-nhwa,80 to 90%,10 to 20%,1 to 10,Under 10
+Sri Lanka,LKA,144,SEAR,2025,96,96,97,95,99,99,4,12687,3326,317167,wuenic,2,298,0.1,who-cases,0,11.4,2023,22.6,2023,who-nhwa,95% or more,2 to 5%,Under 1,10 to 25
+Morocco,MAR,504,EMR,2025,98,96,98,98,99,99,2,12230,6511,611498,wuenic,,,,,,7.9,2023,7.2,2024,who-nhwa,95% or more,2 to 5%,,Under 10
+Saudi Arabia,SAU,682,EMR,2025,98,98,99,99,96,95,2,11241,16437,562036,wuenic,826,1260,23.9,who-cases,0,34.1,2023,65.6,2023,who-nhwa,95% or more,2 to 5%,10 to 50,50 to 100
+Iran,IRN,364,EMR,2025,99,98,99,98,99,99,1,11166,12857,1116633,wuenic,1072,449,11.6,who-cases,0,18.1,2023,28.8,2023,who-nhwa,95% or more,Under 2%,10 to 50,25 to 50
+Ukraine,UKR,804,EUR,2025,95,94,96,94,80,93,5,10964,38471,219287,wuenic,1502,433,38.5,who-cases,0,35.3,2023,60.8,2023,who-nhwa,90 to 95%,5 to 10%,10 to 50,50 to 100
+Lebanon,LBN,422,EMR,2025,88,52,67,59,83,82,12,10953,4037,91275,wuenic,15,74,2.6,who-cases,0,26.8,2020,19.2,2018,who-nhwa,Under 60%,10 to 20%,1 to 10,10 to 25
+Nepal,NPL,524,SEAR,2025,98,96,96,92,93,92,2,10838,22929,541903,wuenic,24,113,0.8,who-cases,,10.9,2024,41.6,2024,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Namibia,NAM,516,AFR,2025,86,82,84,67,87,80,14,10760,5860,76858,wuenic,264,15,85.4,who-cases,,5.6,2024,38,2024,who-nhwa,80 to 90%,10 to 20%,50 to 200,25 to 50
+Equatorial Guinea,GNQ,226,AFR,2025,84,78,62,53,62,57,16,8804,11648,55024,wuenic,79,463,40.8,who-cases,,1.5,2022,13.8,2022,who-nhwa,60 to 80%,10 to 20%,10 to 50,10 to 25
+Ghana,GHA,288,AFR,2025,99,99,93,92,97,92,1,8748,25381,874754,wuenic,1794,1944,51.2,who-cases,0,2.9,2024,41.7,2024,who-nhwa,95% or more,Under 2%,50 to 200,25 to 50
+Mauritania,MRT,478,AFR,2025,95,86,93,59,80,75,5,8721,18838,174428,wuenic,102,1107,19.2,who-cases,1273,2.6,2022,16.1,2022,who-nhwa,80 to 90%,5 to 10%,10 to 50,10 to 25
+Algeria,DZA,012,AFR,2025,99,94,96,92,88,80,1,8430,49726,843013,wuenic,2928,488,61.7,who-cases,775,16.6,2022,25.1,2022,who-nhwa,90 to 95%,Under 2%,50 to 200,25 to 50
+Rwanda,RWA,646,AFR,2025,98,95,93,90,98,96,2,7899,3813,394958,wuenic,396,53,27.2,who-cases,,1.8,2024,12.8,2024,who-nhwa,95% or more,2 to 5%,10 to 50,10 to 25
+Spain,ESP,724,EUR,2025,98,93,96,92,95,98,2,6589,7135,329444,wuenic,398,227,8.3,who-cases,3,44.3,2023,62.2,2023,who-nhwa,90 to 95%,2 to 5%,1 to 10,50 to 100
+Lesotho,LSO,426,AFR,2025,88,88,80,70,92,90,12,6373,4458,53112,wuenic,8,2,3.4,who-cases,0,1.8,2024,34,2024,who-nhwa,80 to 90%,10 to 20%,1 to 10,25 to 50
+France,FRA,250,EUR,2025,99,96,96,93,95,92,1,6328,7093,632846,wuenic,873,483,13.1,who-cases,44,40.1,2023,94.2,2021,who-nhwa,95% or more,Under 2%,10 to 50,50 to 100
+Guinea-Bissau,GNB,624,AFR,2025,90,84,69,36,84,83,10,6295,5396,62953,wuenic,0,0,0,who-cases,0,2.5,2024,9.3,2024,who-nhwa,80 to 90%,10 to 20%,Under 1,Under 10
+Dominican Republic,DOM,214,AMR,2025,97,87,95,78,89,96,3,5839,8262,194629,wuenic,0,0,0,who-cases,0,21.2,2024,17.6,2024,who-nhwa,80 to 90%,2 to 5%,Under 1,10 to 25
+Moldova,MDA,498,EUR,2025,82,82,79,91,91,97,18,5535,3502,30750,wuenic,193,216,64.4,who-cases,0,39.3,2023,63.2,2023,who-nhwa,80 to 90%,10 to 20%,50 to 200,50 to 100
+Ireland,IRL,372,EUR,2025,90,90,87,87,94,91,10,5250,3539,52501,wuenic,51,207,9.6,who-cases,0,39.9,2024,154,2024,who-nhwa,90 to 95%,10 to 20%,1 to 10,100 or more
+Nicaragua,NIC,558,AMR,2025,96,96,94,95,99,99,4,5224,1333,130596,wuenic,0,0,0,who-cases,0,9.1,2022,17,2022,who-nhwa,95% or more,2 to 5%,Under 1,10 to 25
+South Korea,KOR,410,WPR,2025,98,97,97,95,98,98,2,4909,5893,245452,wuenic,78,49,1.5,who-cases,0,26.6,2023,98,2024,who-nhwa,95% or more,2 to 5%,1 to 10,50 to 100
+Tunisia,TUN,788,EMR,2025,97,97,96,97,98,98,3,4777,3953,159235,wuenic,7,16,0.6,who-cases,0,12.4,2023,19.2,2023,who-nhwa,95% or more,2 to 5%,Under 1,10 to 25
+Comoros,COM,174,AFR,2025,80,75,70,70,78,76,20,4760,4391,23801,wuenic,2,17,2.3,who-cases,,4.2,2022,16.4,2022,who-nhwa,60 to 80%,20% or more,1 to 10,10 to 25
+New Zealand,NZL,554,WPR,2025,92,88,89,88,92,92,8,4665,3516,58312,wuenic,58,1,11,who-cases,4,37.7,2024,131.2,2024,who-nhwa,80 to 90%,5 to 10%,10 to 50,100 or more
+Serbia,SRB,688,EUR,2025,92,92,73,91,97,87,8,4636,1945,57951,wuenic,204,892,30.5,who-cases,0,32.2,2023,70.2,2023,who-nhwa,90 to 95%,5 to 10%,10 to 50,50 to 100
+Jordan,JOR,400,EMR,2025,98,95,94,90,89,87,2,4593,23442,229656,wuenic,0,14,0,who-cases,0,32.6,2024,33.4,2024,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Eswatini,SWZ,748,AFR,2025,84,84,88,87,90,81,16,4528,1179,28302,wuenic,0,0,0,who-cases,,5.6,2023,42.6,2023,who-nhwa,80 to 90%,10 to 20%,Under 1,25 to 50
+Panama,PAN,591,AMR,2025,94,80,87,85,88,97,6,4259,2205,70984,wuenic,0,0,0,who-cases,0,16.3,2022,33.5,2022,who-nhwa,80 to 90%,5 to 10%,Under 1,25 to 50
+Bosnia and Herzegovina,BIH,070,EUR,2025,83,70,46,54,80,79,17,4107,3135,24161,wuenic,103,7957,32.8,who-cases,0,25.8,2019,67.3,2022,who-nhwa,60 to 80%,10 to 20%,10 to 50,50 to 100
+Austria,AUT,040,EUR,2025,95,88,95,84,84,95,5,3761,7607,75214,wuenic,152,542,16.7,who-cases,3,56.7,2024,109.4,2023,who-nhwa,80 to 90%,5 to 10%,10 to 50,100 or more
+Libya,LBY,434,EMR,2025,97,90,93,85,73,73,3,3574,34469,119145,wuenic,,207,,,0,20.4,2017,63.8,2017,who-nhwa,90 to 95%,2 to 5%,,50 to 100
+Chile,CHL,152,AMR,2025,98,95,95,78,96,95,2,3392,2090,169597,wuenic,1,0,0.1,who-cases,0,34.9,2024,47.2,2024,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Djibouti,DJI,262,EMR,2025,86,83,75,58,85,83,14,3325,2074,23752,wuenic,13,60,11,who-cases,0,2.1,2022,1.9,2022,who-nhwa,80 to 90%,10 to 20%,10 to 50,Under 10
+North Korea,PRK,408,SEAR,2025,99,99,99,99,97,99,1,3310,6893,331049,wuenic,0,0,0,who-cases,,31,2024,44.5,2024,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+East Timor,TLS,626,SEAR,2025,89,83,61,57,83,75,11,3270,2694,29724,wuenic,0,2,0,who-cases,0,7.7,2023,15.2,2023,who-nhwa,80 to 90%,10 to 20%,Under 1,10 to 25
+Poland,POL,616,EUR,2025,99,94,91,83,95,93,1,2966,3810,296576,wuenic,120,272,3.1,who-cases,3,36.5,2023,63.1,2023,who-nhwa,90 to 95%,Under 2%,1 to 10,50 to 100
+Sweden,SWE,752,EUR,2025,97,95,93,94,98,97,3,2906,2269,96854,wuenic,9,38,0.8,who-cases,3,44.7,2022,117.4,2022,who-nhwa,95% or more,2 to 5%,Under 1,100 or more
+Czechia,CZE,203,EUR,2025,97,97,84,84,97,92,3,2603,1118,86773,wuenic,40,35,3.8,who-cases,10,42.4,2023,94.2,2023,who-nhwa,95% or more,2 to 5%,1 to 10,50 to 100
+Switzerland,CHE,756,EUR,2025,97,95,95,92,96,95,3,2448,1703,81602,wuenic,51,97,5.7,who-cases,24,45.6,2023,192,2023,who-nhwa,95% or more,2 to 5%,1 to 10,100 or more
+United Arab Emirates,ARE,784,EMR,2025,98,98,98,92,99,99,2,2271,942,113571,wuenic,234,559,20.6,who-cases,0,29.9,2023,61.6,2023,who-nhwa,95% or more,2 to 5%,10 to 50,50 to 100
+Croatia,HRV,191,EUR,2025,93,91,87,88,94,93,7,2163,1355,30907,wuenic,7,33,1.8,who-cases,0,39.7,2023,80.5,2023,who-nhwa,90 to 95%,5 to 10%,1 to 10,50 to 100
+Suriname,SUR,740,AMR,2025,80,80,67,52,77,64,20,2151,2027,10756,wuenic,0,0,0,who-cases,0,13.1,2024,18.4,2024,who-nhwa,80 to 90%,20% or more,Under 1,10 to 25
+Eritrea,ERI,232,AFR,2025,98,96,93,89,95,93,2,2020,2756,100992,wuenic,27,10,7.5,who-cases,0,0.9,2023,15.2,2023,who-nhwa,95% or more,2 to 5%,1 to 10,10 to 25
+Belgium,BEL,056,EUR,2025,98,98,96,73,97,96,2,2019,1170,100951,wuenic,371,526,31.6,who-cases,18,33.9,2023,122.9,2022,who-nhwa,95% or more,2 to 5%,10 to 50,100 or more
+Slovakia,SVK,703,EUR,2025,96,96,94,93,97,96,4,1979,568,49469,wuenic,4,4,0.7,who-cases,6,37.6,2023,59.7,2023,who-nhwa,95% or more,2 to 5%,Under 1,50 to 100
+Solomon Islands,SLB,090,WPR,2025,91,87,78,66,94,81,9,1969,204,21883,wuenic,0,,0,who-cases,0,2.9,2024,21.3,2024,who-nhwa,80 to 90%,5 to 10%,Under 1,10 to 25
+Mongolia,MNG,496,WPR,2025,97,96,97,95,98,98,3,1829,753,60971,wuenic,13846,12,3936.8,who-cases,0,46,2024,47,2024,who-nhwa,95% or more,2 to 5%,200 or more,25 to 50
+Bulgaria,BGR,100,EUR,2025,97,92,88,82,93,95,3,1804,2448,60135,wuenic,2,27,0.3,who-cases,0,43.9,2023,46.8,2023,who-nhwa,90 to 95%,2 to 5%,Under 1,25 to 50
+North Macedonia,MKD,807,EUR,2025,89,79,63,85,91,75,11,1785,834,16230,wuenic,0,2,0,who-cases,0,29.4,2022,55.2,2022,who-nhwa,60 to 80%,10 to 20%,Under 1,50 to 100
+Denmark,DNK,208,EUR,2025,97,96,94,94,97,96,3,1773,1827,59086,wuenic,12,25,2,who-cases,0,45.3,2023,109.3,2023,who-nhwa,95% or more,2 to 5%,1 to 10,100 or more
+Lithuania,LTU,440,EUR,2025,92,89,86,85,92,93,8,1763,1097,22042,wuenic,11,30,3.9,who-cases,1,46.5,2023,77.9,2023,who-nhwa,80 to 90%,5 to 10%,1 to 10,50 to 100
+Slovenia,SVN,705,EUR,2025,90,90,94,88,95,94,10,1719,384,17189,wuenic,3,17,1.4,who-cases,1,35.1,2023,106.8,2023,who-nhwa,90 to 95%,10 to 20%,1 to 10,100 or more
+Israel,ISR,376,EUR,2025,99,98,98,92,98,99,1,1710,1743,170963,wuenic,,,,,,39.2,2024,62.1,2024,who-nhwa,95% or more,Under 2%,,50 to 100
+Jamaica,JAM,388,AMR,2025,95,95,93,93,96,94,5,1571,1016,31415,wuenic,0,0,0,who-cases,0,10.2,2024,21,2024,who-nhwa,95% or more,5 to 10%,Under 1,10 to 25
+Costa Rica,CRI,188,AMR,2025,97,96,98,92,95,95,3,1511,2517,50358,wuenic,1,0,0.2,who-cases,0,26.9,2022,30.7,2022,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Turkmenistan,TKM,795,EUR,2025,99,98,98,99,99,99,1,1489,1641,148911,wuenic,0,0,0,who-cases,0,19,2024,34.7,2024,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+Estonia,EST,233,EUR,2025,86,85,83,75,91,88,14,1483,984,10591,wuenic,11,4,8.2,who-cases,0,34.9,2023,70.4,2023,who-nhwa,80 to 90%,10 to 20%,1 to 10,50 to 100
+Palestine,PSE,275,EMR,2025,99,99,98,99,99,99,1,1426,1454,142638,wuenic,0,,0,who-cases,0,,,,,,95% or more,Under 2%,Under 1,
+Greece,GRC,300,EUR,2025,98,94,94,83,99,97,2,1360,833,67987,wuenic,4,38,0.4,who-cases,1,67.1,2023,41.3,2023,who-nhwa,90 to 95%,2 to 5%,Under 1,25 to 50
+Georgia,GEO,268,EUR,2025,97,85,86,80,94,99,3,1256,512,41855,wuenic,526,350,138.2,who-cases,0,56.4,2023,56.9,2024,who-nhwa,80 to 90%,2 to 5%,50 to 200,50 to 100
+Belarus,BLR,112,EUR,2025,98,98,98,98,98,98,2,1244,1749,62207,wuenic,63,754,7,who-cases,0,48,2024,107.6,2024,who-nhwa,95% or more,2 to 5%,1 to 10,100 or more
+Botswana,BWA,072,AFR,2025,98,95,83,66,95,97,2,1194,1168,59722,wuenic,3,3,1.2,who-cases,0,4.3,2024,30.2,2024,who-nhwa,95% or more,2 to 5%,1 to 10,25 to 50
+Singapore,SGP,702,WPR,2025,98,97,97,93,97,96,2,995,474,49770,wuenic,,12,,,,26.7,2023,70.9,2023,who-nhwa,95% or more,2 to 5%,,50 to 100
+El Salvador,SLV,222,AMR,2025,99,99,98,71,96,96,1,971,4085,97113,wuenic,1,0,0.2,who-cases,0,16.2,2023,21.8,2022,who-nhwa,95% or more,Under 2%,Under 1,10 to 25
+Cuba,CUB,192,AMR,2025,99,99,99,99,99,99,1,931,1079,93144,wuenic,0,0,0,who-cases,0,85.1,2022,71.9,2022,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Oman,OMN,512,EMR,2025,99,99,99,99,99,99,1,895,859,89502,wuenic,5,13,0.9,who-cases,0,21.4,2024,45.9,2024,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+Finland,FIN,246,EUR,2025,98,92,95,92,91,96,2,877,910,43864,wuenic,1,2,0.2,who-cases,0,28.8,2023,130.2,2023,who-nhwa,90 to 95%,2 to 5%,Under 1,100 or more
+Sao Tome and Principe,STP,678,AFR,2025,87,87,87,87,95,95,13,861,185,6626,wuenic,,,,,,4.6,2022,21.7,2022,who-nhwa,80 to 90%,10 to 20%,,10 to 25
+Portugal,PRT,620,EUR,2025,99,99,98,95,99,99,1,855,850,85496,wuenic,21,35,2,who-cases,0,60.2,2023,80.1,2023,who-nhwa,95% or more,Under 2%,1 to 10,50 to 100
+Hungary,HUN,348,EUR,2025,99,99,99,99,99,99,1,841,910,84098,wuenic,3,18,0.3,who-cases,0,35.9,2023,57.2,2023,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Belize,BLZ,084,AMR,2025,89,83,88,91,98,96,11,821,74,7463,wuenic,44,0,104,who-cases,0,13.4,2021,20.6,2023,who-nhwa,80 to 90%,10 to 20%,50 to 200,10 to 25
+Fiji,FJI,242,WPR,2025,95,94,91,75,97,94,5,811,518,16217,wuenic,0,,0,who-cases,,7.5,2023,21.3,2023,who-nhwa,90 to 95%,5 to 10%,Under 1,10 to 25
+Montenegro,MNE,499,EUR,2025,92,75,13,66,87,37,8,557,432,6958,wuenic,12,35,19,who-cases,0,27.9,2024,59.7,2024,who-nhwa,60 to 80%,5 to 10%,10 to 50,50 to 100
+Albania,ALB,008,EUR,2025,98,96,81,88,99,95,2,545,308,27269,wuenic,20,212,7.2,who-cases,0,18.8,2020,58.2,2020,who-nhwa,95% or more,2 to 5%,1 to 10,50 to 100
+Norway,NOR,578,EUR,2025,99,96,96,95,97,97,1,529,542,52900,wuenic,4,10,0.7,who-cases,2,49.8,2023,160.4,2023,who-nhwa,95% or more,Under 2%,Under 1,100 or more
+Kuwait,KWT,414,EMR,2025,99,95,99,98,92,97,1,485,528,48493,wuenic,2,7,0.4,who-cases,0,29.7,2022,67.1,2022,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Cape Verde,CPV,132,AFR,2025,93,93,95,86,96,98,7,442,291,6313,wuenic,0,0,0,who-cases,0,7.3,2023,18,2023,who-nhwa,90 to 95%,5 to 10%,Under 1,10 to 25
+Armenia,ARM,051,EUR,2025,99,97,96,95,92,95,1,347,1419,34667,wuenic,45,561,15.2,who-cases,0,33.6,2022,47.5,2022,who-nhwa,95% or more,Under 2%,10 to 50,25 to 50
+Mauritius,MUS,480,AFR,2025,97,96,97,93,96,99,3,339,386,11295,wuenic,0,0,0,who-cases,0,30.2,2023,35,2023,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Uruguay,URY,858,AMR,2025,99,96,98,95,94,96,1,328,368,32829,wuenic,13,0,3.8,who-cases,0,45.5,2023,76.3,2023,who-nhwa,95% or more,Under 2%,1 to 10,50 to 100
+Qatar,QAT,634,EMR,2025,99,96,99,99,98,99,1,298,278,29789,wuenic,26,55,8.3,who-cases,0,31.4,2024,86.1,2024,who-nhwa,95% or more,Under 2%,1 to 10,50 to 100
+Barbados,BRB,052,AMR,2025,91,85,89,85,90,92,9,278,255,3092,wuenic,0,0,0,who-cases,0,24,2023,41.4,2023,who-nhwa,80 to 90%,5 to 10%,Under 1,25 to 50
+Vanuatu,VUT,548,WPR,2025,97,77,74,40,90,80,3,270,354,9009,wuenic,0,0,0,who-cases,0,1.6,2019,14.6,2019,who-nhwa,60 to 80%,2 to 5%,Under 1,10 to 25
+Saint Lucia,LCA,662,AMR,2025,90,84,86,78,92,96,10,196,21,1962,wuenic,0,0,0,who-cases,0,42.3,2020,53.4,2023,who-nhwa,80 to 90%,10 to 20%,Under 1,50 to 100
+Bahrain,BHR,048,EMR,2025,99,98,99,99,99,99,1,195,197,19514,wuenic,7,2,4.3,who-cases,0,7.4,2020,26.5,2020,who-nhwa,95% or more,Under 2%,1 to 10,25 to 50
+Guyana,GUY,328,AMR,2025,99,99,99,97,99,98,1,160,173,16042,wuenic,0,0,0,who-cases,0,12.5,2023,48.4,2024,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+Trinidad and Tobago,TTO,780,AMR,2025,99,97,93,96,93,99,1,154,1240,15353,wuenic,0,0,0,who-cases,0,41.6,2021,41.1,2023,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+Cyprus,CYP,196,EUR,2025,99,98,91,98,96,86,1,139,141,13922,wuenic,24,28,17.5,who-cases,0,38.1,2023,39.8,2023,who-nhwa,95% or more,Under 2%,10 to 50,25 to 50
+Latvia,LVA,428,EUR,2025,99,99,99,90,99,99,1,137,188,13675,wuenic,1,0,0.5,who-cases,1,33.5,2023,43.6,2023,who-nhwa,95% or more,Under 2%,Under 1,25 to 50
+Micronesia (country),FSM,583,WPR,2025,95,73,81,60,78,78,5,124,74,2476,wuenic,,,,,,9.7,2020,22.2,2019,who-nhwa,60 to 80%,5 to 10%,,10 to 25
+Kiribati,KIR,296,WPR,2025,97,87,84,47,97,94,3,98,100,3266,wuenic,0,0,0,who-cases,0,4.7,2023,39,2023,who-nhwa,80 to 90%,2 to 5%,Under 1,25 to 50
+Bhutan,BTN,064,SEAR,2025,99,99,98,99,97,97,1,97,93,9680,wuenic,0,0,0,who-cases,0,5.5,2022,20.5,2022,who-nhwa,95% or more,Under 2%,Under 1,10 to 25
+Grenada,GRD,308,AMR,2025,93,93,83,67,94,94,7,91,86,1306,wuenic,0,0,0,who-cases,0,13.8,2018,45.8,2023,who-nhwa,90 to 95%,5 to 10%,Under 1,25 to 50
+Iceland,ISL,352,EUR,2025,98,90,94,93,93,93,2,87,220,4363,wuenic,0,2,0,who-cases,0,45.8,2024,160.8,2024,who-nhwa,90 to 95%,2 to 5%,Under 1,100 or more
+Tonga,TON,776,WPR,2025,97,94,95,98,99,99,3,70,25,2348,wuenic,0,0,0,who-cases,0,10.1,2021,42,2021,who-nhwa,90 to 95%,2 to 5%,Under 1,25 to 50
+Luxembourg,LUX,442,EUR,2025,99,99,99,94,99,96,1,69,61,6931,wuenic,1,3,1.5,who-cases,2,29.8,2017,137.2,2023,who-nhwa,95% or more,Under 2%,1 to 10,100 or more
+Brunei,BRN,096,WPR,2025,99,99,99,99,99,97,1,60,64,6022,wuenic,0,0,0,who-cases,0,21.8,2024,65,2024,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Maldives,MDV,462,SEAR,2025,99,99,99,99,98,99,1,54,122,5383,wuenic,0,2,0,who-cases,0,23,2021,59.6,2021,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Samoa,WSM,882,WPR,2025,99,84,76,76,68,96,1,53,174,5341,wuenic,0,0,0,who-cases,0,5.6,2021,30.6,2020,who-nhwa,80 to 90%,Under 2%,Under 1,25 to 50
+Bahamas,BHS,044,AMR,2025,99,85,91,65,89,83,1,43,392,4261,wuenic,0,0,0,who-cases,0,19,2017,42.2,2023,who-nhwa,80 to 90%,Under 2%,Under 1,25 to 50
+Malta,MLT,470,EUR,2025,99,99,92,89,98,96,1,42,84,4215,wuenic,0,10,0,who-cases,0,47.2,2023,82.6,2023,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Dominica,DMA,212,AMR,2025,95,90,80,74,99,92,5,35,8,697,wuenic,0,0,0,who-cases,0,11.6,2018,67.6,2018,who-nhwa,90 to 95%,5 to 10%,Under 1,50 to 100
+San Marino,SMR,674,EUR,2025,89,88,85,85,88,86,11,21,21,194,wuenic,0,2,0,who-cases,0,44.1,2024,97,2024,who-nhwa,80 to 90%,10 to 20%,Under 1,50 to 100
+Seychelles,SYC,690,AFR,2025,99,98,98,97,99,99,1,18,18,1757,wuenic,0,2,0,who-cases,0,16.3,2024,62,2024,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Marshall Islands,MHL,584,WPR,2025,98,85,88,61,79,85,2,14,41,701,wuenic,0,0,0,who-cases,0,11.4,2021,48.1,2021,who-nhwa,80 to 90%,2 to 5%,Under 1,25 to 50
+Nauru,NRU,520,WPR,2025,95,66,71,51,96,95,5,14,3,284,wuenic,,0,,,,12.7,2015,73,2018,who-nhwa,60 to 80%,5 to 10%,,50 to 100
+Saint Vincent and the Grenadines,VCT,670,AMR,2025,99,99,99,99,97,99,1,12,14,1166,wuenic,0,0,0,who-cases,0,19,2024,80.2,2023,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Andorra,AND,020,EUR,2025,98,98,99,96,99,99,2,11,5,565,wuenic,0,0,0,who-cases,0,51.2,2024,49.5,2024,who-nhwa,95% or more,2 to 5%,Under 1,25 to 50
+Antigua and Barbuda,ATG,028,AMR,2025,99,99,97,82,99,97,1,11,10,1084,wuenic,0,0,0,who-cases,0,43.2,2024,50.8,2024,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Saint Kitts and Nevis,KNA,659,AMR,2025,99,95,93,93,97,97,1,5,18,532,wuenic,0,0,0,who-cases,0,30.9,2018,65.8,2023,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Monaco,MCO,492,EUR,2025,99,99,88,80,99,88,1,4,4,368,wuenic,,2,,,,86.1,2020,208.3,2014,who-nhwa,95% or more,Under 2%,,100 or more
+Palau,PLW,585,WPR,2025,99,96,94,78,97,97,1,2,2,183,wuenic,0,0,0,who-cases,0,18.1,2023,66.1,2023,who-nhwa,95% or more,Under 2%,Under 1,50 to 100
+Tuvalu,TUV,798,WPR,2025,99,99,97,95,92,96,1,2,3,198,wuenic,,,,,,17.7,2024,41.7,2024,who-nhwa,95% or more,Under 2%,,25 to 50
+Cook Islands,COK,184,WPR,2025,99,95,96,98,98,99,1,1,2,144,wuenic,,,,,,19.7,2024,97.8,2024,who-nhwa,95% or more,Under 2%,,50 to 100
+Niue,NIU,570,WPR,2025,95,95,99,99,99,99,5,1,0,26,wuenic,0,,0,who-cases,0,22.2,2024,83.3,2024,who-nhwa,95% or more,5 to 10%,Under 1,50 to 100

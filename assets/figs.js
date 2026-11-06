@@ -243,4 +243,62 @@ export const FIGS = {
       };
     },
   },
+  vaccines: {
+    files: ["world"], title: "Children who got no vaccines at all, millions",
+    source: "WHO/UNICEF Estimates of National Immunization Coverage, 2025 revision",
+    draw([rows], w, h) {
+      rows = rows.filter((r) => r.year >= 2000 && r.zero_dose_m != null).sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const low = rows.filter((r) => r.year < 2020).reduce((p, r) => (r.zero_dose_m < p.zero_dose_m ? r : p));
+      const peak = rows.filter((r) => r.year > low.year).reduce((p, r) => (r.zero_dose_m > p.zero_dose_m ? r : p));
+      const x = fx(a.year, z.year, 0, w), y = fx(0, 25, base, 4);
+      const pts = rows.map((r) => [x(r.year), y(r.zero_dose_m)]);
+      const xl = x(low.year), xp = x(peak.year);
+      return {
+        label: `Zero-dose children worldwide: ${num(a.zero_dose_m, 1)} million in ${a.year}, ${num(low.zero_dose_m, 1)} million in ${low.year}, ${num(peak.zero_dose_m, 1)} million in ${peak.year} and ${num(z.zero_dose_m, 1)} million in ${z.year}.`,
+        svg: `<path d="${pathOf(pts)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
+          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, pts[0][1] - 8, `${num(a.zero_dose_m, 1)}m in ${a.year}`)
+          + Ln(xl, y(low.zero_dose_m) + 4, xl, base - 22, "lead") + T(xl, base - 10, `${num(low.zero_dose_m, 1)}m in ${low.year}`, "", "middle")
+          + T(xp, y(peak.zero_dose_m) - 10, `${num(peak.zero_dose_m, 1)}m in ${peak.year}`, "", "middle")
+          + T(w, y(z.zero_dose_m) - 24, `${num(z.zero_dose_m, 1)}m in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
+  energy: {
+    files: ["countries"], title: "People without electricity, 2024, millions",
+    source: "World Bank, World Development Indicators (Tracking SDG 7)", height: 244,
+    draw([rows], w) {
+      const r = rows.filter((c) => c.no_electricity_m != null).sort((a, b) => b.no_electricity_m - a.no_electricity_m).slice(0, 8);
+      const x = fx(0, r[0].no_electricity_m, 0, w), row = 30;
+      return {
+        label: `The most people without electricity in 2024: ${r.map((c) => `${c.country} ${num(c.no_electricity_m, 1)} million`).join(", ")}.`,
+        svg: r.map((c, i) => {
+          const top = i * row;
+          return T(0, top + 12, c.country, i ? "" : "k") + T(w, top + 12, `${num(c.no_electricity_m, 0)}m`, "n", "end")
+            + `<rect x="0" y="${top + 17}" width="${x(c.no_electricity_m).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
+        }).join(""),
+      };
+    },
+  },
+  medicines: {
+    files: ["us_years"], title: "New US drug shortages each year, and those still ongoing at the year's end",
+    source: "US Food and Drug Administration, annual reports to Congress on drug shortages",
+    draw([rows], w, h) {
+      rows = [...rows].sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const y = fx(0, 260, base, 6), bw = w / rows.length, cx = (i) => i * bw + bw / 2;
+      const on = rows.map((r, i) => [r, i]).filter(([r]) => r.ongoing_end_year != null);
+      return {
+        label: `New US drug shortages: ${num(a.new_shortages)} in ${a.year}, ${num(z.new_shortages)} in ${z.year}. Shortages still ongoing at the end of ${z.year}: ${num(z.ongoing_end_year)}.`,
+        svg: columns(rows.map((r) => r.new_shortages), w, y, base, (_, i) => (i === 0 || i === rows.length - 1 ? "var(--em-accent)" : MUTE))
+          + `<path d="${pathOf(on.map(([r, i]) => [cx(i), y(r.ongoing_end_year)]))}" fill="none" stroke="var(--em-fg)" stroke-width="1.6" stroke-dasharray="4 3" stroke-linejoin="round"/>`
+          + T(bw + 6, 14, `${num(a.new_shortages)} new in ${a.year}`, "k")
+          + T(w, y(z.ongoing_end_year) - 10, `${num(z.ongoing_end_year)} still ongoing at the end of ${z.year} (dashed)`, "", "end")
+          + T(w, base - 8, `${num(z.new_shortages)} new in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
 };

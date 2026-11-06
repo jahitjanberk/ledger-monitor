@@ -1,0 +1,8 @@
+code,region,year,dtp1,dtp3,mcv1,mcv2,zero_dose_m,zero_dose_2019_m,surviving_infants_m,coverage_source,measles_per_m,measles_cases,cases_source,doctors_per_10k,nurses_per_10k,workforce_year,workforce_source
+AFR,Africa,2025,83,76,71,58,6.63,6.1,39.7,wuenic,140.6,179400,who-cases,3.1,13.3,2024,who-nhwa
+AMR,Americas,2025,92,86,88,78,1.07,1.47,13.09,wuenic,17.6,12380,who-cases,27,71,2024,who-nhwa
+EMR,Eastern Mediterranean,2025,88,81,81,76,2.38,2.05,19.39,wuenic,106.1,83590,who-cases,13.4,16.7,2024,who-nhwa
+EUR,Europe,2025,94,91,92,89,0.57,0.45,9.44,wuenic,41.5,38686,who-cases,40,80.2,2024,who-nhwa
+SEAR,South-East Asia,2025,96,94,96,93,1.18,1.55,28.68,wuenic,10.3,19075,who-cases,9.5,25.3,2024,who-nhwa
+WPR,Western Pacific,2025,91,89,89,86,1.65,1.18,18.89,wuenic,35.7,78782,who-cases,23.1,47.1,2024,who-nhwa
+GLOBAL,World,2025,90,85,84,77,13.47,12.8,129.2,wuenic,53.1,411913,who-cases,18.3,40.5,2024,who-nhwa

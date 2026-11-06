@@ -1,0 +1,103 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from FDA, EMA and NHSBSA.",
+  "records": [
+    {
+      "id": "prevented",
+      "label": "US drug shortages FDA helped prevent, 2025",
+      "value": 330,
+      "unit": "shortages",
+      "note": "279 tracked by CDER, 51 by CBER",
+      "source": "fda-rtc-2025"
+    },
+    {
+      "id": "new2025",
+      "label": "New US drug shortages, 2025",
+      "value": 4,
+      "unit": "shortages",
+      "note": "Against a peak of 251 in 2011",
+      "source": "fda-rtc-2025"
+    },
+    {
+      "id": "ongoing2025",
+      "label": "Ongoing US drug shortages at the end of 2025",
+      "value": 93,
+      "unit": "shortages",
+      "note": "71 tracked by CDER (medicines), 22 by CBER (vaccines, blood and other biological products)",
+      "source": "fda-rtc-2025"
+    },
+    {
+      "id": "ongoingcder",
+      "label": "Ongoing CDER-tracked shortages at the end of 2025",
+      "value": 71,
+      "unit": "shortages",
+      "note": "",
+      "source": "fda-rtc-2025"
+    },
+    {
+      "id": "notices",
+      "label": "Warnings of possible shortages manufacturers sent FDA, 2025",
+      "value": 1424,
+      "unit": "notifications",
+      "note": "From 167 manufacturers",
+      "source": "fda-rtc-2025"
+    },
+    {
+      "id": "sites",
+      "label": "Manufacturing sites making medicines for the US market, end of FY2025",
+      "value": 5953,
+      "unit": "sites",
+      "note": "57% in the US, including 1,698 US medical gas sites",
+      "source": "fda-sopq"
+    },
+    {
+      "id": "sitesus",
+      "label": "Share of those sites in the US",
+      "value": 57,
+      "unit": "%",
+      "note": "",
+      "source": "fda-sopq"
+    },
+    {
+      "id": "inspections",
+      "label": "FDA drug quality inspections, FY2025",
+      "value": 1248,
+      "unit": "inspections",
+      "note": "702 in the US, 546 abroad",
+      "source": "fda-sopq"
+    },
+    {
+      "id": "eucritical",
+      "label": "Active substances on the EU's list of critical medicines",
+      "value": 299,
+      "unit": "substances",
+      "note": "Version 2.1, revision 2",
+      "source": "ema-ulcm"
+    },
+    {
+      "id": "euongoing",
+      "label": "Shortages EMA is following that are still ongoing",
+      "value": 28,
+      "unit": "shortages",
+      "note": "Of 85 in its catalogue",
+      "source": "ema-shortages"
+    },
+    {
+      "id": "sspactive",
+      "label": "Serious Shortage Protocols in force in the UK",
+      "value": 7,
+      "unit": "protocols",
+      "note": "The latest reference is SSP089",
+      "source": "nhsbsa-ssp"
+    },
+    {
+      "id": "sspmax",
+      "label": "Serious Shortage Protocols issued since they began in 2019",
+      "value": 89,
+      "unit": "protocols",
+      "note": "Highest reference number listed",
+      "source": "nhsbsa-ssp"
+    }
+  ]
+}

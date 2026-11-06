@@ -29,6 +29,9 @@ const accent = (d) => `--c-light:${DASH[d].light};--c-dark:${DASH[d].dark}`;
 const KEYED = [
   ["electricity", "countries"], ["air", "countries"], ["food", "countries"], ["debt", "countries"],
   ["heat", "countries"], ["water", "stress"], ["water", "drinking"], ["water", "resources"],
+  ["vaccines", "countries"],
+  ["energy", "countries"],
+  ["medicines", "countries"],
 ];
 const C = new Map(); // iso3 -> { iso3, n3, name }
 const byN3 = new Map(), byName = new Map();
@@ -70,7 +73,13 @@ const big = (v) => (v >= 1e9 ? `${nf(v / 1e9, 1)} billion` : v >= 1e6 ? `${nf(v 
 const ord = (n) => { const s = ["th", "st", "nd", "rd"], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
 const signed = (v, d) => `${v > 0 ? "+" : v < 0 ? "−" : ""}${nf(Math.abs(v), d)}`;
 const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-const when = (y) => (/^\d{4}-\d{2}$/.test(String(y)) ? `${MON[+String(y).slice(5) - 1]} ${String(y).slice(0, 4)}` : String(y ?? ""));
+// "2026-06" reads as Jun 2026; Eurostat half-years ("2026-S1") as H1 2026.
+const when = (y) => {
+  const s = String(y ?? "");
+  if (/^\d{4}-\d{2}$/.test(s)) return `${MON[+s.slice(5) - 1]} ${s.slice(0, 4)}`;
+  const h = s.match(/^(\d{4})-S([12])$/);
+  return h ? `H${h[2]} ${h[1]}` : s;
+};
 
 /* ---------- The figures on each profile ----------
    Each metric reads one value per country from a table. `get` returns the value, `year`
@@ -132,8 +141,37 @@ const METRICS = [
     M({ id: "housing", label: "Median home price, in years of median household income", get: (r) => r.median_multiple, year: () => "2025", src: (r) => r.source,
       note: (r) => r.median_multiple_prev != null && `${nf(r.median_multiple_prev, 1)} a year earlier; 3.0 or less counts as affordable` }),
   ] },
+  { dash: "vaccines", section: "map", table: ["vaccines", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "zero_dose", label: "Children who got no vaccines (no first DTP dose)", dec: 0, fmt: (v) => nf(v), get: (r) => r.zero_dose, year: (r) => r.year, src: (r) => r.coverage_source,
+      note: (r) => r.zero_dose_pct != null && `${nf(r.zero_dose_pct)}% of infants` }),
+    M({ id: "dtp3", label: "Infants with three doses of DTP vaccine", unit: "%", dec: 0, get: (r) => r.dtp3, year: (r) => r.year, src: (r) => r.coverage_source,
+      note: (r) => r.dtp3_2019 != null && `${nf(r.dtp3_2019)}% in 2019` }),
+    M({ id: "mcv1", label: "Children with a first measles dose", unit: "%", dec: 0, get: (r) => r.mcv1, year: (r) => r.year, src: (r) => r.coverage_source }),
+    M({ id: "mcv2", label: "Children with a second measles dose", unit: "%", dec: 0, get: (r) => r.mcv2, year: (r) => r.year, src: (r) => r.coverage_source }),
+    M({ id: "measles", label: "Reported measles cases per million people", get: (r) => r.measles_per_m, year: (r) => r.year, src: (r) => r.measles_source,
+      note: (r) => r.measles_cases != null && `${nf(r.measles_cases)} cases` }),
+    M({ id: "nurses", label: "Nurses and midwives per 10,000 people", get: (r) => r.nurses_per_10k, year: (r) => r.nurses_year, src: (r) => r.workforce_source }),
+    M({ id: "doctors", label: "Medical doctors per 10,000 people", get: (r) => r.doctors_per_10k, year: (r) => r.doctors_year, src: (r) => r.workforce_source }),
+  ] },
+  { dash: "energy", section: "map", table: ["energy", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "elec_access", label: "People with electricity", unit: "%", get: (r) => r.electricity_pct, year: (r) => r.electricity_year, src: (r) => r.electricity_source,
+      note: (r) => r.no_electricity_m >= 0.01 && `${nf(r.no_electricity_m, 2)} million people without` }),
+    M({ id: "clean_cooking", label: "People with clean cooking fuels and technologies", unit: "%", dec: 0, get: (r) => r.cooking_pct, year: (r) => r.cooking_year, src: (r) => r.cooking_source,
+      note: (r) => r.no_cooking_m >= 0.01 && `${nf(r.no_cooking_m, 2)} million people without` }),
+    M({ id: "cold_home", label: "People who can't afford to keep their home warm", unit: "%", get: (r) => r.cold_home_pct, year: (r) => r.cold_home_year, src: (r) => r.cold_home_source,
+      note: (r) => r.cold_home_poor_pct != null && `${nf(r.cold_home_poor_pct, 1)}% of people at risk of poverty` }),
+    M({ id: "utility_arrears", label: "People behind on utility bills", unit: "%", get: (r) => r.arrears_pct, year: (r) => r.arrears_year, src: (r) => r.arrears_source }),
+    M({ id: "elec_price", label: "Household electricity price, all taxes included", unit: "euro cents per kWh", get: (r) => (r.elec_price_eur != null ? r.elec_price_eur * 100 : null), year: (r) => r.price_period, src: (r) => r.elec_price_source }),
+    M({ id: "gas_price", label: "Household gas price, all taxes included", unit: "euro cents per kWh", get: (r) => (r.gas_price_eur != null ? r.gas_price_eur * 100 : null), year: (r) => r.price_period, src: (r) => r.gas_price_source }),
+  ] },
+  { dash: "medicines", section: "map", table: ["medicines", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "pharma_exports", label: "Pharmaceutical exports (HS 30)", unit: "US$ billion", dec: 2, get: (r) => r.exports_bn, year: (r) => r.year, src: (r) => r.trade_source,
+      note: (r) => r.exports_share_pct != null && `${nf(r.exports_share_pct, 1)}% of exports reported worldwide` }),
+    M({ id: "pharma_imports", label: "Pharmaceutical imports (HS 30)", unit: "US$ billion", dec: 2, get: (r) => r.imports_bn, year: (r) => r.year, src: (r) => r.trade_source }),
+    M({ id: "abx_exports", label: "Antibiotic ingredient exports (HS 2941)", unit: "US$ million", dec: 1, get: (r) => r.abx_exports_m, year: (r) => r.year, src: (r) => r.trade_source }),
+  ] },
 ];
-const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams" };
+const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines" };
 
 // Values for every country, then ranks.
 const VAL = new Map(); // iso3 -> metric id -> { v, under, y, s, dash, row }

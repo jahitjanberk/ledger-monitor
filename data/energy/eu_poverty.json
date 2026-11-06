@@ -1,0 +1,106 @@
+{
+  "id": "eu_poverty",
+  "title": "EU energy poverty indicators, yearly",
+  "description": "EU 27 share of people unable to keep their home adequately warm and in arrears on utility bills, all households and those at risk of poverty, 2015 to 2025 (Eurostat EU-SILC).",
+  "records": [
+    {
+      "year": 2015,
+      "cold_home_pct": 9.6,
+      "cold_home_poor_pct": 23.3,
+      "arrears_pct": 9.4,
+      "arrears_poor_pct": 21.9,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2016,
+      "cold_home_pct": 9,
+      "cold_home_poor_pct": 21.8,
+      "arrears_pct": 8.4,
+      "arrears_poor_pct": 19.4,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2017,
+      "cold_home_pct": 8.1,
+      "cold_home_poor_pct": 19.3,
+      "arrears_pct": 7.3,
+      "arrears_poor_pct": 17.4,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2018,
+      "cold_home_pct": 7.6,
+      "cold_home_poor_pct": 19,
+      "arrears_pct": 6.8,
+      "arrears_poor_pct": 16.3,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2019,
+      "cold_home_pct": 6.9,
+      "cold_home_poor_pct": 18.2,
+      "arrears_pct": 6.2,
+      "arrears_poor_pct": 15,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2020,
+      "cold_home_pct": 7.5,
+      "cold_home_poor_pct": 18.2,
+      "arrears_pct": 6.5,
+      "arrears_poor_pct": 16.1,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2021,
+      "cold_home_pct": 6.9,
+      "cold_home_poor_pct": 16.4,
+      "arrears_pct": 6.4,
+      "arrears_poor_pct": 16,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2022,
+      "cold_home_pct": 9.3,
+      "cold_home_poor_pct": 20.1,
+      "arrears_pct": 6.9,
+      "arrears_poor_pct": 15.7,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2023,
+      "cold_home_pct": 10.6,
+      "cold_home_poor_pct": 22.1,
+      "arrears_pct": 6.9,
+      "arrears_poor_pct": 16,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2024,
+      "cold_home_pct": 9.2,
+      "cold_home_poor_pct": 19.7,
+      "arrears_pct": 6.9,
+      "arrears_poor_pct": 16.5,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    },
+    {
+      "year": 2025,
+      "cold_home_pct": 8.8,
+      "cold_home_poor_pct": 19.6,
+      "arrears_pct": 7,
+      "arrears_poor_pct": 16.8,
+      "cold_source": "es-warm",
+      "arrears_source": "es-arrears"
+    }
+  ]
+}

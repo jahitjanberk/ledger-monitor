@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+cooking,Under 5%,,5,% of people without clean cooking,wb-cook
+cooking,5 to 25%,5,25,% of people without clean cooking,wb-cook
+cooking,25 to 50%,25,50,% of people without clean cooking,wb-cook
+cooking,50 to 75%,50,75,% of people without clean cooking,wb-cook
+cooking,75% or more,75,,% of people without clean cooking,wb-cook
+electricity,Under 1%,,1,% of people without electricity,wb-elec
+electricity,1 to 10%,1,10,% of people without electricity,wb-elec
+electricity,10 to 25%,10,25,% of people without electricity,wb-elec
+electricity,25 to 50%,25,50,% of people without electricity,wb-elec
+electricity,50% or more,50,,% of people without electricity,wb-elec
+warm,Under 3%,,3,% of people who can't keep their home warm,es-warm
+warm,3 to 6%,3,6,% of people who can't keep their home warm,es-warm
+warm,6 to 10%,6,10,% of people who can't keep their home warm,es-warm
+warm,10 to 20%,10,20,% of people who can't keep their home warm,es-warm
+warm,20% or more,20,,% of people who can't keep their home warm,es-warm

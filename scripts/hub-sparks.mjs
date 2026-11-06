@@ -125,6 +125,27 @@ const SPARKS = {
     return fig(hline(5, max, "var(--muted)", "WHO guideline: 5 µg/m³") + area(v, max, ACC) + line(v, max, ACC),
       `World population-weighted PM2.5 from ${v[0]} µg/m³ in ${p[0].year} to ${v.at(-1)} in ${p.at(-1).year}, against a WHO guideline of 5`, `World average PM2.5; dashed line: WHO guideline`, `${p[0].year}–${p.at(-1).year}`);
   },
+  vaccines() {
+    const p = rec("vaccines/world.json").filter((r) => r.year >= 2000 && r.zero_dose_m != null).sort((a, b) => a.year - b.year);
+    const v = p.map((r) => r.zero_dose_m), max = 25;
+    return fig(area(v, max, ACC) + line(v, max, ACC),
+      `Children who got no vaccines, worldwide, from ${v[0].toFixed(1)} million in ${p[0].year} to ${v.at(-1).toFixed(1)} million in ${p.at(-1).year}`, `Zero-dose children worldwide, millions`, `${p[0].year}–${p.at(-1).year}`);
+  },
+  energy() {
+    const g = rec("energy/regions.json").filter((r) => r.code === "WLD").sort((a, b) => a.year - b.year);
+    const e = g.map((r) => r.electricity_pct), c = g.map((r) => r.cooking_pct), a = g[0], z = g.at(-1);
+    return fig(hline(100, 100, "var(--muted)", "Everyone") + line(c, 100, MUTED) + area(e, 100, ACC) + line(e, 100, ACC),
+      `World access to electricity from ${a.electricity_pct}% in ${a.year} to ${z.electricity_pct}% in ${z.year}; clean cooking from ${a.cooking_pct}% to ${z.cooking_pct}%`, `Share of people with electricity; grey: clean cooking`, `${a.year}–${z.year}`);
+  },
+  medicines() {
+    const p = rec("medicines/uk_concessions.json").sort((a, b) => a.month.localeCompare(b.month));
+    const v = p.map((r) => r.concessions), max = 300;
+    const fmt = (m) => new Date(m + "-01").toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+    const peak = p.reduce((a, b) => (b.concessions >= a.concessions ? b : a));
+    return fig(area(v, max, ACC) + line(v, max, ACC),
+      `Price concessions granted in England each month, from ${v[0]} in ${fmt(p[0].month)} to ${v.at(-1)} in ${fmt(p.at(-1).month)}, peaking at ${peak.concessions} in ${fmt(peak.month)}`,
+      `Price concessions in England, per month`, `${p[0].month.slice(0, 4)}–${p.at(-1).month.slice(0, 4)}`);
+  },
 };
 
 const file = path.join(ROOT, "index.html");

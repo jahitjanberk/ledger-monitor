@@ -1,0 +1,17 @@
+id,label,value,unit,note,source
+noelec,People without electricity,655,million,Global access rate stalled at 92% in 2024,sdg7-2026
+noelec_ssa,People without electricity in sub-Saharan Africa,560,million,More than 560 million,sdg7-2026
+rural_ssa,"People without electricity in rural sub-Saharan Africa, 2024",447,million,Up from 376 million in 2010,sdg7-2026
+nocook,People who cook with polluting fuels and technologies,2,billion,Roughly a quarter of the world's population,sdg7-2026
+nocook_ssa,People without clean cooking in sub-Saharan Africa,970,million,Expected to reach one billion by 2027,sdg7-2026
+nocook_2030,People who could still rely on polluting cooking fuels by 2030,1.8,billion,"Charcoal, wood, kerosene and coal",sdg7-2026
+cook_urban,Urban population with clean cooking,89,%,Against 56% in rural areas,sdg7-2026
+hap_deaths,Deaths a year from household air pollution,3,million,Some 3 million,sdg7-2026
+pace,Yearly gain in electricity access needed to reach everyone by 2030,1.3,percentage points,About triple the current pace,sdg7-2026
+cap,"Typical dual fuel bill under the price cap, direct debit, 1 October to 31 December 2026",1723,pounds a year,"Up 4% from £1,663 in July to September",ofgem-letter
+cap_wholesale,Share of the October to December 2026 direct debit cap made up of wholesale costs,47,%,44% the quarter before,ofgem-letter
+cap_vat,"VAT on electricity bills, 1 October 2026 to 31 March 2027",0,%,Cut from 5%; gas stays at 5%,ofgem-letter
+fp2025,"Households in fuel poverty in England, 2025 (provisional)",2.36,million,"9.4% of households, down from 9.9% in 2024",desnz-report
+fp2026,"Households projected to be in fuel poverty in England, 2026",2.13,million,"8.4%, a projection made before the conflict in the Middle East",desnz-report
+ten_pct,"Households in England needing to spend more than 10% of income after housing costs on energy, 2025",7.63,million,"30.4% of households, down from 34.4% in 2024",desnz-report
+low_income_share,"Median required energy costs as a share of after-housing-costs income, low income households in England, 2025",14.9,%,6.8% for all households,desnz-report

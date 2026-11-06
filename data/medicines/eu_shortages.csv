@@ -1,0 +1,86 @@
+medicine,substance,status,therapeutic_area,alternatives,started,expected_resolution,first_published,last_updated,url,source
+Emend,,Shortage ongoing,,,2026-11-06,,2026-11-06,,https://www.ema.europa.eu/en/medicines/human/shortages/emend-0,ema-shortages
+Human normal immunoglobulins,human normal immunoglobulins,Shortage ongoing,Primary Immunodeficiency Diseases;Immunologic Deficiency Syndromes,Yes,,March 2027,2024-06-03,2026-09-22,https://www.ema.europa.eu/en/medicines/human/shortages/human-normal-immunoglobulins,ema-shortages
+Dynastat,parecoxib,Shortage resolved,,,,,2025-04-14,2026-09-18,https://www.ema.europa.eu/en/medicines/human/shortages/dynastat,ema-shortages
+NexoBrid,concentrate of proteolytic enzymes enriched in bromelain,Shortage resolved,Debridement,No,,,2026-05-06,2026-09-18,https://www.ema.europa.eu/en/medicines/human/shortages/nexobrid,ema-shortages
+Eskazole / Zentel,albendazole,Shortage ongoing,Parasitic Diseases;Protozoan Infections;Helminthiasis,Yes,,2028,2026-09-09,,https://www.ema.europa.eu/en/medicines/human/shortages/eskazole-zentel,ema-shortages
+Natpar,parathyroid hormone,Medicine discontinued,Hypoparathyroidism,Yes,,,2022-05-02,2026-09-09,https://www.ema.europa.eu/en/medicines/human/shortages/natpar,ema-shortages
+Visudyne,verteporfin,Shortage ongoing,"Myopia, Degenerative;Macular Degeneration",Yes,2020-05-01,2027,2021-11-08,2026-09-04,https://www.ema.europa.eu/en/medicines/human/shortages/visudyne,ema-shortages
+Saxenda,liraglutide,Shortage resolved,Obesity;Overweight,,,,2023-08-24,2026-09-02,https://www.ema.europa.eu/en/medicines/human/shortages/saxenda,ema-shortages
+Brevibloc,esmolol,Shortage ongoing,"Tachycardia, Supraventricular;Hypertension",Yes,,End of 2027,2026-09-02,,https://www.ema.europa.eu/en/medicines/human/shortages/brevibloc,ema-shortages
+Paliperidone palmitate,,Shortage ongoing,Schizophrenia,Yes,,,2026-08-27,,https://www.ema.europa.eu/en/medicines/human/shortages/paliperidone-palmitate,ema-shortages
+Azactam,aztreonam,Shortage ongoing,Bacterial Infections,Yes,,,2026-07-10,,https://www.ema.europa.eu/en/medicines/human/shortages/azactam,ema-shortages
+Tegsedi,inotersen,Shortage ongoing,,Yes,,,2026-07-03,,https://www.ema.europa.eu/en/medicines/human/shortages/tegsedi,ema-shortages
+Mycobutin (rifabutin),,Shortage ongoing,Tuberculosis;Acquired Immunodeficiency Syndrome,"Yes, in some Member States",,Expected to resolve by November 2026,2026-06-30,,https://www.ema.europa.eu/en/medicines/human/shortages/mycobutin-rifabutin,ema-shortages
+Topamax,topiramate,Shortage ongoing,Epilepsy;Migraine Disorders,Yes,,End of 2026,2026-06-29,,https://www.ema.europa.eu/en/medicines/human/shortages/topamax,ema-shortages
+Salbutamol inhalation products,salbutamol,Shortage resolved,"Asthma;Pulmonary Disease, Chronic Obstructive",,,,2024-06-05,2026-06-12,https://www.ema.europa.eu/en/medicines/human/shortages/salbutamol-inhalation-products,ema-shortages
+Biltricide,praziquantel,Medicine discontinued,Trematode Infections,Yes,2025-08-26,,2025-08-26,2026-06-03,https://www.ema.europa.eu/en/medicines/human/shortages/biltricide,ema-shortages
+Insuman Basal and Comb 25,insulin human,Medicine discontinued,Diabetes Mellitus,Yes,,,2015-12-01,2026-06-03,https://www.ema.europa.eu/en/medicines/human/shortages/insuman-basal-comb-25,ema-shortages
+Integrilin,eptifibatide,Medicine discontinued,"Angina, Unstable;Myocardial Infarction",Yes,,,2024-01-17,2026-06-03,https://www.ema.europa.eu/en/medicines/human/shortages/integrilin,ema-shortages
+Mimpara,cinacalcet,Medicine discontinued,Hypercalcemia;Parathyroid Neoplasms;Hyperparathyroidism,Yes,,,2025-04-07,2026-06-03,https://www.ema.europa.eu/en/medicines/human/shortages/mimpara,ema-shortages
+Champix,varenicline,Shortage resolved,Tobacco Use Cessation,Yes,,June 2025,2021-07-08,2026-05-28,https://www.ema.europa.eu/en/medicines/human/shortages/champix,ema-shortages
+"NovoNordisk insulin (human insulin) (various short-, rapid-, intermediate-, mixed- and long-acting forms)",,Shortage resolved,,Yes,,,2025-10-31,2026-05-27,https://www.ema.europa.eu/en/medicines/human/shortages/novonordisk-insulin-human-insulin-various-short-rapid-intermediate-mixed-long-acting-forms,ema-shortages
+Quetiapine,,Shortage ongoing,Schizophrenia;Bipolar Disorder;Depressive Disorder,Yes,2025-03-11,Within the second quarter of 2027,2025-03-11,2026-05-04,https://www.ema.europa.eu/en/medicines/human/shortages/quetiapine,ema-shortages
+Methotrexate,methotrexate,Shortage resolved,"Cancer;Neoplasms;Arthritis, Rheumatoid;Arthritis;Psoriasis;Crohn Disease",Yes,,,2023-08-09,2026-04-24,https://www.ema.europa.eu/en/medicines/human/shortages/methotrexate,ema-shortages
+Hycamtin,topotecan,Shortage resolved,Ovarian Neoplasms;Uterine Cervical Neoplasms;Small Cell Lung Carcinoma,Yes,,,2023-11-07,2026-04-24,https://www.ema.europa.eu/en/medicines/human/shortages/hycamtin,ema-shortages
+Menopur,menotropin,Shortage resolved,Infertility,Yes,,End of 2025,2023-04-05,2026-04-24,https://www.ema.europa.eu/en/medicines/human/shortages/menopur,ema-shortages
+Perfusion solutions,,Shortage resolved,"Perfusion;Infusions, Intravenous;Therapeutic Irrigation",Yes,,End of 2025,2025-06-12,2026-04-24,https://www.ema.europa.eu/en/medicines/human/shortages/perfusion-solutions,ema-shortages
+Moventig,,Shortage resolved,,Yes,,,2025-08-18,2026-04-21,https://www.ema.europa.eu/en/medicines/human/shortages/moventig,ema-shortages
+Creon,pancreas powder;pancrelipase,Shortage ongoing,Pancreatic Diseases,Yes,,First half of 2027,2024-04-29,2026-04-14,https://www.ema.europa.eu/en/medicines/human/shortages/creon,ema-shortages
+Eli Lilly insulin (various forms),,Shortage ongoing,,Yes,,,2026-03-23,,https://www.ema.europa.eu/en/medicines/human/shortages/eli-lilly-insulin-various-forms,ema-shortages
+Ifosfamide,ifosfamide,Shortage ongoing,Cancer,Unknown,2026-02-12,Expected to continue until Q1 2027.,2026-02-13,2026-03-03,https://www.ema.europa.eu/en/medicines/human/shortages/ifosfamide,ema-shortages
+Cyclophosphamide,cyclophosphamide,Shortage ongoing,Cancer,Unknown,2026-02-24,Expected to continue until Q1 2027.,2026-02-24,2026-03-03,https://www.ema.europa.eu/en/medicines/human/shortages/cyclophosphamide,ema-shortages
+Trulicity,dulaglutide,Shortage resolved,"Diabetes Mellitus, Type 2",Yes,,End of 2025,2023-08-28,2026-02-17,https://www.ema.europa.eu/en/medicines/human/shortages/trulicity,ema-shortages
+Norditropin FlexPro / Norditropin NordiFlex,somatropin,Shortage resolved,"Dwarfism, Pituitary",Yes,,Resolved - 22 December 2025,2023-12-05,2026-02-11,https://www.ema.europa.eu/en/medicines/human/shortages/norditropin-flexpro-norditropin-nordiflex,ema-shortages
+Tresiba,insulin degludec,Shortage resolved,Diabetes Mellitus,Yes,,,2023-08-24,2026-02-09,https://www.ema.europa.eu/en/medicines/human/shortages/tresiba,ema-shortages
+Fludarabine,fludarabine,Shortage ongoing,Leukemia,Unknown,,The shortage is expected to last until December 2025.,2024-03-11,2026-01-22,https://www.ema.europa.eu/en/medicines/human/shortages/fludarabine,ema-shortages
+Ozempic,semaglutide,Shortage resolved,"Diabetes Mellitus, Type 2",Yes,,,2022-10-19,2026-01-13,https://www.ema.europa.eu/en/medicines/human/shortages/ozempic,ema-shortages
+Fiasp PumpCart (insulin aspart),insulin aspart,Shortage ongoing,,Yes,2025-05-08,,2025-05-12,2025-12-18,https://www.ema.europa.eu/en/medicines/human/shortages/fiasp-pumpcart-insulin-aspart,ema-shortages
+NovoRapid PumpCart (insulin aspart),insulin aspart,Shortage ongoing,,Yes,2025-05-08,,2025-05-12,2025-12-18,https://www.ema.europa.eu/en/medicines/human/shortages/novorapid-pumpcart-insulin-aspart,ema-shortages
+Insulin lispro Sanofi,insulin lispro,Shortage ongoing,,Yes,,The expected duration of the shortage is unknown.,2025-12-08,,https://www.ema.europa.eu/en/medicines/human/shortages/insulin-lispro-sanofi,ema-shortages
+ADHD medicines,atomoxetine;methylphenidate;lisdexamfetamine,Shortage ongoing,Attention Deficit Disorder with Hyperactivity,Yes,,"Depending on the medicine and the EEA country, the shortage may continue until the end of 2025.",2023-12-18,2025-11-20,https://www.ema.europa.eu/en/medicines/human/shortages/adhd-medicines,ema-shortages
+Risperidone,risperidone,Shortage ongoing,Schizophrenia,Yes,,Risperdal Consta - by the end of 2025; Risperidone Teva and Sperizak - to continue until the end of 2026 or beginning of 2027,2025-11-19,,https://www.ema.europa.eu/en/medicines/human/shortages/risperidone,ema-shortages
+Bronchitol,mannitol,Shortage ongoing,,Yes,,,2025-11-14,,https://www.ema.europa.eu/en/medicines/human/shortages/bronchitol,ema-shortages
+Beriglobin,human normal immunoglobulin,Shortage ongoing,Primary Immunodeficiency Diseases;Immunologic Deficiency Syndromes;Hepatitis A;Mucositis,Depending on indication,,,2025-11-11,,https://www.ema.europa.eu/en/medicines/human/shortages/beriglobin,ema-shortages
+Eldisine,vindesine,Shortage ongoing,"Leukemia, Promyelocytic, Acute",Yes,,End of September 2025,2024-02-23,2025-11-03,https://www.ema.europa.eu/en/medicines/human/shortages/eldisine,ema-shortages
+Cyanokit,hydroxocobalamin,Shortage resolved,Poisoning,,,,2024-12-19,2025-10-30,https://www.ema.europa.eu/en/medicines/human/shortages/cyanokit,ema-shortages
+Pazenir,paclitaxel,Shortage resolved,Breast Neoplasms,,,,2023-01-26,2025-10-20,https://www.ema.europa.eu/en/medicines/human/shortages/pazenir,ema-shortages
+Fasturtec,rasburicase,Shortage resolved,Hyperuricemia,,2023-03-31,,2023-02-21,2025-10-16,https://www.ema.europa.eu/en/medicines/human/shortages/fasturtec,ema-shortages
+Ixiaro,"Japanese encephalitis vaccine (inactivated, adsorbed)",Shortage resolved,"Encephalitis, Japanese;Immunization",,,,2023-05-25,2025-10-16,https://www.ema.europa.eu/en/medicines/human/shortages/ixiaro,ema-shortages
+Ecalta,anidulafungin,Shortage resolved,Candidiasis,,2024-07-01,,2025-01-17,2025-09-25,https://www.ema.europa.eu/en/medicines/human/shortages/ecalta,ema-shortages
+Victoza,liraglutide,Shortage ongoing,"Diabetes Mellitus, Type 2",Yes,,,2023-08-03,2025-09-05,https://www.ema.europa.eu/en/medicines/human/shortages/victoza,ema-shortages
+Zypadhera,olanzapine,Shortage ongoing,Schizophrenia,Yes,,October 2025,2024-07-09,2025-08-27,https://www.ema.europa.eu/en/medicines/human/shortages/zypadhera,ema-shortages
+Amoxicillin and amoxicillin/clavulanic acid,amoxicillin;clavulanic acid,Shortage resolved,Bacterial Infections,Yes,2022-10-01,,2023-01-27,2025-06-17,https://www.ema.europa.eu/en/medicines/human/shortages/amoxicillin-amoxicillin-clavulanic-acid,ema-shortages
+NovoSeven (eptacog alfa),eptacog alfa (activated),Shortage ongoing,,Unknown,,December 2025,2025-05-12,2025-06-05,https://www.ema.europa.eu/en/medicines/human/shortages/novoseven-eptacog-alfa,ema-shortages
+Pegasys,peginterferon alfa-2a,Shortage resolved,"Hepatitis C, Chronic;Hepatitis B, Chronic;Polycythemia Vera;Thrombocythemia, Essential",,,,2024-10-30,2025-06-05,https://www.ema.europa.eu/en/medicines/human/shortages/pegasys,ema-shortages
+Zirabev,bevacizumab,Shortage resolved,"Colorectal Neoplasms;Breast Neoplasms;Carcinoma, Non-Small-Cell Lung;Carcinoma, Renal Cell;Uterine Cervical Neoplasms",,,,2025-01-17,2025-04-10,https://www.ema.europa.eu/en/medicines/human/shortages/zirabev,ema-shortages
+RoActemra,tocilizumab,Shortage resolved,"Arthritis, Rheumatoid;Arthritis, Juvenile Rheumatoid;Cytokine Release Syndrome;Giant Cell Arteritis;COVID-19 virus infection",Yes,,,2021-09-03,2025-04-01,https://www.ema.europa.eu/en/medicines/human/shortages/roactemra,ema-shortages
+Fluorouracil,fluorouracil,Shortage resolved,Cancer;Neoplasms,,,2025,2024-08-06,,https://www.ema.europa.eu/en/medicines/human/shortages/fluorouracil,ema-shortages
+Cisplatin,cisplatin,Shortage resolved,Cancer;Neoplasms,Yes,,,2024-08-06,,https://www.ema.europa.eu/en/medicines/human/shortages/cisplatin,ema-shortages
+Rybelsus,semaglutide,Shortage resolved,"Diabetes Mellitus, Type 2",Yes,,,2023-07-11,2024-01-22,https://www.ema.europa.eu/en/medicines/human/shortages/rybelsus,ema-shortages
+Abraxane,paclitaxel,Shortage resolved,"Breast Neoplasms;Pancreatic Neoplasms;Carcinoma, Non-Small-Cell Lung",Yes,,,2023-05-11,2023-12-18,https://www.ema.europa.eu/en/medicines/human/shortages/abraxane,ema-shortages
+Nulojix,belatacept,Shortage resolved,Graft Rejection;Kidney Transplantation,,,,2017-03-17,2023-10-03,https://www.ema.europa.eu/en/medicines/human/shortages/nulojix,ema-shortages
+Kevzara,sarilumab,Shortage resolved,"Arthritis, Rheumatoid",Yes,,,2021-11-09,2023-09-14,https://www.ema.europa.eu/en/medicines/human/shortages/kevzara,ema-shortages
+"Insuman Rapid, Basal and Comb 25 (insulin human)",insulin human,Shortage ongoing,Diabetes Mellitus,,,,2023-01-24,2023-07-19,https://www.ema.europa.eu/en/medicines/human/shortages/insuman-rapid-basal-comb-25-insulin-human,ema-shortages
+Metalyse,tenecteplase,Shortage resolved,Myocardial Infarction,Yes,,,2022-09-23,2023-05-11,https://www.ema.europa.eu/en/medicines/human/shortages/metalyse,ema-shortages
+Actilyse and Actilyse Cathflo,alteplase,Shortage resolved,Myocardial Infarction,Yes,,,2022-09-23,2023-05-11,https://www.ema.europa.eu/en/medicines/human/shortages/actilyse-actilyse-cathflo,ema-shortages
+Zerbaxa,ceftolozane;tazobactam,Shortage resolved,Bacterial Infections,Yes,,,2020-12-22,2023-04-14,https://www.ema.europa.eu/en/medicines/human/shortages/zerbaxa,ema-shortages
+Cetrotide,cetrorelix acetate,Shortage resolved,Ovulation;Ovulation Induction,Yes,,,2022-08-10,2023-02-15,https://www.ema.europa.eu/en/medicines/human/shortages/cetrotide,ema-shortages
+Orgalutran,ganirelix,Shortage resolved,"Reproductive Techniques, Assisted;Ovulation Induction;Infertility, Female",Yes,,,2017-02-16,2022-11-08,https://www.ema.europa.eu/en/medicines/human/shortages/orgalutran,ema-shortages
+Vfend,voriconazole,Shortage resolved,Candidiasis;Mycoses;Aspergillosis,Yes,,,2021-04-16,2021-06-30,https://www.ema.europa.eu/en/medicines/human/shortages/vfend,ema-shortages
+Respreeza,alpha1-proteinase inhibitor (human),Shortage resolved,"Genetic Diseases, Inborn;Lung Diseases",Yes,,,2021-04-06,2021-05-06,https://www.ema.europa.eu/en/medicines/human/shortages/respreeza-0,ema-shortages
+Respreeza,alpha1-proteinase inhibitor (human),Shortage resolved,"Genetic Diseases, Inborn;Lung Diseases",Yes,,,2021-02-25,2021-03-31,https://www.ema.europa.eu/en/medicines/human/shortages/respreeza,ema-shortages
+Nucala,mepolizumab,Shortage resolved,Asthma,Yes,,,2021-01-28,2021-03-01,https://www.ema.europa.eu/en/medicines/human/shortages/nucala,ema-shortages
+Cinryze,C1 inhibitor (human),Shortage resolved,"Angioedemas, Hereditary",Yes,,,2018-08-06,2020-06-25,https://www.ema.europa.eu/en/medicines/human/shortages/cinryze,ema-shortages
+Tygacil,tigecycline,Shortage resolved,"Bacterial Infections;Skin Diseases, Bacterial;Soft Tissue Infections",Yes,,,2015-05-22,2019-11-07,https://www.ema.europa.eu/en/medicines/human/shortages/tygacil,ema-shortages
+Cerezyme,imiglucerase,Shortage resolved,Gaucher Disease,No,,,2013-11-04,2018-10-01,https://www.ema.europa.eu/en/medicines/human/shortages/cerezyme,ema-shortages
+Trisenox,arsenic trioxide,Shortage resolved,"Leukemia, Promyelocytic, Acute",Yes,,,2017-07-31,2018-09-06,https://www.ema.europa.eu/en/medicines/human/shortages/trisenox,ema-shortages
+Arixtra,fondaparinux sodium,Shortage resolved,"Venous Thrombosis;Pulmonary Embolism;Myocardial Infarction;Angina, Unstable",Yes,,,2017-07-07,2018-03-21,https://www.ema.europa.eu/en/medicines/human/shortages/arixtra,ema-shortages
+Inductos,dibotermin alfa,Shortage resolved,"Tibial Fractures;Fracture Fixation, Internal;Spinal Fusion",Yes,,,2015-09-16,2017-08-15,https://www.ema.europa.eu/en/medicines/human/shortages/inductos,ema-shortages
+Taxotere,docetaxel,Shortage resolved,"Head and Neck Neoplasms;Carcinoma, Non-Small-Cell Lung;Adenocarcinoma;Prostatic Neoplasms;Stomach Neoplasms;Breast Neoplasms",Yes,,,2016-05-19,2016-09-19,https://www.ema.europa.eu/en/medicines/human/shortages/taxotere,ema-shortages
+Fabrazyme,agalsidase beta,Shortage resolved,Fabry Disease,No,,,2013-11-04,2016-06-07,https://www.ema.europa.eu/en/medicines/human/shortages/fabrazyme,ema-shortages
+"Insuman Rapid, Basal and Comb",insulin human,Shortage resolved,Diabetes Mellitus,Yes,,,2015-03-31,2015-09-25,https://www.ema.europa.eu/en/medicines/human/shortages/insuman-rapid-basal-comb,ema-shortages
+Xofigo,radium Ra223 dichloride,Shortage resolved,Prostatic Neoplasms,No,,,2014-10-17,2015-04-30,https://www.ema.europa.eu/en/medicines/human/shortages/xofigo,ema-shortages
+Buccolam,midazolam,Shortage resolved,Epilepsy,Not stated,,,2014-04-25,2015-03-30,https://www.ema.europa.eu/en/medicines/human/shortages/buccolam,ema-shortages
+Enbrel,etanercept,Shortage resolved,"Spondylitis, Ankylosing;Arthritis, Juvenile Rheumatoid;Arthritis, Psoriatic;Psoriasis;Arthritis, Rheumatoid",No,,,2014-02-19,2014-05-07,https://www.ema.europa.eu/en/medicines/human/shortages/enbrel,ema-shortages
+Increlex,mecasermin,Shortage resolved,Laron Syndrome,No,,,2013-12-20,,https://www.ema.europa.eu/en/medicines/human/shortages/increlex,ema-shortages

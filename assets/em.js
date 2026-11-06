@@ -32,6 +32,9 @@ const SECTION_DATA = {
   orbit: { glance: ["facts"], map: ["launchers"], years: ["yearly"], orbits: ["orbits", "leo"], junk: ["leo", "facts"], orgs: ["launchers"], table: ["launchers"] },
   scams: { glance: ["global", "estimates"], map: ["reported", "surveys"], trend: ["trend"], how: ["reported", "global"], gap: ["response", "estimates"], us: ["us_detail"], table: ["reported", "fx"] },
   water: { glance: ["facts"], map: ["stress", "bands"], regions: ["regions", "trend"], drinking: ["drinking", "ladder", "income"], hidden: ["resources", "facts"], compute: ["facts"], table: ["stress", "sectors"] },
+  vaccines: { glance: ["world", "facts"], map: ["countries", "bands", "regions"], zero: ["world", "countries", "regions", "facts"], measles: ["world", "countries", "facts"], workforce: ["regions", "countries", "facts"], uk: ["uk_cover", "uk_nations", "uk_measles", "countries", "facts"], table: ["countries"] },
+  energy: { glance: ["facts", "eu_poverty"], map: ["countries", "bands"], access: ["countries", "regions", "facts"], prices: ["countries", "eu_prices"], warm: ["countries", "eu_poverty"], uk: ["uk_cap", "uk_fuel_poverty", "uk_fpeer", "facts"], table: ["countries"] },
+medicines: { glance: ["shortages", "us_years", "uk_concessions"], map: ["countries", "bands"], shortages: ["us_years", "shortages", "categories"], causes: ["reasons", "api_sites", "countries", "facts"], europe: ["eu_critical", "eu_shortages", "facts"], uk: ["uk_concessions", "uk_ssp", "countries"], table: ["countries"] },
 };
 
 const DASHBOARDS = {
@@ -47,6 +50,9 @@ const DASHBOARDS = {
   heat: { title: "Extreme Heat", blurb: "How hot the world is getting, and what heat costs in lives and work." },
   minerals: { title: "Critical Minerals", blurb: "Where battery and electronics minerals are mined and refined, and who controls them." },
   debt: { title: "Debt vs Public Services", blurb: "What governments pay in interest, against what they spend on health and education." },
+  vaccines: { title: "Vaccination & Health Workers", blurb: "Which children get vaccinated, where measles is spreading, and where nurses and doctors are scarce." },
+  energy: { title: "Household Energy Prices & Poverty", blurb: "Who lacks electricity or clean cooking, what households pay, and who can't keep warm." },
+medicines: { title: "Medicine Shortages & Supply", blurb: "Which medicines are running short and for how long, and where medicines are made." },
 };
 // Three other dashboards per page, picked for overlapping subjects where there is one.
 const MORE = {
@@ -62,6 +68,9 @@ const MORE = {
   heat: ["food", "air", "electricity"],
   minerals: ["chokepoints", "electricity", "internet"],
   scams: ["housing", "internet", "chokepoints"],
+  vaccines: ["debt", "food", "water"],
+  energy: ["electricity", "air", "heat"],
+medicines: ["minerals", "chokepoints", "debt"],
 };
 
 const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
@@ -135,6 +144,24 @@ const LIMITS = {
     "Several countries report the same value for several years, so change over time can look flatter than it is.",
     "Data centre water figures cover the United States only.",
   ],
+  vaccines: [
+    "Coverage figures are WHO and UNICEF estimates built from countries' own reports and surveys. Each year's release revises the whole series, and fewer surveys were submitted this round, so recent years may change.",
+    "Zero-dose means no first dose of DTP vaccine by the first birthday. A child who missed DTP but had another vaccine still counts as zero-dose.",
+    "Measles cases are what countries confirmed and reported, not estimates of every case; 12 countries, including the United States, have no 2025 figure.",
+    "Health worker figures are each country's latest report, mostly 2023 or 2024, and count people in the workforce, not where they work or how many hours.",
+  ],
+  energy: [
+    "Access figures for 2024 are partly modelled where countries have no recent household survey, and people without access are our calculation from population.",
+    "Household prices and cold-home figures cover only European countries; there is no open, comparable price series for the rest of the world.",
+    "Cold homes and arrears are what people say in a survey, not measured temperatures or bills. The UK left the EU survey, so its latest Eurostat figures are from 2018 and are not shown.",
+    "The British price cap is the most a supplier can charge a typical customer on a default tariff, not what every household pays. Fuel poverty figures cover England only, and 2025 is provisional.",
+  ],
+medicines: [
+  "US shortages are those in the FDA's database of medicines it tracks; vaccines and blood products, and shortages that FDA does not list, are left out. Each shortage is a generic name, which can cover several strengths and makers.",
+  "How long a shortage has lasted counts from when it was first posted, so a shortage that eased and came back counts as one long one.",
+  "Trade is measured by value as each country reports it. Countries where multinationals book sales or route goods, such as Switzerland, Ireland and Belgium, look bigger than their factories, and Taiwan is missing.",
+  "Price concessions in England show medicines pharmacies could not buy at the NHS price. They are a sign of supply problems, not a count of shortages.",
+],
 };
 
 const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);

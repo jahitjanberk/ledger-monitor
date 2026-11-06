@@ -1,0 +1,60 @@
+{
+  "sources": {
+    "wuenic": {
+      "publisher": "World Health Organization and UNICEF",
+      "title": "WHO/UNICEF Estimates of National Immunization Coverage (WUENIC), 2025 revision (via the WHO Immunization Data portal)",
+      "url": "https://immunizationdata.who.int/global?topic=Vaccination-coverage",
+      "published": "2026-07-15",
+      "method": "reference",
+      "notes": "Coverage among surviving infants, %, by country, region and year, 1980 to 2025 (coverage-data.xlsx and the WUENIC country-profile input file wuenic-input-to-pdf.xlsx). Each revision re-estimates the whole series, so earlier years can differ from earlier releases. Zero-dose children are surviving infants who did not get a first dose of DTP vaccine: for countries, (100 − DTP1 coverage) × surviving infants from the UN World Population Prospects 2024, as given in the WUENIC file; for regions and the world, the number in the target cohort minus those vaccinated, as published. WHO datasets: CC BY 4.0 with WHO's additional terms."
+    },
+    "wuenic-release": {
+      "publisher": "UNICEF and World Health Organization",
+      "title": "Global childhood immunization coverage inches forward despite conflict and hesitancy: joint news release",
+      "url": "https://www.unicef.org/press-releases/global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy",
+      "published": "2026-07-15",
+      "method": "reference",
+      "notes": "Headline findings of the 2025 WUENIC release, quoted as published."
+    },
+    "who-cases": {
+      "publisher": "World Health Organization",
+      "title": "Reported cases and incidence of vaccine-preventable diseases (WHO Immunization Data portal)",
+      "url": "https://immunizationdata.who.int/global?topic=Reported-cases-and-incidence",
+      "published": "2026-06-11",
+      "method": "reference",
+      "notes": "Confirmed measles and diphtheria cases as reported by national authorities through the WHO/UNICEF Joint Reporting Form, and measles incidence per million people, 1980 to 2025 (reported-cases-data.xlsx and incidence-rate-data.xlsx, created 11 June 2026). Countries that did not report a year have no figure for it. Reported cases undercount true cases, by more where surveillance is weak. CC BY 4.0 with WHO's additional terms."
+    },
+    "who-nhwa": {
+      "publisher": "World Health Organization",
+      "title": "National Health Workforce Accounts, December 2025 update (via the Global Health Observatory, HWF_0001 and HWF_0006)",
+      "url": "https://www.who.int/data/gho/data/themes/topics/health-workforce",
+      "published": "2026-01-23",
+      "method": "reference",
+      "notes": "Medical doctors, and nursing and midwifery personnel, per 10,000 people, by country (latest year reported, mostly 2023 or 2024) and for WHO regions and the world (2024). Figures are as countries report them to the NHWA portal; some values were updated on 11 March 2026. CC BY 4.0 with WHO's additional terms."
+    },
+    "sown-2025": {
+      "publisher": "World Health Organization",
+      "title": "State of the World's Nursing 2025: news release, Nursing workforce grows, but inequities threaten global health goals",
+      "url": "https://www.who.int/news/item/11-05-2025-nursing-workforce-grows--but-inequities-threaten-global-health-goals",
+      "published": "2025-05-12",
+      "method": "reference",
+      "notes": "Based on data reported by 194 countries, for 2023. Figures quoted as published."
+    },
+    "ukhsa-cover": {
+      "publisher": "UK Health Security Agency",
+      "title": "Vaccination coverage statistics for children aged up to 5 years, England (COVER programme): April 2025 to March 2026, annual data tables",
+      "url": "https://www.gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-april-2025-to-march-2026",
+      "published": "2026-08-27",
+      "method": "reference",
+      "notes": "Tables 3, 11 and 13: coverage at 5 years by UK nation for 2025 to 2026; England coverage at 5 years since 2009 to 2010; MMR at 24 months in England since 1988 to 1989. Financial years run April to March. The file was corrected on 13 October 2026 (24-month figures for County Durham; no change to the series used here). Official statistics, Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

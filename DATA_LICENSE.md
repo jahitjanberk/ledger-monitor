@@ -30,6 +30,18 @@ Take particular care with these:
 | IEA Global Critical Minerals Outlook 2025 and 2026 (refining shares) | Minerals | [CC BY 4.0](https://www.iea.org/terms/creative-commons-cc-licenses): our tables are a work derived from IEA material and are not endorsed by the IEA |
 | OECD Inventory of Export Restrictions on Critical Raw Materials | Minerals | CC BY 4.0 |
 | GeoNames (city coordinates) | Housing, Internet | CC BY 4.0 |
+| WHO Immunization Data portal (WUENIC coverage, reported cases and incidence) and WHO Global Health Observatory (National Health Workforce Accounts) | Vaccines | [CC BY 4.0 with WHO's additional terms](https://data.who.int/redirect-pages/footer/learn-more/terms-and-conditions): credit WHO (and UNICEF for WUENIC); do not suggest that WHO endorses the use |
+| UN World Population Prospects 2024 (surviving infants, as given in the WUENIC file) | Vaccines | CC BY 3.0 IGO, credit the UN Population Division |
+| UKHSA COVER vaccination coverage statistics | Vaccines | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+| Eurostat household energy prices (nrg_pc_204, nrg_pc_202) and EU-SILC (ilc_mdes01, ilc_mdes07) | Energy | [Eurostat copyright notice](https://ec.europa.eu/eurostat/about-us/policies/copyright): CC BY 4.0, credit Eurostat |
+| World Bank WDI (access to electricity and clean cooking, population) | Energy | CC BY 4.0, credit the World Bank and WHO |
+| Tracking SDG 7: The Energy Progress Report 2026 (headline figures quoted from the joint WHO news release) | Energy | The report is [CC BY-NC 3.0 IGO](https://creativecommons.org/licenses/by-nc/3.0/igo/): **non-commercial**. We quote individual figures only, with a link |
+| Ofgem price cap model and summary letter; DESNZ fuel poverty statistics; GOV.UK Energy Price Guarantee page | Energy | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+| UN Comtrade (pharmaceutical and antibiotic trade, HS 30 and HS 2941) | Medicines | **Not openly licensed.** UN Comtrade's usage policy restricts redistribution; it exempts small numbers of records and free public visualisation, which is how we use it. Ask comtrade@un.org before reusing the trade table in bulk or commercially. This overrides the CC BY 4.0 shown for the Medicines table `countries` |
+| Community Pharmacy England price concession lists | Medicines | © Community Pharmacy England. We publish only monthly counts derived from the lists, with a link |
+| openFDA drug shortages; FDA reports to Congress and Report on the State of Pharmaceutical Quality | Medicines | US public domain ([openFDA licence](https://open.fda.gov/license/): CC0) |
+| EMA shortages catalogue and Union list of critical medicines | Medicines | [EMA's terms](https://www.ema.europa.eu/en/about-us/legal-notice): reproduction authorised with acknowledgement of the source |
+| NHSBSA Serious Shortage Protocols | Medicines | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 | Natural Earth (country shapes) | Every map | Public domain |
 
 Individual figures quoted from reports and news articles, such as a single total or percentage, are cited with a link to the original.

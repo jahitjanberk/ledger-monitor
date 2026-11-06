@@ -1,0 +1,153 @@
+country,iso3,iso_n3,year,exports_bn,imports_bn,net_bn,exports_share_pct,imports_share_pct,exports_2025_bn,imports_2025_bn,abx_exports_m,abx_imports_m,abx_share_pct,abx_exports_2025_m,trade_source,exports_band,net_band,abx_band
+Germany,DEU,276,2024,124.87,78.97,45.9,14.42,8.83,134.09,85.44,104,335.5,1.04,119.7,comtrade,$50bn or more,Exports exceed imports by $10bn+,$100m to $1bn
+Switzerland,CHE,756,2024,109.04,66.93,42.11,12.6,7.48,120.46,78.97,856.6,162,8.56,860,comtrade,$50bn or more,Exports exceed imports by $10bn+,$100m to $1bn
+United States,USA,840,2024,94.39,212.67,-118.28,10.9,23.78,97.82,213.82,736.5,715.7,7.36,536.8,comtrade,$50bn or more,Imports exceed exports by $5bn+,$100m to $1bn
+Ireland,IRL,372,2024,89.81,16.62,73.2,10.37,1.86,94.86,25.26,63.8,84.1,0.64,69.9,comtrade,$50bn or more,Exports exceed imports by $10bn+,$10m to $100m
+Belgium,BEL,056,2024,59.57,43.35,16.22,6.88,4.85,61.05,49.33,251.2,184,2.51,218.4,comtrade,$50bn or more,Exports exceed imports by $10bn+,$100m to $1bn
+Italy,ITA,380,2024,55.63,33.15,22.47,6.43,3.71,75.43,37.71,843.4,1228,8.42,823.8,comtrade,$50bn or more,Exports exceed imports by $10bn+,$100m to $1bn
+France,FRA,250,2024,38.77,33.07,5.7,4.48,3.7,44.19,40.17,127.9,425.6,1.28,143.4,comtrade,$10bn to $50bn,Exports exceed imports by $1–10bn,$100m to $1bn
+Netherlands,NLD,528,2024,28.4,22.09,6.31,3.28,2.47,34.17,26.55,114.2,114.5,1.14,90.4,comtrade,$10bn to $50bn,Exports exceed imports by $1–10bn,$100m to $1bn
+United Kingdom,GBR,826,2024,27.51,29.76,-2.26,3.18,3.33,27.62,31.58,40.1,187.8,0.4,36.3,comtrade,$10bn to $50bn,Imports exceed exports by $1–5bn,$10m to $100m
+Slovenia,SVN,705,2024,27.2,11.06,16.13,3.14,1.24,35.85,13.51,10.1,18.6,0.1,8.3,comtrade,$10bn to $50bn,Exports exceed imports by $10bn+,$10m to $100m
+India,IND,356,2024,22.98,2.8,20.19,2.65,0.31,25.83,3.49,1057.8,1938.9,10.57,935,comtrade,$10bn to $50bn,Exports exceed imports by $10bn+,$1bn or more
+Denmark,DNK,208,2024,21.78,6.77,15.01,2.52,0.76,24.75,7.61,183.5,33.5,1.83,188.1,comtrade,$10bn to $50bn,Exports exceed imports by $10bn+,$100m to $1bn
+Austria,AUT,040,2024,21.03,11.67,9.37,2.43,1.3,19.08,13.91,99.4,207.4,0.99,75.1,comtrade,$10bn to $50bn,Exports exceed imports by $1–10bn,$10m to $100m
+Spain,ESP,724,2024,18.18,22.72,-4.54,2.1,2.54,22.45,28.52,408.2,292.6,4.08,298.6,comtrade,$10bn to $50bn,Imports exceed exports by $1–5bn,$100m to $1bn
+Sweden,SWE,752,2024,13.47,7.36,6.11,1.56,0.82,14.96,8.43,6.7,5.2,0.07,8.3,comtrade,$10bn to $50bn,Exports exceed imports by $1–10bn,$1m to $10m
+China,CHN,156,2024,12.2,42.35,-30.15,1.41,4.74,14.09,40.41,4312.2,656,43.07,4352.9,comtrade,$10bn to $50bn,Imports exceed exports by $5bn+,$1bn or more
+Canada,CAN,124,2024,11.28,19.54,-8.27,1.3,2.19,9.52,18.9,7.9,165.5,0.08,7.5,comtrade,$10bn to $50bn,Imports exceed exports by $5bn+,$1m to $10m
+Hungary,HUN,348,2024,10.75,8.38,2.38,1.24,0.94,10.71,7.95,88.4,12.8,0.88,96.5,comtrade,$10bn to $50bn,Exports exceed imports by $1–10bn,$10m to $100m
+Singapore,SGP,702,2024,8.41,5.75,2.66,0.97,0.64,7.8,5,94.4,11.9,0.94,45.2,comtrade,$1bn to $10bn,Exports exceed imports by $1–10bn,$10m to $100m
+South Korea,KOR,410,2024,7.95,9.47,-1.52,0.92,1.06,9.09,9.75,173,237.3,1.73,137,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$100m to $1bn
+Japan,JPN,392,2024,7.73,30.22,-22.49,0.89,3.38,8.34,32.46,86.7,277,0.87,116.2,comtrade,$1bn to $10bn,Imports exceed exports by $5bn+,$10m to $100m
+Poland,POL,616,2024,6.97,14.27,-7.3,0.81,1.6,8.07,15.7,2.3,21.1,0.02,2.9,comtrade,$1bn to $10bn,Imports exceed exports by $5bn+,$1m to $10m
+Czechia,CZE,203,2024,4.41,7.89,-3.47,0.51,0.88,5,8.75,14.1,13.6,0.14,12.9,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$10m to $100m
+Portugal,PRT,620,2024,3.55,4.1,-0.55,0.41,0.46,5.35,4.85,42.5,129.6,0.42,49.5,comtrade,$1bn to $10bn,Within $1bn either way,$10m to $100m
+Australia,AUS,036,2024,3.18,11.15,-7.97,0.37,1.25,3.01,11.86,1.3,38.9,0.01,1.5,comtrade,$1bn to $10bn,Imports exceed exports by $5bn+,$1m to $10m
+Greece,GRC,300,2024,3.04,4.29,-1.25,0.35,0.48,3.12,4.82,0.1,75,0,1.3,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,Under $1m
+Mexico,MEX,484,2024,2.74,8.82,-6.08,0.32,0.99,2.59,10.08,32.2,157.7,0.32,24.4,comtrade,$1bn to $10bn,Imports exceed exports by $5bn+,$10m to $100m
+Finland,FIN,246,2024,2.37,2.56,-0.19,0.27,0.29,2.18,2.74,0,0.7,0,0,comtrade,$1bn to $10bn,Within $1bn either way,Under $1m
+Turkey,TUR,792,2024,2.27,5.43,-3.16,0.26,0.61,2.48,6.5,11.7,226.2,0.12,14.2,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$10m to $100m
+Romania,ROU,642,2024,2.06,6.58,-4.52,0.24,0.74,2.37,7.46,27.4,52.5,0.27,28,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$10m to $100m
+Hong Kong,HKG,344,2024,1.96,3.66,-1.7,0.23,0.41,1.92,3.69,17.7,39.2,0.18,9,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$10m to $100m
+Israel,ISR,376,2024,1.82,3.63,-1.81,0.21,0.41,1.73,4.06,12.8,17.5,0.13,16.4,comtrade,$1bn to $10bn,Imports exceed exports by $1–5bn,$10m to $100m
+Lithuania,LTU,440,2024,1.35,1.93,-0.58,0.16,0.22,1.49,2.25,0.4,0.8,0,0.8,comtrade,$1bn to $10bn,Within $1bn either way,Under $1m
+Croatia,HRV,191,2024,1.34,2.06,-0.72,0.15,0.23,1.35,2.25,35.4,33.2,0.35,12.6,comtrade,$1bn to $10bn,Within $1bn either way,$10m to $100m
+Bulgaria,BGR,100,2024,1.31,2.25,-0.94,0.15,0.25,1.53,2.57,34.7,48.5,0.35,30.7,comtrade,$1bn to $10bn,Within $1bn either way,$10m to $100m
+Brazil,BRA,076,2024,1.21,12.59,-11.37,0.14,1.41,1.27,14.82,57,383.4,0.57,72.8,comtrade,$1bn to $10bn,Imports exceed exports by $5bn+,$10m to $100m
+Norway,NOR,578,2024,0.94,3.04,-2.09,0.11,0.34,0.92,3.23,0,1.3,0,0,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+Jordan,JOR,400,2024,0.9,0.83,0.07,0.1,0.09,,,0.3,93.3,0,,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Slovakia,SVK,703,2024,0.9,3.05,-2.16,0.1,0.34,1.01,3.39,9.6,3.5,0.1,11.1,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,$1m to $10m
+Argentina,ARG,032,2024,0.87,2.49,-1.62,0.1,0.28,1.04,3.04,,80.9,,,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,
+Indonesia,IDN,360,2024,0.75,1.3,-0.55,0.09,0.14,0.74,1.42,0.5,172.3,0,1.3,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Latvia,LVA,428,2024,0.68,1.01,-0.33,0.08,0.11,0.81,1.22,0.1,1.2,0,0.1,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Thailand,THA,764,2024,0.64,3.06,-2.42,0.07,0.34,0.66,3.36,9.9,137.8,0.1,9.3,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,$1m to $10m
+Saudi Arabia,SAU,682,2024,0.58,9.15,-8.57,0.07,1.02,0.56,9.65,1.3,71.6,0.01,1.2,comtrade,$100m to $1bn,Imports exceed exports by $5bn+,$1m to $10m
+Dominican Republic,DOM,214,2024,0.54,1.01,-0.48,0.06,0.11,0.55,1.01,0,17.5,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+South Africa,ZAF,710,2024,0.54,2.42,-1.89,0.06,0.27,0.56,2.51,0.9,22.2,0.01,1.1,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+Cyprus,CYP,196,2024,0.47,0.58,-0.1,0.05,0.06,0.51,0.68,0.7,15.6,0.01,0.3,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Malaysia,MYS,458,2024,0.47,2.4,-1.93,0.05,0.27,0.74,2.7,8.1,41.6,0.08,9,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,$1m to $10m
+Malta,MLT,470,2024,0.46,0.52,-0.06,0.05,0.06,0.66,0.66,6.4,2.8,0.06,4.8,comtrade,$100m to $1bn,Within $1bn either way,$1m to $10m
+Serbia,SRB,688,2024,0.46,1.7,-1.24,0.05,0.19,0.68,2.13,5.2,8.1,0.05,5.1,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,$1m to $10m
+Costa Rica,CRI,188,2024,0.45,1.12,-0.67,0.05,0.13,0.55,1.41,0,2.5,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Egypt,EGY,818,2024,0.45,3.52,-3.07,0.05,0.39,0.51,2.94,0.8,199.7,0.01,0.9,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+Guatemala,GTM,320,2024,0.42,1.12,-0.7,0.05,0.13,0.44,1.21,2,12.5,0.02,2,comtrade,$100m to $1bn,Within $1bn either way,$1m to $10m
+Pakistan,PAK,586,2024,0.42,0.77,-0.35,0.05,0.09,0.39,0.84,0.5,158.8,0,1.4,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Colombia,COL,170,2024,0.4,3.86,-3.46,0.05,0.43,0.45,4.3,0.9,76.6,0.01,4.7,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+New Zealand,NZL,554,2024,0.4,1.42,-1.02,0.05,0.16,0.39,1.46,4.9,2.6,0.05,2.9,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,$1m to $10m
+Ukraine,UKR,804,2024,0.32,2.43,-2.11,0.04,0.27,,,0.2,26.4,0,,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+Luxembourg,LUX,442,2024,0.25,0.84,-0.58,0.03,0.09,0.26,0.94,0,0.1,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Morocco,MAR,504,2024,0.2,1.07,-0.88,0.02,0.12,0.23,1.34,0.3,50.2,0,0.1,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+North Macedonia,MKD,807,2024,0.2,0.29,-0.09,0.02,0.03,0.21,0.35,0.1,14.2,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Uruguay,URY,858,2024,0.2,0.43,-0.23,0.02,0.05,0.22,0.47,0,5.2,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Chile,CHL,152,2024,0.18,2.35,-2.17,0.02,0.26,0.18,2.48,0.3,19.5,0,0,comtrade,$100m to $1bn,Imports exceed exports by $1–5bn,Under $1m
+El Salvador,SLV,222,2024,0.18,0.65,-0.47,0.02,0.07,0.17,0.68,0.1,5.3,0,0.1,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Kenya,KEN,404,2024,0.17,0.71,-0.53,0.02,0.08,0.15,0.6,0.2,26.7,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Estonia,EST,233,2024,0.15,0.89,-0.74,0.02,0.1,0.18,0.84,0.2,6.3,0,0.5,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Georgia,GEO,268,2024,0.14,0.76,-0.61,0.02,0.08,0.15,0.87,,1.6,,0.2,comtrade,$100m to $1bn,Within $1bn either way,
+Iceland,ISL,352,2024,0.13,0.27,-0.14,0.01,0.03,0.13,0.28,,2.8,,,comtrade,$100m to $1bn,Within $1bn either way,
+Oman,OMN,512,2024,0.13,0.77,-0.65,0.01,0.09,0.14,0.82,0.5,4.9,0,0.2,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Tunisia,TUN,788,2024,0.13,0.66,-0.53,0.01,0.07,,,0,22.4,0,,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Bosnia and Herzegovina,BIH,070,2024,0.11,0.53,-0.42,0.01,0.06,0.12,0.59,0,1.7,0,0,comtrade,$100m to $1bn,Within $1bn either way,Under $1m
+Peru,PER,604,2024,0.1,1.14,-1.04,0.01,0.13,0.11,1.26,0.1,46.7,0,0.1,comtrade,Under $100m,Imports exceed exports by $1–5bn,Under $1m
+Kazakhstan,KAZ,398,2024,0.07,2.34,-2.28,0.01,0.26,0.07,2.71,0.1,10,0,0.2,comtrade,Under $100m,Imports exceed exports by $1–5bn,Under $1m
+Paraguay,PRY,600,2024,0.07,0.46,-0.39,0.01,0.05,0.09,0.55,0,9.7,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Honduras,HND,340,2024,0.05,0.76,-0.71,0.01,0.08,,,,0.7,,,comtrade,Under $100m,Within $1bn either way,
+Kuwait,KWT,414,2024,0.05,2.33,-2.28,0.01,0.26,0.06,2.59,,0.6,,,comtrade,Under $100m,Imports exceed exports by $1–5bn,
+Lebanon,LBN,422,2024,0.05,0.74,-0.69,0.01,0.08,,,0,2.5,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Moldova,MDA,498,2024,0.05,0.32,-0.27,0.01,0.04,0.06,0.36,0.2,2.9,0,0.2,comtrade,Under $100m,Within $1bn either way,Under $1m
+Montenegro,MNE,499,2024,0.04,0.22,-0.18,0,0.03,0.05,0.3,0,5,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Philippines,PHL,608,2024,0.04,2.33,-2.29,0,0.26,0.03,2.36,0,40.3,0,0,comtrade,Under $100m,Imports exceed exports by $1–5bn,Under $1m
+Armenia,ARM,051,2024,0.03,0.24,-0.21,0,0.03,0.04,0.24,0.1,0.2,0,0.1,comtrade,Under $100m,Within $1bn either way,Under $1m
+Barbados,BRB,052,2024,0.03,0.05,-0.02,0,0.01,0.03,0.05,,0,,,comtrade,Under $100m,Within $1bn either way,
+Ecuador,ECU,218,2024,0.03,1.19,-1.16,0,0.13,0.06,1.31,0,17.5,0,0,comtrade,Under $100m,Imports exceed exports by $1–5bn,Under $1m
+Mauritius,MUS,480,2024,0.03,0.18,-0.15,0,0.02,0.03,0.19,,0,,0,comtrade,Under $100m,Within $1bn either way,
+Panama,PAN,591,2024,0.03,0.82,-0.79,0,0.09,0.05,0.87,,0.1,,,comtrade,Under $100m,Within $1bn either way,
+Uganda,UGA,800,2024,0.03,0.35,-0.32,0,0.04,0.03,0.4,0,11.8,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Algeria,DZA,012,2024,0.02,1.97,-1.95,0,0.22,,,0,134,0,,comtrade,Under $100m,Imports exceed exports by $1–5bn,Under $1m
+Botswana,BWA,072,2024,0.02,0.15,-0.13,0,0.02,,,0,0.1,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Cambodia,KHM,116,2024,0.02,0.27,-0.25,0,0.03,0.02,0.34,0,1.8,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Ghana,GHA,288,2024,0.02,0.32,-0.3,0,0.04,0.02,0.3,,32.7,,0.3,comtrade,Under $100m,Within $1bn either way,
+Uzbekistan,UZB,860,2024,0.02,1.68,-1.66,0,0.19,0.02,1.89,,7.5,,0.1,comtrade,Under $100m,Imports exceed exports by $1–5bn,
+Albania,ALB,008,2024,0.01,0.3,-0.29,0,0.03,,,,0.3,,,comtrade,Under $100m,Within $1bn either way,
+Bahrain,BHR,048,2024,0.01,0.46,-0.46,0,0.05,,,,0.4,,,comtrade,Under $100m,Within $1bn either way,
+Brunei,BRN,096,2024,0.01,0.11,-0.11,0,0.01,0,0.09,,0.1,,,comtrade,Under $100m,Within $1bn either way,
+Sri Lanka,LKA,144,2024,0.01,0.45,-0.44,0,0.05,0.03,0.53,1.1,9.6,0.01,0.3,comtrade,Under $100m,Within $1bn either way,$1m to $10m
+Fiji,FJI,242,2024,0.01,0.04,-0.02,0,0,0.01,0.04,,0,,,comtrade,Under $100m,Within $1bn either way,
+Guyana,GUY,328,2024,0.01,0.04,-0.03,0,0,0,0.05,0,0,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Cote d'Ivoire,CIV,384,2024,0.01,0.53,-0.52,0,0.06,0.01,0.6,,0.5,,,comtrade,Under $100m,Within $1bn either way,
+Jamaica,JAM,388,2024,0.01,0.21,-0.2,0,0.02,0.01,0.21,0,0.1,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Mali,MLI,466,2024,0.01,0.28,-0.27,0,0.03,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Nicaragua,NIC,558,2024,0.01,0.55,-0.54,0,0.06,0.01,0.56,,1.2,,,comtrade,Under $100m,Within $1bn either way,
+Qatar,QAT,634,2024,0.01,1.13,-1.13,0,0.13,,,,0,,,comtrade,Under $100m,Imports exceed exports by $1–5bn,
+Zimbabwe,ZWE,716,2024,0.01,0.18,-0.18,0,0.02,0,0.21,0.1,0.4,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Togo,TGO,768,2024,0.01,0.12,-0.11,0,0.01,0.01,0.14,,0,,,comtrade,Under $100m,Within $1bn either way,
+Andorra,AND,020,2024,0,0.05,-0.05,0,0.01,0,0.06,,0,,,comtrade,Under $100m,Within $1bn either way,
+Angola,AGO,024,2024,0,0.26,-0.26,0,0.03,0,0.36,0,0.1,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Antigua and Barbuda,ATG,028,2024,0,0.01,-0.01,0,0,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Azerbaijan,AZE,031,2024,0,0.51,-0.5,0,0.06,0,0.53,,0,,,comtrade,Under $100m,Within $1bn either way,
+Bahamas,BHS,044,2024,0,0.07,-0.07,0,0.01,0,0.07,,0,,,comtrade,Under $100m,Within $1bn either way,
+Bermuda,BMU,060,2024,0,0.04,-0.04,0,0,0,0.04,,0,,,comtrade,Under $100m,Within $1bn either way,
+Bolivia,BOL,068,2024,0,0.25,-0.25,0,0.03,0,0.22,,6.3,,,comtrade,Under $100m,Within $1bn either way,
+Belize,BLZ,084,2024,0,0.02,-0.02,0,0,0,0.02,,0,,,comtrade,Under $100m,Within $1bn either way,
+Myanmar,MMR,104,2024,0,0.34,-0.34,0,0.04,0,0.35,,3.6,,,comtrade,Under $100m,Within $1bn either way,
+Cayman Islands,CYM,136,2024,0,0.04,-0.04,0,0,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Central African Republic,CAF,140,2024,0,0.06,-0.06,0,0.01,,,,0.1,,,comtrade,Under $100m,Within $1bn either way,
+Comoros,COM,174,2024,0,0,0,0,0,0,0,,,,,comtrade,Under $100m,Within $1bn either way,
+Congo,COG,178,2024,0,0.13,-0.13,0,0.01,,,,,,,comtrade,Under $100m,Within $1bn either way,
+Democratic Republic of Congo,COD,180,2024,0,0.36,-0.36,0,0.04,0,0.31,,2.6,,,comtrade,Under $100m,Within $1bn either way,
+Benin,BEN,204,2024,0,0.16,-0.15,0,0.02,,,,1.1,,,comtrade,Under $100m,Within $1bn either way,
+Gambia,GMB,270,2024,0,0.01,-0.01,0,0,,,,,,,comtrade,Under $100m,Within $1bn either way,
+Grenada,GRD,308,2024,0,0.01,-0.01,0,0,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Iraq,IRQ,368,2024,0,2.42,-2.42,0,0.27,,,,0.4,,,comtrade,Under $100m,Imports exceed exports by $1–5bn,
+Kyrgyzstan,KGZ,417,2024,0,0.24,-0.24,0,0.03,0,0.27,,0.6,,,comtrade,Under $100m,Within $1bn either way,
+Lesotho,LSO,426,2024,0,0.03,-0.03,0,0,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Liberia,LBR,430,2024,0,0.03,-0.03,0,0,0,0.03,,0,,,comtrade,Under $100m,Within $1bn either way,
+Macao,MAC,446,2024,0,0.49,-0.49,0,0.06,0,0.44,,,,,comtrade,Under $100m,Within $1bn either way,
+Madagascar,MDG,450,2024,0,0.19,-0.19,0,0.02,0,0.19,,0,,,comtrade,Under $100m,Within $1bn either way,
+Malawi,MWI,454,2024,0,0.17,-0.16,0,0.02,0,0.18,,2.4,,,comtrade,Under $100m,Within $1bn either way,
+Mauritania,MRT,478,2024,0,0.11,-0.11,0,0.01,,0.11,,0,,,comtrade,Under $100m,Within $1bn either way,
+Montserrat,MSR,500,2024,0,0,0,0,0,,,,0,,,comtrade,Under $100m,Within $1bn either way,
+Mozambique,MOZ,508,2024,0,0.21,-0.21,0,0.02,0,0.18,0,11.1,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Namibia,NAM,516,2024,0,0.16,-0.16,0,0.02,0,0.18,,0,,0,comtrade,Under $100m,Within $1bn either way,
+Niger,NER,562,2024,0,0.13,-0.13,0,0.01,0,0.22,0,0.6,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Nigeria,NGA,566,2024,0,0.64,-0.64,0,0.07,0,0.75,,28.2,,,comtrade,Under $100m,Within $1bn either way,
+Papua New Guinea,PNG,598,2024,0,0.06,-0.06,0,0.01,,,0,0.3,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Rwanda,RWA,646,2024,0,0.1,-0.1,0,0.01,0,0.14,0,0.2,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Senegal,SEN,686,2024,0,0.35,-0.35,0,0.04,0,0.37,0,0,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Seychelles,SYC,690,2024,0,0.02,-0.02,0,0,0,0.01,,0,,,comtrade,Under $100m,Within $1bn either way,
+Suriname,SUR,740,2024,0,0.02,-0.02,0,0,0,0.01,0,0,0,,comtrade,Under $100m,Within $1bn either way,Under $1m
+Trinidad and Tobago,TTO,780,2024,0,0.2,-0.2,0,0.02,0,0.18,,0.2,,0,comtrade,Under $100m,Within $1bn either way,
+Tanzania,TZA,834,2024,0,0.36,-0.35,0,0.04,0,0.38,0,4.5,0,0,comtrade,Under $100m,Within $1bn either way,Under $1m
+Burkina Faso,BFA,854,2024,0,0.27,-0.27,0,0.03,0,0.29,,0.1,,,comtrade,Under $100m,Within $1bn either way,
+Samoa,WSM,882,2024,0,0.01,-0.01,0,0,0,0.01,,0,,0,comtrade,Under $100m,Within $1bn either way,
+Yemen,YEM,887,2024,0,0.12,-0.12,0,0.01,,,,0.7,,,comtrade,Under $100m,Within $1bn either way,
+Zambia,ZMB,894,2024,0,0.31,-0.3,0,0.03,0,0.4,,10.6,,,comtrade,Under $100m,Within $1bn either way,
+Cape Verde,CPV,132,2024,,0.02,,,0,,0.02,,0.1,,,comtrade,,,
+French Polynesia,PYF,258,2024,,0.1,,,0.01,,0.1,,0,,,comtrade,,,
+Maldives,MDV,462,2024,,0.05,,,0.01,,0.06,,0,,,comtrade,,,
+Sao Tome and Principe,STP,678,2024,,0,,,0,0,0,,0,,,comtrade,,,
+Bhutan,BTN,064,2024,,,,,,0,0.01,,,,,comtrade,,,
+Faroe Islands,FRO,234,2024,,,,,,0,0.05,,,,,comtrade,,,
+South Sudan,SSD,728,2024,,,,,,0,0.07,,,,,comtrade,,,
+Tonga,TON,776,2024,,,,,,0,0,,,,,comtrade,,,

@@ -1,0 +1,10 @@
+reason,label,shortages,share_pct,source
+Other,Other,42,61.8,openfda
+Demand increase for the drug,Demand rose,35,51.5,openfda
+Discontinuation of the manufacture of the drug,A maker stopped making it,18,26.5,openfda
+Delay in shipping of the drug,Shipping delays,13,19.1,openfda
+Not stated,No reason given,7,10.3,openfda
+Shortage of an active ingredient,Active ingredient short,7,10.3,openfda
+Requirements related to complying with good manufacturing practices,Manufacturing quality problems,5,7.4,openfda
+Shortage of an inactive ingredient component,Other ingredient short,1,1.5,openfda
+Regulatory delay,Regulatory delay,1,1.5,openfda

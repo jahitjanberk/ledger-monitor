@@ -101,4 +101,4 @@ export async function launch(debugPort = 9340) {
   return { newPage, close };
 }
 
-export const DASHBOARDS = ["air", "chokepoints", "debt", "electricity", "food", "heat", "housing", "internet", "minerals", "orbit", "scams", "water"];
+export const DASHBOARDS = ["air", "chokepoints", "debt", "electricity", "energy", "food", "heat", "housing", "internet", "medicines", "minerals", "orbit", "scams", "vaccines", "water"];

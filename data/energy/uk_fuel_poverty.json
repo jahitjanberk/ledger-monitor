@@ -1,0 +1,151 @@
+{
+  "id": "uk_fuel_poverty",
+  "title": "Fuel poverty in England, 2010 to 2025",
+  "description": "Households in fuel poverty under the Low Income Low Energy Efficiency measure, with the fuel poverty gap (DESNZ). 2025 is provisional.",
+  "records": [
+    {
+      "year": 2010,
+      "households_k": 4780,
+      "pct": 22.1,
+      "aggregate_gap_m": 1954,
+      "average_gap": 409,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2011,
+      "households_k": 4726,
+      "pct": 21.6,
+      "aggregate_gap_m": 1880,
+      "average_gap": 398,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2012,
+      "households_k": 4351,
+      "pct": 19.8,
+      "aggregate_gap_m": 1676,
+      "average_gap": 385,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2013,
+      "households_k": 4186,
+      "pct": 18.5,
+      "aggregate_gap_m": 1617,
+      "average_gap": 386,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2014,
+      "households_k": 3905,
+      "pct": 17.3,
+      "aggregate_gap_m": 1482,
+      "average_gap": 379,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2015,
+      "households_k": 3778,
+      "pct": 16.7,
+      "aggregate_gap_m": 1311,
+      "average_gap": 347,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2016,
+      "households_k": 3731,
+      "pct": 16.2,
+      "aggregate_gap_m": 1231,
+      "average_gap": 330,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2017,
+      "households_k": 3739,
+      "pct": 16.1,
+      "aggregate_gap_m": 1154,
+      "average_gap": 309,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2018,
+      "households_k": 3517,
+      "pct": 15,
+      "aggregate_gap_m": 1006,
+      "average_gap": 286,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2019,
+      "households_k": 3176,
+      "pct": 13.4,
+      "aggregate_gap_m": 874,
+      "average_gap": 275,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2020,
+      "households_k": 3158,
+      "pct": 13.2,
+      "aggregate_gap_m": 850,
+      "average_gap": 269,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2021,
+      "households_k": 3163,
+      "pct": 13.1,
+      "aggregate_gap_m": 929,
+      "average_gap": 293,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2022,
+      "households_k": 3175,
+      "pct": 13.1,
+      "aggregate_gap_m": 1185,
+      "average_gap": 373,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2023,
+      "households_k": 2802,
+      "pct": 11.4,
+      "aggregate_gap_m": 1250,
+      "average_gap": 447,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2024,
+      "households_k": 2472,
+      "pct": 9.9,
+      "aggregate_gap_m": 941,
+      "average_gap": 380,
+      "status": "final",
+      "source": "desnz-trends"
+    },
+    {
+      "year": 2025,
+      "households_k": 2363,
+      "pct": 9.4,
+      "aggregate_gap_m": 896,
+      "average_gap": 379,
+      "status": "provisional",
+      "source": "desnz-trends"
+    }
+  ]
+}

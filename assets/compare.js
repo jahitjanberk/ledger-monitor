@@ -5,7 +5,13 @@ const SITE = new URL("../", import.meta.url);
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const nf = (v, d) => v.toLocaleString("en-GB", { minimumFractionDigits: d, maximumFractionDigits: d });
 const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-const when = (y) => (/^\d{4}-\d{2}$/.test(String(y)) ? `${MON[+String(y).slice(5) - 1]} ${String(y).slice(0, 4)}` : String(y ?? ""));
+// "2026-06" reads as Jun 2026; Eurostat half-years ("2026-S1") as H1 2026.
+const when = (y) => {
+  const s = String(y ?? "");
+  if (/^\d{4}-\d{2}$/.test(s)) return `${MON[+s.slice(5) - 1]} ${s.slice(0, 4)}`;
+  const h = s.match(/^(\d{4})-S([12])$/);
+  return h ? `H${h[2]} ${h[1]}` : s;
+};
 
 const inputs = [...document.querySelectorAll("#cp-pick input")];
 const out = document.getElementById("cp-out");
