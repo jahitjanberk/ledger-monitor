@@ -1,0 +1,42 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the map.",
+  "records": [
+    {
+      "band": "Under 1%",
+      "min": 0,
+      "max": 1,
+      "unit": "% of world mine production",
+      "source": "usgs-mcs"
+    },
+    {
+      "band": "1 to 5%",
+      "min": 1,
+      "max": 5,
+      "unit": "% of world mine production",
+      "source": "usgs-mcs"
+    },
+    {
+      "band": "5 to 15%",
+      "min": 5,
+      "max": 15,
+      "unit": "% of world mine production",
+      "source": "usgs-mcs"
+    },
+    {
+      "band": "15 to 40%",
+      "min": 15,
+      "max": 40,
+      "unit": "% of world mine production",
+      "source": "usgs-mcs"
+    },
+    {
+      "band": "40% or more",
+      "min": 40,
+      "max": null,
+      "unit": "% of world mine production",
+      "source": "usgs-mcs"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+hunger,Under 2.5%,0,2.5,% undernourished,faostat-fs
+hunger,2.5 to 10%,2.5,10,% undernourished,faostat-fs
+hunger,10 to 20%,10,20,% undernourished,faostat-fs
+hunger,20 to 35%,20,35,% undernourished,faostat-fs
+hunger,35% or more,35,,% undernourished,faostat-fs
+diet,Under 5%,0,5,% who can't afford a healthy diet,faostat-cahd
+diet,5 to 25%,5,25,% who can't afford a healthy diet,faostat-cahd
+diet,25 to 50%,25,50,% who can't afford a healthy diet,faostat-cahd
+diet,50 to 75%,50,75,% who can't afford a healthy diet,faostat-cahd
+diet,75% or more,75,,% who can't afford a healthy diet,faostat-cahd
+inflation,Falling (below 0%),,0,% a year,faostat-cp
+inflation,0 to 3%,0,3,% a year,faostat-cp
+inflation,3 to 6%,3,6,% a year,faostat-cp
+inflation,6 to 15%,6,15,% a year,faostat-cp
+inflation,15% or more,15,,% a year,faostat-cp

@@ -86,6 +86,39 @@ const SPARKS = {
     const us = bars(y.map((r) => r.united_states), max, () => ACC, 0.1);
     return fig(world + us, `Objects launched per year from ${y[0].year} to ${y.at(-1).year}, peaking at ${max.toLocaleString("en-GB")}; US share highlighted`, `Objects launched each year, the US in colour`, `${y[0].year}–${y.at(-1).year}`);
   },
+  food() {
+    const p = rec("food/prices.json").sort((a, b) => a.month.localeCompare(b.month));
+    const v = p.map((r) => r.food), max = 175;
+    const fmt = (m) => new Date(m + "-01").toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+    return fig(hline(100, max, "var(--muted)", "2014–2016 average: 100") + area(v, max, ACC) + line(v, max, ACC),
+      `FAO Food Price Index, monthly, from ${v[0]} in ${fmt(p[0].month)} to ${v.at(-1)} in ${fmt(p.at(-1).month)}, peaking at ${Math.max(...v)}`, `FAO Food Price Index; dashed line: 2014–2016 average`, `${p[0].month.slice(0, 4)}–${p.at(-1).month.slice(0, 4)}`);
+  },
+  debt() {
+    const g = rec("debt/groups.json").filter((r) => r.world_debt != null).sort((a, b) => a.year - b.year);
+    const v = g.map((r) => r.world_debt), max = 120, last = g.findLastIndex((r) => !r.projection), n = v.length - 1;
+    const seg = (from, to) => v.slice(from, to + 1).map((x, i) => `${i ? "L" : "M"}${r1(((from + i) / n) * W)},${r1(H - (x / max) * H)}`).join("");
+    return fig(hline(100, max, "var(--muted)", "100% of GDP")
+      + `<path d="${seg(0, last)}L${r1((last / n) * W)},${H}L0,${H}Z" fill="${ACC}" opacity=".14"/>`
+      + `<path d="${seg(0, last)}" fill="none" stroke="${ACC}" stroke-width="2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>`
+      + `<path d="${seg(last, n)}" fill="none" stroke="${ACC}" stroke-width="2" stroke-dasharray="4 3" vector-effect="non-scaling-stroke"/>`,
+      `World government debt, % of GDP, from ${v[0]}% in ${g[0].year} to ${v[last]}% in ${g[last].year}, projected ${v[n]}% in ${g[n].year}`, `World government debt, % of GDP; dashed: IMF projection`, `${g[0].year}–${g[n].year}`);
+  },
+  heat() {
+    const g = rec("heat/global.json").sort((a, b) => a.year - b.year);
+    const v = g.map((r) => r.anomaly_preindustrial), min = -0.4, max = 1.8;
+    const p = v.map((x, i) => `${i ? "L" : "M"}${r1((i / (v.length - 1)) * W)},${r1(H - ((x - min) / (max - min)) * H)}`).join("");
+    const y15 = r1(H - ((1.5 - min) / (max - min)) * H);
+    return fig(`<line x1="0" x2="${W}" y1="${y15}" y2="${y15}" stroke="var(--muted)" stroke-width="1" stroke-dasharray="3 3" vector-effect="non-scaling-stroke"><title>1.5°C above 1850–1900</title></line>`
+      + `<path d="${p}" fill="none" stroke="${ACC}" stroke-width="2" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>`,
+      `Global temperature against 1850–1900, from ${v[0]}°C in ${g[0].year} to ${v.at(-1)}°C in ${g.at(-1).year}, peaking at ${Math.max(...v)}°C`, `Global temperature vs 1850–1900; dashed: 1.5°C`, `${g[0].year}–${g.at(-1).year}`);
+  },
+  minerals() {
+    const p = rec("minerals/metals.json").sort((a, b) => a.month.localeCompare(b.month));
+    const v = p.map((r) => r.copper), max = 16000;
+    const fmt = (m) => new Date(m + "-01").toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
+    return fig(area(v, max, ACC) + line(v, max, ACC),
+      `Copper price, monthly, from ${v[0].toLocaleString("en-GB")} a tonne in ${fmt(p[0].month)} to ${v.at(-1).toLocaleString("en-GB")} in ${fmt(p.at(-1).month)}`, `Copper, US dollars a tonne, monthly`, `${p[0].month.slice(0, 4)}–${p.at(-1).month.slice(0, 4)}`);
+  },
   air() {
     const p = rec("air/world_pm25.json").sort((a, b) => a.year - b.year);
     const v = p.map((r) => r.pm25), max = 35;

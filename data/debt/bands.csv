@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+health,Under a quarter,0,0.25,net interest ÷ government health spending,imf-fm
+health,A quarter to a half,0.25,0.5,net interest ÷ government health spending,imf-fm
+health,Half to the same,0.5,1,net interest ÷ government health spending,imf-fm
+health,1 to 2 times,1,2,net interest ÷ government health spending,imf-fm
+health,2 times or more,2,,net interest ÷ government health spending,imf-fm
+revenue,Under 5%,,5,% of government revenue,imf-fm
+revenue,5 to 10%,5,10,% of government revenue,imf-fm
+revenue,10 to 20%,10,20,% of government revenue,imf-fm
+revenue,20 to 30%,20,30,% of government revenue,imf-fm
+revenue,30% or more,30,,% of government revenue,imf-fm
+debt,Under 30%,0,30,% of GDP,imf-fm
+debt,30 to 60%,30,60,% of GDP,imf-fm
+debt,60 to 90%,60,90,% of GDP,imf-fm
+debt,90 to 120%,90,120,% of GDP,imf-fm
+debt,120% or more,120,,% of GDP,imf-fm

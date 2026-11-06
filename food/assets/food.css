@@ -1,0 +1,20 @@
+:root{--em-accent:#5C6E14;--em-soft:#E6ECCB;--fd-b0:#F1E3A0;--fd-b1:#E8B55A;--fd-b2:#D47A32;--fd-b3:#A6431F;--fd-b4:#5E1F12;--fd-fall:#6FA8C4;--fd-oil:#2F5E8C;--fd-muted:#8A8A80}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--em-accent:#BCD06A;--em-soft:#2C3311;--fd-b0:#E6D27A;--fd-b1:#EDA94F;--fd-b2:#E57E3C;--fd-b3:#D2502E;--fd-b4:#A8262A;--fd-fall:#7DBBD8;--fd-oil:#8DB6E3;--fd-muted:#A3A398}}
+:root[data-theme=dark]{--em-accent:#BCD06A;--em-soft:#2C3311;--fd-b0:#E6D27A;--fd-b1:#EDA94F;--fd-b2:#E57E3C;--fd-b3:#D2502E;--fd-b4:#A8262A;--fd-fall:#7DBBD8;--fd-oil:#8DB6E3;--fd-muted:#A3A398}
+.fd-scale{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:10px;font-family:var(--em-mono);font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--em-muted)}
+.fd-scale i{display:inline-block;width:.7rem;height:.7rem;border-radius:2px;vertical-align:-1px;margin-right:.4em}
+.fd-pick{display:flex;align-items:center;gap:8px;margin-top:10px}
+.fd-pick select{font:inherit;font-size:14px;flex:1;min-width:0;padding:.4em .6em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:36px}
+.fd-grid{stroke:var(--em-line);stroke-width:1}
+.fd-ref{stroke:var(--em-fg);stroke-width:1;stroke-dasharray:3 3;opacity:.55}
+.fd-mark{position:absolute;top:-3px;bottom:-3px;width:0;border-left:1.5px dashed var(--em-fg)}
+.fd-link{margin-top:14px}
+.fd-crisis-lede{margin:0 0 16px;max-width:62ch}
+.fd-search{font:inherit;padding:.55em .7em;border:1px solid var(--em-line);border-radius:var(--em-r);background:var(--em-panel);color:var(--em-fg);min-height:40px;width:min(100%,22rem);margin-bottom:12px}
+.fd-tablebox{max-height:560px;overflow:auto}
+.fd-tablebox thead th{position:sticky;top:0;background:var(--em-panel);z-index:1}
+.fd-rowbtn{all:unset;cursor:pointer;font-weight:600}
+.fd-rowbtn:hover{text-decoration:underline}
+.fd-rowbtn:focus-visible{outline:2px solid var(--em-accent);outline-offset:2px}
+.fd-sw{display:inline-block;width:.6rem;height:.6rem;border-radius:2px;margin-right:.5em}
+.em-vis .m{width:100%}

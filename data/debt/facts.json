@@ -1,0 +1,103 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from UNCTAD's A World of Debt 2026, the World Bank's International Debt Report 2025 and the ONS.",
+  "records": [
+    {
+      "id": "people",
+      "label": "People living in developing countries that spend more on net interest than on health or education",
+      "value": 3.7,
+      "unit": "billion",
+      "note": "1.2 billion more than in 2010",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "countries",
+      "label": "Developing countries that spend more on interest payments than on either education or health",
+      "value": 51,
+      "unit": "countries",
+      "note": "",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "dcdebt",
+      "label": "Developing countries' public debt, 2025",
+      "value": 35,
+      "unit": "trillion US dollars",
+      "note": "",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "dcinterest",
+      "label": "Developing countries' net interest payments on public debt, 2025",
+      "value": 995,
+      "unit": "billion US dollars",
+      "note": "",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "median",
+      "label": "Median share of government revenue developing countries spent on net interest, 2025",
+      "value": 8.1,
+      "unit": "%",
+      "note": "Nearly double the 2010 level",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "savings",
+      "label": "Yearly interest developing countries could save if they borrowed at developed countries' rates",
+      "value": 500,
+      "unit": "billion US dollars",
+      "note": "Around $500 billion",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "africa",
+      "label": "Share of Africa's population living in countries spending more on interest than on health or education",
+      "value": 65,
+      "unit": "%",
+      "note": "24% in 2010, 65% in 2023",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "latam",
+      "label": "Share of Latin America and the Caribbean's population living in countries spending more on interest than on health or education",
+      "value": 58,
+      "unit": "%",
+      "note": "34% in 2010, 58% in 2023",
+      "source": "unctad-wod"
+    },
+    {
+      "id": "outflow",
+      "label": "How much more developing countries paid in external debt service than they received in new financing, 2022 to 2024",
+      "value": 741,
+      "unit": "billion US dollars",
+      "note": "The largest gap in more than five decades",
+      "source": "wb-idr"
+    },
+    {
+      "id": "idrinterest",
+      "label": "Interest paid on external debt by low- and middle-income countries, 2024",
+      "value": 415,
+      "unit": "billion US dollars",
+      "note": "A record",
+      "source": "wb-idr"
+    },
+    {
+      "id": "idrstock",
+      "label": "External debt of low- and middle-income countries, end-2024",
+      "value": 8.9,
+      "unit": "trillion US dollars",
+      "note": "An all-time high",
+      "source": "wb-idr"
+    },
+    {
+      "id": "ukseptember",
+      "label": "UK central government debt interest payable, September 2026",
+      "value": 10.9,
+      "unit": "billion pounds",
+      "note": "",
+      "source": "ons-psf"
+    }
+  ]
+}

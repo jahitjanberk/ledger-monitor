@@ -1,0 +1,12 @@
+mineral,label,used_for,unit,world_2024,world_2025,top_country,top_iso3,top_share,second_country,second_share,top3_share,china_mine_share,top_reserves_country,top_reserves_share,world_excludes,source,china_refined_share,top_refiner,top_refiner_share,refining_source
+lithium,Lithium,"Batteries for electric cars, phones and grid storage","metric tons, lithium content",222000,290000,Australia,AUS,31.7,China,21.4,72.4,21.4,Chile,24.9,United States (withheld),usgs-mcs,74,China,74,iea-refined
+cobalt,Cobalt,Battery cathodes and jet-engine alloys,"metric tons, cobalt content",302000,310000,Democratic Republic of Congo,COD,74.2,Indonesia,14.2,90.9,0.6,Democratic Republic of Congo,50,,usgs-mcs,76,China,76,iea-refined
+nickel,Nickel,Stainless steel and battery cathodes,"metric tons, nickel content",3710000,3900000,Indonesia,IDN,66.7,Philippines,6.9,78.7,3.1,,,,usgs-mcs,31,Indonesia,45,iea-refined
+graphite,Graphite,Battery anodes and steelmaking,"metric tons, natural graphite (gross weight)",1550000,1800000,China,CHN,77.8,Madagascar,4.4,86.4,77.8,China,32.3,,usgs-mcs,94,China,94,iea-refined
+copper,Copper,"Power cables, motors and electronics","thousand metric tons, copper content",23000,23000,Chile,CHL,23,Democratic Republic of Congo,13.9,48.6,7.8,Chile,18.4,,usgs-mcs,47,China,47,iea-refined
+rare-earths,Rare earths,"Magnets for motors, wind turbines and electronics","metric tons, rare-earth-oxide (REO) equivalent",380000,390000,China,CHN,69.2,United States,13.1,89.7,69.2,,,,usgs-mcs,85,China,85,iea-refined
+gallium,Gallium,"Chips, LEDs and radar","kilograms, gallium content (low-purity primary gallium)",848000,900000,China,CHN,100,Russia,0.7,101,100,,,,usgs-mcs,,,,
+manganese,Manganese,Steel and battery cathodes,"thousand metric tons, manganese content",18700,20000,South Africa,ZAF,38,Gabon,25,73,3.5,Australia,32.2,,usgs-mcs,96,China,96,iea-refined
+antimony,Antimony,"Flame retardants, ammunition and solar glass","metric tons, antimony content",119000,110000,China,CHN,36.4,Russia,29.1,85.5,36.4,,,,usgs-mcs,,,,
+tungsten,Tungsten,"Cutting tools, hard alloys and armour","metric tons, tungsten content",82000,85000,China,CHN,78.8,Vietnam,3.5,85.1,78.8,,,,usgs-mcs,,,,
+platinum,Platinum,"Catalytic converters, fuel cells and hydrogen","kilograms, metal content",179000,170000,South Africa,ZAF,70.6,Russia,11.8,93,,,,,usgs-mcs,,,,

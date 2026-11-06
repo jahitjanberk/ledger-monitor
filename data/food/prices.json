@@ -1,0 +1,4427 @@
+{
+  "id": "prices",
+  "title": "FAO Food Price Index, monthly",
+  "description": "The FAO Food Price Index and its five sub-indices, January 1990 to October 2026, 2014–2016 = 100.",
+  "records": [
+    {
+      "month": "1990-01",
+      "food": 64.4,
+      "meat": 74.3,
+      "dairy": 53.5,
+      "cereals": 64.1,
+      "oils": 44.6,
+      "sugar": 87.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-02",
+      "food": 64.7,
+      "meat": 76.8,
+      "dairy": 52.2,
+      "cereals": 62.2,
+      "oils": 44.5,
+      "sugar": 90.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-03",
+      "food": 64,
+      "meat": 78.5,
+      "dairy": 41.4,
+      "cereals": 61.3,
+      "oils": 45.8,
+      "sugar": 95.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-04",
+      "food": 66,
+      "meat": 81.2,
+      "dairy": 48.4,
+      "cereals": 62.8,
+      "oils": 44,
+      "sugar": 94.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-05",
+      "food": 64.6,
+      "meat": 81.8,
+      "dairy": 39.2,
+      "cereals": 62,
+      "oils": 45.5,
+      "sugar": 90.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-06",
+      "food": 64.1,
+      "meat": 84.2,
+      "dairy": 39.2,
+      "cereals": 60.7,
+      "oils": 43.8,
+      "sugar": 80.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-07",
+      "food": 62.9,
+      "meat": 84.5,
+      "dairy": 39.2,
+      "cereals": 57.9,
+      "oils": 43.7,
+      "sugar": 74.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-08",
+      "food": 61.8,
+      "meat": 84.5,
+      "dairy": 36.8,
+      "cereals": 55.7,
+      "oils": 45.4,
+      "sugar": 67.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-09",
+      "food": 61.3,
+      "meat": 85.5,
+      "dairy": 38.1,
+      "cereals": 52.5,
+      "oils": 44.8,
+      "sugar": 68.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-10",
+      "food": 61.4,
+      "meat": 86.2,
+      "dairy": 38.9,
+      "cereals": 52.8,
+      "oils": 45.7,
+      "sugar": 60.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-11",
+      "food": 62.3,
+      "meat": 87.6,
+      "dairy": 39.4,
+      "cereals": 52.4,
+      "oils": 48.3,
+      "sugar": 62.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1990-12",
+      "food": 62.2,
+      "meat": 84.4,
+      "dairy": 45.1,
+      "cereals": 52.6,
+      "oils": 49.6,
+      "sugar": 60.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-01",
+      "food": 61,
+      "meat": 80.5,
+      "dairy": 46.9,
+      "cereals": 53.7,
+      "oils": 49.5,
+      "sugar": 54.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-02",
+      "food": 61.8,
+      "meat": 82.4,
+      "dairy": 46.7,
+      "cereals": 55.2,
+      "oils": 48.4,
+      "sugar": 52.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-03",
+      "food": 62.3,
+      "meat": 81.6,
+      "dairy": 45.8,
+      "cereals": 57.3,
+      "oils": 48.8,
+      "sugar": 56.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-04",
+      "food": 61,
+      "meat": 80.5,
+      "dairy": 42.8,
+      "cereals": 57.6,
+      "oils": 47,
+      "sugar": 52.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-05",
+      "food": 60.8,
+      "meat": 82,
+      "dairy": 42.1,
+      "cereals": 57.2,
+      "oils": 46.6,
+      "sugar": 46.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-06",
+      "food": 61.3,
+      "meat": 81.3,
+      "dairy": 43.4,
+      "cereals": 56.5,
+      "oils": 46.7,
+      "sugar": 56.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-07",
+      "food": 62.2,
+      "meat": 83.6,
+      "dairy": 40.4,
+      "cereals": 55.7,
+      "oils": 48.2,
+      "sugar": 63.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-08",
+      "food": 61.8,
+      "meat": 80.4,
+      "dairy": 41.7,
+      "cereals": 58.3,
+      "oils": 48.8,
+      "sugar": 58.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-09",
+      "food": 62.4,
+      "meat": 80.6,
+      "dairy": 45.4,
+      "cereals": 58.8,
+      "oils": 48.6,
+      "sugar": 57.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-10",
+      "food": 64.5,
+      "meat": 83,
+      "dairy": 48.8,
+      "cereals": 60.6,
+      "oils": 51.1,
+      "sugar": 56.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-11",
+      "food": 64.6,
+      "meat": 82.6,
+      "dairy": 50.8,
+      "cereals": 60.8,
+      "oils": 51.8,
+      "sugar": 53.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1991-12",
+      "food": 64.3,
+      "meat": 79.2,
+      "dairy": 50.8,
+      "cereals": 62.7,
+      "oils": 52.6,
+      "sugar": 55.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-01",
+      "food": 65.1,
+      "meat": 80.2,
+      "dairy": 52.9,
+      "cereals": 63.9,
+      "oils": 52.8,
+      "sugar": 51.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-02",
+      "food": 65.9,
+      "meat": 81.6,
+      "dairy": 52.9,
+      "cereals": 66.5,
+      "oils": 52,
+      "sugar": 48.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-03",
+      "food": 66.5,
+      "meat": 82.4,
+      "dairy": 52.4,
+      "cereals": 65.9,
+      "oils": 54.1,
+      "sugar": 50.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-04",
+      "food": 64.8,
+      "meat": 78.3,
+      "dairy": 52.4,
+      "cereals": 63,
+      "oils": 54,
+      "sugar": 58.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-05",
+      "food": 65.1,
+      "meat": 78.9,
+      "dairy": 54.6,
+      "cereals": 62,
+      "oils": 54,
+      "sugar": 59.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-06",
+      "food": 65.9,
+      "meat": 78.9,
+      "dairy": 57.7,
+      "cereals": 61.8,
+      "oils": 54.8,
+      "sugar": 64.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-07",
+      "food": 64.7,
+      "meat": 79.5,
+      "dairy": 58.1,
+      "cereals": 58.5,
+      "oils": 51.9,
+      "sugar": 63.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-08",
+      "food": 63.1,
+      "meat": 78.6,
+      "dairy": 56.6,
+      "cereals": 56.1,
+      "oils": 51,
+      "sugar": 60.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-09",
+      "food": 63.8,
+      "meat": 78.1,
+      "dairy": 58.1,
+      "cereals": 58.3,
+      "oils": 52.2,
+      "sugar": 57.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-10",
+      "food": 61.8,
+      "meat": 74.4,
+      "dairy": 54.9,
+      "cereals": 58.2,
+      "oils": 52.2,
+      "sugar": 53.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-11",
+      "food": 62.7,
+      "meat": 76.2,
+      "dairy": 53.8,
+      "cereals": 58.8,
+      "oils": 53.9,
+      "sugar": 53,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1992-12",
+      "food": 61.3,
+      "meat": 73.7,
+      "dairy": 53.2,
+      "cereals": 58.5,
+      "oils": 53,
+      "sugar": 50.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-01",
+      "food": 61.6,
+      "meat": 73.4,
+      "dairy": 53.3,
+      "cereals": 59.1,
+      "oils": 54,
+      "sugar": 51,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-02",
+      "food": 61.4,
+      "meat": 72.9,
+      "dairy": 54,
+      "cereals": 58.1,
+      "oils": 54.2,
+      "sugar": 53,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-03",
+      "food": 63.2,
+      "meat": 76.5,
+      "dairy": 53.3,
+      "cereals": 57.8,
+      "oils": 53.1,
+      "sugar": 65.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-04",
+      "food": 62.8,
+      "meat": 75.7,
+      "dairy": 52.4,
+      "cereals": 57.3,
+      "oils": 52.8,
+      "sugar": 69,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-05",
+      "food": 62.4,
+      "meat": 76,
+      "dairy": 51.7,
+      "cereals": 55.4,
+      "oils": 51.9,
+      "sugar": 73.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-06",
+      "food": 61.8,
+      "meat": 78.6,
+      "dairy": 51.8,
+      "cereals": 52.8,
+      "oils": 51.2,
+      "sugar": 64.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-07",
+      "food": 62.2,
+      "meat": 78.1,
+      "dairy": 49.7,
+      "cereals": 55.8,
+      "oils": 53.3,
+      "sugar": 59.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-08",
+      "food": 60.9,
+      "meat": 74.8,
+      "dairy": 48,
+      "cereals": 56.6,
+      "oils": 52.6,
+      "sugar": 57.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-09",
+      "food": 61.2,
+      "meat": 75.1,
+      "dairy": 45.1,
+      "cereals": 58.4,
+      "oils": 52.5,
+      "sugar": 59,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-10",
+      "food": 61.5,
+      "meat": 74.5,
+      "dairy": 41,
+      "cereals": 61.4,
+      "oils": 52.1,
+      "sugar": 63.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-11",
+      "food": 63.4,
+      "meat": 73.6,
+      "dairy": 41.2,
+      "cereals": 66.7,
+      "oils": 56.2,
+      "sugar": 62.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1993-12",
+      "food": 64.7,
+      "meat": 71.1,
+      "dairy": 41.8,
+      "cereals": 68.9,
+      "oils": 63.6,
+      "sugar": 65.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-01",
+      "food": 64.8,
+      "meat": 70.2,
+      "dairy": 45.5,
+      "cereals": 68.6,
+      "oils": 63.9,
+      "sugar": 63.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-02",
+      "food": 64.5,
+      "meat": 72.1,
+      "dairy": 45.4,
+      "cereals": 66.8,
+      "oils": 60.4,
+      "sugar": 67,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-03",
+      "food": 64.8,
+      "meat": 73.4,
+      "dairy": 46,
+      "cereals": 64.1,
+      "oils": 61.3,
+      "sugar": 72.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-04",
+      "food": 64.1,
+      "meat": 74,
+      "dairy": 42.3,
+      "cereals": 62.4,
+      "oils": 63.7,
+      "sugar": 68.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-05",
+      "food": 65.9,
+      "meat": 77,
+      "dairy": 42.3,
+      "cereals": 62,
+      "oils": 67.8,
+      "sugar": 71.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-06",
+      "food": 65.5,
+      "meat": 75.4,
+      "dairy": 45.1,
+      "cereals": 60.1,
+      "oils": 68.5,
+      "sugar": 74.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-07",
+      "food": 64.2,
+      "meat": 75.9,
+      "dairy": 45.6,
+      "cereals": 56,
+      "oils": 67.2,
+      "sugar": 72.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-08",
+      "food": 66.6,
+      "meat": 77.7,
+      "dairy": 46.6,
+      "cereals": 57.5,
+      "oils": 73.3,
+      "sugar": 74.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-09",
+      "food": 69.6,
+      "meat": 78.8,
+      "dairy": 49.9,
+      "cereals": 60.2,
+      "oils": 80.5,
+      "sugar": 77.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-10",
+      "food": 70.3,
+      "meat": 79.2,
+      "dairy": 52,
+      "cereals": 61.7,
+      "oils": 79,
+      "sugar": 78.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-11",
+      "food": 73.6,
+      "meat": 83,
+      "dairy": 53.2,
+      "cereals": 61.1,
+      "oils": 88.3,
+      "sugar": 86.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1994-12",
+      "food": 73.3,
+      "meat": 78.9,
+      "dairy": 55,
+      "cereals": 62.7,
+      "oils": 88.6,
+      "sugar": 90.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-01",
+      "food": 73,
+      "meat": 79.1,
+      "dairy": 58.9,
+      "cereals": 62.9,
+      "oils": 82.7,
+      "sugar": 91.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-02",
+      "food": 74.7,
+      "meat": 84,
+      "dairy": 61.1,
+      "cereals": 62.5,
+      "oils": 82.7,
+      "sugar": 89.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-03",
+      "food": 75.5,
+      "meat": 85.1,
+      "dairy": 61.8,
+      "cereals": 62.2,
+      "oils": 84.4,
+      "sugar": 90.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-04",
+      "food": 74.3,
+      "meat": 85.9,
+      "dairy": 61.1,
+      "cereals": 62.7,
+      "oils": 77.9,
+      "sugar": 84.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-05",
+      "food": 74.1,
+      "meat": 84.1,
+      "dairy": 61.2,
+      "cereals": 64.9,
+      "oils": 76.8,
+      "sugar": 83.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-06",
+      "food": 75.3,
+      "meat": 81.7,
+      "dairy": 61.2,
+      "cereals": 69.1,
+      "oils": 80.3,
+      "sugar": 86.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-07",
+      "food": 79.6,
+      "meat": 87.8,
+      "dairy": 64.6,
+      "cereals": 74,
+      "oils": 84,
+      "sugar": 84.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-08",
+      "food": 78.1,
+      "meat": 87.4,
+      "dairy": 64.3,
+      "cereals": 72.6,
+      "oils": 80,
+      "sugar": 80.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-09",
+      "food": 78.5,
+      "meat": 89,
+      "dairy": 64.3,
+      "cereals": 75.9,
+      "oils": 76.3,
+      "sugar": 72.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-10",
+      "food": 80.5,
+      "meat": 89.2,
+      "dairy": 64.8,
+      "cereals": 80.2,
+      "oils": 80,
+      "sugar": 73.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-11",
+      "food": 80,
+      "meat": 87.9,
+      "dairy": 64.8,
+      "cereals": 80.5,
+      "oils": 79,
+      "sugar": 74.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1995-12",
+      "food": 78.2,
+      "meat": 81.8,
+      "dairy": 64.4,
+      "cereals": 82.7,
+      "oils": 75.6,
+      "sugar": 76.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-01",
+      "food": 77.1,
+      "meat": 80.3,
+      "dairy": 64.3,
+      "cereals": 83.3,
+      "oils": 70.8,
+      "sugar": 77.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-02",
+      "food": 77.6,
+      "meat": 80.3,
+      "dairy": 64.2,
+      "cereals": 85.7,
+      "oils": 68.6,
+      "sugar": 79.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-03",
+      "food": 78.7,
+      "meat": 83.2,
+      "dairy": 63,
+      "cereals": 86.9,
+      "oils": 68.2,
+      "sugar": 79.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-04",
+      "food": 80.9,
+      "meat": 81.2,
+      "dairy": 62.7,
+      "cereals": 95.3,
+      "oils": 73.6,
+      "sugar": 74.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-05",
+      "food": 82.5,
+      "meat": 83.6,
+      "dairy": 61,
+      "cereals": 100,
+      "oils": 73.4,
+      "sugar": 70.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-06",
+      "food": 80.7,
+      "meat": 84.1,
+      "dairy": 61.1,
+      "cereals": 94.3,
+      "oils": 68.9,
+      "sugar": 75.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-07",
+      "food": 80.5,
+      "meat": 87.1,
+      "dairy": 61.3,
+      "cereals": 91.1,
+      "oils": 66.1,
+      "sugar": 79.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-08",
+      "food": 80.1,
+      "meat": 89.7,
+      "dairy": 60.7,
+      "cereals": 85.8,
+      "oils": 69.1,
+      "sugar": 76.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-09",
+      "food": 77.1,
+      "meat": 89.3,
+      "dairy": 60.1,
+      "cereals": 75.3,
+      "oils": 71.5,
+      "sugar": 73.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-10",
+      "food": 74.4,
+      "meat": 86.6,
+      "dairy": 61,
+      "cereals": 71.1,
+      "oils": 69.1,
+      "sugar": 68.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-11",
+      "food": 72.7,
+      "meat": 85.4,
+      "dairy": 59.9,
+      "cereals": 67.4,
+      "oils": 70,
+      "sugar": 66.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1996-12",
+      "food": 71.5,
+      "meat": 81.5,
+      "dairy": 60.2,
+      "cereals": 67.6,
+      "oils": 70.2,
+      "sugar": 66.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-01",
+      "food": 71,
+      "meat": 79.1,
+      "dairy": 60.3,
+      "cereals": 68.1,
+      "oils": 70.8,
+      "sugar": 66.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-02",
+      "food": 71.2,
+      "meat": 79.4,
+      "dairy": 59.5,
+      "cereals": 68.4,
+      "oils": 71.5,
+      "sugar": 66.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-03",
+      "food": 73,
+      "meat": 83.1,
+      "dairy": 59.3,
+      "cereals": 70.6,
+      "oils": 70.3,
+      "sugar": 68.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-04",
+      "food": 73.5,
+      "meat": 83.9,
+      "dairy": 59.1,
+      "cereals": 70.8,
+      "oils": 71.1,
+      "sugar": 69.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-05",
+      "food": 72.9,
+      "meat": 83.8,
+      "dairy": 58.8,
+      "cereals": 68.8,
+      "oils": 71.7,
+      "sugar": 68.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-06",
+      "food": 70.3,
+      "meat": 80.4,
+      "dairy": 58.6,
+      "cereals": 65.2,
+      "oils": 69,
+      "sugar": 70.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-07",
+      "food": 68.6,
+      "meat": 79.7,
+      "dairy": 58.1,
+      "cereals": 62.4,
+      "oils": 65.5,
+      "sugar": 69.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-08",
+      "food": 70,
+      "meat": 80.6,
+      "dairy": 57.8,
+      "cereals": 65.7,
+      "oils": 65.4,
+      "sugar": 72.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-09",
+      "food": 70.1,
+      "meat": 80.2,
+      "dairy": 59,
+      "cereals": 65.1,
+      "oils": 68,
+      "sugar": 70.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-10",
+      "food": 69.9,
+      "meat": 75.8,
+      "dairy": 60.8,
+      "cereals": 65.6,
+      "oils": 72.8,
+      "sugar": 70.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-11",
+      "food": 70.5,
+      "meat": 76,
+      "dairy": 61,
+      "cereals": 64.2,
+      "oils": 76.7,
+      "sugar": 74.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1997-12",
+      "food": 68.1,
+      "meat": 69.8,
+      "dairy": 61,
+      "cereals": 63.4,
+      "oils": 75.6,
+      "sugar": 76.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-01",
+      "food": 67.5,
+      "meat": 67.7,
+      "dairy": 60.9,
+      "cereals": 62.7,
+      "oils": 79.3,
+      "sugar": 71.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-02",
+      "food": 67.7,
+      "meat": 68.7,
+      "dairy": 59.7,
+      "cereals": 62.7,
+      "oils": 81.9,
+      "sugar": 66.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-03",
+      "food": 67.6,
+      "meat": 68.4,
+      "dairy": 57.8,
+      "cereals": 63.2,
+      "oils": 84.7,
+      "sugar": 60.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-04",
+      "food": 67,
+      "meat": 68.4,
+      "dairy": 57.6,
+      "cereals": 60.8,
+      "oils": 86,
+      "sugar": 60,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-05",
+      "food": 66.6,
+      "meat": 66.8,
+      "dairy": 56.5,
+      "cereals": 60.2,
+      "oils": 90,
+      "sugar": 57.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-06",
+      "food": 64.4,
+      "meat": 66.7,
+      "dairy": 55.6,
+      "cereals": 59,
+      "oils": 82.8,
+      "sugar": 50.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-07",
+      "food": 64.4,
+      "meat": 67,
+      "dairy": 55.3,
+      "cereals": 57.5,
+      "oils": 83.6,
+      "sugar": 53.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-08",
+      "food": 62.6,
+      "meat": 64.8,
+      "dairy": 55.4,
+      "cereals": 54.1,
+      "oils": 83.2,
+      "sugar": 52.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-09",
+      "food": 62.1,
+      "meat": 65.1,
+      "dairy": 53.9,
+      "cereals": 53.9,
+      "oils": 84.6,
+      "sugar": 44.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-10",
+      "food": 62.9,
+      "meat": 64.7,
+      "dairy": 52.1,
+      "cereals": 57.7,
+      "oils": 84.4,
+      "sugar": 46.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-11",
+      "food": 62.8,
+      "meat": 63.2,
+      "dairy": 52.1,
+      "cereals": 58.2,
+      "oils": 84.3,
+      "sugar": 49.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1998-12",
+      "food": 62.2,
+      "meat": 63.8,
+      "dairy": 52.3,
+      "cereals": 56.8,
+      "oils": 82,
+      "sugar": 50,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-01",
+      "food": 61.2,
+      "meat": 62.7,
+      "dairy": 52.4,
+      "cereals": 57.1,
+      "oils": 77.3,
+      "sugar": 50.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-02",
+      "food": 58.6,
+      "meat": 63.3,
+      "dairy": 51.5,
+      "cereals": 54.9,
+      "oils": 68.4,
+      "sugar": 42.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-03",
+      "food": 57.2,
+      "meat": 63.4,
+      "dairy": 50.7,
+      "cereals": 55.2,
+      "oils": 62.3,
+      "sugar": 37.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-04",
+      "food": 56,
+      "meat": 61.7,
+      "dairy": 48,
+      "cereals": 53.7,
+      "oils": 64.9,
+      "sugar": 33.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-05",
+      "food": 55.6,
+      "meat": 62.2,
+      "dairy": 47.4,
+      "cereals": 52.8,
+      "oils": 62.3,
+      "sugar": 35.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-06",
+      "food": 54.8,
+      "meat": 62.7,
+      "dairy": 47.1,
+      "cereals": 53.6,
+      "oils": 54.8,
+      "sugar": 37.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-07",
+      "food": 52.8,
+      "meat": 62.9,
+      "dairy": 46.4,
+      "cereals": 51.4,
+      "oils": 48.6,
+      "sugar": 33.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-08",
+      "food": 54.6,
+      "meat": 64.8,
+      "dairy": 46.4,
+      "cereals": 53,
+      "oils": 52.3,
+      "sugar": 35.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-09",
+      "food": 54.8,
+      "meat": 63.4,
+      "dairy": 46.8,
+      "cereals": 52.6,
+      "oils": 54.1,
+      "sugar": 41.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-10",
+      "food": 53.5,
+      "meat": 60.7,
+      "dairy": 47,
+      "cereals": 51.5,
+      "oils": 53,
+      "sugar": 41.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-11",
+      "food": 53.5,
+      "meat": 61.8,
+      "dairy": 47.5,
+      "cereals": 51.3,
+      "oils": 51.3,
+      "sugar": 40.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "1999-12",
+      "food": 52.1,
+      "meat": 59.5,
+      "dairy": 48.5,
+      "cereals": 50.4,
+      "oils": 49.5,
+      "sugar": 37.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-01",
+      "food": 52.8,
+      "meat": 60.6,
+      "dairy": 50.2,
+      "cereals": 52.1,
+      "oils": 48.6,
+      "sugar": 34.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-02",
+      "food": 52.5,
+      "meat": 60.9,
+      "dairy": 50.4,
+      "cereals": 52.2,
+      "oils": 46.4,
+      "sugar": 32.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-03",
+      "food": 53.1,
+      "meat": 62.8,
+      "dairy": 50.1,
+      "cereals": 51.7,
+      "oils": 47.8,
+      "sugar": 31.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-04",
+      "food": 53.7,
+      "meat": 62.3,
+      "dairy": 50.4,
+      "cereals": 51.8,
+      "oils": 49.5,
+      "sugar": 37.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-05",
+      "food": 54,
+      "meat": 63.3,
+      "dairy": 50.9,
+      "cereals": 52.8,
+      "oils": 44.5,
+      "sugar": 42.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-06",
+      "food": 54.2,
+      "meat": 63,
+      "dairy": 53.8,
+      "cereals": 51.4,
+      "oils": 42.9,
+      "sugar": 51.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-07",
+      "food": 54.4,
+      "meat": 62.7,
+      "dairy": 55.6,
+      "cereals": 49.8,
+      "oils": 42.7,
+      "sugar": 59.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-08",
+      "food": 53.5,
+      "meat": 60.3,
+      "dairy": 56,
+      "cereals": 48.6,
+      "oils": 41.7,
+      "sugar": 64.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-09",
+      "food": 52.9,
+      "meat": 59.4,
+      "dairy": 57.4,
+      "cereals": 49.4,
+      "oils": 38.5,
+      "sugar": 62.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-10",
+      "food": 53.7,
+      "meat": 59.5,
+      "dairy": 59.1,
+      "cereals": 51.2,
+      "oils": 36.4,
+      "sugar": 66.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-11",
+      "food": 54.2,
+      "meat": 60.4,
+      "dairy": 59.6,
+      "cereals": 52.1,
+      "oils": 37.7,
+      "sugar": 61.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2000-12",
+      "food": 54.8,
+      "meat": 60.4,
+      "dairy": 60.1,
+      "cereals": 53.7,
+      "oils": 38.1,
+      "sugar": 62,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-01",
+      "food": 54.1,
+      "meat": 58.3,
+      "dairy": 59.7,
+      "cereals": 53.9,
+      "oils": 37.3,
+      "sugar": 63.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-02",
+      "food": 54.6,
+      "meat": 62,
+      "dairy": 59.5,
+      "cereals": 53,
+      "oils": 35.8,
+      "sugar": 61.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-03",
+      "food": 55.5,
+      "meat": 64.9,
+      "dairy": 59.7,
+      "cereals": 52.2,
+      "oils": 38.2,
+      "sugar": 57.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-04",
+      "food": 55,
+      "meat": 65.3,
+      "dairy": 59.5,
+      "cereals": 51,
+      "oils": 38,
+      "sugar": 54.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-05",
+      "food": 55.8,
+      "meat": 65.6,
+      "dairy": 62,
+      "cereals": 51.7,
+      "oils": 36.6,
+      "sugar": 59.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-06",
+      "food": 55.2,
+      "meat": 63.8,
+      "dairy": 62.4,
+      "cereals": 51,
+      "oils": 38.9,
+      "sugar": 56,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-07",
+      "food": 56.9,
+      "meat": 64.1,
+      "dairy": 62.9,
+      "cereals": 51.7,
+      "oils": 47.4,
+      "sugar": 54.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-08",
+      "food": 57,
+      "meat": 64.4,
+      "dairy": 62.5,
+      "cereals": 51.6,
+      "oils": 50,
+      "sugar": 50.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-09",
+      "food": 55.8,
+      "meat": 64.3,
+      "dairy": 62.1,
+      "cereals": 51.2,
+      "oils": 45.4,
+      "sugar": 47.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-10",
+      "food": 54.5,
+      "meat": 62.4,
+      "dairy": 62.8,
+      "cereals": 51,
+      "oils": 43.3,
+      "sugar": 42,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-11",
+      "food": 55.1,
+      "meat": 60.6,
+      "dairy": 60.6,
+      "cereals": 51.9,
+      "oils": 48.3,
+      "sugar": 47.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2001-12",
+      "food": 54.6,
+      "meat": 59.2,
+      "dairy": 56.9,
+      "cereals": 52,
+      "oils": 50.6,
+      "sugar": 48.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-01",
+      "food": 53.8,
+      "meat": 59.4,
+      "dairy": 53,
+      "cereals": 51.7,
+      "oils": 49.3,
+      "sugar": 48.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-02",
+      "food": 52,
+      "meat": 57.6,
+      "dairy": 52.8,
+      "cereals": 50.4,
+      "oils": 47.8,
+      "sugar": 40.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-03",
+      "food": 52.3,
+      "meat": 60.1,
+      "dairy": 50.7,
+      "cereals": 49.6,
+      "oils": 47.6,
+      "sugar": 41.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-04",
+      "food": 51.4,
+      "meat": 57.2,
+      "dairy": 48.9,
+      "cereals": 49.3,
+      "oils": 49,
+      "sugar": 42.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-05",
+      "food": 50.8,
+      "meat": 56.2,
+      "dairy": 44.8,
+      "cereals": 50.2,
+      "oils": 51.6,
+      "sugar": 37.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-06",
+      "food": 51.6,
+      "meat": 56.3,
+      "dairy": 42.9,
+      "cereals": 52,
+      "oils": 55.8,
+      "sugar": 35.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-07",
+      "food": 52.3,
+      "meat": 55.9,
+      "dairy": 40.6,
+      "cereals": 54.6,
+      "oils": 56.2,
+      "sugar": 39.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-08",
+      "food": 53.7,
+      "meat": 55.8,
+      "dairy": 40.1,
+      "cereals": 58.1,
+      "oils": 59.7,
+      "sugar": 39,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-09",
+      "food": 55.1,
+      "meat": 55.1,
+      "dairy": 41.6,
+      "cereals": 63.8,
+      "oils": 56.7,
+      "sugar": 43.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-10",
+      "food": 55.5,
+      "meat": 53.5,
+      "dairy": 42.9,
+      "cereals": 64.4,
+      "oils": 58.8,
+      "sugar": 46.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-11",
+      "food": 56.6,
+      "meat": 53.9,
+      "dairy": 45.5,
+      "cereals": 63,
+      "oils": 63.9,
+      "sugar": 48.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2002-12",
+      "food": 56,
+      "meat": 52.3,
+      "dairy": 49.3,
+      "cereals": 59.8,
+      "oils": 65.5,
+      "sugar": 49.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-01",
+      "food": 56.2,
+      "meat": 53.9,
+      "dairy": 51.3,
+      "cereals": 58,
+      "oils": 64.3,
+      "sugar": 50.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-02",
+      "food": 56.9,
+      "meat": 55.1,
+      "dairy": 53.1,
+      "cereals": 57.8,
+      "oils": 62.4,
+      "sugar": 55.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-03",
+      "food": 55.9,
+      "meat": 55.7,
+      "dairy": 53.7,
+      "cereals": 56.5,
+      "oils": 59.2,
+      "sugar": 50.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-04",
+      "food": 55.9,
+      "meat": 56.7,
+      "dairy": 52.7,
+      "cereals": 56.4,
+      "oils": 59.6,
+      "sugar": 48,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-05",
+      "food": 56.7,
+      "meat": 57.4,
+      "dairy": 52.6,
+      "cereals": 58.2,
+      "oils": 61.1,
+      "sugar": 44.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-06",
+      "food": 56.4,
+      "meat": 57.3,
+      "dairy": 52.6,
+      "cereals": 57.7,
+      "oils": 62,
+      "sugar": 41.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-07",
+      "food": 57.1,
+      "meat": 61.5,
+      "dairy": 53.2,
+      "cereals": 56.5,
+      "oils": 58.8,
+      "sugar": 42.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-08",
+      "food": 57.8,
+      "meat": 61.4,
+      "dairy": 53.6,
+      "cereals": 59.9,
+      "oils": 57.1,
+      "sugar": 42.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-09",
+      "food": 59,
+      "meat": 63.7,
+      "dairy": 55.2,
+      "cereals": 60.5,
+      "oils": 59.3,
+      "sugar": 37,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-10",
+      "food": 60.6,
+      "meat": 63.6,
+      "dairy": 57.6,
+      "cereals": 60.6,
+      "oils": 67.4,
+      "sugar": 36.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-11",
+      "food": 62,
+      "meat": 62.9,
+      "dairy": 58.6,
+      "cereals": 64.8,
+      "oils": 68.8,
+      "sugar": 37.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2003-12",
+      "food": 62.9,
+      "meat": 62.5,
+      "dairy": 59.7,
+      "cereals": 65.7,
+      "oils": 71.6,
+      "sugar": 38.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-01",
+      "food": 64.7,
+      "meat": 67.2,
+      "dairy": 60.9,
+      "cereals": 66.9,
+      "oils": 71.2,
+      "sugar": 35.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-02",
+      "food": 65.5,
+      "meat": 65.1,
+      "dairy": 64.3,
+      "cereals": 67.5,
+      "oils": 76.1,
+      "sugar": 36.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-03",
+      "food": 67.1,
+      "meat": 67.6,
+      "dairy": 65.2,
+      "cereals": 68.5,
+      "oils": 76.7,
+      "sugar": 40,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-04",
+      "food": 67.7,
+      "meat": 67.5,
+      "dairy": 65.8,
+      "cereals": 70.2,
+      "oils": 76.5,
+      "sugar": 40.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-05",
+      "food": 66.8,
+      "meat": 67,
+      "dairy": 67.8,
+      "cereals": 68.8,
+      "oils": 73.5,
+      "sugar": 39.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-06",
+      "food": 66.4,
+      "meat": 69.9,
+      "dairy": 70.7,
+      "cereals": 66.4,
+      "oils": 66.1,
+      "sugar": 42.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-07",
+      "food": 65.8,
+      "meat": 71.6,
+      "dairy": 72.6,
+      "cereals": 60.7,
+      "oils": 64.8,
+      "sugar": 49,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-08",
+      "food": 64.8,
+      "meat": 69.8,
+      "dairy": 72.7,
+      "cereals": 59.1,
+      "oils": 65.4,
+      "sugar": 46.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-09",
+      "food": 65.4,
+      "meat": 70.2,
+      "dairy": 73.3,
+      "cereals": 60,
+      "oils": 66.3,
+      "sugar": 47.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-10",
+      "food": 64.9,
+      "meat": 68.2,
+      "dairy": 73.8,
+      "cereals": 59.3,
+      "oils": 65.8,
+      "sugar": 52.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-11",
+      "food": 65.7,
+      "meat": 69.2,
+      "dairy": 75.1,
+      "cereals": 60,
+      "oils": 66.9,
+      "sugar": 50.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2004-12",
+      "food": 66,
+      "meat": 69.9,
+      "dairy": 75.8,
+      "cereals": 60.5,
+      "oils": 66,
+      "sugar": 51,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-01",
+      "food": 65.8,
+      "meat": 69.9,
+      "dairy": 76.2,
+      "cereals": 60.5,
+      "oils": 63.2,
+      "sugar": 54,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-02",
+      "food": 66.2,
+      "meat": 71.1,
+      "dairy": 76.7,
+      "cereals": 60.3,
+      "oils": 62.3,
+      "sugar": 56.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-03",
+      "food": 67.5,
+      "meat": 71.7,
+      "dairy": 77,
+      "cereals": 61.5,
+      "oils": 66.7,
+      "sugar": 55,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-04",
+      "food": 66,
+      "meat": 70.4,
+      "dairy": 76.2,
+      "cereals": 59.5,
+      "oils": 65.1,
+      "sugar": 53.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-05",
+      "food": 66.5,
+      "meat": 72.6,
+      "dairy": 76.5,
+      "cereals": 59.4,
+      "oils": 64.2,
+      "sugar": 53.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-06",
+      "food": 67.4,
+      "meat": 73.6,
+      "dairy": 76.4,
+      "cereals": 60.2,
+      "oils": 64.6,
+      "sugar": 56,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-07",
+      "food": 67.7,
+      "meat": 72.6,
+      "dairy": 77.1,
+      "cereals": 61.2,
+      "oils": 64.4,
+      "sugar": 59.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-08",
+      "food": 67.6,
+      "meat": 72.8,
+      "dairy": 78.3,
+      "cereals": 60.9,
+      "oils": 62.5,
+      "sugar": 61.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-09",
+      "food": 68.6,
+      "meat": 73.9,
+      "dairy": 78.7,
+      "cereals": 61.5,
+      "oils": 64,
+      "sugar": 63.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-10",
+      "food": 69.5,
+      "meat": 73.8,
+      "dairy": 78.5,
+      "cereals": 62.1,
+      "oils": 66.8,
+      "sugar": 68.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-11",
+      "food": 69,
+      "meat": 74.1,
+      "dairy": 78,
+      "cereals": 60.6,
+      "oils": 65.4,
+      "sugar": 70.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2005-12",
+      "food": 69.8,
+      "meat": 74.4,
+      "dairy": 76.9,
+      "cereals": 61.5,
+      "oils": 63.5,
+      "sugar": 82.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-01",
+      "food": 69.8,
+      "meat": 71.2,
+      "dairy": 74.3,
+      "cereals": 62.7,
+      "oils": 63.7,
+      "sugar": 97.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-02",
+      "food": 70.8,
+      "meat": 68.8,
+      "dairy": 74.5,
+      "cereals": 64.8,
+      "oils": 65,
+      "sugar": 111.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-03",
+      "food": 69.8,
+      "meat": 68,
+      "dairy": 73.1,
+      "cereals": 63.9,
+      "oils": 65.2,
+      "sugar": 106.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-04",
+      "food": 70.1,
+      "meat": 67.4,
+      "dairy": 71.6,
+      "cereals": 65.1,
+      "oils": 66.8,
+      "sugar": 108.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-05",
+      "food": 71.3,
+      "meat": 69,
+      "dairy": 71.3,
+      "cereals": 67.8,
+      "oils": 68.3,
+      "sugar": 104.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-06",
+      "food": 71.4,
+      "meat": 71.3,
+      "dairy": 71,
+      "cereals": 67.8,
+      "oils": 67.9,
+      "sugar": 95.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-07",
+      "food": 73.2,
+      "meat": 72.7,
+      "dairy": 71.3,
+      "cereals": 69.9,
+      "oils": 70.5,
+      "sugar": 99.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-08",
+      "food": 73.1,
+      "meat": 74.8,
+      "dairy": 70.3,
+      "cereals": 69.6,
+      "oils": 73.6,
+      "sugar": 83.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-09",
+      "food": 73.2,
+      "meat": 75.3,
+      "dairy": 70.3,
+      "cereals": 72.5,
+      "oils": 71.7,
+      "sugar": 74.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-10",
+      "food": 75.1,
+      "meat": 74.3,
+      "dairy": 71.9,
+      "cereals": 79.9,
+      "oils": 72.7,
+      "sugar": 72,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-11",
+      "food": 77.7,
+      "meat": 72.6,
+      "dairy": 75.4,
+      "cereals": 85.3,
+      "oils": 78.4,
+      "sugar": 72.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2006-12",
+      "food": 78.8,
+      "meat": 71.3,
+      "dairy": 81.7,
+      "cereals": 85.4,
+      "oils": 83,
+      "sugar": 71.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-01",
+      "food": 78.5,
+      "meat": 70.7,
+      "dairy": 84.2,
+      "cereals": 85.1,
+      "oils": 82.3,
+      "sugar": 67.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-02",
+      "food": 80,
+      "meat": 72.2,
+      "dairy": 88.3,
+      "cereals": 87,
+      "oils": 82.9,
+      "sugar": 65.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-03",
+      "food": 81.1,
+      "meat": 73.9,
+      "dairy": 91.8,
+      "cereals": 86.4,
+      "oils": 84.4,
+      "sugar": 64.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-04",
+      "food": 83.9,
+      "meat": 75.8,
+      "dairy": 102,
+      "cereals": 85.1,
+      "oils": 92.8,
+      "sugar": 60.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-05",
+      "food": 86.5,
+      "meat": 77.5,
+      "dairy": 105.3,
+      "cereals": 86.6,
+      "oils": 100.3,
+      "sugar": 58.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-06",
+      "food": 91.4,
+      "meat": 78.8,
+      "dairy": 121,
+      "cereals": 91.9,
+      "oils": 104.9,
+      "sugar": 57.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-07",
+      "food": 95.5,
+      "meat": 79.9,
+      "dairy": 135,
+      "cereals": 94.9,
+      "oils": 108.6,
+      "sugar": 62.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-08",
+      "food": 99.1,
+      "meat": 79.9,
+      "dairy": 141.5,
+      "cereals": 102.1,
+      "oils": 112.8,
+      "sugar": 60.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-09",
+      "food": 105.3,
+      "meat": 81.4,
+      "dairy": 145.1,
+      "cereals": 117.2,
+      "oils": 118.3,
+      "sugar": 60.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-10",
+      "food": 107.9,
+      "meat": 80.1,
+      "dairy": 148,
+      "cereals": 121.3,
+      "oils": 125.9,
+      "sugar": 61.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-11",
+      "food": 110.8,
+      "meat": 81.1,
+      "dairy": 154,
+      "cereals": 121,
+      "oils": 136.3,
+      "sugar": 62.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2007-12",
+      "food": 114.7,
+      "meat": 81.8,
+      "dairy": 152.6,
+      "cereals": 132.2,
+      "oils": 138.6,
+      "sugar": 66.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-01",
+      "food": 120.4,
+      "meat": 82.8,
+      "dairy": 150.6,
+      "cereals": 141,
+      "oils": 154.1,
+      "sugar": 74.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-02",
+      "food": 128.4,
+      "meat": 80.6,
+      "dairy": 149.9,
+      "cereals": 160.8,
+      "oils": 168.6,
+      "sugar": 83.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-03",
+      "food": 132.4,
+      "meat": 85.6,
+      "dairy": 152.6,
+      "cereals": 163.3,
+      "oils": 176.6,
+      "sugar": 81.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-04",
+      "food": 130.7,
+      "meat": 87,
+      "dairy": 148.9,
+      "cereals": 162.7,
+      "oils": 169.4,
+      "sugar": 77.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-05",
+      "food": 130.3,
+      "meat": 91.8,
+      "dairy": 144.3,
+      "cereals": 157.4,
+      "oils": 172,
+      "sugar": 74.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-06",
+      "food": 132.7,
+      "meat": 93.6,
+      "dairy": 143.9,
+      "cereals": 160.3,
+      "oils": 178.3,
+      "sugar": 75,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-07",
+      "food": 130.2,
+      "meat": 100.4,
+      "dairy": 144.1,
+      "cereals": 148.2,
+      "oils": 164.8,
+      "sugar": 88.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-08",
+      "food": 121.2,
+      "meat": 102.1,
+      "dairy": 133.5,
+      "cereals": 136.5,
+      "oils": 135.6,
+      "sugar": 90.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-09",
+      "food": 112.8,
+      "meat": 100.9,
+      "dairy": 120.5,
+      "cereals": 125.3,
+      "oils": 120.6,
+      "sugar": 83.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-10",
+      "food": 97.8,
+      "meat": 95.7,
+      "dairy": 107,
+      "cereals": 104.9,
+      "oils": 92.2,
+      "sugar": 73.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-11",
+      "food": 89.7,
+      "meat": 87.9,
+      "dairy": 97.8,
+      "cereals": 96,
+      "oils": 82,
+      "sugar": 74.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2008-12",
+      "food": 86.3,
+      "meat": 81.8,
+      "dairy": 94.9,
+      "cereals": 95.1,
+      "oils": 78.6,
+      "sugar": 72.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-01",
+      "food": 86.7,
+      "meat": 78.1,
+      "dairy": 88.2,
+      "cereals": 100.4,
+      "oils": 82.8,
+      "sugar": 77.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-02",
+      "food": 84.5,
+      "meat": 76,
+      "dairy": 82.6,
+      "cereals": 97.2,
+      "oils": 82.2,
+      "sugar": 81.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-03",
+      "food": 84.3,
+      "meat": 76.1,
+      "dairy": 80.9,
+      "cereals": 97.2,
+      "oils": 81.5,
+      "sugar": 82.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-04",
+      "food": 87.4,
+      "meat": 78.5,
+      "dairy": 80.4,
+      "cereals": 98.1,
+      "oils": 93.8,
+      "sugar": 84.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-05",
+      "food": 93.5,
+      "meat": 81.3,
+      "dairy": 83.5,
+      "cereals": 103.3,
+      "oils": 106.6,
+      "sugar": 99.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-06",
+      "food": 93.4,
+      "meat": 83.4,
+      "dairy": 84.7,
+      "cereals": 103,
+      "oils": 100.7,
+      "sugar": 101.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-07",
+      "food": 90.7,
+      "meat": 85.2,
+      "dairy": 85.1,
+      "cereals": 94.5,
+      "oils": 89.9,
+      "sugar": 114,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-08",
+      "food": 93.5,
+      "meat": 85.4,
+      "dairy": 88,
+      "cereals": 91.9,
+      "oils": 97.9,
+      "sugar": 138.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-09",
+      "food": 93.1,
+      "meat": 84.5,
+      "dairy": 95.1,
+      "cereals": 89.8,
+      "oils": 93.3,
+      "sugar": 142.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-10",
+      "food": 94.8,
+      "meat": 82.6,
+      "dairy": 102.7,
+      "cereals": 93.8,
+      "oils": 95.2,
+      "sugar": 140.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-11",
+      "food": 98.9,
+      "meat": 83.9,
+      "dairy": 113.1,
+      "cereals": 98,
+      "oils": 101.8,
+      "sugar": 137.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2009-12",
+      "food": 100.8,
+      "meat": 84.5,
+      "dairy": 112.8,
+      "cereals": 99,
+      "oils": 107.6,
+      "sugar": 145.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-01",
+      "food": 101.8,
+      "meat": 86,
+      "dairy": 109,
+      "cereals": 98.4,
+      "oils": 107.1,
+      "sugar": 163.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-02",
+      "food": 99.3,
+      "meat": 86.5,
+      "dairy": 101.6,
+      "cereals": 94,
+      "oils": 107.3,
+      "sugar": 157.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-03",
+      "food": 96.5,
+      "meat": 87.5,
+      "dairy": 101.6,
+      "cereals": 91.8,
+      "oils": 110.3,
+      "sugar": 115.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-04",
+      "food": 97.1,
+      "meat": 90.1,
+      "dairy": 109.7,
+      "cereals": 90.7,
+      "oils": 109.4,
+      "sugar": 101.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-05",
+      "food": 96.4,
+      "meat": 90.1,
+      "dairy": 111.8,
+      "cereals": 90.6,
+      "oils": 107.2,
+      "sugar": 94.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-06",
+      "food": 95.9,
+      "meat": 91.2,
+      "dairy": 110.4,
+      "cereals": 87.8,
+      "oils": 106,
+      "sugar": 98.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-07",
+      "food": 100,
+      "meat": 92,
+      "dairy": 112.8,
+      "cereals": 95.3,
+      "oils": 110.1,
+      "sugar": 107.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-08",
+      "food": 107.8,
+      "meat": 92.9,
+      "dairy": 112.3,
+      "cereals": 112.9,
+      "oils": 121.8,
+      "sugar": 114.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-09",
+      "food": 114.1,
+      "meat": 92.5,
+      "dairy": 116,
+      "cereals": 125.9,
+      "oils": 124.9,
+      "sugar": 138.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-10",
+      "food": 120.1,
+      "meat": 93.9,
+      "dairy": 121.4,
+      "cereals": 130.6,
+      "oils": 139.2,
+      "sugar": 152.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-11",
+      "food": 124.2,
+      "meat": 96.4,
+      "dairy": 118.7,
+      "cereals": 132.4,
+      "oils": 153.9,
+      "sugar": 162.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2010-12",
+      "food": 129.4,
+      "meat": 97.5,
+      "dairy": 117.4,
+      "cereals": 139.7,
+      "oils": 166.3,
+      "sugar": 173.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-01",
+      "food": 133.8,
+      "meat": 97.9,
+      "dairy": 122.8,
+      "cereals": 144.9,
+      "oils": 174.5,
+      "sugar": 183.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-02",
+      "food": 137.7,
+      "meat": 100.5,
+      "dairy": 130.3,
+      "cereals": 151.4,
+      "oils": 175.4,
+      "sugar": 182.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-03",
+      "food": 134.3,
+      "meat": 103.6,
+      "dairy": 135.8,
+      "cereals": 145.5,
+      "oils": 163.1,
+      "sugar": 162.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-04",
+      "food": 136.3,
+      "meat": 107.5,
+      "dairy": 134.5,
+      "cereals": 151.7,
+      "oils": 162.8,
+      "sugar": 150.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-05",
+      "food": 135.1,
+      "meat": 108,
+      "dairy": 134.2,
+      "cereals": 150.9,
+      "oils": 162.4,
+      "sugar": 136.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-06",
+      "food": 134.8,
+      "meat": 106.2,
+      "dairy": 135.3,
+      "cereals": 147.1,
+      "oils": 160.8,
+      "sugar": 156,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-07",
+      "food": 133,
+      "meat": 105.8,
+      "dairy": 133.6,
+      "cereals": 140.5,
+      "oils": 156.1,
+      "sugar": 174.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-08",
+      "food": 132.7,
+      "meat": 104.9,
+      "dairy": 131.9,
+      "cereals": 144.9,
+      "oils": 151.5,
+      "sugar": 171.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-09",
+      "food": 130.1,
+      "meat": 106.1,
+      "dairy": 127.1,
+      "cereals": 140.5,
+      "oils": 147.8,
+      "sugar": 165.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-10",
+      "food": 125.6,
+      "meat": 105.9,
+      "dairy": 126.2,
+      "cereals": 133.1,
+      "oils": 138,
+      "sugar": 157.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-11",
+      "food": 125.9,
+      "meat": 107.8,
+      "dairy": 125.1,
+      "cereals": 130.9,
+      "oils": 145,
+      "sugar": 148.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2011-12",
+      "food": 121.9,
+      "meat": 106.1,
+      "dairy": 122,
+      "cereals": 124.4,
+      "oils": 140.5,
+      "sugar": 142.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-01",
+      "food": 122.2,
+      "meat": 102.6,
+      "dairy": 120.3,
+      "cereals": 127.2,
+      "oils": 144.3,
+      "sugar": 145.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-02",
+      "food": 125.3,
+      "meat": 105.5,
+      "dairy": 121.2,
+      "cereals": 131.1,
+      "oils": 148.3,
+      "sugar": 149.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-03",
+      "food": 125.7,
+      "meat": 106.2,
+      "dairy": 118.1,
+      "cereals": 130.6,
+      "oils": 152.5,
+      "sugar": 149.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-04",
+      "food": 124.4,
+      "meat": 105.8,
+      "dairy": 112.5,
+      "cereals": 129.1,
+      "oils": 156.3,
+      "sugar": 141.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-05",
+      "food": 119,
+      "meat": 103.7,
+      "dairy": 105.5,
+      "cereals": 126.3,
+      "oils": 144.4,
+      "sugar": 128.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-06",
+      "food": 115.8,
+      "meat": 101.1,
+      "dairy": 102.3,
+      "cereals": 125.3,
+      "oils": 135.3,
+      "sugar": 126.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-07",
+      "food": 122,
+      "meat": 99.8,
+      "dairy": 99.7,
+      "cereals": 143.9,
+      "oils": 138.6,
+      "sugar": 141.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-08",
+      "food": 123.2,
+      "meat": 102.5,
+      "dairy": 102,
+      "cereals": 147.1,
+      "oils": 138.3,
+      "sugar": 129.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-09",
+      "food": 125.1,
+      "meat": 106.7,
+      "dairy": 111,
+      "cereals": 146.8,
+      "oils": 136.9,
+      "sugar": 123.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-10",
+      "food": 124,
+      "meat": 107.9,
+      "dairy": 114.2,
+      "cereals": 146.5,
+      "oils": 124.9,
+      "sugar": 125.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-11",
+      "food": 123.5,
+      "meat": 107.4,
+      "dairy": 114.9,
+      "cereals": 148.5,
+      "oils": 121.5,
+      "sugar": 119.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2012-12",
+      "food": 122.8,
+      "meat": 107.2,
+      "dairy": 118.1,
+      "cereals": 146.4,
+      "oils": 118.4,
+      "sugar": 119.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-01",
+      "food": 123.4,
+      "meat": 106.6,
+      "dairy": 121,
+      "cereals": 145.2,
+      "oils": 124.3,
+      "sugar": 116.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-02",
+      "food": 123.3,
+      "meat": 107.8,
+      "dairy": 123.8,
+      "cereals": 142.3,
+      "oils": 125.6,
+      "sugar": 113,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-03",
+      "food": 122.9,
+      "meat": 108.2,
+      "dairy": 128,
+      "cereals": 139.9,
+      "oils": 122.4,
+      "sugar": 114.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-04",
+      "food": 122.9,
+      "meat": 108.8,
+      "dairy": 140.8,
+      "cereals": 134.9,
+      "oils": 120.6,
+      "sugar": 110.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-05",
+      "food": 122.2,
+      "meat": 105.7,
+      "dairy": 140,
+      "cereals": 136.4,
+      "oils": 121.1,
+      "sugar": 109.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-06",
+      "food": 120.9,
+      "meat": 105,
+      "dairy": 140.3,
+      "cereals": 133.8,
+      "oils": 120.7,
+      "sugar": 105.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-07",
+      "food": 118,
+      "meat": 104.7,
+      "dairy": 141,
+      "cereals": 126.4,
+      "oils": 116.2,
+      "sugar": 104.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-08",
+      "food": 116.2,
+      "meat": 105.5,
+      "dairy": 145.6,
+      "cereals": 119.2,
+      "oils": 111.9,
+      "sugar": 105.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-09",
+      "food": 116.4,
+      "meat": 106,
+      "dairy": 149,
+      "cereals": 116.7,
+      "oils": 112.9,
+      "sugar": 107.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-10",
+      "food": 118.7,
+      "meat": 106.3,
+      "dairy": 153,
+      "cereals": 118.7,
+      "oils": 116,
+      "sugar": 115.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-11",
+      "food": 118.6,
+      "meat": 105.4,
+      "dairy": 151.9,
+      "cereals": 118,
+      "oils": 122,
+      "sugar": 109.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2013-12",
+      "food": 118.2,
+      "meat": 104.7,
+      "dairy": 156.5,
+      "cereals": 117.9,
+      "oils": 120.4,
+      "sugar": 102.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-01",
+      "food": 116.2,
+      "meat": 103.2,
+      "dairy": 156.2,
+      "cereals": 117,
+      "oils": 115.6,
+      "sugar": 96.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-02",
+      "food": 118.6,
+      "meat": 104.1,
+      "dairy": 156.4,
+      "cereals": 119.7,
+      "oils": 120.8,
+      "sugar": 102.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-03",
+      "food": 122.1,
+      "meat": 106.3,
+      "dairy": 154.8,
+      "cereals": 125.4,
+      "oils": 125.4,
+      "sugar": 110.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-04",
+      "food": 121.5,
+      "meat": 109.7,
+      "dairy": 147.3,
+      "cereals": 125.5,
+      "oils": 121.5,
+      "sugar": 109,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-05",
+      "food": 121.2,
+      "meat": 111.7,
+      "dairy": 141.8,
+      "cereals": 125.2,
+      "oils": 119.2,
+      "sugar": 113.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-06",
+      "food": 119.2,
+      "meat": 116,
+      "dairy": 136.1,
+      "cereals": 118.7,
+      "oils": 115.2,
+      "sugar": 112.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-07",
+      "food": 116.3,
+      "meat": 117.4,
+      "dairy": 130.2,
+      "cereals": 112.2,
+      "oils": 110.6,
+      "sugar": 113,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-08",
+      "food": 112.8,
+      "meat": 118.5,
+      "dairy": 120.6,
+      "cereals": 110.4,
+      "oils": 101.7,
+      "sugar": 106.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-09",
+      "food": 109.2,
+      "meat": 117.5,
+      "dairy": 110.8,
+      "cereals": 107.4,
+      "oils": 98.6,
+      "sugar": 99.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-10",
+      "food": 109.3,
+      "meat": 117.1,
+      "dairy": 107.1,
+      "cereals": 108.2,
+      "oils": 100.1,
+      "sugar": 103.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-11",
+      "food": 108.1,
+      "meat": 114.8,
+      "dairy": 102.6,
+      "cereals": 109.3,
+      "oils": 100.9,
+      "sugar": 100.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2014-12",
+      "food": 105.2,
+      "meat": 108.9,
+      "dairy": 98.5,
+      "cereals": 110.9,
+      "oils": 97.9,
+      "sugar": 94.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-01",
+      "food": 101,
+      "meat": 104.6,
+      "dairy": 92.4,
+      "cereals": 105.9,
+      "oils": 95,
+      "sugar": 95,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-02",
+      "food": 98.7,
+      "meat": 101.3,
+      "dairy": 95.2,
+      "cereals": 101.6,
+      "oils": 95.2,
+      "sugar": 90.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-03",
+      "food": 95.7,
+      "meat": 97.1,
+      "dairy": 95.1,
+      "cereals": 99.5,
+      "oils": 92.6,
+      "sugar": 82,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-04",
+      "food": 94.6,
+      "meat": 97.4,
+      "dairy": 90.6,
+      "cereals": 98.2,
+      "oils": 91.9,
+      "sugar": 80.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-05",
+      "food": 95,
+      "meat": 99.6,
+      "dairy": 89.9,
+      "cereals": 95.7,
+      "oils": 94.5,
+      "sugar": 82.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-06",
+      "food": 94.6,
+      "meat": 98.7,
+      "dairy": 87.7,
+      "cereals": 96.7,
+      "oils": 95.9,
+      "sugar": 77.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-07",
+      "food": 93.8,
+      "meat": 99,
+      "dairy": 82.2,
+      "cereals": 98.9,
+      "oils": 90.4,
+      "sugar": 79,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-08",
+      "food": 89.5,
+      "meat": 99,
+      "dairy": 79.9,
+      "cereals": 91.9,
+      "oils": 82.3,
+      "sugar": 71.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-09",
+      "food": 88.9,
+      "meat": 96.7,
+      "dairy": 83.2,
+      "cereals": 90.5,
+      "oils": 82,
+      "sugar": 73.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-10",
+      "food": 90.3,
+      "meat": 92.1,
+      "dairy": 88,
+      "cereals": 91.7,
+      "oils": 87.8,
+      "sugar": 86.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-11",
+      "food": 87.7,
+      "meat": 89.2,
+      "dairy": 80.5,
+      "cereals": 90.5,
+      "oils": 85.1,
+      "sugar": 90,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2015-12",
+      "food": 87,
+      "meat": 86.8,
+      "dairy": 81,
+      "cereals": 89.4,
+      "oils": 86.7,
+      "sugar": 90.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-01",
+      "food": 84.9,
+      "meat": 84.4,
+      "dairy": 79.4,
+      "cereals": 87.6,
+      "oils": 85.3,
+      "sugar": 86.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-02",
+      "food": 86.1,
+      "meat": 86,
+      "dairy": 78.8,
+      "cereals": 87.3,
+      "oils": 92.2,
+      "sugar": 81.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-03",
+      "food": 87.4,
+      "meat": 86.1,
+      "dairy": 76.7,
+      "cereals": 86.5,
+      "oils": 97.3,
+      "sugar": 95.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-04",
+      "food": 89.1,
+      "meat": 87.7,
+      "dairy": 77.1,
+      "cereals": 88.4,
+      "oils": 101.2,
+      "sugar": 93.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-05",
+      "food": 90.6,
+      "meat": 90.2,
+      "dairy": 72.7,
+      "cereals": 91.1,
+      "oils": 99.6,
+      "sugar": 104.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-06",
+      "food": 93.8,
+      "meat": 94.1,
+      "dairy": 73.9,
+      "cereals": 94.1,
+      "oils": 97.9,
+      "sugar": 120.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-07",
+      "food": 93,
+      "meat": 95.3,
+      "dairy": 76,
+      "cereals": 90.4,
+      "oils": 94.9,
+      "sugar": 121.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-08",
+      "food": 95.3,
+      "meat": 96.4,
+      "dairy": 81.8,
+      "cereals": 89.3,
+      "oils": 102.4,
+      "sugar": 124.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-09",
+      "food": 96.1,
+      "meat": 94.9,
+      "dairy": 90.9,
+      "cereals": 86.3,
+      "oils": 104.3,
+      "sugar": 132.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-10",
+      "food": 95.9,
+      "meat": 93,
+      "dairy": 93.8,
+      "cereals": 86.7,
+      "oils": 101.9,
+      "sugar": 137.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-11",
+      "food": 96,
+      "meat": 93.9,
+      "dairy": 94.5,
+      "cereals": 86,
+      "oils": 106.2,
+      "sugar": 125.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2016-12",
+      "food": 95.3,
+      "meat": 91.2,
+      "dairy": 96.2,
+      "cereals": 86.1,
+      "oils": 110.3,
+      "sugar": 114.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-01",
+      "food": 97.8,
+      "meat": 92.2,
+      "dairy": 98.6,
+      "cereals": 88.7,
+      "oils": 112.2,
+      "sugar": 125.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-02",
+      "food": 98.1,
+      "meat": 94,
+      "dairy": 99.2,
+      "cereals": 90,
+      "oils": 108,
+      "sugar": 125.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-03",
+      "food": 96.2,
+      "meat": 95.4,
+      "dairy": 100.6,
+      "cereals": 87.9,
+      "oils": 101.6,
+      "sugar": 111.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-04",
+      "food": 95,
+      "meat": 97.3,
+      "dairy": 100,
+      "cereals": 86.9,
+      "oils": 97.6,
+      "sugar": 101.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-05",
+      "food": 97.3,
+      "meat": 99.3,
+      "dairy": 104.8,
+      "cereals": 88.3,
+      "oils": 102,
+      "sugar": 99.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-06",
+      "food": 97.8,
+      "meat": 100.1,
+      "dairy": 109.7,
+      "cereals": 92.4,
+      "oils": 97.5,
+      "sugar": 86,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-07",
+      "food": 100,
+      "meat": 100.6,
+      "dairy": 113.9,
+      "cereals": 96.9,
+      "oils": 96.7,
+      "sugar": 90.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-08",
+      "food": 99.2,
+      "meat": 100,
+      "dairy": 116.9,
+      "cereals": 92.3,
+      "oils": 99.2,
+      "sugar": 88.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-09",
+      "food": 99.7,
+      "meat": 98.6,
+      "dairy": 118.4,
+      "cereals": 92.1,
+      "oils": 103.8,
+      "sugar": 89,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-10",
+      "food": 98.8,
+      "meat": 98.2,
+      "dairy": 115.4,
+      "cereals": 91.8,
+      "oils": 102.7,
+      "sugar": 88.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-11",
+      "food": 98.8,
+      "meat": 98,
+      "dairy": 111.4,
+      "cereals": 92.1,
+      "oils": 103.9,
+      "sugar": 92.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2017-12",
+      "food": 96.4,
+      "meat": 96,
+      "dairy": 107.3,
+      "cereals": 92.4,
+      "oils": 98,
+      "sugar": 89,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-01",
+      "food": 96.7,
+      "meat": 95.3,
+      "dairy": 106,
+      "cereals": 95.2,
+      "oils": 98.3,
+      "sugar": 87.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-02",
+      "food": 97.8,
+      "meat": 96.6,
+      "dairy": 108.8,
+      "cereals": 98.4,
+      "oils": 95.6,
+      "sugar": 83.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-03",
+      "food": 98.8,
+      "meat": 96.6,
+      "dairy": 111.3,
+      "cereals": 101.8,
+      "oils": 95.4,
+      "sugar": 80.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-04",
+      "food": 98.4,
+      "meat": 95.4,
+      "dairy": 110,
+      "cereals": 104,
+      "oils": 94,
+      "sugar": 76.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-05",
+      "food": 98.5,
+      "meat": 94.9,
+      "dairy": 111.4,
+      "cereals": 105.5,
+      "oils": 92.2,
+      "sugar": 76.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-06",
+      "food": 96.8,
+      "meat": 94.7,
+      "dairy": 112.3,
+      "cereals": 100.8,
+      "oils": 89.3,
+      "sugar": 77.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-07",
+      "food": 95,
+      "meat": 94.3,
+      "dairy": 110.1,
+      "cereals": 98.7,
+      "oils": 86.9,
+      "sugar": 72.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-08",
+      "food": 95.8,
+      "meat": 95.4,
+      "dairy": 108.5,
+      "cereals": 103.5,
+      "oils": 84.4,
+      "sugar": 68.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-09",
+      "food": 94,
+      "meat": 93.4,
+      "dairy": 108.3,
+      "cereals": 100.3,
+      "oils": 82.3,
+      "sugar": 70.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-10",
+      "food": 93.2,
+      "meat": 91.9,
+      "dairy": 102.8,
+      "cereals": 100.9,
+      "oils": 81.3,
+      "sugar": 76.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-11",
+      "food": 91.9,
+      "meat": 92.1,
+      "dairy": 100,
+      "cereals": 99.6,
+      "oils": 76.6,
+      "sugar": 79.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2018-12",
+      "food": 92,
+      "meat": 92.3,
+      "dairy": 97.8,
+      "cereals": 101.1,
+      "oils": 76.8,
+      "sugar": 78.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-01",
+      "food": 93.1,
+      "meat": 91.6,
+      "dairy": 100.9,
+      "cereals": 101.8,
+      "oils": 80.3,
+      "sugar": 79.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-02",
+      "food": 93.8,
+      "meat": 92.5,
+      "dairy": 103.8,
+      "cereals": 100.7,
+      "oils": 81.8,
+      "sugar": 80.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-03",
+      "food": 93,
+      "meat": 94,
+      "dairy": 105.6,
+      "cereals": 97.5,
+      "oils": 78.4,
+      "sugar": 78.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-04",
+      "food": 93.5,
+      "meat": 97.3,
+      "dairy": 106.1,
+      "cereals": 94.6,
+      "oils": 79.1,
+      "sugar": 79.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-05",
+      "food": 94.2,
+      "meat": 100.2,
+      "dairy": 106.6,
+      "cereals": 94.4,
+      "oils": 78.5,
+      "sugar": 76.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-06",
+      "food": 95.4,
+      "meat": 101.2,
+      "dairy": 102.9,
+      "cereals": 99.2,
+      "oils": 77.5,
+      "sugar": 79.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-07",
+      "food": 95.1,
+      "meat": 102.3,
+      "dairy": 101.1,
+      "cereals": 97.6,
+      "oils": 78.1,
+      "sugar": 79.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-08",
+      "food": 93.8,
+      "meat": 101.6,
+      "dairy": 100.3,
+      "cereals": 92.6,
+      "oils": 82.6,
+      "sugar": 76.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-09",
+      "food": 93.2,
+      "meat": 100.6,
+      "dairy": 99.6,
+      "cereals": 91.8,
+      "oils": 83.9,
+      "sugar": 73.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-10",
+      "food": 95,
+      "meat": 100.9,
+      "dairy": 100.8,
+      "cereals": 96,
+      "oils": 84.1,
+      "sugar": 77.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-11",
+      "food": 98.2,
+      "meat": 105.4,
+      "dairy": 102.5,
+      "cereals": 95.6,
+      "oils": 93.2,
+      "sugar": 79.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2019-12",
+      "food": 100.8,
+      "meat": 106,
+      "dairy": 103.5,
+      "cereals": 97.4,
+      "oils": 101.5,
+      "sugar": 83,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-01",
+      "food": 102.5,
+      "meat": 103.5,
+      "dairy": 103.8,
+      "cereals": 100.7,
+      "oils": 108.7,
+      "sugar": 87.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-02",
+      "food": 99.6,
+      "meat": 101,
+      "dairy": 102.8,
+      "cereals": 99.6,
+      "oils": 97.6,
+      "sugar": 91.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-03",
+      "food": 95.2,
+      "meat": 99.5,
+      "dairy": 101.6,
+      "cereals": 98,
+      "oils": 85.4,
+      "sugar": 73.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-04",
+      "food": 92.4,
+      "meat": 96.5,
+      "dairy": 95.9,
+      "cereals": 99.6,
+      "oils": 81.2,
+      "sugar": 63.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-05",
+      "food": 91.2,
+      "meat": 95.4,
+      "dairy": 94.5,
+      "cereals": 98,
+      "oils": 77.8,
+      "sugar": 67.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-06",
+      "food": 93.1,
+      "meat": 94.5,
+      "dairy": 98.3,
+      "cereals": 97.3,
+      "oils": 86.6,
+      "sugar": 74.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-07",
+      "food": 93.8,
+      "meat": 91.4,
+      "dairy": 101.8,
+      "cereals": 97.3,
+      "oils": 93.2,
+      "sugar": 76,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-08",
+      "food": 95.7,
+      "meat": 91.4,
+      "dairy": 102.1,
+      "cereals": 99.2,
+      "oils": 98.7,
+      "sugar": 81.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-09",
+      "food": 97.9,
+      "meat": 91.2,
+      "dairy": 102.3,
+      "cereals": 104.3,
+      "oils": 104.6,
+      "sugar": 79,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-10",
+      "food": 101.3,
+      "meat": 91.6,
+      "dairy": 104.5,
+      "cereals": 112.1,
+      "oils": 106.5,
+      "sugar": 84.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-11",
+      "food": 105.5,
+      "meat": 93.1,
+      "dairy": 105.4,
+      "cereals": 114.8,
+      "oils": 121.9,
+      "sugar": 87.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2020-12",
+      "food": 108.5,
+      "meat": 94.7,
+      "dairy": 108.7,
+      "cereals": 116.4,
+      "oils": 131.2,
+      "sugar": 87.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-01",
+      "food": 113.5,
+      "meat": 95.9,
+      "dairy": 111.1,
+      "cereals": 125,
+      "oils": 138.9,
+      "sugar": 94.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-02",
+      "food": 116.5,
+      "meat": 97.7,
+      "dairy": 112.8,
+      "cereals": 126.1,
+      "oils": 147.5,
+      "sugar": 100.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-03",
+      "food": 119.1,
+      "meat": 100.5,
+      "dairy": 117.2,
+      "cereals": 123.9,
+      "oils": 159.3,
+      "sugar": 96.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-04",
+      "food": 122.1,
+      "meat": 104.4,
+      "dairy": 119,
+      "cereals": 126.2,
+      "oils": 162.2,
+      "sugar": 100,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-05",
+      "food": 128.4,
+      "meat": 108.1,
+      "dairy": 121.2,
+      "cereals": 133.7,
+      "oils": 174.9,
+      "sugar": 106.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-06",
+      "food": 125.4,
+      "meat": 110.9,
+      "dairy": 120.1,
+      "cereals": 130.3,
+      "oils": 157.7,
+      "sugar": 107.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-07",
+      "food": 124.4,
+      "meat": 113.3,
+      "dairy": 117.2,
+      "cereals": 126.3,
+      "oils": 155.5,
+      "sugar": 109.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-08",
+      "food": 128,
+      "meat": 113.1,
+      "dairy": 117.2,
+      "cereals": 130.4,
+      "oils": 165.9,
+      "sugar": 120.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-09",
+      "food": 129.1,
+      "meat": 112.1,
+      "dairy": 119.2,
+      "cereals": 132.8,
+      "oils": 168.6,
+      "sugar": 121.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-10",
+      "food": 133.3,
+      "meat": 111.6,
+      "dairy": 122.6,
+      "cereals": 137.1,
+      "oils": 184.8,
+      "sugar": 119.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-11",
+      "food": 135.4,
+      "meat": 112.4,
+      "dairy": 127.2,
+      "cereals": 141.4,
+      "oils": 184.6,
+      "sugar": 120.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2021-12",
+      "food": 133.7,
+      "meat": 110.5,
+      "dairy": 130.4,
+      "cereals": 140.5,
+      "oils": 178.5,
+      "sugar": 116.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-01",
+      "food": 135.7,
+      "meat": 111.7,
+      "dairy": 134.3,
+      "cereals": 140.6,
+      "oils": 185.9,
+      "sugar": 112.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-02",
+      "food": 141.7,
+      "meat": 113.7,
+      "dairy": 145,
+      "cereals": 145.3,
+      "oils": 201.7,
+      "sugar": 110.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-03",
+      "food": 160.2,
+      "meat": 119.3,
+      "dairy": 149.6,
+      "cereals": 170.1,
+      "oils": 251.8,
+      "sugar": 117.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-04",
+      "food": 158.8,
+      "meat": 121.3,
+      "dairy": 150.7,
+      "cereals": 169.7,
+      "oils": 237.5,
+      "sugar": 121.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-05",
+      "food": 158.7,
+      "meat": 122.5,
+      "dairy": 149.7,
+      "cereals": 173.5,
+      "oils": 229.2,
+      "sugar": 120.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-06",
+      "food": 155.7,
+      "meat": 125.4,
+      "dairy": 158.2,
+      "cereals": 166.3,
+      "oils": 211.8,
+      "sugar": 117.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-07",
+      "food": 141.6,
+      "meat": 123.3,
+      "dairy": 155.6,
+      "cereals": 147.3,
+      "oils": 168.8,
+      "sugar": 112.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-08",
+      "food": 138.7,
+      "meat": 120.3,
+      "dairy": 153.1,
+      "cereals": 145.6,
+      "oils": 163.3,
+      "sugar": 110.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-09",
+      "food": 137.3,
+      "meat": 119.9,
+      "dairy": 152.8,
+      "cereals": 147.9,
+      "oils": 152.6,
+      "sugar": 109.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-10",
+      "food": 136.7,
+      "meat": 116.5,
+      "dairy": 149.2,
+      "cereals": 152.3,
+      "oils": 151.3,
+      "sugar": 108.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-11",
+      "food": 136,
+      "meat": 114.1,
+      "dairy": 147.4,
+      "cereals": 150.1,
+      "oils": 154.7,
+      "sugar": 114.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2022-12",
+      "food": 133.1,
+      "meat": 111.9,
+      "dairy": 148.6,
+      "cereals": 147.3,
+      "oils": 144.6,
+      "sugar": 117.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-01",
+      "food": 131.4,
+      "meat": 110.5,
+      "dairy": 144.7,
+      "cereals": 147.5,
+      "oils": 140.4,
+      "sugar": 116.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-02",
+      "food": 130.7,
+      "meat": 112.1,
+      "dairy": 138.7,
+      "cereals": 146.7,
+      "oils": 135.9,
+      "sugar": 125.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-03",
+      "food": 128,
+      "meat": 114.1,
+      "dairy": 135.3,
+      "cereals": 138.6,
+      "oils": 131.8,
+      "sugar": 127,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-04",
+      "food": 128.4,
+      "meat": 116,
+      "dairy": 129.3,
+      "cereals": 136.1,
+      "oils": 130,
+      "sugar": 149.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-05",
+      "food": 124.5,
+      "meat": 117.4,
+      "dairy": 121.7,
+      "cereals": 129.3,
+      "oils": 118.7,
+      "sugar": 157.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-06",
+      "food": 123,
+      "meat": 118.6,
+      "dairy": 119.9,
+      "cereals": 126.6,
+      "oils": 115.8,
+      "sugar": 152.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-07",
+      "food": 124.4,
+      "meat": 117.9,
+      "dairy": 119.1,
+      "cereals": 125.9,
+      "oils": 129.8,
+      "sugar": 146.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-08",
+      "food": 121.8,
+      "meat": 114.5,
+      "dairy": 114.3,
+      "cereals": 125,
+      "oils": 125.8,
+      "sugar": 148.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-09",
+      "food": 121.7,
+      "meat": 113.4,
+      "dairy": 112,
+      "cereals": 126.3,
+      "oils": 120.9,
+      "sugar": 162.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-10",
+      "food": 120.7,
+      "meat": 112,
+      "dairy": 114.6,
+      "cereals": 124.8,
+      "oils": 120,
+      "sugar": 159.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-11",
+      "food": 120.6,
+      "meat": 111.6,
+      "dairy": 116.5,
+      "cereals": 121,
+      "oils": 124.1,
+      "sugar": 161.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2023-12",
+      "food": 119.1,
+      "meat": 111.2,
+      "dairy": 118.7,
+      "cereals": 122.8,
+      "oils": 122.3,
+      "sugar": 134.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-01",
+      "food": 117.6,
+      "meat": 108.9,
+      "dairy": 118.7,
+      "cereals": 119.9,
+      "oils": 122.5,
+      "sugar": 136.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-02",
+      "food": 117.4,
+      "meat": 112.5,
+      "dairy": 120.7,
+      "cereals": 113.8,
+      "oils": 120.9,
+      "sugar": 140.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-03",
+      "food": 118.9,
+      "meat": 114.9,
+      "dairy": 124,
+      "cereals": 110.9,
+      "oils": 130.6,
+      "sugar": 133.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-04",
+      "food": 119.2,
+      "meat": 116.6,
+      "dairy": 123.8,
+      "cereals": 111.6,
+      "oils": 130.9,
+      "sugar": 126.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-05",
+      "food": 120.5,
+      "meat": 116.7,
+      "dairy": 126.3,
+      "cereals": 118.7,
+      "oils": 127.8,
+      "sugar": 117.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-06",
+      "food": 121,
+      "meat": 118.1,
+      "dairy": 127.9,
+      "cereals": 115.2,
+      "oils": 131.8,
+      "sugar": 119.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-07",
+      "food": 120.9,
+      "meat": 120,
+      "dairy": 127.8,
+      "cereals": 110.7,
+      "oils": 135,
+      "sugar": 119.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-08",
+      "food": 121.7,
+      "meat": 122,
+      "dairy": 131.3,
+      "cereals": 110.2,
+      "oils": 136.1,
+      "sugar": 113.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-09",
+      "food": 124.6,
+      "meat": 119.9,
+      "dairy": 136.5,
+      "cereals": 113.6,
+      "oils": 142.4,
+      "sugar": 126.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-10",
+      "food": 126.9,
+      "meat": 119.2,
+      "dairy": 138.6,
+      "cereals": 114.4,
+      "oils": 152.7,
+      "sugar": 129.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-11",
+      "food": 127.7,
+      "meat": 118.7,
+      "dairy": 139.8,
+      "cereals": 111.4,
+      "oils": 164.1,
+      "sugar": 126.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2024-12",
+      "food": 127.3,
+      "meat": 119.6,
+      "dairy": 141.2,
+      "cereals": 111.4,
+      "oils": 162.1,
+      "sugar": 119.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-01",
+      "food": 124.6,
+      "meat": 116.6,
+      "dairy": 143.1,
+      "cereals": 111.8,
+      "oils": 153,
+      "sugar": 111.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-02",
+      "food": 126.6,
+      "meat": 116.9,
+      "dairy": 147.7,
+      "cereals": 112.6,
+      "oils": 156,
+      "sugar": 118.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-03",
+      "food": 127.2,
+      "meat": 118.3,
+      "dairy": 148.7,
+      "cereals": 109.7,
+      "oils": 161.8,
+      "sugar": 116.9,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-04",
+      "food": 128.2,
+      "meat": 121.6,
+      "dairy": 151.7,
+      "cereals": 110.9,
+      "oils": 158,
+      "sugar": 112.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-05",
+      "food": 127.1,
+      "meat": 122.8,
+      "dairy": 153.6,
+      "cereals": 109,
+      "oils": 152.2,
+      "sugar": 109.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-06",
+      "food": 128.1,
+      "meat": 126,
+      "dairy": 155.5,
+      "cereals": 107.3,
+      "oils": 155.7,
+      "sugar": 103.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-07",
+      "food": 129.8,
+      "meat": 126.6,
+      "dairy": 154.6,
+      "cereals": 106.5,
+      "oils": 166.8,
+      "sugar": 103.3,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-08",
+      "food": 130,
+      "meat": 127.8,
+      "dairy": 152.2,
+      "cereals": 105.6,
+      "oils": 169.1,
+      "sugar": 103.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-09",
+      "food": 128.6,
+      "meat": 127.9,
+      "dairy": 147.2,
+      "cereals": 104.8,
+      "oils": 167.9,
+      "sugar": 99.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-10",
+      "food": 126.4,
+      "meat": 125,
+      "dairy": 141.7,
+      "cereals": 103.8,
+      "oils": 169.4,
+      "sugar": 94.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-11",
+      "food": 125.2,
+      "meat": 125.5,
+      "dairy": 136.2,
+      "cereals": 105.6,
+      "oils": 165,
+      "sugar": 88.6,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2025-12",
+      "food": 124.5,
+      "meat": 124.8,
+      "dairy": 128.2,
+      "cereals": 107.2,
+      "oils": 165.2,
+      "sugar": 90.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-01",
+      "food": 124.1,
+      "meat": 124.9,
+      "dairy": 120.9,
+      "cereals": 107.5,
+      "oils": 168.6,
+      "sugar": 89.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-02",
+      "food": 125.5,
+      "meat": 126.5,
+      "dairy": 119.4,
+      "cereals": 108.7,
+      "oils": 174.2,
+      "sugar": 86.2,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-03",
+      "food": 128.7,
+      "meat": 128,
+      "dairy": 121.2,
+      "cereals": 110.4,
+      "oils": 183.1,
+      "sugar": 92.8,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-04",
+      "food": 131,
+      "meat": 130.4,
+      "dairy": 119.7,
+      "cereals": 111.3,
+      "oils": 193.9,
+      "sugar": 88.5,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-05",
+      "food": 131,
+      "meat": 131.3,
+      "dairy": 119.1,
+      "cereals": 114.2,
+      "oils": 185,
+      "sugar": 95.1,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-06",
+      "food": 130.1,
+      "meat": 130.5,
+      "dairy": 116.9,
+      "cereals": 110,
+      "oils": 192,
+      "sugar": 90,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-07",
+      "food": 131.7,
+      "meat": 129.4,
+      "dairy": 116.6,
+      "cereals": 113.8,
+      "oils": 195.7,
+      "sugar": 95,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-08",
+      "food": 133.9,
+      "meat": 129,
+      "dairy": 119.2,
+      "cereals": 116.8,
+      "oils": 196.9,
+      "sugar": 107.4,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-09",
+      "food": 135.6,
+      "meat": 127.1,
+      "dairy": 119.1,
+      "cereals": 122.3,
+      "oils": 198.6,
+      "sugar": 113.7,
+      "source": "fao-ffpi"
+    },
+    {
+      "month": "2026-10",
+      "food": 133.9,
+      "meat": 125.5,
+      "dairy": 117.8,
+      "cereals": 116.8,
+      "oils": 199.2,
+      "sugar": 121.3,
+      "source": "fao-ffpi"
+    }
+  ]
+}

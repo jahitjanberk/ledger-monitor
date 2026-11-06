@@ -1,0 +1,307 @@
+{
+  "id": "uk_interest",
+  "title": "UK debt interest by financial year",
+  "description": "Central government net interest payable and public sector current receipts, £ billion, 1997/98 to 2026/27 (ONS). 2026/27 is April to September.",
+  "records": [
+    {
+      "fiscal_year": "1997/98",
+      "start": 1997,
+      "months": 12,
+      "interest_bn": 29.8,
+      "receipts_bn": 333.6,
+      "interest_pct_receipts": 8.9,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "1998/99",
+      "start": 1998,
+      "months": 12,
+      "interest_bn": 29.4,
+      "receipts_bn": 354.7,
+      "interest_pct_receipts": 8.3,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "1999/00",
+      "start": 1999,
+      "months": 12,
+      "interest_bn": 25.9,
+      "receipts_bn": 378.5,
+      "interest_pct_receipts": 6.8,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2000/01",
+      "start": 2000,
+      "months": 12,
+      "interest_bn": 26.9,
+      "receipts_bn": 406.4,
+      "interest_pct_receipts": 6.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2001/02",
+      "start": 2001,
+      "months": 12,
+      "interest_bn": 23,
+      "receipts_bn": 412.4,
+      "interest_pct_receipts": 5.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2002/03",
+      "start": 2002,
+      "months": 12,
+      "interest_bn": 21.7,
+      "receipts_bn": 417.8,
+      "interest_pct_receipts": 5.2,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2003/04",
+      "start": 2003,
+      "months": 12,
+      "interest_bn": 23.2,
+      "receipts_bn": 450.9,
+      "interest_pct_receipts": 5.1,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2004/05",
+      "start": 2004,
+      "months": 12,
+      "interest_bn": 25.9,
+      "receipts_bn": 483.2,
+      "interest_pct_receipts": 5.4,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2005/06",
+      "start": 2005,
+      "months": 12,
+      "interest_bn": 27.8,
+      "receipts_bn": 519.8,
+      "interest_pct_receipts": 5.3,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2006/07",
+      "start": 2006,
+      "months": 12,
+      "interest_bn": 30.8,
+      "receipts_bn": 551.5,
+      "interest_pct_receipts": 5.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2007/08",
+      "start": 2007,
+      "months": 12,
+      "interest_bn": 33.7,
+      "receipts_bn": 584.1,
+      "interest_pct_receipts": 5.8,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2008/09",
+      "start": 2008,
+      "months": 12,
+      "interest_bn": 33.5,
+      "receipts_bn": 569.5,
+      "interest_pct_receipts": 5.9,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2009/10",
+      "start": 2009,
+      "months": 12,
+      "interest_bn": 33.7,
+      "receipts_bn": 560.7,
+      "interest_pct_receipts": 6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2010/11",
+      "start": 2010,
+      "months": 12,
+      "interest_bn": 48.7,
+      "receipts_bn": 601.1,
+      "interest_pct_receipts": 8.1,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2011/12",
+      "start": 2011,
+      "months": 12,
+      "interest_bn": 52.2,
+      "receipts_bn": 623.7,
+      "interest_pct_receipts": 8.4,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2012/13",
+      "start": 2012,
+      "months": 12,
+      "interest_bn": 50.7,
+      "receipts_bn": 635.9,
+      "interest_pct_receipts": 8,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2013/14",
+      "start": 2013,
+      "months": 12,
+      "interest_bn": 50.4,
+      "receipts_bn": 662.9,
+      "interest_pct_receipts": 7.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2014/15",
+      "start": 2014,
+      "months": 12,
+      "interest_bn": 46.5,
+      "receipts_bn": 689.7,
+      "interest_pct_receipts": 6.7,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2015/16",
+      "start": 2015,
+      "months": 12,
+      "interest_bn": 46.3,
+      "receipts_bn": 714.3,
+      "interest_pct_receipts": 6.5,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2016/17",
+      "start": 2016,
+      "months": 12,
+      "interest_bn": 49.9,
+      "receipts_bn": 755.6,
+      "interest_pct_receipts": 6.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2017/18",
+      "start": 2017,
+      "months": 12,
+      "interest_bn": 56.1,
+      "receipts_bn": 780.8,
+      "interest_pct_receipts": 7.2,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2018/19",
+      "start": 2018,
+      "months": 12,
+      "interest_bn": 50.2,
+      "receipts_bn": 813.6,
+      "interest_pct_receipts": 6.2,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2019/20",
+      "start": 2019,
+      "months": 12,
+      "interest_bn": 50.3,
+      "receipts_bn": 828.1,
+      "interest_pct_receipts": 6.1,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2020/21",
+      "start": 2020,
+      "months": 12,
+      "interest_bn": 41,
+      "receipts_bn": 793,
+      "interest_pct_receipts": 5.2,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2021/22",
+      "start": 2021,
+      "months": 12,
+      "interest_bn": 71,
+      "receipts_bn": 922.2,
+      "interest_pct_receipts": 7.7,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2022/23",
+      "start": 2022,
+      "months": 12,
+      "interest_bn": 107.8,
+      "receipts_bn": 1034.6,
+      "interest_pct_receipts": 10.4,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2023/24",
+      "start": 2023,
+      "months": 12,
+      "interest_bn": 83,
+      "receipts_bn": 1096.6,
+      "interest_pct_receipts": 7.6,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2024/25",
+      "start": 2024,
+      "months": 12,
+      "interest_bn": 85.3,
+      "receipts_bn": 1140.5,
+      "interest_pct_receipts": 7.5,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2025/26",
+      "start": 2025,
+      "months": 12,
+      "interest_bn": 96.8,
+      "receipts_bn": 1231.4,
+      "interest_pct_receipts": 7.9,
+      "partial": null,
+      "source": "ons-psf"
+    },
+    {
+      "fiscal_year": "2026/27",
+      "start": 2026,
+      "months": 6,
+      "interest_bn": 60.8,
+      "receipts_bn": 609.1,
+      "interest_pct_receipts": 10,
+      "partial": "April to September",
+      "source": "ons-psf"
+    }
+  ]
+}

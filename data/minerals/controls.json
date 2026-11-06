@@ -1,0 +1,71 @@
+{
+  "id": "controls",
+  "title": "Export controls",
+  "description": "Export bans, licences and quotas on critical minerals since 2020, with status as of 6 November 2026.",
+  "records": [
+    {
+      "date": "2020-01-01",
+      "country": "Indonesia",
+      "mineral": "Nickel",
+      "measure": "All exports of nickel ore banned",
+      "status": "In force",
+      "source": "iea-pol-indonesia"
+    },
+    {
+      "date": "2023-08-01",
+      "country": "China",
+      "mineral": "Gallium, germanium",
+      "measure": "Exports need a licence",
+      "status": "In force",
+      "source": "mofcom-2023-23"
+    },
+    {
+      "date": "2023-12-01",
+      "country": "China",
+      "mineral": "Graphite",
+      "measure": "Exports of high-purity and flake graphite need a licence",
+      "status": "In force",
+      "source": "mofcom-2023-39"
+    },
+    {
+      "date": "2024-09-15",
+      "country": "China",
+      "mineral": "Antimony",
+      "measure": "Exports of antimony ores, metal and oxides need a licence",
+      "status": "In force",
+      "source": "mofcom-2024-33"
+    },
+    {
+      "date": "2024-12-03",
+      "country": "China",
+      "mineral": "Gallium, germanium, antimony",
+      "measure": "Exports to the United States in principle refused",
+      "status": "Suspended until 27 Nov 2026, except for military users",
+      "source": "mofcom-2024-46"
+    },
+    {
+      "date": "2025-02-22",
+      "country": "DR Congo",
+      "mineral": "Cobalt",
+      "measure": "Cobalt exports suspended",
+      "status": "Replaced by quotas from 16 Oct 2025: 96,600 tonnes a year in 2026 and 2027",
+      "source": "iea-pol-drc"
+    },
+    {
+      "date": "2025-04-04",
+      "country": "China",
+      "mineral": "Seven rare earths",
+      "measure": "Exports of samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium need a licence",
+      "status": "In force",
+      "source": "mofcom-2025-18"
+    },
+    {
+      "date": "2025-10-09",
+      "country": "China",
+      "mineral": "Five more rare earths, battery materials",
+      "measure": "Controls on more rare earths and battery materials, and on foreign-made goods with 0.1% or more Chinese rare earths by value",
+      "status": "Suspended until 10 Nov 2026",
+      "source": "mofcom-2025-57"
+    }
+  ]
+}

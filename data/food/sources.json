@@ -1,0 +1,124 @@
+{
+  "sources": {
+    "faostat-fs": {
+      "publisher": "Food and Agriculture Organization of the United Nations (FAO), FAOSTAT",
+      "title": "Suite of Food Security Indicators (July 2026 release, with The State of Food Security and Nutrition in the World 2026)",
+      "url": "https://www.fao.org/faostat/en/#data/FS",
+      "published": "2026-07-21",
+      "method": "reference",
+      "notes": "Prevalence and number of undernourished people (modelled from food supply, consumption and dietary energy needs; country values are three-year averages, 2023–2025), and food insecurity measured with the Food Insecurity Experience Scale survey. CC BY 4.0."
+    },
+    "faostat-cahd": {
+      "publisher": "FAO and World Bank, via FAOSTAT",
+      "title": "Cost and Affordability of a Healthy Diet (July 2026 release)",
+      "url": "https://www.fao.org/faostat/en/#data/CAHD",
+      "published": "2026-07-21",
+      "method": "reference",
+      "notes": "The cheapest locally available foods that meet healthy-diet guidelines, priced per person per day in 2021 international (PPP) dollars, and the share of people whose income, after other basic needs, can't cover it. 2025. CC BY 4.0."
+    },
+    "faostat-cp": {
+      "publisher": "FAO, FAOSTAT, from national statistics offices, the IMF and the ILO",
+      "title": "Consumer Price Indices: food price inflation",
+      "url": "https://www.fao.org/faostat/en/#data/CP",
+      "published": "2026-10-09",
+      "method": "reference",
+      "notes": "Year-on-year change in each country's food consumer price index, by month. Latest month available for each country, mostly June 2026. CC BY 4.0."
+    },
+    "fao-ffpi": {
+      "publisher": "FAO",
+      "title": "FAO Food Price Index (November 2026 release)",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Monthly index of international prices for a basket of cereals, vegetable oils, dairy, meat and sugar, weighted by export shares. 2014–2016 = 100. Nominal, January 1990 to October 2026."
+    },
+    "fao-ffpi-real": {
+      "publisher": "FAO",
+      "title": "FAO Food Price Index, nominal and real, annual since 1961",
+      "url": "https://www.fao.org/worldfoodsituation/foodpricesindex/en/",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Annual averages. The real index is deflated by the World Bank's manufactures unit value index. 2026 is the average of January to October."
+    },
+    "wb-pinksheet": {
+      "publisher": "World Bank",
+      "title": "Commodity Price Data (The Pink Sheet), monthly prices",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "published": "2026-11-03",
+      "method": "reference",
+      "notes": "Nominal US dollars. Urea (Middle East), DAP, potassium chloride, wheat (US HRW), maize (US), rice (Thai 5%), palm oil, soybean oil and Brent crude. CC BY 4.0."
+    },
+    "wb-fert-blog": {
+      "publisher": "World Bank Data Blog (John Baffes and Kaltrina Temaj)",
+      "title": "Fertilizer prices surge as Strait of Hormuz disruptions tighten supplies",
+      "url": "https://blogs.worldbank.org/en/opendata/fertilizer-prices-surge-as-strait-of-hormuz-disruptions-tighten-",
+      "published": "2026-05-14",
+      "method": "reference",
+      "notes": "From the April 2026 Commodity Markets Outlook."
+    },
+    "fao-hormuz": {
+      "publisher": "FAO",
+      "title": "Strait of Hormuz crisis: FAO Director-General outlines risks, actions and policy responses",
+      "url": "https://www.fao.org/newsroom/detail/strait-of-hormuz-crisis--fao-director-general-outlines-risks--actions-and-policy-responses/en",
+      "published": "2026-04-28",
+      "method": "reference",
+      "notes": ""
+    },
+    "sofi2026": {
+      "publisher": "FAO, IFAD, UNICEF, WFP and WHO",
+      "title": "The State of Food Security and Nutrition in the World 2026: launch press release",
+      "url": "https://www.fao.org/newsroom/detail/un-report--global-hunger-levels-ease-for-third-consecutive-year-as-regional-disparities-persist/en",
+      "published": "2026-07-21",
+      "method": "reference",
+      "notes": ""
+    },
+    "grfc2026": {
+      "publisher": "Global Network Against Food Crises and FSIN (reported by the European Commission Joint Research Centre)",
+      "title": "Global Report on Food Crises 2026",
+      "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/food-crises-no-respite-14-m-people-suffer-most-severe-level-food-insecurity-2025-2026-04-24_en",
+      "published": "2026-04-24",
+      "method": "reference",
+      "notes": "Acute food insecurity in 2025 in countries with food crises, classified with the IPC and Cadre Harmonisé scales. Phase 3 or above is Crisis, Emergency or Catastrophe."
+    },
+    "ons-mm23": {
+      "publisher": "Office for National Statistics",
+      "title": "Consumer price inflation (MM23): series D7G8, D7G7 and D7BU",
+      "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g8/mm23",
+      "published": "2026-10-21",
+      "method": "reference",
+      "notes": "12-month rate for food and non-alcoholic beverages (D7G8) and all items (D7G7), and the food price index (D7BU, 2015 = 100). Open Government Licence v3.0."
+    },
+    "dwp-frs": {
+      "publisher": "Department for Work and Pensions",
+      "title": "Family Resources Survey: financial year 2024 to 2025",
+      "url": "https://www.gov.uk/government/statistics/family-resources-survey-financial-year-2024-to-2025/family-resources-survey-financial-year-2024-to-2025",
+      "published": "2026-03-26",
+      "method": "survey",
+      "notes": "Official statistics. Household food security measured with the US Department of Agriculture's ten-question module. Open Government Licence v3.0."
+    },
+    "ff-tracker": {
+      "publisher": "The Food Foundation",
+      "title": "Food Insecurity Tracker, Round 19",
+      "url": "https://foodfoundation.org.uk/news/food-prices-tracker-july-2026",
+      "published": "2026-07-22",
+      "method": "survey",
+      "notes": "Online YouGov survey of UK adults, June 2026. Measures food insecurity in the past month, so it runs higher than the yearly official figure."
+    },
+    "usda-ers": {
+      "publisher": "USDA Economic Research Service (processed by Our World in Data)",
+      "title": "Food as a share of total consumer expenditure",
+      "url": "https://ourworldindata.org/grapher/share-of-consumer-expenditure-spent-on-food",
+      "published": "2025-03-26",
+      "method": "reference",
+      "notes": "Food eaten at home, as a share of all household consumer spending, 2023. Excludes restaurants, alcohol and tobacco."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

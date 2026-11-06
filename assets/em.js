@@ -20,9 +20,13 @@ const DASH = location.pathname.slice(SITE.pathname.length).split("/")[0];
 const SECTION_DATA = {
   air: { glance: ["facts", "world_pm25"], map: ["countries", "bands"], deaths: ["world_deaths"], where: ["regions", "countries"], monitors: ["facts"], uk: ["countries"], table: ["countries"] },
   chokepoints: { glance: ["facts", "summary"], map: ["chokepoints"], weekly: ["weekly", "daily"], types: ["summary", "daily"], oil: ["oil"], ripple: ["weekly", "summary"], table: ["chokepoints"] },
+  debt: { glance: ["countries", "groups", "facts"], map: ["countries", "bands"], services: ["countries", "facts"], trend: ["groups"], squeeze: ["facts"], uk: ["uk_interest", "uk_debt", "countries"], table: ["countries"] },
   electricity: { glance: ["facts"], map: ["countries", "bands"], mix: ["world"], regions: ["regions"], rank: ["countries"], uk: ["uk"], y2025: ["facts"], table: ["countries"] },
+  food: { glance: ["world", "prices"], map: ["countries", "bands"], prices: ["prices", "prices_real"], hormuz: ["inputs", "facts"], hunger: ["world", "regions", "countries"], crises: ["facts"], spending: ["countries"], uk: ["uk", "facts"], table: ["countries"] },
+  heat: { glance: ["facts"], map: ["countries", "bands"], warming: ["global", "daily", "era5_years", "facts"], hotdays: ["countries"], health: ["facts"], uk: ["uk_summers", "facts"], table: ["countries"] },
   housing: { glance: ["nations", "ratings"], map: ["markets"], calc: ["markets", "nations"], dist: ["markets", "ratings"], uk: ["uk_ons"], risk: ["bubble"], table: ["markets"] },
   internet: { map: ["cables", "landings", "cloud_regions", "supercomputers"], profile: ["landings", "cables"], latency: ["azure_latency"], owners: ["cables"], cloud: ["cloud_regions", "landings"], compute: ["ai_compute", "top500_countries", "supercomputers", "ai_clusters"], power: ["energy"], water: ["water"], cables: ["cables", "cables_now"] },
+  minerals: { glance: ["minerals", "refining", "facts", "tariff_codes"], map: ["production", "bands"], refining: ["minerals", "refining", "top_refiner", "facts"], prices: ["metals", "prices", "facts"], controls: ["controls", "facts"], people: ["facts"], uk: ["facts"], table: ["minerals", "prices"] },
   orbit: { glance: ["facts"], map: ["launchers"], years: ["yearly"], orbits: ["orbits", "leo"], junk: ["leo", "facts"], orgs: ["launchers"], table: ["launchers"] },
   scams: { glance: ["global", "estimates"], map: ["reported", "surveys"], trend: ["trend"], how: ["reported", "global"], gap: ["response", "estimates"], us: ["us_detail"], table: ["reported", "fx"] },
   water: { glance: ["facts"], map: ["stress", "bands"], regions: ["regions", "trend"], drinking: ["drinking", "ladder", "income"], hidden: ["resources", "facts"], compute: ["facts"], table: ["stress", "sectors"] },
@@ -37,6 +41,10 @@ const DASHBOARDS = {
   chokepoints: { title: "Chokepoints", blurb: "Ships and oil through the world's narrow sea routes." },
   orbit: { title: "Who Owns Orbit", blurb: "Who launches objects into space, and what is up there now." },
   air: { title: "The Air We Breathe", blurb: "Fine-particle pollution and the deaths it causes, country by country." },
+  food: { title: "Food Prices & Hunger", blurb: "Who goes hungry, who can afford a healthy diet, and what food costs." },
+  heat: { title: "Extreme Heat", blurb: "How hot the world is getting, and what heat costs in lives and work." },
+  minerals: { title: "Critical Minerals", blurb: "Where battery and electronics minerals are mined and refined, and who controls them." },
+  debt: { title: "Debt vs Public Services", blurb: "What governments pay in interest, against what they spend on health and education." },
 };
 // Three other dashboards per page, picked for overlapping subjects where there is one.
 const MORE = {
@@ -44,9 +52,13 @@ const MORE = {
   electricity: ["air", "internet", "chokepoints"],
   internet: ["electricity", "water", "orbit"],
   water: ["internet", "air", "electricity"],
-  chokepoints: ["electricity", "internet", "orbit"],
+  chokepoints: ["food", "electricity", "internet"],
   orbit: ["internet", "chokepoints", "air"],
-  housing: ["scams", "water", "electricity"],
+  housing: ["food", "scams", "water"],
+  food: ["chokepoints", "water", "housing"],
+  debt: ["food", "housing", "scams"],
+  heat: ["food", "air", "electricity"],
+  minerals: ["chokepoints", "electricity", "internet"],
   scams: ["housing", "internet", "chokepoints"],
 };
 
@@ -61,6 +73,30 @@ const LIMITS = {
     "Desert dust and wildfire smoke count alongside human pollution, which is why some desert countries rank high.",
     "Deaths are modelled from exposure and the risk of disease at each level. They are not counted from death certificates.",
     "City monitors measure the air where they sit, so their readings can't be compared directly with national averages.",
+  ],
+  food: [
+    "Undernourishment is modelled from food supply and consumption surveys, not counted person by person. Country figures are three-year averages, so a sudden crisis shows only gradually.",
+    "A healthy diet is priced at the cheapest foods that meet dietary guidelines. People rarely buy exactly that, so real food bills run higher.",
+    "Food inflation is each country's latest month, mostly June 2026. A few readings are extreme, such as Iran's +130% and Palestine's −67%; they are as published by FAOSTAT.",
+    "Acute food insecurity covers only the countries the Global Report on Food Crises analyses, so it can't be added to the undernourishment figures.",
+  ],
+  debt: [
+    "Interest is net of interest received, and for 2025 many values are IMF estimates rather than final accounts.",
+    "Health and education spending are each country's latest year, mostly 2023, set against 2025 interest. Health counts government money only, not aid or private spending.",
+    "General government covers central, state and local government; debts of state-owned companies are left out.",
+    "UK interest is central government only, against receipts for the whole public sector.",
+  ],
+  heat: [
+    "Country warming is measured against each country's own 1991–2020 average, not pre-industrial times, so it understates the total warming since the 1800s.",
+    "Days above 35°C are averaged over each country's whole area, so large countries with cool regions score lower than their hottest cities.",
+    "Air temperature alone misses humidity, which makes heat far more dangerous to the body.",
+    "Heat deaths are statistical estimates; heat is seldom recorded as a cause of death.",
+  ],
+  minerals: [
+    "Mining shares are calculated from USGS's rounded world totals, so they can differ by a point or two from shares USGS quotes in its text.",
+    "Refining shares cover seven minerals for 2025; the twenty-mineral comparison uses the latest year available for each, which varies.",
+    "Export controls change quickly. Their status here is as of 6 November 2026, and two Chinese suspensions end later that month.",
+    "The child labour estimate dates from 2014 and covers all mines in southern DR Congo, not cobalt alone.",
   ],
   chokepoints: [
     "Ships that switch off their transponders are missed, and PortWatch revises past days as more signals arrive.",
@@ -137,6 +173,65 @@ const FIGS = {
           + T(0, pts[0][1] + 18, `${a.pm25} in ${a.year}`)
           + Ln(w, 17, w, pts.at(-1)[1] - 4, "lead") + T(w, 12, `${z.pm25} in ${z.year}, ${Math.round(z.pm25 / 5)} times the guideline`, "k", "end")
           + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
+  food: {
+    files: ["world"], title: "People undernourished worldwide, millions",
+    source: "FAO, The State of Food Security and Nutrition in the World 2026, via FAOSTAT",
+    draw([rows], w, h) {
+      rows = [...rows].sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const low = rows.reduce((p, r) => (r.undernourished_m < p.undernourished_m ? r : p));
+      const peak = rows.filter((r) => r.year > low.year).reduce((p, r) => (r.undernourished_m > p.undernourished_m ? r : p));
+      const x = fx(a.year, z.year, 0, w), y = fx(0, 1000, base, 4);
+      const pts = rows.map((r) => [x(r.year), y(r.undernourished_m)]);
+      const xl = x(low.year), xp = x(peak.year);
+      return {
+        label: `Undernourished people: ${num(a.undernourished_m)} million in ${a.year}, a low of ${num(low.undernourished_m)} million in ${low.year}, ${num(peak.undernourished_m)} million in ${peak.year} and ${num(z.undernourished_m)} million in ${z.year}.`,
+        svg: `<path d="${pathOf(pts)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
+          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, pts[0][1] - 8, `${num(a.undernourished_m)}m in ${a.year}`)
+          + Ln(xl, y(low.undernourished_m) + 4, xl, base - 22, "lead") + T(xl, base - 10, `Low: ${num(low.undernourished_m)}m in ${low.year}`, "", "middle")
+          + T(xp, y(peak.undernourished_m) - 22, `${num(peak.undernourished_m)}m in ${peak.year}`, "", "end")
+          + T(w, y(z.undernourished_m) - 8, `${num(z.undernourished_m)}m in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
+  heat: {
+    files: ["global"], title: "Global temperature against 1850–1900, °C",
+    source: "Met Office Hadley Centre and UEA, HadCRUT5",
+    draw([rows], w, h) {
+      rows = [...rows].sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20, top = rows.reduce((p, r) => (r.anomaly_preindustrial > p.anomaly_preindustrial ? r : p));
+      const x = fx(a.year, z.year, 0, w), y = fx(-0.4, 1.8, base, 4), g = y(1.5);
+      const pts = rows.map((r) => [x(r.year), y(r.anomaly_preindustrial)]);
+      const sg = (v) => `${v > 0 ? "+" : v < 0 ? "−" : ""}${Math.abs(v).toFixed(2)}°C`;
+      return {
+        label: `Global temperature against 1850–1900: ${sg(a.anomaly_preindustrial)} in ${a.year}, ${sg(top.anomaly_preindustrial)} in ${top.year}, the warmest year, and ${sg(z.anomaly_preindustrial)} in ${z.year}.`,
+        svg: Ln(0, g, w, g, "rule") + T(0, g - 6, "1.5°C")
+          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, y(0) + 24, `${a.year}: ${sg(a.anomaly_preindustrial)}`)
+          + T(x(top.year) - 6, y(top.anomaly_preindustrial) + 4, `${top.year}: ${sg(top.anomaly_preindustrial)}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
+  minerals: {
+    files: ["minerals"], title: "Share of world mine production held by the top country, 2025",
+    source: "USGS Mineral Commodity Summaries 2026", height: 244,
+    draw([rows], w) {
+      const r = rows.filter((c) => c.top_share != null).sort((a, b) => b.top_share - a.top_share).slice(0, 8);
+      const x = fx(0, 100, 0, w), row = 30;
+      const nm = (c) => (c === "Democratic Republic of Congo" ? "DR Congo" : c);
+      return {
+        label: `The top country's share of world mine production in 2025: ${r.map((c) => `${c.label} ${nm(c.top_country)} ${num(c.top_share, 0)}%`).join(", ")}.`,
+        svg: r.map((c, i) => {
+          const top = i * row;
+          return T(0, top + 12, `${c.label}: ${nm(c.top_country)}`, i ? "" : "k") + T(w, top + 12, `${num(c.top_share, 0)}%`, "n", "end")
+            + `<rect x="0" y="${top + 17}" width="${x(c.top_share).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
+        }).join(""),
       };
     },
   },
@@ -256,6 +351,22 @@ const FIGS = {
             + T(x0 + (bw - gap) / 2, top - 6, bn(d.losses_local), last ? "k" : "", "middle")
             + T(x0 + (bw - gap) / 2, h - 4, d.year, "n", "middle");
         }).join("") + Ln(0, base, w, base, "ax"),
+      };
+    },
+  },
+  debt: {
+    files: ["countries"], title: "Share of government revenue spent on net interest, 2025",
+    source: "IMF Fiscal Monitor, October 2026", height: 244,
+    draw([rows], w) {
+      const r = rows.filter((c) => c.interest_pct_revenue != null).sort((a, b) => b.interest_pct_revenue - a.interest_pct_revenue).slice(0, 8);
+      const x = fx(0, r[0].interest_pct_revenue, 0, w), row = 30;
+      return {
+        label: `The largest shares of revenue spent on net interest in 2025: ${r.map((c) => `${c.country} ${num(c.interest_pct_revenue, 1)}%`).join(", ")}.`,
+        svg: r.map((c, i) => {
+          const top = i * row;
+          return T(0, top + 12, c.country, i ? "" : "k") + T(w, top + 12, `${num(c.interest_pct_revenue, 0)}%`, "n", "end")
+            + `<rect x="0" y="${top + 17}" width="${x(c.interest_pct_revenue).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
+        }).join(""),
       };
     },
   },

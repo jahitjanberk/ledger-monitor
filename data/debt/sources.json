@@ -1,0 +1,76 @@
+{
+  "sources": {
+    "imf-fm": {
+      "publisher": "International Monetary Fund",
+      "title": "Fiscal Monitor, October 2026 (via the IMF DataMapper)",
+      "url": "https://www.imf.org/external/datamapper/datasets/FM",
+      "published": "2026-10-14",
+      "method": "reference",
+      "notes": "General government gross debt, revenue, overall balance and primary balance, % of GDP. Net interest is the primary balance minus the overall balance: interest paid less interest received. 2025 values are partly estimates; 2026 to 2031 are IMF projections."
+    },
+    "imf-weo": {
+      "publisher": "International Monetary Fund",
+      "title": "World Economic Outlook, October 2026: general government gross debt (GGXWDG_NGDP)",
+      "url": "https://www.imf.org/external/datamapper/GGXWDG_NGDP@WEO/WEOWORLD",
+      "published": "2026-10-14",
+      "method": "reference",
+      "notes": "World aggregate, % of world GDP, 2001 to 2031. 2026 onward are projections."
+    },
+    "wb-health": {
+      "publisher": "World Health Organization Global Health Expenditure Database, via the World Bank",
+      "title": "Domestic general government health expenditure (% of GDP), SH.XPD.GHED.GD.ZS",
+      "url": "https://data.worldbank.org/indicator/SH.XPD.GHED.GD.ZS",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "Government spending on health from its own resources, excluding foreign aid. Latest year, mostly 2023. CC BY 4.0."
+    },
+    "wb-edu": {
+      "publisher": "UNESCO Institute for Statistics, via the World Bank",
+      "title": "Government expenditure on education, total (% of GDP), SE.XPD.TOTL.GD.ZS",
+      "url": "https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "All levels of government, latest year since 2019, mostly 2022 to 2024. CC BY 4.0."
+    },
+    "wb-pop": {
+      "publisher": "World Bank",
+      "title": "Population, total (SP.POP.TOTL)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "Latest year. CC BY 4.0."
+    },
+    "unctad-wod": {
+      "publisher": "UN Trade and Development (UNCTAD)",
+      "title": "A World of Debt 2026: Rising debt costs and stalling development",
+      "url": "https://unctad.org/publication/world-of-debt",
+      "published": "2026-06",
+      "method": "reference",
+      "notes": "Developing countries only. Net interest on public debt, 2025; health and education spending, latest year."
+    },
+    "wb-idr": {
+      "publisher": "World Bank",
+      "title": "International Debt Report 2025: press release",
+      "url": "https://www.worldbank.org/en/news/press-release/2025/12/03/developing-countries-debt-outflows-hit-50-year-high-during-2022-2024",
+      "published": "2025-12-03",
+      "method": "reference",
+      "notes": "External debt of low- and middle-income countries, end-2024."
+    },
+    "ons-psf": {
+      "publisher": "Office for National Statistics",
+      "title": "Public sector finances, UK: September 2026 (series NMFX, JW2O and HF6X)",
+      "url": "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/september2026",
+      "published": "2026-10-21",
+      "method": "reference",
+      "notes": "Central government net interest payable (NMFX, £m), public sector current receipts (JW2O, £m) and public sector net debt excluding public sector banks (HF6X, % of GDP). Financial years run April to March. Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

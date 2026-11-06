@@ -1,0 +1,994 @@
+{
+  "id": "uk",
+  "title": "UK food inflation, monthly",
+  "description": "UK 12-month inflation for food and non-alcoholic beverages and for all items, and the food price index, January 2015 to September 2026 (ONS).",
+  "records": [
+    {
+      "month": "2015-01",
+      "food_rate": -2.5,
+      "cpi_rate": 0.3,
+      "food_index": 101.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-02",
+      "food_rate": -3.3,
+      "cpi_rate": 0,
+      "food_index": 101,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-03",
+      "food_rate": -3,
+      "cpi_rate": 0,
+      "food_index": 100.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-04",
+      "food_rate": -2.8,
+      "cpi_rate": -0.1,
+      "food_index": 100.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-05",
+      "food_rate": -1.8,
+      "cpi_rate": 0.1,
+      "food_index": 100.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-06",
+      "food_rate": -2.2,
+      "cpi_rate": 0,
+      "food_index": 100.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-07",
+      "food_rate": -2.7,
+      "cpi_rate": 0.1,
+      "food_index": 99.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-08",
+      "food_rate": -2.4,
+      "cpi_rate": 0,
+      "food_index": 99.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-09",
+      "food_rate": -2.3,
+      "cpi_rate": -0.1,
+      "food_index": 99.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-10",
+      "food_rate": -2.7,
+      "cpi_rate": -0.1,
+      "food_index": 99.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-11",
+      "food_rate": -2.4,
+      "cpi_rate": 0.1,
+      "food_index": 99.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2015-12",
+      "food_rate": -2.9,
+      "cpi_rate": 0.2,
+      "food_index": 99,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-01",
+      "food_rate": -2.6,
+      "cpi_rate": 0.3,
+      "food_index": 98.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-02",
+      "food_rate": -2.3,
+      "cpi_rate": 0.3,
+      "food_index": 98.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-03",
+      "food_rate": -2.7,
+      "cpi_rate": 0.5,
+      "food_index": 98.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-04",
+      "food_rate": -2.5,
+      "cpi_rate": 0.3,
+      "food_index": 98,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-05",
+      "food_rate": -2.8,
+      "cpi_rate": 0.3,
+      "food_index": 97.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-06",
+      "food_rate": -2.9,
+      "cpi_rate": 0.5,
+      "food_index": 97.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-07",
+      "food_rate": -2.6,
+      "cpi_rate": 0.6,
+      "food_index": 96.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-08",
+      "food_rate": -2.2,
+      "cpi_rate": 0.6,
+      "food_index": 97.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-09",
+      "food_rate": -2.3,
+      "cpi_rate": 1,
+      "food_index": 97.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-10",
+      "food_rate": -2.4,
+      "cpi_rate": 0.9,
+      "food_index": 96.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-11",
+      "food_rate": -2,
+      "cpi_rate": 1.2,
+      "food_index": 97.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2016-12",
+      "food_rate": -1.1,
+      "cpi_rate": 1.6,
+      "food_index": 97.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-01",
+      "food_rate": -0.5,
+      "cpi_rate": 1.8,
+      "food_index": 98.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-02",
+      "food_rate": 0.2,
+      "cpi_rate": 2.3,
+      "food_index": 98.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-03",
+      "food_rate": 1.2,
+      "cpi_rate": 2.3,
+      "food_index": 99.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-04",
+      "food_rate": 1.5,
+      "cpi_rate": 2.7,
+      "food_index": 99.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-05",
+      "food_rate": 2.1,
+      "cpi_rate": 2.9,
+      "food_index": 99.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-06",
+      "food_rate": 2.3,
+      "cpi_rate": 2.6,
+      "food_index": 99.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-07",
+      "food_rate": 2.6,
+      "cpi_rate": 2.6,
+      "food_index": 99.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-08",
+      "food_rate": 2.1,
+      "cpi_rate": 2.9,
+      "food_index": 99.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-09",
+      "food_rate": 3,
+      "cpi_rate": 3,
+      "food_index": 100.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-10",
+      "food_rate": 4,
+      "cpi_rate": 3,
+      "food_index": 100.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-11",
+      "food_rate": 4.1,
+      "cpi_rate": 3.1,
+      "food_index": 101.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2017-12",
+      "food_rate": 3.9,
+      "cpi_rate": 3,
+      "food_index": 101.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-01",
+      "food_rate": 3.7,
+      "cpi_rate": 3,
+      "food_index": 101.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-02",
+      "food_rate": 3,
+      "cpi_rate": 2.7,
+      "food_index": 101.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-03",
+      "food_rate": 3,
+      "cpi_rate": 2.5,
+      "food_index": 102.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-04",
+      "food_rate": 2.7,
+      "cpi_rate": 2.4,
+      "food_index": 102.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-05",
+      "food_rate": 2.3,
+      "cpi_rate": 2.4,
+      "food_index": 101.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-06",
+      "food_rate": 2,
+      "cpi_rate": 2.4,
+      "food_index": 101.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-07",
+      "food_rate": 2.3,
+      "cpi_rate": 2.5,
+      "food_index": 101.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-08",
+      "food_rate": 2.5,
+      "cpi_rate": 2.7,
+      "food_index": 101.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-09",
+      "food_rate": 1.5,
+      "cpi_rate": 2.4,
+      "food_index": 101.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-10",
+      "food_rate": 0.9,
+      "cpi_rate": 2.4,
+      "food_index": 101.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-11",
+      "food_rate": 0.5,
+      "cpi_rate": 2.3,
+      "food_index": 101.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2018-12",
+      "food_rate": 0.7,
+      "cpi_rate": 2.1,
+      "food_index": 102.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-01",
+      "food_rate": 0.9,
+      "cpi_rate": 1.8,
+      "food_index": 102.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-02",
+      "food_rate": 1.1,
+      "cpi_rate": 1.9,
+      "food_index": 103,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-03",
+      "food_rate": 0.8,
+      "cpi_rate": 1.9,
+      "food_index": 103.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-04",
+      "food_rate": 0.7,
+      "cpi_rate": 2.1,
+      "food_index": 102.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-05",
+      "food_rate": 1,
+      "cpi_rate": 2,
+      "food_index": 102.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-06",
+      "food_rate": 1.6,
+      "cpi_rate": 2,
+      "food_index": 103.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-07",
+      "food_rate": 1.4,
+      "cpi_rate": 2.1,
+      "food_index": 103.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-08",
+      "food_rate": 1.8,
+      "cpi_rate": 1.7,
+      "food_index": 103.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-09",
+      "food_rate": 1.8,
+      "cpi_rate": 1.7,
+      "food_index": 103.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-10",
+      "food_rate": 1.3,
+      "cpi_rate": 1.5,
+      "food_index": 102.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-11",
+      "food_rate": 2.1,
+      "cpi_rate": 1.5,
+      "food_index": 103.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2019-12",
+      "food_rate": 1.7,
+      "cpi_rate": 1.3,
+      "food_index": 104.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-01",
+      "food_rate": 1.4,
+      "cpi_rate": 1.8,
+      "food_index": 104.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-02",
+      "food_rate": 1.2,
+      "cpi_rate": 1.7,
+      "food_index": 104.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-03",
+      "food_rate": 1.3,
+      "cpi_rate": 1.5,
+      "food_index": 104.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-04",
+      "food_rate": 1.3,
+      "cpi_rate": 0.8,
+      "food_index": 104.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-05",
+      "food_rate": 1.8,
+      "cpi_rate": 0.5,
+      "food_index": 104.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-06",
+      "food_rate": 1.1,
+      "cpi_rate": 0.6,
+      "food_index": 104.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-07",
+      "food_rate": 0.8,
+      "cpi_rate": 1,
+      "food_index": 103.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-08",
+      "food_rate": 0.4,
+      "cpi_rate": 0.2,
+      "food_index": 104.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-09",
+      "food_rate": -0.1,
+      "cpi_rate": 0.5,
+      "food_index": 103.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-10",
+      "food_rate": 0.6,
+      "cpi_rate": 0.7,
+      "food_index": 103.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-11",
+      "food_rate": -0.6,
+      "cpi_rate": 0.3,
+      "food_index": 103.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2020-12",
+      "food_rate": -1.4,
+      "cpi_rate": 0.6,
+      "food_index": 102.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-01",
+      "food_rate": -0.7,
+      "cpi_rate": 0.7,
+      "food_index": 103.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-02",
+      "food_rate": -0.6,
+      "cpi_rate": 0.4,
+      "food_index": 103.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-03",
+      "food_rate": -1.4,
+      "cpi_rate": 0.7,
+      "food_index": 103,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-04",
+      "food_rate": -0.4,
+      "cpi_rate": 1.5,
+      "food_index": 103.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-05",
+      "food_rate": -1.3,
+      "cpi_rate": 2.1,
+      "food_index": 103.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-06",
+      "food_rate": -0.6,
+      "cpi_rate": 2.5,
+      "food_index": 103.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-07",
+      "food_rate": -0.6,
+      "cpi_rate": 2,
+      "food_index": 103.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-08",
+      "food_rate": 0.3,
+      "cpi_rate": 3.2,
+      "food_index": 104.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-09",
+      "food_rate": 0.8,
+      "cpi_rate": 3.1,
+      "food_index": 104.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-10",
+      "food_rate": 1.2,
+      "cpi_rate": 4.2,
+      "food_index": 104.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-11",
+      "food_rate": 2.5,
+      "cpi_rate": 5.1,
+      "food_index": 105.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2021-12",
+      "food_rate": 4.2,
+      "cpi_rate": 5.4,
+      "food_index": 107.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-01",
+      "food_rate": 4.3,
+      "cpi_rate": 5.5,
+      "food_index": 107.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-02",
+      "food_rate": 5.1,
+      "cpi_rate": 6.2,
+      "food_index": 108.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-03",
+      "food_rate": 5.9,
+      "cpi_rate": 7,
+      "food_index": 109,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-04",
+      "food_rate": 6.7,
+      "cpi_rate": 9,
+      "food_index": 110.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-05",
+      "food_rate": 8.6,
+      "cpi_rate": 9.1,
+      "food_index": 112.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-06",
+      "food_rate": 9.8,
+      "cpi_rate": 9.4,
+      "food_index": 113.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-07",
+      "food_rate": 12.6,
+      "cpi_rate": 10.1,
+      "food_index": 116.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-08",
+      "food_rate": 13.1,
+      "cpi_rate": 9.9,
+      "food_index": 118,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-09",
+      "food_rate": 14.5,
+      "cpi_rate": 10.1,
+      "food_index": 119.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-10",
+      "food_rate": 16.2,
+      "cpi_rate": 11.1,
+      "food_index": 121.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-11",
+      "food_rate": 16.4,
+      "cpi_rate": 10.7,
+      "food_index": 123.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2022-12",
+      "food_rate": 16.8,
+      "cpi_rate": 10.5,
+      "food_index": 125.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-01",
+      "food_rate": 16.7,
+      "cpi_rate": 10.1,
+      "food_index": 125.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-02",
+      "food_rate": 18,
+      "cpi_rate": 10.4,
+      "food_index": 128.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-03",
+      "food_rate": 19.1,
+      "cpi_rate": 10.1,
+      "food_index": 129.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-04",
+      "food_rate": 19,
+      "cpi_rate": 8.7,
+      "food_index": 131.7,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-05",
+      "food_rate": 18.3,
+      "cpi_rate": 8.7,
+      "food_index": 132.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-06",
+      "food_rate": 17.3,
+      "cpi_rate": 7.9,
+      "food_index": 133.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-07",
+      "food_rate": 14.8,
+      "cpi_rate": 6.8,
+      "food_index": 133.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-08",
+      "food_rate": 13.6,
+      "cpi_rate": 6.7,
+      "food_index": 134,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-09",
+      "food_rate": 12.1,
+      "cpi_rate": 6.7,
+      "food_index": 133.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-10",
+      "food_rate": 10.1,
+      "cpi_rate": 4.6,
+      "food_index": 134,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-11",
+      "food_rate": 9.2,
+      "cpi_rate": 3.9,
+      "food_index": 134.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2023-12",
+      "food_rate": 8,
+      "cpi_rate": 4,
+      "food_index": 135.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-01",
+      "food_rate": 6.9,
+      "cpi_rate": 4,
+      "food_index": 134.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-02",
+      "food_rate": 5,
+      "cpi_rate": 3.4,
+      "food_index": 134.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-03",
+      "food_rate": 4,
+      "cpi_rate": 3.2,
+      "food_index": 135.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-04",
+      "food_rate": 2.9,
+      "cpi_rate": 2.3,
+      "food_index": 135.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-05",
+      "food_rate": 1.7,
+      "cpi_rate": 2,
+      "food_index": 135.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-06",
+      "food_rate": 1.5,
+      "cpi_rate": 2,
+      "food_index": 135.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-07",
+      "food_rate": 1.5,
+      "cpi_rate": 2.2,
+      "food_index": 135.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-08",
+      "food_rate": 1.3,
+      "cpi_rate": 2.2,
+      "food_index": 135.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-09",
+      "food_rate": 1.9,
+      "cpi_rate": 1.7,
+      "food_index": 136.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-10",
+      "food_rate": 1.9,
+      "cpi_rate": 2.3,
+      "food_index": 136.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-11",
+      "food_rate": 2,
+      "cpi_rate": 2.6,
+      "food_index": 137.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2024-12",
+      "food_rate": 2,
+      "cpi_rate": 2.5,
+      "food_index": 137.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-01",
+      "food_rate": 3.3,
+      "cpi_rate": 3,
+      "food_index": 139,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-02",
+      "food_rate": 3.3,
+      "cpi_rate": 2.8,
+      "food_index": 139.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-03",
+      "food_rate": 3,
+      "cpi_rate": 2.6,
+      "food_index": 139.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-04",
+      "food_rate": 3.4,
+      "cpi_rate": 3.5,
+      "food_index": 140.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-05",
+      "food_rate": 4.4,
+      "cpi_rate": 3.4,
+      "food_index": 141.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-06",
+      "food_rate": 4.5,
+      "cpi_rate": 3.6,
+      "food_index": 141.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-07",
+      "food_rate": 4.9,
+      "cpi_rate": 3.8,
+      "food_index": 142.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-08",
+      "food_rate": 5.1,
+      "cpi_rate": 3.8,
+      "food_index": 142.8,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-09",
+      "food_rate": 4.5,
+      "cpi_rate": 3.8,
+      "food_index": 142.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-10",
+      "food_rate": 4.9,
+      "cpi_rate": 3.6,
+      "food_index": 143.2,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-11",
+      "food_rate": 4.2,
+      "cpi_rate": 3.2,
+      "food_index": 142.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2025-12",
+      "food_rate": 4.5,
+      "cpi_rate": 3.4,
+      "food_index": 144.1,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-01",
+      "food_rate": 3.6,
+      "cpi_rate": 3,
+      "food_index": 143.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-02",
+      "food_rate": 3.3,
+      "cpi_rate": 3,
+      "food_index": 143.9,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-03",
+      "food_rate": 3.7,
+      "cpi_rate": 3.3,
+      "food_index": 144.4,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-04",
+      "food_rate": 3,
+      "cpi_rate": 2.8,
+      "food_index": 144.5,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-05",
+      "food_rate": 2.2,
+      "cpi_rate": 2.8,
+      "food_index": 144.3,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-06",
+      "food_rate": 1.7,
+      "cpi_rate": 2.6,
+      "food_index": 144,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-07",
+      "food_rate": 1.3,
+      "cpi_rate": 2.9,
+      "food_index": 144,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-08",
+      "food_rate": 1.3,
+      "cpi_rate": 3.1,
+      "food_index": 144.6,
+      "source": "ons-mm23"
+    },
+    {
+      "month": "2026-09",
+      "food_rate": 1.3,
+      "cpi_rate": 3.5,
+      "food_index": 144.3,
+      "source": "ons-mm23"
+    }
+  ]
+}

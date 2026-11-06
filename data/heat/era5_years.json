@@ -1,0 +1,703 @@
+{
+  "id": "era5_years",
+  "title": "Global temperature by year, ERA5",
+  "description": "Annual average of the daily global temperature and its difference from 1991–2020, 1940 to 2026 (2026 so far).",
+  "records": [
+    {
+      "year": 1940,
+      "days": 366,
+      "mean_c": 13.69,
+      "anomaly_9120": -0.69,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1941,
+      "days": 365,
+      "mean_c": 13.74,
+      "anomaly_9120": -0.64,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1942,
+      "days": 365,
+      "mean_c": 13.65,
+      "anomaly_9120": -0.73,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1943,
+      "days": 365,
+      "mean_c": 13.65,
+      "anomaly_9120": -0.73,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1944,
+      "days": 366,
+      "mean_c": 13.84,
+      "anomaly_9120": -0.54,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1945,
+      "days": 365,
+      "mean_c": 13.71,
+      "anomaly_9120": -0.67,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1946,
+      "days": 365,
+      "mean_c": 13.71,
+      "anomaly_9120": -0.67,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1947,
+      "days": 365,
+      "mean_c": 13.75,
+      "anomaly_9120": -0.63,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1948,
+      "days": 366,
+      "mean_c": 13.69,
+      "anomaly_9120": -0.69,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1949,
+      "days": 365,
+      "mean_c": 13.73,
+      "anomaly_9120": -0.65,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1950,
+      "days": 365,
+      "mean_c": 13.61,
+      "anomaly_9120": -0.77,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1951,
+      "days": 365,
+      "mean_c": 13.75,
+      "anomaly_9120": -0.63,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1952,
+      "days": 366,
+      "mean_c": 13.73,
+      "anomaly_9120": -0.65,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1953,
+      "days": 365,
+      "mean_c": 13.81,
+      "anomaly_9120": -0.57,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1954,
+      "days": 365,
+      "mean_c": 13.61,
+      "anomaly_9120": -0.77,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1955,
+      "days": 365,
+      "mean_c": 13.59,
+      "anomaly_9120": -0.79,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1956,
+      "days": 366,
+      "mean_c": 13.53,
+      "anomaly_9120": -0.85,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1957,
+      "days": 365,
+      "mean_c": 13.78,
+      "anomaly_9120": -0.6,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1958,
+      "days": 365,
+      "mean_c": 13.85,
+      "anomaly_9120": -0.53,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1959,
+      "days": 365,
+      "mean_c": 13.81,
+      "anomaly_9120": -0.57,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1960,
+      "days": 366,
+      "mean_c": 13.76,
+      "anomaly_9120": -0.61,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1961,
+      "days": 365,
+      "mean_c": 13.84,
+      "anomaly_9120": -0.54,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1962,
+      "days": 365,
+      "mean_c": 13.78,
+      "anomaly_9120": -0.6,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1963,
+      "days": 365,
+      "mean_c": 13.82,
+      "anomaly_9120": -0.56,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1964,
+      "days": 366,
+      "mean_c": 13.6,
+      "anomaly_9120": -0.77,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1965,
+      "days": 365,
+      "mean_c": 13.67,
+      "anomaly_9120": -0.71,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1966,
+      "days": 365,
+      "mean_c": 13.75,
+      "anomaly_9120": -0.63,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1967,
+      "days": 365,
+      "mean_c": 13.76,
+      "anomaly_9120": -0.62,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1968,
+      "days": 366,
+      "mean_c": 13.7,
+      "anomaly_9120": -0.68,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1969,
+      "days": 365,
+      "mean_c": 13.83,
+      "anomaly_9120": -0.55,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1970,
+      "days": 365,
+      "mean_c": 13.8,
+      "anomaly_9120": -0.58,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1971,
+      "days": 365,
+      "mean_c": 13.65,
+      "anomaly_9120": -0.73,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1972,
+      "days": 366,
+      "mean_c": 13.78,
+      "anomaly_9120": -0.59,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1973,
+      "days": 365,
+      "mean_c": 13.89,
+      "anomaly_9120": -0.49,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1974,
+      "days": 365,
+      "mean_c": 13.61,
+      "anomaly_9120": -0.77,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1975,
+      "days": 365,
+      "mean_c": 13.64,
+      "anomaly_9120": -0.74,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1976,
+      "days": 366,
+      "mean_c": 13.56,
+      "anomaly_9120": -0.81,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1977,
+      "days": 365,
+      "mean_c": 13.86,
+      "anomaly_9120": -0.53,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1978,
+      "days": 365,
+      "mean_c": 13.8,
+      "anomaly_9120": -0.58,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1979,
+      "days": 365,
+      "mean_c": 13.95,
+      "anomaly_9120": -0.43,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1980,
+      "days": 366,
+      "mean_c": 14.08,
+      "anomaly_9120": -0.3,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1981,
+      "days": 365,
+      "mean_c": 14.12,
+      "anomaly_9120": -0.26,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1982,
+      "days": 365,
+      "mean_c": 13.92,
+      "anomaly_9120": -0.46,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1983,
+      "days": 365,
+      "mean_c": 14.11,
+      "anomaly_9120": -0.27,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1984,
+      "days": 366,
+      "mean_c": 13.9,
+      "anomaly_9120": -0.48,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1985,
+      "days": 365,
+      "mean_c": 13.86,
+      "anomaly_9120": -0.52,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1986,
+      "days": 365,
+      "mean_c": 13.95,
+      "anomaly_9120": -0.43,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1987,
+      "days": 365,
+      "mean_c": 14.1,
+      "anomaly_9120": -0.28,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1988,
+      "days": 366,
+      "mean_c": 14.13,
+      "anomaly_9120": -0.25,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1989,
+      "days": 365,
+      "mean_c": 14.02,
+      "anomaly_9120": -0.36,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1990,
+      "days": 365,
+      "mean_c": 14.25,
+      "anomaly_9120": -0.13,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1991,
+      "days": 365,
+      "mean_c": 14.19,
+      "anomaly_9120": -0.19,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1992,
+      "days": 366,
+      "mean_c": 13.96,
+      "anomaly_9120": -0.42,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1993,
+      "days": 365,
+      "mean_c": 14.01,
+      "anomaly_9120": -0.37,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1994,
+      "days": 365,
+      "mean_c": 14.04,
+      "anomaly_9120": -0.34,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1995,
+      "days": 365,
+      "mean_c": 14.22,
+      "anomaly_9120": -0.16,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1996,
+      "days": 366,
+      "mean_c": 14.09,
+      "anomaly_9120": -0.29,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1997,
+      "days": 365,
+      "mean_c": 14.21,
+      "anomaly_9120": -0.17,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1998,
+      "days": 365,
+      "mean_c": 14.4,
+      "anomaly_9120": 0.02,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 1999,
+      "days": 365,
+      "mean_c": 14.13,
+      "anomaly_9120": -0.25,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2000,
+      "days": 366,
+      "mean_c": 14.12,
+      "anomaly_9120": -0.25,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2001,
+      "days": 365,
+      "mean_c": 14.29,
+      "anomaly_9120": -0.09,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2002,
+      "days": 365,
+      "mean_c": 14.39,
+      "anomaly_9120": 0,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2003,
+      "days": 365,
+      "mean_c": 14.37,
+      "anomaly_9120": -0.01,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2004,
+      "days": 366,
+      "mean_c": 14.3,
+      "anomaly_9120": -0.07,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2005,
+      "days": 365,
+      "mean_c": 14.47,
+      "anomaly_9120": 0.09,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2006,
+      "days": 365,
+      "mean_c": 14.42,
+      "anomaly_9120": 0.04,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2007,
+      "days": 365,
+      "mean_c": 14.42,
+      "anomaly_9120": 0.04,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2008,
+      "days": 366,
+      "mean_c": 14.28,
+      "anomaly_9120": -0.1,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2009,
+      "days": 365,
+      "mean_c": 14.42,
+      "anomaly_9120": 0.04,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2010,
+      "days": 365,
+      "mean_c": 14.51,
+      "anomaly_9120": 0.13,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2011,
+      "days": 365,
+      "mean_c": 14.37,
+      "anomaly_9120": -0.01,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2012,
+      "days": 366,
+      "mean_c": 14.42,
+      "anomaly_9120": 0.04,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2013,
+      "days": 365,
+      "mean_c": 14.45,
+      "anomaly_9120": 0.07,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2014,
+      "days": 365,
+      "mean_c": 14.49,
+      "anomaly_9120": 0.11,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2015,
+      "days": 365,
+      "mean_c": 14.64,
+      "anomaly_9120": 0.26,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2016,
+      "days": 366,
+      "mean_c": 14.81,
+      "anomaly_9120": 0.44,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2017,
+      "days": 365,
+      "mean_c": 14.72,
+      "anomaly_9120": 0.34,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2018,
+      "days": 365,
+      "mean_c": 14.64,
+      "anomaly_9120": 0.26,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2019,
+      "days": 365,
+      "mean_c": 14.78,
+      "anomaly_9120": 0.4,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2020,
+      "days": 366,
+      "mean_c": 14.81,
+      "anomaly_9120": 0.43,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2021,
+      "days": 365,
+      "mean_c": 14.66,
+      "anomaly_9120": 0.28,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2022,
+      "days": 365,
+      "mean_c": 14.68,
+      "anomaly_9120": 0.3,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2023,
+      "days": 365,
+      "mean_c": 14.98,
+      "anomaly_9120": 0.6,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2024,
+      "days": 366,
+      "mean_c": 15.1,
+      "anomaly_9120": 0.72,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2025,
+      "days": 365,
+      "mean_c": 14.97,
+      "anomaly_9120": 0.59,
+      "partial": null,
+      "source": "c3s-pulse"
+    },
+    {
+      "year": 2026,
+      "days": 308,
+      "mean_c": 15.3,
+      "anomaly_9120": 0.65,
+      "partial": "1 January to 4 November",
+      "source": "c3s-pulse"
+    }
+  ]
+}

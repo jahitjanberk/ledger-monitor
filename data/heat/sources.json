@@ -1,0 +1,156 @@
+{
+  "sources": {
+    "c3s-pulse": {
+      "publisher": "Copernicus Climate Change Service (C3S) and ECMWF, Climate Pulse",
+      "title": "Daily global mean surface air temperature, ERA5",
+      "url": "https://pulse.climate.copernicus.eu/",
+      "published": "2026-11-06",
+      "method": "reference",
+      "notes": "Daily global average air temperature 2 metres above the surface, 1 January 1940 to 4 November 2026, and its difference from the 1991–2020 average for the same day. The latest days are preliminary. Contains modified Copernicus Climate Change Service information."
+    },
+    "hadcrut5": {
+      "publisher": "Met Office Hadley Centre and the Climatic Research Unit, University of East Anglia",
+      "title": "HadCRUT5 global temperature, version 5.2.0.0, annual",
+      "url": "https://www.metoffice.gov.uk/hadobs/hadcrut5/",
+      "published": "2026-09-18",
+      "method": "reference",
+      "notes": "Annual global surface temperature anomalies, 1850 to 2025, with 95% uncertainty range. Published against 1961–1990; rebased here to the 1850–1900 average, which stands in for pre-industrial. Open Government Licence v3.0."
+    },
+    "c3s-oct2026": {
+      "publisher": "Copernicus Climate Change Service",
+      "title": "Surface air temperature for October 2026",
+      "url": "https://climate.copernicus.eu/surface-air-temperature-october-2026",
+      "published": "2026-11",
+      "method": "reference",
+      "notes": "Monthly climate bulletin."
+    },
+    "c3s-aug2026": {
+      "publisher": "Copernicus Climate Change Service",
+      "title": "Surface air temperature for August 2026",
+      "url": "https://climate.copernicus.eu/surface-air-temperature-august-2026",
+      "published": "2026-09",
+      "method": "reference",
+      "notes": "Monthly climate bulletin."
+    },
+    "ecmwf-2025": {
+      "publisher": "ECMWF and the Copernicus Climate Change Service",
+      "title": "Global Climate Highlights 2025: launch news release",
+      "url": "https://www.ecmwf.int/node/31031",
+      "published": "2026-01-14",
+      "method": "reference",
+      "notes": ""
+    },
+    "wmo-2025": {
+      "publisher": "World Meteorological Organization",
+      "title": "WMO confirms 2025 was one of warmest years on record",
+      "url": "https://wmo.int/news/media-centre/wmo-confirms-2025-was-one-of-warmest-years-record",
+      "published": "2026-01-14",
+      "method": "reference",
+      "notes": "Consolidated analysis of eight global temperature datasets."
+    },
+    "owid-anom": {
+      "publisher": "Copernicus Climate Change Service, with major processing by Our World in Data",
+      "title": "Annual temperature anomalies by country (ERA5)",
+      "url": "https://ourworldindata.org/grapher/annual-temperature-anomalies",
+      "published": "2026-10-12",
+      "method": "reference",
+      "notes": "Each country's average air temperature over land in 2025, against its own 1991–2020 average. Contains modified Copernicus Climate Change Service information (2026). CC BY 4.0 for Our World in Data's processing."
+    },
+    "wb-cckp": {
+      "publisher": "World Bank Climate Change Knowledge Portal",
+      "title": "Number of hot days (maximum above 35°C), ERA5 0.25°, 1950–2025",
+      "url": "https://climateknowledgeportal.worldbank.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Days a year when the daily maximum temperature passes 35°C, averaged over each country's area, so a country with hot and cool regions gets a middling number. CC BY 4.0."
+    },
+    "wb-cckp-cmip6": {
+      "publisher": "World Bank Climate Change Knowledge Portal",
+      "title": "Projected number of hot days (maximum above 35°C), CMIP6 ensemble median",
+      "url": "https://climateknowledgeportal.worldbank.org/",
+      "published": "2026",
+      "method": "model",
+      "notes": "Model average for 2040–2059 under a middle-of-the-road emissions scenario (SSP2-4.5), against the same models for 1995–2014. Model figures are not directly comparable with the ERA5 counts. CC BY 4.0."
+    },
+    "lancet-2025": {
+      "publisher": "World Health Organization, on the Lancet Countdown on Health and Climate Change 2025",
+      "title": "Climate inaction is claiming millions of lives every year, warns new Lancet Countdown report",
+      "url": "https://www.who.int/news/item/29-10-2025-climate-inaction-is-claiming-millions-of-lives-every-year--warns-new-lancet-countdown-report",
+      "published": "2025-10-29",
+      "method": "model",
+      "notes": "Heat-related deaths are a multi-year average estimated from temperature and mortality data."
+    },
+    "ilo-2024": {
+      "publisher": "International Labour Organization",
+      "title": "Climate change creates a 'cocktail' of serious health hazards for 70 per cent of the world's workers",
+      "url": "https://www.ilo.org/resource/news/climate-change-creates-%E2%80%98cocktail%E2%80%99-serious-health-hazards-70-cent-world%E2%80%99s",
+      "published": "2024-04-22",
+      "method": "model",
+      "notes": "Estimates for 2020, the latest available."
+    },
+    "who-wmo-work": {
+      "publisher": "World Health Organization and World Meteorological Organization",
+      "title": "WHO, WMO issue new report and guidance to protect workers from increasing heat stress",
+      "url": "https://www.who.int/news/item/22-08-2025-who-wmo-issue-new-report-and-guidance-to-protect-workers-from-increasing-heat-stress",
+      "published": "2025-08-22",
+      "method": "reference",
+      "notes": ""
+    },
+    "isglobal-2024": {
+      "publisher": "ISGlobal, on a study in Nature Medicine",
+      "title": "62,700 deaths associated with heat in summer 2024 in Europe",
+      "url": "https://www.isglobal.org/en/-/62.700-muertes-asociadas-con-el-calor-del-verano-de-2024",
+      "published": "2025-09-22",
+      "method": "model",
+      "notes": "654 regions in 32 European countries, 1 June to 30 September 2024."
+    },
+    "metoffice-haduk": {
+      "publisher": "Met Office National Climate Information Centre",
+      "title": "HadUK-Grid UK areal series: mean temperature",
+      "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series",
+      "published": "2026-11-01",
+      "method": "reference",
+      "notes": "UK average of daily mean temperature for June to August, 1884 to 2026. 2026 is provisional. Open Government Licence v3.0."
+    },
+    "metoffice-summer2026": {
+      "publisher": "Met Office",
+      "title": "Summer 2026 provisionally hottest on record for the UK",
+      "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/summer-2026-provisionally-hottest-on-record-for-the-uk",
+      "published": "2026-09-17",
+      "method": "reference",
+      "notes": "Provisional statistics."
+    },
+    "metoffice-28c": {
+      "publisher": "Met Office blog",
+      "title": "How exceptional were UK summer 2026 daily temperatures?",
+      "url": "https://www.metoffice.gov.uk/blog/2026/how-exceptional-were-uk-summer-2026-daily-temperatures",
+      "published": "2026-09-02",
+      "method": "reference",
+      "notes": "Counts days when the temperature passed 28°C anywhere in the UK."
+    },
+    "ukhsa-2025": {
+      "publisher": "UK Health Security Agency",
+      "title": "Heat mortality monitoring report: England, 2025",
+      "url": "https://www.gov.uk/government/statistics/heat-mortality-monitoring-report-england-2025/heat-mortality-monitoring-report-england-2025",
+      "published": "2026-04-02",
+      "method": "model",
+      "notes": "Deaths above the expected number during heat episodes. Open Government Licence v3.0."
+    },
+    "ukhsa-2026": {
+      "publisher": "UK Health Security Agency",
+      "title": "UKHSA report shows 2,877 excess deaths caused by May and June heatwaves",
+      "url": "https://www.gov.uk/government/news/ukhsa-report-shows-2877-excess-deaths-caused-by-may-and-june-heatwaves",
+      "published": "2026-07-30",
+      "method": "model",
+      "notes": "Interim estimate."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

@@ -15,7 +15,7 @@ const server = http.createServer((q, r) => { const f = path.join(ROOT, decodeURI
 const html = fs.readFileSync(path.join(ROOT, "index.html"), "utf8");
 const strip = (s) => s.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").trim();
 
-const cards = [...html.matchAll(/<article class="hb-card(?: hb-feat)?" style="--c-light:(#[0-9A-F]+)[^"]*">([\s\S]*?)<\/article>/g)].map(([, color, body]) => ({
+const cards = [...html.matchAll(/<article class="hb-card(?: hb-feat)?(?: hb-wide)?" style="--c-light:(#[0-9A-F]+)[^"]*">([\s\S]*?)<\/article>/g)].map(([, color, body]) => ({
   id: body.match(/<h2><a href="([a-z]+)\//)[1],
   color,
   eyebrow: strip(body.match(/<p class="hb-eyebrow">([\s\S]*?)<\/p>/)[1]).split(" · ")[0],
@@ -24,7 +24,7 @@ const cards = [...html.matchAll(/<article class="hb-card(?: hb-feat)?" style="--
   label: strip(body.match(/<p class="hb-label">([\s\S]*?)<span/)[1]),
   src: strip(body.match(/<span class="hb-src">· ([\s\S]*?)<\/span>/)[1]),
 }));
-cards.push({ id: "hub", color: "#2E4BFF", eyebrow: "8 open data dashboards", title: "Economy Monitor", big: "", label: "The systems behind everyday life, measured from public sources", src: "Every number cited · all data downloadable" });
+cards.push({ id: "hub", color: "#2E4BFF", eyebrow: "12 open data dashboards", title: "Economy Monitor", big: "", label: "The systems behind everyday life, measured from public sources", src: "Every number cited · all data downloadable" });
 
 const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const page = (c) => `<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="/assets/fonts.css"><style>

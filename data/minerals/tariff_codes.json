@@ -1,0 +1,27 @@
+{
+  "id": "tariff_codes",
+  "title": "Chinese tariff codes under export control",
+  "description": "Number of eight-digit mineral tariff codes under Chinese export control (IEA).",
+  "records": [
+    {
+      "month": "2023-09",
+      "tariff_codes": 20,
+      "source": "iea-codes"
+    },
+    {
+      "month": "2024-09",
+      "tariff_codes": 25,
+      "source": "iea-codes"
+    },
+    {
+      "month": "2025-02",
+      "tariff_codes": 43,
+      "source": "iea-codes"
+    },
+    {
+      "month": "2025-04",
+      "tariff_codes": 68,
+      "source": "iea-codes"
+    }
+  ]
+}

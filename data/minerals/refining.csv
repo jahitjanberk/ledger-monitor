@@ -1,0 +1,31 @@
+mineral,mineral_label,country,share_2025,top_share_2023,source
+copper,Copper,China,47,44,iea-refined
+copper,Copper,United States,3,44,iea-refined
+copper,Copper,Australia,2,44,iea-refined
+copper,Copper,Chile,6,44,iea-refined
+copper,Copper,Japan,5,44,iea-refined
+copper,Copper,DRC,10,44,iea-refined
+copper,Copper,Rest of world,28,44,iea-refined
+lithium,Lithium,China,74,66,iea-refined
+lithium,Lithium,Australia,2,66,iea-refined
+lithium,Lithium,Chile,16,66,iea-refined
+lithium,Lithium,Argentina,5,66,iea-refined
+lithium,Lithium,Rest of world,3,66,iea-refined
+nickel,Nickel,Indonesia,45,41,iea-refined
+nickel,Nickel,China,31,41,iea-refined
+nickel,Nickel,Australia,1,41,iea-refined
+nickel,Nickel,Japan,3,41,iea-refined
+nickel,Nickel,Rest of world,17,41,iea-refined
+cobalt,Cobalt,China,76,80,iea-refined
+cobalt,Cobalt,Japan,2,80,iea-refined
+cobalt,Cobalt,Rest of world,21,80,iea-refined
+graphite,Graphite,China,94,95,iea-refined
+graphite,Graphite,Japan,3,95,iea-refined
+graphite,Graphite,Rest of world,3,95,iea-refined
+manganese,Manganese,China,96,92,iea-refined
+manganese,Manganese,Europe,3,92,iea-refined
+manganese,Manganese,Rest of world,1,92,iea-refined
+rare-earths,Rare earths,China,85,91,iea-refined
+rare-earths,Rare earths,United States,5,91,iea-refined
+rare-earths,Rare earths,India,1,91,iea-refined
+rare-earths,Rare earths,Rest of world,9,91,iea-refined

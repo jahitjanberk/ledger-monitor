@@ -1,0 +1,759 @@
+{
+  "id": "metals",
+  "title": "Base metal prices, monthly",
+  "description": "Copper, nickel, aluminium and tin, US dollars a tonne, January 2019 to October 2026 (World Bank Pink Sheet).",
+  "records": [
+    {
+      "month": "2019-01",
+      "copper": 5939,
+      "nickel": 11523,
+      "aluminium": 1854,
+      "tin": 20458,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-02",
+      "copper": 6300,
+      "nickel": 12685,
+      "aluminium": 1863,
+      "tin": 21264,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-03",
+      "copper": 6439,
+      "nickel": 13026,
+      "aluminium": 1871,
+      "tin": 21393,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-04",
+      "copper": 6438,
+      "nickel": 12773,
+      "aluminium": 1845,
+      "tin": 20604,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-05",
+      "copper": 6018,
+      "nickel": 12016,
+      "aluminium": 1781,
+      "tin": 19524,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-06",
+      "copper": 5882,
+      "nickel": 11944,
+      "aluminium": 1756,
+      "tin": 19193,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-07",
+      "copper": 5941,
+      "nickel": 13546,
+      "aluminium": 1797,
+      "tin": 17978,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-08",
+      "copper": 5709,
+      "nickel": 15749,
+      "aluminium": 1741,
+      "tin": 16609,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-09",
+      "copper": 5759,
+      "nickel": 17657,
+      "aluminium": 1754,
+      "tin": 16831,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-10",
+      "copper": 5757,
+      "nickel": 17046,
+      "aluminium": 1726,
+      "tin": 16603,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-11",
+      "copper": 5860,
+      "nickel": 15172,
+      "aluminium": 1775,
+      "tin": 16335,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2019-12",
+      "copper": 6077,
+      "nickel": 13829,
+      "aluminium": 1771,
+      "tin": 17141,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-01",
+      "copper": 6031,
+      "nickel": 13507,
+      "aluminium": 1773,
+      "tin": 17029,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-02",
+      "copper": 5688,
+      "nickel": 12716,
+      "aluminium": 1688,
+      "tin": 16480,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-03",
+      "copper": 5183,
+      "nickel": 11846,
+      "aluminium": 1611,
+      "tin": 15291,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-04",
+      "copper": 5058,
+      "nickel": 11804,
+      "aluminium": 1460,
+      "tin": 14953,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-05",
+      "copper": 5240,
+      "nickel": 12180,
+      "aluminium": 1466,
+      "tin": 15402,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-06",
+      "copper": 5755,
+      "nickel": 12727,
+      "aluminium": 1569,
+      "tin": 16838,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-07",
+      "copper": 6372,
+      "nickel": 13402,
+      "aluminium": 1644,
+      "tin": 17470,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-08",
+      "copper": 6499,
+      "nickel": 14538,
+      "aluminium": 1737,
+      "tin": 17650,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-09",
+      "copper": 6705,
+      "nickel": 14857,
+      "aluminium": 1744,
+      "tin": 17951,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-10",
+      "copper": 6714,
+      "nickel": 15239,
+      "aluminium": 1806,
+      "tin": 18177,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-11",
+      "copper": 7069,
+      "nickel": 15808,
+      "aluminium": 1935,
+      "tin": 18522,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2020-12",
+      "copper": 7772,
+      "nickel": 16823,
+      "aluminium": 2015,
+      "tin": 19732,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-01",
+      "copper": 7972,
+      "nickel": 17863,
+      "aluminium": 2004,
+      "tin": 21920,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-02",
+      "copper": 8471,
+      "nickel": 18584,
+      "aluminium": 2079,
+      "tin": 26316,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-03",
+      "copper": 8988,
+      "nickel": 16407,
+      "aluminium": 2190,
+      "tin": 27061,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-04",
+      "copper": 9325,
+      "nickel": 16521,
+      "aluminium": 2319,
+      "tin": 28328,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-05",
+      "copper": 10162,
+      "nickel": 17577,
+      "aluminium": 2434,
+      "tin": 32246,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-06",
+      "copper": 9632,
+      "nickel": 17980,
+      "aluminium": 2447,
+      "tin": 32503,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-07",
+      "copper": 9451,
+      "nickel": 18819,
+      "aluminium": 2498,
+      "tin": 34020,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-08",
+      "copper": 9370,
+      "nickel": 19141,
+      "aluminium": 2603,
+      "tin": 35024,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-09",
+      "copper": 9325,
+      "nickel": 19377,
+      "aluminium": 2835,
+      "tin": 34887,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-10",
+      "copper": 9829,
+      "nickel": 19362,
+      "aluminium": 2934,
+      "tin": 37723,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-11",
+      "copper": 9729,
+      "nickel": 19933,
+      "aluminium": 2636,
+      "tin": 39159,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2021-12",
+      "copper": 9551,
+      "nickel": 20016,
+      "aluminium": 2696,
+      "tin": 39423,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-01",
+      "copper": 9782,
+      "nickel": 22355,
+      "aluminium": 3006,
+      "tin": 41792,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-02",
+      "copper": 9943,
+      "nickel": 24016,
+      "aluminium": 3246,
+      "tin": 43983,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-03",
+      "copper": 10231,
+      "nickel": 33924,
+      "aluminium": 3498,
+      "tin": 43950,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-04",
+      "copper": 10161,
+      "nickel": 33133,
+      "aluminium": 3244,
+      "tin": 42991,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-05",
+      "copper": 9377,
+      "nickel": 28063,
+      "aluminium": 2830,
+      "tin": 35769,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-06",
+      "copper": 9024,
+      "nickel": 25659,
+      "aluminium": 2563,
+      "tin": 31559,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-07",
+      "copper": 7545,
+      "nickel": 21482,
+      "aluminium": 2408,
+      "tin": 25396,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-08",
+      "copper": 7982,
+      "nickel": 22057,
+      "aluminium": 2431,
+      "tin": 24647,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-09",
+      "copper": 7746,
+      "nickel": 22774,
+      "aluminium": 2225,
+      "tin": 21124,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-10",
+      "copper": 7651,
+      "nickel": 22033,
+      "aluminium": 2256,
+      "tin": 19391,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-11",
+      "copper": 8050,
+      "nickel": 25563,
+      "aluminium": 2351,
+      "tin": 21250,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2022-12",
+      "copper": 8375,
+      "nickel": 28947,
+      "aluminium": 2402,
+      "tin": 24172,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-01",
+      "copper": 9038,
+      "nickel": 28195,
+      "aluminium": 2502,
+      "tin": 28154,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-02",
+      "copper": 8937,
+      "nickel": 26728,
+      "aluminium": 2416,
+      "tin": 26863,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-03",
+      "copper": 8856,
+      "nickel": 23289,
+      "aluminium": 2296,
+      "tin": 24000,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-04",
+      "copper": 8809,
+      "nickel": 23895,
+      "aluminium": 2343,
+      "tin": 25794,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-05",
+      "copper": 8217,
+      "nickel": 21970,
+      "aluminium": 2269,
+      "tin": 25534,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-06",
+      "copper": 8397,
+      "nickel": 21233,
+      "aluminium": 2185,
+      "tin": 27217,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-07",
+      "copper": 8477,
+      "nickel": 21091,
+      "aluminium": 2160,
+      "tin": 28743,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-08",
+      "copper": 8349,
+      "nickel": 20439,
+      "aluminium": 2137,
+      "tin": 26075,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-09",
+      "copper": 8277,
+      "nickel": 19645,
+      "aluminium": 2185,
+      "tin": 25574,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-10",
+      "copper": 7937,
+      "nickel": 18281,
+      "aluminium": 2192,
+      "tin": 24536,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-11",
+      "copper": 8190,
+      "nickel": 17027,
+      "aluminium": 2202,
+      "tin": 24168,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2023-12",
+      "copper": 8400,
+      "nickel": 16461,
+      "aluminium": 2182,
+      "tin": 24600,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-01",
+      "copper": 8339,
+      "nickel": 16104,
+      "aluminium": 2193,
+      "tin": 25100,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-02",
+      "copper": 8305,
+      "nickel": 16338,
+      "aluminium": 2179,
+      "tin": 26104,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-03",
+      "copper": 8689,
+      "nickel": 17439,
+      "aluminium": 2226,
+      "tin": 27450,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-04",
+      "copper": 9464,
+      "nickel": 18164,
+      "aluminium": 2506,
+      "tin": 31775,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-05",
+      "copper": 10139,
+      "nickel": 19587,
+      "aluminium": 2565,
+      "tin": 32978,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-06",
+      "copper": 9648,
+      "nickel": 17498,
+      "aluminium": 2498,
+      "tin": 32033,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-07",
+      "copper": 9385,
+      "nickel": 16335,
+      "aluminium": 2349,
+      "tin": 31860,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-08",
+      "copper": 8972,
+      "nickel": 16292,
+      "aluminium": 2344,
+      "tin": 31492,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-09",
+      "copper": 9237,
+      "nickel": 16077,
+      "aluminium": 2450,
+      "tin": 31472,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-10",
+      "copper": 9534,
+      "nickel": 16766,
+      "aluminium": 2596,
+      "tin": 32012,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-11",
+      "copper": 9076,
+      "nickel": 15723,
+      "aluminium": 2582,
+      "tin": 29655,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2024-12",
+      "copper": 8916,
+      "nickel": 15445,
+      "aluminium": 2541,
+      "tin": 28865,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-01",
+      "copper": 8991,
+      "nickel": 15394,
+      "aluminium": 2573,
+      "tin": 29612,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-02",
+      "copper": 9331,
+      "nickel": 15288,
+      "aluminium": 2658,
+      "tin": 31833,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-03",
+      "copper": 9740,
+      "nickel": 16066,
+      "aluminium": 2658,
+      "tin": 34048,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-04",
+      "copper": 9177,
+      "nickel": 15113,
+      "aluminium": 2372,
+      "tin": 32565,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-05",
+      "copper": 9533,
+      "nickel": 15346,
+      "aluminium": 2449,
+      "tin": 31981,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-06",
+      "copper": 9835,
+      "nickel": 15003,
+      "aluminium": 2526,
+      "tin": 32544,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-07",
+      "copper": 9771,
+      "nickel": 15034,
+      "aluminium": 2606,
+      "tin": 33610,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-08",
+      "copper": 9670,
+      "nickel": 14949,
+      "aluminium": 2597,
+      "tin": 33834,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-09",
+      "copper": 9984,
+      "nickel": 15106,
+      "aluminium": 2653,
+      "tin": 34484,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-10",
+      "copper": 10740,
+      "nickel": 15092,
+      "aluminium": 2793,
+      "tin": 36012,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-11",
+      "copper": 10812,
+      "nickel": 14671,
+      "aluminium": 2819,
+      "tin": 36963,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2025-12",
+      "copper": 11785,
+      "nickel": 14884,
+      "aluminium": 2876,
+      "tin": 41220,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-01",
+      "copper": 13012,
+      "nickel": 17769,
+      "aluminium": 3142,
+      "tin": 49538,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-02",
+      "copper": 12951,
+      "nickel": 17173,
+      "aluminium": 3065,
+      "tin": 48694,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-03",
+      "copper": 12529,
+      "nickel": 17076,
+      "aluminium": 3373,
+      "tin": 47324,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-04",
+      "copper": 12951,
+      "nickel": 17962,
+      "aluminium": 3600,
+      "tin": 48806,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-05",
+      "copper": 13543,
+      "nickel": 18806,
+      "aluminium": 3666,
+      "tin": 53563,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-06",
+      "copper": 13552,
+      "nickel": 17588,
+      "aluminium": 3439,
+      "tin": 53037,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-07",
+      "copper": 13543,
+      "nickel": 16651,
+      "aluminium": 3161,
+      "tin": 52971,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-08",
+      "copper": 14326,
+      "nickel": 16751,
+      "aluminium": 3251,
+      "tin": 55385,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-09",
+      "copper": 14474,
+      "nickel": 16324,
+      "aluminium": 3283,
+      "tin": 53712,
+      "source": "wb-pinksheet"
+    },
+    {
+      "month": "2026-10",
+      "copper": 14508,
+      "nickel": 15436,
+      "aluminium": 3061,
+      "tin": 51696,
+      "source": "wb-pinksheet"
+    }
+  ]
+}

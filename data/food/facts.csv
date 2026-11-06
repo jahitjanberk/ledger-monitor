@@ -1,0 +1,14 @@
+id,label,value,unit,note,source
+proj2030,People projected to still face hunger in 2030,520,million,510 to 520 million; the goal was zero,sofi2026
+stunted,Children under five who are stunted (too short for their age),150,million,,sofi2026
+grfc,"People in high levels of acute food insecurity (IPC/CH Phase 3 or above), 2025",266,million,In 47 countries and territories; 22.9% of the people analysed,grfc2026
+phase5,"People in Catastrophe (IPC/CH Phase 5), 2025",1.4,million,"Haiti, Mali, the Gaza Strip, South Sudan, Sudan and Yemen",grfc2026
+famine,Places where famine was confirmed in 2025,2,places,Parts of the Gaza Strip and Sudan,grfc2026
+wasted,"Children aged 6 to 59 months acutely malnourished in food-crisis countries, 2025",35.5,million,,grfc2026
+top3,"Share of people in acute food insecurity living in DR Congo, Nigeria and Sudan, 2025",33,%,Nearly one-third,grfc2026
+ureashare,Share of global urea exports that pass through the Strait of Hormuz,25,%,Nearly one-quarter,wb-fert-blog
+urea80,Rise in the urea price from February to April 2026,80,%,"Above $850 a tonne, the highest since April 2022",wb-fert-blog
+delayed,Fertiliser trade delayed each month by the Hormuz crisis,3,million tonnes,1.5 to 3 million tonnes a month,fao-hormuz
+gulf,Share of staple food that Gulf countries import,90,%,70 to 90%,fao-hormuz
+ukfrs,"UK households with low or very low food security, 2024 to 2025",9,%,4% low and 5% very low; 1.4% used a food bank in the past 30 days,dwp-frs
+ukff,"UK households experiencing food insecurity in the past month, June 2026",12.2,%,6.5 million adults and 2.2 million children,ff-tracker

@@ -1,0 +1,196 @@
+{
+  "sources": {
+    "usgs-mcs": {
+      "publisher": "U.S. Geological Survey, National Minerals Information Center",
+      "title": "Mineral Commodity Summaries 2026",
+      "url": "https://doi.org/10.3133/mcs2026",
+      "published": "2026-02-06",
+      "method": "reference",
+      "notes": "World mine production by country for 2024 and estimated 2025, reserves, and annual prices, from each mineral's chapter (revised to version 1.3, 27 May 2026). Public domain. Prices quoted by USGS come from Benchmark Mineral Intelligence, S&P Global Platts and Argus."
+    },
+    "iea-refined": {
+      "publisher": "International Energy Agency",
+      "title": "Share of refined material production by country, with the top producer's share, 2023 versus 2025 (Global Critical Minerals Outlook 2026)",
+      "url": "https://www.iea.org/data-and-statistics/charts/share-of-refined-material-production-by-country-with-the-top-producers-share-2023-versus-2025",
+      "published": "2026-07-16",
+      "method": "reference",
+      "notes": "IEA. Licence: CC BY 4.0. This is a work derived by Economy Monitor from IEA material; it is not endorsed by the IEA."
+    },
+    "iea-top20": {
+      "publisher": "International Energy Agency",
+      "title": "Share of top refining country for 20 energy-related minerals (Global Critical Minerals Outlook 2025)",
+      "url": "https://www.iea.org/data-and-statistics/charts/share-of-top-refining-country-for-20-energy-related-minerals",
+      "published": "2025-05-21",
+      "method": "reference",
+      "notes": "Most recent year available for each mineral. IEA. Licence: CC BY 4.0. Derived work, not endorsed by the IEA."
+    },
+    "iea-gcmo2026": {
+      "publisher": "International Energy Agency",
+      "title": "Global Critical Minerals Outlook 2026: executive summary",
+      "url": "https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary",
+      "published": "2026-07-16",
+      "method": "reference",
+      "notes": "IEA. Licence: CC BY 4.0."
+    },
+    "iea-codes": {
+      "publisher": "International Energy Agency",
+      "title": "Number of tariff codes under export control from China, 2023–2025",
+      "url": "https://www.iea.org/data-and-statistics/charts/number-of-tariff-codes-under-export-control-from-china-2023-2025",
+      "published": "2026-07-16",
+      "method": "reference",
+      "notes": "IEA analysis based on Chinese customs data. Eight-digit tariff codes. IEA. Licence: CC BY 4.0."
+    },
+    "wb-pinksheet": {
+      "publisher": "World Bank",
+      "title": "Commodity Price Data (The Pink Sheet), monthly prices",
+      "url": "https://www.worldbank.org/en/research/commodity-markets",
+      "published": "2026-11-03",
+      "method": "reference",
+      "notes": "London Metal Exchange prices in nominal US dollars a tonne. CC BY 4.0."
+    },
+    "oecd-inventory": {
+      "publisher": "OECD",
+      "title": "OECD Inventory of Export Restrictions on Critical Raw Materials 2026",
+      "url": "https://doi.org/10.1787/d5ca8f62-en",
+      "published": "2026-04",
+      "method": "reference",
+      "notes": "Covers 2009–2024. CC BY 4.0."
+    },
+    "mofcom-2023-23": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2023 No. 23: export controls on gallium and germanium items",
+      "url": "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2023/art_52b9a321087f402bb3d310d18b07967e.html",
+      "published": "2023-07-03",
+      "method": "reference",
+      "notes": "In force from 1 August 2023. In Chinese."
+    },
+    "mofcom-2023-39": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2023 No. 39: export controls on graphite items",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2023/art_f6b1bc49e2c8482f8eb749012bc66dec.html",
+      "published": "2023-10-20",
+      "method": "reference",
+      "notes": "In force from 1 December 2023. In Chinese."
+    },
+    "mofcom-2024-33": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2024 No. 33: export controls on antimony and superhard materials",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2024/art/2024/art_6a472deaa37b46ccb04d4d8696fd8e75.html",
+      "published": "2024-08-15",
+      "method": "reference",
+      "notes": "In force from 15 September 2024. In Chinese."
+    },
+    "mofcom-2024-46": {
+      "publisher": "Ministry of Commerce, China",
+      "title": "Announcement 2024 No. 46: dual-use exports to the United States",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2024/art/2024/art_1f22e2926a1d49b88d6b329549afcbdc.html",
+      "published": "2024-12-03",
+      "method": "reference",
+      "notes": "Exports of gallium, germanium, antimony and superhard materials to the US in principle not licensed. In Chinese."
+    },
+    "mofcom-2025-18": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2025 No. 18: export controls on seven medium and heavy rare earths",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_5e663d0bfec7452dabd950d0f0e42153.html",
+      "published": "2025-04-04",
+      "method": "reference",
+      "notes": "Samarium, gadolinium, terbium, dysprosium, lutetium, scandium and yttrium. In Chinese."
+    },
+    "mofcom-2025-57": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2025 No. 57: export controls on five more rare earths",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2025/art/2025/art_9510f263c3c246d8936fbfa684a58ca8.html",
+      "published": "2025-10-09",
+      "method": "reference",
+      "notes": "Part of a package that also covered battery materials (No. 58) and foreign-made goods containing 0.1% or more Chinese rare earths by value (No. 61). In Chinese."
+    },
+    "mofcom-2025-70": {
+      "publisher": "Ministry of Commerce and General Administration of Customs, China",
+      "title": "Announcement 2025 No. 70: suspension of the October 2025 export controls",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_b1ec77dd3f0d4762952904df7cdaadec.html",
+      "published": "2025-11-07",
+      "method": "reference",
+      "notes": "Suspended until 10 November 2026. In Chinese."
+    },
+    "mofcom-2025-72": {
+      "publisher": "Ministry of Commerce, China",
+      "title": "Announcement 2025 No. 72: suspension of the ban on exports to the United States",
+      "url": "https://www.mofcom.gov.cn/zwgk/zcfb/art/2025/art_5c68985a6b1a46778e2e8dbff1bb1601.html",
+      "published": "2025-11-09",
+      "method": "reference",
+      "notes": "Suspended until 27 November 2026; the ban on military users stays. In Chinese."
+    },
+    "iea-pol-indonesia": {
+      "publisher": "International Energy Agency, Policies database",
+      "title": "Indonesia: ban on nickel ore exports",
+      "url": "https://www.iea.org/policies/16084",
+      "published": "2024-03-19",
+      "method": "reference",
+      "notes": ""
+    },
+    "iea-pol-drc": {
+      "publisher": "International Energy Agency, Policies database",
+      "title": "DR Congo: cobalt export suspension and quotas",
+      "url": "https://www.iea.org/policies/28969",
+      "published": "2026-05-28",
+      "method": "reference",
+      "notes": ""
+    },
+    "ec-crma": {
+      "publisher": "European Commission",
+      "title": "Critical Raw Materials Act",
+      "url": "https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials/critical-raw-materials-act_en",
+      "published": "2024",
+      "method": "reference",
+      "notes": ""
+    },
+    "uk-vision2035": {
+      "publisher": "Department for Business and Trade",
+      "title": "Vision 2035: Critical Minerals Strategy",
+      "url": "https://www.gov.uk/government/publications/uk-critical-minerals-strategy/vision-2035-critical-minerals-strategy",
+      "published": "2025-11-22",
+      "method": "reference",
+      "notes": "Open Government Licence v3.0."
+    },
+    "bgs-2024": {
+      "publisher": "British Geological Survey, UK Critical Minerals Intelligence Centre",
+      "title": "UK 2024 criticality assessment",
+      "url": "https://www.bgs.ac.uk/news/uk-2024-criticality-assessment/",
+      "published": "2024-11-28",
+      "method": "reference",
+      "notes": ""
+    },
+    "amnesty-2016": {
+      "publisher": "Amnesty International and Afrewatch",
+      "title": "\"This is what we die for\": human rights abuses in the Democratic Republic of the Congo power the global trade in cobalt",
+      "url": "https://www.amnesty.org/en/documents/afr62/3183/2016/en/",
+      "published": "2016-01",
+      "method": "reference",
+      "notes": "Cites a 2014 UNICEF estimate covering all mines in southern DR Congo."
+    },
+    "oecd-2019": {
+      "publisher": "OECD",
+      "title": "Interconnected supply chains: due diligence challenges and opportunities sourcing cobalt and copper from the DRC",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/11/interconnected-supply-chains_cec91fc0/576804e7-en.pdf",
+      "published": "2019-11",
+      "method": "reference",
+      "notes": ""
+    },
+    "itu-ewaste": {
+      "publisher": "ITU and UNITAR",
+      "title": "Global E-waste Monitor 2024: press release",
+      "url": "https://www.itu.int/en/mediacentre/Pages/PR-2024-03-20-e-waste-recycling.aspx",
+      "published": "2024-03-20",
+      "method": "reference",
+      "notes": ""
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

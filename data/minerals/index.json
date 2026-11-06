@@ -1,0 +1,66 @@
+{
+  "variant": "minerals",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "minerals",
+      "title": "Concentration by mineral",
+      "description": "For eleven minerals: world mine production in 2024 and 2025 (USGS), the leading producers and their shares, the leading reserve holder, and China's and the top country's share of refining in 2025 (IEA).",
+      "rows": 11
+    },
+    {
+      "id": "production",
+      "title": "Mine production by country",
+      "description": "Mine production by country, 2024 and estimated 2025, share of the world total, and reserves (USGS Mineral Commodity Summaries 2026).",
+      "rows": 130
+    },
+    {
+      "id": "refining",
+      "title": "Refining by country, 2025",
+      "description": "Share of refined output by country for seven minerals in 2025, and the top producer's share in 2023 (IEA Global Critical Minerals Outlook 2026).",
+      "rows": 30
+    },
+    {
+      "id": "top_refiner",
+      "title": "Top refining country for 20 minerals",
+      "description": "Share held by the leading refining country, most recent year (IEA Global Critical Minerals Outlook 2025).",
+      "rows": 20
+    },
+    {
+      "id": "prices",
+      "title": "Mineral prices, 2021 to 2025",
+      "description": "Annual average prices quoted by USGS, with the change from 2024 to 2025 (2025 estimated).",
+      "rows": 12
+    },
+    {
+      "id": "metals",
+      "title": "Base metal prices, monthly",
+      "description": "Copper, nickel, aluminium and tin, US dollars a tonne, January 2019 to October 2026 (World Bank Pink Sheet).",
+      "rows": 94
+    },
+    {
+      "id": "controls",
+      "title": "Export controls",
+      "description": "Export bans, licences and quotas on critical minerals since 2020, with status as of 6 November 2026.",
+      "rows": 8
+    },
+    {
+      "id": "tariff_codes",
+      "title": "Chinese tariff codes under export control",
+      "description": "Number of eight-digit mineral tariff codes under Chinese export control (IEA).",
+      "rows": 4
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the map.",
+      "rows": 5
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from USGS, the IEA, the OECD, Amnesty International, ITU, the European Commission, the UK government and the BGS.",
+      "rows": 23
+    }
+  ]
+}

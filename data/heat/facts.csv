@@ -1,0 +1,21 @@
+id,label,value,unit,note,source
+y2025,"Global temperature in 2025 above the 1850–1900 average (WMO, eight datasets)",1.44,°C,± 0.13°C; second or third warmest year depending on the dataset,wmo-2025
+three,Average global temperature 2023–2025 above the 1850–1900 average,1.48,°C,The first three-year period above 1.5°C in ERA5,wmo-2025
+y2024,"Global temperature in 2024, the warmest year, above pre-industrial (ERA5)",1.6,°C,,ecmwf-2025
+era2025,Global temperature in 2025 above pre-industrial (ERA5),1.47,°C,The past 11 years were the 11 warmest on record,ecmwf-2025
+stress,"Share of global land with more days of at least strong heat stress than average, 2025",50,%,Half,ecmwf-2025
+oct2026,"October 2026 above the 1850–1900 average, the warmest October on record",1.75,°C,The third month in a row above 1.5°C,c3s-oct2026
+last12,"Global temperature, November 2025 to October 2026, above the 1850–1900 average",1.51,°C,2026 is forecast to be the second-warmest year and to exceed 1.5°C,c3s-oct2026
+aug2026,August 2026 above the 1850–1900 average; tied with July 2023 as the warmest month ever recorded,1.65,°C,,c3s-aug2026
+deaths,Heat-related deaths a year worldwide (average),546000,deaths,The rate of heat-related deaths rose 23% since the 1990s,lancet-2025
+hours,Potential labour hours lost to heat in 2024,640,billion hours,Productivity losses equivalent to US$1.09 trillion,lancet-2025
+days16,Days of dangerous heat the average person faced in 2024 that would not have been expected without climate change,16,days,,lancet-2025
+workers,Workers likely to be exposed to excessive heat at some point during their work (2020),2.4,billion,"Out of 3.4 billion; 70.9% of the global workforce, up from 65.5% in 2000",ilo-2024
+injuries,Work injuries a year attributable to excessive heat,22.87,million,"Causing 18,970 deaths",ilo-2024
+prod,Fall in worker productivity for every degree above 20°C,2.5,%,2–3%,who-wmo-work
+europe,"Heat-related deaths in Europe, 1 June to 30 September 2024",62775,deaths,"More than 181,000 over the summers of 2022, 2023 and 2024",isglobal-2024
+uksummer,"UK mean temperature, summer 2026, provisionally the warmest on record",16.5,°C,Peak 38.2°C at Hartpury College on 13 August; 54 Met Office stations broke their all-time records,metoffice-summer2026
+uk130,How much more likely human-induced climate change made the UK's summer 2026,130,times,Around 130 times,metoffice-summer2026
+uk28,Days in summer 2026 when the temperature passed 28°C somewhere in the UK,55,days,"The previous record was 41, in 1976 and 1995",metoffice-28c
+ukdeaths2025,"Heat-associated deaths in England, summer 2025",1504,deaths,"95% confidence interval 936 to 2,072; 5 heat episodes",ukhsa-2025
+ukdeaths2026,Heat-associated deaths in England during the May and June 2026 heatwaves (interim),2877,deaths,"753 in the May episode and 2,124 in the June heatwave",ukhsa-2026

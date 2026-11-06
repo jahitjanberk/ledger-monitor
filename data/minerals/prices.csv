@@ -1,0 +1,13 @@
+mineral,label,series,unit,p2021,p2022,p2023,p2024,p2025,change_2024_2025,estimate_2025,source
+lithium,Lithium,"Battery-grade lithium carbonate, annual average",USD per metric ton,11700,63700,39000,11800,9000,-23.7,true,usgs-mcs
+cobalt,Cobalt,"U.S. spot, cathode",USD per pound,24.21,30.78,17.2,16.77,21,25.2,true,usgs-mcs
+nickel,Nickel,LME cash,USD per metric ton,18476,25815,21495,16812,15000,-10.8,true,usgs-mcs
+copper,Copper,LME grade A cash,US cents per pound,422.5,399.8,384.8,414.7,440,6.1,true,usgs-mcs
+rare-earths,Rare earths (NdPr oxide),NdPr oxide 99% min,USD per kilogram,92,124,75,55,69,25.5,true,usgs-mcs
+gallium,Gallium,Average unit value of U.S. imports (gallium metal),USD per kilogram,277,432,365,439,580,32.1,true,usgs-mcs
+germanium,Germanium,"Germanium metal, Europe, min 99.999%",USD per kilogram,1187,1294,1392,1991,4100,105.9,true,usgs-mcs
+graphite,Graphite,"Flake, average unit value of U.S. imports at foreign ports",USD per metric ton,1330,1200,1080,1050,1000,-4.8,true,usgs-mcs
+antimony,Antimony,"Metal, average",USD per pound,5.31,6.18,5.49,10.24,25,144.1,true,usgs-mcs
+tungsten,Tungsten,"Concentrate, in-warehouse Rotterdam",USD per dry metric ton unit of WO3,225,275,258,252,380,50.8,true,usgs-mcs
+manganese,Manganese,"Ore, Mn content, CIF China",USD per metric ton unit,5.27,5.97,4.8,5.53,4.5,-18.6,true,usgs-mcs
+platinum,Platinum,Platinum (Engelhard unfabricated),USD per troy ounce,1094.31,966.54,973,960.7,1200,24.9,true,usgs-mcs

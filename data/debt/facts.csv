@@ -1,0 +1,13 @@
+id,label,value,unit,note,source
+people,People living in developing countries that spend more on net interest than on health or education,3.7,billion,1.2 billion more than in 2010,unctad-wod
+countries,Developing countries that spend more on interest payments than on either education or health,51,countries,,unctad-wod
+dcdebt,"Developing countries' public debt, 2025",35,trillion US dollars,,unctad-wod
+dcinterest,"Developing countries' net interest payments on public debt, 2025",995,billion US dollars,,unctad-wod
+median,"Median share of government revenue developing countries spent on net interest, 2025",8.1,%,Nearly double the 2010 level,unctad-wod
+savings,Yearly interest developing countries could save if they borrowed at developed countries' rates,500,billion US dollars,Around $500 billion,unctad-wod
+africa,Share of Africa's population living in countries spending more on interest than on health or education,65,%,"24% in 2010, 65% in 2023",unctad-wod
+latam,Share of Latin America and the Caribbean's population living in countries spending more on interest than on health or education,58,%,"34% in 2010, 58% in 2023",unctad-wod
+outflow,"How much more developing countries paid in external debt service than they received in new financing, 2022 to 2024",741,billion US dollars,The largest gap in more than five decades,wb-idr
+idrinterest,"Interest paid on external debt by low- and middle-income countries, 2024",415,billion US dollars,A record,wb-idr
+idrstock,"External debt of low- and middle-income countries, end-2024",8.9,trillion US dollars,An all-time high,wb-idr
+ukseptember,"UK central government debt interest payable, September 2026",10.9,billion pounds,,ons-psf

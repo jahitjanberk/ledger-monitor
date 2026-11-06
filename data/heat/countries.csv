@@ -1,0 +1,241 @@
+country,iso3,iso_n3,year,anomaly_c,anomaly_source,hot_days,hot_days_9120,hot_days_change,hot_days_source,mean_temp_c,mean_temp_source,model_days_1995_2014,model_days_2040_2059,model_source,anomaly_band,days_band,change_band
+Mali,MLI,466,2025,0.88,owid-anom,222.9,199.9,22.9,wb-cckp,29.6,wb-cckp,198.7,229.7,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Niger,NER,562,2025,0.89,owid-anom,216.1,204.2,11.9,wb-cckp,28.4,wb-cckp,200.8,224.6,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Mauritania,MRT,478,2025,0.67,owid-anom,204.8,184.7,20.1,wb-cckp,28.2,wb-cckp,183.8,212.3,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Chad,TCD,148,2025,0.87,owid-anom,204.6,179.8,24.7,wb-cckp,28,wb-cckp,176.3,206.7,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Burkina Faso,BFA,854,2025,0.57,owid-anom,196.5,162.2,34.3,wb-cckp,29.2,wb-cckp,164.1,209.1,wb-cckp-cmip6,0.5 to 1°C,100 days or more,25 or more
+Sudan,SDN,729,2025,0.58,owid-anom,192.7,179.4,13.3,wb-cckp,27.8,wb-cckp,173.7,206.3,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+United Arab Emirates,ARE,784,2025,0.82,owid-anom,189.1,184,5.1,wb-cckp,28.9,wb-cckp,183.1,202.5,wb-cckp-cmip6,0.5 to 1°C,100 days or more,2 to 10 more
+Oman,OMN,512,2025,0.4,owid-anom,182.5,172.8,9.7,wb-cckp,28.3,wb-cckp,172.5,193.3,wb-cckp-cmip6,0 to 0.5°C,100 days or more,2 to 10 more
+Kuwait,KWT,414,2025,0.53,owid-anom,182.3,173.4,8.9,wb-cckp,26.8,wb-cckp,171.2,185.5,wb-cckp-cmip6,0.5 to 1°C,100 days or more,2 to 10 more
+Djibouti,DJI,262,2025,0.74,owid-anom,174.3,152.1,22.2,wb-cckp,29.1,wb-cckp,153.5,182,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Saudi Arabia,SAU,682,2025,0.57,owid-anom,173.1,164.5,8.6,wb-cckp,26.6,wb-cckp,160.2,182.7,wb-cckp-cmip6,0.5 to 1°C,100 days or more,2 to 10 more
+Senegal,SEN,686,2025,-0.21,owid-anom,165.6,187.4,-21.8,wb-cckp,28.6,wb-cckp,180.4,227.8,wb-cckp-cmip6,Cooler than usual,100 days or more,Fewer than usual
+Qatar,QAT,634,2025,0.4,owid-anom,163.9,162.8,1.1,wb-cckp,27.9,wb-cckp,161.7,183.3,wb-cckp-cmip6,0 to 0.5°C,100 days or more,About the same
+South Sudan,SSD,728,2025,0.44,owid-anom,155.6,122.6,32.9,wb-cckp,28.1,wb-cckp,104,137.5,wb-cckp-cmip6,0 to 0.5°C,100 days or more,25 or more
+Iraq,IRQ,368,2025,0.86,owid-anom,150.8,142,8.8,wb-cckp,24,wb-cckp,139.5,158.1,wb-cckp-cmip6,0.5 to 1°C,100 days or more,2 to 10 more
+Eritrea,ERI,232,2025,0.53,owid-anom,149.9,130.8,19,wb-cckp,27.4,wb-cckp,122.6,161,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Algeria,DZA,012,2025,1.04,owid-anom,148,135.9,12,wb-cckp,24.8,wb-cckp,131.2,153.7,wb-cckp-cmip6,1 to 1.5°C,100 days or more,10 to 25 more
+Benin,BEN,204,2025,0.68,owid-anom,147.1,97.6,49.4,wb-cckp,28.2,wb-cckp,97.4,145.1,wb-cckp-cmip6,0.5 to 1°C,100 days or more,25 or more
+Nigeria,NGA,566,2025,0.72,owid-anom,143.7,102.7,40.9,wb-cckp,27.8,wb-cckp,98.5,134.3,wb-cckp-cmip6,0.5 to 1°C,100 days or more,25 or more
+Gambia,GMB,270,2025,0.11,owid-anom,134.2,135.3,-1.1,wb-cckp,28,wb-cckp,127.3,173.5,wb-cckp-cmip6,0 to 0.5°C,100 days or more,Fewer than usual
+Yemen,YEM,887,2025,0.54,owid-anom,124.6,112.5,12.1,wb-cckp,26.3,wb-cckp,104.3,130.1,wb-cckp-cmip6,0.5 to 1°C,100 days or more,10 to 25 more
+Pakistan,PAK,586,2025,1.04,owid-anom,123.7,112.6,11.1,wb-cckp,21.6,wb-cckp,114.1,135,wb-cckp-cmip6,1 to 1.5°C,100 days or more,10 to 25 more
+Guinea-Bissau,GNB,624,2025,0.01,owid-anom,116.7,111.2,5.5,wb-cckp,27.6,wb-cckp,106.8,146.6,wb-cckp-cmip6,0 to 0.5°C,100 days or more,2 to 10 more
+Libya,LBY,434,2025,0.82,owid-anom,108.8,103.9,4.9,wb-cckp,23.2,wb-cckp,102.9,134.8,wb-cckp-cmip6,0.5 to 1°C,100 days or more,2 to 10 more
+Ghana,GHA,288,2025,0.54,owid-anom,105,67.9,37.1,wb-cckp,27.9,wb-cckp,63.9,102.2,wb-cckp-cmip6,0.5 to 1°C,100 days or more,25 or more
+Central African Republic,CAF,140,2025,0.84,owid-anom,104.9,62.6,42.3,wb-cckp,26.6,wb-cckp,55.6,85.6,wb-cckp-cmip6,0.5 to 1°C,100 days or more,25 or more
+Egypt,EGY,818,2025,0.52,owid-anom,99,104,-5,wb-cckp,23.6,wb-cckp,100.2,133.2,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,Fewer than usual
+Iran,IRN,364,2025,1.37,owid-anom,98.2,75.4,22.8,wb-cckp,19.8,wb-cckp,73.9,97.6,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Togo,TGO,768,2025,0.57,owid-anom,96.7,57.3,39.4,wb-cckp,27.5,wb-cckp,57.5,102.3,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,25 or more
+Australia,AUS,036,2025,0.47,owid-anom,95.8,80.4,15.4,wb-cckp,22.6,wb-cckp,77.6,101.9,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,10 to 25 more
+Turkmenistan,TKM,795,2025,1.59,owid-anom,88.7,72.8,15.9,wb-cckp,18.3,wb-cckp,72.9,97.1,wb-cckp-cmip6,1.5°C or more,30 to 100 days,10 to 25 more
+Syria,SYR,760,2025,1.28,owid-anom,88.1,76.1,12,wb-cckp,20.4,wb-cckp,72.2,101.8,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Guinea,GIN,324,2025,0.47,owid-anom,82.1,62.8,19.3,wb-cckp,26.5,wb-cckp,61,98.6,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,10 to 25 more
+Paraguay,PRY,600,2025,0.12,owid-anom,81.7,60.7,21,wb-cckp,24,wb-cckp,51.6,90.1,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,10 to 25 more
+Jordan,JOR,400,2025,1.1,owid-anom,78.2,59.2,19.1,wb-cckp,20.6,wb-cckp,53,91.7,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Somalia,SOM,706,2025,0.57,owid-anom,75.8,60.8,15.1,wb-cckp,27.1,wb-cckp,52.4,93.9,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,10 to 25 more
+Kenya,KEN,404,2025,0.56,owid-anom,73.2,52.3,20.9,wb-cckp,25.9,wb-cckp,41.8,75.4,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,10 to 25 more
+Cote d'Ivoire,CIV,384,2025,0.41,owid-anom,71.5,41,30.5,wb-cckp,26.8,wb-cckp,32.2,68.7,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,25 or more
+Sierra Leone,SLE,694,2025,0.58,owid-anom,71.1,28.7,42.4,wb-cckp,26.3,wb-cckp,26.5,52.8,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,25 or more
+Tunisia,TUN,788,2025,0.86,owid-anom,68.6,63.8,4.8,wb-cckp,21.2,wb-cckp,57,82.6,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,2 to 10 more
+India,IND,356,2025,0.07,owid-anom,68,78.9,-10.9,wb-cckp,24.3,wb-cckp,77.9,94.8,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,Fewer than usual
+Uzbekistan,UZB,860,2025,2.02,owid-anom,62.2,45.3,16.9,wb-cckp,15.5,wb-cckp,44.9,67.6,wb-cckp-cmip6,1.5°C or more,30 to 100 days,10 to 25 more
+Afghanistan,AFG,004,2025,1.27,owid-anom,61.8,48.6,13.2,wb-cckp,13.8,wb-cckp,47.9,61.7,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Ethiopia,ETH,231,2025,0.71,owid-anom,57.8,43.5,14.3,wb-cckp,24.1,wb-cckp,38.8,60.8,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,10 to 25 more
+Morocco,MAR,504,2025,0.85,owid-anom,53.5,42,11.5,wb-cckp,19.3,wb-cckp,37.7,55.8,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,10 to 25 more
+Bahrain,BHR,048,2025,0.41,owid-anom,51.1,29,22.1,wb-cckp,26.6,wb-cckp,29.6,89.3,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,10 to 25 more
+Israel,ISR,376,2025,1.03,owid-anom,46.6,34.4,12.2,wb-cckp,21.4,wb-cckp,26.4,59.6,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Cameroon,CMR,120,2025,0.68,owid-anom,45.2,31.9,13.4,wb-cckp,25.2,wb-cckp,28.6,42.5,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,10 to 25 more
+Cambodia,KHM,116,2025,-0.16,owid-anom,44.1,55.7,-11.7,wb-cckp,27.3,wb-cckp,43.6,81.8,wb-cckp-cmip6,Cooler than usual,30 to 100 days,Fewer than usual
+El Salvador,SLV,222,2025,1.04,owid-anom,43.5,26.4,17.1,wb-cckp,26.9,wb-cckp,14.4,41,wb-cckp-cmip6,1 to 1.5°C,30 to 100 days,10 to 25 more
+Mexico,MEX,484,2025,0.82,owid-anom,42,35.1,6.9,wb-cckp,21.7,wb-cckp,29.3,51,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,2 to 10 more
+Namibia,NAM,516,2025,0.1,owid-anom,41.6,36.7,4.9,wb-cckp,21.6,wb-cckp,23.8,62.3,wb-cckp-cmip6,0 to 0.5°C,30 to 100 days,2 to 10 more
+Palestine,PSE,275,2025,0.95,owid-anom,40.3,34,6.2,wb-cckp,21.2,wb-cckp,24,61.7,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,2 to 10 more
+Thailand,THA,764,2025,-0.06,owid-anom,38,43.5,-5.5,wb-cckp,26.3,wb-cckp,36.9,66.1,wb-cckp-cmip6,Cooler than usual,30 to 100 days,Fewer than usual
+Guatemala,GTM,320,2025,0.75,owid-anom,32.9,23.4,9.5,wb-cckp,23.7,wb-cckp,14.1,29.5,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,2 to 10 more
+Venezuela,VEN,862,2025,0.52,owid-anom,32.9,24,8.9,wb-cckp,26,wb-cckp,17.7,44,wb-cckp-cmip6,0.5 to 1°C,30 to 100 days,2 to 10 more
+Botswana,BWA,072,2025,-0.37,owid-anom,30.4,44,-13.6,wb-cckp,21.7,wb-cckp,36.2,82.4,wb-cckp-cmip6,Cooler than usual,30 to 100 days,Fewer than usual
+Suriname,SUR,740,2025,0.31,owid-anom,29.6,11.2,18.4,wb-cckp,26.3,wb-cckp,6.9,28.7,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,10 to 25 more
+Myanmar,MMR,104,2025,0.39,owid-anom,29.5,31.6,-2.1,wb-cckp,24,wb-cckp,27.3,40,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,Fewer than usual
+Bolivia,BOL,068,2025,0.26,owid-anom,28.2,20.7,7.5,wb-cckp,20.5,wb-cckp,16.2,44.3,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Sri Lanka,LKA,144,2025,0.36,owid-anom,27.5,24.9,2.6,wb-cckp,27,wb-cckp,17,42,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Brazil,BRA,076,2025,0.16,owid-anom,27.5,21.2,6.4,wb-cckp,25.2,wb-cckp,16.5,47.3,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Argentina,ARG,032,2025,0.7,owid-anom,25.1,14.4,10.7,wb-cckp,15.4,wb-cckp,12.6,20.4,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,10 to 25 more
+Bangladesh,BGD,050,2025,0.5,owid-anom,24.9,19.4,5.5,wb-cckp,25.9,wb-cckp,17,29.4,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,2 to 10 more
+Cyprus,CYP,196,2025,0.39,owid-anom,23.7,18.8,4.8,wb-cckp,20.1,wb-cckp,11.8,27.5,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Spain,ESP,724,2025,0.91,owid-anom,23.7,10.1,13.7,wb-cckp,15.1,wb-cckp,6.9,18.5,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,10 to 25 more
+South Africa,ZAF,710,2025,0.44,owid-anom,20.6,18.1,2.5,wb-cckp,18.3,wb-cckp,12.7,28.8,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Portugal,PRT,620,2025,0.83,owid-anom,20.4,8.9,11.5,wb-cckp,16.2,wb-cckp,5.1,11.9,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,10 to 25 more
+Azerbaijan,AZE,031,2025,1.02,owid-anom,19.7,14.5,5.2,wb-cckp,13.3,wb-cckp,11.9,25.1,wb-cckp-cmip6,1 to 1.5°C,10 to 30 days,2 to 10 more
+Mozambique,MOZ,508,2025,0.43,owid-anom,18.8,21.7,-2.8,wb-cckp,24.4,wb-cckp,16.8,38.1,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,Fewer than usual
+Turkey,TUR,792,2025,1.25,owid-anom,18.3,10.5,7.8,wb-cckp,13,wb-cckp,9.3,19.9,wb-cckp-cmip6,1 to 1.5°C,10 to 30 days,2 to 10 more
+Liberia,LBR,430,2025,0.61,owid-anom,17.5,1.8,15.7,wb-cckp,25.7,wb-cckp,0.3,3.1,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,10 to 25 more
+Kazakhstan,KAZ,398,2025,1.98,owid-anom,17.2,13.4,3.8,wb-cckp,9,wb-cckp,12.8,24.9,wb-cckp-cmip6,1.5°C or more,10 to 30 days,2 to 10 more
+Vatican,VAT,336,2025,,,17,4.4,12.6,wb-cckp,17.3,wb-cckp,0.5,11.3,wb-cckp-cmip6,,10 to 30 days,10 to 25 more
+Tajikistan,TJK,762,2025,2.71,owid-anom,16.3,8.8,7.5,wb-cckp,2.9,wb-cckp,8.2,13.6,wb-cckp-cmip6,1.5°C or more,10 to 30 days,2 to 10 more
+French Guiana,GUF,254,2025,,,15.2,12.9,2.3,wb-cckp,26.2,wb-cckp,6.5,25.5,wb-cckp-cmip6,,10 to 30 days,2 to 10 more
+Zimbabwe,ZWE,716,2025,0.24,owid-anom,15.1,19.1,-3.9,wb-cckp,21.8,wb-cckp,14.6,36.3,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,Fewer than usual
+Zambia,ZMB,894,2025,-0.01,owid-anom,14.4,11.3,3.1,wb-cckp,22,wb-cckp,9,27,wb-cckp-cmip6,Cooler than usual,10 to 30 days,2 to 10 more
+Democratic Republic of Congo,COD,180,2025,0.79,owid-anom,14,4.4,9.6,wb-cckp,24.9,wb-cckp,2,8.8,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,2 to 10 more
+Uganda,UGA,800,2025,0.75,owid-anom,13.8,8.5,5.3,wb-cckp,23.8,wb-cckp,4.8,10.8,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,2 to 10 more
+Laos,LAO,418,2025,0.1,owid-anom,13.5,10.2,3.3,wb-cckp,23.2,wb-cckp,7,17.7,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+United States,USA,840,2025,0.83,owid-anom,12.5,12.1,0.4,wb-cckp,10.5,wb-cckp,11.6,24.2,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,About the same
+Angola,AGO,024,2025,0.12,owid-anom,11.8,9.6,2.2,wb-cckp,22.3,wb-cckp,5.6,19.9,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Madagascar,MDG,450,2025,0.49,owid-anom,11.8,8.9,2.9,wb-cckp,23.1,wb-cckp,3.5,13.4,wb-cckp-cmip6,0 to 0.5°C,10 to 30 days,2 to 10 more
+Serbia,SRB,688,2025,1.06,owid-anom,11.7,4.3,7.4,wb-cckp,12.3,wb-cckp,2.7,9.3,wb-cckp-cmip6,1 to 1.5°C,10 to 30 days,2 to 10 more
+China,CHN,156,2025,1.03,owid-anom,10.2,5.5,4.7,wb-cckp,8.3,wb-cckp,4.9,10.5,wb-cckp-cmip6,1 to 1.5°C,10 to 30 days,2 to 10 more
+Nicaragua,NIC,558,2025,0.57,owid-anom,10.2,8.9,1.2,wb-cckp,25.9,wb-cckp,6.8,16.4,wb-cckp-cmip6,0.5 to 1°C,10 to 30 days,About the same
+Guyana,GUY,328,2025,0.35,owid-anom,9.7,3.2,6.5,wb-cckp,25.6,wb-cckp,2,11.2,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,2 to 10 more
+Bulgaria,BGR,100,2025,1.06,owid-anom,9.6,2.2,7.3,wb-cckp,12.5,wb-cckp,1.4,5.6,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Greece,GRC,300,2025,1.07,owid-anom,9.1,4.1,5,wb-cckp,16,wb-cckp,2.1,9.4,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Nepal,NPL,524,2025,0.96,owid-anom,8.5,9.3,-0.9,wb-cckp,13.7,wb-cckp,9.5,14.2,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,Fewer than usual
+Belize,BLZ,084,2025,0.5,owid-anom,8.3,9.7,-1.5,wb-cckp,26.1,wb-cckp,3.6,13.3,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,Fewer than usual
+North Macedonia,MKD,807,2025,0.98,owid-anom,8.2,5.4,2.8,wb-cckp,12.2,wb-cckp,3.2,10,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Honduras,HND,340,2025,0.83,owid-anom,8.1,6,2.1,wb-cckp,24.4,wb-cckp,3,9.8,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Uruguay,URY,858,2025,-0.03,owid-anom,7.7,3.5,4.3,wb-cckp,17.5,wb-cckp,2.6,6.1,wb-cckp-cmip6,Cooler than usual,1 to 10 days,2 to 10 more
+Vietnam,VNM,704,2025,0.08,owid-anom,7.5,9.9,-2.4,wb-cckp,24,wb-cckp,5.1,16.3,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,Fewer than usual
+Cuba,CUB,192,2025,0.61,owid-anom,7.1,3.6,3.4,wb-cckp,26.1,wb-cckp,0.6,7.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Romania,ROU,642,2025,1.06,owid-anom,6.2,2.2,4,wb-cckp,11.1,wb-cckp,1.3,5.4,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Hungary,HUN,348,2025,0.66,owid-anom,6.2,2.6,3.5,wb-cckp,12,wb-cckp,1.9,8.3,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Tanzania,TZA,834,2025,0.45,owid-anom,5.4,3.3,2.1,wb-cckp,23.2,wb-cckp,1.7,7.6,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,2 to 10 more
+Colombia,COL,170,2025,0.48,owid-anom,5.2,7.1,-1.8,wb-cckp,24.3,wb-cckp,4.2,14,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,Fewer than usual
+France,FRA,250,2025,0.78,owid-anom,5.2,1.1,4.1,wb-cckp,12.3,wb-cckp,0.4,1.8,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Haiti,HTI,332,2025,0.81,owid-anom,5,2.2,2.8,wb-cckp,26,wb-cckp,0.6,3.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Croatia,HRV,191,2025,1,owid-anom,4.7,2.2,2.5,wb-cckp,13.3,wb-cckp,1.2,5.3,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Albania,ALB,008,2025,1.36,owid-anom,4.5,1,3.5,wb-cckp,13.9,wb-cckp,0.3,3.1,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Peru,PER,604,2025,0.36,owid-anom,4.1,1.8,2.3,wb-cckp,19.1,wb-cckp,0.5,6.4,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,2 to 10 more
+Bosnia and Herzegovina,BIH,070,2025,1.38,owid-anom,4.1,1.5,2.7,wb-cckp,11.7,wb-cckp,0.6,2.8,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Dominican Republic,DOM,214,2025,0.79,owid-anom,4.1,2.5,1.6,wb-cckp,25,wb-cckp,0.6,4.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Lebanon,LBN,422,2025,1.41,owid-anom,4,1.5,2.5,wb-cckp,17,wb-cckp,0.3,2.5,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Eswatini,SWZ,748,2025,0.31,owid-anom,3.8,9.7,-5.9,wb-cckp,20,wb-cckp,5.5,15.9,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,Fewer than usual
+Italy,ITA,380,2025,0.95,owid-anom,3.5,1.9,1.6,wb-cckp,14.1,wb-cckp,0.4,3.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+South Korea,KOR,410,2025,0.99,owid-anom,3.4,0.9,2.5,wb-cckp,13.5,wb-cckp,0,0.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,2 to 10 more
+Congo,COG,178,2025,0.57,owid-anom,3.2,1.7,1.5,wb-cckp,25.3,wb-cckp,0.5,3.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Armenia,ARM,051,2025,1.42,owid-anom,2.9,0.7,2.2,wb-cckp,8.1,wb-cckp,0.5,3.3,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,2 to 10 more
+Costa Rica,CRI,188,2025,0.33,owid-anom,2.9,2.7,0.1,wb-cckp,23.4,wb-cckp,2.3,5.1,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,About the same
+Malawi,MWI,454,2025,0.14,owid-anom,2.8,4.4,-1.7,wb-cckp,22.2,wb-cckp,3.5,9.3,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,Fewer than usual
+Moldova,MDA,498,2025,1.12,owid-anom,2.8,2.2,0.7,wb-cckp,11.7,wb-cckp,1,4.9,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,About the same
+Philippines,PHL,608,2025,0.41,owid-anom,2.6,3,-0.5,wb-cckp,26.3,wb-cckp,1.2,4.5,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,About the same
+Georgia,GEO,268,2025,0.92,owid-anom,2.6,1.6,1,wb-cckp,9,wb-cckp,0.6,3.1,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Ukraine,UKR,804,2025,1.31,owid-anom,2.6,1.6,1,wb-cckp,10.6,wb-cckp,0.8,4,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,About the same
+Mongolia,MNG,496,2025,0.8,owid-anom,2.5,2,0.5,wb-cckp,2.3,wb-cckp,1.6,4.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Japan,JPN,392,2025,0.86,owid-anom,2.1,0.6,1.5,wb-cckp,12.9,wb-cckp,0,0.3,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Indonesia,IDN,360,2025,0.37,owid-anom,1.8,1.5,0.3,wb-cckp,25.5,wb-cckp,0.2,2.1,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,About the same
+Malaysia,MYS,458,2025,0.34,owid-anom,1.8,2.7,-0.9,wb-cckp,25.9,wb-cckp,0.4,2.7,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,Fewer than usual
+Germany,DEU,276,2025,0.68,owid-anom,1.6,0.3,1.3,wb-cckp,10.1,wb-cckp,0.1,0.6,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Brunei,BRN,096,2025,0.46,owid-anom,1.6,0.5,1.1,wb-cckp,26.8,wb-cckp,0,0.2,wb-cckp-cmip6,0 to 0.5°C,1 to 10 days,About the same
+Kyrgyzstan,KGZ,417,2025,2.07,owid-anom,1.3,0.6,0.8,wb-cckp,2.6,wb-cckp,0.6,1.6,wb-cckp-cmip6,1.5°C or more,1 to 10 days,About the same
+Montenegro,MNE,499,2025,1.18,owid-anom,1.1,0.1,1,wb-cckp,10.9,wb-cckp,0,0.5,wb-cckp-cmip6,1 to 1.5°C,1 to 10 days,About the same
+Papua New Guinea,PNG,598,2025,0.6,owid-anom,1.1,0.4,0.6,wb-cckp,24.1,wb-cckp,0,0.3,wb-cckp-cmip6,0.5 to 1°C,1 to 10 days,About the same
+Jamaica,JAM,388,2025,0.99,owid-anom,0.9,0.2,0.7,wb-cckp,26.6,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Slovakia,SVK,703,2025,0.8,owid-anom,0.9,0.7,0.2,wb-cckp,9.6,wb-cckp,0.3,2,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Ecuador,ECU,218,2025,0.6,owid-anom,0.8,0.4,0.4,wb-cckp,21.2,wb-cckp,0.1,1.1,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Slovenia,SVN,705,2025,0.73,owid-anom,0.8,0.4,0.4,wb-cckp,10.9,wb-cckp,0.1,1,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Russia,RUS,643,2025,1.18,owid-anom,0.6,0.5,0.1,wb-cckp,-2.3,wb-cckp,0.3,1,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Netherlands,NLD,528,2025,0.81,owid-anom,0.6,0.2,0.4,wb-cckp,11.3,wb-cckp,0,0.1,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Belgium,BEL,056,2025,0.98,owid-anom,0.6,0.2,0.5,wb-cckp,11.3,wb-cckp,0,0.2,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+North Korea,PRK,408,2025,1.17,owid-anom,0.4,0.1,0.3,wb-cckp,8.5,wb-cckp,0,0.1,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Czechia,CZE,203,2025,0.53,owid-anom,0.4,0.3,0.1,wb-cckp,9.1,wb-cckp,0.1,0.8,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Bahamas,BHS,044,2025,0.47,owid-anom,0.3,0,0.3,wb-cckp,25.8,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Panama,PAN,591,2025,0.24,owid-anom,0.2,0.8,-0.7,wb-cckp,25.2,wb-cckp,0.3,2.2,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,Fewer than usual
+Austria,AUT,040,2025,0.94,owid-anom,0.2,0.2,0,wb-cckp,7.9,wb-cckp,0.1,0.7,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Luxembourg,LUX,442,2025,0.8,owid-anom,0.2,0.2,0,wb-cckp,10.3,wb-cckp,0.1,0.4,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Bhutan,BTN,064,2025,1.48,owid-anom,0.1,0,0.1,wb-cckp,11,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Poland,POL,616,2025,0.75,owid-anom,0.1,0.3,-0.2,wb-cckp,9.6,wb-cckp,0.1,0.8,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Rwanda,RWA,646,2025,0.72,owid-anom,0,0,0,wb-cckp,20.2,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Burundi,BDI,108,2025,0.65,owid-anom,0,0,0,wb-cckp,21.1,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Equatorial Guinea,GNQ,226,2025,0.58,owid-anom,0,0,0,wb-cckp,24.4,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Gabon,GAB,266,2025,0.38,owid-anom,0,0.1,-0.1,wb-cckp,24.9,wb-cckp,0,0.4,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Lesotho,LSO,426,2025,0.43,owid-anom,0,0.1,-0.1,wb-cckp,11.8,wb-cckp,0,0.1,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Chile,CHL,152,2025,0.4,owid-anom,0,0,0,wb-cckp,9.4,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Macao,MAC,446,2025,,,0,0.1,-0.1,wb-cckp,23.6,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Cape Verde,CPV,132,2025,0.11,owid-anom,0,0,0,wb-cckp,23.2,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Taiwan,TWN,158,2025,,,0,0,0,wb-cckp,20.8,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Hong Kong,HKG,344,2025,0.21,owid-anom,0,0.4,-0.4,wb-cckp,23.4,wb-cckp,0,0.2,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Sao Tome and Principe,STP,678,2025,0.24,owid-anom,0,0,0,wb-cckp,25.9,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Cayman Islands,CYM,136,2025,0.77,owid-anom,0,0,0,wb-cckp,27.6,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Trinidad and Tobago,TTO,780,2025,0.34,owid-anom,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Mauritius,MUS,480,2025,0.53,owid-anom,0,0,0,wb-cckp,24.2,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Belarus,BLR,112,2025,1.2,owid-anom,0,0.2,-0.1,wb-cckp,8.6,wb-cckp,0.1,0.7,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+San Marino,SMR,674,2025,,,0,0,0,wb-cckp,15.5,wb-cckp,0,1.7,wb-cckp-cmip6,,Under 1 day,About the same
+Latvia,LVA,428,2025,1.19,owid-anom,0,0,0,wb-cckp,8,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Gibraltar,GIB,292,2025,,,0,0,0,wb-cckp,18.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Singapore,SGP,702,2025,,,0,0,0,wb-cckp,27.4,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Curacao,CUW,531,2025,,,0,0,0,wb-cckp,27.2,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Martinique,MTQ,474,2025,,,0,0,0,wb-cckp,26.4,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Lithuania,LTU,440,2025,1.01,owid-anom,0,0,0,wb-cckp,8.4,wb-cckp,0,0.2,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Barbados,BRB,052,2025,,,0,0,0,wb-cckp,26.9,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Malta,MLT,470,2025,,,0,0,0,wb-cckp,20.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Aruba,ABW,533,2025,,,0,0,0,wb-cckp,27.3,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+East Timor,TLS,626,2025,0.44,owid-anom,0,0,0,wb-cckp,25,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Maldives,MDV,462,2025,,,0,0,0,wb-cckp,27.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Monaco,MCO,492,2025,,,0,0,0,wb-cckp,16.2,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Grenada,GRD,308,2025,,,0,0,0,wb-cckp,27,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Comoros,COM,174,2025,0.62,owid-anom,0,0,0,wb-cckp,25.8,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Liechtenstein,LIE,438,2025,,,0,0,0,wb-cckp,7.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Saint Lucia,LCA,662,2025,,,0,0,0,wb-cckp,27,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Saint Vincent and the Grenadines,VCT,670,2025,0.48,owid-anom,0,0,0,wb-cckp,26.9,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Bonaire Sint Eustatius and Saba,BES,535,2025,,,0,0,0,wb-cckp,27.2,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Mayotte,MYT,175,2025,,,0,0,0,wb-cckp,26.8,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Guadeloupe,GLP,312,2025,,,0,0,0,wb-cckp,26.4,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Dominica,DMA,212,2025,,,0,0,0,wb-cckp,26.2,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Denmark,DNK,208,2025,0.93,owid-anom,0,0,0,wb-cckp,9.9,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Switzerland,CHE,756,2025,1.2,owid-anom,0,0,0,wb-cckp,6.8,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+United Kingdom,GBR,826,2025,0.94,owid-anom,0,0,0,wb-cckp,10.4,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Andorra,AND,020,2025,1.03,owid-anom,0,0,0,wb-cckp,6.6,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Turks and Caicos Islands,TCA,796,2025,,,0,0,0,wb-cckp,26.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Jersey,JEY,832,2025,,,0,0,0,wb-cckp,13,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Antigua and Barbuda,ATG,028,2025,0.47,owid-anom,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Montserrat,MSR,500,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Guernsey,GGY,831,2025,,,0,0,0,wb-cckp,13,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Ireland,IRL,372,2025,0.88,owid-anom,0,0,0,wb-cckp,10.8,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Puerto Rico,PRI,630,2025,0.51,owid-anom,0,0,0,wb-cckp,25.9,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Canada,CAN,124,2025,1.15,owid-anom,0,0,0,wb-cckp,-2.5,wb-cckp,0,0.3,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+New Zealand,NZL,554,2025,0.83,owid-anom,0,0,0,wb-cckp,11.1,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Solomon Islands,SLB,090,2025,0.62,owid-anom,0,0,0,wb-cckp,26.8,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Seychelles,SYC,690,2025,0.2,owid-anom,0,0,0,wb-cckp,26.5,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Saint Kitts and Nevis,KNA,659,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Estonia,EST,233,2025,1.38,owid-anom,0,0,0,wb-cckp,7.8,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Norway,NOR,578,2025,1.63,owid-anom,0,0,0,wb-cckp,4.2,wb-cckp,0,0,wb-cckp-cmip6,1.5°C or more,Under 1 day,About the same
+Sint Maarten (Dutch part),SXM,534,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Saint Barthelemy,BLM,652,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Saint Martin (French part),MAF,663,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Isle of Man,IMN,833,2025,0.9,owid-anom,0,0,0,wb-cckp,11.3,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Anguilla,AIA,660,2025,0.51,owid-anom,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+United States Virgin Islands,VIR,850,2025,0.51,owid-anom,0,0,0,wb-cckp,26.8,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Vanuatu,VUT,548,2025,0.65,owid-anom,0,0,0,wb-cckp,25.7,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+British Virgin Islands,VGB,092,2025,,,0,0,0,wb-cckp,26.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Fiji,FJI,242,2025,0.5,owid-anom,0,0,0,wb-cckp,24.8,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Sweden,SWE,752,2025,1.42,owid-anom,0,0,0,wb-cckp,5.3,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Finland,FIN,246,2025,1.55,owid-anom,0,0,0,wb-cckp,4.5,wb-cckp,0,0,wb-cckp-cmip6,1.5°C or more,Under 1 day,About the same
+Saint Pierre and Miquelon,SPM,666,2025,,,0,0,0,wb-cckp,6.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Reunion,REU,638,2025,,,0,0,0,wb-cckp,21.1,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+New Caledonia,NCL,540,2025,0.75,owid-anom,0,0,0,wb-cckp,23.3,wb-cckp,0,0,wb-cckp-cmip6,0.5 to 1°C,Under 1 day,About the same
+Iceland,ISL,352,2025,1.05,owid-anom,0,0,0,wb-cckp,3,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Tuvalu,TUV,798,2025,,,0,0,0,wb-cckp,27.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Aland Islands,ALA,248,2025,,,0,0,0,wb-cckp,8.2,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Saint Helena,SHN,654,2025,0,owid-anom,0,0,0,wb-cckp,19,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Samoa,WSM,882,2025,0.15,owid-anom,0,0,0,wb-cckp,25.6,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Cocos Islands,CCK,166,2025,,,0,0,0,wb-cckp,26.6,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Faroe Islands,FRO,234,2025,1.25,owid-anom,0,0,0,wb-cckp,8.3,wb-cckp,0,0,wb-cckp-cmip6,1 to 1.5°C,Under 1 day,About the same
+Tokelau,TKL,772,2025,,,0,0,0,wb-cckp,27.4,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Wallis and Futuna,WLF,876,2025,,,0,0,0,wb-cckp,27.1,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Bermuda,BMU,060,2025,,,0,0,0,wb-cckp,22.3,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+American Samoa,ASM,016,2025,0.17,owid-anom,0,0,0,wb-cckp,27,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Nauru,NRU,520,2025,,,0,0,0,wb-cckp,27.7,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Tonga,TON,776,2025,,,0,0,0,wb-cckp,25.1,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Christmas Island,CXR,162,2025,,,0,0,0,wb-cckp,26.9,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Kiribati,KIR,296,2025,-0.19,owid-anom,0,0,0,wb-cckp,26.8,wb-cckp,0,0,wb-cckp-cmip6,Cooler than usual,Under 1 day,About the same
+French Polynesia,PYF,258,2025,0.18,owid-anom,0,0,0,wb-cckp,25.8,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Norfolk Island,NFK,574,2025,,,0,0,0,wb-cckp,20.8,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Cook Islands,COK,184,2025,0.17,owid-anom,0,0,0,wb-cckp,25,wb-cckp,0,0,wb-cckp-cmip6,0 to 0.5°C,Under 1 day,About the same
+Palau,PLW,585,2025,,,0,0,0,wb-cckp,27.6,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Niue,NIU,570,2025,,,0,0,0,wb-cckp,25.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Pitcairn,PCN,612,2025,,,0,0,0,wb-cckp,23.4,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Marshall Islands,MHL,584,2025,,,0,0,0,wb-cckp,27.3,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Micronesia (country),FSM,583,2025,,,0,0,0,wb-cckp,27.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Guam,GUM,316,2025,,,0,0,0,wb-cckp,27.6,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Northern Mariana Islands,MNP,580,2025,,,0,0,0,wb-cckp,27.5,wb-cckp,0,0,wb-cckp-cmip6,,Under 1 day,About the same
+Greenland,GRL,304,2025,1.71,owid-anom,0,0,0,wb-cckp,-16.5,wb-cckp,0,0,wb-cckp-cmip6,1.5°C or more,Under 1 day,About the same
+Falkland Islands,FLK,238,2025,0.46,owid-anom,,,,,,,,,,0 to 0.5°C,,

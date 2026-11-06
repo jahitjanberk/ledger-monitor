@@ -1,0 +1,48 @@
+{
+  "variant": "heat",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Heat by country",
+      "description": "Each country's 2025 temperature against its 1991–2020 average (ERA5 via Our World in Data), days above 35°C in 2025 and the 1991–2020 average (ERA5 via the World Bank), and modelled days above 35°C for 1995–2014 and 2040–2059 (CMIP6, SSP2-4.5).",
+      "rows": 240
+    },
+    {
+      "id": "global",
+      "title": "Global temperature since 1850",
+      "description": "HadCRUT5 annual global temperature, 1850 to 2025, rebased to the 1850–1900 average, with its 95% uncertainty range.",
+      "rows": 176
+    },
+    {
+      "id": "era5_years",
+      "title": "Global temperature by year, ERA5",
+      "description": "Annual average of the daily global temperature and its difference from 1991–2020, 1940 to 2026 (2026 so far).",
+      "rows": 87
+    },
+    {
+      "id": "daily",
+      "title": "Daily global temperature since 2023",
+      "description": "Daily global air temperature, the 1991–2020 average for that day and the difference, 1 January 2023 to 4 November 2026 (ERA5, Copernicus Climate Pulse).",
+      "rows": 1404
+    },
+    {
+      "id": "uk_summers",
+      "title": "UK summer temperature since 1884",
+      "description": "UK average daily mean temperature for June to August, and for the year, 1884 to 2026 (Met Office HadUK-Grid). 2026 is provisional.",
+      "rows": 143
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from Copernicus, ECMWF, the WMO, the Lancet Countdown, the ILO, ISGlobal, the Met Office and UKHSA.",
+      "rows": 20
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+band,min,max,unit,source
+Under 1%,0,1,% of world mine production,usgs-mcs
+1 to 5%,1,5,% of world mine production,usgs-mcs
+5 to 15%,5,15,% of world mine production,usgs-mcs
+15 to 40%,15,40,% of world mine production,usgs-mcs
+40% or more,40,,% of world mine production,usgs-mcs

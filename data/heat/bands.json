@@ -1,0 +1,127 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the three maps.",
+  "records": [
+    {
+      "map": "anomaly",
+      "band": "Cooler than usual",
+      "min": null,
+      "max": 0,
+      "unit": "°C against 1991–2020",
+      "source": "owid-anom"
+    },
+    {
+      "map": "anomaly",
+      "band": "0 to 0.5°C",
+      "min": 0,
+      "max": 0.5,
+      "unit": "°C against 1991–2020",
+      "source": "owid-anom"
+    },
+    {
+      "map": "anomaly",
+      "band": "0.5 to 1°C",
+      "min": 0.5,
+      "max": 1,
+      "unit": "°C against 1991–2020",
+      "source": "owid-anom"
+    },
+    {
+      "map": "anomaly",
+      "band": "1 to 1.5°C",
+      "min": 1,
+      "max": 1.5,
+      "unit": "°C against 1991–2020",
+      "source": "owid-anom"
+    },
+    {
+      "map": "anomaly",
+      "band": "1.5°C or more",
+      "min": 1.5,
+      "max": null,
+      "unit": "°C against 1991–2020",
+      "source": "owid-anom"
+    },
+    {
+      "map": "days",
+      "band": "Under 1 day",
+      "min": 0,
+      "max": 1,
+      "unit": "days above 35°C",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "days",
+      "band": "1 to 10 days",
+      "min": 1,
+      "max": 10,
+      "unit": "days above 35°C",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "days",
+      "band": "10 to 30 days",
+      "min": 10,
+      "max": 30,
+      "unit": "days above 35°C",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "days",
+      "band": "30 to 100 days",
+      "min": 30,
+      "max": 100,
+      "unit": "days above 35°C",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "days",
+      "band": "100 days or more",
+      "min": 100,
+      "max": null,
+      "unit": "days above 35°C",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "change",
+      "band": "Fewer than usual",
+      "min": null,
+      "max": -0.5,
+      "unit": "extra days above 35°C against 1991–2020",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "change",
+      "band": "About the same",
+      "min": -0.5,
+      "max": 2,
+      "unit": "extra days above 35°C against 1991–2020",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "change",
+      "band": "2 to 10 more",
+      "min": 2,
+      "max": 10,
+      "unit": "extra days above 35°C against 1991–2020",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "change",
+      "band": "10 to 25 more",
+      "min": 10,
+      "max": 25,
+      "unit": "extra days above 35°C against 1991–2020",
+      "source": "wb-cckp"
+    },
+    {
+      "map": "change",
+      "band": "25 or more",
+      "min": 25,
+      "max": null,
+      "unit": "extra days above 35°C against 1991–2020",
+      "source": "wb-cckp"
+    }
+  ]
+}

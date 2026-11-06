@@ -1,0 +1,60 @@
+{
+  "variant": "food",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Hunger, healthy diets and food inflation by country",
+      "description": "Undernourishment and food insecurity (FAO, 2023-2025 averages), the cost and affordability of a healthy diet (FAO and World Bank, 2025), the latest year-on-year food price inflation (FAOSTAT) and food's share of household spending (USDA ERS).",
+      "rows": 206
+    },
+    {
+      "id": "world",
+      "title": "World hunger over time",
+      "description": "Undernourishment 2000 to 2025, food insecurity 2014 to 2025, and the cost and affordability of a healthy diet 2017 to 2025 (FAO, July 2026 release).",
+      "rows": 26
+    },
+    {
+      "id": "regions",
+      "title": "Hunger and healthy diets by region and income group",
+      "description": "Undernourishment and the affordability of a healthy diet in 2025, by continent group and World Bank income group (FAO).",
+      "rows": 9
+    },
+    {
+      "id": "prices",
+      "title": "FAO Food Price Index, monthly",
+      "description": "The FAO Food Price Index and its five sub-indices, January 1990 to October 2026, 2014–2016 = 100.",
+      "rows": 442
+    },
+    {
+      "id": "prices_real",
+      "title": "FAO Food Price Index in real terms, annual",
+      "description": "Annual nominal and real FAO Food Price Index, 1961 to 2026 (2026 is January to October).",
+      "rows": 66
+    },
+    {
+      "id": "inputs",
+      "title": "Fertiliser, grain and fuel prices, monthly",
+      "description": "World Bank Pink Sheet prices in nominal US dollars, January 2019 to October 2026.",
+      "rows": 94
+    },
+    {
+      "id": "uk",
+      "title": "UK food inflation, monthly",
+      "description": "UK 12-month inflation for food and non-alcoholic beverages and for all items, and the food price index, January 2015 to September 2026 (ONS).",
+      "rows": 141
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from FAO's SOFI 2026, the Global Report on Food Crises 2026, the World Bank, FAO, DWP and the Food Foundation.",
+      "rows": 13
+    }
+  ]
+}

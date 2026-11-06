@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+anomaly,Cooler than usual,,0,°C against 1991–2020,owid-anom
+anomaly,0 to 0.5°C,0,0.5,°C against 1991–2020,owid-anom
+anomaly,0.5 to 1°C,0.5,1,°C against 1991–2020,owid-anom
+anomaly,1 to 1.5°C,1,1.5,°C against 1991–2020,owid-anom
+anomaly,1.5°C or more,1.5,,°C against 1991–2020,owid-anom
+days,Under 1 day,0,1,days above 35°C,wb-cckp
+days,1 to 10 days,1,10,days above 35°C,wb-cckp
+days,10 to 30 days,10,30,days above 35°C,wb-cckp
+days,30 to 100 days,30,100,days above 35°C,wb-cckp
+days,100 days or more,100,,days above 35°C,wb-cckp
+change,Fewer than usual,,-0.5,extra days above 35°C against 1991–2020,wb-cckp
+change,About the same,-0.5,2,extra days above 35°C against 1991–2020,wb-cckp
+change,2 to 10 more,2,10,extra days above 35°C against 1991–2020,wb-cckp
+change,10 to 25 more,10,25,extra days above 35°C against 1991–2020,wb-cckp
+change,25 or more,25,,extra days above 35°C against 1991–2020,wb-cckp

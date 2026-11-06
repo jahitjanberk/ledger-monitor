@@ -1,0 +1,191 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from USGS, the IEA, the OECD, Amnesty International, ITU, the European Commission, the UK government and the BGS.",
+  "records": [
+    {
+      "id": "drc",
+      "label": "DR Congo's share of world mined cobalt, 2025",
+      "value": 73,
+      "unit": "%",
+      "note": "Indonesia 14%",
+      "source": "usgs-mcs"
+    },
+    {
+      "id": "gallium",
+      "label": "China's share of primary low-purity gallium production, 2025",
+      "value": 99,
+      "unit": "%",
+      "note": "",
+      "source": "usgs-mcs"
+    },
+    {
+      "id": "batteries",
+      "label": "Share of lithium used in batteries",
+      "value": 88,
+      "unit": "%",
+      "note": "Estimated global end use, 2025",
+      "source": "usgs-mcs"
+    },
+    {
+      "id": "lithiumprice",
+      "label": "US lithium carbonate contract price, 2025 average",
+      "value": 9000,
+      "unit": "US dollars a tonne",
+      "note": "Down 31% on 2024; $63,700 in 2022",
+      "source": "usgs-mcs"
+    },
+    {
+      "id": "top72",
+      "label": "Average share of the top refining country, excluding rare earths, 2025",
+      "value": 72,
+      "unit": "%",
+      "note": "Up from 70% in 2023",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "risk",
+      "label": "Downstream production outside China at risk a year if rare earth export controls were fully implemented",
+      "value": 6.5,
+      "unit": "trillion US dollars",
+      "note": "",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "graphiterisk",
+      "label": "Downstream production outside China at risk a year if battery-grade graphite trade were fully disrupted",
+      "value": 300,
+      "unit": "billion US dollars",
+      "note": "Over $300 billion",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "tripled",
+      "label": "Growth in the number of mineral tariff codes under Chinese export controls since 2023",
+      "value": 3,
+      "unit": "times",
+      "note": "Tripled",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "costev",
+      "label": "Critical minerals' share of the price of an average electric vehicle",
+      "value": 3,
+      "unit": "%",
+      "note": "Around a quarter of battery cell costs",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "cobaltprice",
+      "label": "Rise in cobalt prices, January 2025 to April 2026",
+      "value": 130,
+      "unit": "%",
+      "note": "Largely due to DR Congo's export restrictions",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "tungsten6",
+      "label": "Rise in tungsten prices, January 2025 to April 2026",
+      "value": 6,
+      "unit": "times",
+      "note": "Sixfold",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "europe5",
+      "label": "European prices for gallium, dysprosium and terbium against Chinese domestic prices",
+      "value": 5,
+      "unit": "times",
+      "note": "Germanium almost three times",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "copper90",
+      "label": "China's share of growth in global copper smelting since 2005",
+      "value": 90,
+      "unit": "%",
+      "note": "Over 90%; its share of capacity rose from about 15% to 50% by 2025",
+      "source": "iea-gcmo2026"
+    },
+    {
+      "id": "fivefold",
+      "label": "Increase in export restrictions on critical raw materials since 2009",
+      "value": 5,
+      "unit": "times",
+      "note": "Fivefold",
+      "source": "oecd-inventory"
+    },
+    {
+      "id": "restricted",
+      "label": "Share of global cobalt and manganese exports subject to at least one export restriction, 2022–2024",
+      "value": 70,
+      "unit": "%",
+      "note": "Graphite 47%, rare earths 45%, tin 41%",
+      "source": "oecd-inventory"
+    },
+    {
+      "id": "ukimports",
+      "label": "Share of UK critical raw material imports facing at least one export restriction, 2022–2024",
+      "value": 22.7,
+      "unit": "%",
+      "note": "World 16%",
+      "source": "oecd-inventory"
+    },
+    {
+      "id": "children",
+      "label": "Children working in all mines across southern DR Congo, 2014 UNICEF estimate",
+      "value": 40000,
+      "unit": "children",
+      "note": "Many in cobalt mining; cited by Amnesty International in 2016",
+      "source": "amnesty-2016"
+    },
+    {
+      "id": "artisanal",
+      "label": "Share of DR Congo's cobalt dug by hand by artisanal miners",
+      "value": 30,
+      "unit": "%",
+      "note": "18 to 30%",
+      "source": "oecd-2019"
+    },
+    {
+      "id": "ewaste",
+      "label": "Share of e-waste documented as properly collected and recycled, 2022",
+      "value": 22.3,
+      "unit": "%",
+      "note": "62 billion kg of e-waste in 2022",
+      "source": "itu-ewaste"
+    },
+    {
+      "id": "ree1",
+      "label": "Share of rare earth demand met by e-waste recycling",
+      "value": 1,
+      "unit": "%",
+      "note": "",
+      "source": "itu-ewaste"
+    },
+    {
+      "id": "eu",
+      "label": "EU 2030 benchmarks for strategic raw materials",
+      "value": 65,
+      "unit": "%",
+      "note": "At least 10% of consumption from EU extraction, 40% processing, 25% recycling; no more than 65% from one third country",
+      "source": "ec-crma"
+    },
+    {
+      "id": "uk60",
+      "label": "UK 2035 targets for critical minerals",
+      "value": 60,
+      "unit": "%",
+      "note": "At least 10% of demand from domestic production and 20% from recycling; no more than 60% from any one country, in aggregate",
+      "source": "uk-vision2035"
+    },
+    {
+      "id": "bgs",
+      "label": "Minerals assessed as critical for the UK, out of 82 candidates",
+      "value": 34,
+      "unit": "minerals",
+      "note": "Niobium, cobalt and rare earths rank highest",
+      "source": "bgs-2024"
+    }
+  ]
+}

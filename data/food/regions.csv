@@ -1,0 +1,10 @@
+group,region,year,undernourished_pct,undernourished_under,undernourished_m,hunger_source,cant_afford_pct,cant_afford_m,diet_cost,diet_source
+region,Africa,2025,20,,309.2,faostat-fs,66.6,1031.2,4.35,faostat-cahd
+region,Asia,2025,6,,291.8,faostat-fs,28.9,1399.1,4.33,faostat-cahd
+region,Latin America and the Caribbean,2025,4.8,,32.1,faostat-fs,25.7,172,4.91,faostat-cahd
+region,Oceania,2025,8,,3.7,faostat-fs,5,2.3,3.43,faostat-cahd
+region,Northern America and Europe,2025,,2.5,,faostat-fs,6.8,77.5,3.64,faostat-cahd
+income,Low-income countries,2025,30.4,,194.8,faostat-fs,76.1,487.6,4.05,faostat-cahd
+income,Lower-middle-income countries,2025,10.8,,340.8,faostat-fs,44.1,1394.2,4.36,faostat-cahd
+income,Upper-middle-income countries,2025,2.6,,74.1,faostat-fs,22.2,636.7,4.25,faostat-cahd
+income,High-income countries,2025,,2.5,,faostat-fs,8.1,113.2,4.2,faostat-cahd

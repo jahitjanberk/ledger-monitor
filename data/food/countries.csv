@@ -1,0 +1,207 @@
+country,iso3,iso_n3,pou,pou_under,pou_period,pou_2005,pou_2005_under,undernourished_m,hunger_band,food_insecure_pct,severe_pct,stunting_pct,stunting_year,hunger_source,diet_cost,cant_afford_pct,cant_afford_m,diet_year,diet_band,diet_source,food_inflation,inflation_month,inflation_band,inflation_source,food_share,food_share_year,food_share_source
+Somalia,SOM,706,56.5,,2023-2025,69.7,,10.7,35% or more,,,23.9,2024,faostat-fs,,,,,,,8,2026-06,6 to 15%,faostat-cp,,,
+Haiti,HTI,332,51.4,,2023-2025,47.7,,6.1,35% or more,83.5,45.4,21.6,2024,faostat-fs,6.51,88.9,10.6,2025,75% or more,faostat-cahd,19.4,2026-06,15% or more,faostat-cp,,,
+Madagascar,MDG,450,41.8,,2023-2025,32.9,,13.3,35% or more,61.1,16.9,38.4,2024,faostat-fs,4.08,85.3,27.9,2025,75% or more,faostat-cahd,10.4,2026-06,6 to 15%,faostat-cp,,,
+Zambia,ZMB,894,41,,2023-2025,49.4,,8.7,35% or more,45.8,17.2,32.3,2024,faostat-fs,4.18,86.2,18.9,2025,75% or more,faostat-cahd,6.7,2026-06,6 to 15%,faostat-cp,,,
+Syria,SYR,760,40.8,,2023-2025,6.2,,10.1,35% or more,,,23.5,2024,faostat-fs,6.85,61.1,15.6,2025,50 to 75%,faostat-cahd,28.5,2026-06,15% or more,faostat-cp,,,
+Democratic Republic of Congo,COD,180,39.5,,2023-2025,27.3,,43.2,35% or more,81.7,43.9,44.1,2024,faostat-fs,2.66,90.1,101.7,2025,75% or more,faostat-cahd,,,,,,,
+Liberia,LBR,430,37.3,,2023-2025,35.7,,2.1,35% or more,79,35.5,26.9,2024,faostat-fs,3.6,59.6,3.4,2025,50 to 75%,faostat-cahd,4.9,2026-06,3 to 6%,faostat-cp,,,
+Kenya,KEN,404,34.9,,2023-2025,28.2,,19.7,20 to 35%,71.7,26.5,17.9,2024,faostat-fs,4.5,76.3,43.9,2025,75% or more,faostat-cahd,8.6,2026-06,6 to 15%,faostat-cp,42.1,2023,usda-ers
+Chad,TCD,148,33.6,,2023-2025,30.9,,6.8,20 to 35%,65,25.2,31.5,2024,faostat-fs,4.07,66.6,14,2025,50 to 75%,faostat-cahd,-4.2,2026-06,Falling (below 0%),faostat-cp,,,
+Papua New Guinea,PNG,598,30.5,,2023-2025,27.9,,3.2,20 to 35%,,,47.6,2024,faostat-fs,,,,,,,,,,,,,
+Central African Republic,CAF,140,29.8,,2023-2025,34.8,,1.6,20 to 35%,,,38.9,2024,faostat-fs,4.34,87.6,4.8,2025,75% or more,faostat-cahd,-0.1,2026-06,Falling (below 0%),faostat-cp,,,
+Afghanistan,AFG,004,27.8,,2023-2025,30.6,,11.9,20 to 35%,77.8,30.2,42,2024,faostat-fs,,,,,,,7.2,2026-06,6 to 15%,faostat-cp,,,
+Solomon Islands,SLB,090,27,,2023-2025,12.4,,0.2,20 to 35%,,,29.8,2024,faostat-fs,,,,,,,-1.6,2026-06,Falling (below 0%),faostat-cp,,,
+Sierra Leone,SLE,694,25.3,,2023-2025,39.8,,2.2,20 to 35%,88.1,31.9,25.2,2024,faostat-fs,3.89,61.9,5.5,2025,50 to 75%,faostat-cahd,6.8,2026-06,6 to 15%,faostat-cp,,,
+Congo,COG,178,25,,2023-2025,28.4,,1.6,20 to 35%,,,16.3,2024,faostat-fs,4.48,77.3,5,2025,75% or more,faostat-cahd,7.6,2026-06,6 to 15%,faostat-cp,,,
+Malawi,MWI,454,24.5,,2023-2025,21.5,,5.3,20 to 35%,81.6,58.1,33.2,2024,faostat-fs,5.01,92.7,20.6,2025,75% or more,faostat-cahd,14.7,2026-06,6 to 15%,faostat-cp,,,
+Gabon,GAB,266,23.3,,2023-2025,14.3,,0.6,20 to 35%,,,13.7,2024,faostat-fs,4.78,39.3,1,2025,25 to 50%,faostat-cahd,-0.1,2026-06,Falling (below 0%),faostat-cp,,,
+Sao Tome and Principe,STP,678,23,,2023-2025,10.4,,,20 to 35%,,,10,2024,faostat-fs,4.91,51.1,0.1,2025,50 to 75%,faostat-cahd,9.9,2026-06,6 to 15%,faostat-cp,,,
+Rwanda,RWA,646,22.6,,2023-2025,31.8,,3.2,20 to 35%,,,29.8,2024,faostat-fs,4.58,69.7,10.2,2025,50 to 75%,faostat-cahd,8,2026-06,6 to 15%,faostat-cp,,,
+Mozambique,MOZ,508,22.3,,2023-2025,29.2,,7.7,20 to 35%,,,37,2024,faostat-fs,4.49,91.3,32.5,2025,75% or more,faostat-cahd,13.4,2026-06,6 to 15%,faostat-cp,,,
+Nigeria,NGA,566,22.2,,2023-2025,9.1,,51.6,20 to 35%,76.5,26.4,33.8,2024,faostat-fs,4.17,80.5,191.2,2025,75% or more,faostat-cahd,18.3,2026-06,15% or more,faostat-cp,59.3,2023,usda-ers
+Uganda,UGA,800,20.9,,2023-2025,18.8,,10.4,20 to 35%,51.6,12.7,23.5,2024,faostat-fs,3.74,73.6,37.8,2025,50 to 75%,faostat-cahd,2.6,2026-06,0 to 3%,faostat-cp,38.6,2023,usda-ers
+Namibia,NAM,516,20.1,,2023-2025,19.9,,0.6,20 to 35%,54,28.1,16.4,2024,faostat-fs,4.88,47.9,1.5,2025,25 to 50%,faostat-cahd,2.5,2026-06,0 to 3%,faostat-cp,,,
+Guinea-Bissau,GNB,624,20,,2023-2025,16.3,,0.4,20 to 35%,,,28.3,2024,faostat-fs,4.38,66.4,1.5,2025,50 to 75%,faostat-cahd,-6.6,2026-06,Falling (below 0%),faostat-cp,,,
+Ethiopia,ETH,231,19.9,,2023-2025,36.4,,26.3,10 to 20%,60.1,16.6,35.5,2024,faostat-fs,4.75,67.9,92,2025,50 to 75%,faostat-cahd,15.1,2026-06,15% or more,faostat-cp,37.9,2023,usda-ers
+Bolivia,BOL,068,19.5,,2023-2025,27.6,,2.4,10 to 20%,29.6,5,10.7,2024,faostat-fs,5.38,10.5,1.3,2025,5 to 25%,faostat-cahd,12.6,2026-06,6 to 15%,faostat-cp,29.3,2023,usda-ers
+South Sudan,SSD,728,19.1,,2023-2025,,,2.3,10 to 20%,88.8,62.9,30,2024,faostat-fs,4.09,93.9,11.4,2025,75% or more,faostat-cahd,21.1,2026-06,15% or more,faostat-cp,,,
+Tanzania,TZA,834,19.1,,2023-2025,28.5,,13.1,10 to 20%,57,22.9,29.9,2024,faostat-fs,3.53,73,51.5,2025,50 to 75%,faostat-cahd,11.7,2026-06,6 to 15%,faostat-cp,26.2,2023,usda-ers
+Libya,LBY,434,18.7,,2023-2025,4.9,,1.4,10 to 20%,31.6,15.1,9.2,2024,faostat-fs,,,,,,,13.9,2026-06,6 to 15%,faostat-cp,,,
+Zimbabwe,ZWE,716,18.4,,2023-2025,29.5,,3.1,10 to 20%,70.1,25.3,23.7,2024,faostat-fs,,,,,,,3.6,2026-06,3 to 6%,faostat-cp,,,
+Botswana,BWA,072,18.2,,2023-2025,26.9,,0.5,10 to 20%,52,20.4,21,2024,faostat-fs,4.44,59.9,1.5,2025,50 to 75%,faostat-cahd,5.7,2026-06,3 to 6%,faostat-cp,,,
+Gambia,GMB,270,17.5,,2023-2025,17.6,,0.5,10 to 20%,47.2,17.6,14,2024,faostat-fs,4.49,43.7,1.2,2025,25 to 50%,faostat-cahd,6.8,2026-06,6 to 15%,faostat-cp,,,
+Angola,AGO,024,17.4,,2023-2025,42.9,,6.6,10 to 20%,75.4,16.2,47.7,2024,faostat-fs,5.18,72.9,28.4,2025,50 to 75%,faostat-cahd,10.7,2026-06,6 to 15%,faostat-cp,50,2023,usda-ers
+East Timor,TLS,626,16.9,,2023-2025,28.8,,0.2,10 to 20%,,,45.4,2024,faostat-fs,,,,,,,0.8,2026-06,0 to 3%,faostat-cp,,,
+Comoros,COM,174,16.5,,2023-2025,16.3,,0.1,10 to 20%,,,17.4,2024,faostat-fs,5.47,48.6,0.4,2025,25 to 50%,faostat-cahd,-0.4,2026-06,Falling (below 0%),faostat-cp,,,
+Pakistan,PAK,586,16.1,,2023-2025,16.9,,40.4,10 to 20%,22.9,5.5,33.6,2024,faostat-fs,3.94,63,160.7,2025,50 to 75%,faostat-cahd,9.4,2026-06,6 to 15%,faostat-cp,37.8,2023,usda-ers
+Eswatini,SWZ,748,15.1,,2023-2025,12,,0.2,10 to 20%,61.7,25,18.9,2024,faostat-fs,4.95,68.1,0.9,2025,50 to 75%,faostat-cahd,-2.4,2026-06,Falling (below 0%),faostat-cp,,,
+Djibouti,DJI,262,14.7,,2023-2025,28.9,,0.2,10 to 20%,,,20.9,2024,faostat-fs,4.84,49.8,0.6,2025,25 to 50%,faostat-cahd,4.8,2026-06,3 to 6%,faostat-cp,,,
+Honduras,HND,340,14.3,,2023-2025,18.1,,1.5,10 to 20%,39.3,14.3,17.9,2024,faostat-fs,4.85,34.2,3.8,2025,25 to 50%,faostat-cahd,4.7,2026-06,3 to 6%,faostat-cp,31.5,2023,usda-ers
+Iraq,IRQ,368,13.4,,2023-2025,16.5,,6.2,10 to 20%,,,9.4,2024,faostat-fs,4.88,28,13.2,2025,25 to 50%,faostat-cahd,3.2,2026-06,3 to 6%,faostat-cp,28.7,2023,usda-ers
+Niger,NER,562,12.9,,2023-2025,18,,3.5,10 to 20%,50.3,7.4,48.3,2024,faostat-fs,5.01,85.8,24,2025,75% or more,faostat-cahd,-7.5,2026-06,Falling (below 0%),faostat-cp,,,
+Guatemala,GTM,320,12.7,,2023-2025,19.3,,2.3,10 to 20%,49,22.4,44.6,2024,faostat-fs,5.18,47.3,8.8,2025,25 to 50%,faostat-cahd,2.4,2026-06,0 to 3%,faostat-cp,35.1,2023,usda-ers
+Suriname,SUR,740,12.7,,2023-2025,8.8,,,10 to 20%,,,8,2024,faostat-fs,5.94,23.7,0.2,2025,5 to 25%,faostat-cahd,11.4,2026-06,6 to 15%,faostat-cp,,,
+Jordan,JOR,400,12.2,,2023-2025,5.4,,1.4,10 to 20%,,,7.7,2024,faostat-fs,3.45,2.2,0.3,2025,Under 5%,faostat-cahd,0.4,2026-06,0 to 3%,faostat-cp,25,2023,usda-ers
+Mali,MLI,466,12.1,,2023-2025,11.7,,3,10 to 20%,20.6,2.4,23.2,2024,faostat-fs,3.98,60.8,15.3,2025,50 to 75%,faostat-cahd,-1.2,2026-06,Falling (below 0%),faostat-cp,,,
+Burkina Faso,BFA,854,11.7,,2023-2025,17,,2.8,10 to 20%,41.2,7.3,19.5,2024,faostat-fs,3.92,65.5,15.8,2025,50 to 75%,faostat-cahd,-1.7,2026-05,Falling (below 0%),faostat-cp,,,
+Cote d'Ivoire,CIV,384,11.4,,2023-2025,17.6,,3.6,10 to 20%,37.9,7.9,20.3,2024,faostat-fs,3.64,46.6,15.2,2025,25 to 50%,faostat-cahd,2.4,2026-06,0 to 3%,faostat-cp,37.7,2023,usda-ers
+South Africa,ZAF,710,11.2,,2023-2025,3.3,,7.2,10 to 20%,20.9,8.4,24.4,2024,faostat-fs,4.02,57.9,37.5,2025,50 to 75%,faostat-cahd,1.9,2026-05,0 to 3%,faostat-cp,16.1,2023,usda-ers
+Benin,BEN,204,11.1,,2023-2025,11.9,,1.6,10 to 20%,65.6,13.1,33.2,2024,faostat-fs,3.58,53.5,7.9,2025,50 to 75%,faostat-cahd,-3.2,2026-06,Falling (below 0%),faostat-cp,,,
+Lebanon,LBN,422,11.1,,2023-2025,7.1,,0.6,10 to 20%,44.3,10.2,10.1,2024,faostat-fs,6.97,46.4,2.7,2025,25 to 50%,faostat-cahd,18,2026-06,15% or more,faostat-cp,37.1,2023,usda-ers
+Mauritania,MRT,478,11,,2023-2025,10.3,,0.6,10 to 20%,65.1,12.5,21.5,2024,faostat-fs,5.57,50.9,2.7,2025,50 to 75%,faostat-cahd,11.7,2026-06,6 to 15%,faostat-cp,,,
+Ecuador,ECU,218,10.8,,2023-2025,17.4,,2,10 to 20%,31.1,11,17.7,2024,faostat-fs,3.66,25.7,4.7,2025,25 to 50%,faostat-cahd,-0.4,2026-06,Falling (below 0%),faostat-cp,25.9,2023,usda-ers
+Ukraine,UKR,804,10.8,,2023-2025,,2.5,4.1,10 to 20%,32,5.4,11.7,2024,faostat-fs,,,,,,,5.6,2026-06,3 to 6%,faostat-cp,41.7,2023,usda-ers
+Trinidad and Tobago,TTO,780,10.4,,2023-2025,11.1,,0.2,10 to 20%,27.6,6.9,7.8,2024,faostat-fs,5.82,32,0.5,2025,25 to 50%,faostat-cahd,0.9,2026-06,0 to 3%,faostat-cp,,,
+Togo,TGO,768,10.2,,2023-2025,24.6,,0.9,10 to 20%,56.3,9.2,23,2024,faostat-fs,3.95,53.7,4.6,2025,50 to 75%,faostat-cahd,-1.4,2026-05,Falling (below 0%),faostat-cp,,,
+Laos,LAO,418,10,,2023-2025,20.2,,0.8,10 to 20%,34.4,5.5,29.9,2024,faostat-fs,5.23,49.7,3.9,2025,25 to 50%,faostat-cahd,3.3,2026-06,3 to 6%,faostat-cp,50.5,2023,usda-ers
+India,IND,356,9.8,,2023-2025,21.1,,142.5,2.5 to 10%,,,32.9,2024,faostat-fs,4.11,35.5,520.1,2025,25 to 50%,faostat-cahd,5.3,2026-06,3 to 6%,faostat-cp,29.9,2023,usda-ers
+Guinea,GIN,324,8.7,,2023-2025,16.4,,1.3,2.5 to 10%,,,26.6,2024,faostat-fs,5.33,50.3,7.6,2025,50 to 75%,faostat-cahd,13,2026-06,6 to 15%,faostat-cp,,,
+Egypt,EGY,818,8.4,,2023-2025,5.8,,9.8,2.5 to 10%,29.9,11.7,12.9,2024,faostat-fs,6.06,38.5,45.5,2025,25 to 50%,faostat-cahd,5.4,2026-06,3 to 6%,faostat-cp,36.9,2023,usda-ers
+Bangladesh,BGD,050,8.2,,2023-2025,15.1,,14.3,2.5 to 10%,26.2,,25.1,2024,faostat-fs,4.59,38.6,67.8,2025,25 to 50%,faostat-cahd,8.6,2026-06,6 to 15%,faostat-cp,52.8,2023,usda-ers
+Cape Verde,CPV,132,8.1,,2023-2025,14.3,,,2.5 to 10%,32.1,6.4,5.3,2024,faostat-fs,3.88,49.3,0.3,2025,25 to 50%,faostat-cahd,0.9,2026-06,0 to 3%,faostat-cp,,,
+Jamaica,JAM,388,8,,2023-2025,7.1,,0.2,2.5 to 10%,55.8,27.4,6.9,2024,faostat-fs,6.21,26.4,0.7,2025,25 to 50%,faostat-cahd,9.8,2026-06,6 to 15%,faostat-cp,,,
+Tajikistan,TJK,762,8,,2023-2025,38,,0.8,2.5 to 10%,24,4.9,13.1,2024,faostat-fs,,,,,,,4.2,2026-06,3 to 6%,faostat-cp,,,
+Fiji,FJI,242,7.2,,2023-2025,4.5,,,2.5 to 10%,,,7.2,2024,faostat-fs,4.75,58,0.5,2025,50 to 75%,faostat-cahd,1.5,2026-06,0 to 3%,faostat-cp,,,
+Oman,OMN,512,7.1,,2023-2025,9.4,,0.4,2.5 to 10%,,,12.9,2024,faostat-fs,3.07,,,2025,,faostat-cahd,6.9,2026-06,6 to 15%,faostat-cp,18.7,2023,usda-ers
+Iran,IRN,364,6.7,,2023-2025,6.4,,6.2,2.5 to 10%,37.7,4.8,4.8,2024,faostat-fs,4.8,37.4,34.5,2025,25 to 50%,faostat-cahd,130.5,2026-06,15% or more,faostat-cp,27.9,2023,usda-ers
+Morocco,MAR,504,6.5,,2023-2025,4.8,,2.5,2.5 to 10%,,,13.7,2024,faostat-fs,3.64,12.4,4.8,2025,5 to 25%,faostat-cahd,-2.5,2026-06,Falling (below 0%),faostat-cp,34.5,2023,usda-ers
+Ghana,GHA,288,6.4,,2023-2025,11.1,,2.2,2.5 to 10%,43.5,8.8,15.6,2024,faostat-fs,4.65,65.8,23.1,2025,50 to 75%,faostat-cahd,3.9,2026-06,3 to 6%,faostat-cp,39.1,2023,usda-ers
+Indonesia,IDN,360,6.3,,2023-2025,18.4,,18,2.5 to 10%,4.2,,22.6,2024,faostat-fs,5.09,68.6,195.9,2025,50 to 75%,faostat-cahd,4.7,2026-06,3 to 6%,faostat-cp,33.5,2023,usda-ers
+Vietnam,VNM,704,6.1,,2023-2025,15.2,,6.1,2.5 to 10%,9.4,1.8,19.2,2024,faostat-fs,4.59,7,7.1,2025,5 to 25%,faostat-cahd,3.1,2026-06,3 to 6%,faostat-cp,34.9,2023,usda-ers
+Vanuatu,VUT,548,5.8,,2023-2025,7.5,,,2.5 to 10%,,,31,2024,faostat-fs,,,,,,,7.4,2026-06,6 to 15%,faostat-cp,,,
+Peru,PER,604,5.7,,2023-2025,17.9,,2,2.5 to 10%,33.6,3.7,10.6,2024,faostat-fs,4.45,34.8,12,2025,25 to 50%,faostat-cahd,3.3,2026-06,3 to 6%,faostat-cp,26.9,2023,usda-ers
+Albania,ALB,008,5.6,,2023-2025,8.8,,0.2,2.5 to 10%,31.8,8.3,7.4,2024,faostat-fs,5.16,11.9,0.3,2025,5 to 25%,faostat-cahd,1.7,2026-06,0 to 3%,faostat-cp,,,
+Thailand,THA,764,5.4,,2023-2025,11.8,,3.9,2.5 to 10%,4.5,0.6,12.3,2024,faostat-fs,,,,,,,1,2026-06,0 to 3%,faostat-cp,25.9,2023,usda-ers
+El Salvador,SLV,222,5.3,,2023-2025,8.9,,0.3,2.5 to 10%,41.7,12.3,9.4,2024,faostat-fs,,,,,,,3,2026-06,3 to 6%,faostat-cp,26.7,2023,usda-ers
+Senegal,SEN,686,5.3,,2023-2025,15.8,,1,2.5 to 10%,27.7,3.5,17.2,2024,faostat-fs,3.83,45.5,8.6,2025,25 to 50%,faostat-cahd,-0.2,2026-06,Falling (below 0%),faostat-cp,,,
+Venezuela,VEN,862,5.3,,2023-2025,7.8,,1.5,2.5 to 10%,,,11.7,2024,faostat-fs,,,,,,,,,,,52,2023,usda-ers
+Nepal,NPL,524,5.2,,2023-2025,16.9,,1.5,2.5 to 10%,35,12.3,26,2024,faostat-fs,4.19,17.9,5.3,2025,5 to 25%,faostat-cahd,5,2026-06,3 to 6%,faostat-cp,,,
+Barbados,BRB,052,5,,2023-2025,4.7,,,2.5 to 10%,,,5.8,2024,faostat-fs,,,,,,,-0.1,2026-06,Falling (below 0%),faostat-cp,,,
+Cameroon,CMR,120,4.9,,2023-2025,13.8,,1.4,2.5 to 10%,60.9,23.9,27.2,2024,faostat-fs,4.58,55.3,16.5,2025,50 to 75%,faostat-cahd,5.9,2026-06,3 to 6%,faostat-cp,45.8,2023,usda-ers
+Mauritius,MUS,480,4.9,,2023-2025,5.4,,,2.5 to 10%,28.2,12.2,7.8,2024,faostat-fs,4.84,17.8,0.2,2025,5 to 25%,faostat-cahd,-1.4,2026-06,Falling (below 0%),faostat-cp,,,
+Sri Lanka,LKA,144,4.9,,2023-2025,14.2,,1.1,2.5 to 10%,10.1,1.1,10.1,2024,faostat-fs,5.21,34.9,8.1,2025,25 to 50%,faostat-cahd,3.3,2026-06,3 to 6%,faostat-cp,27.1,2023,usda-ers
+Kyrgyzstan,KGZ,417,4.8,,2023-2025,7.3,,0.3,2.5 to 10%,7.4,0.6,11,2024,faostat-fs,3.91,22.1,1.6,2025,5 to 25%,faostat-cahd,9.2,2026-06,6 to 15%,faostat-cp,,,
+Cambodia,KHM,116,4.7,,2023-2025,15.5,,0.8,2.5 to 10%,36.4,2.9,22,2024,faostat-fs,4.77,,,2025,,faostat-cahd,0,2026-06,0 to 3%,faostat-cp,40.7,2023,usda-ers
+Panama,PAN,591,4.7,,2023-2025,14.8,,0.2,2.5 to 10%,,,14,2024,faostat-fs,4.46,51.4,2.4,2025,50 to 75%,faostat-cahd,0.1,2026-06,0 to 3%,faostat-cp,15.4,2023,usda-ers
+Myanmar,MMR,104,4.6,,2023-2025,24.8,,2.5,2.5 to 10%,31.3,7.9,24.5,2024,faostat-fs,,,,,,,35.5,2026-06,15% or more,faostat-cp,53.9,2023,usda-ers
+Belize,BLZ,084,4.4,,2023-2025,5,,,2.5 to 10%,12.8,2.7,11.7,2024,faostat-fs,4.69,17.8,0.1,2025,5 to 25%,faostat-cahd,3.2,2026-06,3 to 6%,faostat-cp,,,
+Colombia,COL,170,4.1,,2023-2025,11,,2.2,2.5 to 10%,28,5.2,11.6,2024,faostat-fs,5.04,35.9,19.2,2025,25 to 50%,faostat-cahd,6.8,2026-06,6 to 15%,faostat-cp,20.6,2023,usda-ers
+New Caledonia,NCL,540,4.1,,2023-2025,8.9,,,2.5 to 10%,,,,,faostat-fs,,,,,,,-1.4,2026-06,Falling (below 0%),faostat-cp,,,
+Paraguay,PRY,600,4.1,,2023-2025,7.4,,0.3,2.5 to 10%,25.8,7,3.2,2024,faostat-fs,5.31,22.3,1.6,2025,5 to 25%,faostat-cahd,2.2,2026-06,0 to 3%,faostat-cp,29.3,2023,usda-ers
+Turkmenistan,TKM,795,4.1,,2023-2025,4.3,,0.3,2.5 to 10%,,,6.5,2024,faostat-fs,,,,,,,,,,,36.5,2023,usda-ers
+Saint Vincent and the Grenadines,VCT,670,4,,2023-2025,7.4,,,2.5 to 10%,,,,,faostat-fs,6.71,,,2025,,faostat-cahd,0.2,2026-06,0 to 3%,faostat-cp,,,
+Kiribati,KIR,296,3.8,,2023-2025,4.5,,,2.5 to 10%,43.9,4.8,14.7,2024,faostat-fs,,,,,,,6.6,2026-06,6 to 15%,faostat-cp,,,
+Taiwan,TWN,158,3.6,,2023-2025,4.5,,0.8,2.5 to 10%,,,,,faostat-fs,5.48,3.8,0.9,2025,Under 5%,faostat-cahd,,,,,13.8,2023,usda-ers
+Cuba,CUB,192,3.5,,2023-2025,,2.5,0.4,2.5 to 10%,,,7.3,2024,faostat-fs,,,,,,,,,,,,,
+Philippines,PHL,608,3.4,,2023-2025,17.3,,3.9,2.5 to 10%,32.7,3.1,27.7,2024,faostat-fs,4.48,45,52.6,2025,25 to 50%,faostat-cahd,5.2,2026-06,3 to 6%,faostat-cp,37.3,2023,usda-ers
+Samoa,WSM,882,3.4,,2023-2025,3.7,,,2.5 to 10%,18.2,4.5,8.4,2024,faostat-fs,,,,,,,2.5,2026-06,0 to 3%,faostat-cp,,,
+Mexico,MEX,484,3.1,,2023-2025,4,,4.1,2.5 to 10%,16.5,2.7,13.1,2024,faostat-fs,4.54,20,26.4,2025,5 to 25%,faostat-cahd,1.7,2026-06,0 to 3%,faostat-cp,25.7,2023,usda-ers
+Dominica,DMA,212,3,,2023-2025,5.2,,,2.5 to 10%,,,,,faostat-fs,6.69,,,2025,,faostat-cahd,2.1,2026-06,0 to 3%,faostat-cp,,,
+Argentina,ARG,032,2.8,,2023-2025,3.6,,1.3,2.5 to 10%,31.7,11,10.7,2024,faostat-fs,,,,,,,34.4,2026-06,15% or more,faostat-cp,23.1,2023,usda-ers
+Tunisia,TUN,788,2.8,,2023-2025,4,,0.3,2.5 to 10%,24.2,7.7,8.9,2024,faostat-fs,5.22,8.6,1.1,2025,5 to 25%,faostat-cahd,6.5,2026-06,6 to 15%,faostat-cp,22.3,2023,usda-ers
+French Polynesia,PYF,258,2.6,,2023-2025,4.8,,,2.5 to 10%,,,,,faostat-fs,,,,,,,-0.1,2026-06,Falling (below 0%),faostat-cp,,,
+Aland Islands,ALA,248,,,,,,,,,,,,faostat-fs,,,,,,,0.7,2026-06,0 to 3%,faostat-cp,,,
+Algeria,DZA,012,,2.5,2023-2025,6.1,,,Under 2.5%,17.6,4.9,8.9,2024,faostat-fs,5.56,38.8,18.4,2025,25 to 50%,faostat-cahd,7.3,2026-06,6 to 15%,faostat-cp,37.2,2023,usda-ers
+Andorra,AND,020,,,,,,,,,,,,faostat-fs,,,,,,,2.4,2026-06,0 to 3%,faostat-cp,,,
+Anguilla,AIA,660,,,,,,,,,,,,faostat-fs,,,,,,,1.7,2026-06,0 to 3%,faostat-cp,,,
+Antigua and Barbuda,ATG,028,,,,,,,,,,,,faostat-fs,6.05,,,2025,,faostat-cahd,1.7,2026-06,0 to 3%,faostat-cp,,,
+Armenia,ARM,051,,2.5,2023-2025,14.6,,,Under 2.5%,7.1,,6.2,2024,faostat-fs,4.56,44,1.3,2025,25 to 50%,faostat-cahd,8.6,2026-06,6 to 15%,faostat-cp,,,
+Aruba,ABW,533,,,,,,,,,,,,faostat-fs,5.49,,,2025,,faostat-cahd,2.4,2026-06,0 to 3%,faostat-cp,,,
+Australia,AUS,036,,2.5,2023-2025,,2.5,,Under 2.5%,15.1,4.4,3.1,2024,faostat-fs,3.33,3.2,0.9,2025,Under 5%,faostat-cahd,2.9,2026-06,0 to 3%,faostat-cp,9.9,2023,usda-ers
+Austria,AUT,040,,2.5,2023-2025,,2.5,,Under 2.5%,4.4,1.7,,,faostat-fs,3.28,2.9,0.3,2025,Under 5%,faostat-cahd,1.6,2026-06,0 to 3%,faostat-cp,10.1,2023,usda-ers
+Azerbaijan,AZE,031,,2.5,2023-2025,5.3,,,Under 2.5%,14.6,1.5,6.8,2024,faostat-fs,4.37,0.7,0.1,2025,Under 5%,faostat-cahd,7,2026-06,6 to 15%,faostat-cp,42.7,2023,usda-ers
+Bahamas,BHS,044,,,,,,,,,,,,faostat-fs,5.63,,,2025,,faostat-cahd,-0.3,2026-06,Falling (below 0%),faostat-cp,,,
+Bahrain,BHR,048,,,,,,,,,,4.6,2024,faostat-fs,4.32,,,2025,,faostat-cahd,5.8,2026-06,3 to 6%,faostat-cp,13.6,2023,usda-ers
+Belarus,BLR,112,,2.5,2023-2025,4,,,Under 2.5%,1,,1.1,2024,faostat-fs,4.01,0.6,0.1,2025,Under 5%,faostat-cahd,0.1,2026-06,0 to 3%,faostat-cp,29.5,2023,usda-ers
+Belgium,BEL,056,,2.5,2023-2025,,2.5,,Under 2.5%,9.3,3,2.6,2024,faostat-fs,3.12,0.9,0.1,2025,Under 5%,faostat-cahd,-0.1,2026-06,Falling (below 0%),faostat-cp,12.2,2023,usda-ers
+Bermuda,BMU,060,,,,,,,,,,,,faostat-fs,4.78,,,2025,,faostat-cahd,4.9,2026-06,3 to 6%,faostat-cp,,,
+Bhutan,BTN,064,,,,,,,,,,17.9,2024,faostat-fs,6.17,3.7,0,2025,Under 5%,faostat-cahd,7,2026-06,6 to 15%,faostat-cp,,,
+Bosnia and Herzegovina,BIH,070,,2.5,2023-2025,,2.5,,Under 2.5%,8.7,1.8,7.9,2024,faostat-fs,6.88,12.7,0.4,2025,5 to 25%,faostat-cahd,-0.5,2026-06,Falling (below 0%),faostat-cp,32.1,2023,usda-ers
+Brazil,BRA,076,,2.5,2023-2025,5.7,,,Under 2.5%,9.6,0.6,8.9,2024,faostat-fs,4.89,21.1,44.8,2025,5 to 25%,faostat-cahd,3.8,2026-06,3 to 6%,faostat-cp,16.2,2023,usda-ers
+British Virgin Islands,VGB,092,,,,,,,,,,,,faostat-fs,6.42,,,2025,,faostat-cahd,2.3,2026-06,0 to 3%,faostat-cp,,,
+Brunei,BRN,096,,,,,,,,,,9.9,2024,faostat-fs,6.04,,,2025,,faostat-cahd,1.5,2026-06,0 to 3%,faostat-cp,,,
+Bulgaria,BGR,100,,2.5,2023-2025,6.1,,,Under 2.5%,10.5,1.7,5.5,2024,faostat-fs,5.75,20.7,1.4,2025,5 to 25%,faostat-cahd,3.9,2026-06,3 to 6%,faostat-cp,20.7,2023,usda-ers
+Burundi,BDI,108,,,,,,,,70.8,20.9,55.3,2024,faostat-fs,4.65,90.9,13.1,2025,75% or more,faostat-cahd,3.8,2026-06,3 to 6%,faostat-cp,,,
+Canada,CAN,124,,2.5,2023-2025,,2.5,,Under 2.5%,10.5,1.9,,,faostat-fs,4.46,3,1.2,2025,Under 5%,faostat-cahd,4.2,2026-06,3 to 6%,faostat-cp,9.7,2023,usda-ers
+Cayman Islands,CYM,136,,,,,,,,,,,,faostat-fs,4.8,,,2025,,faostat-cahd,0.9,2026-06,0 to 3%,faostat-cp,,,
+Chile,CHL,152,,2.5,2023-2025,2.6,,,Under 2.5%,16,3.3,1.7,2024,faostat-fs,5.65,36.8,7.3,2025,25 to 50%,faostat-cahd,4.7,2026-06,3 to 6%,faostat-cp,19.4,2023,usda-ers
+China,CHN,156,,2.5,2023-2025,6.9,,,Under 2.5%,,,,,faostat-fs,3.64,11.3,160.4,2025,5 to 25%,faostat-cahd,-1.2,2026-06,Falling (below 0%),faostat-cp,21.2,2023,usda-ers
+Cook Islands,COK,184,,,,,,,,,,,,faostat-fs,,,,,,,3.3,2026-06,3 to 6%,faostat-cp,,,
+Costa Rica,CRI,188,,2.5,2023-2025,3.8,,,Under 2.5%,13.9,2.3,10.6,2024,faostat-fs,5.04,41.8,2.2,2025,25 to 50%,faostat-cahd,-3.7,2026-06,Falling (below 0%),faostat-cp,21.3,2023,usda-ers
+Croatia,HRV,191,,2.5,2023-2025,3.3,,,Under 2.5%,4.9,0.6,,,faostat-fs,5.1,12,0.5,2025,5 to 25%,faostat-cahd,4.4,2026-06,3 to 6%,faostat-cp,18.5,2023,usda-ers
+Curacao,CUW,531,,,,,,,,,,,,faostat-fs,5.02,,,2025,,faostat-cahd,1.1,2026-06,0 to 3%,faostat-cp,,,
+Cyprus,CYP,196,,2.5,2023-2025,4.7,,,Under 2.5%,1.4,,,,faostat-fs,4.18,1.5,0,2025,Under 5%,faostat-cahd,5.1,2026-06,3 to 6%,faostat-cp,,,
+Czechia,CZE,203,,2.5,2023-2025,,2.5,,Under 2.5%,9.1,1.7,2.4,2024,faostat-fs,3.99,5.8,0.6,2025,5 to 25%,faostat-cahd,-3.3,2026-06,Falling (below 0%),faostat-cp,15.7,2023,usda-ers
+Denmark,DNK,208,,2.5,2023-2025,,2.5,,Under 2.5%,6.2,1.9,,,faostat-fs,3.47,1.3,0.1,2025,Under 5%,faostat-cahd,-0.9,2026-06,Falling (below 0%),faostat-cp,11.9,2023,usda-ers
+Dominican Republic,DOM,214,,2.5,2023-2025,21.3,,,Under 2.5%,41.3,16.4,5.6,2024,faostat-fs,5.6,16.2,1.9,2025,5 to 25%,faostat-cahd,7,2026-06,6 to 15%,faostat-cp,28.1,2023,usda-ers
+Equatorial Guinea,GNQ,226,,,,,,,,,,17.1,2024,faostat-fs,4.88,63.2,1.2,2025,50 to 75%,faostat-cahd,4,2026-06,3 to 6%,faostat-cp,,,
+Estonia,EST,233,,2.5,2023-2025,,2.5,,Under 2.5%,13.1,1.9,1.3,2024,faostat-fs,4.89,10.2,0.1,2025,5 to 25%,faostat-cahd,-0.9,2026-06,Falling (below 0%),faostat-cp,19.9,2023,usda-ers
+Finland,FIN,246,,2.5,2023-2025,,2.5,,Under 2.5%,13.3,2.9,1.7,2024,faostat-fs,4,2,0.1,2025,Under 5%,faostat-cahd,0.7,2026-06,0 to 3%,faostat-cp,12.3,2023,usda-ers
+France,FRA,250,,2.5,2023-2025,,2.5,,Under 2.5%,9.4,3.3,,,faostat-fs,4.12,3.5,2.4,2025,Under 5%,faostat-cahd,1,2026-06,0 to 3%,faostat-cp,12.6,2023,usda-ers
+French Guiana,GUF,254,,,,,,,,,,,,faostat-fs,,,,,,,2.7,2026-06,0 to 3%,faostat-cp,,,
+Georgia,GEO,268,,2.5,2023-2025,4.8,,,Under 2.5%,22.8,5.1,4.7,2024,faostat-fs,,,,,,,5.6,2026-06,3 to 6%,faostat-cp,39,2023,usda-ers
+Germany,DEU,276,,2.5,2023-2025,,2.5,,Under 2.5%,4.1,1.1,2.2,2024,faostat-fs,4.35,5.3,4.5,2025,5 to 25%,faostat-cahd,0.6,2026-06,0 to 3%,faostat-cp,11.6,2023,usda-ers
+Greece,GRC,300,,2.5,2023-2025,,2.5,,Under 2.5%,7.1,1.6,2,2024,faostat-fs,4.65,22.7,2.3,2025,5 to 25%,faostat-cahd,2.7,2026-06,0 to 3%,faostat-cp,16.4,2023,usda-ers
+Greenland,GRL,304,,,,,,,,,,,,faostat-fs,,,,,,,4.4,2026-06,3 to 6%,faostat-cp,,,
+Grenada,GRD,308,,,,,,,,16.5,4.4,,,faostat-fs,6.01,22.9,0,2025,5 to 25%,faostat-cahd,1.6,2026-06,0 to 3%,faostat-cp,,,
+Guadeloupe,GLP,312,,,,,,,,,,,,faostat-fs,,,,,,,3.9,2026-06,3 to 6%,faostat-cp,,,
+Guam,GUM,316,,,,,,,,,,,,faostat-fs,,,,,,,1.3,2026-06,0 to 3%,faostat-cp,,,
+Guyana,GUY,328,,2.5,2023-2025,7.1,,,Under 2.5%,25.5,4.7,7.1,2024,faostat-fs,7.02,9.3,0.1,2025,5 to 25%,faostat-cahd,,,,,,,
+Hong Kong,HKG,344,,,,,,,,,,,,faostat-fs,4.65,,,2025,,faostat-cahd,-0.9,2026-06,Falling (below 0%),faostat-cp,11.5,2023,usda-ers
+Hungary,HUN,348,,2.5,2023-2025,2.5,,,Under 2.5%,16.9,4.9,,,faostat-fs,5.36,29.8,2.9,2025,25 to 50%,faostat-cahd,-2.4,2026-06,Falling (below 0%),faostat-cp,16.8,2023,usda-ers
+Iceland,ISL,352,,2.5,2023-2025,,2.5,,Under 2.5%,7.9,1.8,,,faostat-fs,3.64,1.8,0,2025,Under 5%,faostat-cahd,3.8,2026-06,3 to 6%,faostat-cp,,,
+Ireland,IRL,372,,2.5,2023-2025,,2.5,,Under 2.5%,6.2,3.1,2.2,2024,faostat-fs,3.14,0.9,0,2025,Under 5%,faostat-cahd,0.6,2026-06,0 to 3%,faostat-cp,8.6,2023,usda-ers
+Israel,ISR,376,,2.5,2023-2025,,2.5,,Under 2.5%,8.9,0.7,,,faostat-fs,3.65,22.5,2.1,2025,5 to 25%,faostat-cahd,1.4,2026-06,0 to 3%,faostat-cp,15.8,2023,usda-ers
+Italy,ITA,380,,2.5,2023-2025,,2.5,,Under 2.5%,1.7,,,,faostat-fs,4.55,8.4,4.9,2025,5 to 25%,faostat-cahd,2.4,2026-06,0 to 3%,faostat-cp,14.7,2023,usda-ers
+Japan,JPN,392,,2.5,2023-2025,,2.5,,Under 2.5%,6.1,1.4,5.2,2024,faostat-fs,8.27,13.2,16.2,2025,5 to 25%,faostat-cahd,3.2,2026-06,3 to 6%,faostat-cp,15.8,2023,usda-ers
+Kazakhstan,KAZ,398,,2.5,2023-2025,9.1,,,Under 2.5%,1.4,,4.4,2024,faostat-fs,3.07,3.4,0.7,2025,Under 5%,faostat-cahd,10.4,2026-06,6 to 15%,faostat-cp,50.4,2023,usda-ers
+Kuwait,KWT,414,,2.5,2023-2025,,2.5,,Under 2.5%,9.4,3.8,4.5,2024,faostat-fs,3.26,,,2025,,faostat-cahd,0,2026-06,0 to 3%,faostat-cp,19.2,2023,usda-ers
+Latvia,LVA,428,,2.5,2023-2025,,2.5,,Under 2.5%,11.7,1.8,1.7,2024,faostat-fs,5.16,16.9,0.3,2025,5 to 25%,faostat-cahd,-0.9,2026-06,Falling (below 0%),faostat-cp,19.6,2023,usda-ers
+Lesotho,LSO,426,,,,,,,,61.6,24.3,35,2024,faostat-fs,5.47,77.4,1.8,2025,75% or more,faostat-cahd,1.8,2026-06,0 to 3%,faostat-cp,,,
+Lithuania,LTU,440,,2.5,2023-2025,,2.5,,Under 2.5%,6.7,1.2,1.6,2024,faostat-fs,4.37,12.3,0.3,2025,5 to 25%,faostat-cahd,0.1,2026-06,0 to 3%,faostat-cp,19.4,2023,usda-ers
+Luxembourg,LUX,442,,2.5,2023-2025,,2.5,,Under 2.5%,2.6,0.6,,,faostat-fs,3.73,0.9,0,2025,Under 5%,faostat-cahd,1.3,2026-06,0 to 3%,faostat-cp,,,
+Macao,MAC,446,,,,,,,,,,,,faostat-fs,,,,,,,1.3,2026-06,0 to 3%,faostat-cp,,,
+Malaysia,MYS,458,,2.5,2023-2025,3.2,,,Under 2.5%,15.4,5.2,24.3,2024,faostat-fs,4.42,1.4,0.5,2025,Under 5%,faostat-cahd,1.4,2026-06,0 to 3%,faostat-cp,26.4,2023,usda-ers
+Maldives,MDV,462,,,,,,,,,,14.2,2024,faostat-fs,4.45,4.2,0,2025,Under 5%,faostat-cahd,7.3,2026-06,6 to 15%,faostat-cp,,,
+Malta,MLT,470,,2.5,2023-2025,,2.5,,Under 2.5%,9,2.1,3.5,2024,faostat-fs,5.37,4.5,0,2025,Under 5%,faostat-cahd,1.8,2026-06,0 to 3%,faostat-cp,,,
+Martinique,MTQ,474,,,,,,,,,,,,faostat-fs,,,,,,,1.4,2026-06,0 to 3%,faostat-cp,,,
+Micronesia (country),FSM,583,,,,,,,,,,,,faostat-fs,,,,,,,1.1,2026-06,0 to 3%,faostat-cp,,,
+Moldova,MDA,498,,2.5,2023-2025,29.5,,,Under 2.5%,26.4,6,4.2,2024,faostat-fs,3.81,11.4,0.3,2025,5 to 25%,faostat-cahd,5.9,2026-06,3 to 6%,faostat-cp,,,
+Mongolia,MNG,496,,2.5,2023-2025,28.4,,,Under 2.5%,4.7,0.6,7.1,2024,faostat-fs,7.28,29.8,1,2025,25 to 50%,faostat-cahd,24.8,2026-06,15% or more,faostat-cp,,,
+Montenegro,MNE,499,,2.5,2023-2025,4.1,,,Under 2.5%,9,1.4,8,2024,faostat-fs,5.08,7.5,0,2025,5 to 25%,faostat-cahd,2.1,2026-06,0 to 3%,faostat-cp,24.8,2022,usda-ers
+Montserrat,MSR,500,,,,,,,,,,,,faostat-fs,,,,,,,2.6,2026-06,0 to 3%,faostat-cp,,,
+Netherlands,NLD,528,,2.5,2023-2025,,2.5,,Under 2.5%,8.9,3.3,1.6,2024,faostat-fs,3.56,1.1,0.2,2025,Under 5%,faostat-cahd,-0.5,2026-06,Falling (below 0%),faostat-cp,11.7,2023,usda-ers
+New Zealand,NZL,554,,2.5,2023-2025,,2.5,,Under 2.5%,17.9,4.9,,,faostat-fs,3.71,,,2025,,faostat-cahd,1.1,2026-06,0 to 3%,faostat-cp,12.8,2023,usda-ers
+North Macedonia,MKD,807,,2.5,2023-2025,4.5,,,Under 2.5%,9.2,1.6,3.8,2024,faostat-fs,5.39,15.6,0.3,2025,5 to 25%,faostat-cahd,2.5,2026-06,0 to 3%,faostat-cp,30.6,2023,usda-ers
+Norway,NOR,578,,2.5,2023-2025,,2.5,,Under 2.5%,7.6,1.5,,,faostat-fs,4.91,1.2,0.1,2025,Under 5%,faostat-cahd,2.3,2026-06,0 to 3%,faostat-cp,11.7,2023,usda-ers
+Palau,PLW,585,,,,,,,,28.1,6.9,,,faostat-fs,,,,,,,2.2,2026-06,0 to 3%,faostat-cp,,,
+Palestine,PSE,275,,,,,,,,,,8,2024,faostat-fs,3.95,17.3,0.5,2025,5 to 25%,faostat-cahd,-67.1,2026-06,Falling (below 0%),faostat-cp,,,
+Poland,POL,616,,2.5,2023-2025,,2.5,,Under 2.5%,2.7,,1,2024,faostat-fs,4.55,7.3,2.8,2025,5 to 25%,faostat-cahd,-2,2026-06,Falling (below 0%),faostat-cp,18.6,2023,usda-ers
+Portugal,PRT,620,,2.5,2023-2025,,2.5,,Under 2.5%,11,2.3,3.2,2024,faostat-fs,4.3,14.4,1.5,2025,5 to 25%,faostat-cahd,3,2026-06,0 to 3%,faostat-cp,17.3,2023,usda-ers
+Puerto Rico,PRI,630,,,,,,,,,,,,faostat-fs,,,,,,,2.3,2026-06,0 to 3%,faostat-cp,,,
+Qatar,QAT,634,,,,,,,,,,5.4,2024,faostat-fs,2.73,1.9,0.7,2025,Under 5%,faostat-cahd,12.7,2026-06,6 to 15%,faostat-cp,14.6,2023,usda-ers
+Reunion,REU,638,,,,,,,,,,,,faostat-fs,,,,,,,-2.9,2026-04,Falling (below 0%),faostat-cp,,,
+Romania,ROU,642,,2.5,2023-2025,,2.5,,Under 2.5%,15.2,5.3,7,2024,faostat-fs,4.21,20.1,3.8,2025,5 to 25%,faostat-cahd,5.8,2026-06,3 to 6%,faostat-cp,25.1,2023,usda-ers
+Russia,RUS,643,,2.5,2023-2025,,2.5,,Under 2.5%,2.6,,,,faostat-fs,3.39,12.4,17.8,2025,5 to 25%,faostat-cahd,3.4,2026-06,3 to 6%,faostat-cp,25.3,2023,usda-ers
+Saint Kitts and Nevis,KNA,659,,,,,,,,,,,,faostat-fs,5.15,,,2025,,faostat-cahd,8.1,2026-06,6 to 15%,faostat-cp,,,
+Saint Lucia,LCA,662,,,,,,,,,,2.8,2024,faostat-fs,5.24,7.1,0,2025,5 to 25%,faostat-cahd,0.2,2026-06,0 to 3%,faostat-cp,,,
+San Marino,SMR,674,,,,,,,,,,,,faostat-fs,,,,,,,1.5,2026-06,0 to 3%,faostat-cp,,,
+Saudi Arabia,SAU,682,,2.5,2023-2025,4.2,,,Under 2.5%,,,11.1,2024,faostat-fs,3.07,,,2025,,faostat-cahd,1.4,2026-06,0 to 3%,faostat-cp,20.5,2023,usda-ers
+Serbia,SRB,688,,2.5,2023-2025,,2.5,,Under 2.5%,6.7,0.7,4.6,2024,faostat-fs,5.74,8.5,0.7,2025,5 to 25%,faostat-cahd,-3.7,2026-06,Falling (below 0%),faostat-cp,24.1,2023,usda-ers
+Seychelles,SYC,690,,2.5,2023-2025,2.8,,,Under 2.5%,,,6.2,2024,faostat-fs,4.4,43.3,0.1,2025,25 to 50%,faostat-cahd,0.1,2026-06,0 to 3%,faostat-cp,,,
+Singapore,SGP,702,,,,,,,,10.1,3.7,2.8,2024,faostat-fs,3.62,,,2025,,faostat-cahd,3.1,2026-06,3 to 6%,faostat-cp,7,2023,usda-ers
+Slovakia,SVK,703,,,,,,,,7.3,1.3,,,faostat-fs,4.57,27.2,1.5,2025,25 to 50%,faostat-cahd,-0.5,2026-06,Falling (below 0%),faostat-cp,19.4,2023,usda-ers
+Slovenia,SVN,705,,2.5,2023-2025,,2.5,,Under 2.5%,7.6,0.6,,,faostat-fs,4.26,2.3,0,2025,Under 5%,faostat-cahd,0.1,2026-06,0 to 3%,faostat-cp,13.9,2023,usda-ers
+South Korea,KOR,410,,2.5,2023-2025,,2.5,,Under 2.5%,5.8,1.3,1.8,2024,faostat-fs,7.37,5.3,2.8,2025,5 to 25%,faostat-cahd,2,2026-06,0 to 3%,faostat-cp,12.3,2023,usda-ers
+Spain,ESP,724,,2.5,2023-2025,,2.5,,Under 2.5%,7.4,1.9,,,faostat-fs,4.33,9.3,4.5,2025,5 to 25%,faostat-cahd,1.9,2026-06,0 to 3%,faostat-cp,12.9,2023,usda-ers
+Sudan,SDN,729,,,,,,,,,,35.4,2024,faostat-fs,,,,,,,21.5,2026-06,15% or more,faostat-cp,,,
+Sweden,SWE,752,,2.5,2023-2025,,2.5,,Under 2.5%,7.9,3.2,,,faostat-fs,4.35,4.9,0.5,2025,Under 5%,faostat-cahd,-7,2026-06,Falling (below 0%),faostat-cp,13,2023,usda-ers
+Switzerland,CHE,756,,2.5,2023-2025,,2.5,,Under 2.5%,2.6,1.5,,,faostat-fs,3.22,1.1,0.1,2025,Under 5%,faostat-cahd,-1.2,2026-06,Falling (below 0%),faostat-cp,9,2023,usda-ers
+Tonga,TON,776,,,,,,,,,,1.6,2024,faostat-fs,,,,,,,-0.8,2026-06,Falling (below 0%),faostat-cp,,,
+Turkey,TUR,792,,2.5,2023-2025,18.9,,,Under 2.5%,,,5.5,2024,faostat-fs,4.58,4,3.5,2025,Under 5%,faostat-cahd,35.5,2026-06,15% or more,faostat-cp,22.8,2023,usda-ers
+United Arab Emirates,ARE,784,,2.5,2023-2025,3.1,,,Under 2.5%,4.2,0.9,,,faostat-fs,3.27,1.9,0.2,2025,Under 5%,faostat-cahd,0,2026-06,0 to 3%,faostat-cp,12.2,2023,usda-ers
+United Kingdom,GBR,826,,2.5,2023-2025,,2.5,,Under 2.5%,7.4,4,3.5,2024,faostat-fs,2.75,2.9,2,2025,Under 5%,faostat-cahd,1.7,2026-06,0 to 3%,faostat-cp,8.7,2023,usda-ers
+United States,USA,840,,2.5,2023-2025,,2.5,,Under 2.5%,10.7,1.1,4.2,2024,faostat-fs,2.86,4.5,15.7,2025,Under 5%,faostat-cahd,2.7,2026-06,0 to 3%,faostat-cp,6.8,2023,usda-ers
+Uruguay,URY,858,,2.5,2023-2025,,2.5,,Under 2.5%,15.5,2.4,6.5,2024,faostat-fs,4.54,32,1.1,2025,25 to 50%,faostat-cahd,2.6,2026-06,0 to 3%,faostat-cp,18.7,2023,usda-ers
+Uzbekistan,UZB,860,,2.5,2023-2025,12.8,,,Under 2.5%,,,6.7,2024,faostat-fs,4.6,6.2,2.3,2025,5 to 25%,faostat-cahd,11.3,2026-06,6 to 15%,faostat-cp,46.3,2023,usda-ers

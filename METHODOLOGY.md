@@ -122,3 +122,63 @@ Deaths are IHME's Global Burden of Disease 2023 estimates of deaths from all cau
 - City monitors measure the air where they sit, so their readings can't be compared directly with national averages.
 
 Sources: [`data/air/sources.json`](data/air/sources.json) · Data: [`data/air/`](data/air/)
+
+## Food Prices & Hunger
+
+Undernourishment is FAO's estimate of the share of people whose usual food intake doesn't give them the dietary energy they need for a normal, active life. It is modelled from national food supply, household consumption surveys and each population's age and sex, not counted person by person. Country figures are three-year averages (2023–2025); world and regional figures are for 2025. FAO doesn't publish values under 2.5%. Food insecurity comes from FAO's Food Insecurity Experience Scale, an eight-question survey of adults. All hunger and diet figures come from FAOSTAT's July 2026 release, published with *The State of Food Security and Nutrition in the World 2026*, which revises earlier years.
+
+A healthy diet is the cheapest mix of locally available foods that meets national dietary guidelines, priced by FAO and the World Bank in 2021 international (PPP) dollars per person per day. People can't afford it when their income, after other basic needs, falls below that cost. Food inflation is the year-on-year change in each country's food consumer price index from FAOSTAT, latest month available; readings older than July 2025 are left out. World prices are the FAO Food Price Index (2014–2016 = 100), nominal monthly and real annual, and the World Bank's monthly Pink Sheet prices in nominal US dollars. Acute food insecurity and famine figures are quoted from the *Global Report on Food Crises 2026*. Food's share of household spending is the USDA Economic Research Service series for food eaten at home, via Our World in Data. UK figures are ONS consumer price series, the DWP Family Resources Survey and the Food Foundation's Food Insecurity Tracker.
+
+**What this doesn't show**
+
+- Undernourishment is modelled from food supply and consumption surveys, not counted person by person. Country figures are three-year averages, so a sudden crisis shows only gradually.
+- A healthy diet is priced at the cheapest foods that meet dietary guidelines. People rarely buy exactly that, so real food bills run higher.
+- Food inflation is each country's latest month, mostly June 2026. A few readings are extreme, such as Iran's +130% and Palestine's −67%; they are as published by FAOSTAT.
+- Acute food insecurity covers only the countries the Global Report on Food Crises analyses, so it can't be added to the undernourishment figures.
+
+Sources: [`data/food/sources.json`](data/food/sources.json) · Data: [`data/food/`](data/food/)
+
+## Debt vs Public Services
+
+Debt is general government gross debt, as a share of GDP, from the IMF's *Fiscal Monitor* (October 2026). General government covers central, state and local government and social security funds. Net interest is interest paid minus interest received, worked out as the IMF's primary balance minus its overall balance. The share of revenue divides net interest by all general government revenue, including grants. For 2025 many values are IMF estimates; 2026 to 2031 are projections and are drawn dashed. The world debt series is the IMF *World Economic Outlook* aggregate.
+
+Government health spending is domestic general government health expenditure from the WHO Global Health Expenditure Database, via the World Bank, which leaves out foreign aid and private spending; the latest year is mostly 2023. Education is government education spending from the UNESCO Institute for Statistics, via the World Bank, latest year since 2019. A country counts as paying more in interest than on health or education when its 2025 net interest, as a share of GDP, is larger than either. Population totals are the World Bank's. UNCTAD's *A World of Debt 2026* runs a similar test for developing countries only and finds 51 countries and 3.7 billion people; our count includes every country with data. External debt figures are quoted from the World Bank's *International Debt Report 2025*. UK figures are from the ONS public sector finances: central government net interest payable (NMFX), summed over each April-to-March financial year, against public sector current receipts (JW2O), and public sector net debt excluding public sector banks (HF6X).
+
+**What this doesn't show**
+
+- Interest is net of interest received, and for 2025 many values are IMF estimates rather than final accounts.
+- Health and education spending are each country's latest year, mostly 2023, set against 2025 interest. Health counts government money only, not aid or private spending.
+- General government covers central, state and local government; debts of state-owned companies are left out.
+- UK interest is central government only, against receipts for the whole public sector.
+
+Sources: [`data/debt/sources.json`](data/debt/sources.json) · Data: [`data/debt/`](data/debt/)
+
+## Extreme Heat
+
+Global temperature since 1850 is HadCRUT5 (version 5.2.0.0) from the Met Office Hadley Centre and the University of East Anglia. It is published against 1961–1990; we subtract its 1850–1900 average so that 0 stands for pre-industrial, which is our own rebasing and can differ by a few hundredths from figures in other datasets. Daily global temperature is Copernicus's ERA5 reanalysis from Climate Pulse, against the 1991–2020 average for the same day; the last few days are preliminary, and the chart shows monthly averages of the daily figures. Figures above pre-industrial for single months, the last twelve months and 2025 are quoted from Copernicus, ECMWF and the WMO.
+
+Country warming is each country's 2025 average land temperature against its own 1991–2020 average, from ERA5 as processed by Our World in Data. Days above 35°C are the World Bank Climate Change Knowledge Portal's ERA5 counts, averaged over each country's area; the change compares 2025 with the 1991–2020 average. Modelled days are the CMIP6 multi-model median for 2040–2059 under SSP2-4.5 against the same models for 1995–2014. Heat deaths, injuries and lost work hours are estimates quoted from the Lancet Countdown 2025, the ILO, ISGlobal's Nature Medicine study and UKHSA. UK summers are the Met Office HadUK-Grid average of daily mean temperature for June to August; 2026 is provisional.
+
+**What this doesn't show**
+
+- Country warming is measured against each country's own 1991–2020 average, not pre-industrial times, so it understates the total warming since the 1800s.
+- Days above 35°C are averaged over each country's whole area, so large countries with cool regions score lower than their hottest cities.
+- Air temperature alone misses humidity, which makes heat far more dangerous to the body.
+- Heat deaths are statistical estimates; heat is seldom recorded as a cause of death.
+
+Sources: [`data/heat/sources.json`](data/heat/sources.json) · Data: [`data/heat/`](data/heat/)
+
+## Critical Minerals
+
+Mine production by country, reserves and annual prices come from the US Geological Survey's *Mineral Commodity Summaries 2026* (version 1.3, 27 May 2026). The country tables were read from the USGS chapter PDFs. Shares divide each country's 2025 estimate by USGS's rounded world total, so they can differ by a point or two from shares USGS states in its text (73% for DR Congo's cobalt, 82% for China's graphite). US lithium output is withheld, so lithium shares are of the world excluding the US; gallium is primary low-purity production; platinum is platinum alone, not all platinum-group metals. Germanium has no country table.
+
+Refining shares are from the International Energy Agency's *Global Critical Minerals Outlook 2026* for seven minerals in 2025, and from its 2025 edition for twenty minerals in the latest year available for each. They are a work derived by Economy Monitor from IEA material (CC BY 4.0) and are not endorsed by the IEA. Monthly copper, nickel, aluminium and tin prices are the World Bank's Pink Sheet London Metal Exchange series in nominal US dollars. Export controls are taken from the announcements of China's Ministry of Commerce, USGS and the IEA's policy database, with their status checked on 6 November 2026. Export restriction counts are from the OECD's *Inventory of Export Restrictions on Critical Raw Materials 2026*. The child labour estimate is UNICEF's from 2014, as cited by Amnesty International.
+
+**What this doesn't show**
+
+- Mining shares are calculated from USGS's rounded world totals, so they can differ by a point or two from shares USGS quotes in its text.
+- Refining shares cover seven minerals for 2025; the twenty-mineral comparison uses the latest year available for each, which varies.
+- Export controls change quickly. Their status here is as of 6 November 2026, and two Chinese suspensions end later that month.
+- The child labour estimate dates from 2014 and covers all mines in southern DR Congo, not cobalt alone.
+
+Sources: [`data/minerals/sources.json`](data/minerals/sources.json) · Data: [`data/minerals/`](data/minerals/)

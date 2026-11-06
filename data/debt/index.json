@@ -1,0 +1,42 @@
+{
+  "variant": "debt",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Debt, interest, health and education by country",
+      "description": "General government debt, revenue and net interest in 2025 (IMF Fiscal Monitor, October 2026), with government health spending (WHO) and education spending (UNESCO), latest year, all as % of GDP.",
+      "rows": 187
+    },
+    {
+      "id": "groups",
+      "title": "Debt and interest by country group, 2001 to 2031",
+      "description": "World debt (IMF World Economic Outlook) and debt, net interest and interest as a share of revenue for advanced, emerging and low-income economies (IMF Fiscal Monitor). 2026 onward are IMF projections.",
+      "rows": 31
+    },
+    {
+      "id": "uk_interest",
+      "title": "UK debt interest by financial year",
+      "description": "Central government net interest payable and public sector current receipts, £ billion, 1997/98 to 2026/27 (ONS). 2026/27 is April to September.",
+      "rows": 30
+    },
+    {
+      "id": "uk_debt",
+      "title": "UK public sector net debt, monthly",
+      "description": "Public sector net debt excluding public sector banks, % of GDP, March 1993 to September 2026 (ONS).",
+      "rows": 403
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from UNCTAD's A World of Debt 2026, the World Bank's International Debt Report 2025 and the ONS.",
+      "rows": 12
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Economy Monitor
 
-Eight open-data dashboards on the systems behind everyday life. Every number links to the report it came from, and all the data is free to download.
+Twelve open-data dashboards on the systems behind everyday life. Every number links to the report it came from, and all the data is free to download.
 
 | Dashboard | What it shows |
 |---|---|
@@ -12,6 +12,10 @@ Eight open-data dashboards on the systems behind everyday life. Every number lin
 | [The Scam Economy](scams/) | Money lost to scams, as reported to national agencies and estimated by surveys |
 | [Where the Internet Lives](internet/) | Submarine cables, cloud regions, AI compute, and the power and water data centres use |
 | [Who Owns Orbit](orbit/) | Who launches objects into space, and what is up there now |
+| [Food Prices & Hunger](food/) | Who goes hungry, who can afford a healthy diet, and how fast food prices are rising, country by country |
+| [Debt vs Public Services](debt/) | What governments pay in interest on their debts, against what they spend on health and education |
+| [Extreme Heat](heat/) | How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work |
+| [Critical Minerals](minerals/) | Where the minerals in batteries, phones and power grids are mined and refined, and who controls them |
 
 ## Running it locally
 
@@ -25,7 +29,7 @@ Then open http://localhost:8765/. Opening the HTML files directly from disk won'
 
 ## The data
 
-Each dashboard's tables are in `data/<dashboard>/` as CSV and JSON, with a `sources.json` listing every publisher, and a data page that links to them. [METHODOLOGY.md](METHODOLOGY.md) explains how each dashboard's figures are made and what they leave out.
+Each dashboard's tables are in `data/<dashboard>/` as CSV and JSON, with a `sources.json` listing every publisher, and a data page that links to them. [METHODOLOGY.md](METHODOLOGY.md) explains how each dashboard's figures are made and what they leave out. The Food, Debt, Heat and Minerals tables can be rebuilt from fresh downloads with the scripts in [scripts/build/](scripts/build/README.md).
 
 ## Licences
 

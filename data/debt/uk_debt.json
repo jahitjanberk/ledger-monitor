@@ -1,0 +1,2022 @@
+{
+  "id": "uk_debt",
+  "title": "UK public sector net debt, monthly",
+  "description": "Public sector net debt excluding public sector banks, % of GDP, March 1993 to September 2026 (ONS).",
+  "records": [
+    {
+      "month": "1993-03",
+      "net_debt_pct_gdp": 26.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-04",
+      "net_debt_pct_gdp": 27.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-05",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-06",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-07",
+      "net_debt_pct_gdp": 28.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-08",
+      "net_debt_pct_gdp": 28.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-09",
+      "net_debt_pct_gdp": 29.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-10",
+      "net_debt_pct_gdp": 29.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-11",
+      "net_debt_pct_gdp": 29.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1993-12",
+      "net_debt_pct_gdp": 29.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-01",
+      "net_debt_pct_gdp": 29.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-02",
+      "net_debt_pct_gdp": 29.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-03",
+      "net_debt_pct_gdp": 31.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-04",
+      "net_debt_pct_gdp": 31.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-05",
+      "net_debt_pct_gdp": 32.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-06",
+      "net_debt_pct_gdp": 32.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-07",
+      "net_debt_pct_gdp": 32.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-08",
+      "net_debt_pct_gdp": 32.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-09",
+      "net_debt_pct_gdp": 33.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-10",
+      "net_debt_pct_gdp": 33.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-11",
+      "net_debt_pct_gdp": 33.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1994-12",
+      "net_debt_pct_gdp": 33.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-01",
+      "net_debt_pct_gdp": 33.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-02",
+      "net_debt_pct_gdp": 33.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-03",
+      "net_debt_pct_gdp": 34.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-04",
+      "net_debt_pct_gdp": 34.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-05",
+      "net_debt_pct_gdp": 35.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-06",
+      "net_debt_pct_gdp": 35.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-07",
+      "net_debt_pct_gdp": 35.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-08",
+      "net_debt_pct_gdp": 35.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-09",
+      "net_debt_pct_gdp": 36,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-10",
+      "net_debt_pct_gdp": 35.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-11",
+      "net_debt_pct_gdp": 35.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1995-12",
+      "net_debt_pct_gdp": 35.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-01",
+      "net_debt_pct_gdp": 34.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-02",
+      "net_debt_pct_gdp": 35.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-03",
+      "net_debt_pct_gdp": 36.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-04",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-05",
+      "net_debt_pct_gdp": 36.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-06",
+      "net_debt_pct_gdp": 36.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-07",
+      "net_debt_pct_gdp": 36.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-08",
+      "net_debt_pct_gdp": 36.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-09",
+      "net_debt_pct_gdp": 36.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-10",
+      "net_debt_pct_gdp": 36.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-11",
+      "net_debt_pct_gdp": 36.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1996-12",
+      "net_debt_pct_gdp": 36.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-01",
+      "net_debt_pct_gdp": 35.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-02",
+      "net_debt_pct_gdp": 35.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-03",
+      "net_debt_pct_gdp": 36.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-04",
+      "net_debt_pct_gdp": 37.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-05",
+      "net_debt_pct_gdp": 37.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-06",
+      "net_debt_pct_gdp": 38.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-07",
+      "net_debt_pct_gdp": 37.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-08",
+      "net_debt_pct_gdp": 37.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-09",
+      "net_debt_pct_gdp": 37.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-10",
+      "net_debt_pct_gdp": 37.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-11",
+      "net_debt_pct_gdp": 37.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1997-12",
+      "net_debt_pct_gdp": 37.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-01",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-02",
+      "net_debt_pct_gdp": 36,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-03",
+      "net_debt_pct_gdp": 36.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-04",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-05",
+      "net_debt_pct_gdp": 36.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-06",
+      "net_debt_pct_gdp": 36.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-07",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-08",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-09",
+      "net_debt_pct_gdp": 36.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-10",
+      "net_debt_pct_gdp": 35.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-11",
+      "net_debt_pct_gdp": 35.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1998-12",
+      "net_debt_pct_gdp": 35.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-01",
+      "net_debt_pct_gdp": 34.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-02",
+      "net_debt_pct_gdp": 34.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-03",
+      "net_debt_pct_gdp": 35.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-04",
+      "net_debt_pct_gdp": 34.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-05",
+      "net_debt_pct_gdp": 34.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-06",
+      "net_debt_pct_gdp": 35.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-07",
+      "net_debt_pct_gdp": 34.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-08",
+      "net_debt_pct_gdp": 34.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-09",
+      "net_debt_pct_gdp": 34.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-10",
+      "net_debt_pct_gdp": 33.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-11",
+      "net_debt_pct_gdp": 33.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "1999-12",
+      "net_debt_pct_gdp": 34.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-01",
+      "net_debt_pct_gdp": 32.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-02",
+      "net_debt_pct_gdp": 32,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-03",
+      "net_debt_pct_gdp": 32.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-04",
+      "net_debt_pct_gdp": 31.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-05",
+      "net_debt_pct_gdp": 30.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-06",
+      "net_debt_pct_gdp": 31.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-07",
+      "net_debt_pct_gdp": 30.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-08",
+      "net_debt_pct_gdp": 30.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-09",
+      "net_debt_pct_gdp": 29.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-10",
+      "net_debt_pct_gdp": 28.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-11",
+      "net_debt_pct_gdp": 28.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2000-12",
+      "net_debt_pct_gdp": 29.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-01",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-02",
+      "net_debt_pct_gdp": 27.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-03",
+      "net_debt_pct_gdp": 28.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-04",
+      "net_debt_pct_gdp": 27.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-05",
+      "net_debt_pct_gdp": 28.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-06",
+      "net_debt_pct_gdp": 28.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-07",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-08",
+      "net_debt_pct_gdp": 28,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-09",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-10",
+      "net_debt_pct_gdp": 27.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-11",
+      "net_debt_pct_gdp": 28,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2001-12",
+      "net_debt_pct_gdp": 28.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-01",
+      "net_debt_pct_gdp": 27.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-02",
+      "net_debt_pct_gdp": 27.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-03",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-04",
+      "net_debt_pct_gdp": 27.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-05",
+      "net_debt_pct_gdp": 28,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-06",
+      "net_debt_pct_gdp": 28.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-07",
+      "net_debt_pct_gdp": 27.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-08",
+      "net_debt_pct_gdp": 28.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-09",
+      "net_debt_pct_gdp": 28.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-10",
+      "net_debt_pct_gdp": 28.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-11",
+      "net_debt_pct_gdp": 29.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2002-12",
+      "net_debt_pct_gdp": 30.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-01",
+      "net_debt_pct_gdp": 29.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-02",
+      "net_debt_pct_gdp": 29,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-03",
+      "net_debt_pct_gdp": 29.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-04",
+      "net_debt_pct_gdp": 29.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-05",
+      "net_debt_pct_gdp": 29.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-06",
+      "net_debt_pct_gdp": 29.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-07",
+      "net_debt_pct_gdp": 29.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-08",
+      "net_debt_pct_gdp": 29.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-09",
+      "net_debt_pct_gdp": 30.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-10",
+      "net_debt_pct_gdp": 30,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-11",
+      "net_debt_pct_gdp": 30.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2003-12",
+      "net_debt_pct_gdp": 31.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-01",
+      "net_debt_pct_gdp": 30.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-02",
+      "net_debt_pct_gdp": 30,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-03",
+      "net_debt_pct_gdp": 31,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-04",
+      "net_debt_pct_gdp": 31.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-05",
+      "net_debt_pct_gdp": 31.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-06",
+      "net_debt_pct_gdp": 32.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-07",
+      "net_debt_pct_gdp": 31.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-08",
+      "net_debt_pct_gdp": 32,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-09",
+      "net_debt_pct_gdp": 32.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-10",
+      "net_debt_pct_gdp": 32.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-11",
+      "net_debt_pct_gdp": 33.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2004-12",
+      "net_debt_pct_gdp": 34.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-01",
+      "net_debt_pct_gdp": 32.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-02",
+      "net_debt_pct_gdp": 32.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-03",
+      "net_debt_pct_gdp": 33.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-04",
+      "net_debt_pct_gdp": 33.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-05",
+      "net_debt_pct_gdp": 33.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-06",
+      "net_debt_pct_gdp": 33.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-07",
+      "net_debt_pct_gdp": 33.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-08",
+      "net_debt_pct_gdp": 33.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-09",
+      "net_debt_pct_gdp": 34.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-10",
+      "net_debt_pct_gdp": 33.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-11",
+      "net_debt_pct_gdp": 34.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2005-12",
+      "net_debt_pct_gdp": 35.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-01",
+      "net_debt_pct_gdp": 33.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-02",
+      "net_debt_pct_gdp": 33.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-03",
+      "net_debt_pct_gdp": 34.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-04",
+      "net_debt_pct_gdp": 34.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-05",
+      "net_debt_pct_gdp": 34.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-06",
+      "net_debt_pct_gdp": 35.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-07",
+      "net_debt_pct_gdp": 34.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-08",
+      "net_debt_pct_gdp": 34.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-09",
+      "net_debt_pct_gdp": 35.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-10",
+      "net_debt_pct_gdp": 34.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-11",
+      "net_debt_pct_gdp": 35.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2006-12",
+      "net_debt_pct_gdp": 35.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-01",
+      "net_debt_pct_gdp": 34.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-02",
+      "net_debt_pct_gdp": 34.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-03",
+      "net_debt_pct_gdp": 35.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-04",
+      "net_debt_pct_gdp": 34.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-05",
+      "net_debt_pct_gdp": 35.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-06",
+      "net_debt_pct_gdp": 35.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-07",
+      "net_debt_pct_gdp": 34.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-08",
+      "net_debt_pct_gdp": 34.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-09",
+      "net_debt_pct_gdp": 35.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-10",
+      "net_debt_pct_gdp": 34.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-11",
+      "net_debt_pct_gdp": 35.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2007-12",
+      "net_debt_pct_gdp": 36.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-01",
+      "net_debt_pct_gdp": 34.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-02",
+      "net_debt_pct_gdp": 35,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-03",
+      "net_debt_pct_gdp": 35.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-04",
+      "net_debt_pct_gdp": 35.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-05",
+      "net_debt_pct_gdp": 36.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-06",
+      "net_debt_pct_gdp": 37.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-07",
+      "net_debt_pct_gdp": 37.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-08",
+      "net_debt_pct_gdp": 39.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-09",
+      "net_debt_pct_gdp": 42.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-10",
+      "net_debt_pct_gdp": 43.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-11",
+      "net_debt_pct_gdp": 44.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2008-12",
+      "net_debt_pct_gdp": 47.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-01",
+      "net_debt_pct_gdp": 47.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-02",
+      "net_debt_pct_gdp": 48.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-03",
+      "net_debt_pct_gdp": 50.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-04",
+      "net_debt_pct_gdp": 51.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-05",
+      "net_debt_pct_gdp": 52.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-06",
+      "net_debt_pct_gdp": 54.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-07",
+      "net_debt_pct_gdp": 54.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-08",
+      "net_debt_pct_gdp": 54.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-09",
+      "net_debt_pct_gdp": 56.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-10",
+      "net_debt_pct_gdp": 56.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-11",
+      "net_debt_pct_gdp": 57.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2009-12",
+      "net_debt_pct_gdp": 60.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-01",
+      "net_debt_pct_gdp": 62.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-02",
+      "net_debt_pct_gdp": 63,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-03",
+      "net_debt_pct_gdp": 64.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-04",
+      "net_debt_pct_gdp": 64.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-05",
+      "net_debt_pct_gdp": 65.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-06",
+      "net_debt_pct_gdp": 66.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-07",
+      "net_debt_pct_gdp": 66.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-08",
+      "net_debt_pct_gdp": 66.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-09",
+      "net_debt_pct_gdp": 67.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-10",
+      "net_debt_pct_gdp": 67.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-11",
+      "net_debt_pct_gdp": 68.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2010-12",
+      "net_debt_pct_gdp": 70,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-01",
+      "net_debt_pct_gdp": 69.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-02",
+      "net_debt_pct_gdp": 69.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-03",
+      "net_debt_pct_gdp": 70.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-04",
+      "net_debt_pct_gdp": 70.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-05",
+      "net_debt_pct_gdp": 71,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-06",
+      "net_debt_pct_gdp": 72,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-07",
+      "net_debt_pct_gdp": 71.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-08",
+      "net_debt_pct_gdp": 72.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-09",
+      "net_debt_pct_gdp": 72.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-10",
+      "net_debt_pct_gdp": 72.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-11",
+      "net_debt_pct_gdp": 72.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2011-12",
+      "net_debt_pct_gdp": 73.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-01",
+      "net_debt_pct_gdp": 72.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-02",
+      "net_debt_pct_gdp": 72.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-03",
+      "net_debt_pct_gdp": 73.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-04",
+      "net_debt_pct_gdp": 73.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-05",
+      "net_debt_pct_gdp": 74,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-06",
+      "net_debt_pct_gdp": 74.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-07",
+      "net_debt_pct_gdp": 74.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-08",
+      "net_debt_pct_gdp": 74.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-09",
+      "net_debt_pct_gdp": 75.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-10",
+      "net_debt_pct_gdp": 75.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-11",
+      "net_debt_pct_gdp": 76.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2012-12",
+      "net_debt_pct_gdp": 77.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-01",
+      "net_debt_pct_gdp": 75.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-02",
+      "net_debt_pct_gdp": 75.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-03",
+      "net_debt_pct_gdp": 77,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-04",
+      "net_debt_pct_gdp": 76.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-05",
+      "net_debt_pct_gdp": 77.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-06",
+      "net_debt_pct_gdp": 78,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-07",
+      "net_debt_pct_gdp": 77.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-08",
+      "net_debt_pct_gdp": 77.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-09",
+      "net_debt_pct_gdp": 77.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-10",
+      "net_debt_pct_gdp": 77.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-11",
+      "net_debt_pct_gdp": 78.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2013-12",
+      "net_debt_pct_gdp": 79,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-01",
+      "net_debt_pct_gdp": 78.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-02",
+      "net_debt_pct_gdp": 78.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-03",
+      "net_debt_pct_gdp": 78.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-04",
+      "net_debt_pct_gdp": 78.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-05",
+      "net_debt_pct_gdp": 79.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-06",
+      "net_debt_pct_gdp": 79.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-07",
+      "net_debt_pct_gdp": 79.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-08",
+      "net_debt_pct_gdp": 79.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-09",
+      "net_debt_pct_gdp": 80.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-10",
+      "net_debt_pct_gdp": 80.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-11",
+      "net_debt_pct_gdp": 80.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2014-12",
+      "net_debt_pct_gdp": 81.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-01",
+      "net_debt_pct_gdp": 80.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-02",
+      "net_debt_pct_gdp": 80.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-03",
+      "net_debt_pct_gdp": 81.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-04",
+      "net_debt_pct_gdp": 80.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-05",
+      "net_debt_pct_gdp": 81.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-06",
+      "net_debt_pct_gdp": 81.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-07",
+      "net_debt_pct_gdp": 81.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-08",
+      "net_debt_pct_gdp": 81,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-09",
+      "net_debt_pct_gdp": 81.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-10",
+      "net_debt_pct_gdp": 81.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-11",
+      "net_debt_pct_gdp": 81.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2015-12",
+      "net_debt_pct_gdp": 81.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-01",
+      "net_debt_pct_gdp": 80.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-02",
+      "net_debt_pct_gdp": 80.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-03",
+      "net_debt_pct_gdp": 80.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-04",
+      "net_debt_pct_gdp": 80.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-05",
+      "net_debt_pct_gdp": 80.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-06",
+      "net_debt_pct_gdp": 80.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-07",
+      "net_debt_pct_gdp": 80,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-08",
+      "net_debt_pct_gdp": 80.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-09",
+      "net_debt_pct_gdp": 80.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-10",
+      "net_debt_pct_gdp": 80.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-11",
+      "net_debt_pct_gdp": 81.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2016-12",
+      "net_debt_pct_gdp": 82.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-01",
+      "net_debt_pct_gdp": 80.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-02",
+      "net_debt_pct_gdp": 81.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-03",
+      "net_debt_pct_gdp": 82.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-04",
+      "net_debt_pct_gdp": 82.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-05",
+      "net_debt_pct_gdp": 82.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-06",
+      "net_debt_pct_gdp": 83.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-07",
+      "net_debt_pct_gdp": 83,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-08",
+      "net_debt_pct_gdp": 82.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-09",
+      "net_debt_pct_gdp": 83.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-10",
+      "net_debt_pct_gdp": 82.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-11",
+      "net_debt_pct_gdp": 82,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2017-12",
+      "net_debt_pct_gdp": 81.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-01",
+      "net_debt_pct_gdp": 80.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-02",
+      "net_debt_pct_gdp": 81.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-03",
+      "net_debt_pct_gdp": 81.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-04",
+      "net_debt_pct_gdp": 81.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-05",
+      "net_debt_pct_gdp": 81.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-06",
+      "net_debt_pct_gdp": 81.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-07",
+      "net_debt_pct_gdp": 80.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-08",
+      "net_debt_pct_gdp": 80.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-09",
+      "net_debt_pct_gdp": 80.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-10",
+      "net_debt_pct_gdp": 80.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-11",
+      "net_debt_pct_gdp": 80.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2018-12",
+      "net_debt_pct_gdp": 81.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-01",
+      "net_debt_pct_gdp": 79.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-02",
+      "net_debt_pct_gdp": 79.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-03",
+      "net_debt_pct_gdp": 79.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-04",
+      "net_debt_pct_gdp": 79.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-05",
+      "net_debt_pct_gdp": 79.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-06",
+      "net_debt_pct_gdp": 80,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-07",
+      "net_debt_pct_gdp": 79.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-08",
+      "net_debt_pct_gdp": 79,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-09",
+      "net_debt_pct_gdp": 79.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-10",
+      "net_debt_pct_gdp": 81.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-11",
+      "net_debt_pct_gdp": 82.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2019-12",
+      "net_debt_pct_gdp": 83.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-01",
+      "net_debt_pct_gdp": 83.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-02",
+      "net_debt_pct_gdp": 83.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-03",
+      "net_debt_pct_gdp": 84.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-04",
+      "net_debt_pct_gdp": 89.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-05",
+      "net_debt_pct_gdp": 92.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-06",
+      "net_debt_pct_gdp": 95,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-07",
+      "net_debt_pct_gdp": 95.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-08",
+      "net_debt_pct_gdp": 97.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-09",
+      "net_debt_pct_gdp": 97.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-10",
+      "net_debt_pct_gdp": 97.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-11",
+      "net_debt_pct_gdp": 97.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2020-12",
+      "net_debt_pct_gdp": 97.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-01",
+      "net_debt_pct_gdp": 95.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-02",
+      "net_debt_pct_gdp": 96,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-03",
+      "net_debt_pct_gdp": 95.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-04",
+      "net_debt_pct_gdp": 95.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-05",
+      "net_debt_pct_gdp": 96.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-06",
+      "net_debt_pct_gdp": 95.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-07",
+      "net_debt_pct_gdp": 95,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-08",
+      "net_debt_pct_gdp": 93.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-09",
+      "net_debt_pct_gdp": 92.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-10",
+      "net_debt_pct_gdp": 95.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-11",
+      "net_debt_pct_gdp": 96,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2021-12",
+      "net_debt_pct_gdp": 95.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-01",
+      "net_debt_pct_gdp": 94.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-02",
+      "net_debt_pct_gdp": 93.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-03",
+      "net_debt_pct_gdp": 93.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-04",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-05",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-06",
+      "net_debt_pct_gdp": 93.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-07",
+      "net_debt_pct_gdp": 92.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-08",
+      "net_debt_pct_gdp": 92.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-09",
+      "net_debt_pct_gdp": 92.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-10",
+      "net_debt_pct_gdp": 92.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-11",
+      "net_debt_pct_gdp": 92.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2022-12",
+      "net_debt_pct_gdp": 92.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-01",
+      "net_debt_pct_gdp": 91.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-02",
+      "net_debt_pct_gdp": 92.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-03",
+      "net_debt_pct_gdp": 92.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-04",
+      "net_debt_pct_gdp": 92.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-05",
+      "net_debt_pct_gdp": 93.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-06",
+      "net_debt_pct_gdp": 94.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-07",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-08",
+      "net_debt_pct_gdp": 93.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-09",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-10",
+      "net_debt_pct_gdp": 94.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-11",
+      "net_debt_pct_gdp": 95,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2023-12",
+      "net_debt_pct_gdp": 95.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-01",
+      "net_debt_pct_gdp": 93.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-02",
+      "net_debt_pct_gdp": 93.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-03",
+      "net_debt_pct_gdp": 93.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-04",
+      "net_debt_pct_gdp": 92.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-05",
+      "net_debt_pct_gdp": 94,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-06",
+      "net_debt_pct_gdp": 94,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-07",
+      "net_debt_pct_gdp": 93.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-08",
+      "net_debt_pct_gdp": 93.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-09",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-10",
+      "net_debt_pct_gdp": 93.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-11",
+      "net_debt_pct_gdp": 94.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2024-12",
+      "net_debt_pct_gdp": 94.1,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-01",
+      "net_debt_pct_gdp": 92.4,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-02",
+      "net_debt_pct_gdp": 92.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-03",
+      "net_debt_pct_gdp": 92.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-04",
+      "net_debt_pct_gdp": 93.3,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-05",
+      "net_debt_pct_gdp": 94.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-06",
+      "net_debt_pct_gdp": 94.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-07",
+      "net_debt_pct_gdp": 94.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-08",
+      "net_debt_pct_gdp": 94.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-09",
+      "net_debt_pct_gdp": 94.7,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-10",
+      "net_debt_pct_gdp": 93.9,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-11",
+      "net_debt_pct_gdp": 94.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2025-12",
+      "net_debt_pct_gdp": 94.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-01",
+      "net_debt_pct_gdp": 92.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-02",
+      "net_debt_pct_gdp": 92.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-03",
+      "net_debt_pct_gdp": 93.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-04",
+      "net_debt_pct_gdp": 93.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-05",
+      "net_debt_pct_gdp": 94.2,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-06",
+      "net_debt_pct_gdp": 94.5,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-07",
+      "net_debt_pct_gdp": 93.8,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-08",
+      "net_debt_pct_gdp": 93.6,
+      "source": "ons-psf"
+    },
+    {
+      "month": "2026-09",
+      "net_debt_pct_gdp": 94,
+      "source": "ons-psf"
+    }
+  ]
+}

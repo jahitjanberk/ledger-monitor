@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Extreme Heat · Economy Monitor</title>
+    <meta name="description" content="How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work, from Copernicus, the Met Office, the World Bank and the WHO." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Economy Monitor" />
+    <meta property="og:title" content="Extreme Heat" />
+    <meta property="og:description" content="How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work, from Copernicus, the Met Office, the World Bank and the WHO." />
+    <meta property="og:image" content="../assets/og/heat.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!--seo-->
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Extreme Heat","description":"How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work, from Copernicus, the Met Office, the World Bank and the WHO. 7 tables: Heat by country; Global temperature since 1850; Global temperature by year, ERA5; Daily global temperature since 2023; UK summer temperature since 1884; Map classes; Headline findings.","url":"./","license":"https://creativecommons.org/licenses/by/4.0/","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"Economy Monitor","url":"../"},"dateModified":"2026-11-06","isBasedOn":["https://pulse.climate.copernicus.eu/","https://www.metoffice.gov.uk/hadobs/hadcrut5/","https://climate.copernicus.eu/surface-air-temperature-october-2026","https://climate.copernicus.eu/surface-air-temperature-august-2026","https://www.ecmwf.int/node/31031","https://wmo.int/news/media-centre/wmo-confirms-2025-was-one-of-warmest-years-record","https://ourworldindata.org/grapher/annual-temperature-anomalies","https://climateknowledgeportal.worldbank.org/","https://climateknowledgeportal.worldbank.org/","https://www.who.int/news/item/29-10-2025-climate-inaction-is-claiming-millions-of-lives-every-year--warns-new-lancet-countdown-report","https://www.ilo.org/resource/news/climate-change-creates-%E2%80%98cocktail%E2%80%99-serious-health-hazards-70-cent-world%E2%80%99s","https://www.who.int/news/item/22-08-2025-who-wmo-issue-new-report-and-guidance-to-protect-workers-from-increasing-heat-stress","https://www.isglobal.org/en/-/62.700-muertes-asociadas-con-el-calor-del-verano-de-2024","https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series","https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/summer-2026-provisionally-hottest-on-record-for-the-uk","https://www.metoffice.gov.uk/blog/2026/how-exceptional-were-uk-summer-2026-daily-temperatures","https://www.gov.uk/government/statistics/heat-mortality-monitoring-report-england-2025/heat-mortality-monitoring-report-england-2025","https://www.gov.uk/government/news/ukhsa-report-shows-2877-excess-deaths-caused-by-may-and-june-heatwaves","https://www.naturalearthdata.com/"],"distribution":[{"@type":"DataDownload","name":"Heat by country","encodingFormat":"text/csv","contentUrl":"../data/heat/countries.csv"},{"@type":"DataDownload","name":"Global temperature since 1850","encodingFormat":"text/csv","contentUrl":"../data/heat/global.csv"},{"@type":"DataDownload","name":"Global temperature by year, ERA5","encodingFormat":"text/csv","contentUrl":"../data/heat/era5_years.csv"},{"@type":"DataDownload","name":"Daily global temperature since 2023","encodingFormat":"text/csv","contentUrl":"../data/heat/daily.csv"},{"@type":"DataDownload","name":"UK summer temperature since 1884","encodingFormat":"text/csv","contentUrl":"../data/heat/uk_summers.csv"},{"@type":"DataDownload","name":"Map classes","encodingFormat":"text/csv","contentUrl":"../data/heat/bands.csv"},{"@type":"DataDownload","name":"Headline findings","encodingFormat":"text/csv","contentUrl":"../data/heat/facts.csv"}]}</script>
+    <!--/seo-->
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23B42318'/%3E%3Cpath d='M16 7v18M7 16h18' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E" />
+    <link rel="preload" href="../assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="../assets/fonts/jetbrains-mono-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="../assets/fonts.css">
+    <link rel="stylesheet" href="../assets/charts-B-YMMjus.css">
+    <link rel="stylesheet" href="../assets/index-CzSELinI.css">
+    <link rel="stylesheet" href="./assets/heat.css">
+    <link rel="stylesheet" href="../assets/em.css">
+    <script>try{var t=localStorage.getItem("em-theme");t&&(document.documentElement.dataset.theme=t)}catch(e){}</script>
+    <!--preload-->
+    <link rel="modulepreload" href="../assets/charts.js" />
+    <link rel="modulepreload" href="../assets/d3-CYFjbSD-.js" />
+    <link rel="modulepreload" href="../assets/maplibre-ChAaPfnC.js" />
+    <link rel="modulepreload" href="../assets/story-Cpe0Yf6I.js" />
+    <link rel="modulepreload" href="./assets/data.js" />
+    <link rel="modulepreload" href="./assets/heat.js" />
+    <!--/preload-->
+    <script type="module" src="./assets/main.js"></script>
+    <script type="module" src="../assets/em.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div class="em-wrap em-skel" aria-busy="true" aria-label="Loading the dashboard">
+        <div class="em-bar"><span class="em-brand"><i aria-hidden="true"></i>Economy Monitor</span></div>
+        <div class="em-head"><p class="em-eyebrow">Loading Extreme Heat…</p><div class="sk sk-h1"></div><div class="sk sk-h1 short"></div><div class="sk sk-p"></div></div>
+        <div class="sk-kpis"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div>
+      </div>
+    </div>
+    <noscript>Economy Monitor needs JavaScript to draw its maps and charts. The raw data is in the <a href="../data/heat/index.html">data/heat/</a> folder of the site.</noscript>
+      <!--loadcheck--><script>
+    // Explains a stuck loading screen. Browsers block module scripts and data on file:// pages,
+    // so the dashboard needs a web server; a slow or failed load gets a reload link instead.
+    (function () {
+      var app = document.getElementById("app");
+      function say(html) {
+        var skel = app.querySelector(".em-skel"), p = skel && skel.querySelector(".em-head .em-eyebrow");
+        if (!p) return;
+        skel.removeAttribute("aria-busy");
+        var m = document.createElement("p");
+        m.className = "em-loadmsg"; m.setAttribute("role", "alert"); m.innerHTML = html;
+        p.replaceWith(m);
+        skel.querySelectorAll(".sk").forEach(function (s) { s.remove(); });
+      }
+      if (location.protocol === "file:") {
+        say("<b>This dashboard can't run from a file on your computer.</b> Browsers block its scripts and data on file:// pages. Open it through a web server instead: in the project folder run <code>node scripts/serve.mjs</code>, then go to <a href=\"http://localhost:8765/\">http://localhost:8765/</a>.");
+        return;
+      }
+      setTimeout(function () {
+        if (app.querySelector(".em-skel .em-head .em-eyebrow")) say("<b>The dashboard is taking longer than usual to load.</b> Check your connection, then <a href=\"\">reload the page</a>.");
+      }, 15000);
+    })();
+    </script><!--/loadcheck-->
+  </body>
+</html>

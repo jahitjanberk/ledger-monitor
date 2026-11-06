@@ -1,0 +1,188 @@
+country,iso3,iso_n3,year,debt_pct_gdp,debt_2031,debt_2015,interest_pct_gdp,interest_2015,interest_2031,revenue_pct_gdp,interest_pct_revenue,fiscal_source,health_pct_gdp,health_year,health_source,education_pct_gdp,education_year,education_source,interest_to_health,more_than_health,more_than_education,population_m,population_year,population_source,health_band,revenue_band,debt_band
+Egypt,EGY,818,2025,86.8,71.5,83.8,9.82,6.46,6.41,16.1,60.9,imf-fm,1.58,2023,wb-health,,,,6.23,true,,118.37,2025,wb-pop,2 times or more,30% or more,60 to 90%
+Pakistan,PAK,586,2025,72.8,57.3,59.1,7.79,4.28,4.75,15.8,49.2,imf-fm,0.9,2023,wb-health,1.95,2023,wb-edu,8.66,true,true,255.22,2025,wb-pop,2 times or more,30% or more,60 to 90%
+Sri Lanka,LKA,144,2025,96.8,82.4,76.3,7.64,4.56,5.7,16.7,45.6,imf-fm,1.24,2023,wb-health,1.83,2023,wb-edu,6.17,true,true,21.76,2025,wb-pop,2 times or more,30% or more,90 to 120%
+Bahrain,BHR,048,2025,144.3,161.6,63.2,6.68,2.24,8.61,15,44.4,imf-fm,2.37,2023,wb-health,1.89,2023,wb-edu,2.82,true,true,1.6,2025,wb-pop,2 times or more,30% or more,120% or more
+Malawi,MWI,454,2025,96.6,67.5,35.5,7.39,2.29,6.79,18.8,39.3,imf-fm,0.84,2023,wb-health,2.75,2022,wb-edu,8.82,true,true,22.22,2025,wb-pop,2 times or more,30% or more,90 to 120%
+Sierra Leone,SLE,694,2025,51.4,33.8,28.4,4.61,0.51,1.96,12.8,36,imf-fm,0.79,2023,wb-health,2.62,2023,wb-edu,5.84,true,true,8.82,2025,wb-pop,2 times or more,30% or more,30 to 60%
+Kenya,KEN,404,2025,71.3,74,45.8,5.45,2.47,6.35,17.5,31.2,imf-fm,1.95,2023,wb-health,4.02,2024,wb-edu,2.79,true,true,57.53,2025,wb-pop,2 times or more,30% or more,60 to 90%
+Costa Rica,CRI,188,2025,60.4,62.4,39.8,4.29,2.65,4.39,14.4,29.8,imf-fm,4.61,2023,wb-health,5.31,2023,wb-edu,0.93,false,false,5.15,2025,wb-pop,Half to the same,20 to 30%,60 to 90%
+Guinea-Bissau,GNB,624,2025,75.1,65.6,56.3,3.73,0.68,2.73,12.8,29.2,imf-fm,0.94,2023,wb-health,,,,3.97,true,,2.25,2025,wb-pop,2 times or more,20 to 30%,60 to 90%
+Bangladesh,BGD,050,2025,42,49.4,28.2,2.26,1.71,3.27,8,28.4,imf-fm,0.31,2023,wb-health,2.03,2024,wb-edu,7.2,true,true,175.69,2025,wb-pop,2 times or more,20 to 30%,30 to 60%
+Uganda,UGA,800,2025,53.2,57.2,28,4.04,1.41,5.84,15,26.8,imf-fm,0.92,2023,wb-health,2.56,2022,wb-edu,4.37,true,true,51.38,2025,wb-pop,2 times or more,20 to 30%,30 to 60%
+Zambia,ZMB,894,2025,100.6,56.7,61.9,6.89,2.85,4.29,25.9,26.6,imf-fm,2.43,2023,wb-health,4.07,2023,wb-edu,2.83,true,true,21.91,2025,wb-pop,2 times or more,20 to 30%,90 to 120%
+Gabon,GAB,266,2025,84.2,123.8,44.7,5,2.03,6.19,19.4,25.8,imf-fm,2.06,2023,wb-health,2.32,2023,wb-edu,2.43,true,true,2.59,2025,wb-pop,2 times or more,20 to 30%,60 to 90%
+Nigeria,NGA,566,2025,36.1,31.9,14.9,2.57,0.8,2.39,10.2,25.1,imf-fm,0.6,2023,wb-health,0.32,2023,wb-edu,4.27,true,true,237.53,2025,wb-pop,2 times or more,20 to 30%,30 to 60%
+Angola,AGO,024,2025,52.9,55.1,50.4,3.71,1.57,4.8,14.9,24.9,imf-fm,1.13,2023,wb-health,2.51,2023,wb-edu,3.27,true,true,39.04,2025,wb-pop,2 times or more,20 to 30%,30 to 60%
+India,IND,356,2025,84.3,75.1,69.7,5.13,4.57,4.94,20.9,24.6,imf-fm,1.3,2023,wb-health,4.1,2022,wb-edu,3.94,true,true,1463.87,2025,wb-pop,2 times or more,20 to 30%,60 to 90%
+Mexico,MEX,484,2025,61.7,64.5,51,6.1,2.69,5.29,25,24.4,imf-fm,2.68,2023,wb-health,4.06,2022,wb-edu,2.28,true,true,131.95,2025,wb-pop,2 times or more,20 to 30%,60 to 90%
+Senegal,SEN,686,2025,127.7,,44.5,5.05,1.52,,20.8,24.3,imf-fm,1.19,2023,wb-health,6.16,2023,wb-edu,4.24,true,false,18.93,2025,wb-pop,2 times or more,20 to 30%,120% or more
+Ghana,GHA,288,2025,48.8,47.3,53.9,3.48,4.95,3.79,15.7,22.2,imf-fm,1.86,2023,wb-health,2.91,2022,wb-edu,1.87,true,true,35.06,2025,wb-pop,1 to 2 times,20 to 30%,30 to 60%
+Dominican Republic,DOM,214,2025,59,50.4,44.8,3.45,2.32,3.48,15.8,21.9,imf-fm,2.95,2023,wb-health,3.76,2023,wb-edu,1.17,true,false,11.52,2025,wb-pop,1 to 2 times,20 to 30%,30 to 60%
+Iran,IRN,364,2025,35.6,43.4,32.1,2.01,0.08,1.79,9.3,21.7,imf-fm,2.82,2023,wb-health,2.82,2023,wb-edu,0.71,false,false,92.42,2025,wb-pop,Half to the same,20 to 30%,30 to 60%
+Jordan,JOR,400,2025,83.6,75.7,71.4,5.61,3.03,5.34,27.4,20.5,imf-fm,3.45,2023,wb-health,3.23,2024,wb-edu,1.63,true,true,11.52,2025,wb-pop,1 to 2 times,20 to 30%,60 to 90%
+Bahamas,BHS,044,2025,71.7,55.8,49.7,4.04,2.09,3.63,20.4,19.8,imf-fm,3.19,2023,wb-health,2.74,2023,wb-edu,1.27,true,true,0.4,2025,wb-pop,1 to 2 times,10 to 20%,60 to 90%
+South Africa,ZAF,710,2025,78.4,79.8,45.2,5.41,2.93,5.13,28.5,19,imf-fm,5.49,2023,wb-health,6.02,2024,wb-edu,0.99,false,false,64.75,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Brazil,BRA,076,2025,93.3,105.3,71.7,7.29,8.43,7.48,39.5,18.5,imf-fm,4.29,2023,wb-health,5.62,2022,wb-edu,1.7,true,true,212.81,2025,wb-pop,1 to 2 times,10 to 20%,90 to 120%
+Mozambique,MOZ,508,2025,90.3,98.7,86,4.64,1.18,7.01,25.7,18,imf-fm,2.25,2023,wb-health,5.98,2022,wb-edu,2.06,true,false,35.63,2025,wb-pop,2 times or more,10 to 20%,90 to 120%
+Panama,PAN,591,2025,56.6,49.6,34.1,2.99,1.58,2.83,17.3,17.3,imf-fm,4.27,2023,wb-health,2.47,2023,wb-edu,0.7,false,true,4.57,2025,wb-pop,Half to the same,10 to 20%,30 to 60%
+El Salvador,SLV,222,2025,87.6,80.2,73.5,4.78,2.73,5.34,27.8,17.2,imf-fm,5.62,2023,wb-health,3.32,2024,wb-edu,0.85,false,true,6.37,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Barbados,BRB,052,2025,96.2,72.8,122.5,4.45,5.91,3.74,26.9,16.5,imf-fm,2.25,2023,wb-health,3.56,2024,wb-edu,1.98,true,true,0.28,2025,wb-pop,1 to 2 times,10 to 20%,90 to 120%
+Cote d'Ivoire,CIV,384,2025,57.1,50.9,29.2,2.77,1.1,2.31,17,16.3,imf-fm,1.4,2023,wb-health,3.61,2024,wb-edu,1.98,true,false,32.71,2025,wb-pop,1 to 2 times,10 to 20%,30 to 60%
+Indonesia,IDN,360,2025,40.9,41.6,27,2.16,1.35,2.46,13.3,16.3,imf-fm,1.45,2023,wb-health,1.28,2023,wb-edu,1.49,true,true,285.72,2025,wb-pop,1 to 2 times,10 to 20%,30 to 60%
+Jamaica,JAM,388,2025,66,60.3,115.9,4.86,7.08,4.22,29.8,16.3,imf-fm,4.89,2023,wb-health,5.51,2024,wb-edu,0.99,false,false,2.84,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Namibia,NAM,516,2025,67.5,71.2,42.1,5.21,1.68,5.55,32.8,15.9,imf-fm,5.55,2023,wb-health,9.08,2024,wb-edu,0.94,false,false,3.09,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Togo,TGO,768,2025,64.9,57.6,52.7,2.58,1.98,1.89,16.6,15.6,imf-fm,0.68,2023,wb-health,4.14,2023,wb-edu,3.79,true,false,8.59,2025,wb-pop,2 times or more,10 to 20%,60 to 90%
+Bolivia,BOL,068,2025,83.3,82.3,34,2.52,0.83,3.62,16.8,15,imf-fm,4.66,2023,wb-health,7.54,2024,wb-edu,0.54,false,false,12.58,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Aruba,ABW,533,2025,64.8,46.7,74.2,3.77,3.78,2.81,25.1,15,imf-fm,,,,3.62,2021,wb-edu,,,true,0.11,2025,wb-pop,,10 to 20%,60 to 90%
+Papua New Guinea,PNG,598,2025,51.6,31.9,29.9,2.47,1.73,1.58,17,14.5,imf-fm,2.1,2023,wb-health,0.78,2023,wb-edu,1.17,true,true,10.76,2025,wb-pop,1 to 2 times,10 to 20%,30 to 60%
+Laos,LAO,418,2025,88.8,52.1,53.1,3.13,0.76,1.55,21.7,14.4,imf-fm,0.53,2023,wb-health,1.23,2023,wb-edu,5.92,true,true,7.87,2025,wb-pop,2 times or more,10 to 20%,60 to 90%
+Congo,COG,178,2025,100.4,57.9,70.9,3.47,0.62,2.86,24.7,14,imf-fm,1.12,2023,wb-health,3.34,2023,wb-edu,3.09,true,true,6.48,2025,wb-pop,2 times or more,10 to 20%,90 to 120%
+Niger,NER,562,2025,45.5,43.4,29.9,1.74,0.46,1.31,12.7,13.8,imf-fm,0.97,2023,wb-health,4.07,2023,wb-edu,1.8,true,false,27.92,2025,wb-pop,1 to 2 times,10 to 20%,30 to 60%
+Philippines,PHL,608,2025,59.1,56.4,39.7,2.77,1.96,3.36,20.1,13.8,imf-fm,2.16,2023,wb-health,3.97,2025,wb-edu,1.28,true,false,116.79,2025,wb-pop,1 to 2 times,10 to 20%,30 to 60%
+Saint Lucia,LCA,662,2025,76.8,77.7,60.5,3.23,3.18,3.94,23.6,13.7,imf-fm,2.38,2023,wb-health,3.85,2024,wb-edu,1.36,true,false,0.18,2025,wb-pop,1 to 2 times,10 to 20%,60 to 90%
+Tanzania,TZA,834,2025,49.8,41.4,39.5,2.37,1.46,2.48,17.3,13.7,imf-fm,0.97,2023,wb-health,3.16,2024,wb-edu,2.45,true,false,70.55,2025,wb-pop,2 times or more,10 to 20%,30 to 60%
+Gambia,GMB,270,2025,73.7,51.1,69.4,3.08,4.78,1.99,22.9,13.5,imf-fm,1.3,2023,wb-health,2.81,2023,wb-edu,2.37,true,true,2.82,2025,wb-pop,2 times or more,10 to 20%,60 to 90%
+Trinidad and Tobago,TTO,780,2025,84,80.5,43.2,3.55,1.94,3.93,26.8,13.2,imf-fm,3.64,2023,wb-health,3.23,2023,wb-edu,0.98,false,true,1.37,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Fiji,FJI,242,2025,77.1,86.6,44.3,3.74,3.04,4.38,28.5,13.1,imf-fm,2.7,2023,wb-health,4.25,2023,wb-edu,1.38,true,false,0.93,2025,wb-pop,1 to 2 times,10 to 20%,60 to 90%
+Tunisia,TUN,788,2025,81.7,88.7,52.4,3.76,1.83,4.01,29,13,imf-fm,4.32,2023,wb-health,6.73,2023,wb-edu,0.87,false,false,12.35,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Suriname,SUR,740,2025,96.9,27.8,41.2,3.79,1.44,1.66,29.4,12.9,imf-fm,3.35,2023,wb-health,2.87,2023,wb-edu,1.13,true,true,0.64,2025,wb-pop,1 to 2 times,10 to 20%,90 to 120%
+Mauritius,MUS,480,2025,86.8,88.9,63,3.44,2.23,2.16,26.9,12.8,imf-fm,2.47,2023,wb-health,4.25,2024,wb-edu,1.39,true,false,1.24,2025,wb-pop,1 to 2 times,10 to 20%,60 to 90%
+Guatemala,GTM,320,2025,26.7,30.6,24.8,1.59,1.6,1.89,12.6,12.6,imf-fm,2.44,2023,wb-health,3.08,2024,wb-edu,0.65,false,false,18.69,2025,wb-pop,Half to the same,10 to 20%,Under 30%
+Benin,BEN,204,2025,59.3,50.3,30.9,2,0.54,1.38,15.9,12.5,imf-fm,0.49,2023,wb-health,3.23,2023,wb-edu,4.09,true,false,14.81,2025,wb-pop,2 times or more,10 to 20%,30 to 60%
+Armenia,ARM,051,2025,46.9,44.7,45.5,3.08,1.47,2.9,25.4,12.1,imf-fm,1.46,2023,wb-health,2.44,2023,wb-edu,2.1,true,true,3.09,2025,wb-pop,2 times or more,10 to 20%,30 to 60%
+Maldives,MDV,462,2025,129.4,130.6,55,4.03,2.07,4.42,33.3,12.1,imf-fm,7.3,2023,wb-health,5.17,2023,wb-edu,0.55,false,false,0.53,2025,wb-pop,Half to the same,10 to 20%,120% or more
+Rwanda,RWA,646,2025,64.7,59.9,33.5,2.23,0.85,1.77,18.9,11.8,imf-fm,2.41,2023,wb-health,4.61,2024,wb-edu,0.93,false,false,14.57,2025,wb-pop,Half to the same,10 to 20%,60 to 90%
+Myanmar,MMR,104,2025,51.9,56,36.6,2.38,1.1,2.63,20.3,11.7,imf-fm,0.5,2023,wb-health,2,2019,wb-edu,4.8,true,true,54.85,2025,wb-pop,2 times or more,10 to 20%,30 to 60%
+Saint Vincent and the Grenadines,VCT,670,2025,107.7,133.5,76,3.13,1.8,4.21,28.4,11,imf-fm,3.07,2023,wb-health,6.46,2023,wb-edu,1.02,true,false,0.1,2025,wb-pop,1 to 2 times,10 to 20%,90 to 120%
+Grenada,GRD,308,2025,69.4,64.3,90.1,3.52,3.34,1.12,32.9,10.7,imf-fm,2.1,2023,wb-health,5.13,2023,wb-edu,1.67,true,false,0.12,2025,wb-pop,1 to 2 times,10 to 20%,60 to 90%
+Eswatini,SWZ,748,2025,44.8,48,16,3.02,0.71,3.45,28.9,10.5,imf-fm,3.2,2023,wb-health,6.03,2024,wb-edu,0.94,false,false,1.26,2025,wb-pop,Half to the same,10 to 20%,30 to 60%
+Paraguay,PRY,600,2025,38.2,35.9,18.6,1.88,0.47,1.79,18.1,10.4,imf-fm,4.63,2023,wb-health,3.53,2024,wb-edu,0.4,false,false,7.01,2025,wb-pop,A quarter to a half,10 to 20%,30 to 60%
+United States,USA,840,2025,124.4,145,105.5,3.18,1.84,5.01,30.5,10.4,imf-fm,9.01,2023,wb-health,5.42,2021,wb-edu,0.35,false,false,341.78,2025,wb-pop,A quarter to a half,10 to 20%,120% or more
+Malaysia,MYS,458,2025,70.5,65.1,57,1.99,1.61,2.22,19.9,10,imf-fm,1.98,2023,wb-health,3.51,2023,wb-edu,1,true,false,35.98,2025,wb-pop,1 to 2 times,5 to 10%,60 to 90%
+San Marino,SMR,674,2025,59.8,43.6,19.3,2.1,0.25,1.12,21.6,9.7,imf-fm,5.74,2023,wb-health,2.9,2022,wb-edu,0.37,false,false,0.03,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Burkina Faso,BFA,854,2025,53.2,49.7,31.3,2.24,0.63,1.98,23.6,9.5,imf-fm,2.45,2023,wb-health,5.33,2023,wb-edu,0.91,false,false,24.07,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Belize,BLZ,084,2025,66.9,65.4,65.1,2.34,2.12,2.78,24.9,9.4,imf-fm,2.7,2023,wb-health,4.62,2024,wb-edu,0.87,false,false,0.42,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Morocco,MAR,504,2025,66.6,61.6,58.4,2.41,2.61,2.22,27.5,8.8,imf-fm,3.43,2023,wb-health,6.02,2023,wb-edu,0.7,false,false,38.43,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Turkey,TUR,792,2025,23.7,25.4,26.5,2.61,1.84,2.63,29.5,8.8,imf-fm,3.25,2023,wb-health,3.1,2022,wb-edu,0.8,false,false,85.88,2025,wb-pop,Half to the same,5 to 10%,Under 30%
+Chad,TCD,148,2025,33.3,24.8,31.3,1.6,1.27,0.58,18.4,8.7,imf-fm,1.26,2023,wb-health,3.2,2023,wb-edu,1.27,true,false,21,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Colombia,COL,170,2025,59.9,65.3,50.4,2.29,1.81,3.59,27.4,8.4,imf-fm,5.68,2024,wb-health,5.26,2020,wb-edu,0.4,false,false,53.43,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Burundi,BDI,108,2025,42,37.5,39.9,1.35,0.51,2.05,16.5,8.2,imf-fm,1.34,2023,wb-health,4.5,2025,wb-edu,1.01,true,false,14.39,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Israel,ISR,376,2025,67.9,72.7,63.2,3.12,1.75,2.83,38,8.2,imf-fm,4.63,2023,wb-health,5.93,2022,wb-edu,0.67,false,false,10.12,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Liberia,LBR,430,2025,55.1,50.7,24.4,1.67,0.31,0.92,20.9,8,imf-fm,1.3,2023,wb-health,2.27,2023,wb-edu,1.29,true,false,5.73,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Mali,MLI,466,2025,40.3,39.8,25.8,1.49,0.5,1.65,18.6,8,imf-fm,1.35,2023,wb-health,4.18,2023,wb-edu,1.11,true,false,25.2,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Romania,ROU,642,2025,60.4,71.3,39.4,2.59,1.3,3.7,32.7,7.9,imf-fm,4.33,2023,wb-health,3.28,2022,wb-edu,0.6,false,false,19.02,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Seychelles,SYC,690,2025,51.2,47.7,74.8,2.49,2.96,2.32,31.5,7.9,imf-fm,3.15,2023,wb-health,4.45,2023,wb-edu,0.79,false,false,0.12,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Hungary,HUN,348,2025,74.6,87.8,75.7,3.31,3.32,3.33,42.6,7.8,imf-fm,4.67,2023,wb-health,3.8,2022,wb-edu,0.71,false,false,9.51,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Iceland,ISL,352,2025,56.7,47.5,96.3,3.3,3.52,2.35,43,7.7,imf-fm,7.28,2023,wb-health,7.31,2022,wb-edu,0.45,false,false,0.39,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Antigua and Barbuda,ATG,028,2025,70.2,59.4,92.1,1.69,2.34,2.01,22.4,7.6,imf-fm,2.31,2023,wb-health,3.11,2023,wb-edu,0.73,false,false,0.09,2025,wb-pop,Half to the same,5 to 10%,60 to 90%
+Guinea,GIN,324,2025,36.3,20.1,27.3,0.95,0.54,1.74,12.5,7.6,imf-fm,0.81,2023,wb-health,1.72,2023,wb-edu,1.18,true,false,15.1,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Uruguay,URY,858,2025,65.6,69.2,57.8,2.13,2.1,2.51,28.1,7.6,imf-fm,6.53,2023,wb-health,4.76,2023,wb-edu,0.33,false,false,3.38,2025,wb-pop,A quarter to a half,5 to 10%,60 to 90%
+Italy,ITA,380,2025,137.1,135.6,134.8,3.61,3.94,4.59,48.1,7.5,imf-fm,6.14,2023,wb-health,4.07,2022,wb-edu,0.59,false,false,58.92,2025,wb-pop,Half to the same,5 to 10%,120% or more
+Ethiopia,ETH,231,2025,43.3,27.5,50.7,0.8,0.41,1.51,10.9,7.4,imf-fm,0.61,2023,wb-health,2.3,2024,wb-edu,1.3,true,false,135.47,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Cameroon,CMR,120,2025,40.5,34.3,31.6,1.07,0.37,1.15,14.7,7.3,imf-fm,0.67,2023,wb-health,2.84,2023,wb-edu,1.6,true,false,29.88,2025,wb-pop,1 to 2 times,5 to 10%,30 to 60%
+Albania,ALB,008,2025,53.8,45.9,73,2.06,2.67,2.31,28.5,7.2,imf-fm,3.5,2023,wb-health,3.09,2023,wb-edu,0.59,false,false,2.35,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Cape Verde,CPV,132,2025,115.4,80.8,125.2,2.01,2.36,1.45,28.3,7.1,imf-fm,3.43,2023,wb-health,4.35,2023,wb-edu,0.59,false,false,0.53,2025,wb-pop,Half to the same,5 to 10%,90 to 120%
+Peru,PER,604,2025,30.1,30.2,23.7,1.35,0.92,1.53,19,7.1,imf-fm,3.58,2023,wb-health,4.36,2024,wb-edu,0.38,false,false,34.58,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Ukraine,UKR,804,2025,107.1,97.2,79.3,3.99,4.16,2.91,56.6,7.1,imf-fm,4.28,2021,wb-health,5.14,2021,wb-edu,0.93,false,false,38.98,2025,wb-pop,Half to the same,5 to 10%,90 to 120%
+Algeria,DZA,012,2025,52.1,78.9,7.7,1.8,0.23,2.74,26.3,6.9,imf-fm,2.31,2023,wb-health,8.98,2024,wb-edu,0.78,false,false,47.44,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Bhutan,BTN,064,2025,102.6,115.5,90.2,1.88,1.51,4.83,27.5,6.8,imf-fm,2.94,2023,wb-health,5.85,2023,wb-edu,0.64,false,false,0.8,2025,wb-pop,Half to the same,5 to 10%,90 to 120%
+Sudan,SDN,729,2025,204.4,192.2,93.2,0.21,0.71,0.28,3,6.8,imf-fm,0.59,2023,wb-health,,,,0.35,false,,51.66,2025,wb-pop,A quarter to a half,5 to 10%,120% or more
+United Kingdom,GBR,826,2025,102.1,100.2,87.3,2.6,1.5,2.94,38.2,6.8,imf-fm,8.99,2023,wb-health,5.91,2021,wb-edu,0.29,false,false,69.49,2025,wb-pop,A quarter to a half,5 to 10%,90 to 120%
+Central African Republic,CAF,140,2025,42.6,48.2,38.5,0.71,0.35,2.13,10.7,6.6,imf-fm,1.53,2023,wb-health,1.83,2023,wb-edu,0.46,false,false,5.51,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+South Sudan,SSD,728,2025,64.2,46.3,58.2,1.39,0.32,2.12,21.4,6.5,imf-fm,0.5,2023,wb-health,,,,2.77,true,,12.19,2025,wb-pop,2 times or more,5 to 10%,60 to 90%
+Greece,GRC,300,2025,146.6,111.1,180,3.16,3.58,3.36,50,6.3,imf-fm,4.25,2023,wb-health,3.38,2022,wb-edu,0.74,false,false,10.41,2025,wb-pop,Half to the same,5 to 10%,120% or more
+Madagascar,MDG,450,2025,47.7,49.7,44.1,0.68,0.69,0.53,11.4,6,imf-fm,0.99,2023,wb-health,3.05,2023,wb-edu,0.69,false,false,32.74,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+North Macedonia,MKD,807,2025,52.6,56,38,1.9,1.16,2.29,32.2,5.9,imf-fm,4.28,2023,wb-health,,,,0.45,false,,1.82,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Georgia,GEO,268,2025,34.3,31.5,36,1.57,0.95,1.48,27,5.8,imf-fm,2.31,2023,wb-health,3.98,2024,wb-edu,0.68,false,false,3.94,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Poland,POL,616,2025,59.7,82,51.1,2.51,1.75,3.24,43.6,5.8,imf-fm,5.5,2023,wb-health,4.31,2022,wb-edu,0.46,false,false,36.44,2025,wb-pop,A quarter to a half,5 to 10%,30 to 60%
+Haiti,HTI,332,2025,12.3,10.3,23.9,0.29,0.1,0.38,5.1,5.6,imf-fm,0.3,2023,wb-health,0.96,2023,wb-edu,0.96,false,false,11.91,2025,wb-pop,Half to the same,5 to 10%,Under 30%
+Nepal,NPL,524,2025,47.4,47.7,25.7,1.1,0.34,1.49,19.7,5.6,imf-fm,1.93,2023,wb-health,3.69,2024,wb-edu,0.57,false,false,29.62,2025,wb-pop,Half to the same,5 to 10%,30 to 60%
+Thailand,THA,764,2025,64.7,69.7,42.6,1.15,1.02,1.41,21.1,5.5,imf-fm,3.53,2023,wb-health,2.52,2023,wb-edu,0.33,false,false,71.62,2025,wb-pop,A quarter to a half,5 to 10%,60 to 90%
+Kazakhstan,KAZ,398,2025,24.3,29.8,21.9,0.96,0.37,0.74,18.5,5.2,imf-fm,2.48,2023,wb-health,4.86,2023,wb-edu,0.39,false,false,20.84,2025,wb-pop,A quarter to a half,5 to 10%,Under 30%
+Botswana,BWA,072,2025,34,64.4,24.5,1.27,0.56,4.63,25.5,5,imf-fm,4.72,2023,wb-health,8.06,2020,wb-edu,0.27,false,false,2.56,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Equatorial Guinea,GNQ,226,2025,35.4,44.1,31.7,0.81,0.39,1.91,16.3,5,imf-fm,1.13,2023,wb-health,,,,0.72,false,,1.94,2025,wb-pop,Half to the same,Under 5%,30 to 60%
+Montenegro,MNE,499,2025,63.5,64.9,67.4,2,2.38,2.76,40.7,4.9,imf-fm,6.69,2023,wb-health,,,,0.3,false,,0.62,2025,wb-pop,A quarter to a half,Under 5%,60 to 90%
+Qatar,QAT,634,2025,42.5,35.7,35.5,1.31,1.49,1.09,26.8,4.9,imf-fm,2.1,2023,wb-health,3.23,2020,wb-edu,0.62,false,false,2.97,2025,wb-pop,Half to the same,Under 5%,30 to 60%
+Argentina,ARG,032,2025,80.1,53.9,52.6,1.48,1.58,2.42,31,4.8,imf-fm,6.18,2023,wb-health,5,2023,wb-edu,0.24,false,false,45.85,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+Serbia,SRB,688,2025,42.2,40.9,67.1,1.82,2.89,1.89,41,4.4,imf-fm,5.26,2023,wb-health,3.4,2023,wb-edu,0.35,false,false,6.55,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Spain,ESP,724,2025,100.5,89.4,102.4,1.86,2.59,2.31,42.9,4.3,imf-fm,6.75,2023,wb-health,4.59,2022,wb-edu,0.27,false,false,49.36,2025,wb-pop,A quarter to a half,Under 5%,90 to 120%
+Mongolia,MNG,496,2025,45,61.7,50.5,1.53,3.19,3.13,36.9,4.2,imf-fm,2.73,2023,wb-health,5.21,2024,wb-edu,0.56,false,false,3.57,2025,wb-pop,Half to the same,Under 5%,30 to 60%
+Nicaragua,NIC,558,2025,34.6,26.8,28.9,1.21,0.48,1.09,28.7,4.2,imf-fm,4.77,2023,wb-health,2.87,2023,wb-edu,0.25,false,false,7.01,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Saint Kitts and Nevis,KNA,659,2025,58.7,79.3,62.2,1.31,1.98,2.72,30.9,4.2,imf-fm,3.11,2023,wb-health,3.5,2023,wb-edu,0.42,false,false,0.05,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Dominica,DMA,212,2025,99.9,83.2,68.2,2.3,1.88,2.09,57.3,4,imf-fm,3.36,2023,wb-health,5.39,2024,wb-edu,0.68,false,false,0.07,2025,wb-pop,Half to the same,Under 5%,90 to 120%
+France,FRA,250,2025,115.5,123.6,97,2.08,1.93,3.67,52.2,4,imf-fm,7.89,2024,wb-health,5.32,2022,wb-edu,0.26,false,false,68.72,2025,wb-pop,A quarter to a half,Under 5%,90 to 120%
+Portugal,PRT,620,2025,89.7,72,131,1.73,4.3,2,43.4,4,imf-fm,6.16,2023,wb-health,4.55,2022,wb-edu,0.28,false,false,10.8,2025,wb-pop,A quarter to a half,Under 5%,60 to 90%
+Vietnam,VNM,704,2025,30.5,24.5,46.1,0.84,1.58,0.75,20.9,4,imf-fm,2.02,2023,wb-health,2.89,2022,wb-edu,0.42,false,false,101.6,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Belarus,BLR,112,2025,31.3,26.9,53,1.59,1.67,0.94,41.3,3.8,imf-fm,4.73,2023,wb-health,5.05,2024,wb-edu,0.34,false,false,9.09,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+China,CHN,156,2025,98.6,122.1,40.9,0.96,0.51,1.58,25,3.8,imf-fm,3.39,2023,wb-health,3.9,2023,wb-edu,0.28,false,false,1406.59,2025,wb-pop,A quarter to a half,Under 5%,90 to 120%
+Belgium,BEL,056,2025,107.9,122.1,105.6,1.78,2.67,3.22,49,3.6,imf-fm,7.96,2023,wb-health,6.28,2022,wb-edu,0.22,false,false,11.94,2025,wb-pop,Under a quarter,Under 5%,90 to 120%
+Zimbabwe,ZWE,716,2025,38,25.7,34.1,0.52,0.63,0.81,14.3,3.6,imf-fm,0.95,2023,wb-health,0.38,2023,wb-edu,0.55,false,true,16.95,2025,wb-pop,Half to the same,Under 5%,30 to 60%
+Lebanon,LBN,422,2025,139.4,,140.9,0.65,8.94,,18.8,3.5,imf-fm,2.11,2023,wb-health,1.22,2024,wb-edu,0.31,false,false,5.85,2025,wb-pop,A quarter to a half,Under 5%,120% or more
+Malta,MLT,470,2025,46.2,44.4,55,1.21,2.26,1.27,34.7,3.5,imf-fm,5.84,2023,wb-health,4.71,2022,wb-edu,0.21,false,false,0.58,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Moldova,MDA,498,2025,39.2,49.2,42.1,1.25,0.75,1.98,35.5,3.5,imf-fm,4.69,2023,wb-health,6.56,2023,wb-edu,0.27,false,false,2.36,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Puerto Rico,PRI,630,2025,17.6,17.6,52.7,0.78,1.88,0.59,22,3.5,imf-fm,,,,4.27,2024,wb-edu,,,false,3.18,2025,wb-pop,,Under 5%,Under 30%
+Chile,CHL,152,2025,41.5,49,17.4,0.79,0.22,1.34,23.5,3.3,imf-fm,5.11,2024,wb-health,4.91,2022,wb-edu,0.15,false,false,19.86,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Ecuador,ECU,218,2025,54.5,,36.4,1.13,0.47,,35.6,3.2,imf-fm,4.68,2023,wb-health,3.69,2024,wb-edu,0.24,false,false,18.29,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Mauritania,MRT,478,2025,40.4,39.8,59.9,0.73,0.89,0.99,22.5,3.2,imf-fm,1.48,2023,wb-health,7.61,2024,wb-edu,0.49,false,false,5.32,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Sao Tome and Principe,STP,678,2025,59.1,43.6,101.1,0.58,0.93,0.71,18.6,3.1,imf-fm,2.13,2023,wb-health,5.03,2023,wb-edu,0.27,false,false,0.24,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Kyrgyzstan,KGZ,417,2025,39.4,31.4,67.1,1.1,0.82,1.58,38.5,2.9,imf-fm,2.4,2023,wb-health,6.83,2023,wb-edu,0.46,false,false,7.34,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Lesotho,LSO,426,2025,49.4,52.2,45.8,1.54,0.88,2.32,54.7,2.8,imf-fm,5.84,2023,wb-health,6.62,2024,wb-edu,0.26,false,false,2.36,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Uzbekistan,UZB,860,2025,28.6,25,5.9,0.72,-0.11,0.68,25.7,2.8,imf-fm,2.38,2023,wb-health,5.47,2023,wb-edu,0.3,false,false,37.05,2025,wb-pop,A quarter to a half,Under 5%,Under 30%
+Australia,AUS,036,2025,51.9,54.3,37.6,0.95,0.91,1.23,36.7,2.6,imf-fm,7.66,2023,wb-health,5.06,2022,wb-edu,0.12,false,false,27.61,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Austria,AUT,040,2025,81.4,84.3,85.6,1.31,1.86,1.85,50.9,2.6,imf-fm,8.53,2023,wb-health,5.28,2022,wb-edu,0.15,false,false,9.21,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+Slovakia,SVK,703,2025,61.4,72.1,51.6,1.11,1.48,1.74,43.5,2.6,imf-fm,5.8,2023,wb-health,4.66,2022,wb-edu,0.19,false,false,5.41,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+United Arab Emirates,ARE,784,2025,33.9,26.1,15.6,0.68,0.2,0.63,25.8,2.6,imf-fm,3.32,2023,wb-health,3.89,2021,wb-edu,0.2,false,false,11.51,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Cyprus,CYP,196,2025,55,32.5,111.6,1.07,2.92,1.01,43.6,2.5,imf-fm,6.23,2023,wb-health,4.74,2022,wb-edu,0.17,false,false,1.37,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+New Zealand,NZL,554,2025,54.7,55.4,34.2,0.93,0.64,1.03,37.6,2.5,imf-fm,7.87,2023,wb-health,5.21,2023,wb-edu,0.12,false,false,5.32,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Latvia,LVA,428,2025,46.9,54.9,38.3,0.99,1.83,1.52,41.3,2.4,imf-fm,4.33,2023,wb-health,4.32,2022,wb-edu,0.23,false,false,1.85,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Anguilla,AIA,660,2025,23.3,16.9,23.9,0.96,0.94,0.47,39.4,2.4,imf-fm,,,,,,,,,,,,,,Under 5%,Under 30%
+Guyana,GUY,328,2025,28.9,28.3,42.2,0.42,0.59,0.48,18,2.3,imf-fm,1.73,2023,wb-health,,,,0.24,false,,0.84,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Bosnia and Herzegovina,BIH,070,2025,28.8,43.6,46.4,0.93,0.8,1.8,41.6,2.2,imf-fm,6,2023,wb-health,3.25,2023,wb-edu,0.15,false,false,3.14,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Croatia,HRV,191,2025,56.3,57.8,82.8,1.04,3.09,1.09,47.1,2.2,imf-fm,6,2023,wb-health,4.09,2021,wb-edu,0.17,false,false,3.88,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Azerbaijan,AZE,031,2025,20.1,16.7,18,0.78,0.37,0.68,37.1,2.1,imf-fm,1.39,2023,wb-health,3.66,2023,wb-edu,0.56,false,false,10.25,2025,wb-pop,Half to the same,Under 5%,Under 30%
+Democratic Republic of Congo,COD,180,2025,20.4,32.6,10.2,0.28,0.15,0.7,14.5,1.9,imf-fm,0.69,2023,wb-health,2.84,2022,wb-edu,0.4,false,false,112.83,2025,wb-pop,A quarter to a half,Under 5%,Under 30%
+Germany,DEU,276,2025,62.7,75.6,71,0.86,1.08,1.56,47.2,1.8,imf-fm,9.29,2023,wb-health,5.24,2022,wb-edu,0.09,false,false,83.49,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+Slovenia,SVN,705,2025,65.1,68.2,83.4,0.82,2.88,1.24,46.6,1.8,imf-fm,6.8,2023,wb-health,5.28,2022,wb-edu,0.12,false,false,2.13,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+Cambodia,KHM,116,2025,25.5,25.7,23.4,0.26,0.23,0.36,15,1.7,imf-fm,1.24,2023,wb-health,2.18,2023,wb-edu,0.21,false,false,17.85,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Comoros,COM,174,2025,30.5,28.9,13.6,0.33,0.08,0.45,20.1,1.7,imf-fm,0.85,2023,wb-health,2.34,2023,wb-edu,0.39,false,false,0.88,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Czechia,CZE,203,2025,44.2,55.3,39.5,0.67,0.91,0.67,41,1.6,imf-fm,7.11,2023,wb-health,4.3,2022,wb-edu,0.09,false,false,10.89,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Honduras,HND,340,2025,40.3,38.3,39.3,0.4,0.78,0.44,24.2,1.6,imf-fm,2.46,2023,wb-health,4.55,2023,wb-edu,0.16,false,false,11.01,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Solomon Islands,SLB,090,2025,29.6,36.1,7.9,0.61,0.11,0.73,38.2,1.6,imf-fm,3.37,2023,wb-health,8.29,2023,wb-edu,0.18,false,false,0.84,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Tajikistan,TJK,762,2025,18.6,22.2,35,0.51,0.51,0.94,31.4,1.6,imf-fm,1.9,2023,wb-health,5.44,2023,wb-edu,0.27,false,false,10.79,2025,wb-pop,A quarter to a half,Under 5%,Under 30%
+Vanuatu,VUT,548,2025,36.2,43.9,32.2,0.63,0.75,1.73,39.1,1.6,imf-fm,2.33,2023,wb-health,7.64,2024,wb-edu,0.27,false,false,0.34,2025,wb-pop,A quarter to a half,Under 5%,30 to 60%
+Iraq,IRQ,368,2025,52.8,73.2,48.3,0.52,0.63,2.27,36.3,1.4,imf-fm,2.55,2023,wb-health,,,,0.2,false,,47.02,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Djibouti,DJI,262,2025,31.3,15.6,40.3,0.25,0.41,0.15,18.6,1.3,imf-fm,1.05,2023,wb-health,,,,0.23,false,,1.18,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Ireland,IRL,372,2025,34.8,24.1,74.1,0.29,2.3,0.53,24.2,1.2,imf-fm,5.04,2023,wb-health,2.9,2021,wb-edu,0.06,false,false,5.48,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Andorra,AND,020,2025,30.3,24.1,41,0.46,0.77,0.77,41,1.1,imf-fm,5.45,2023,wb-health,1.9,2023,wb-edu,0.09,false,false,0.08,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Bulgaria,BGR,100,2025,29.9,40.9,25.4,0.38,0.37,1.18,35.9,1.1,imf-fm,4.97,2023,wb-health,4.5,2022,wb-edu,0.08,false,false,6.43,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+East Timor,TLS,626,2025,13.3,15.3,2.9,0.42,0,0.16,43.1,1,imf-fm,7.46,2023,wb-health,5.24,2023,wb-edu,0.06,false,false,1.42,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+South Korea,KOR,410,2025,52.4,49.7,38.8,0.29,0.35,0.37,33.6,0.9,imf-fm,4.91,2024,wb-health,5.41,2022,wb-edu,0.06,false,false,51.68,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Lithuania,LTU,440,2025,39.5,57,42.4,0.36,1.55,1.27,39.4,0.9,imf-fm,4.76,2023,wb-health,4.25,2022,wb-edu,0.08,false,false,2.89,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Saudi Arabia,SAU,682,2025,31.8,48.7,5.5,0.22,-1.91,1.35,23.3,0.9,imf-fm,4.42,2023,wb-health,4.48,2023,wb-edu,0.05,false,false,36.97,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Tonga,TON,776,2025,26.9,65,51.1,0.42,0.85,0.84,49,0.9,imf-fm,3.4,2023,wb-health,5.31,2022,wb-edu,0.12,false,false,0.1,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Netherlands,NLD,528,2025,44.7,48,63.8,0.35,1.02,1.13,43.6,0.8,imf-fm,6.72,2023,wb-health,5.18,2022,wb-edu,0.05,false,false,18.09,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Finland,FIN,246,2025,88.4,101.2,68.8,0.32,0.14,1.44,53.7,0.6,imf-fm,8.5,2023,wb-health,6.38,2022,wb-edu,0.04,false,false,5.65,2025,wb-pop,Under a quarter,Under 5%,60 to 90%
+Oman,OMN,512,2025,34.7,29,13.9,0.18,-0.6,0.6,29.3,0.6,imf-fm,2.98,2023,wb-health,4.38,2022,wb-edu,0.06,false,false,5.49,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Russia,RUS,643,2025,16.6,30.7,15.3,0.22,0.25,1.34,35.3,0.6,imf-fm,4.93,2023,wb-health,4.16,2023,wb-edu,0.05,false,false,143.51,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Japan,JPN,392,2025,204.8,188.9,200.1,0.2,1.02,1.88,36.3,0.5,imf-fm,9.11,2023,wb-health,3.34,2021,wb-edu,0.02,false,false,123.37,2025,wb-pop,Under a quarter,Under 5%,120% or more
+Estonia,EST,233,2025,24,43.1,10.8,0.19,-0.04,0.94,43.2,0.4,imf-fm,5.66,2023,wb-health,5.21,2022,wb-edu,0.03,false,false,1.37,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Micronesia (country),FSM,583,2025,8.8,9.3,26,0.18,0.37,0.09,60,0.3,imf-fm,1.83,2023,wb-health,11.56,2020,wb-edu,0.1,false,false,0.11,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Tuvalu,TUV,798,2025,2.8,2.9,14.4,0.29,-12.75,-5.24,111.9,0.3,imf-fm,19.72,2023,wb-health,12.85,2023,wb-edu,0.01,false,false,0.01,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Afghanistan,AFG,004,2025,7.6,,9.2,0.05,0.05,,20.4,0.2,imf-fm,0.25,2023,wb-health,,,,0.19,false,,43.84,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Kiribati,KIR,296,2025,8,36.4,18.8,0.12,0.14,0.33,73.7,0.2,imf-fm,8.59,2023,wb-health,16.39,2023,wb-edu,0.01,false,false,0.14,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Marshall Islands,MHL,584,2025,8.8,14.2,33.9,0.13,0.4,0.15,79.8,0.2,imf-fm,10.06,2023,wb-health,7.7,2022,wb-edu,0.01,false,false,0.04,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Sweden,SWE,752,2025,34.5,30.7,44.8,0.06,0.13,0.13,47.6,0.1,imf-fm,9.6,2023,wb-health,7.32,2022,wb-edu,0.01,false,false,10.6,2025,wb-pop,Under a quarter,Under 5%,30 to 60%
+Brunei,BRN,096,2025,1.6,1.3,3,0,0,0,15.2,0,imf-fm,2.06,2023,wb-health,,,,0,false,,0.47,2025,wb-pop,Under a quarter,Under 5%,Under 30%
+Switzerland,CHE,756,2025,40.1,35.9,43.1,-0.03,0.23,-0.08,32.1,-0.1,imf-fm,3.87,2023,wb-health,4.86,2022,wb-edu,-0.01,false,false,9.09,2025,wb-pop,,Under 5%,30 to 60%
+Canada,CAN,124,2025,113.6,107,92.3,-0.23,0.65,0.32,42.3,-0.5,imf-fm,7.94,2024,wb-health,4.84,2022,wb-edu,-0.03,false,false,41.65,2025,wb-pop,,Under 5%,90 to 120%
+Luxembourg,LUX,442,2025,26.5,39.7,21.1,-0.45,-0.24,0.52,47.1,-0.9,imf-fm,5.12,2024,wb-health,3.74,2022,wb-edu,-0.09,false,false,0.69,2025,wb-pop,,Under 5%,Under 30%
+Samoa,WSM,882,2025,21.2,24.2,56.4,,,,31.1,,imf-fm,4.69,2023,wb-health,5.46,2024,wb-edu,,,,0.22,2025,wb-pop,,,Under 30%
+Singapore,SGP,702,2025,165.7,169.2,102.1,,,,19.7,,imf-fm,2.63,2023,wb-health,2.19,2024,wb-edu,,,,6.11,2025,wb-pop,,,120% or more
+Taiwan,TWN,158,2025,23.6,17.4,35.9,,,,14.7,,imf-fm,,,,,,,,,,,,,,,Under 30%
+Turkmenistan,TKM,795,2025,3.1,2.5,19,,,,14.2,,imf-fm,0.94,2023,wb-health,4.29,2024,wb-edu,,,,7.62,2025,wb-pop,,,Under 30%
+Nauru,NRU,520,2025,12.2,0.1,113,,,,132.2,,imf-fm,15.23,2023,wb-health,5.78,2023,wb-edu,,,,0.01,2025,wb-pop,,,Under 30%
+Denmark,DNK,208,2025,27.4,26.3,44.6,-0.6,0.38,-0.65,50.1,-1.2,imf-fm,7.83,2024,wb-health,6.36,2022,wb-edu,-0.08,false,false,6.01,2025,wb-pop,,Under 5%,Under 30%
+Hong Kong,HKG,344,2025,12.1,20,0.1,-0.74,0,-0.2,18.7,-4,imf-fm,,,,3.81,2024,wb-edu,,,false,7.5,2025,wb-pop,,Under 5%,Under 30%
+Norway,NOR,578,2025,54,26,33.2,-4.94,-2.47,-1.58,59.3,-8.3,imf-fm,8.12,2023,wb-health,5.43,2022,wb-edu,-0.61,false,false,5.61,2025,wb-pop,,Under 5%,30 to 60%
+Kuwait,KWT,414,2025,14.6,37.8,4.6,-30.72,-20.26,-31.25,73.3,-41.9,imf-fm,4.39,2023,wb-health,6.44,2024,wb-edu,-6.99,false,false,4.87,2025,wb-pop,,Under 5%,Under 30%

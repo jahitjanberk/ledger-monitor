@@ -1,0 +1,1008 @@
+{
+  "id": "uk_summers",
+  "title": "UK summer temperature since 1884",
+  "description": "UK average daily mean temperature for June to August, and for the year, 1884 to 2026 (Met Office HadUK-Grid). 2026 is provisional.",
+  "records": [
+    {
+      "year": 1884,
+      "summer_mean_c": 14.11,
+      "annual_mean_c": 8.48,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1885,
+      "summer_mean_c": 13.09,
+      "annual_mean_c": 7.36,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1886,
+      "summer_mean_c": 13.42,
+      "annual_mean_c": 7.45,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1887,
+      "summer_mean_c": 14.62,
+      "annual_mean_c": 7.51,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1888,
+      "summer_mean_c": 12.31,
+      "annual_mean_c": 7.28,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1889,
+      "summer_mean_c": 13.66,
+      "annual_mean_c": 8.01,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1890,
+      "summer_mean_c": 12.82,
+      "annual_mean_c": 7.96,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1891,
+      "summer_mean_c": 13.31,
+      "annual_mean_c": 7.6,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1892,
+      "summer_mean_c": 12.73,
+      "annual_mean_c": 7.01,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1893,
+      "summer_mean_c": 14.88,
+      "annual_mean_c": 8.78,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1894,
+      "summer_mean_c": 13.35,
+      "annual_mean_c": 8.19,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1895,
+      "summer_mean_c": 13.73,
+      "annual_mean_c": 7.55,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1896,
+      "summer_mean_c": 13.92,
+      "annual_mean_c": 8.26,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1897,
+      "summer_mean_c": 14.39,
+      "annual_mean_c": 8.23,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1898,
+      "summer_mean_c": 13.65,
+      "annual_mean_c": 8.88,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1899,
+      "summer_mean_c": 15.29,
+      "annual_mean_c": 8.57,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1900,
+      "summer_mean_c": 14.26,
+      "annual_mean_c": 8.28,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1901,
+      "summer_mean_c": 14.37,
+      "annual_mean_c": 8.08,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1902,
+      "summer_mean_c": 12.65,
+      "annual_mean_c": 7.73,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1903,
+      "summer_mean_c": 12.68,
+      "annual_mean_c": 8.02,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1904,
+      "summer_mean_c": 13.67,
+      "annual_mean_c": 7.99,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1905,
+      "summer_mean_c": 14.18,
+      "annual_mean_c": 8.19,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1906,
+      "summer_mean_c": 14.06,
+      "annual_mean_c": 8.29,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1907,
+      "summer_mean_c": 12.32,
+      "annual_mean_c": 7.83,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1908,
+      "summer_mean_c": 13.49,
+      "annual_mean_c": 8.31,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1909,
+      "summer_mean_c": 12.83,
+      "annual_mean_c": 7.52,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1910,
+      "summer_mean_c": 13.39,
+      "annual_mean_c": 8.09,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1911,
+      "summer_mean_c": 15.14,
+      "annual_mean_c": 8.81,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1912,
+      "summer_mean_c": 12.84,
+      "annual_mean_c": 8.17,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1913,
+      "summer_mean_c": 13.4,
+      "annual_mean_c": 8.59,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1914,
+      "summer_mean_c": 14.14,
+      "annual_mean_c": 8.7,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1915,
+      "summer_mean_c": 13.41,
+      "annual_mean_c": 7.81,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1916,
+      "summer_mean_c": 13.18,
+      "annual_mean_c": 8.11,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1917,
+      "summer_mean_c": 14.09,
+      "annual_mean_c": 7.52,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1918,
+      "summer_mean_c": 13.55,
+      "annual_mean_c": 8.33,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1919,
+      "summer_mean_c": 13.23,
+      "annual_mean_c": 7.42,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1920,
+      "summer_mean_c": 12.77,
+      "annual_mean_c": 8.45,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1921,
+      "summer_mean_c": 14.34,
+      "annual_mean_c": 9.24,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1922,
+      "summer_mean_c": 12.23,
+      "annual_mean_c": 7.63,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1923,
+      "summer_mean_c": 13.52,
+      "annual_mean_c": 7.96,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1924,
+      "summer_mean_c": 13.08,
+      "annual_mean_c": 8.19,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1925,
+      "summer_mean_c": 14.33,
+      "annual_mean_c": 8.12,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1926,
+      "summer_mean_c": 14.17,
+      "annual_mean_c": 8.58,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1927,
+      "summer_mean_c": 13.26,
+      "annual_mean_c": 8.06,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1928,
+      "summer_mean_c": 13.18,
+      "annual_mean_c": 8.35,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1929,
+      "summer_mean_c": 13.35,
+      "annual_mean_c": 7.98,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1930,
+      "summer_mean_c": 13.98,
+      "annual_mean_c": 8.29,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1931,
+      "summer_mean_c": 13.22,
+      "annual_mean_c": 7.98,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1932,
+      "summer_mean_c": 14.24,
+      "annual_mean_c": 8.35,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1933,
+      "summer_mean_c": 15.38,
+      "annual_mean_c": 8.82,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1934,
+      "summer_mean_c": 14.57,
+      "annual_mean_c": 8.87,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1935,
+      "summer_mean_c": 14.61,
+      "annual_mean_c": 8.52,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1936,
+      "summer_mean_c": 14.01,
+      "annual_mean_c": 8.26,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1937,
+      "summer_mean_c": 14.1,
+      "annual_mean_c": 8.33,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1938,
+      "summer_mean_c": 13.59,
+      "annual_mean_c": 8.92,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1939,
+      "summer_mean_c": 13.95,
+      "annual_mean_c": 8.57,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1940,
+      "summer_mean_c": 14.18,
+      "annual_mean_c": 8.01,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1941,
+      "summer_mean_c": 14.05,
+      "annual_mean_c": 7.96,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1942,
+      "summer_mean_c": 13.81,
+      "annual_mean_c": 8.03,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1943,
+      "summer_mean_c": 13.84,
+      "annual_mean_c": 8.88,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1944,
+      "summer_mean_c": 14.16,
+      "annual_mean_c": 8.44,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1945,
+      "summer_mean_c": 14.23,
+      "annual_mean_c": 9.13,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1946,
+      "summer_mean_c": 13.17,
+      "annual_mean_c": 8.35,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1947,
+      "summer_mean_c": 15.29,
+      "annual_mean_c": 8.37,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1948,
+      "summer_mean_c": 13.34,
+      "annual_mean_c": 8.81,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1949,
+      "summer_mean_c": 14.71,
+      "annual_mean_c": 9.34,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1950,
+      "summer_mean_c": 14.38,
+      "annual_mean_c": 8.3,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1951,
+      "summer_mean_c": 13.49,
+      "annual_mean_c": 8.11,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1952,
+      "summer_mean_c": 14,
+      "annual_mean_c": 7.99,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1953,
+      "summer_mean_c": 13.88,
+      "annual_mean_c": 8.91,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1954,
+      "summer_mean_c": 12.73,
+      "annual_mean_c": 8.13,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1955,
+      "summer_mean_c": 14.9,
+      "annual_mean_c": 8.23,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1956,
+      "summer_mean_c": 12.71,
+      "annual_mean_c": 7.9,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1957,
+      "summer_mean_c": 14.07,
+      "annual_mean_c": 8.84,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1958,
+      "summer_mean_c": 13.7,
+      "annual_mean_c": 8.25,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1959,
+      "summer_mean_c": 14.88,
+      "annual_mean_c": 9.24,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1960,
+      "summer_mean_c": 13.94,
+      "annual_mean_c": 8.54,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1961,
+      "summer_mean_c": 13.42,
+      "annual_mean_c": 8.67,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1962,
+      "summer_mean_c": 12.79,
+      "annual_mean_c": 7.56,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1963,
+      "summer_mean_c": 13.25,
+      "annual_mean_c": 7.41,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1964,
+      "summer_mean_c": 13.5,
+      "annual_mean_c": 8.31,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1965,
+      "summer_mean_c": 12.89,
+      "annual_mean_c": 7.76,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1966,
+      "summer_mean_c": 13.5,
+      "annual_mean_c": 8.19,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1967,
+      "summer_mean_c": 13.88,
+      "annual_mean_c": 8.47,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1968,
+      "summer_mean_c": 13.6,
+      "annual_mean_c": 8.16,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1969,
+      "summer_mean_c": 14.24,
+      "annual_mean_c": 8.12,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1970,
+      "summer_mean_c": 14.22,
+      "annual_mean_c": 8.31,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1971,
+      "summer_mean_c": 13.5,
+      "annual_mean_c": 8.73,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1972,
+      "summer_mean_c": 12.73,
+      "annual_mean_c": 8.1,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1973,
+      "summer_mean_c": 14.17,
+      "annual_mean_c": 8.43,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1974,
+      "summer_mean_c": 13.18,
+      "annual_mean_c": 8.38,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1975,
+      "summer_mean_c": 15.08,
+      "annual_mean_c": 8.77,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1976,
+      "summer_mean_c": 15.7,
+      "annual_mean_c": 8.74,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1977,
+      "summer_mean_c": 13.25,
+      "annual_mean_c": 8.27,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1978,
+      "summer_mean_c": 13.11,
+      "annual_mean_c": 8.23,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1979,
+      "summer_mean_c": 13.47,
+      "annual_mean_c": 7.6,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1980,
+      "summer_mean_c": 13.42,
+      "annual_mean_c": 8.26,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1981,
+      "summer_mean_c": 13.65,
+      "annual_mean_c": 8.1,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1982,
+      "summer_mean_c": 14.37,
+      "annual_mean_c": 8.65,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1983,
+      "summer_mean_c": 15.24,
+      "annual_mean_c": 8.83,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1984,
+      "summer_mean_c": 14.71,
+      "annual_mean_c": 8.58,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1985,
+      "summer_mean_c": 13.06,
+      "annual_mean_c": 7.79,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1986,
+      "summer_mean_c": 13.24,
+      "annual_mean_c": 7.68,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1987,
+      "summer_mean_c": 13.35,
+      "annual_mean_c": 8,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1988,
+      "summer_mean_c": 13.59,
+      "annual_mean_c": 8.73,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1989,
+      "summer_mean_c": 14.73,
+      "annual_mean_c": 9.23,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1990,
+      "summer_mean_c": 14.57,
+      "annual_mean_c": 9.38,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1991,
+      "summer_mean_c": 14.2,
+      "annual_mean_c": 8.54,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1992,
+      "summer_mean_c": 14.27,
+      "annual_mean_c": 8.69,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1993,
+      "summer_mean_c": 13.39,
+      "annual_mean_c": 8.33,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1994,
+      "summer_mean_c": 14.36,
+      "annual_mean_c": 8.88,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1995,
+      "summer_mean_c": 15.62,
+      "annual_mean_c": 9.18,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1996,
+      "summer_mean_c": 14.25,
+      "annual_mean_c": 8.19,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1997,
+      "summer_mean_c": 15.06,
+      "annual_mean_c": 9.41,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1998,
+      "summer_mean_c": 13.74,
+      "annual_mean_c": 9.16,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 1999,
+      "summer_mean_c": 14.39,
+      "annual_mean_c": 9.37,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2000,
+      "summer_mean_c": 14.15,
+      "annual_mean_c": 9.1,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2001,
+      "summer_mean_c": 14.34,
+      "annual_mean_c": 8.8,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2002,
+      "summer_mean_c": 14.38,
+      "annual_mean_c": 9.44,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2003,
+      "summer_mean_c": 15.74,
+      "annual_mean_c": 9.47,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2004,
+      "summer_mean_c": 14.83,
+      "annual_mean_c": 9.44,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2005,
+      "summer_mean_c": 14.74,
+      "annual_mean_c": 9.41,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2006,
+      "summer_mean_c": 15.75,
+      "annual_mean_c": 9.7,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2007,
+      "summer_mean_c": 14.1,
+      "annual_mean_c": 9.56,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2008,
+      "summer_mean_c": 14.45,
+      "annual_mean_c": 9.02,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2009,
+      "summer_mean_c": 14.71,
+      "annual_mean_c": 9.14,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2010,
+      "summer_mean_c": 14.62,
+      "annual_mean_c": 7.94,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2011,
+      "summer_mean_c": 13.63,
+      "annual_mean_c": 9.61,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2012,
+      "summer_mean_c": 13.9,
+      "annual_mean_c": 8.74,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2013,
+      "summer_mean_c": 15.15,
+      "annual_mean_c": 8.74,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2014,
+      "summer_mean_c": 14.8,
+      "annual_mean_c": 9.88,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2015,
+      "summer_mean_c": 13.91,
+      "annual_mean_c": 9.18,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2016,
+      "summer_mean_c": 14.89,
+      "annual_mean_c": 9.29,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2017,
+      "summer_mean_c": 14.69,
+      "annual_mean_c": 9.53,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2018,
+      "summer_mean_c": 15.76,
+      "annual_mean_c": 9.45,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2019,
+      "summer_mean_c": 15.14,
+      "annual_mean_c": 9.39,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2020,
+      "summer_mean_c": 14.76,
+      "annual_mean_c": 9.62,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2021,
+      "summer_mean_c": 15.28,
+      "annual_mean_c": 9.28,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2022,
+      "summer_mean_c": 15.71,
+      "annual_mean_c": 10.03,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2023,
+      "summer_mean_c": 15.36,
+      "annual_mean_c": 9.97,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2024,
+      "summer_mean_c": 14.38,
+      "annual_mean_c": 9.79,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2025,
+      "summer_mean_c": 16.12,
+      "annual_mean_c": 10.1,
+      "provisional": false,
+      "source": "metoffice-haduk"
+    },
+    {
+      "year": 2026,
+      "summer_mean_c": 16.5,
+      "annual_mean_c": null,
+      "provisional": true,
+      "source": "metoffice-haduk"
+    }
+  ]
+}

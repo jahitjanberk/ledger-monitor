@@ -1,0 +1,127 @@
+{
+  "id": "top_refiner",
+  "title": "Top refining country for 20 minerals",
+  "description": "Share held by the leading refining country, most recent year (IEA Global Critical Minerals Outlook 2025).",
+  "records": [
+    {
+      "mineral": "Gallium",
+      "country": "China",
+      "share": 98.7,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Graphite",
+      "country": "China",
+      "share": 95.2,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Manganese",
+      "country": "China",
+      "share": 95,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Rare earths",
+      "country": "China",
+      "share": 92.1,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Silicon metal",
+      "country": "China",
+      "share": 84.8,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Molybdenum",
+      "country": "China",
+      "share": 81,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Cobalt",
+      "country": "China",
+      "share": 77.2,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Tellurium",
+      "country": "China",
+      "share": 76.5,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Antimony",
+      "country": "China",
+      "share": 74,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Germanium",
+      "country": "China",
+      "share": 73.9,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Indium",
+      "country": "China",
+      "share": 70.4,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Lithium",
+      "country": "China",
+      "share": 70.2,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Titanium metal",
+      "country": "China",
+      "share": 68.8,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Vanadium",
+      "country": "China",
+      "share": 59,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Tantalum",
+      "country": "China",
+      "share": 45.5,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Tungsten",
+      "country": "China",
+      "share": 44.3,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Copper",
+      "country": "China",
+      "share": 44,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Nickel",
+      "country": "Indonesia",
+      "share": 42.9,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Chromium",
+      "country": "China",
+      "share": 42.1,
+      "source": "iea-top20"
+    },
+    {
+      "mineral": "Zirconium",
+      "country": "China",
+      "share": 38,
+      "source": "iea-top20"
+    }
+  ]
+}

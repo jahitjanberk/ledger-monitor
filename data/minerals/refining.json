@@ -1,0 +1,247 @@
+{
+  "id": "refining",
+  "title": "Refining by country, 2025",
+  "description": "Share of refined output by country for seven minerals in 2025, and the top producer's share in 2023 (IEA Global Critical Minerals Outlook 2026).",
+  "records": [
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "China",
+      "share_2025": 47,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "United States",
+      "share_2025": 3,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "Australia",
+      "share_2025": 2,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "Chile",
+      "share_2025": 6,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "Japan",
+      "share_2025": 5,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "DRC",
+      "share_2025": 10,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "copper",
+      "mineral_label": "Copper",
+      "country": "Rest of world",
+      "share_2025": 28,
+      "top_share_2023": 44,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "lithium",
+      "mineral_label": "Lithium",
+      "country": "China",
+      "share_2025": 74,
+      "top_share_2023": 66,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "lithium",
+      "mineral_label": "Lithium",
+      "country": "Australia",
+      "share_2025": 2,
+      "top_share_2023": 66,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "lithium",
+      "mineral_label": "Lithium",
+      "country": "Chile",
+      "share_2025": 16,
+      "top_share_2023": 66,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "lithium",
+      "mineral_label": "Lithium",
+      "country": "Argentina",
+      "share_2025": 5,
+      "top_share_2023": 66,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "lithium",
+      "mineral_label": "Lithium",
+      "country": "Rest of world",
+      "share_2025": 3,
+      "top_share_2023": 66,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "nickel",
+      "mineral_label": "Nickel",
+      "country": "Indonesia",
+      "share_2025": 45,
+      "top_share_2023": 41,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "nickel",
+      "mineral_label": "Nickel",
+      "country": "China",
+      "share_2025": 31,
+      "top_share_2023": 41,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "nickel",
+      "mineral_label": "Nickel",
+      "country": "Australia",
+      "share_2025": 1,
+      "top_share_2023": 41,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "nickel",
+      "mineral_label": "Nickel",
+      "country": "Japan",
+      "share_2025": 3,
+      "top_share_2023": 41,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "nickel",
+      "mineral_label": "Nickel",
+      "country": "Rest of world",
+      "share_2025": 17,
+      "top_share_2023": 41,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "cobalt",
+      "mineral_label": "Cobalt",
+      "country": "China",
+      "share_2025": 76,
+      "top_share_2023": 80,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "cobalt",
+      "mineral_label": "Cobalt",
+      "country": "Japan",
+      "share_2025": 2,
+      "top_share_2023": 80,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "cobalt",
+      "mineral_label": "Cobalt",
+      "country": "Rest of world",
+      "share_2025": 21,
+      "top_share_2023": 80,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "graphite",
+      "mineral_label": "Graphite",
+      "country": "China",
+      "share_2025": 94,
+      "top_share_2023": 95,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "graphite",
+      "mineral_label": "Graphite",
+      "country": "Japan",
+      "share_2025": 3,
+      "top_share_2023": 95,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "graphite",
+      "mineral_label": "Graphite",
+      "country": "Rest of world",
+      "share_2025": 3,
+      "top_share_2023": 95,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "manganese",
+      "mineral_label": "Manganese",
+      "country": "China",
+      "share_2025": 96,
+      "top_share_2023": 92,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "manganese",
+      "mineral_label": "Manganese",
+      "country": "Europe",
+      "share_2025": 3,
+      "top_share_2023": 92,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "manganese",
+      "mineral_label": "Manganese",
+      "country": "Rest of world",
+      "share_2025": 1,
+      "top_share_2023": 92,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "rare-earths",
+      "mineral_label": "Rare earths",
+      "country": "China",
+      "share_2025": 85,
+      "top_share_2023": 91,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "rare-earths",
+      "mineral_label": "Rare earths",
+      "country": "United States",
+      "share_2025": 5,
+      "top_share_2023": 91,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "rare-earths",
+      "mineral_label": "Rare earths",
+      "country": "India",
+      "share_2025": 1,
+      "top_share_2023": 91,
+      "source": "iea-refined"
+    },
+    {
+      "mineral": "rare-earths",
+      "mineral_label": "Rare earths",
+      "country": "Rest of world",
+      "share_2025": 9,
+      "top_share_2023": 91,
+      "source": "iea-refined"
+    }
+  ]
+}

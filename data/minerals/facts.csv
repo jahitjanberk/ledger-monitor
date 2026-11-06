@@ -1,0 +1,24 @@
+id,label,value,unit,note,source
+drc,"DR Congo's share of world mined cobalt, 2025",73,%,Indonesia 14%,usgs-mcs
+gallium,"China's share of primary low-purity gallium production, 2025",99,%,,usgs-mcs
+batteries,Share of lithium used in batteries,88,%,"Estimated global end use, 2025",usgs-mcs
+lithiumprice,"US lithium carbonate contract price, 2025 average",9000,US dollars a tonne,"Down 31% on 2024; $63,700 in 2022",usgs-mcs
+top72,"Average share of the top refining country, excluding rare earths, 2025",72,%,Up from 70% in 2023,iea-gcmo2026
+risk,Downstream production outside China at risk a year if rare earth export controls were fully implemented,6.5,trillion US dollars,,iea-gcmo2026
+graphiterisk,Downstream production outside China at risk a year if battery-grade graphite trade were fully disrupted,300,billion US dollars,Over $300 billion,iea-gcmo2026
+tripled,Growth in the number of mineral tariff codes under Chinese export controls since 2023,3,times,Tripled,iea-gcmo2026
+costev,Critical minerals' share of the price of an average electric vehicle,3,%,Around a quarter of battery cell costs,iea-gcmo2026
+cobaltprice,"Rise in cobalt prices, January 2025 to April 2026",130,%,Largely due to DR Congo's export restrictions,iea-gcmo2026
+tungsten6,"Rise in tungsten prices, January 2025 to April 2026",6,times,Sixfold,iea-gcmo2026
+europe5,"European prices for gallium, dysprosium and terbium against Chinese domestic prices",5,times,Germanium almost three times,iea-gcmo2026
+copper90,China's share of growth in global copper smelting since 2005,90,%,Over 90%; its share of capacity rose from about 15% to 50% by 2025,iea-gcmo2026
+fivefold,Increase in export restrictions on critical raw materials since 2009,5,times,Fivefold,oecd-inventory
+restricted,"Share of global cobalt and manganese exports subject to at least one export restriction, 2022–2024",70,%,"Graphite 47%, rare earths 45%, tin 41%",oecd-inventory
+ukimports,"Share of UK critical raw material imports facing at least one export restriction, 2022–2024",22.7,%,World 16%,oecd-inventory
+children,"Children working in all mines across southern DR Congo, 2014 UNICEF estimate",40000,children,Many in cobalt mining; cited by Amnesty International in 2016,amnesty-2016
+artisanal,Share of DR Congo's cobalt dug by hand by artisanal miners,30,%,18 to 30%,oecd-2019
+ewaste,"Share of e-waste documented as properly collected and recycled, 2022",22.3,%,62 billion kg of e-waste in 2022,itu-ewaste
+ree1,Share of rare earth demand met by e-waste recycling,1,%,,itu-ewaste
+eu,EU 2030 benchmarks for strategic raw materials,65,%,"At least 10% of consumption from EU extraction, 40% processing, 25% recycling; no more than 65% from one third country",ec-crma
+uk60,UK 2035 targets for critical minerals,60,%,"At least 10% of demand from domestic production and 20% from recycling; no more than 60% from any one country, in aggregate",uk-vision2035
+bgs,"Minerals assessed as critical for the UK, out of 82 candidates",34,minerals,"Niobium, cobalt and rare earths rank highest",bgs-2024
