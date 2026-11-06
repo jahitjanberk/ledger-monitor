@@ -1,46 +1,46 @@
-# Economy Monitor
+# Ledger Monitor
 
 <p align="center">
   <strong>Twelve open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
 </p>
 
 <p align="center">
-  <a href="https://github.com/jahitjanberk/economy-monitor/stargazers"><img src="https://img.shields.io/github/stars/jahitjanberk/economy-monitor?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/jahitjanberk/ledger-monitor/stargazers"><img src="https://img.shields.io/github/stars/jahitjanberk/ledger-monitor?style=social" alt="GitHub stars"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code licence: MIT"></a>
   <a href="DATA_LICENSE.md"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="Data licence: CC BY 4.0"></a>
-  <a href="https://github.com/jahitjanberk/economy-monitor/commits/main"><img src="https://img.shields.io/github/last-commit/jahitjanberk/economy-monitor" alt="Last commit"></a>
+  <a href="https://github.com/jahitjanberk/ledger-monitor/commits/main"><img src="https://img.shields.io/github/last-commit/jahitjanberk/ledger-monitor" alt="Last commit"></a>
   <img src="https://img.shields.io/badge/dashboards-12-informational" alt="12 dashboards">
   <img src="https://img.shields.io/badge/build%20step-none-brightgreen" alt="No build step">
 </p>
 
 <p align="center">
-  <a href="https://jahitjanberk.github.io/economy-monitor/"><img src="https://img.shields.io/badge/Web%20App-Open%20the%20hub-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555" alt="Open the web app"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/"><img src="https://img.shields.io/badge/Web%20App-Open%20the%20hub-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=555" alt="Open the web app"></a>
 </p>
 
 <p align="center">
-  <a href="https://jahitjanberk.github.io/economy-monitor/chokepoints/"><img src="https://img.shields.io/badge/Chokepoints-Open-0e7490?style=for-the-badge&labelColor=555" alt="Chokepoints"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/electricity/"><img src="https://img.shields.io/badge/Electricity-Open-ca8a04?style=for-the-badge&labelColor=555" alt="Electricity Mix and Grid Carbon"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/air/"><img src="https://img.shields.io/badge/Air%20Quality-Open-64748b?style=for-the-badge&labelColor=555" alt="The Air We Breathe"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/housing/"><img src="https://img.shields.io/badge/Housing-Open-7c3aed?style=for-the-badge&labelColor=555" alt="Housing Affordability"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/chokepoints/"><img src="https://img.shields.io/badge/Chokepoints-Open-0e7490?style=for-the-badge&labelColor=555" alt="Chokepoints"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/electricity/"><img src="https://img.shields.io/badge/Electricity-Open-ca8a04?style=for-the-badge&labelColor=555" alt="Electricity Mix and Grid Carbon"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/air/"><img src="https://img.shields.io/badge/Air%20Quality-Open-64748b?style=for-the-badge&labelColor=555" alt="The Air We Breathe"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/housing/"><img src="https://img.shields.io/badge/Housing-Open-7c3aed?style=for-the-badge&labelColor=555" alt="Housing Affordability"></a>
 </p>
 
 <p align="center">
-  <a href="https://jahitjanberk.github.io/economy-monitor/water/"><img src="https://img.shields.io/badge/Water%20Stress-Open-0284c7?style=for-the-badge&labelColor=555" alt="Water Stress"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/scams/"><img src="https://img.shields.io/badge/Scam%20Economy-Open-dc2626?style=for-the-badge&labelColor=555" alt="The Scam Economy"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/internet/"><img src="https://img.shields.io/badge/Internet-Open-0d9488?style=for-the-badge&labelColor=555" alt="Where the Internet Lives"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/orbit/"><img src="https://img.shields.io/badge/Orbit-Open-1e3a8a?style=for-the-badge&labelColor=555" alt="Who Owns Orbit"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/water/"><img src="https://img.shields.io/badge/Water%20Stress-Open-0284c7?style=for-the-badge&labelColor=555" alt="Water Stress"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/scams/"><img src="https://img.shields.io/badge/Scam%20Economy-Open-dc2626?style=for-the-badge&labelColor=555" alt="The Scam Economy"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/internet/"><img src="https://img.shields.io/badge/Internet-Open-0d9488?style=for-the-badge&labelColor=555" alt="Where the Internet Lives"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/orbit/"><img src="https://img.shields.io/badge/Orbit-Open-1e3a8a?style=for-the-badge&labelColor=555" alt="Who Owns Orbit"></a>
 </p>
 
 <p align="center">
-  <a href="https://jahitjanberk.github.io/economy-monitor/food/"><img src="https://img.shields.io/badge/Food%20%26%20Hunger-Open-16a34a?style=for-the-badge&labelColor=555" alt="Food Prices and Hunger"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/debt/"><img src="https://img.shields.io/badge/Debt%20vs%20Services-Open-be123c?style=for-the-badge&labelColor=555" alt="Debt vs Public Services"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/heat/"><img src="https://img.shields.io/badge/Extreme%20Heat-Open-ea580c?style=for-the-badge&labelColor=555" alt="Extreme Heat"></a>
-  <a href="https://jahitjanberk.github.io/economy-monitor/minerals/"><img src="https://img.shields.io/badge/Critical%20Minerals-Open-a16207?style=for-the-badge&labelColor=555" alt="Critical Minerals"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/food/"><img src="https://img.shields.io/badge/Food%20%26%20Hunger-Open-16a34a?style=for-the-badge&labelColor=555" alt="Food Prices and Hunger"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/debt/"><img src="https://img.shields.io/badge/Debt%20vs%20Services-Open-be123c?style=for-the-badge&labelColor=555" alt="Debt vs Public Services"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/heat/"><img src="https://img.shields.io/badge/Extreme%20Heat-Open-ea580c?style=for-the-badge&labelColor=555" alt="Extreme Heat"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/minerals/"><img src="https://img.shields.io/badge/Critical%20Minerals-Open-a16207?style=for-the-badge&labelColor=555" alt="Critical Minerals"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jahitjanberk/economy-monitor/tree/main/data"><img src="https://img.shields.io/badge/Download-Open%20data%20(CSV%20%2F%20JSON)-2563eb?style=for-the-badge&labelColor=555" alt="Browse the open data"></a>
-  <a href="https://github.com/jahitjanberk/economy-monitor/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Everything%20(ZIP)-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="Download the repo as a ZIP"></a>
+  <a href="https://github.com/jahitjanberk/ledger-monitor/tree/main/data"><img src="https://img.shields.io/badge/Download-Open%20data%20(CSV%20%2F%20JSON)-2563eb?style=for-the-badge&labelColor=555" alt="Browse the open data"></a>
+  <a href="https://github.com/jahitjanberk/ledger-monitor/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download-Everything%20(ZIP)-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=555" alt="Download the repo as a ZIP"></a>
   <a href="#running-it-locally"><img src="https://img.shields.io/badge/Run%20locally-node%20scripts%2Fserve.mjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=555" alt="Run locally"></a>
 </p>
 

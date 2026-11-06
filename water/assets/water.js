@@ -1,5 +1,5 @@
-// Water Stress dashboard for Economy Monitor.
-// Built on the shared Economy Monitor shell, source drawer, bars, map library and world shapes.
+// Water Stress dashboard for Ledger Monitor.
+// Built on the shared Ledger Monitor shell, source drawer, bars, map library and world shapes.
 import { s as shell, S as Sources, e as esc, b as bars, d as maplibregl, w as world } from "../../assets/charts.js";
 import { n as geoNE, i as geoPath, c as create, g as graticule } from "../../assets/d3-CYFjbSD-.js";
 import { s as scrolly } from "../../assets/story-Cpe0Yf6I.js";
@@ -175,7 +175,7 @@ export default {
           ${factCard("US data centres · cooling, 2023", dcD, `${litres(dcD.value)} L`, `consumed on site to cool servers (${esc(dcD.note.replace(/^./, (c) => c.toLowerCase()))}). LBNL expects this could double by 2028.`)}
           ${factCard("US data centres · via electricity, 2023", dcI, `${litres(dcI.value)} L`, `consumed at power plants generating their electricity, about 12 times the on-site figure (${esc(dcI.note.replace(/^./, (c) => c.toLowerCase()))}).`, true)}
           <div class="em-card">
-            <p class="em-eyebrow">Part of Economy Monitor</p>
+            <p class="em-eyebrow">Part of Ledger Monitor</p>
             <h3>Where the internet lives</h3>
             <p class="note">See where cloud regions and AI supercomputers sit, and the power and water they use, on the internet dashboard. Few companies publish water use per site, so these US-wide estimates are the most complete figures available.</p>
             <a class="em-back" href="../internet/index.html" style="align-self:flex-start;margin-top:auto">Open the internet dashboard →</a>

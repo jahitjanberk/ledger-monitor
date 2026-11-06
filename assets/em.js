@@ -1,4 +1,4 @@
-// Economy Monitor: shared UX polish for every dashboard.
+// Ledger Monitor: shared UX polish for every dashboard.
 // Works from the markup the dashboards render, so it needs no changes to them:
 //   1. a sticky section index with the current section highlighted; links like
 //      air/#deaths open at that section, and each section heading can copy its link
@@ -643,7 +643,7 @@ whenMounted(() => {
     const nav = document.createElement("nav");
     nav.className = "em-more";
     nav.setAttribute("aria-label", "More dashboards");
-    nav.innerHTML = `<p class="em-eyebrow">More from Economy Monitor</p><ul>${picks.map((id) => `<li><a href="${new URL(`${id}/`, SITE)}"><b>${esc(DASHBOARDS[id].title)}</b><span>${esc(DASHBOARDS[id].blurb)}</span></a></li>`).join("")}</ul><p class="em-more-all"><a href="${SITE}">All dashboards →</a></p>`;
+    nav.innerHTML = `<p class="em-eyebrow">More from Ledger Monitor</p><ul>${picks.map((id) => `<li><a href="${new URL(`${id}/`, SITE)}"><b>${esc(DASHBOARDS[id].title)}</b><span>${esc(DASHBOARDS[id].blurb)}</span></a></li>`).join("")}</ul><p class="em-more-all"><a href="${SITE}">All dashboards →</a></p>`;
     (dashView().querySelector(":scope > .em-method") ?? dashView().lastElementChild).after(nav);
   }
 

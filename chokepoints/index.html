@@ -4,10 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light dark" />
-    <title>Chokepoints · Economy Monitor</title>
+    <title>Chokepoints · Ledger Monitor</title>
     <meta name="description" content="Where world trade squeezes through narrow straits and canals, built from verified public sources." />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Economy Monitor" />
+    <meta property="og:site_name" content="Ledger Monitor" />
     <meta property="og:title" content="Chokepoints" />
     <meta property="og:description" content="Where world trade squeezes through narrow straits and canals, built from verified public sources." />
     <meta property="og:image" content="../assets/og/chokepoints.png" />
@@ -15,7 +15,7 @@
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <!--seo-->
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Chokepoints","description":"Where world trade squeezes through narrow straits and canals, built from verified public sources. 6 tables: Chokepoints; Transits before and since the Hormuz closure; Weekly transits; Daily transits; Oil through chokepoints; Headline findings.","url":"./","license":"CC BY 4.0 for our compilation; IMF PortWatch and EIA terms apply to their data","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"Economy Monitor","url":"../"},"dateModified":"2026-10-31","isBasedOn":["https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730","https://portwatch.imf.org/","https://www.eia.gov/international/content/analysis/special_topics/world_oil_transit_chokepoints","https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping","https://indiaseatradenews.com/suez-canal-transits-still-60-below-pre-crisis-levels-100-days-after-last-houthi-attack/","https://www.naturalearthdata.com/"],"distribution":[{"@type":"DataDownload","name":"Chokepoints","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/chokepoints.csv"},{"@type":"DataDownload","name":"Transits before and since the Hormuz closure","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/summary.csv"},{"@type":"DataDownload","name":"Weekly transits","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/weekly.csv"},{"@type":"DataDownload","name":"Daily transits","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/daily.csv"},{"@type":"DataDownload","name":"Oil through chokepoints","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/oil.csv"},{"@type":"DataDownload","name":"Headline findings","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/facts.csv"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"Chokepoints","description":"Where world trade squeezes through narrow straits and canals, built from verified public sources. 6 tables: Chokepoints; Transits before and since the Hormuz closure; Weekly transits; Daily transits; Oil through chokepoints; Headline findings.","url":"./","license":"CC BY 4.0 for our compilation; IMF PortWatch and EIA terms apply to their data","isAccessibleForFree":true,"creator":{"@type":"Organization","name":"Ledger Monitor","url":"../"},"dateModified":"2026-10-31","isBasedOn":["https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730","https://portwatch.imf.org/","https://www.eia.gov/international/content/analysis/special_topics/world_oil_transit_chokepoints","https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping","https://indiaseatradenews.com/suez-canal-transits-still-60-below-pre-crisis-levels-100-days-after-last-houthi-attack/","https://www.naturalearthdata.com/"],"distribution":[{"@type":"DataDownload","name":"Chokepoints","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/chokepoints.csv"},{"@type":"DataDownload","name":"Transits before and since the Hormuz closure","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/summary.csv"},{"@type":"DataDownload","name":"Weekly transits","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/weekly.csv"},{"@type":"DataDownload","name":"Daily transits","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/daily.csv"},{"@type":"DataDownload","name":"Oil through chokepoints","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/oil.csv"},{"@type":"DataDownload","name":"Headline findings","encodingFormat":"text/csv","contentUrl":"../data/chokepoints/facts.csv"}]}</script>
     <!--/seo-->
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%236D3FC0'/%3E%3Cpath d='M16 7v18M7 16h18' stroke='%23fff' stroke-width='3'/%3E%3C/svg%3E" />
     <link rel="preload" href="../assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
@@ -40,12 +40,12 @@
   <body>
     <div id="app">
       <div class="em-wrap em-skel" aria-busy="true" aria-label="Loading the dashboard">
-        <div class="em-bar"><span class="em-brand"><i aria-hidden="true"></i>Economy Monitor</span></div>
+        <div class="em-bar"><span class="em-brand"><i aria-hidden="true"></i>Ledger Monitor</span></div>
         <div class="em-head"><p class="em-eyebrow">Loading Chokepoints…</p><div class="sk sk-h1"></div><div class="sk sk-h1 short"></div><div class="sk sk-p"></div></div>
         <div class="sk-kpis"><div class="sk"></div><div class="sk"></div><div class="sk"></div><div class="sk"></div></div>
       </div>
     </div>
-    <noscript>Economy Monitor needs JavaScript to draw its maps and charts. The raw data is in the <a href="../data/chokepoints/index.html">data/chokepoints/</a> folder of the site.</noscript>
+    <noscript>Ledger Monitor needs JavaScript to draw its maps and charts. The raw data is in the <a href="../data/chokepoints/index.html">data/chokepoints/</a> folder of the site.</noscript>
       <!--loadcheck--><script>
     // Explains a stuck loading screen. Browsers block module scripts and data on file:// pages,
     // so the dashboard needs a web server; a slow or failed load gets a reload link instead.

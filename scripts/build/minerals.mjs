@@ -32,7 +32,7 @@ const SOURCES = {
     url: "https://www.iea.org/data-and-statistics/charts/share-of-refined-material-production-by-country-with-the-top-producers-share-2023-versus-2025",
     published: "2026-07-16",
     method: "reference",
-    notes: "IEA. Licence: CC BY 4.0. This is a work derived by Economy Monitor from IEA material; it is not endorsed by the IEA.",
+    notes: "IEA. Licence: CC BY 4.0. This is a work derived by Ledger Monitor from IEA material; it is not endorsed by the IEA.",
   },
   "iea-top20": {
     publisher: "International Energy Agency",
@@ -264,10 +264,10 @@ for (const [id, title, description, records] of TABLES) {
 fs.writeFileSync(path.join(OUT, "sources.json"), JSON.stringify({ sources: SOURCES }, null, 2) + "\n");
 fs.writeFileSync(path.join(OUT, "index.json"), JSON.stringify({ variant: "minerals", licence: "CC BY 4.0", datasets: TABLES.map(([id, title, description, records]) => ({ id, title, description, rows: records.length })) }, null, 2) + "\n");
 const he = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#x27;" })[c]);
-fs.writeFileSync(path.join(OUT, "index.html"), `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>minerals data · Economy Monitor</title>
+fs.writeFileSync(path.join(OUT, "index.html"), `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>minerals data · Ledger Monitor</title>
 <style>body{font:16px/1.5 system-ui,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;color:#0a0a0a;background:#f5f5f1}table{width:100%;border-collapse:collapse}td{padding:10px 8px;border-bottom:1px solid #dadad3;vertical-align:top}small{color:#5c5c57}a{color:#3B50B5}</style>
-<h1>minerals data</h1><p>Every dataset behind the dashboard. Each row cites a source id listed in <a href="sources.json">sources.json</a>. Our compilation is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: credit "Economy Monitor" and the original publishers, whose own terms also apply (USGS: public domain; IEA, World Bank and OECD: CC BY 4.0). The refining tables are a work derived by Economy Monitor from IEA material; they are not endorsed by the IEA.</p>
-<table><tr><th align="left">Dataset</th><th align="left">Rows</th><th align="left">Download</th></tr>${TABLES.map(([id, title, d, rec]) => `<tr><td><b>${he(title)}</b><br><small>${he(d)}</small></td><td>${rec.length}</td><td><a href="${id}.csv">CSV</a> · <a href="${id}.json">JSON</a></td></tr>`).join("")}</table><p><a href="../../index.html">← Back to Economy Monitor</a></p>`);
+<h1>minerals data</h1><p>Every dataset behind the dashboard. Each row cites a source id listed in <a href="sources.json">sources.json</a>. Our compilation is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: credit "Ledger Monitor" and the original publishers, whose own terms also apply (USGS: public domain; IEA, World Bank and OECD: CC BY 4.0). The refining tables are a work derived by Ledger Monitor from IEA material; they are not endorsed by the IEA.</p>
+<table><tr><th align="left">Dataset</th><th align="left">Rows</th><th align="left">Download</th></tr>${TABLES.map(([id, title, d, rec]) => `<tr><td><b>${he(title)}</b><br><small>${he(d)}</small></td><td>${rec.length}</td><td><a href="${id}.csv">CSV</a> · <a href="${id}.json">JSON</a></td></tr>`).join("")}</table><p><a href="../../index.html">← Back to Ledger Monitor</a></p>`);
 
 const DATA = Object.fromEntries(TABLES.map(([id, , , rec]) => [id, rec]));
 fs.writeFileSync(path.join(REPO, "minerals/assets/data.js"), `export const SOURCES=${JSON.stringify(SOURCES)};\nexport const DATA=${JSON.stringify(DATA)};\n`);

@@ -4,7 +4,7 @@ Corrections and better sources are the most useful contributions.
 
 ## Reporting a wrong or out-of-date number
 
-[Open an issue](https://github.com/jahitjanberk/economy-monitor/issues/new) with:
+[Open an issue](https://github.com/jahitjanberk/ledger-monitor/issues/new) with:
 
 - the dashboard and the number (a link to the section helps: each section heading has a **Copy link** button)
 - what you think it should be

@@ -1,6 +1,6 @@
 # Methodology
 
-How Economy Monitor chooses, processes and presents its figures. Each dashboard repeats its own section of this file at the bottom of the page.
+How Ledger Monitor chooses, processes and presents its figures. Each dashboard repeats its own section of this file at the bottom of the page.
 
 ## Principles
 
@@ -172,7 +172,7 @@ Sources: [`data/heat/sources.json`](data/heat/sources.json) · Data: [`data/heat
 
 Mine production by country, reserves and annual prices come from the US Geological Survey's *Mineral Commodity Summaries 2026* (version 1.3, 27 May 2026). The country tables were read from the USGS chapter PDFs. Shares divide each country's 2025 estimate by USGS's rounded world total, so they can differ by a point or two from shares USGS states in its text (73% for DR Congo's cobalt, 82% for China's graphite). US lithium output is withheld, so lithium shares are of the world excluding the US; gallium is primary low-purity production; platinum is platinum alone, not all platinum-group metals. Germanium has no country table.
 
-Refining shares are from the International Energy Agency's *Global Critical Minerals Outlook 2026* for seven minerals in 2025, and from its 2025 edition for twenty minerals in the latest year available for each. They are a work derived by Economy Monitor from IEA material (CC BY 4.0) and are not endorsed by the IEA. Monthly copper, nickel, aluminium and tin prices are the World Bank's Pink Sheet London Metal Exchange series in nominal US dollars. Export controls are taken from the announcements of China's Ministry of Commerce, USGS and the IEA's policy database, with their status checked on 6 November 2026. Export restriction counts are from the OECD's *Inventory of Export Restrictions on Critical Raw Materials 2026*. The child labour estimate is UNICEF's from 2014, as cited by Amnesty International.
+Refining shares are from the International Energy Agency's *Global Critical Minerals Outlook 2026* for seven minerals in 2025, and from its 2025 edition for twenty minerals in the latest year available for each. They are a work derived by Ledger Monitor from IEA material (CC BY 4.0) and are not endorsed by the IEA. Monthly copper, nickel, aluminium and tin prices are the World Bank's Pink Sheet London Metal Exchange series in nominal US dollars. Export controls are taken from the announcements of China's Ministry of Commerce, USGS and the IEA's policy database, with their status checked on 6 November 2026. Export restriction counts are from the OECD's *Inventory of Export Restrictions on Critical Raw Materials 2026*. The child labour estimate is UNICEF's from 2014, as cited by Amnesty International.
 
 **What this doesn't show**
 

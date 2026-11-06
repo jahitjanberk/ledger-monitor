@@ -24,7 +24,7 @@ const cards = [...html.matchAll(/<article class="hb-card(?: hb-feat)?(?: hb-wide
   label: strip(body.match(/<p class="hb-label">([\s\S]*?)<span/)[1]),
   src: strip(body.match(/<span class="hb-src">· ([\s\S]*?)<\/span>/)[1]),
 }));
-cards.push({ id: "hub", color: "#2E4BFF", eyebrow: "12 open data dashboards", title: "Economy Monitor", big: "", label: "The systems behind everyday life, measured from public sources", src: "Every number cited · all data downloadable" });
+cards.push({ id: "hub", color: "#2E4BFF", eyebrow: "12 open data dashboards", title: "Ledger Monitor", big: "", label: "The systems behind everyday life, measured from public sources", src: "Every number cited · all data downloadable" });
 
 const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const page = (c) => `<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="/assets/fonts.css"><style>
@@ -38,7 +38,7 @@ h1{font-size:${c.big ? 60 : 104}px;line-height:1.02;letter-spacing:-.035em;font-
 .label{font-size:${c.big ? 30 : 44}px;line-height:1.25;max-width:${c.big ? 34 : 24}ch;margin:${c.big ? "14px 0 0" : "auto 0 0"};${c.big ? "" : `color:${c.color};font-weight:600;letter-spacing:-.02em`}}
 .src{font:500 20px/1.3 "JetBrains Mono",monospace;color:#5C5C57;margin-top:18px;text-transform:uppercase;letter-spacing:.04em}
 </style></head><body>
-<div class="top"><span class="brand"><i></i>Economy Monitor</span><span class="eb">${esc(c.eyebrow)}</span></div>
+<div class="top"><span class="brand"><i></i>Ledger Monitor</span><span class="eb">${esc(c.eyebrow)}</span></div>
 <h1>${esc(c.title)}</h1>${c.big ? `<div class="big">${esc(c.big)}</div>` : ""}<p class="label">${esc(c.label)}</p><p class="src">${esc(c.src)}</p>
 </body></html>`;
 

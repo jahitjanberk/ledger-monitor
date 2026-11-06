@@ -1,6 +1,6 @@
 import dash from "./food.js";
 const app = document.getElementById("app");
-document.title = `${dash.title} · Economy Monitor`;
+document.title = `${dash.title} · Ledger Monitor`;
 document.querySelector('meta[name="description"]')?.setAttribute("content", dash.description);
 try {
   dash.mount(app);

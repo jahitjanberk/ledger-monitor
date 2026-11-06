@@ -3,4 +3,4 @@ import { serve } from "./lib/browser.mjs";
 
 const port = Number(process.argv[2] ?? 8765);
 const srv = serve(port);
-console.log(`Economy Monitor at ${srv.url}  (Ctrl+C to stop)`);
+console.log(`Ledger Monitor at ${srv.url}  (Ctrl+C to stop)`);

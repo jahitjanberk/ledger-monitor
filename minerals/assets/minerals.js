@@ -1,5 +1,5 @@
-// Critical Minerals dashboard for Economy Monitor.
-// Built on the shared Economy Monitor shell, source drawer, bars, map library and world shapes.
+// Critical Minerals dashboard for Ledger Monitor.
+// Built on the shared Ledger Monitor shell, source drawer, bars, map library and world shapes.
 import { s as shell, S as Sources, e as esc, b as bars, d as maplibregl, w as world } from "../../assets/charts.js";
 import { n as geoNE, i as geoPath, c as create, g as graticule } from "../../assets/d3-CYFjbSD-.js";
 import { s as scrolly } from "../../assets/story-Cpe0Yf6I.js";
@@ -211,7 +211,7 @@ export default {
       <section class="em-method" id="method">
         <p class="em-eyebrow"><span class="num">09</span>Method</p>
         <p><b>Mining</b> figures are from the US Geological Survey's <i>Mineral Commodity Summaries 2026</i>: mine production by country for 2024 and estimated 2025, and reserves. Shares divide each country's output by USGS's rounded world total, so they can differ by a point or two from the shares USGS quotes in its text, such as 73% for DR Congo's cobalt. US lithium output is withheld, so lithium shares are of the world excluding the US. Gallium is primary low-purity production. The tables were read from the USGS chapter PDFs.</p>
-        <p><b>Refining</b> shares for seven minerals in 2025 are from the IEA's <i>Global Critical Minerals Outlook 2026</i>, and for twenty minerals from its 2025 edition (latest year available for each). <b>Prices</b> are USGS's annual averages, which it quotes from Benchmark Mineral Intelligence, S&amp;P Global Platts and Argus, and the World Bank's monthly London Metal Exchange prices. <b>Export controls</b> are taken from the announcements of China's Ministry of Commerce and the IEA's policy database, with status checked on 6 November 2026. The refining figures are a work derived by Economy Monitor from IEA material and are not endorsed by the IEA.</p>
+        <p><b>Refining</b> shares for seven minerals in 2025 are from the IEA's <i>Global Critical Minerals Outlook 2026</i>, and for twenty minerals from its 2025 edition (latest year available for each). <b>Prices</b> are USGS's annual averages, which it quotes from Benchmark Mineral Intelligence, S&amp;P Global Platts and Argus, and the World Bank's monthly London Metal Exchange prices. <b>Export controls</b> are taken from the announcements of China's Ministry of Commerce and the IEA's policy database, with status checked on 6 November 2026. The refining figures are a work derived by Ledger Monitor from IEA material and are not endorsed by the IEA.</p>
         <p class="em-eyebrow" style="margin-top:24px">All sources</p>
         <ol class="em-srclist">${src.list()}</ol>
       </section>

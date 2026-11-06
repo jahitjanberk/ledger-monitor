@@ -1,10 +1,10 @@
 # Data licences
 
-Economy Monitor's code is MIT-licensed (see [LICENSE](LICENSE)). The data is covered separately, as follows.
+Ledger Monitor's code is MIT-licensed (see [LICENSE](LICENSE)). The data is covered separately, as follows.
 
 ## Our compilation: CC BY 4.0
 
-The tables under `data/` are our selection, cleaning and arrangement of figures from public sources. You may reuse them under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit **Economy Monitor** and the original publisher of the figures you use.
+The tables under `data/` are our selection, cleaning and arrangement of figures from public sources. You may reuse them under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit **Ledger Monitor** and the original publisher of the figures you use.
 
 ## The underlying data: the publishers' own terms
 
@@ -38,4 +38,4 @@ Individual figures quoted from reports and news articles, such as a single total
 
 The built site includes third-party code and fonts under their own licences: [MapLibre GL JS](https://github.com/maplibre/maplibre-gl-js) (BSD 3-Clause), [D3](https://github.com/d3/d3) (ISC), and the Inter Tight and JetBrains Mono fonts (SIL Open Font License 1.1, see `assets/fonts/`).
 
-If you think something here is wrong, please [open an issue](https://github.com/jahitjanberk/economy-monitor/issues).
+If you think something here is wrong, please [open an issue](https://github.com/jahitjanberk/ledger-monitor/issues).

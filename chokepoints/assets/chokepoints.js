@@ -1,5 +1,5 @@
-// Chokepoints dashboard for Economy Monitor.
-// Built on the shared Economy Monitor shell, source drawer, bars, map library and world shapes.
+// Chokepoints dashboard for Ledger Monitor.
+// Built on the shared Ledger Monitor shell, source drawer, bars, map library and world shapes.
 import { s as shell, S as Sources, e as esc, b as bars, d as maplibregl, w as world } from "../../assets/charts.js";
 import { s as scrolly } from "../../assets/story-Cpe0Yf6I.js";
 import { DATA, SOURCES } from "./data.js";

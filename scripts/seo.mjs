@@ -23,7 +23,7 @@ const today = new Date().toISOString().slice(0, 10);
 function datasetLd(id, html) {
   const index = json(`data/${id}/index.json`);
   const { sources } = json(`data/${id}/sources.json`);
-  const name = meta(html, /<title>([^<]*?)\s*·\s*Economy Monitor<\/title>/) ?? id;
+  const name = meta(html, /<title>([^<]*?)\s*·\s*Ledger Monitor<\/title>/) ?? id;
   const description = meta(html, /<meta name="description" content="([^"]*)"/) ?? "";
   const dates = Object.values(sources).map((s) => String(s.published ?? "")).filter((d) => /^\d{4}-\d{2}-\d{2}$/.test(d)).sort();
   const dataUrl = (f) => abs(`data/${id}/${f}`) ?? `../data/${id}/${f}`;
@@ -35,7 +35,7 @@ function datasetLd(id, html) {
     url: abs(`${id}/`) ?? "./",
     license: index.licence === "CC BY 4.0" ? "https://creativecommons.org/licenses/by/4.0/" : index.licence,
     isAccessibleForFree: true,
-    creator: { "@type": "Organization", name: "Economy Monitor", url: abs("") ?? "../" },
+    creator: { "@type": "Organization", name: "Ledger Monitor", url: abs("") ?? "../" },
     ...(dates.length ? { dateModified: dates.at(-1) } : {}),
     isBasedOn: Object.values(sources).map((s) => s.url).filter(Boolean),
     distribution: index.datasets.map((d) => ({ "@type": "DataDownload", name: d.title, encodingFormat: "text/csv", contentUrl: dataUrl(`${d.id}.csv`) })),

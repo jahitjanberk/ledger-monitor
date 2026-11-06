@@ -1,5 +1,5 @@
-// Electricity Mix & Grid Carbon dashboard for Economy Monitor.
-// Built on the shared Economy Monitor shell, source drawer, bars, map library and world shapes.
+// Electricity Mix & Grid Carbon dashboard for Ledger Monitor.
+// Built on the shared Ledger Monitor shell, source drawer, bars, map library and world shapes.
 import { s as shell, S as Sources, e as esc, b as bars, d as maplibregl, w as world } from "../../assets/charts.js";
 import { n as geoNE, i as geoPath, c as create, g as graticule } from "../../assets/d3-CYFjbSD-.js";
 import { s as scrolly } from "../../assets/story-Cpe0Yf6I.js";
@@ -196,7 +196,7 @@ export default {
           ${factCard("Solar and wind · 2025", fWS, `${fWS.value}%`, `of the <b ${t(fDem.source)}>${fDem.value} TWh</b> rise in global electricity demand was met by solar and wind together.`)}
           ${factCard("Fossil power · 2025", fFos, `${fFos.value} TWh`, `${esc(fFos.note.replace(/^-(?=\d)/, "Down "))}.`)}
           <div class="em-card">
-            <p class="em-eyebrow">Part of Economy Monitor</p>
+            <p class="em-eyebrow">Part of Ledger Monitor</p>
             <h3>Where the internet lives</h3>
             <p class="note">Data centres are one of the fastest-growing users of electricity. See how much they use, country by country, on the internet dashboard.</p>
             <a class="em-back" href="../internet/index.html" style="align-self:flex-start;margin-top:auto">Open the internet dashboard →</a>

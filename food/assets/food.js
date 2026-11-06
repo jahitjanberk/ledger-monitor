@@ -1,5 +1,5 @@
-// Food Prices & Hunger dashboard for Economy Monitor.
-// Built on the shared Economy Monitor shell, source drawer, bars, map library and world shapes.
+// Food Prices & Hunger dashboard for Ledger Monitor.
+// Built on the shared Ledger Monitor shell, source drawer, bars, map library and world shapes.
 import { s as shell, S as Sources, e as esc, b as bars, d as maplibregl, w as world } from "../../assets/charts.js";
 import { n as geoNE, i as geoPath, c as create, g as graticule } from "../../assets/d3-CYFjbSD-.js";
 import { s as scrolly } from "../../assets/story-Cpe0Yf6I.js";
