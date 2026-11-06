@@ -48,6 +48,10 @@
   <a href="METHODOLOGY.md">Methodology</a> · <a href="DATA_LICENSE.md">Data licence</a> · <a href="CONTRIBUTING.md">Contributing</a> · <a href="about/">About</a>
 </p>
 
+<p align="center">
+  <a href="https://jahitjanberk.github.io/ledger-monitor/"><img src="docs/hub-screenshot.png" alt="The Ledger Monitor hub: the headline 'The systems behind everyday life, measured from public sources' above the Chokepoints and Electricity Mix dashboard cards" width="900"></a>
+</p>
+
 | Dashboard | What it shows |
 |---|---|
 | [Chokepoints](chokepoints/) | Ships and oil through the world's narrow sea routes, and what the 2026 closure of the Strait of Hormuz did to them |
@@ -86,4 +90,4 @@ Each dashboard's tables are in `data/<dashboard>/` as CSV and JSON, with a `sour
 
 Corrections with a link to a better source are very welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Made by [jahitjanberk](https://github.com/jahitjanberk). More on the [About page](about/).
+Made by [jahit](https://github.com/jahitjanberk). More on the [About page](about/).
