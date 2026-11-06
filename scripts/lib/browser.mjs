@@ -16,21 +16,29 @@ const TYPES = {
   ".woff2": "font/woff2", ".txt": "text/plain", ".xml": "application/xml", ".webmanifest": "application/manifest+json",
 };
 
-/** Serves ROOT on the given port. Missing files get 404.html, like most static hosts. */
+/** Serves ROOT on the given port. Missing files get 404.html, like most static hosts.
+ *  Listens on loopback only, so the project folder isn't shared with the local network. */
 export function serve(port) {
   const server = http.createServer((q, r) => {
-    let f = path.join(ROOT, decodeURIComponent(q.url.split(/[?#]/)[0]));
-    if (!f.startsWith(ROOT)) { r.writeHead(403); return r.end(); }
+    let rel;
+    try { rel = decodeURIComponent(q.url.split(/[?#]/)[0]); } catch { r.writeHead(400); return r.end(); }
+    let f = path.resolve(ROOT, "." + path.sep + rel);
+    // Must stay inside ROOT (a bare prefix check would also let ROOT-sibling folders through),
+    // and never serve dotfiles or dot-folders such as .git.
+    const inside = path.relative(ROOT, f);
+    if (rel.includes("\0") || inside.startsWith("..") || path.isAbsolute(inside) || inside.split(path.sep).some((s) => s.startsWith("."))) {
+      r.writeHead(403); return r.end();
+    }
     try { if (fs.statSync(f).isDirectory()) f = path.join(f, "index.html"); } catch { /* handled below */ }
     fs.readFile(f, (e, b) => {
       if (e) {
         r.writeHead(404, { "content-type": TYPES[".html"] });
         return r.end(fs.existsSync(path.join(ROOT, "404.html")) ? fs.readFileSync(path.join(ROOT, "404.html")) : "Not found");
       }
-      r.writeHead(200, { "content-type": TYPES[path.extname(f)] ?? "application/octet-stream" });
+      r.writeHead(200, { "content-type": TYPES[path.extname(f)] ?? "application/octet-stream", "x-content-type-options": "nosniff" });
       r.end(b);
     });
-  }).listen(port);
+  }).listen(port, "127.0.0.1");
   return {
     url: `http://localhost:${port}/`,
     close() { server.closeAllConnections(); server.close(); },
