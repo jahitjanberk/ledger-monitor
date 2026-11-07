@@ -2,6 +2,27 @@
   "_about": "Entries for feed.xml, newest first. Add one each time data is refreshed or a page is added, then run: node scripts/feed.mjs. 'path' is relative to the site root.",
   "updates": [
     {
+      "id": "2026-11-07-disasters",
+      "date": "2026-11-07T18:00:00Z",
+      "title": "New dashboard: Floods, Disasters & Insurance Gaps",
+      "path": "disasters/",
+      "summary": "1.81 billion people live where a once-a-century flood would reach them. The new dashboard, a companion to Extreme Heat, shows who is exposed to flooding (World Bank study, Nature Communications), how often disasters force people from their homes (IDMC), what disasters killed and cost in 2025 (CRED), how much of the loss was insured (Munich Re, Swiss Re), and England's flood risk (Environment Agency)."
+    },
+    {
+      "id": "2026-11-07-housing-ubs-2026",
+      "date": "2026-11-07T14:00:00Z",
+      "title": "Housing: UBS bubble risk updated to 2026",
+      "path": "housing/",
+      "summary": "The bubble-risk ratings now come from the UBS Global Real Estate Bubble Index 2026, which covers 23 cities, including Seoul and Lisbon for the first time. Zurich and Tokyo are the only cities at high risk; Miami, top of the index for the previous two editions, drops to elevated. Hong Kong, the least affordable market in the Demographia survey, rises from low to moderate. The links to the Demographia reports, which had moved, are fixed; their figures were checked against the reports and are unchanged."
+    },
+    {
+      "id": "2026-11-07-food-share-2025",
+      "date": "2026-11-07T12:00:00Z",
+      "title": "Food: what households spend on food, updated to 2025",
+      "path": "food/",
+      "summary": "Food's share of household spending now comes straight from the US Department of Agriculture's August 2026 edition, with 2025 figures for 103 countries (2023 before). Nigeria still spends the most, 56% of household budgets; Singapore (6.3%) now spends less than the United States (6.4%). ERS now uses Oxford Economics data, so some countries, such as Bangladesh and Venezuela, differ a lot from the previous edition."
+    },
+    {
       "id": "2026-11-07-fertiliser-remittances",
       "date": "2026-11-07T01:00:00Z",
       "title": "Two new dashboards, rebuild scripts for every dashboard, and data corrections",

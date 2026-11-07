@@ -3,7 +3,7 @@
     "demographia-2026": {
       "publisher": "Chapman University Center for Demographics and Policy",
       "title": "Demographia International Housing Affordability, 2026 Edition",
-      "url": "https://blogs.chapman.edu/wp-content/uploads/sites/56/2026/05/Demographia-International-Housing-Affordability-2026-Edition-1.pdf",
+      "url": "https://blogs.chapman.edu/demographics-and-policy/wp-content/uploads/sites/82/2026/07/Demographia-International-Housing-Affordability-2026-Edition.pdf",
       "published": "2026-05",
       "method": "reported",
       "notes": "Data for the third quarter of 2025."
@@ -11,7 +11,7 @@
     "demographia-2025": {
       "publisher": "Chapman University Center for Demographics and Policy",
       "title": "Demographia International Housing Affordability, 2025 Edition",
-      "url": "https://blogs.chapman.edu/wp-content/uploads/sites/56/2025/06/Demographic-International-Housing-Affordability-2025.pdf",
+      "url": "https://blogs.chapman.edu/demographics-and-policy/wp-content/uploads/sites/82/2025/06/Demographic-International-Housing-Affordability-2025.pdf",
       "published": "2025-05",
       "method": "reported",
       "notes": "Data for the third quarter of 2024."
@@ -24,12 +24,13 @@
       "method": "reported",
       "notes": "London ratio corrected to 10.6 by the ONS on 13 May 2026."
     },
-    "ubs-2025": {
+    "ubs-2026": {
       "publisher": "UBS",
-      "title": "UBS Global Real Estate Bubble Index 2025",
-      "url": "https://www.ubs.com/global/de/media/display-page-ndp/en-20250923-grebi25.html",
-      "published": "2025-09-23",
-      "method": "reference"
+      "title": "UBS Global Real Estate Bubble Index 2026",
+      "url": "https://www.ubs.com/global/en/media/display-page-ndp/en-20260922-grebi26.html",
+      "published": "2026-09-22",
+      "method": "reference",
+      "notes": "Risk categories for 23 cities, as listed in the media release."
     },
     "geonames": {
       "publisher": "GeoNames (via the all-the-cities package)",

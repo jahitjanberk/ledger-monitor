@@ -1,0 +1,10 @@
+publisher,period,overall_bn,insured_bn,uninsured_bn,insured_pct,fatalities,note,source
+Swiss Re Institute,2025,220,107,113,49,,"Natural catastrophes, 2025 prices",swissre-sigma
+Swiss Re Institute,2024,327,141,186,43,,2025 prices,swissre-sigma
+Swiss Re Institute,Previous 10-year average,267,111,156,42,,2025 prices,swissre-sigma
+Munich Re,2025,224,108,116,48,17200,Droughts and heatwaves not included,munichre-2025
+Munich Re,2024,368,147,221,40,11000,Inflation-adjusted,munichre-2025
+Munich Re,"5-year average, 2020 to 2024",302,125,177,41,23400,Inflation-adjusted,munichre-2025
+Munich Re,"10-year average, 2015 to 2024",266,107,159,40,17800,Inflation-adjusted,munichre-2025
+Munich Re,"30-year average, 1995 to 2024",192,66,126,34,41900,Inflation-adjusted,munichre-2025
+Munich Re,First half of 2026,112,44,68,39,8200,January to June,munichre-h1-2026

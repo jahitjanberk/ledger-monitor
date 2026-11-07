@@ -1,0 +1,67 @@
+{
+  "id": "gap_regions",
+  "title": "Insured and overall losses by continent, 2025",
+  "description": "Munich Re NatCatSERVICE loss overview per continent, quoted from its 2025 factsheet.",
+  "records": [
+    {
+      "region": "North America, Central America and Caribbean",
+      "overall_bn": 133,
+      "insured_bn": 93,
+      "insured_max": null,
+      "insured_pct": 70,
+      "fatalities": 660,
+      "year": 2025,
+      "source": "munichre-2025"
+    },
+    {
+      "region": "of which United States",
+      "overall_bn": 118,
+      "insured_bn": 88,
+      "insured_max": null,
+      "insured_pct": 75,
+      "fatalities": 370,
+      "year": 2025,
+      "source": "munichre-2025"
+    },
+    {
+      "region": "South America",
+      "overall_bn": 4.2,
+      "insured_bn": null,
+      "insured_max": 0.5,
+      "insured_pct": null,
+      "fatalities": 300,
+      "year": 2025,
+      "source": "munichre-2025"
+    },
+    {
+      "region": "Asia-Pacific",
+      "overall_bn": 73,
+      "insured_bn": 8.9,
+      "insured_max": null,
+      "insured_pct": 12,
+      "fatalities": 13600,
+      "year": 2025,
+      "source": "munichre-2025"
+    },
+    {
+      "region": "Europe",
+      "overall_bn": 11,
+      "insured_bn": 5.3,
+      "insured_max": null,
+      "insured_pct": 48,
+      "fatalities": 90,
+      "year": 2025,
+      "source": "munichre-2025"
+    },
+    {
+      "region": "Africa",
+      "overall_bn": 2.9,
+      "insured_bn": null,
+      "insured_max": 1,
+      "insured_pct": null,
+      "fatalities": 2500,
+      "year": 2025,
+      "source": "munichre-2025"
+    }
+  ]
+}

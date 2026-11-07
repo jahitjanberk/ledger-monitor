@@ -1,6 +1,6 @@
 // Builds data/food/* and food/assets/data.js for the Food Prices & Hunger dashboard
 // from the raw downloads in scripts/.raw/food (FAOSTAT bulk files, FAO FFPI, World Bank Pink Sheet,
-// ONS MM23 series, OWID's processed USDA ERS series).
+// ONS MM23 series, USDA ERS international food expenditure workbook).
 //   node scripts/build/food.mjs        (raw downloads in scripts/.raw/food/, or set RAW to their parent folder)
 // See scripts/build/README.md for the files each builder needs and where to download them.
 import fs from "node:fs";
@@ -42,7 +42,7 @@ const SOURCES = {
     publisher: "FAO, FAOSTAT, from national statistics offices, the IMF and the ILO",
     title: "Consumer Price Indices: food price inflation",
     url: "https://www.fao.org/faostat/en/#data/CP",
-    published: "2026-10-09",
+    published: "2026-10-20",
     method: "reference",
     notes: "Year-on-year change in each country's food consumer price index, by month. Latest month available for each country, mostly June 2026. CC BY 4.0.",
   },
@@ -127,12 +127,12 @@ const SOURCES = {
     notes: "Online YouGov survey of UK adults, June 2026. Measures food insecurity in the past month, so it runs higher than the yearly official figure.",
   },
   "usda-ers": {
-    publisher: "USDA Economic Research Service (processed by Our World in Data)",
-    title: "Food as a share of total consumer expenditure",
-    url: "https://ourworldindata.org/grapher/share-of-consumer-expenditure-spent-on-food",
-    published: "2025-03-26",
+    publisher: "US Department of Agriculture, Economic Research Service",
+    title: "International Food and Alcoholic Beverage Expenditure Data: percent of consumer expenditures spent on food, alcoholic beverages, and tobacco that were consumed at home, by selected countries, 2021–2025",
+    url: "https://www.ers.usda.gov/data-products/international-food-and-alcoholic-beverage-expenditure-data",
+    published: "2026-08-11",
     method: "reference",
-    notes: "Food eaten at home, as a share of all household consumer spending, 2023. Excludes restaurants, alcohol and tobacco.",
+    notes: "Food and non-alcoholic drinks bought to eat at home, as a share of all household consumer spending (shares calculated in local currency). Each country's latest year: 2025 for every country except Montenegro (2022). ERS calculated 2024 and 2025 from Oxford Economics data and earlier years from Euromonitor International. Excludes restaurants, alcohol and tobacco. US government work, public domain.",
   },
   "natural-earth": {
     publisher: "Natural Earth (via the world-atlas package)",
@@ -186,11 +186,22 @@ for (const r of CP) {
 
 const INFL_CUTOFF = "2025-07";
 
-// ---------- USDA ERS via OWID ----------
+// ---------- USDA ERS: one sheet per year (the year ends the title in row 1); each country's latest year ----------
+// Country names match data/air/countries.json except these two.
+const ERS_DIR = path.join(RAW, "ers_intl");
+const ERS_ALIAS = { "Czech Republic": "CZE", "Côte d'Ivoire": "CIV" };
+const ISO_BY_NAME = Object.fromEntries(air.map((r) => [r.country, r.iso3]));
 const share = {};
-for (const r of readCsv(path.join(RAW, "share-of-consumer-expenditure-spent-on-food.csv"))) {
-  if (!r.code || r.code.startsWith("OWID")) continue;
-  if (!share[r.code] || +share[r.code].year < +r.year) share[r.code] = { year: +r.year, value: Number(r.food_as_share_of_all_expenditure) };
+for (const file of fs.readdirSync(path.join(ERS_DIR, "xl/worksheets")).filter((f) => /^sheet\d+\.xml$/.test(f))) {
+  const rows = readSheet(ERS_DIR, file);
+  const year = Number(String(rows[0]?.[0] ?? "").match(/countries, (\d{4})\d?\s*$/)?.[1]);
+  if (!year || !/^Share of consumer expenditures on food/.test(rows[1]?.[1] ?? "") || rows[2]?.[1] !== "Percent") throw new Error(`Unexpected ERS sheet layout in ${file}`);
+  for (const r of rows.slice(3)) {
+    if (!r || typeof r[0] !== "string" || typeof r[1] !== "number") continue;
+    const iso3 = ERS_ALIAS[r[0].trim()] ?? ISO_BY_NAME[r[0].trim()];
+    if (!iso3) throw new Error(`ERS country not matched: ${r[0]}`);
+    if (!share[iso3] || share[iso3].year < year) share[iso3] = { year, value: r[1] };
+  }
 }
 
 // ---------- Bands ----------
@@ -346,7 +357,7 @@ fs.writeFileSync(path.join(OUT, "index.json"), JSON.stringify({ variant: "food",
 const he = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#x27;" })[c]);
 fs.writeFileSync(path.join(OUT, "index.html"), `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>food data · Ledger Monitor</title>
 <style>body{font:16px/1.5 system-ui,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;color:#0a0a0a;background:#f5f5f1}table{width:100%;border-collapse:collapse}td{padding:10px 8px;border-bottom:1px solid #dadad3;vertical-align:top}small{color:#5c5c57}a{color:#3B50B5}</style>
-<h1>food data</h1><p>Every dataset behind the dashboard. Each row cites a source id listed in <a href="sources.json">sources.json</a>. Our compilation is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: credit "Ledger Monitor" and the original publishers, whose own terms also apply (FAOSTAT and the World Bank: CC BY 4.0; ONS and DWP: Open Government Licence v3.0).</p>
+<h1>food data</h1><p>Every dataset behind the dashboard. Each row cites a source id listed in <a href="sources.json">sources.json</a>. Our compilation is licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>: credit "Ledger Monitor" and the original publishers, whose own terms also apply (FAOSTAT and the World Bank: CC BY 4.0; ONS and DWP: Open Government Licence v3.0; USDA ERS: US public domain).</p>
 <table><tr><th align="left">Dataset</th><th align="left">Rows</th><th align="left">Download</th></tr>${TABLES.map(([id, title, d, rec]) => `<tr><td><b>${he(title)}</b><br><small>${he(d)}</small></td><td>${rec.length}</td><td><a href="${id}.csv">CSV</a> · <a href="${id}.json">JSON</a></td></tr>`).join("")}</table><p><a href="../../index.html">← Back to Ledger Monitor</a></p>`);
 
 const DATA = Object.fromEntries(TABLES.map(([id, , , rec]) => [id, rec]));

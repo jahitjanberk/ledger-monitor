@@ -1,0 +1,9 @@
+asset,unit,present,present_pct,climate_2040_2060,climate_pct,source
+Roads,km,113900,37.7,137700,45.6,ea-nafra
+Railways,km,4300,36.8,6300,53.8,ea-nafra
+Education facilities,sites,30000,21.4,37000,26.4,ea-nafra
+Medical facilities,sites,11800,25.5,14600,31.5,ea-nafra
+Emergency services,sites,2000,26,2400,31.2,ea-nafra
+Water pumping stations or treatment works,sites,12800,34.4,14200,38.2,ea-nafra
+Electricity infrastructure,sites,52600,22.1,61600,25.9,ea-nafra
+Gas infrastructure,sites,1300,35.1,1400,37.6,ea-nafra

@@ -343,4 +343,21 @@ export const FIGS = {
       };
     },
   },
+  disasters: {
+    files: ["world"], title: "Times people were displaced by disasters, millions",
+    source: "Internal Displacement Monitoring Centre (IDMC), Global Internal Displacement Database",
+    draw([rows], w, h) {
+      rows = [...rows].sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20, m = (v) => v / 1e6;
+      const peak = rows.reduce((p, r) => (r.total > p.total ? r : p));
+      const y = fx(0, 50, base, 26), bw = w / rows.length, xc = (r) => (rows.indexOf(r) + 0.5) * bw;
+      return {
+        label: `Disaster displacements worldwide: ${num(m(a.total), 1)} million in ${a.year}, a high of ${num(m(peak.total), 1)} million in ${peak.year} and ${num(m(z.total), 1)} million in ${z.year}; storms and floods caused ${num((100 * (z.storm + z.flood)) / z.total)}% of them in ${z.year}.`,
+        svg: columns(rows.map((r) => m(r.total)), w, y, base, (_, i) => (i === rows.length - 1 ? "var(--em-accent)" : MUTE))
+          + T(xc(peak), y(m(peak.total)) - 8, `${num(m(peak.total), 1)}m in ${peak.year}`, "", "middle")
+          + T(w, 12, `${num(m(z.total), 1)}m in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
 };

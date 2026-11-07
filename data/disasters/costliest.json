@@ -1,0 +1,57 @@
+{
+  "id": "costliest",
+  "title": "Costliest natural disasters of 2025",
+  "description": "The five largest natural disasters of 2025 by overall losses, with insured losses and deaths, quoted from Munich Re.",
+  "records": [
+    {
+      "date": "January to February 2025",
+      "region": "United States",
+      "event": "Wildfires (Palisades and Eaton fires)",
+      "fatalities": 30,
+      "overall_bn": 53,
+      "insured_bn": 40,
+      "insured_pct": 75,
+      "source": "munichre-2025"
+    },
+    {
+      "date": "28 March 2025",
+      "region": "Myanmar, Thailand, China, Vietnam",
+      "event": "Earthquake",
+      "fatalities": 4500,
+      "overall_bn": 12,
+      "insured_bn": 1.5,
+      "insured_pct": 13,
+      "source": "munichre-2025"
+    },
+    {
+      "date": "October 2025",
+      "region": "Jamaica, Cuba, Bahamas and others",
+      "event": "Hurricane Melissa",
+      "fatalities": 95,
+      "overall_bn": 9.8,
+      "insured_bn": 3,
+      "insured_pct": 31,
+      "source": "munichre-2025"
+    },
+    {
+      "date": "14 to 17 March 2025",
+      "region": "United States",
+      "event": "Severe storm",
+      "fatalities": 29,
+      "overall_bn": 9.4,
+      "insured_bn": 7,
+      "insured_pct": 74,
+      "source": "munichre-2025"
+    },
+    {
+      "date": "July 2025",
+      "region": "China",
+      "event": "Flood",
+      "fatalities": 70,
+      "overall_bn": 5.8,
+      "insured_bn": 0.5,
+      "insured_pct": 9,
+      "source": "munichre-2025"
+    }
+  ]
+}

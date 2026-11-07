@@ -160,6 +160,12 @@ const SPARKS = {
     return fig(area(v, max, ACC) + line(v, max, ACC) + hline(3, max, MUTED, "UN target: 3%"),
       `Average cost of sending $200 abroad, from ${v[0].toFixed(2)}% in ${p[0].year} to ${v.at(-1).toFixed(2)}% in ${p.at(-1).year}, against a 3% target`, `Cost of sending $200, %`, `${p[0].year}–${p.at(-1).year}`);
   },
+  disasters() {
+    const p = rec("disasters/world.json").sort((a, b) => a.year - b.year);
+    const v = p.map((r) => r.total / 1e6), max = 50;
+    return fig(bars(v, max, (_, i) => (i === v.length - 1 ? ACC : MUTED), 0.3),
+      `Disaster displacements worldwide, ${v[0].toFixed(1)} million in ${p[0].year} and ${v.at(-1).toFixed(1)} million in ${p.at(-1).year}; the high was ${Math.max(...v).toFixed(1)} million`, `Times people were displaced by disasters, millions`, `${p[0].year}–${p.at(-1).year}`);
+  },
 };
 
 const file = path.join(ROOT, "index.html");

@@ -1,0 +1,87 @@
+{
+  "id": "deadliest",
+  "title": "Deadliest disasters of 2025",
+  "description": "The ten deadliest natural hazard-related disasters of 2025, quoted from CRED's 2025 Disasters in Numbers.",
+  "records": [
+    {
+      "country": "Myanmar",
+      "iso3": "MMR",
+      "event": "Earthquake",
+      "deaths": 3820,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Afghanistan",
+      "iso3": "AFG",
+      "event": "Earthquake",
+      "deaths": 2200,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Indonesia",
+      "iso3": "IDN",
+      "event": "Tropical Cyclone Senyar",
+      "deaths": 1109,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Nigeria",
+      "iso3": "NGA",
+      "event": "Mokwa flood (May)",
+      "deaths": 1100,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Pakistan",
+      "iso3": "PAK",
+      "event": "Floods",
+      "deaths": 1037,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Sri Lanka",
+      "iso3": "LKA",
+      "event": "Tropical Cyclone Ditwah",
+      "deaths": 823,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Sudan",
+      "iso3": "SDN",
+      "event": "Landslide",
+      "deaths": 400,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Philippines",
+      "iso3": "PHL",
+      "event": "Typhoon Kalmaegi (Tino)",
+      "deaths": 372,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Thailand",
+      "iso3": "THA",
+      "event": "Flood and Cyclone Senyar",
+      "deaths": 276,
+      "year": 2025,
+      "source": "cred-2025"
+    },
+    {
+      "country": "Nigeria",
+      "iso3": "NGA",
+      "event": "Floods (June to October)",
+      "deaths": 238,
+      "year": 2025,
+      "source": "cred-2025"
+    }
+  ]
+}

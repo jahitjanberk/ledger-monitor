@@ -1,0 +1,106 @@
+{
+  "id": "losses",
+  "title": "Global natural disaster losses and how much was insured",
+  "description": "Overall (economic) and insured losses in US$ billion, and fatalities where given, quoted from Swiss Re Institute and Munich Re.",
+  "records": [
+    {
+      "publisher": "Swiss Re Institute",
+      "period": "2025",
+      "overall_bn": 220,
+      "insured_bn": 107,
+      "uninsured_bn": 113,
+      "insured_pct": 49,
+      "fatalities": null,
+      "note": "Natural catastrophes, 2025 prices",
+      "source": "swissre-sigma"
+    },
+    {
+      "publisher": "Swiss Re Institute",
+      "period": "2024",
+      "overall_bn": 327,
+      "insured_bn": 141,
+      "uninsured_bn": 186,
+      "insured_pct": 43,
+      "fatalities": null,
+      "note": "2025 prices",
+      "source": "swissre-sigma"
+    },
+    {
+      "publisher": "Swiss Re Institute",
+      "period": "Previous 10-year average",
+      "overall_bn": 267,
+      "insured_bn": 111,
+      "uninsured_bn": 156,
+      "insured_pct": 42,
+      "fatalities": null,
+      "note": "2025 prices",
+      "source": "swissre-sigma"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "2025",
+      "overall_bn": 224,
+      "insured_bn": 108,
+      "uninsured_bn": 116,
+      "insured_pct": 48,
+      "fatalities": 17200,
+      "note": "Droughts and heatwaves not included",
+      "source": "munichre-2025"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "2024",
+      "overall_bn": 368,
+      "insured_bn": 147,
+      "uninsured_bn": 221,
+      "insured_pct": 40,
+      "fatalities": 11000,
+      "note": "Inflation-adjusted",
+      "source": "munichre-2025"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "5-year average, 2020 to 2024",
+      "overall_bn": 302,
+      "insured_bn": 125,
+      "uninsured_bn": 177,
+      "insured_pct": 41,
+      "fatalities": 23400,
+      "note": "Inflation-adjusted",
+      "source": "munichre-2025"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "10-year average, 2015 to 2024",
+      "overall_bn": 266,
+      "insured_bn": 107,
+      "uninsured_bn": 159,
+      "insured_pct": 40,
+      "fatalities": 17800,
+      "note": "Inflation-adjusted",
+      "source": "munichre-2025"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "30-year average, 1995 to 2024",
+      "overall_bn": 192,
+      "insured_bn": 66,
+      "uninsured_bn": 126,
+      "insured_pct": 34,
+      "fatalities": 41900,
+      "note": "Inflation-adjusted",
+      "source": "munichre-2025"
+    },
+    {
+      "publisher": "Munich Re",
+      "period": "First half of 2026",
+      "overall_bn": 112,
+      "insured_bn": 44,
+      "uninsured_bn": 68,
+      "insured_pct": 39,
+      "fatalities": 8200,
+      "note": "January to June",
+      "source": "munichre-h1-2026"
+    }
+  ]
+}

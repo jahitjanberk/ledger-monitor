@@ -1,0 +1,43 @@
+id,label,value,unit,note,source
+exposed,People directly exposed to 1-in-100-year floods (more than 15 cm deep),1.81,billion,23% of the world's population,rentschler
+exposed_pct,Share of the world's population directly exposed to 1-in-100-year floods,23,%,,rentschler
+asia,Flood-exposed people living in South and East Asia,1.24,billion,China (395 million) and India (390 million) account for over a third of global exposure,rentschler
+lmic,Share of the world's flood-exposed people living in low- and middle-income countries,89,%,,rentschler
+extreme,People facing high flood risk and living in extreme poverty (under $1.90 a day),170,million,44% of them in Sub-Saharan Africa,rentschler
+poor550,People living on under $5.50 a day who face high flood risk,780,million (over),,rentschler
+events,"Natural hazard-related disasters recorded in EM-DAT, 2025",358,disasters,377 a year on average in 2005 to 2024,cred-2025
+deaths,"Deaths in natural hazard-related disasters, 2025",16607,deaths,"57,429 a year on average in 2005 to 2024; includes people missing and presumed dead",cred-2025
+deaths_avg,"Deaths in natural hazard-related disasters, annual average 2005 to 2024",57429,deaths,,cred-2025
+affected,"People affected by natural hazard-related disasters, 2025",110.2,million,169.0 million a year on average in 2005 to 2024,cred-2025
+affected_avg,"People affected by natural hazard-related disasters, annual average 2005 to 2024",169,million,,cred-2025
+damage,"Economic losses from natural hazard-related disasters recorded in EM-DAT, 2025",169.7,US$ billion,215.0 billion a year on average in 2005 to 2024,cred-2025
+asiadeaths,Share of 2025 disaster deaths in Asia,72.8,%,"12,098 deaths, largely from the Myanmar and Afghanistan earthquakes",cred-2025
+syria,"People in need of assistance after Syria's record drought, 2025",16.2,million,80% of the population,cred-2025
+somalia,"Estimated excess deaths in Somalia's 30-month drought and famine, 2021 to 2024",71100,deaths,Around 40% were children under five,cred-2025
+sr_insured,"Global insured natural catastrophe losses, 2025",107,US$ billion,"Secondary perils (wildfires, severe storms, floods and others) made up a record 92%",swissre-sigma
+sr_economic,"Global economic losses from natural catastrophes, 2025",220,US$ billion,,swissre-sigma
+sr_share,Share of 2025 natural catastrophe losses that were insured,49,%,"About 49%, the highest share on sigma records",swissre-sigma
+sr_emerging,Share of catastrophe losses typically not covered by insurance in emerging economies,80,% to 90%,80 to 90%,swissre-sigma
+sr_flood,"Global flood-related insured losses, 2025",3.4,US$ billion,Against a previous five-year average of US$15.4 billion,swissre-sigma
+sr_flood_avg,"Global flood-related insured losses, previous five-year average",15.4,US$ billion,,swissre-sigma
+sr_la,"Insured losses from the Los Angeles wildfires, January 2025",40,US$ billion,The largest insured wildfire loss on sigma records,swissre-sigma
+sr_scs,"Insured losses from severe convective storms (hail, tornadoes, damaging winds), 2025",51,US$ billion,Third-costliest year on record for these storms,swissre-sigma
+sr_trend,Insured losses in 2026 if losses return to the long-term trend,148,US$ billion,About US$320 billion in Swiss Re's modelled peak-loss scenario,swissre-sigma
+sr_exposure,"Share of the long-term rise in weather-related insured losses explained by exposure growth, 1970 to 2025",80,% (more than),More valuable property in harm's way and higher rebuilding costs,swissre-sigma
+mr_uninsured,Share of 2025 natural disaster losses that were uninsured (Munich Re),50,% (around),Against a 10-year average of around 60%; lower because so much of the Los Angeles wildfire loss was insured,munichre-2025
+mr_weather,Share of 2025 natural disaster losses caused by weather disasters,92,%,97% of insured losses,munichre-2025
+mr_h1gap,"Insurance gap, first half of 2026",60,%,US$44 billion insured of nearly US$112 billion,munichre-h1-2026
+mr_venezuela,"Expected losses from the double earthquake in Venezuela, 24 June 2026",30,US$ billion (around),"Insured losses of less than US$1 billion; 5,500 deaths in the factsheet",munichre-h1-2026
+uk_total,"Properties in England in areas at risk of flooding from rivers, the sea or surface water",6.3,million,Around 8 million by mid-century with climate change: 1 in 4 properties,ea-nafra
+uk_2050,"Properties in England in areas at flood risk by mid-century, with climate change",8,million (around),,ea-nafra
+uk_winter,Properties flooded in England in the winter 2023 to 2024 storms,5000,properties (around),"Flood defences protected around 250,000 properties",ea-nafra
+uk_protected,Properties protected by flood defences in England in the winter 2023 to 2024 storms,250000,properties (around),,ea-nafra
+uk_damage,"Economic damages of all floods in England and Wales, January 2016 to November 2019",708,£ million,"Best estimate, 2024 prices; range £504 million to £924 million",ea-nafra
+abi_total,"UK property insurance claims paid, 2025",6.1,£ billion,The highest annual total since the ABI began collecting the data in 2017,abi-2025
+abi_weather,"UK weather-related property claims paid, 2025",1.2,£ billion,Up 14% (£142 million) on 2024; £758 million of it for damage to homes and possessions,abi-2025
+abi_homes,"UK weather-related claims for damage to homes and possessions, 2025",758,£ million,"Burst or frozen pipes, escape of water, storms and floods",abi-2025
+abi_flood,"Cost of domestic flood claims, UK, 2025",312,£ million,Up 38%,abi-2025
+abi_floodavg,"Average flood payout to a homeowner, 2025",30000,£,Up 60%,abi-2025
+abi_storm,"Storm damage to homes, UK, 2025",244,£ million,"Up 32% (£59 million); average payout £2,450",abi-2025
+abi_subsidence,"Domestic subsidence payouts, UK, 2025",307,£ million,"Up 10%, the highest on record, after the UK's hottest summer on record",abi-2025
+floodre_policies,"Home insurance policies ceded to Flood Re, year to 31 March 2026",353000,policies (estimated),"More than 742,000 households helped since the scheme began; 23% of properties ceded in the year were new to it",floodre-2026

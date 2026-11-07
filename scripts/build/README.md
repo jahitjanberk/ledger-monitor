@@ -19,6 +19,7 @@ Each script rebuilds one dashboard's published data from raw downloads: `data/<i
     node scripts/build/scams.mjs
     node scripts/build/vaccines.mjs
     node scripts/build/water.mjs
+    node scripts/build/disasters.mjs
 
 Raw downloads go in `scripts/.raw/`, which git ignores, laid out as below. To keep them elsewhere, set `RAW` to the folder that holds one subfolder per dashboard (`food/`, `debt/`, `air/` and so on) and the shared `cmo/`. Excel files are read unzipped: unzip the `.xlsx` into the folder named.
 
@@ -45,7 +46,7 @@ World Bank Pink Sheet, monthly prices: [CMO-Historical-Data-Monthly.xlsx](https:
 | `ffpi.csv` | FAO Food Price Index CSV, from the [FAO Food Price Index page](https://www.fao.org/worldfoodsituation/foodpricesindex/en/) |
 | `ffr/` | FAO Food Price Index, nominal and real (`food_price_index_nominal_real.xlsx`, same page), unzipped |
 | `ons_d7g8.csv`, `ons_d7g7.csv`, `ons_d7bu.csv` | ONS series, e.g. `https://www.ons.gov.uk/generator?format=csv&uri=/economy/inflationandpriceindices/timeseries/d7g8/mm23` |
-| `share-of-consumer-expenditure-spent-on-food.csv` | [Our World in Data](https://ourworldindata.org/grapher/share-of-consumer-expenditure-spent-on-food) (USDA ERS) |
+| `ers_intl/` | USDA ERS [International Food and Alcoholic Beverage Expenditure Data](https://www.ers.usda.gov/data-products/international-food-and-alcoholic-beverage-expenditure-data): *Percent of consumer expenditures spent on food, alcoholic beverages, and tobacco that were consumed at home, by selected countries, 2021–2025* (XLSX), unzipped. One sheet per year; the builder takes each country's latest year. When a new edition comes out, update the `usda-ers` title, date and notes in the script. |
 
 ## `debt/`
 
@@ -151,9 +152,9 @@ The builder takes an optional end date, `node scripts/build/chokepoints.mjs 2026
 | File | Source |
 |---|---|
 | `ons_bulletin_2025.html` | Optional, used to check the ONS figures: `https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2025` |
-| `ubs_grebi_2025.html` | Optional, used to check the UBS cities: `https://www.ubs.com/global/de/media/display-page-ndp/en-20250923-grebi25.html` |
+| `ubs_grebi_2026.txt` | Optional, used to check the UBS risk categories: text of the media release PDF linked from `https://www.ubs.com/global/en/media/display-page-ndp/en-20260922-grebi26.html`, saved with `pdftotext -layout -enc UTF-8` (ubs.com refuses scripted requests for the HTML page) |
 
-The Demographia median multiples (2026 and 2025 editions) are published only as PDFs, so they are typed into the script with their source ids. So are the market coordinates (GeoNames, 2 decimals), the ONS ratios and the UBS risk groups. When the ONS bulletin and UBS release are downloaded, the builder checks the typed figures against them and prints any that it cannot find. The dashboard reads `housing/assets/data.js`, which the builder writes.
+The Demographia median multiples (2026 and 2025 editions) are published only as PDFs, so they are typed into the script with their source ids. So are the market coordinates (GeoNames, 2 decimals), the ONS ratios and the UBS risk groups. When the ONS bulletin and the UBS media release text are downloaded, the builder checks the typed figures against them and prints any that it cannot find. The dashboard reads `housing/assets/data.js`, which the builder writes.
 
 ## `electricity/`
 
@@ -227,3 +228,15 @@ Everything else is typed into the script, because the agencies publish their ann
 | `wb_countries.json` | World Bank API country list (ISO2 codes, regions, income groups): `https://api.worldbank.org/v2/country?format=json&per_page=400` |
 
 remittanceprices.worldbank.org is behind a Cloudflare challenge, so use the Data Catalog links. The builder also reads `data/air/countries.json` for country names and numeric codes. Headline facts (RPW Issue 54 and SDG target 10.c) are typed into the builder.
+
+## `disasters/`
+
+| File | Source |
+|---|---|
+| `rentschler/supplementary.pdf`, `rentschler/supp_raw.txt` | Rentschler et al. (2022), Supplementary Information: `https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-022-30727-4/MediaObjects/41467_2022_30727_MOESM1_ESM.pdf` (linked from [the article](https://www.nature.com/articles/s41467-022-30727-4)). The builder reads `supp_raw.txt`, made with `pdftotext -raw supplementary.pdf supp_raw.txt` (poppler) |
+| `idmc/disaster-displacements.csv` | IDMC, internal displacements associated with disasters, from [HDX](https://data.humdata.org/dataset/idmc-internal-displacements-new-displacements-associated-with-disasters) (CSV resource) |
+| `wb/SP.POP.TOTL.json` | World Bank API: `https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&per_page=20000&date=2016:2025` |
+| `pages/nafra.json` | GOV.UK content API for NaFRA 2024: `https://www.gov.uk/api/content/government/publications/national-assessment-of-flood-and-coastal-erosion-risk-in-england-2024/national-assessment-of-flood-and-coastal-erosion-risk-in-england-2024` (tables 4, 6, 7, 8, 10, 12, 13, 14 and 16 are parsed from `details.body`) |
+| `pages/*.pdf`, `pages/*.html` | Kept for checking the typed-in figures: CRED's [2025 Disasters in Numbers](https://files.emdat.be/reports/2025_EMDAT_report.pdf), the Swiss Re sigma press release PDF, Munich Re's 2025 media release and factsheets (2025 and first half of 2026), the ABI and Flood Re releases |
+
+The builder also reads `data/air/countries.json` for country names and numeric codes. Figures from CRED, Swiss Re, Munich Re, the ABI, Flood Re and the NaFRA text are typed into the builder with their source ids; each CRED hazard column was checked against the report's totals.

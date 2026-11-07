@@ -1,0 +1,79 @@
+{
+  "id": "uk_infra",
+  "title": "Infrastructure and public buildings in England in areas at flood risk",
+  "description": "From rivers, the sea and surface water, present day and with climate change in 2040 to 2060 (NaFRA 2024).",
+  "records": [
+    {
+      "asset": "Roads",
+      "unit": "km",
+      "present": 113900,
+      "present_pct": 37.7,
+      "climate_2040_2060": 137700,
+      "climate_pct": 45.6,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Railways",
+      "unit": "km",
+      "present": 4300,
+      "present_pct": 36.8,
+      "climate_2040_2060": 6300,
+      "climate_pct": 53.8,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Education facilities",
+      "unit": "sites",
+      "present": 30000,
+      "present_pct": 21.4,
+      "climate_2040_2060": 37000,
+      "climate_pct": 26.4,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Medical facilities",
+      "unit": "sites",
+      "present": 11800,
+      "present_pct": 25.5,
+      "climate_2040_2060": 14600,
+      "climate_pct": 31.5,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Emergency services",
+      "unit": "sites",
+      "present": 2000,
+      "present_pct": 26,
+      "climate_2040_2060": 2400,
+      "climate_pct": 31.2,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Water pumping stations or treatment works",
+      "unit": "sites",
+      "present": 12800,
+      "present_pct": 34.4,
+      "climate_2040_2060": 14200,
+      "climate_pct": 38.2,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Electricity infrastructure",
+      "unit": "sites",
+      "present": 52600,
+      "present_pct": 22.1,
+      "climate_2040_2060": 61600,
+      "climate_pct": 25.9,
+      "source": "ea-nafra"
+    },
+    {
+      "asset": "Gas infrastructure",
+      "unit": "sites",
+      "present": 1300,
+      "present_pct": 35.1,
+      "climate_2040_2060": 1400,
+      "climate_pct": 37.6,
+      "source": "ea-nafra"
+    }
+  ]
+}

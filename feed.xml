@@ -5,9 +5,30 @@
   <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
   <link rel="self" type="application/atom+xml" href="https://jahitjanberk.github.io/ledger-monitor/feed.xml"/>
   <id>https://jahitjanberk.github.io/ledger-monitor/</id>
-  <updated>2026-11-07T01:00:00Z</updated>
+  <updated>2026-11-07T18:00:00Z</updated>
   <author><name>jahit</name><uri>https://github.com/jahitjanberk</uri></author>
   <rights>Data: CC BY 4.0 compilation. Code: MIT.</rights>
+  <entry>
+    <title>New dashboard: Floods, Disasters &amp; Insurance Gaps</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/disasters/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-disasters</id>
+    <updated>2026-11-07T18:00:00Z</updated>
+    <summary>1.81 billion people live where a once-a-century flood would reach them. The new dashboard, a companion to Extreme Heat, shows who is exposed to flooding (World Bank study, Nature Communications), how often disasters force people from their homes (IDMC), what disasters killed and cost in 2025 (CRED), how much of the loss was insured (Munich Re, Swiss Re), and England&apos;s flood risk (Environment Agency).</summary>
+  </entry>
+  <entry>
+    <title>Housing: UBS bubble risk updated to 2026</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/housing/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-housing-ubs-2026</id>
+    <updated>2026-11-07T14:00:00Z</updated>
+    <summary>The bubble-risk ratings now come from the UBS Global Real Estate Bubble Index 2026, which covers 23 cities, including Seoul and Lisbon for the first time. Zurich and Tokyo are the only cities at high risk; Miami, top of the index for the previous two editions, drops to elevated. Hong Kong, the least affordable market in the Demographia survey, rises from low to moderate. The links to the Demographia reports, which had moved, are fixed; their figures were checked against the reports and are unchanged.</summary>
+  </entry>
+  <entry>
+    <title>Food: what households spend on food, updated to 2025</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/food/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-food-share-2025</id>
+    <updated>2026-11-07T12:00:00Z</updated>
+    <summary>Food&apos;s share of household spending now comes straight from the US Department of Agriculture&apos;s August 2026 edition, with 2025 figures for 103 countries (2023 before). Nigeria still spends the most, 56% of household budgets; Singapore (6.3%) now spends less than the United States (6.4%). ERS now uses Oxford Economics data, so some countries, such as Bangladesh and Venezuela, differ a lot from the previous edition.</summary>
+  </entry>
   <entry>
     <title>Two new dashboards, rebuild scripts for every dashboard, and data corrections</title>
     <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>

@@ -1,0 +1,92 @@
+{
+  "sources": {
+    "rentschler": {
+      "publisher": "Rentschler, Salhab and Jafino (World Bank), Nature Communications",
+      "title": "Flood exposure and poverty in 188 countries, Supplementary Table 1: exposure headcount estimates at the country level",
+      "url": "https://www.nature.com/articles/s41467-022-30727-4",
+      "published": "2022-06-28",
+      "method": "reference",
+      "notes": "People living where a 1-in-100-year flood (river, rainfall or coastal) would reach more than 15 cm deep, by country, in thousands and as a share of the population (WorldPop 2020), and those among them living on under $1.90, $3.20 and $5.50 a day (2011 PPP). Flood hazard maps: Fathom (July 2020) and the European Commission's Joint Research Centre. Present-day hazard, no climate projection; flood defences are not modelled. Article and supplementary information licensed CC BY 4.0."
+    },
+    "idmc": {
+      "publisher": "Internal Displacement Monitoring Centre (IDMC)",
+      "title": "Global Internal Displacement Database: internal displacements (new displacements) associated with disasters, 2008 to 2025 (via HDX)",
+      "url": "https://data.humdata.org/dataset/idmc-internal-displacements-new-displacements-associated-with-disasters",
+      "published": "2026-05-24",
+      "method": "reference",
+      "notes": "Event-level estimates of movements caused by disasters, including pre-emptive evacuations; one person can be displaced more than once in a year. Country and year totals are summed here from the events (unrounded values). The data behind IDMC's 2026 Global Report on Internal Displacement. Licensed CC BY-IGO as stated on HDX."
+    },
+    "wb-pop": {
+      "publisher": "World Bank, World Development Indicators",
+      "title": "Population, total (SP.POP.TOTL)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "Used only to express disaster displacement per 1,000 people (average of 2016 to 2025). CC BY 4.0."
+    },
+    "cred-2025": {
+      "publisher": "Centre for Research on the Epidemiology of Disasters (CRED), UCLouvain",
+      "title": "2025 Disasters in Numbers: Earth, Wind & Fire",
+      "url": "https://files.emdat.be/reports/2025_EMDAT_report.pdf",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Summary figures from the EM-DAT Emergency Events Database for 2025 and the 2005 to 2024 annual average, by hazard type (data as of 17 March 2026). Natural hazards only; biological and extra-terrestrial hazards excluded. The report is licensed CC BY 4.0 (Delforge, Below, Wathelet, Tonnelier, Alonso and Speybroeck, 2026). The underlying EM-DAT database has its own, restrictive terms and is not republished here."
+    },
+    "swissre-sigma": {
+      "publisher": "Swiss Re Institute",
+      "title": "Wildfires, storms, floods contribute to record 92% of global insured losses in 2025 (press release for sigma 1/2026, Natural catastrophes in 2025)",
+      "url": "https://mailing-ircockpit.eqs.com/crm-mailing/a21e80ec-571e-1015-b4d5-273805d60f5f/7e94e63f-40f9-4173-b70d-c354db2f89be/5d444775-2982-4084-8fbc-01fec20eaa13/Swiss+Re_NatCatSigma_2025FY_PR_EN.pdf",
+      "published": "2026-03-19",
+      "method": "reference",
+      "notes": "Headline figures quoted from the press release (PDF), in 2025 prices. The report is at https://www.swissre.com/institute/research/sigma-research/sigma-2026-01-natcat-2025-wildfire-storm-risk.html. Swiss Re's data are not republished; figures are quoted with a link."
+    },
+    "munichre-2025": {
+      "publisher": "Munich Re NatCatSERVICE",
+      "title": "Natural disaster figures for 2025 (media release and full-year factsheet)",
+      "url": "https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/natural-disaster-figures-2025.html",
+      "published": "2026-01-13",
+      "method": "reference",
+      "notes": "Overall and insured losses and fatalities for 2025, averages (inflation-adjusted), the largest events and the loss overview by continent, quoted from the factsheet. Droughts and heatwaves are not included. © Munich Re; quoted with a link, not republished as a dataset."
+    },
+    "munichre-h1-2026": {
+      "publisher": "Munich Re NatCatSERVICE (half-year)",
+      "title": "Natural disasters in the first half of 2026 (media release and factsheet)",
+      "url": "https://www.munichre.com/en/company/media-relations/media-information-and-corporate-news/media-information/2026/natural-disaster-figures-first-half-2026.html",
+      "published": "2026-07-30",
+      "method": "reference",
+      "notes": "Headline figures for January to June 2026, quoted as published. © Munich Re."
+    },
+    "ea-nafra": {
+      "publisher": "Environment Agency",
+      "title": "National assessment of flood and coastal erosion risk in England 2024",
+      "url": "https://www.gov.uk/government/publications/national-assessment-of-flood-and-coastal-erosion-risk-in-england-2024/national-assessment-of-flood-and-coastal-erosion-risk-in-england-2024",
+      "published": "2024-12-17",
+      "method": "reference",
+      "notes": "Properties (homes and businesses) in areas at risk of flooding from rivers and the sea and from surface water, by risk band and by region, present day and with climate change (tables 4, 6, 7, 8, 10, 12, 13, 14 and 16). High risk: a chance of more than 3.3% a year; medium: 1% to 3.3%; low: 0.1% to 1%. Being in an area at risk does not mean water will enter a property. Page last updated 5 August 2026. Open Government Licence v3.0."
+    },
+    "abi-2025": {
+      "publisher": "Association of British Insurers",
+      "title": "Adverse weather pushes property insurance payouts to £6.1 billion in 2025",
+      "url": "https://abi.org.uk/media-hub/news-post/adverse-weather-pushes-property-insurance-payouts-to-61-billion-in-2025",
+      "published": "2026-02-17",
+      "method": "reference",
+      "notes": "UK insurers' property claims payouts in 2025, quoted from the press release. © ABI; quoted with a link."
+    },
+    "floodre-2026": {
+      "publisher": "Flood Re",
+      "title": "Flood Re reports strong financial performance as it enters next phase (Annual Report and Accounts, year ended 31 March 2026)",
+      "url": "https://www.floodre.co.uk/flood-re-reports-strong-financial-performance-as-it-enters-next-phase-focused-on-resilience-and-targeted-support/",
+      "published": "2026-07-22",
+      "method": "reference",
+      "notes": "Flood Re is the joint government and insurance industry reinsurance scheme that keeps flood cover affordable for eligible UK homes at high risk; it is due to end in 2039. Figures quoted from the release."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}
