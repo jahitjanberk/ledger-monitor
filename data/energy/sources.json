@@ -1,0 +1,116 @@
+{
+  "sources": {
+    "wb-elec": {
+      "publisher": "World Bank, from the Tracking SDG 7 custodian agencies",
+      "title": "Access to electricity (% of population), EG.ELC.ACCS.ZS, with urban and rural splits",
+      "url": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "World Development Indicators, last updated 8 October 2026. Latest year 2024. Mostly from household surveys and censuses, modelled where there are gaps. CC BY 4.0."
+    },
+    "wb-cook": {
+      "publisher": "World Health Organization, via the World Bank",
+      "title": "Access to clean fuels and technologies for cooking (% of population), EG.CFT.ACCS.ZS",
+      "url": "https://data.worldbank.org/indicator/EG.CFT.ACCS.ZS",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "WHO Global Household Energy Database estimates, latest year 2024. Clean means electricity, gas, LPG, biogas, solar and alcohol fuels. CC BY 4.0."
+    },
+    "wb-pop": {
+      "publisher": "World Bank",
+      "title": "Population, total (SP.POP.TOTL)",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "Used to turn access rates into numbers of people. People without access are our calculation: population × (100% − access rate). CC BY 4.0."
+    },
+    "sdg7-2026": {
+      "publisher": "IEA, IRENA, UN DESA, World Bank and WHO (joint news release)",
+      "title": "655 million people still living without electricity underscore urgent need to deliver on universal energy access target (Tracking SDG 7: The Energy Progress Report 2026)",
+      "url": "https://www.who.int/news/item/24-06-2026-655-million-people-still-living-without-electricity-underscore-urgent-need-to-deliver-on-universal-energy-access-target",
+      "published": "2026-06-24",
+      "method": "reference",
+      "notes": "Headline figures quoted from the joint release. The full report is at https://www.iea.org/reports/tracking-sdg7-the-energy-progress-report-2026 under CC BY-NC 3.0 IGO."
+    },
+    "es-elec": {
+      "publisher": "Eurostat",
+      "title": "Electricity prices for household consumers, bi-annual data (nrg_pc_204)",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table",
+      "published": "2026-10-19",
+      "method": "reference",
+      "notes": "Band DC, 2,500 to 4,999 kWh a year, all taxes and levies included, per kWh, in euros and in purchasing power standards (PPS), which adjust for price levels. Latest period: first half of 2026. Some values are provisional or estimated. Reuse allowed with credit (Eurostat copyright notice, CC BY 4.0)."
+    },
+    "es-gas": {
+      "publisher": "Eurostat",
+      "title": "Gas prices for household consumers, bi-annual data (nrg_pc_202)",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table",
+      "published": "2026-10-19",
+      "method": "reference",
+      "notes": "Band D2, 20 to 199 GJ a year, all taxes and levies included, per kWh, in euros and PPS. Latest period: first half of 2026. Countries without a household gas network are missing. CC BY 4.0."
+    },
+    "es-warm": {
+      "publisher": "Eurostat, EU Statistics on Income and Living Conditions (EU-SILC)",
+      "title": "Inability to keep home adequately warm (ilc_mdes01)",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table",
+      "published": "2026-10-20",
+      "method": "reference",
+      "notes": "Share of people who say their household can't afford to keep the home adequately warm, all households and those below 60% of median income (at risk of poverty). Survey year, mostly 2025. CC BY 4.0."
+    },
+    "es-arrears": {
+      "publisher": "Eurostat, EU Statistics on Income and Living Conditions (EU-SILC)",
+      "title": "Arrears on utility bills (ilc_mdes07)",
+      "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes07/default/table",
+      "published": "2026-10-20",
+      "method": "reference",
+      "notes": "Share of people in households that were behind on heating, electricity, gas, water or similar bills in the last 12 months, for financial reasons. Survey year, mostly 2025. CC BY 4.0."
+    },
+    "ofgem-cap": {
+      "publisher": "Ofgem",
+      "title": "Default tariff cap level model v1.31, sheet '1c Consumption adjusted levels' (pre-levelised rates)",
+      "url": "https://www.ofgem.gov.uk/energy-regulation/domestic-and-non-domestic/energy-pricing-rules/energy-price-cap/energy-price-cap-default-tariff-levels",
+      "published": "2026-08-26",
+      "method": "reference",
+      "notes": "The cap for a typical dual fuel household paying by direct debit ('other payment method'), recalculated by Ofgem for every period since April 2017 at today's typical use (2,500 kWh electricity, 9,500 kWh gas), GB average, including VAT, before levelisation. File: https://www.ofgem.gov.uk/sites/default/files/2026-08/Default-tariff-cap-level-v1.31.xlsx. Open Government Licence v3.0."
+    },
+    "ofgem-letter": {
+      "publisher": "Ofgem",
+      "title": "Energy price cap (default tariff) update from 1 October 2026",
+      "url": "https://www.ofgem.gov.uk/sites/default/files/2026-08/Summary-of-changes-to-energy-price-cap-1-October-to-31-December-2026.pdf",
+      "published": "2026-08-26",
+      "method": "reference",
+      "notes": "Summary letter for cap period 17a, 1 October to 31 December 2026. Open Government Licence v3.0."
+    },
+    "gov-epg": {
+      "publisher": "UK Government",
+      "title": "Energy Price Guarantee from 1 July 2023",
+      "url": "https://www.gov.uk/government/publications/energy-bills-support/energy-bills-support-factsheet-8-september-2022",
+      "published": "2024-01-01",
+      "method": "reference",
+      "notes": "Explains that the Energy Price Guarantee discounted bills from 1 October 2022 to 30 June 2023, and that from July 2023 the Ofgem cap was below it. Open Government Licence v3.0."
+    },
+    "desnz-trends": {
+      "publisher": "Department for Energy Security and Net Zero",
+      "title": "Fuel poverty trends 2026: long term trends under the Low Income Low Energy Efficiency (LILEE) indicator, 2010 to 2025",
+      "url": "https://www.gov.uk/government/statistics/fuel-poverty-trends-2026",
+      "published": "2026-03-26",
+      "method": "reference",
+      "notes": "England only. Tables 1 and 2. 2024 figures are final, 2025 provisional. Accredited official statistics, Open Government Licence v3.0."
+    },
+    "desnz-report": {
+      "publisher": "Department for Energy Security and Net Zero",
+      "title": "Annual fuel poverty statistics report: 2026 (2024 and 2025 data)",
+      "url": "https://www.gov.uk/government/statistics/annual-fuel-poverty-statistics-report-2026",
+      "published": "2026-03-26",
+      "method": "reference",
+      "notes": "England only. Republished 7 August 2026 to correct a calculation error on benefit receipt. 2026 figures are projections made with energy prices from early 2026, before the conflict in the Middle East. Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

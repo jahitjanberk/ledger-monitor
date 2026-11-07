@@ -1,0 +1,52 @@
+{
+  "sources": {
+    "rpw": {
+      "publisher": "World Bank",
+      "title": "Remittance Prices Worldwide, complete dataset, Q1 2011 to Q3 2025 (rpw_dataset_2011_2025_q3.xlsx)",
+      "url": "https://datacatalog.worldbank.org/search/dataset/0037898/remittance-prices-worldwide",
+      "published": "2026-09-23",
+      "method": "derived",
+      "notes": "Every service surveyed, with its fee, exchange-rate margin and total cost of sending the equivalent of $200, by sending country, receiving country, provider type and payment method. Averages by provider type, payment method and access point, the fee and exchange-rate split, and the cheapest service in each corridor are calculated here as simple averages over services, as RPW does; a service listed under two provider types (for example 'Bank / Money Transfer Operator') counts in both. Q2 2025 was not collected, and the dataset has no services sent from Russia after Q4 2021 (RPW reports those corridors separately). The underlying price data are collected by FXC Intelligence. The World Bank Data Catalog lists the dataset under CC BY 4.0; the file's own Terms of Use sheet also points to World Bank 'Restricted Data' terms whose links no longer resolve."
+    },
+    "rpw-report": {
+      "publisher": "World Bank",
+      "title": "Remittance Prices Worldwide, Issue 54, September 2025 (quarterly report and annex, Q3 2025)",
+      "url": "https://datacatalogfiles.worldbank.org/ddh-published/0037898/DR0095413/RPW_main_report_and_annex_Q325.pdf",
+      "published": "2025-09",
+      "method": "reference",
+      "notes": "Headline findings quoted as published: global average, digital and non-digital averages, SmaRT average, weighted average, MTO indices, cost by provider type, share of corridors by cost band, G8 and G20 figures. The PDF was re-posted on the Data Catalog on 17 April 2026."
+    },
+    "sdg-10c1": {
+      "publisher": "UN Statistics Division, from World Bank Remittance Prices Worldwide",
+      "title": "SDG Global Database, indicator 10.c.1: remittance costs as a proportion of the amount remitted (series SI_RMT_COST, SI_RMT_COST_SND, SI_RMT_COST_BC, SI_RMT_COST_SC; release 2026.Q3.G.01)",
+      "url": "https://unstats.un.org/sdgs/dataportal/database",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Average total cost of sending $200, % of the amount sent, in the third quarter of each year: to each receiving country and to SDG regions and the world (2011, 2015, 2017 to 2025), from each sending country (2011 to 2025), and in each corridor, as a simple average and as the SmaRT average of the three cheapest qualifying services (2016 to 2025). Downloaded from the UN SDG API on 6 November 2026. The corridor series includes nine corridors from Russia for 2024 and 2025, which RPW reports separately from its main analysis; they are not used here."
+    },
+    "sdg-target": {
+      "publisher": "United Nations",
+      "title": "Sustainable Development Goal target 10.c",
+      "url": "https://unstats.un.org/sdgs/metadata/?Text=&Goal=10&Target=10.c",
+      "published": "2015",
+      "method": "reference",
+      "notes": "Text of the target as given by the UN SDG API: 'By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent'."
+    },
+    "wdi-flows": {
+      "publisher": "World Bank, from IMF balance of payments data and World Bank staff estimates",
+      "title": "World Development Indicators: personal remittances received (BX.TRF.PWKR.CD.DT, BX.TRF.PWKR.DT.GD.ZS) and paid (BM.TRF.PWKR.CD.DT)",
+      "url": "https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT",
+      "published": "2026-10-08",
+      "method": "reference",
+      "notes": "Personal transfers plus compensation of employees, current US dollars and % of GDP, 2000 to 2025, by country and for the world and low- and middle-income countries. Recorded flows only: money sent through informal channels is not counted. The latest year is partly estimated. CC BY 4.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

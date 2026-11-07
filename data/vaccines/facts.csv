@@ -1,0 +1,16 @@
+id,label,value,unit,note,source
+zerodose,Children who did not receive a single vaccine in 2025 (zero-dose),13.5,million,"Nearly 750,000 fewer than the previous year",wuenic-release
+dtp1,"Infants who received at least one dose of DTP vaccine, 2025",90,%,Nearly 116 million infants,wuenic-release
+dtp3,"Infants who completed the three-dose DTP series, 2025",85,%,110 million infants; one point below 2019,wuenic-release
+mcv,"Children receiving the first and second measles doses, 2025",84,%,"84% first dose, 77% second dose, against the 95% needed to stop outbreaks",wuenic-release
+outbreaks,Countries reporting large or disruptive measles outbreaks in 2025,57,countries,,wuenic-release
+fcv,"Share of zero-dose children living in fragile, conflict-affected or vulnerable settings",50,% (more than),Those settings hold only about a third of the world's children,wuenic-release
+stagnant,Countries whose DTP3 coverage is stagnating or falling behind since 2019,65,countries,100 countries have kept at least 90% DTP3 coverage since 2019; 30 improved,wuenic-release
+surveys,National immunization coverage surveys submitted for the 2025 round,18,surveys,Down from 50 in 2024 and an average of 33 a year in 2015 to 2019,wuenic-release
+nurses,"Nurses worldwide, 2023",29.8,million,Up from 27.9 million in 2018,sown-2025
+shortage,"Global shortage of nurses, 2023",5.8,million,Down from 6.2 million in 2020; projected 4.1 million by 2030,sown-2025
+shortage2030,"Projected global shortage of nurses, 2030",4.1,million,,sown-2025
+concentration,Share of the world's nurses in countries with 49% of the world's population,78,%,,sown-2025
+foreignborn,Nurses worldwide who are foreign-born,1,in 7,23% in high-income countries; 1% in lower middle-income and 3% in low-income countries,sown-2025
+foreignhic,Share of nurses in high-income countries who are foreign-born,23,%,,sown-2025
+women,Share of the global nursing workforce who are women,85,%,,sown-2025

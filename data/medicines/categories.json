@@ -1,0 +1,121 @@
+{
+  "id": "categories",
+  "title": "US shortages by therapeutic category",
+  "description": "How many current US shortages fall in each FDA therapeutic category. A medicine can be in several (openFDA).",
+  "records": [
+    {
+      "category": "Pediatric",
+      "shortages": 16,
+      "share_pct": 23.5,
+      "source": "openfda"
+    },
+    {
+      "category": "Analgesia/Addiction",
+      "shortages": 10,
+      "share_pct": 14.7,
+      "source": "openfda"
+    },
+    {
+      "category": "Anesthesia",
+      "shortages": 10,
+      "share_pct": 14.7,
+      "source": "openfda"
+    },
+    {
+      "category": "Gastroenterology",
+      "shortages": 10,
+      "share_pct": 14.7,
+      "source": "openfda"
+    },
+    {
+      "category": "Cardiovascular",
+      "shortages": 9,
+      "share_pct": 13.2,
+      "source": "openfda"
+    },
+    {
+      "category": "Other",
+      "shortages": 9,
+      "share_pct": 13.2,
+      "source": "openfda"
+    },
+    {
+      "category": "Endocrinology/Metabolism",
+      "shortages": 8,
+      "share_pct": 11.8,
+      "source": "openfda"
+    },
+    {
+      "category": "Oncology",
+      "shortages": 8,
+      "share_pct": 11.8,
+      "source": "openfda"
+    },
+    {
+      "category": "Neurology",
+      "shortages": 7,
+      "share_pct": 10.3,
+      "source": "openfda"
+    },
+    {
+      "category": "Anti-Infective",
+      "shortages": 7,
+      "share_pct": 10.3,
+      "source": "openfda"
+    },
+    {
+      "category": "Psychiatry",
+      "shortages": 6,
+      "share_pct": 8.8,
+      "source": "openfda"
+    },
+    {
+      "category": "Rheumatology",
+      "shortages": 4,
+      "share_pct": 5.9,
+      "source": "openfda"
+    },
+    {
+      "category": "Hematology",
+      "shortages": 3,
+      "share_pct": 4.4,
+      "source": "openfda"
+    },
+    {
+      "category": "Ophthalmology",
+      "shortages": 3,
+      "share_pct": 4.4,
+      "source": "openfda"
+    },
+    {
+      "category": "Pulmonary/Allergy",
+      "shortages": 3,
+      "share_pct": 4.4,
+      "source": "openfda"
+    },
+    {
+      "category": "Total Parenteral Nutrition",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    },
+    {
+      "category": "Renal",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    },
+    {
+      "category": "Dermatology",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    },
+    {
+      "category": "Medical Imaging",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    }
+  ]
+}

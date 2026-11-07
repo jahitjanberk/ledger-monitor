@@ -1,0 +1,70 @@
+{
+  "id": "reasons",
+  "title": "Reasons given for US shortages",
+  "description": "How many current US shortages cite each reason. A shortage can have several, given by different manufacturers (openFDA).",
+  "records": [
+    {
+      "reason": "Other",
+      "label": "Other",
+      "shortages": 42,
+      "share_pct": 61.8,
+      "source": "openfda"
+    },
+    {
+      "reason": "Demand increase for the drug",
+      "label": "Demand rose",
+      "shortages": 35,
+      "share_pct": 51.5,
+      "source": "openfda"
+    },
+    {
+      "reason": "Discontinuation of the manufacture of the drug",
+      "label": "A maker stopped making it",
+      "shortages": 18,
+      "share_pct": 26.5,
+      "source": "openfda"
+    },
+    {
+      "reason": "Delay in shipping of the drug",
+      "label": "Shipping delays",
+      "shortages": 13,
+      "share_pct": 19.1,
+      "source": "openfda"
+    },
+    {
+      "reason": "Not stated",
+      "label": "No reason given",
+      "shortages": 7,
+      "share_pct": 10.3,
+      "source": "openfda"
+    },
+    {
+      "reason": "Shortage of an active ingredient",
+      "label": "Active ingredient short",
+      "shortages": 7,
+      "share_pct": 10.3,
+      "source": "openfda"
+    },
+    {
+      "reason": "Requirements related to complying with good manufacturing practices",
+      "label": "Manufacturing quality problems",
+      "shortages": 5,
+      "share_pct": 7.4,
+      "source": "openfda"
+    },
+    {
+      "reason": "Shortage of an inactive ingredient component",
+      "label": "Other ingredient short",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    },
+    {
+      "reason": "Regulatory delay",
+      "label": "Regulatory delay",
+      "shortages": 1,
+      "share_pct": 1.5,
+      "source": "openfda"
+    }
+  ]
+}

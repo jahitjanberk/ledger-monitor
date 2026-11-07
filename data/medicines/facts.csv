@@ -1,0 +1,13 @@
+id,label,value,unit,note,source
+prevented,"US drug shortages FDA helped prevent, 2025",330,shortages,"279 tracked by CDER, 51 by CBER",fda-rtc-2025
+new2025,"New US drug shortages, 2025",4,shortages,Against a peak of 251 in 2011,fda-rtc-2025
+ongoing2025,Ongoing US drug shortages at the end of 2025,93,shortages,"71 tracked by CDER (medicines), 22 by CBER (vaccines, blood and other biological products)",fda-rtc-2025
+ongoingcder,Ongoing CDER-tracked shortages at the end of 2025,71,shortages,,fda-rtc-2025
+notices,"Warnings of possible shortages manufacturers sent FDA, 2025",1424,notifications,From 167 manufacturers,fda-rtc-2025
+sites,"Manufacturing sites making medicines for the US market, end of FY2025",5953,sites,"57% in the US, including 1,698 US medical gas sites",fda-sopq
+sitesus,Share of those sites in the US,57,%,,fda-sopq
+inspections,"FDA drug quality inspections, FY2025",1248,inspections,"702 in the US, 546 abroad",fda-sopq
+eucritical,Active substances on the EU's list of critical medicines,299,substances,"Version 2.1, revision 2",ema-ulcm
+euongoing,Shortages EMA is following that are still ongoing,28,shortages,Of 85 in its catalogue,ema-shortages
+sspactive,Serious Shortage Protocols in force in the UK,7,protocols,The latest reference is SSP089,nhsbsa-ssp
+sspmax,Serious Shortage Protocols issued since they began in 2019,89,protocols,Highest reference number listed,nhsbsa-ssp

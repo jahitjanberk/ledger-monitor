@@ -1,0 +1,127 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the three maps.",
+  "records": [
+    {
+      "map": "exports",
+      "band": "Under $100m",
+      "min": 0,
+      "max": 0.1,
+      "unit": "US$ billion, pharmaceutical exports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "exports",
+      "band": "$100m to $1bn",
+      "min": 0.1,
+      "max": 1,
+      "unit": "US$ billion, pharmaceutical exports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "exports",
+      "band": "$1bn to $10bn",
+      "min": 1,
+      "max": 10,
+      "unit": "US$ billion, pharmaceutical exports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "exports",
+      "band": "$10bn to $50bn",
+      "min": 10,
+      "max": 50,
+      "unit": "US$ billion, pharmaceutical exports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "exports",
+      "band": "$50bn or more",
+      "min": 50,
+      "max": null,
+      "unit": "US$ billion, pharmaceutical exports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "net",
+      "band": "Imports exceed exports by $5bn+",
+      "min": null,
+      "max": -5,
+      "unit": "US$ billion, exports minus imports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "net",
+      "band": "Imports exceed exports by $1–5bn",
+      "min": -5,
+      "max": -1,
+      "unit": "US$ billion, exports minus imports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "net",
+      "band": "Within $1bn either way",
+      "min": -1,
+      "max": 1,
+      "unit": "US$ billion, exports minus imports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "net",
+      "band": "Exports exceed imports by $1–10bn",
+      "min": 1,
+      "max": 10,
+      "unit": "US$ billion, exports minus imports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "net",
+      "band": "Exports exceed imports by $10bn+",
+      "min": 10,
+      "max": null,
+      "unit": "US$ billion, exports minus imports (HS 30)",
+      "source": "comtrade"
+    },
+    {
+      "map": "abx",
+      "band": "Under $1m",
+      "min": 0,
+      "max": 1,
+      "unit": "US$ million, antibiotic exports (HS 2941)",
+      "source": "comtrade"
+    },
+    {
+      "map": "abx",
+      "band": "$1m to $10m",
+      "min": 1,
+      "max": 10,
+      "unit": "US$ million, antibiotic exports (HS 2941)",
+      "source": "comtrade"
+    },
+    {
+      "map": "abx",
+      "band": "$10m to $100m",
+      "min": 10,
+      "max": 100,
+      "unit": "US$ million, antibiotic exports (HS 2941)",
+      "source": "comtrade"
+    },
+    {
+      "map": "abx",
+      "band": "$100m to $1bn",
+      "min": 100,
+      "max": 1000,
+      "unit": "US$ million, antibiotic exports (HS 2941)",
+      "source": "comtrade"
+    },
+    {
+      "map": "abx",
+      "band": "$1bn or more",
+      "min": 1000,
+      "max": null,
+      "unit": "US$ million, antibiotic exports (HS 2941)",
+      "source": "comtrade"
+    }
+  ]
+}

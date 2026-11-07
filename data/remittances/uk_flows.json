@@ -1,0 +1,163 @@
+{
+  "id": "uk_flows",
+  "title": "Personal remittances paid and received by the UK, 2000 to 2025",
+  "description": "US$ million, from the World Bank's World Development Indicators.",
+  "records": [
+    {
+      "year": 2000,
+      "paid_usd_m": 5366.1,
+      "received_usd_m": 5074.4,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2001,
+      "paid_usd_m": 5462.7,
+      "received_usd_m": 4955.6,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2002,
+      "paid_usd_m": 5996.4,
+      "received_usd_m": 5235.1,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2003,
+      "paid_usd_m": 6990.7,
+      "received_usd_m": 5688.6,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2004,
+      "paid_usd_m": 8930.4,
+      "received_usd_m": 5938.3,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2005,
+      "paid_usd_m": 9643.1,
+      "received_usd_m": 6045.2,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2006,
+      "paid_usd_m": 10645.7,
+      "received_usd_m": 6105.7,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2007,
+      "paid_usd_m": 11596.6,
+      "received_usd_m": 6556.3,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2008,
+      "paid_usd_m": 11211.8,
+      "received_usd_m": 5995.1,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2009,
+      "paid_usd_m": 9274.8,
+      "received_usd_m": 5243,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2010,
+      "paid_usd_m": 9565.1,
+      "received_usd_m": 4951.4,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2011,
+      "paid_usd_m": 9931.1,
+      "received_usd_m": 5099,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2012,
+      "paid_usd_m": 10077.4,
+      "received_usd_m": 4944.7,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2013,
+      "paid_usd_m": 10528.1,
+      "received_usd_m": 4804.5,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2014,
+      "paid_usd_m": 11572.7,
+      "received_usd_m": 4937.3,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2015,
+      "paid_usd_m": 10707.3,
+      "received_usd_m": 5003.4,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2016,
+      "paid_usd_m": 10190.9,
+      "received_usd_m": 4582.3,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2017,
+      "paid_usd_m": 9803.8,
+      "received_usd_m": 4308.9,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2018,
+      "paid_usd_m": 10410,
+      "received_usd_m": 4389.7,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2019,
+      "paid_usd_m": 10360.3,
+      "received_usd_m": 4214.8,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2020,
+      "paid_usd_m": 9382.4,
+      "received_usd_m": 3248.1,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2021,
+      "paid_usd_m": 10273.6,
+      "received_usd_m": 3461.5,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2022,
+      "paid_usd_m": 10917.8,
+      "received_usd_m": 3965.1,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2023,
+      "paid_usd_m": 11570,
+      "received_usd_m": 4486.5,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2024,
+      "paid_usd_m": 12271.1,
+      "received_usd_m": 4834.3,
+      "source": "wdi-flows"
+    },
+    {
+      "year": 2025,
+      "paid_usd_m": 13169.4,
+      "received_usd_m": 5363.8,
+      "source": "wdi-flows"
+    }
+  ]
+}

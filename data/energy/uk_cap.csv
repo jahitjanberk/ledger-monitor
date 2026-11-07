@@ -1,0 +1,29 @@
+period,start,end,dual_fuel,electricity,gas,epg,source
+Apr 2017 - Sep 2017,2017-04,2017-09,832,442,391,,ofgem-cap
+Oct 2017 - Mar 2018,2017-10,2018-03,827,437,390,,ofgem-cap
+Apr 2018 - Sep 2018,2018-04,2018-09,885,472,413,,ofgem-cap
+Oct 2018 - Mar 2019,2018-10,2019-03,945,496,449,,ofgem-cap
+Apr 2019 - Sep 2019,2019-04,2019-09,1039,550,490,,ofgem-cap
+Oct 2019 - Mar 2020,2019-10,2020-03,979,532,447,,ofgem-cap
+Apr 2020 - Sep 2020,2020-04,2020-09,967,534,433,,ofgem-cap
+Oct 2020 - Mar 2021,2020-10,2021-03,899,519,380,,ofgem-cap
+Apr 2021 - Sep 2021,2021-04,2021-09,979,565,414,,ofgem-cap
+Oct 2021 - Mar 2022,2021-10,2022-03,1093,611,482,,ofgem-cap
+Apr 2022 - Sep 2022,2022-04,2022-09,1673,874,799,,ofgem-cap
+Oct 2022 - Dec 2022,2022-10,2022-12,2972,1466,1506,Energy Price Guarantee discount applied: households paid less than the cap,ofgem-cap
+Jan 2023 - Mar 2023,2023-01,2023-03,3582,1856,1726,Energy Price Guarantee discount applied: households paid less than the cap,ofgem-cap
+Apr 2023 - June 2023,2023-04,2023-06,2762,1458,1304,Energy Price Guarantee discount applied: households paid less than the cap,ofgem-cap
+Jul 2023 - Sept 2023,2023-07,2023-09,1766,946,819,,ofgem-cap
+Oct 2023 - Dec 2023,2023-10,2023-12,1641,879,763,,ofgem-cap
+Jan 2024 - Mar 2024,2024-01,2024-03,1723,910,813,,ofgem-cap
+Apr 2024 - June 2024,2024-04,2024-06,1510,827,683,,ofgem-cap
+Jul 2024 - Sept 2024,2024-07,2024-09,1404,774,629,,ofgem-cap
+Oct 2024 - Dec 2024,2024-10,2024-12,1536,831,705,,ofgem-cap
+Jan 2025 - Mar 2025,2025-01,2025-03,1554,840,714,,ofgem-cap
+Apr 2025 - June 2025,2025-04,2025-06,1649,868,780,,ofgem-cap
+Jul 2025 - Sept 2025,2025-07,2025-09,1533,825,707,,ofgem-cap
+Oct 2025 - Dec 2025,2025-10,2025-12,1566,849,717,,ofgem-cap
+Jan 2026 - Mar 2026,2026-01,2026-03,1574,887,687,,ofgem-cap
+Apr 2026 - June 2026,2026-04,2026-06,1467,821,647,,ofgem-cap
+Jul 2026 - Sept 2026,2026-07,2026-09,1654,857,797,,ofgem-cap
+Oct 2026 - Dec 2026,2026-10,2026-12,1715,855,860,,ofgem-cap

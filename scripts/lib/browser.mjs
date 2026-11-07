@@ -49,7 +49,9 @@ export function serve(port) {
 export async function launch(debugPort = 9340) {
   const exe = process.env.BROWSER ?? "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe";
   const profile = fs.mkdtempSync(path.join(os.tmpdir(), "em-browser-"));
-  const proc = spawn(exe, ["--headless=new", `--remote-debugging-port=${debugPort}`, `--user-data-dir=${profile}`, "--no-first-run", "about:blank"]);
+  // GitHub's Ubuntu runners block Chrome's sandbox, so CI runs (CI=true) start it without one.
+  const ci = process.env.CI ? ["--no-sandbox"] : [];
+  const proc = spawn(exe, ["--headless=new", ...ci, `--remote-debugging-port=${debugPort}`, `--user-data-dir=${profile}`, "--no-first-run", "about:blank"]);
   const base = `http://127.0.0.1:${debugPort}`;
   for (let i = 0; i < 50; i++) {
     try { await fetch(`${base}/json/version`); break; } catch { await new Promise((r) => setTimeout(r, 200)); }
@@ -101,4 +103,4 @@ export async function launch(debugPort = 9340) {
   return { newPage, close };
 }
 
-export const DASHBOARDS = ["air", "chokepoints", "debt", "electricity", "food", "heat", "housing", "internet", "minerals", "orbit", "scams", "water"];
+export const DASHBOARDS = ["air", "chokepoints", "debt", "electricity", "energy", "fertilizer", "food", "heat", "housing", "internet", "medicines", "minerals", "orbit", "remittances", "scams", "vaccines", "water"];

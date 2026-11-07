@@ -1,0 +1,293 @@
+{
+  "id": "world",
+  "title": "World remittance flows and the global average cost, 2000 to 2025",
+  "description": "Personal remittances received by all countries and by low- and middle-income countries, remittances paid, and the global average cost of sending $200 (Q3 of each year).",
+  "records": [
+    {
+      "year": 2000,
+      "received_world_bn": 121.8,
+      "received_lmic_bn": 73.4,
+      "paid_world_bn": 113.7,
+      "received_world_gdp_pct": 0.37,
+      "received_lmic_gdp_pct": 1.31,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2001,
+      "received_world_bn": 132.1,
+      "received_lmic_bn": 80.6,
+      "paid_world_bn": 122.3,
+      "received_world_gdp_pct": 0.4,
+      "received_lmic_gdp_pct": 1.43,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2002,
+      "received_world_bn": 153,
+      "received_lmic_bn": 95.7,
+      "paid_world_bn": 136.7,
+      "received_world_gdp_pct": 0.45,
+      "received_lmic_gdp_pct": 1.67,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2003,
+      "received_world_bn": 188.3,
+      "received_lmic_bn": 119.4,
+      "paid_world_bn": 150.9,
+      "received_world_gdp_pct": 0.49,
+      "received_lmic_gdp_pct": 1.86,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2004,
+      "received_world_bn": 216.4,
+      "received_lmic_bn": 136.1,
+      "paid_world_bn": 172.7,
+      "received_world_gdp_pct": 0.5,
+      "received_lmic_gdp_pct": 1.8,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2005,
+      "received_world_bn": 252,
+      "received_lmic_bn": 162.6,
+      "paid_world_bn": 189.5,
+      "received_world_gdp_pct": 0.54,
+      "received_lmic_gdp_pct": 1.86,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2006,
+      "received_world_bn": 291.6,
+      "received_lmic_bn": 191.5,
+      "paid_world_bn": 216.1,
+      "received_world_gdp_pct": 0.58,
+      "received_lmic_gdp_pct": 1.86,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2007,
+      "received_world_bn": 347.3,
+      "received_lmic_bn": 229.3,
+      "paid_world_bn": 260.2,
+      "received_world_gdp_pct": 0.61,
+      "received_lmic_gdp_pct": 1.82,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2008,
+      "received_world_bn": 403.3,
+      "received_lmic_bn": 267.1,
+      "paid_world_bn": 316.8,
+      "received_world_gdp_pct": 0.65,
+      "received_lmic_gdp_pct": 1.77,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2009,
+      "received_world_bn": 387.3,
+      "received_lmic_bn": 258.6,
+      "paid_world_bn": 305.9,
+      "received_world_gdp_pct": 0.66,
+      "received_lmic_gdp_pct": 1.71,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2010,
+      "received_world_bn": 414.2,
+      "received_lmic_bn": 286,
+      "paid_world_bn": 313.4,
+      "received_world_gdp_pct": 0.64,
+      "received_lmic_gdp_pct": 1.55,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2011,
+      "received_world_bn": 464.6,
+      "received_lmic_bn": 321.3,
+      "paid_world_bn": 353.8,
+      "received_world_gdp_pct": 0.65,
+      "received_lmic_gdp_pct": 1.5,
+      "flows_source": "wdi-flows",
+      "cost_global": 9.3,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2012,
+      "received_world_bn": 486.2,
+      "received_lmic_bn": 346.6,
+      "paid_world_bn": 359.3,
+      "received_world_gdp_pct": 0.67,
+      "received_lmic_gdp_pct": 1.52,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2013,
+      "received_world_bn": 517.9,
+      "received_lmic_bn": 361.8,
+      "paid_world_bn": 392.2,
+      "received_world_gdp_pct": 0.69,
+      "received_lmic_gdp_pct": 1.49,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2014,
+      "received_world_bn": 553.6,
+      "received_lmic_bn": 390.4,
+      "paid_world_bn": 406.5,
+      "received_world_gdp_pct": 0.72,
+      "received_lmic_gdp_pct": 1.53,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2015,
+      "received_world_bn": 544.1,
+      "received_lmic_bn": 394.2,
+      "paid_world_bn": 379.9,
+      "received_world_gdp_pct": 0.74,
+      "received_lmic_gdp_pct": 1.59,
+      "flows_source": "wdi-flows",
+      "cost_global": 7.52,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2016,
+      "received_world_bn": 535.5,
+      "received_lmic_bn": 384.2,
+      "paid_world_bn": 383.5,
+      "received_world_gdp_pct": 0.72,
+      "received_lmic_gdp_pct": 1.54,
+      "flows_source": "wdi-flows",
+      "cost_global": null,
+      "cost_source": null
+    },
+    {
+      "year": 2017,
+      "received_world_bn": 578.1,
+      "received_lmic_bn": 417.1,
+      "paid_world_bn": 418.7,
+      "received_world_gdp_pct": 0.73,
+      "received_lmic_gdp_pct": 1.53,
+      "flows_source": "wdi-flows",
+      "cost_global": 7.21,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2018,
+      "received_world_bn": 623.8,
+      "received_lmic_bn": 453.3,
+      "paid_world_bn": 445.6,
+      "received_world_gdp_pct": 0.74,
+      "received_lmic_gdp_pct": 1.56,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.94,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2019,
+      "received_world_bn": 640.9,
+      "received_lmic_bn": 466.9,
+      "paid_world_bn": 450.2,
+      "received_world_gdp_pct": 0.74,
+      "received_lmic_gdp_pct": 1.56,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.85,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2020,
+      "received_world_bn": 639.9,
+      "received_lmic_bn": 468.6,
+      "paid_world_bn": 431,
+      "received_world_gdp_pct": 0.76,
+      "received_lmic_gdp_pct": 1.61,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.75,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2021,
+      "received_world_bn": 717.2,
+      "received_lmic_bn": 532.5,
+      "paid_world_bn": 473.2,
+      "received_world_gdp_pct": 0.75,
+      "received_lmic_gdp_pct": 1.56,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.3,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2022,
+      "received_world_bn": 770.3,
+      "received_lmic_bn": 591.4,
+      "paid_world_bn": 498.8,
+      "received_world_gdp_pct": 0.77,
+      "received_lmic_gdp_pct": 1.65,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.3,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2023,
+      "received_world_bn": 804,
+      "received_lmic_bn": 608,
+      "paid_world_bn": 592.2,
+      "received_world_gdp_pct": 0.77,
+      "received_lmic_gdp_pct": 1.65,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.18,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2024,
+      "received_world_bn": 870.3,
+      "received_lmic_bn": 664.6,
+      "paid_world_bn": 624.8,
+      "received_world_gdp_pct": 0.81,
+      "received_lmic_gdp_pct": 1.75,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.62,
+      "cost_source": "sdg-10c1"
+    },
+    {
+      "year": 2025,
+      "received_world_bn": 925.6,
+      "received_lmic_bn": 703.6,
+      "paid_world_bn": 662.4,
+      "received_world_gdp_pct": 0.81,
+      "received_lmic_gdp_pct": 1.8,
+      "flows_source": "wdi-flows",
+      "cost_global": 6.36,
+      "cost_source": "sdg-10c1"
+    }
+  ]
+}

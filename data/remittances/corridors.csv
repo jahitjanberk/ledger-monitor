@@ -1,0 +1,349 @@
+corridor,from,from_iso3,to,to_iso3,to_region,cost,cost_2016,smart,fee,fx_margin,services,cheapest,bank_cost,mto_cost,cost_source,source
+AGONAM,Angola,AGO,Namibia,NAM,Sub-Saharan Africa,13.29,16.69,,7.63,5.66,2,9.94,,13.29,sdg-10c1,rpw
+AUSPAK,Australia,AUS,Pakistan,PAK,South Asia,1.77,7.49,0.04,1.17,0.6,25,-1.53,,1.77,sdg-10c1,rpw
+AUSPHL,Australia,AUS,Philippines,PHL,East Asia & Pacific,2.61,5.4,0.58,2.23,0.38,34,0.48,6.49,2.49,sdg-10c1,rpw
+AUSIDN,Australia,AUS,Indonesia,IDN,East Asia & Pacific,3.28,8.31,0.94,1.56,1.72,19,0.7,5.37,2.89,sdg-10c1,rpw
+AUSCHN,Australia,AUS,China,CHN,East Asia & Pacific,3.3,10.32,0.3,1.9,1.41,18,0.11,6.48,2.91,sdg-10c1,rpw
+AUSSOM,Australia,AUS,Somalia,SOM,Sub-Saharan Africa,3.6,9.03,2.97,1.61,1.99,11,1.59,3.84,3.58,sdg-10c1,rpw
+AUSMYS,Australia,AUS,Malaysia,MYS,East Asia & Pacific,3.65,13.08,0.93,1.9,1.75,20,0.8,7.84,3.18,sdg-10c1,rpw
+AUSLKA,Australia,AUS,Sri Lanka,LKA,South Asia,4.03,8.4,1.19,3.05,0.99,23,1,8.03,3.85,sdg-10c1,rpw
+AUSTHA,Australia,AUS,Thailand,THA,East Asia & Pacific,4.2,11.33,1.53,1.85,2.35,19,1.52,6.14,3.68,sdg-10c1,rpw
+AUSFJI,Australia,AUS,Fiji,FJI,East Asia & Pacific,4.35,9.38,0.65,2.08,2.27,26,-3.17,7.71,3.55,sdg-10c1,rpw
+AUSVNM,Australia,AUS,Vietnam,VNM,East Asia & Pacific,5.01,9.12,3.4,2.64,2.37,18,0.17,11.02,3.29,sdg-10c1,rpw
+AUSZWE,Australia,AUS,Zimbabwe,ZWE,Sub-Saharan Africa,5.49,11.95,3.31,2.2,3.3,20,2.36,7.73,5.1,sdg-10c1,rpw
+AUSWSM,Australia,AUS,Samoa,WSM,East Asia & Pacific,5.93,14.32,1.51,3.17,2.76,15,-0.54,10.26,4.35,sdg-10c1,rpw
+AUSIND,Australia,AUS,India,IND,South Asia,6.15,6.51,-0.37,4.44,1.71,36,-2.22,11.8,2.56,sdg-10c1,rpw
+AUSTON,Australia,AUS,Tonga,TON,East Asia & Pacific,7.65,10.5,3.46,3,4.65,16,0.92,9.79,6.94,sdg-10c1,rpw
+AUSLBN,Australia,AUS,Lebanon,LBN,Middle East & North Africa,10.67,12.97,4.54,7.71,2.96,33,2.39,13.22,3.86,sdg-10c1,rpw
+AUSVUT,Australia,AUS,Vanuatu,VUT,East Asia & Pacific,12.77,16.67,8.16,6.03,6.74,14,5.72,14.49,8.48,sdg-10c1,rpw
+AUTHRV,Austria,AUT,Croatia,HRV,..,2.78,4.35,0.87,2.78,0,20,0,2.15,2.85,sdg-10c1,rpw
+AUTTUR,Austria,AUT,Turkey,TUR,Europe & Central Asia,3.94,6.33,0.75,3.04,0.9,37,0.54,7.35,3.4,sdg-10c1,rpw
+AUTKSV,Austria,AUT,KSV,KSV,Europe & Central Asia,4.36,7.24,,4.36,0,20,0,10.23,3.71,rpw,rpw
+AUTHUN,Austria,AUT,Hungary,HUN,Europe & Central Asia,4.42,6.49,1.04,2.36,2.06,19,0.83,2.15,4.68,sdg-10c1,rpw
+AUTSRB,Austria,AUT,Serbia,SRB,Europe & Central Asia,5.3,7.82,3.68,3.71,1.59,17,3.57,10.23,4.65,sdg-10c1,rpw
+AUTBIH,Austria,AUT,Bosnia and Herzegovina,BIH,Europe & Central Asia,6.64,8.74,3.75,4.18,2.46,17,2.68,10.63,5.79,sdg-10c1,rpw
+BHRPAK,Bahrain,BHR,Pakistan,PAK,South Asia,0.92,2.19,0.71,0.6,0.32,7,-0.46,,0.92,sdg-10c1,rpw
+BHRIND,Bahrain,BHR,India,IND,South Asia,2.17,2.52,0.98,1.82,0.35,10,0.24,2.11,2.19,sdg-10c1,rpw
+BHREGY,Bahrain,BHR,Egypt,EGY,Middle East & North Africa,3.25,5.58,4.14,1.96,1.29,5,2.41,,3.25,sdg-10c1,rpw
+BHRBGD,Bahrain,BHR,Bangladesh,BGD,South Asia,6.19,,5.81,1.66,4.54,11,5.73,,6.2,sdg-10c1,rpw
+BELDZA,Belgium,BEL,Algeria,DZA,Middle East & North Africa,1.29,7.51,,0,1.29,6,1.09,,1.29,sdg-10c1,rpw
+BELCOD,Belgium,BEL,Democratic Republic of Congo,COD,Sub-Saharan Africa,3.15,8.22,2.05,1.54,1.61,15,1.36,,3.15,sdg-10c1,rpw
+BELMAR,Belgium,BEL,Morocco,MAR,Middle East & North Africa,3.86,5.81,3.03,2.17,1.69,22,1.18,5.51,3.49,sdg-10c1,rpw
+BELTUR,Belgium,BEL,Turkey,TUR,Europe & Central Asia,4.22,9.19,2.4,2.75,1.47,21,2.05,,4.22,sdg-10c1,rpw
+BRAPER,Brazil,BRA,Peru,PER,Latin America & Caribbean,7.1,5.93,3.94,3.2,3.9,10,1.98,5.89,7.24,sdg-10c1,rpw
+BRAPRY,Brazil,BRA,Paraguay,PRY,Latin America & Caribbean,8.18,5.87,4.18,3.91,4.27,10,2.74,5.69,8.46,sdg-10c1,rpw
+BRABOL,Brazil,BRA,Bolivia,BOL,Latin America & Caribbean,22.59,5.37,9.61,3.99,18.6,8,5.79,5.79,24.99,sdg-10c1,rpw
+CMRNGA,Cameroon,CMR,Nigeria,NGA,Sub-Saharan Africa,4.38,6.92,4.38,4.74,-0.36,2,4.13,,4.38,sdg-10c1,rpw
+CANNGA,Canada,CAN,Nigeria,NGA,Sub-Saharan Africa,3.15,4.27,3.31,1.95,1.2,13,0.96,,3.15,sdg-10c1,rpw
+CANPHL,Canada,CAN,Philippines,PHL,East Asia & Pacific,3.55,6.22,1.21,3.08,0.47,37,0.58,4.91,3.39,sdg-10c1,rpw
+CANIND,Canada,CAN,India,IND,South Asia,4.28,8.11,1.39,3.05,1.23,32,0.86,6.8,2.77,sdg-10c1,rpw
+CANPAK,Canada,CAN,Pakistan,PAK,South Asia,4.73,5.48,2.05,1.27,3.46,19,1.28,,4.73,sdg-10c1,rpw
+CANLKA,Canada,CAN,Sri Lanka,LKA,South Asia,4.75,6.28,2.89,2.98,1.77,9,2.65,,4.75,sdg-10c1,rpw
+CANRWA,Canada,CAN,Rwanda,RWA,Sub-Saharan Africa,5.03,9.85,1.94,1.9,3.13,16,1.94,10.37,4.68,sdg-10c1,rpw
+CANGHA,Canada,CAN,Ghana,GHA,Sub-Saharan Africa,5.42,9.67,-2.3,2.64,2.78,21,-2.3,9.44,4.75,sdg-10c1,rpw
+CANJAM,Canada,CAN,Jamaica,JAM,Latin America & Caribbean,5.69,10.12,2.9,2.57,3.12,15,2.1,5.47,5.73,sdg-10c1,rpw
+CANHTI,Canada,CAN,Haiti,HTI,Latin America & Caribbean,5.78,9.98,4.81,2.99,2.79,13,2.1,2.1,6.09,sdg-10c1,rpw
+CANCHN,Canada,CAN,China,CHN,East Asia & Pacific,5.83,9.24,2.74,3.64,2.19,14,1.7,9.62,4.8,sdg-10c1,rpw
+CANKEN,Canada,CAN,Kenya,KEN,Sub-Saharan Africa,6,10.27,0.86,2.8,3.2,21,0.86,12.41,4.93,sdg-10c1,rpw
+CANVNM,Canada,CAN,Vietnam,VNM,East Asia & Pacific,6.19,7.96,5.96,2.94,3.26,19,2.1,11.78,5.15,sdg-10c1,rpw
+CANZWE,Canada,CAN,Zimbabwe,ZWE,Sub-Saharan Africa,6.57,10.45,2.48,3.26,3.32,17,2.1,10.9,5.25,sdg-10c1,rpw
+CANGUY,Canada,CAN,Guyana,GUY,Latin America & Caribbean,8.35,10.99,4.56,3.19,5.16,10,4.16,,8.35,sdg-10c1,rpw
+CANLBN,Canada,CAN,Lebanon,LBN,Middle East & North Africa,9.43,13.42,5.66,5.73,3.7,8,2.1,13.54,6.96,sdg-10c1,rpw
+CHLPER,Chile,CHL,Peru,PER,Latin America & Caribbean,4.93,3.5,4.92,2.73,2.2,7,4.25,,4.93,sdg-10c1,rpw
+CRINIC,Costa Rica,CRI,Nicaragua,NIC,Latin America & Caribbean,6.86,3.12,2.83,6.86,0,9,2.75,15,2.79,sdg-10c1,rpw
+CIVMLI,Cote d'Ivoire,CIV,Mali,MLI,Sub-Saharan Africa,6.17,5,2.36,6.17,0,7,1.5,16.13,3.23,sdg-10c1,rpw
+CZEUKR,Czechia,CZE,Ukraine,UKR,Europe & Central Asia,6.17,10.04,1.86,4.05,2.13,15,0.8,11.51,3.51,sdg-10c1,rpw
+CZEVNM,Czechia,CZE,Vietnam,VNM,East Asia & Pacific,6.36,10.42,4.02,4,2.36,16,1.55,11.51,4.03,sdg-10c1,rpw
+DOMHTI,Dominican Republic,DOM,Haiti,HTI,Latin America & Caribbean,7.68,8.43,7.68,5.73,1.95,3,6.71,,7.68,sdg-10c1,rpw
+FRASEN,France,FRA,Senegal,SEN,Sub-Saharan Africa,2.4,4.97,0.96,2.44,-0.03,17,0.91,3.09,2.41,sdg-10c1,rpw
+FRAMLI,France,FRA,Mali,MLI,Sub-Saharan Africa,2.88,5.21,2.16,2.97,-0.09,9,1.23,3.32,2.96,sdg-10c1,rpw
+FRACMR,France,FRA,Cameroon,CMR,Sub-Saharan Africa,3.08,4.45,1.26,1.71,1.37,20,1.26,,3.08,sdg-10c1,rpw
+FRATGO,France,FRA,Togo,TGO,Sub-Saharan Africa,3.36,5.32,2.59,3.5,-0.14,11,2.48,2.48,3.36,sdg-10c1,rpw
+FRACOM,France,FRA,Comoros,COM,Sub-Saharan Africa,3.78,5.94,2.95,3.24,0.54,11,2.75,3.35,3.78,sdg-10c1,rpw
+FRACIV,France,FRA,Cote d'Ivoire,CIV,Sub-Saharan Africa,4.05,5.74,1.98,3.71,0.34,21,1.03,2.46,4.14,sdg-10c1,rpw
+FRACHN,France,FRA,China,CHN,East Asia & Pacific,4.48,10.36,1.68,2.67,1.81,19,1.05,7.55,4.48,sdg-10c1,rpw
+FRAHTI,France,FRA,Haiti,HTI,Latin America & Caribbean,4.85,9.67,4.36,2.84,2.02,8,4.1,5.07,4.86,sdg-10c1,rpw
+FRALBN,France,FRA,Lebanon,LBN,Middle East & North Africa,5.08,11.74,5.32,2.43,2.65,11,2.37,,5.08,sdg-10c1,rpw
+FRAVNM,France,FRA,Vietnam,VNM,East Asia & Pacific,5.3,9.32,2.83,2.99,2.31,18,1.96,11.69,5.3,sdg-10c1,rpw
+FRAMDG,France,FRA,Madagascar,MDG,Sub-Saharan Africa,5.31,9.08,3.5,2.06,3.25,14,2.94,,5.31,sdg-10c1,rpw
+FRATUN,France,FRA,Tunisia,TUN,Middle East & North Africa,5.5,7.04,5.25,3.23,2.27,18,0.61,8.93,4.53,sdg-10c1,rpw
+FRAIND,France,FRA,India,IND,South Asia,6.33,5.84,1.43,5.34,0.99,28,1.4,13.5,2.86,sdg-10c1,rpw
+FRAMAR,France,FRA,Morocco,MAR,Middle East & North Africa,7.39,6.21,1.81,6.06,1.33,39,1.46,17.28,3.63,sdg-10c1,rpw
+FRASRB,France,FRA,Serbia,SRB,Europe & Central Asia,8.05,7.68,5.14,6.43,1.62,11,4.89,,8.05,sdg-10c1,rpw
+FRADZA,France,FRA,Algeria,DZA,Middle East & North Africa,45.13,8.83,,45,0.13,1,45.13,45.13,,sdg-10c1,rpw
+DEUSRB,Germany,DEU,Serbia,SRB,Europe & Central Asia,2.47,8.86,0,2.32,0.15,17,0,0.88,3.77,sdg-10c1,rpw
+DEUNGA,Germany,DEU,Nigeria,NGA,Sub-Saharan Africa,2.85,8.28,1.19,0.89,1.96,33,-0.18,5.6,2.85,sdg-10c1,rpw
+DEUTJK,Germany,DEU,Tajikistan,TJK,Europe & Central Asia,2.99,10.91,,1.57,1.42,19,0,,2.99,sdg-10c1,rpw
+DEUHRV,Germany,DEU,Croatia,HRV,..,3.14,6.51,0,3.14,0,20,0,0.86,4.88,sdg-10c1,rpw
+DEUROU,Germany,DEU,Romania,ROU,Europe & Central Asia,3.2,5.02,0,2.44,0.76,51,0,1.55,3.89,sdg-10c1,rpw
+DEUTGO,Germany,DEU,Togo,TGO,Sub-Saharan Africa,3.46,8.3,2.75,3.48,-0.02,15,1.45,3.64,3.46,sdg-10c1,rpw
+DEUUKR,Germany,DEU,Ukraine,UKR,Europe & Central Asia,3.49,7.35,1.06,2.35,1.14,19,0,5.07,3.49,sdg-10c1,rpw
+DEUBGR,Germany,DEU,Bulgaria,BGR,Europe & Central Asia,3.58,5.61,0.55,2.85,0.73,25,0,0,3.9,sdg-10c1,rpw
+DEUVNM,Germany,DEU,Vietnam,VNM,East Asia & Pacific,3.85,9.48,1.99,1.94,1.91,35,1.34,8.99,3.53,sdg-10c1,rpw
+DEUTUR,Germany,DEU,Turkey,TUR,Europe & Central Asia,4.01,6.96,1.91,3.11,0.9,30,1.74,7.38,3.89,sdg-10c1,rpw
+DEUMKD,Germany,DEU,North Macedonia,MKD,Europe & Central Asia,4.07,10.2,1.78,4.07,0,7,0,,4.07,sdg-10c1,rpw
+DEUMAR,Germany,DEU,Morocco,MAR,Middle East & North Africa,4.11,8.55,2.48,2.05,2.06,33,2.24,5.33,4.01,sdg-10c1,rpw
+DEUKSV,Germany,DEU,KSV,KSV,Europe & Central Asia,4.4,6.49,,4.4,0,12,0.3,4.44,4.39,rpw,rpw
+DEUGHA,Germany,DEU,Ghana,GHA,Sub-Saharan Africa,4.44,10.87,1.07,1.76,2.69,33,0.76,10.97,4.45,sdg-10c1,rpw
+DEUMDA,Germany,DEU,Moldova,MDA,Europe & Central Asia,4.66,11.99,2.77,3.92,0.74,13,2.76,2.79,4.66,sdg-10c1,rpw
+DEUBIH,Germany,DEU,Bosnia and Herzegovina,BIH,Europe & Central Asia,4.9,9.66,1.96,4.21,0.69,22,1.96,10.07,4.1,sdg-10c1,rpw
+DEULBN,Germany,DEU,Lebanon,LBN,Middle East & North Africa,5.49,11.49,3.86,2.47,3.02,5,3,,5.49,sdg-10c1,rpw
+DEUALB,Germany,DEU,Albania,ALB,Europe & Central Asia,5.58,8.32,4.01,4.23,1.35,6,3.21,,5.58,sdg-10c1,rpw
+DEUTHA,Germany,DEU,Thailand,THA,East Asia & Pacific,6.65,11.91,2.51,4.88,1.77,21,2.12,18.34,3.9,sdg-10c1,rpw
+DEUIND,Germany,DEU,India,IND,South Asia,6.78,9,1.4,5.77,1.01,27,1.35,19.27,2.82,sdg-10c1,rpw
+DEUHUN,Germany,DEU,Hungary,HUN,Europe & Central Asia,7.18,5.72,2.68,3.57,3.61,18,2.05,,7.18,sdg-10c1,rpw
+DEUAFG,Germany,DEU,Afghanistan,AFG,South Asia,8.61,10.48,9.87,3.07,5.54,5,6.68,,8.61,sdg-10c1,rpw
+DEUCHN,Germany,DEU,China,CHN,East Asia & Pacific,9.38,11.49,3.57,5.98,3.4,16,3.07,13.56,7.01,sdg-10c1,rpw
+DEUKGZ,Germany,DEU,Kyrgyzstan,KGZ,Europe & Central Asia,9.85,8.68,5.9,4.36,5.49,8,5.9,,9.85,sdg-10c1,rpw
+GHANGA,Ghana,GHA,Nigeria,NGA,Sub-Saharan Africa,13.29,6.33,,7.09,6.2,7,12.02,13.29,,sdg-10c1,rpw
+INDNPL,India,IND,Nepal,NPL,South Asia,3.14,1.25,0.52,2.87,0.27,21,0.45,3.14,,sdg-10c1,rpw
+INDLKA,India,IND,Sri Lanka,LKA,South Asia,6.84,4.2,,6.11,0.73,8,4.37,6.84,,sdg-10c1,rpw
+ISRMAR,Israel,ISR,Morocco,MAR,Middle East & North Africa,13.13,11.65,12.96,10.84,2.29,3,8.93,13.47,12.96,sdg-10c1,rpw
+ITAIND,Italy,ITA,India,IND,South Asia,3.97,4.38,0.16,3.41,0.56,19,-0.82,19.34,2.16,sdg-10c1,rpw
+ITAPHL,Italy,ITA,Philippines,PHL,East Asia & Pacific,4.44,5.39,0.16,3.72,0.72,33,-0.95,18.63,2.48,sdg-10c1,rpw
+ITAETH,Italy,ITA,Ethiopia,ETH,Sub-Saharan Africa,4.49,8.09,3.54,3.03,1.46,20,-7.44,,4.49,sdg-10c1,rpw
+ITANGA,Italy,ITA,Nigeria,NGA,Sub-Saharan Africa,4.55,7.24,1.48,3.11,1.44,18,0.74,14.53,2.71,sdg-10c1,rpw
+ITAROU,Italy,ITA,Romania,ROU,Europe & Central Asia,4.77,4.59,1.33,4.06,0.71,31,1.25,10.1,3.49,sdg-10c1,rpw
+ITALKA,Italy,ITA,Sri Lanka,LKA,South Asia,5.22,4.2,1.78,3.92,1.3,27,1.66,23.11,2.98,sdg-10c1,rpw
+ITATUN,Italy,ITA,Tunisia,TUN,Middle East & North Africa,5.48,9.69,1.65,3.8,1.68,23,-0.12,10.41,4.14,sdg-10c1,rpw
+ITACHN,Italy,ITA,China,CHN,East Asia & Pacific,5.85,7.95,1.18,4.44,1.41,15,0.78,19.34,3.78,sdg-10c1,rpw
+ITABRA,Italy,ITA,Brazil,BRA,Latin America & Caribbean,6.51,6.99,1.5,4.64,1.87,21,0.85,23.64,3.66,sdg-10c1,rpw
+ITAMAR,Italy,ITA,Morocco,MAR,Middle East & North Africa,7.21,6.19,0.58,6.48,0.73,29,-1.12,19.27,2.75,sdg-10c1,rpw
+ITASEN,Italy,ITA,Senegal,SEN,Sub-Saharan Africa,7.9,5.59,0.43,7.91,-0.01,27,0.41,24.49,2.28,sdg-10c1,rpw
+ITAECU,Italy,ITA,Ecuador,ECU,Latin America & Caribbean,8.13,3.42,1.98,7.12,1.01,24,1.58,23.83,2.89,sdg-10c1,rpw
+ITAEGY,Italy,ITA,Egypt,EGY,Middle East & North Africa,9.02,7.17,5.55,7.91,1.11,21,1.82,18.42,4.79,sdg-10c1,rpw
+ITAMDA,Italy,ITA,Moldova,MDA,Europe & Central Asia,9.44,5.99,1.9,9.06,0.38,17,0.71,23.98,3.38,sdg-10c1,rpw
+ITABGD,Italy,ITA,Bangladesh,BGD,South Asia,9.55,,4.12,5.66,3.89,30,2.98,26,6.26,sdg-10c1,rpw
+ITAUKR,Italy,ITA,Ukraine,UKR,Europe & Central Asia,11.76,5.25,1.44,10.6,1.16,26,0.06,23.58,4.26,sdg-10c1,rpw
+ITAKSV,Italy,ITA,KSV,KSV,Europe & Central Asia,12.6,8.31,,12.6,0,8,2.85,35.89,4.84,rpw,rpw
+ITAALB,Italy,ITA,Albania,ALB,Europe & Central Asia,13.05,7.06,2.14,12.74,0.31,17,0.71,21.29,3.92,sdg-10c1,rpw
+ITASRB,Italy,ITA,Serbia,SRB,Europe & Central Asia,16.25,7.15,3.03,16.25,0,12,2.85,29.29,3.21,sdg-10c1,rpw
+JPNVNM,Japan,JPN,Vietnam,VNM,East Asia & Pacific,3.7,7.14,2.86,3.39,0.31,18,2.19,11.49,2.73,sdg-10c1,rpw
+JPNIDN,Japan,JPN,Indonesia,IDN,East Asia & Pacific,5.63,9.25,2.39,4.64,0.99,18,2.19,12.77,4.2,sdg-10c1,rpw
+JPNTHA,Japan,JPN,Thailand,THA,East Asia & Pacific,8.33,10.55,4.68,6.83,1.5,12,2.66,17.05,5.43,sdg-10c1,rpw
+JPNBRA,Japan,JPN,Brazil,BRA,Latin America & Caribbean,8.35,9.87,4.8,6.34,2.01,12,2.36,12.33,6.36,sdg-10c1,rpw
+JPNIND,Japan,JPN,India,IND,South Asia,8.72,13.36,2.39,7.77,0.95,22,1.22,16.46,4.31,sdg-10c1,rpw
+JPNPHL,Japan,JPN,Philippines,PHL,East Asia & Pacific,12.88,9.65,3.37,11.68,1.2,45,2.06,27.33,4.91,sdg-10c1,rpw
+JPNCHN,Japan,JPN,China,CHN,East Asia & Pacific,18.48,15.39,4.74,17.1,1.38,15,3.57,31.92,6.73,sdg-10c1,rpw
+JOREGY,Jordan,JOR,Egypt,EGY,Middle East & North Africa,2.3,2.93,2.03,2.06,0.24,13,1.29,4.29,2.13,sdg-10c1,rpw
+JORPSE,Jordan,JOR,Palestine,PSE,Middle East & North Africa,3.55,6.23,1.96,3.55,0,12,1.43,5.36,2.64,sdg-10c1,rpw
+JORSYR,Jordan,JOR,Syria,SYR,Middle East & North Africa,7.42,2.35,,1.43,5.99,9,4.14,,7.42,sdg-10c1,rpw
+KENRWA,Kenya,KEN,Rwanda,RWA,Sub-Saharan Africa,7.46,10.55,5.61,4.8,2.66,12,2.85,10.21,5.05,sdg-10c1,rpw
+KENUGA,Kenya,KEN,Uganda,UGA,Sub-Saharan Africa,12.75,10.03,4.9,10.03,2.72,27,2.85,14.97,4.39,sdg-10c1,rpw
+KENTZA,Kenya,KEN,Tanzania,TZA,Sub-Saharan Africa,13.41,10.03,4.33,10.33,3.08,26,0.46,14.97,4.33,sdg-10c1,rpw
+KENSSD,Kenya,KEN,South Sudan,SSD,Sub-Saharan Africa,13.43,10.51,2.46,10.98,2.45,24,2.46,15.38,3.65,sdg-10c1,rpw
+KWTPAK,Kuwait,KWT,Pakistan,PAK,South Asia,0.35,1.86,0.68,0.19,0.16,21,-1.49,,0.35,sdg-10c1,rpw
+KWTIND,Kuwait,KWT,India,IND,South Asia,2.38,2.38,1.87,1.8,0.57,30,1.65,,2.37,sdg-10c1,rpw
+KWTPHL,Kuwait,KWT,Philippines,PHL,East Asia & Pacific,2.94,2.44,2.31,1.91,1.03,30,2.21,,2.94,sdg-10c1,rpw
+KWTEGY,Kuwait,KWT,Egypt,EGY,Middle East & North Africa,3.33,2.5,3.02,2.31,1.02,25,2.83,,3.33,sdg-10c1,rpw
+KWTJOR,Kuwait,KWT,Jordan,JOR,Middle East & North Africa,3.88,6.26,2.81,2.66,1.23,22,2.73,,3.89,sdg-10c1,rpw
+KWTBGD,Kuwait,KWT,Bangladesh,BGD,South Asia,6.64,2.1,5.99,1.79,4.84,28,5.96,,6.63,sdg-10c1,rpw
+MYSMMR,Malaysia,MYS,Myanmar,MMR,East Asia & Pacific,0.24,3.46,0.08,1.52,-1.28,7,-0.05,,0.24,sdg-10c1,rpw
+MYSNPL,Malaysia,MYS,Nepal,NPL,South Asia,2.75,2.99,1.92,1.53,1.23,14,1.92,,2.76,sdg-10c1,rpw
+MYSIND,Malaysia,MYS,India,IND,South Asia,3.33,3.15,1.53,1.56,1.77,17,1.24,3.21,3.35,sdg-10c1,rpw
+MYSVNM,Malaysia,MYS,Vietnam,VNM,East Asia & Pacific,3.81,6.83,2.27,2.25,1.56,16,2.06,12.25,3.25,sdg-10c1,rpw
+MYSPHL,Malaysia,MYS,Philippines,PHL,East Asia & Pacific,3.92,4.45,1.27,2.43,1.49,37,1.27,7.72,2.69,sdg-10c1,rpw
+MYSTHA,Malaysia,MYS,Thailand,THA,East Asia & Pacific,4.67,10.46,2.64,2.48,2.19,14,2.17,7.27,3.23,sdg-10c1,rpw
+MYSCHN,Malaysia,MYS,China,CHN,East Asia & Pacific,4.69,7.28,2.63,3.3,1.39,11,2.43,6.11,4.16,sdg-10c1,rpw
+MYSIDN,Malaysia,MYS,Indonesia,IDN,East Asia & Pacific,4.8,5.56,1.29,2.26,2.54,36,1.29,9.51,3.28,sdg-10c1,rpw
+MYSBGD,Malaysia,MYS,Bangladesh,BGD,South Asia,7.51,3.61,5.21,2.17,5.34,30,5.05,12.37,6.03,sdg-10c1,rpw
+NLDNGA,Netherlands,NLD,Nigeria,NGA,Sub-Saharan Africa,2.84,7.11,3.6,1.68,1.16,21,0.25,,2.84,sdg-10c1,rpw
+NLDIDN,Netherlands,NLD,Indonesia,IDN,East Asia & Pacific,4.29,10.61,2.36,2.91,1.38,23,2.32,15,3.27,sdg-10c1,rpw
+NLDDOM,Netherlands,NLD,Dominican Republic,DOM,Latin America & Caribbean,4.91,8.62,1.91,2.96,1.95,29,1.84,15,4.16,sdg-10c1,rpw
+NLDGHA,Netherlands,NLD,Ghana,GHA,Sub-Saharan Africa,5.04,8.61,0.99,2.93,2.11,30,0.68,15,4.33,sdg-10c1,rpw
+NLDMAR,Netherlands,NLD,Morocco,MAR,Middle East & North Africa,5.57,7.04,2.47,4.09,1.48,25,0.98,18.39,3.82,sdg-10c1,rpw
+NLDSOM,Netherlands,NLD,Somalia,SOM,Sub-Saharan Africa,6.09,6.83,6.92,0.81,5.28,9,4.28,,6.09,sdg-10c1,rpw
+NLDTUR,Netherlands,NLD,Turkey,TUR,Europe & Central Asia,8.14,8.91,2.97,7.31,0.83,23,2.5,23.61,4.88,sdg-10c1,rpw
+NLDSUR,Netherlands,NLD,Suriname,SUR,Latin America & Caribbean,8.86,7.58,,7.62,1.24,15,3.84,15.86,5.36,sdg-10c1,rpw
+NZLCHN,New Zealand,NZL,China,CHN,East Asia & Pacific,3.5,9.16,1.32,2.27,1.23,28,1,3.5,3.5,sdg-10c1,rpw
+NZLPHL,New Zealand,NZL,Philippines,PHL,East Asia & Pacific,4.04,7.35,0.34,3.09,0.96,29,0.34,9.85,1.84,sdg-10c1,rpw
+NZLIND,New Zealand,NZL,India,IND,South Asia,4.68,6.56,0.47,3.38,1.3,33,0.47,7.87,2.03,sdg-10c1,rpw
+NZLFJI,New Zealand,NZL,Fiji,FJI,East Asia & Pacific,6.5,9.41,2.58,4.16,2.34,32,2.37,9.8,3.59,sdg-10c1,rpw
+NZLVNM,New Zealand,NZL,Vietnam,VNM,East Asia & Pacific,6.59,8.19,3.19,4.39,2.2,28,1.39,10.54,4.73,sdg-10c1,rpw
+NZLWSM,New Zealand,NZL,Samoa,WSM,East Asia & Pacific,6.66,8.12,2.38,3.68,2.98,34,0.74,10.37,5.52,sdg-10c1,rpw
+NZLTON,New Zealand,NZL,Tonga,TON,East Asia & Pacific,7.88,10.12,3.81,3.95,3.94,27,2.77,12.73,5.84,sdg-10c1,rpw
+NZLVUT,New Zealand,NZL,Vanuatu,VUT,East Asia & Pacific,11.22,13.05,9.18,5.3,5.92,14,6.54,12.29,9.8,sdg-10c1,rpw
+NORPAK,Norway,NOR,Pakistan,PAK,South Asia,3.12,9.26,0.77,1.75,1.37,41,0.7,5.28,2.89,sdg-10c1,rpw
+NORPOL,Norway,NOR,Poland,POL,..,4.07,7.35,0.86,2.62,1.44,31,-0.01,4.81,3.95,sdg-10c1,rpw
+OMNJOR,Oman,OMN,Jordan,JOR,Middle East & North Africa,2.84,4.86,2.82,2.81,0.03,4,2.7,,2.84,sdg-10c1,rpw
+OMNPAK,Oman,OMN,Pakistan,PAK,South Asia,3.01,2.96,3.74,2.1,0.91,4,0.94,,3.01,sdg-10c1,rpw
+OMNNPL,Oman,OMN,Nepal,NPL,South Asia,3.11,3.75,2.87,2.66,0.45,5,2.14,,3.11,sdg-10c1,rpw
+OMNIND,Oman,OMN,India,IND,South Asia,3.3,3.54,3.64,2.99,0.31,11,2.37,2.74,3.43,sdg-10c1,rpw
+OMNLKA,Oman,OMN,Sri Lanka,LKA,South Asia,3.31,3.98,3.27,2.8,0.51,9,3.11,3.26,3.32,sdg-10c1,rpw
+OMNBGD,Oman,OMN,Bangladesh,BGD,South Asia,8.05,3.26,8.22,2.8,5.25,9,6.7,,8.05,sdg-10c1,rpw
+POLUKR,Poland,POL,Ukraine,UKR,Europe & Central Asia,3.73,,0.22,2.12,1.61,22,0.1,9.84,2.37,sdg-10c1,rpw
+PRTCPV,Portugal,PRT,Cape Verde,CPV,Sub-Saharan Africa,3.52,6.85,3.65,3.07,0.45,6,3.24,,3.52,sdg-10c1,rpw
+PRTMOZ,Portugal,PRT,Mozambique,MOZ,Sub-Saharan Africa,4.32,9.89,8.32,1.81,2.52,15,1.8,,4.33,sdg-10c1,rpw
+PRTBRA,Portugal,PRT,Brazil,BRA,Latin America & Caribbean,5.3,4.9,3.25,2.16,3.14,11,1.69,,5.3,sdg-10c1,rpw
+QATPAK,Qatar,QAT,Pakistan,PAK,South Asia,1.33,3.35,2.52,0.91,0.42,6,-0.32,1.06,1.38,sdg-10c1,rpw
+QATLKA,Qatar,QAT,Sri Lanka,LKA,South Asia,2.34,4.56,1.87,2.39,-0.05,6,0.71,1.04,3,sdg-10c1,rpw
+QATIND,Qatar,QAT,India,IND,South Asia,2.51,4.64,1.66,1.89,0.61,7,1.33,2.65,2.44,sdg-10c1,rpw
+QATPHL,Qatar,QAT,Philippines,PHL,East Asia & Pacific,2.52,4.98,1.8,1.66,0.85,6,0.81,,2.51,sdg-10c1,rpw
+QATJOR,Qatar,QAT,Jordan,JOR,Middle East & North Africa,3.88,4.83,2.46,2.38,1.49,5,2.46,3.62,3.94,sdg-10c1,rpw
+QATNPL,Qatar,QAT,Nepal,NPL,South Asia,4,4.97,6.55,3.01,0.99,6,3.14,,4,sdg-10c1,rpw
+QATEGY,Qatar,QAT,Egypt,EGY,Middle East & North Africa,5.64,5.81,,1.82,3.81,6,2.53,7.98,3.28,sdg-10c1,rpw
+QATBGD,Qatar,QAT,Bangladesh,BGD,South Asia,7.18,4.45,7.61,2.74,4.44,4,6.72,,7.18,sdg-10c1,rpw
+QATSDN,Qatar,QAT,Sudan,SDN,Sub-Saharan Africa,23.2,7.29,,2.51,20.69,3,2.23,2.23,33.69,sdg-10c1,rpw
+RWAKEN,Rwanda,RWA,Kenya,KEN,Sub-Saharan Africa,22.57,7.04,9.69,16.68,5.88,7,2.38,32.22,10.96,sdg-10c1,rpw
+SAUYEM,Saudi Arabia,SAU,Yemen,YEM,Middle East & North Africa,2.69,2.5,3.53,2.39,0.31,8,2.3,,2.7,sdg-10c1,rpw
+SAULKA,Saudi Arabia,SAU,Sri Lanka,LKA,South Asia,3.26,4.02,3.12,2.27,0.99,9,3.05,3.67,3.21,sdg-10c1,rpw
+SAUIDN,Saudi Arabia,SAU,Indonesia,IDN,East Asia & Pacific,3.51,4.21,2.95,2.27,1.24,10,2.88,4.05,3.45,sdg-10c1,rpw
+SAUPHL,Saudi Arabia,SAU,Philippines,PHL,East Asia & Pacific,3.82,4.31,2.67,3.07,0.75,10,2.56,10.8,3.04,sdg-10c1,rpw
+SAUSSD,Saudi Arabia,SAU,South Sudan,SSD,Sub-Saharan Africa,4.83,7.9,,2.61,2.22,1,4.83,,4.83,sdg-10c1,rpw
+SAUPAK,Saudi Arabia,SAU,Pakistan,PAK,South Asia,5.01,3.44,2.38,3.55,1.47,12,1.44,11.51,2.85,sdg-10c1,rpw
+SAUNPL,Saudi Arabia,SAU,Nepal,NPL,South Asia,5.03,3.8,3.23,3.84,1.18,11,3.12,11.54,3.58,sdg-10c1,rpw
+SAUEGY,Saudi Arabia,SAU,Egypt,EGY,Middle East & North Africa,5.15,6.5,4.07,4.23,0.92,12,2.63,10.6,3.33,sdg-10c1,rpw
+SAULBN,Saudi Arabia,SAU,Lebanon,LBN,Middle East & North Africa,5.57,4.72,5.62,2.84,2.73,2,5.52,,5.57,sdg-10c1,rpw
+SAUIND,Saudi Arabia,SAU,India,IND,South Asia,5.59,4.51,3.4,4.22,1.37,12,3.14,11.56,3.6,sdg-10c1,rpw
+SAUAFG,Saudi Arabia,SAU,Afghanistan,AFG,South Asia,5.75,5.75,4.86,2.46,3.3,2,4.86,,5.76,sdg-10c1,rpw
+SAUMMR,Saudi Arabia,SAU,Myanmar,MMR,East Asia & Pacific,5.9,9.85,4.65,3.17,2.73,3,4.38,4.38,5.9,sdg-10c1,rpw
+SAUJOR,Saudi Arabia,SAU,Jordan,JOR,Middle East & North Africa,7.03,5,5.54,4.38,2.65,12,4.28,12.32,5.27,sdg-10c1,rpw
+SAUETH,Saudi Arabia,SAU,Ethiopia,ETH,Sub-Saharan Africa,7.85,5.16,7.85,2.66,5.19,3,5.62,,7.85,sdg-10c1,rpw
+SAUSYR,Saudi Arabia,SAU,Syria,SYR,Middle East & North Africa,8.88,10.67,,2.61,6.27,1,8.88,,8.88,sdg-10c1,rpw
+SAUBGD,Saudi Arabia,SAU,Bangladesh,BGD,South Asia,10.2,3.79,7.23,4.9,5.3,9,7.15,15.2,7.7,sdg-10c1,rpw
+SAUSDN,Saudi Arabia,SAU,Sudan,SDN,Sub-Saharan Africa,13.44,0.15,,2.41,11.03,3,3.21,,13.44,sdg-10c1,rpw
+SENMLI,Senegal,SEN,Mali,MLI,Sub-Saharan Africa,25.7,4.8,1.5,25.7,0,6,1.5,30.54,,sdg-10c1,rpw
+SGPIND,Singapore,SGP,India,IND,South Asia,2.92,2.75,0.62,1.98,0.94,28,0.5,2.71,3.07,sdg-10c1,rpw
+SGPPHL,Singapore,SGP,Philippines,PHL,East Asia & Pacific,3.16,3.04,1.02,2.26,0.9,38,0.76,5.25,2.63,sdg-10c1,rpw
+SGPIDN,Singapore,SGP,Indonesia,IDN,East Asia & Pacific,3.23,4.85,1.15,2.25,0.98,31,0.56,3.87,3.12,sdg-10c1,rpw
+SGPPAK,Singapore,SGP,Pakistan,PAK,South Asia,3.26,13.75,2.12,1.08,2.18,12,1.26,,3.26,sdg-10c1,rpw
+SGPLKA,Singapore,SGP,Sri Lanka,LKA,South Asia,3.9,2.49,1.47,2.34,1.56,15,0.94,3.47,3.93,sdg-10c1,rpw
+SGPTHA,Singapore,SGP,Thailand,THA,East Asia & Pacific,4.49,5.54,1.31,2.52,1.97,19,1.01,3.67,4.71,sdg-10c1,rpw
+SGPMYS,Singapore,SGP,Malaysia,MYS,East Asia & Pacific,4.59,5.12,0.77,2.97,1.62,30,0.65,5.66,4.32,sdg-10c1,rpw
+SGPCHN,Singapore,SGP,China,CHN,East Asia & Pacific,5.14,7.17,1.05,3.5,1.64,14,1.05,3.39,5.84,sdg-10c1,rpw
+SGPBGD,Singapore,SGP,Bangladesh,BGD,South Asia,6.55,2.28,4.49,1.9,4.64,23,3.37,6.34,6.6,sdg-10c1,rpw
+ZAFMOZ,South Africa,ZAF,Mozambique,MOZ,Sub-Saharan Africa,10.29,18.39,4.3,11.14,-0.85,30,2.72,15.21,9.16,sdg-10c1,rpw
+ZAFKEN,South Africa,ZAF,Kenya,KEN,Sub-Saharan Africa,10.62,12.55,3.64,7.7,2.92,33,3.44,24.52,9.63,sdg-10c1,rpw
+ZAFLSO,South Africa,ZAF,Lesotho,LSO,Sub-Saharan Africa,11.25,15.94,1.82,11.17,0.08,11,0,12.85,9.2,sdg-10c1,rpw
+ZAFSWZ,South Africa,ZAF,Eswatini,SWZ,Sub-Saharan Africa,11.62,15.94,1.82,11.52,0.1,9,0,12.85,8.83,sdg-10c1,rpw
+ZAFZWE,South Africa,ZAF,Zimbabwe,ZWE,Sub-Saharan Africa,12.49,13.23,6.88,10.9,1.59,40,5.15,18.23,11.03,sdg-10c1,rpw
+ZAFNGA,South Africa,ZAF,Nigeria,NGA,Sub-Saharan Africa,14.65,19.62,25.8,11.45,3.2,17,3.46,13.48,14.65,sdg-10c1,rpw
+ZAFZMB,South Africa,ZAF,Zambia,ZMB,Sub-Saharan Africa,14.7,18.38,9.79,13.06,1.64,34,4.87,19.65,12.63,sdg-10c1,rpw
+ZAFIND,South Africa,ZAF,India,IND,South Asia,16.39,13.26,6.89,14.42,1.97,15,5.29,30.43,14.74,sdg-10c1,rpw
+ZAFBWA,South Africa,ZAF,Botswana,BWA,Sub-Saharan Africa,16.45,19.23,9.06,15.08,1.37,27,5.57,19.94,14.51,sdg-10c1,rpw
+ZAFTZA,South Africa,ZAF,Tanzania,TZA,Sub-Saharan Africa,17.3,18.27,14.18,14.4,2.9,16,6.13,23.98,15.76,sdg-10c1,rpw
+ZAFAGO,South Africa,ZAF,Angola,AGO,Sub-Saharan Africa,21.39,16.49,32.78,20.43,0.96,13,6.12,17.97,22.9,sdg-10c1,rpw
+ZAFCHN,South Africa,ZAF,China,CHN,East Asia & Pacific,23.88,21.6,20.93,21.93,1.95,11,3.76,31.49,19.53,sdg-10c1,rpw
+ZAFMWI,South Africa,ZAF,Malawi,MWI,Sub-Saharan Africa,31.48,17.32,-1.4,12.91,18.57,23,-3,59.06,20.98,sdg-10c1,rpw
+KORVNM,South Korea,KOR,Vietnam,VNM,East Asia & Pacific,5.15,4.66,9.94,4.12,1.03,26,2.01,5.12,7.54,sdg-10c1,rpw
+KORCHN,South Korea,KOR,China,CHN,East Asia & Pacific,5.84,5.55,3.1,4.86,0.98,22,3.08,5.78,7.93,sdg-10c1,rpw
+ESPNGA,Spain,ESP,Nigeria,NGA,Sub-Saharan Africa,2.88,5.93,2.13,1.9,0.98,18,0.71,,2.88,sdg-10c1,rpw
+ESPPHL,Spain,ESP,Philippines,PHL,East Asia & Pacific,2.91,4.46,1.61,2.03,0.88,23,1.26,,2.91,sdg-10c1,rpw
+ESPPER,Spain,ESP,Peru,PER,Latin America & Caribbean,3.63,5.84,1.86,2.34,1.29,15,1.68,,3.63,sdg-10c1,rpw
+ESPBGR,Spain,ESP,Bulgaria,BGR,Europe & Central Asia,4.18,7.65,2.64,3.22,0.96,13,2.44,,4.18,sdg-10c1,rpw
+ESPBRA,Spain,ESP,Brazil,BRA,Latin America & Caribbean,4.18,6.28,1.65,2.91,1.27,18,0.76,,4.18,sdg-10c1,rpw
+ESPROU,Spain,ESP,Romania,ROU,Europe & Central Asia,4.75,4.7,2.18,3.58,1.17,19,1.49,,4.75,sdg-10c1,rpw
+ESPDOM,Spain,ESP,Dominican Republic,DOM,Latin America & Caribbean,5.07,6.18,3.03,3.17,1.9,13,1.64,,5.07,sdg-10c1,rpw
+ESPCHN,Spain,ESP,China,CHN,East Asia & Pacific,5.32,17.34,3.96,3.11,2.21,12,3.75,,5.32,sdg-10c1,rpw
+ESPCOL,Spain,ESP,Colombia,COL,Latin America & Caribbean,5.48,8.16,3.12,3.73,1.75,22,1.69,26.74,4.47,sdg-10c1,rpw
+ESPHND,Spain,ESP,Honduras,HND,Latin America & Caribbean,5.86,8.15,3.54,4.41,1.45,14,1.79,26.04,4.31,sdg-10c1,rpw
+ESPMAR,Spain,ESP,Morocco,MAR,Middle East & North Africa,6.29,5.98,3.11,3.94,2.35,22,1.79,26.74,5.32,sdg-10c1,rpw
+ESPECU,Spain,ESP,Ecuador,ECU,Latin America & Caribbean,7.06,5.1,2.2,5.63,1.43,15,2.16,27.37,3.94,sdg-10c1,rpw
+ESPBOL,Spain,ESP,Bolivia,BOL,Latin America & Caribbean,15.8,5.68,5.97,4.49,11.31,12,3.76,25.98,14.87,sdg-10c1,rpw
+SWELBN,Sweden,SWE,Lebanon,LBN,Middle East & North Africa,5.31,9.19,5.69,1.89,3.42,8,3.56,,5.31,sdg-10c1,rpw
+SWESOM,Sweden,SWE,Somalia,SOM,Sub-Saharan Africa,6.79,9.45,7.26,0.9,5.89,9,5.84,,6.79,sdg-10c1,rpw
+SWECHN,Sweden,SWE,China,CHN,East Asia & Pacific,7.23,6.57,3.36,5.19,2.04,17,2.61,18.28,4.86,sdg-10c1,rpw
+SWEIND,Sweden,SWE,India,IND,South Asia,7.29,7.58,0.86,6.01,1.28,25,0.72,30.31,2.91,sdg-10c1,rpw
+CHEHUN,Switzerland,CHE,Hungary,HUN,Europe & Central Asia,3.81,11.19,1.12,2.15,1.66,13,0.63,,4,sdg-10c1,rpw
+CHELKA,Switzerland,CHE,Sri Lanka,LKA,South Asia,5.27,14.66,2.41,3,2.27,17,2.28,,4.5,sdg-10c1,rpw
+CHESRB,Switzerland,CHE,Serbia,SRB,Europe & Central Asia,5.62,16.37,3.45,2.7,2.92,9,3.25,,5.62,sdg-10c1,rpw
+CHEALB,Switzerland,CHE,Albania,ALB,Europe & Central Asia,7.11,12.66,6.61,3.3,3.81,7,5.36,,7.3,sdg-10c1,rpw
+CHEKSV,Switzerland,CHE,KSV,KSV,Europe & Central Asia,12.87,10.82,,9.58,3.29,11,5.72,22.77,7.43,rpw,rpw
+TZARWA,Tanzania,TZA,Rwanda,RWA,Sub-Saharan Africa,45.11,17.05,9.93,29.55,15.56,6,7.81,80.29,9.19,sdg-10c1,rpw
+TZAKEN,Tanzania,TZA,Kenya,KEN,Sub-Saharan Africa,59.99,12.94,4.15,46.9,13.09,12,0.72,78.61,2.29,sdg-10c1,rpw
+TZAUGA,Tanzania,TZA,Uganda,UGA,Sub-Saharan Africa,62.68,17.05,25.93,49.86,12.82,10,1.3,77.3,4.2,sdg-10c1,rpw
+THAKHM,Thailand,THA,Cambodia,KHM,East Asia & Pacific,9.87,13.56,3.3,8.46,1.41,22,2.5,13.78,3.87,sdg-10c1,rpw
+THAMMR,Thailand,THA,Myanmar,MMR,East Asia & Pacific,10.38,10.43,0.45,10.01,0.37,14,-0.89,15.55,1.08,sdg-10c1,rpw
+THAVNM,Thailand,THA,Vietnam,VNM,East Asia & Pacific,11.33,15.61,3.64,9.29,2.04,22,2.3,14.36,6.41,sdg-10c1,rpw
+THALAO,Thailand,THA,Laos,LAO,East Asia & Pacific,11.49,13.89,3.05,10.27,1.22,16,2.74,13.62,4.1,sdg-10c1,rpw
+THAIND,Thailand,THA,India,IND,South Asia,12.59,16.86,2.06,9.47,3.12,21,0.72,17.84,4.92,sdg-10c1,rpw
+THACHN,Thailand,THA,China,CHN,East Asia & Pacific,12.78,15.89,3.82,10.33,2.45,17,2.51,17.79,5.56,sdg-10c1,rpw
+THAIDN,Thailand,THA,Indonesia,IDN,East Asia & Pacific,12.81,14.76,3.73,9.31,3.5,16,2.45,19.28,5.28,sdg-10c1,rpw
+TURBGR,Turkey,TUR,Bulgaria,BGR,Europe & Central Asia,118.19,10.38,17.56,116.2,1.99,11,13.2,174.27,62.18,sdg-10c1,rpw
+AREPAK,United Arab Emirates,ARE,Pakistan,PAK,South Asia,2.17,3.21,0.68,1.56,0.61,17,-0.49,4.5,1.67,sdg-10c1,rpw
+ARELKA,United Arab Emirates,ARE,Sri Lanka,LKA,South Asia,2.7,3.05,1.28,2.53,0.17,18,0.25,0.25,2.85,sdg-10c1,rpw
+AREPHL,United Arab Emirates,ARE,Philippines,PHL,East Asia & Pacific,3.04,3.69,1.46,2.8,0.24,21,0.81,0.81,3.15,sdg-10c1,rpw
+ARENPL,United Arab Emirates,ARE,Nepal,NPL,South Asia,3.41,3.68,2.1,2.86,0.55,17,0.94,4.06,3.33,sdg-10c1,rpw
+ARESSD,United Arab Emirates,ARE,South Sudan,SSD,Sub-Saharan Africa,3.45,6.7,,1.79,1.66,3,2.7,,3.45,sdg-10c1,rpw
+AREEGY,United Arab Emirates,ARE,Egypt,EGY,Middle East & North Africa,3.7,3.64,2.84,3.15,0.55,16,0.5,0.5,3.91,sdg-10c1,rpw
+AREIND,United Arab Emirates,ARE,India,IND,South Asia,3.72,2.84,0.97,2.97,0.75,24,0.77,8.65,2.73,sdg-10c1,rpw
+AREIDN,United Arab Emirates,ARE,Indonesia,IDN,East Asia & Pacific,4.55,6.12,3.69,3.63,0.92,8,1.89,,4.55,sdg-10c1,rpw
+AREJOR,United Arab Emirates,ARE,Jordan,JOR,Middle East & North Africa,5.16,5.29,4.94,3.62,1.54,6,4.35,,5.16,sdg-10c1,rpw
+AREYEM,United Arab Emirates,ARE,Yemen,YEM,Middle East & North Africa,7.53,4.15,,3.7,3.83,6,2.97,,7.53,sdg-10c1,rpw
+AREBGD,United Arab Emirates,ARE,Bangladesh,BGD,South Asia,7.72,2.69,6.41,3.17,4.55,9,5.98,,7.72,sdg-10c1,rpw
+ARESDN,United Arab Emirates,ARE,Sudan,SDN,Sub-Saharan Africa,25.58,0.27,,3.34,22.24,4,2.97,,25.58,sdg-10c1,rpw
+GBRIND,United Kingdom,GBR,India,IND,South Asia,1.91,4.19,0.26,1.32,0.59,28,0.15,1.19,2.14,sdg-10c1,rpw
+GBRNGA,United Kingdom,GBR,Nigeria,NGA,Sub-Saharan Africa,1.95,8.01,0.25,1.23,0.73,31,-0.12,,1.96,sdg-10c1,rpw
+GBRPAK,United Kingdom,GBR,Pakistan,PAK,South Asia,2.39,4.12,0.21,1.53,0.86,29,-1.43,0.94,2.5,sdg-10c1,rpw
+GBRPOL,United Kingdom,GBR,Poland,POL,..,2.66,5.31,0.25,1.23,1.43,30,0.18,,2.66,sdg-10c1,rpw
+GBRNPL,United Kingdom,GBR,Nepal,NPL,South Asia,2.89,5.99,1.12,1.83,1.07,22,0.77,,2.9,sdg-10c1,rpw
+GBRLKA,United Kingdom,GBR,Sri Lanka,LKA,South Asia,3.06,5.13,1.59,2.21,0.85,29,1.13,,3.06,sdg-10c1,rpw
+GBRROU,United Kingdom,GBR,Romania,ROU,Europe & Central Asia,3.12,9.4,1.08,1.75,1.37,24,0.95,,3.12,sdg-10c1,rpw
+GBRPHL,United Kingdom,GBR,Philippines,PHL,East Asia & Pacific,3.33,7,0.57,2.33,1,38,0.44,5.04,3.13,sdg-10c1,rpw
+GBRKEN,United Kingdom,GBR,Kenya,KEN,Sub-Saharan Africa,3.43,6.44,0.72,1.63,1.8,27,0.38,,3.43,sdg-10c1,rpw
+GBRBRA,United Kingdom,GBR,Brazil,BRA,Latin America & Caribbean,3.86,6.57,0.94,1.67,2.19,29,0.85,,3.86,sdg-10c1,rpw
+GBRVNM,United Kingdom,GBR,Vietnam,VNM,East Asia & Pacific,3.95,8.31,4.81,2.51,1.44,25,0.73,,3.95,sdg-10c1,rpw
+GBRGHA,United Kingdom,GBR,Ghana,GHA,Sub-Saharan Africa,4.24,6.07,0.28,1,3.24,37,-0.03,,4.24,sdg-10c1,rpw
+GBRCHN,United Kingdom,GBR,China,CHN,East Asia & Pacific,4.27,6.61,0.91,2.68,1.59,23,0.72,,4.27,sdg-10c1,rpw
+GBRETH,United Kingdom,GBR,Ethiopia,ETH,Sub-Saharan Africa,4.33,9.43,2.57,1.89,2.45,19,2.03,,4.34,sdg-10c1,rpw
+GBRZMB,United Kingdom,GBR,Zambia,ZMB,Sub-Saharan Africa,4.34,9.05,2.28,2.41,1.93,21,2.28,,4.34,sdg-10c1,rpw
+GBRJAM,United Kingdom,GBR,Jamaica,JAM,Latin America & Caribbean,4.45,8.07,0.06,2.69,1.76,20,-1.27,,4.45,sdg-10c1,rpw
+GBRUGA,United Kingdom,GBR,Uganda,UGA,Sub-Saharan Africa,4.64,8.81,1.3,2.01,2.63,34,1.27,,4.64,sdg-10c1,rpw
+GBRLTU,United Kingdom,GBR,Lithuania,LTU,..,4.67,6.74,0.74,2.56,2.11,25,0.72,,4.67,sdg-10c1,rpw
+GBRTZA,United Kingdom,GBR,Tanzania,TZA,Sub-Saharan Africa,4.88,11.64,2.82,1.57,3.31,24,1.08,,4.88,sdg-10c1,rpw
+GBRTHA,United Kingdom,GBR,Thailand,THA,East Asia & Pacific,5.03,9.86,2.83,2.77,2.27,25,1.64,14.57,4.64,sdg-10c1,rpw
+GBRZWE,United Kingdom,GBR,Zimbabwe,ZWE,Sub-Saharan Africa,5.04,8.04,2.33,1.74,3.3,23,1.63,,5.04,sdg-10c1,rpw
+GBRBGD,United Kingdom,GBR,Bangladesh,BGD,South Asia,5.11,4.55,2.41,1.63,3.48,32,2.41,2.41,5.5,sdg-10c1,rpw
+GBRSLE,United Kingdom,GBR,Sierra Leone,SLE,Sub-Saharan Africa,5.52,7.49,10.08,2.3,3.22,18,3.52,,5.52,sdg-10c1,rpw
+GBRLBN,United Kingdom,GBR,Lebanon,LBN,Middle East & North Africa,5.7,14.84,5.26,2.93,2.77,15,1.99,,5.7,sdg-10c1,rpw
+GBRALB,United Kingdom,GBR,Albania,ALB,Europe & Central Asia,5.84,8.57,2.72,2.64,3.2,30,1.77,2.82,6.06,sdg-10c1,rpw
+GBRBGR,United Kingdom,GBR,Bulgaria,BGR,Europe & Central Asia,6.29,10,1.56,3.53,2.76,22,1.32,,6.29,sdg-10c1,rpw
+GBRZAF,United Kingdom,GBR,South Africa,ZAF,Sub-Saharan Africa,6.39,7.07,2.23,3.31,3.08,24,2.07,,6.39,sdg-10c1,rpw
+GBRSOM,United Kingdom,GBR,Somalia,SOM,Sub-Saharan Africa,6.7,7.84,6.36,2.74,3.96,17,3.89,,6.7,sdg-10c1,rpw
+GBRRWA,United Kingdom,GBR,Rwanda,RWA,Sub-Saharan Africa,7.43,13.04,1.81,1.66,5.77,23,1.76,,7.43,sdg-10c1,rpw
+GBRSSD,United Kingdom,GBR,South Sudan,SSD,Sub-Saharan Africa,7.95,11.03,4.75,3.72,4.23,10,4.75,,7.95,sdg-10c1,rpw
+GBRERI,United Kingdom,GBR,Eritrea,ERI,Sub-Saharan Africa,8.42,8.8,8.35,3.69,4.73,12,4.19,,8.42,sdg-10c1,rpw
+GBRAFG,United Kingdom,GBR,Afghanistan,AFG,South Asia,10.56,9.58,16.09,4.14,6.42,3,7.54,,10.56,sdg-10c1,rpw
+GBRGMB,United Kingdom,GBR,Gambia,GMB,Sub-Saharan Africa,12.05,12.46,9.54,2.13,9.93,22,8.05,,12.06,sdg-10c1,rpw
+USANGA,United States,USA,Nigeria,NGA,Sub-Saharan Africa,2.72,7.34,0.49,2.24,0.48,33,-0.49,,2.72,sdg-10c1,rpw
+USAETH,United States,USA,Ethiopia,ETH,Sub-Saharan Africa,3.14,5.75,2,3.38,-0.24,19,-9.85,,3.14,sdg-10c1,rpw
+USASLV,United States,USA,El Salvador,SLV,Latin America & Caribbean,3.5,4.3,1.97,3.5,0,46,1,5.5,3.31,sdg-10c1,rpw
+USAIND,United States,USA,India,IND,South Asia,3.67,2.85,0.22,2.83,0.85,46,-0.53,5.46,3.46,sdg-10c1,rpw
+USAPAK,United States,USA,Pakistan,PAK,South Asia,3.81,4.74,1.79,2.16,1.65,25,0.45,,3.81,sdg-10c1,rpw
+USAYEM,United States,USA,Yemen,YEM,Middle East & North Africa,3.91,6.41,,3.92,0,12,2,,3.92,sdg-10c1,rpw
+USAECU,United States,USA,Ecuador,ECU,Latin America & Caribbean,3.92,3.65,1.32,3.92,0,31,0,4.5,3.9,sdg-10c1,rpw
+USAHND,United States,USA,Honduras,HND,Latin America & Caribbean,3.98,3.96,2.58,3.19,0.8,32,1.5,,3.99,sdg-10c1,rpw
+USAPAN,United States,USA,Panama,PAN,Latin America & Caribbean,4.1,4.85,2.87,4.1,0,14,2.45,,4.1,sdg-10c1,rpw
+USANIC,United States,USA,Nicaragua,NIC,Latin America & Caribbean,4.13,5.04,2.42,4.13,0,21,1.95,,4.13,sdg-10c1,rpw
+USAGTM,United States,USA,Guatemala,GTM,Latin America & Caribbean,4.18,5.29,0.34,3.26,0.92,30,-2.12,3.47,4.24,sdg-10c1,rpw
+USAKEN,United States,USA,Kenya,KEN,Sub-Saharan Africa,4.26,8.05,0.36,2.32,1.94,40,-0.29,,4.26,sdg-10c1,rpw
+USAGHA,United States,USA,Ghana,GHA,Sub-Saharan Africa,4.37,6.15,0.36,2.57,1.8,31,-0.13,,4.37,sdg-10c1,rpw
+USASSD,United States,USA,South Sudan,SSD,Sub-Saharan Africa,4.37,4.61,,4.38,0,8,3,,4.38,sdg-10c1,rpw
+USANPL,United States,USA,Nepal,NPL,South Asia,4.41,5.08,1.18,2.9,1.51,22,0.86,,4.41,sdg-10c1,rpw
+USAUKR,United States,USA,Ukraine,UKR,Europe & Central Asia,4.45,4.6,2.72,2.57,1.88,20,1.1,,4.45,sdg-10c1,rpw
+USAPHL,United States,USA,Philippines,PHL,East Asia & Pacific,4.51,5.34,0.75,3.12,1.4,58,0.58,7.64,4.28,sdg-10c1,rpw
+USAMEX,United States,USA,Mexico,MEX,Latin America & Caribbean,4.53,6.35,-0.77,3.26,1.28,46,-2.44,7.04,4.23,sdg-10c1,rpw
+USAPER,United States,USA,Peru,PER,Latin America & Caribbean,4.64,5.01,2.7,4.36,0.29,21,2,8.25,4.27,sdg-10c1,rpw
+USAHTI,United States,USA,Haiti,HTI,Latin America & Caribbean,4.7,5.55,4.48,4.62,0.08,16,1,,4.7,sdg-10c1,rpw
+USACOL,United States,USA,Colombia,COL,Latin America & Caribbean,4.95,6.56,-0.14,3.37,1.59,39,-2.65,6.71,4.7,sdg-10c1,rpw
+USADOM,United States,USA,Dominican Republic,DOM,Latin America & Caribbean,5.11,5.86,1.09,4.27,0.84,27,0.22,11.25,4.04,sdg-10c1,rpw
+USAJOR,United States,USA,Jordan,JOR,Middle East & North Africa,5.25,7.02,2.71,3.78,1.48,20,2,,5.26,sdg-10c1,rpw
+USAVNM,United States,USA,Vietnam,VNM,East Asia & Pacific,5.27,4.64,2,4.09,1.18,35,0,9.83,4.84,sdg-10c1,rpw
+USAEGY,United States,USA,Egypt,EGY,Middle East & North Africa,5.35,6.32,3,3.68,1.68,16,2.77,,5.36,sdg-10c1,rpw
+USALBR,United States,USA,Liberia,LBR,Sub-Saharan Africa,5.36,5.54,5.08,5.35,0.01,20,0.49,,5.36,sdg-10c1,rpw
+USAZAF,United States,USA,South Africa,ZAF,Sub-Saharan Africa,5.42,9.4,1.77,3.62,1.8,19,1.72,,5.42,sdg-10c1,rpw
+USASOM,United States,USA,Somalia,SOM,Sub-Saharan Africa,5.6,5.42,6,5.6,0,5,4,,5.6,sdg-10c1,rpw
+USABRA,United States,USA,Brazil,BRA,Latin America & Caribbean,5.62,5.86,1.72,2.65,2.98,32,1.18,3.29,5.78,sdg-10c1,rpw
+USAIDN,United States,USA,Indonesia,IDN,East Asia & Pacific,5.71,8.15,1.06,3.55,2.16,24,-0.53,17.5,5.2,sdg-10c1,rpw
+USACRI,United States,USA,Costa Rica,CRI,Latin America & Caribbean,5.97,5.61,2.94,4.17,1.8,25,2.83,,5.97,sdg-10c1,rpw
+USAJAM,United States,USA,Jamaica,JAM,Latin America & Caribbean,6.06,7.4,1.2,3.05,3.01,20,-2.25,3.25,6.21,sdg-10c1,rpw
+USAERI,United States,USA,Eritrea,ERI,Sub-Saharan Africa,6.55,5.12,,4,2.55,7,4.5,,6.55,sdg-10c1,rpw
+USACHN,United States,USA,China,CHN,East Asia & Pacific,6.62,8.55,2.11,6.1,0.52,22,1.85,17.5,4.2,sdg-10c1,rpw
+USAARM,United States,USA,Armenia,ARM,Europe & Central Asia,7.14,5.59,4.52,4.34,2.81,16,4.5,,7.15,sdg-10c1,rpw
+USATHA,United States,USA,Thailand,THA,East Asia & Pacific,7.47,11.7,1.34,5.98,1.49,27,0.75,21.88,4.97,sdg-10c1,rpw
+USABGD,United States,USA,Bangladesh,BGD,South Asia,7.61,5.11,5.36,2.54,5.07,24,5.17,,7.61,sdg-10c1,rpw
+USAGUY,United States,USA,Guyana,GUY,Latin America & Caribbean,8.1,9.46,4.65,3.71,4.39,21,3.4,,8.1,sdg-10c1,rpw
+USACUB,United States,USA,Cuba,CUB,Latin America & Caribbean,8.75,5.17,15,7.5,1.25,4,2.5,,8.75,sdg-10c1,rpw
+USACPV,United States,USA,Cape Verde,CPV,Sub-Saharan Africa,8.8,10.31,4.43,6.38,2.43,14,4.22,22.5,6.52,sdg-10c1,rpw
+USAAFG,United States,USA,Afghanistan,AFG,South Asia,9.18,7.09,8.81,4.37,4.81,6,6.87,,9.18,sdg-10c1,rpw
+USALBN,United States,USA,Lebanon,LBN,Middle East & North Africa,11.28,12.5,2.87,11.28,0,16,2.5,22.08,4.8,sdg-10c1,rpw

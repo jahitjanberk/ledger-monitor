@@ -3,7 +3,7 @@
     "unoosa": {
       "publisher": "UN Office for Outer Space Affairs (processed by Our World in Data)",
       "title": "Online Index of Objects Launched into Outer Space",
-      "url": "https://www.unoosa.org/oosa/osoindex/search-ng.jspx",
+      "url": "https://www.unoosa.org/unoosa/en/osoindex/search/search-objects.html",
       "published": "2026-02-25",
       "method": "reported",
       "notes": "Satellites, probes, landers, crewed spacecraft and space station parts registered by the launching state or organisation, by year of launch. Debris and rocket bodies are not counted. Late registrations mean recent years can rise."

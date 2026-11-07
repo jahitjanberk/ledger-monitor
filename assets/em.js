@@ -13,6 +13,8 @@
 //   8. in the method section, how citations work and what the dashboard leaves out; an About link in the footer
 //   9. an annotated chart beside the headline, drawn from the published data
 
+import { FIGS } from "./figs.js";
+
 const SITE = new URL("../", import.meta.url);
 const DASH = location.pathname.slice(SITE.pathname.length).split("/")[0];
 
@@ -30,6 +32,11 @@ const SECTION_DATA = {
   orbit: { glance: ["facts"], map: ["launchers"], years: ["yearly"], orbits: ["orbits", "leo"], junk: ["leo", "facts"], orgs: ["launchers"], table: ["launchers"] },
   scams: { glance: ["global", "estimates"], map: ["reported", "surveys"], trend: ["trend"], how: ["reported", "global"], gap: ["response", "estimates"], us: ["us_detail"], table: ["reported", "fx"] },
   water: { glance: ["facts"], map: ["stress", "bands"], regions: ["regions", "trend"], drinking: ["drinking", "ladder", "income"], hidden: ["resources", "facts"], compute: ["facts"], table: ["stress", "sectors"] },
+  vaccines: { glance: ["world", "facts"], map: ["countries", "bands", "regions"], zero: ["world", "countries", "regions", "facts"], measles: ["world", "countries", "facts"], workforce: ["regions", "countries", "facts"], uk: ["uk_cover", "uk_nations", "uk_measles", "countries", "facts"], table: ["countries"] },
+  energy: { glance: ["facts", "eu_poverty"], map: ["countries", "bands"], access: ["countries", "regions", "facts"], prices: ["countries", "eu_prices"], warm: ["countries", "eu_poverty"], uk: ["uk_cap", "uk_fuel_poverty", "uk_fpeer", "facts"], table: ["countries"] },
+medicines: { glance: ["shortages", "us_years", "uk_concessions"], map: ["countries", "bands"], shortages: ["us_years", "shortages", "categories"], causes: ["reasons", "api_sites", "countries", "facts"], europe: ["eu_critical", "eu_shortages", "facts"], uk: ["uk_concessions", "uk_ssp", "countries"], table: ["countries"] },
+  fertilizer: { glance: ["prices", "world"], map: ["countries", "bands"], prices: ["prices", "forecasts", "facts"], energy: ["prices", "gulf", "facts"], supply: ["producers", "countries"], use: ["regions", "world"], uk: ["uk_prices", "uk_rates", "countries", "facts"], table: ["countries"] },
+  remittances: { glance: ["world", "quarterly", "corridors", "facts"], map: ["countries", "bands", "corridors"], flows: ["world", "countries"], costs: ["world", "regions", "countries", "facts"], providers: ["quarterly", "breakdown", "facts"], corridors: ["corridors", "countries", "facts"], uk: ["uk_cost", "uk_flows", "corridors", "facts"], table: ["countries"] },
 };
 
 const DASHBOARDS = {
@@ -45,24 +52,34 @@ const DASHBOARDS = {
   heat: { title: "Extreme Heat", blurb: "How hot the world is getting, and what heat costs in lives and work." },
   minerals: { title: "Critical Minerals", blurb: "Where battery and electronics minerals are mined and refined, and who controls them." },
   debt: { title: "Debt vs Public Services", blurb: "What governments pay in interest, against what they spend on health and education." },
+  vaccines: { title: "Vaccination & Health Workers", blurb: "Which children get vaccinated, where measles is spreading, and where nurses and doctors are scarce." },
+  energy: { title: "Household Energy Prices & Poverty", blurb: "Who lacks electricity or clean cooking, what households pay, and who can't keep warm." },
+medicines: { title: "Medicine Shortages & Supply", blurb: "Which medicines are running short and for how long, and where medicines are made." },
+  fertilizer: { title: "Fertiliser Prices & Supply", blurb: "What fertiliser costs, who makes and exports it, and which countries depend on imports." },
+  remittances: { title: "The Cost of Sending Money Home", blurb: "How much migrants send home, and what banks and money transfer firms charge them to do it." },
 };
-// Three other dashboards per page, picked for overlapping subjects where there is one.
+// Three other dashboards per page, picked for overlapping subjects. Ids that don't exist yet are skipped.
 const MORE = {
-  air: ["electricity", "water", "chokepoints"],
-  electricity: ["air", "internet", "chokepoints"],
+  air: ["energy", "electricity", "heat"],
+  electricity: ["energy", "air", "minerals"],
   internet: ["electricity", "water", "orbit"],
-  water: ["internet", "air", "electricity"],
-  chokepoints: ["food", "electricity", "internet"],
-  orbit: ["internet", "chokepoints", "air"],
-  housing: ["food", "scams", "water"],
-  food: ["chokepoints", "water", "housing"],
-  debt: ["food", "housing", "scams"],
-  heat: ["food", "air", "electricity"],
-  minerals: ["chokepoints", "electricity", "internet"],
-  scams: ["housing", "internet", "chokepoints"],
+  water: ["food", "heat", "vaccines"],
+  chokepoints: ["fertilizer", "food", "medicines"],
+  orbit: ["internet", "chokepoints", "minerals"],
+  housing: ["energy", "food", "remittances"],
+  food: ["fertilizer", "chokepoints", "energy"],
+  debt: ["vaccines", "remittances", "food"],
+  heat: ["energy", "food", "air"],
+  minerals: ["medicines", "chokepoints", "electricity"],
+  scams: ["remittances", "housing", "internet"],
+  vaccines: ["medicines", "debt", "water"],
+  energy: ["electricity", "air", "heat"],
+  medicines: ["minerals", "chokepoints", "vaccines"],
+  fertilizer: ["food", "chokepoints", "energy"],
+  remittances: ["debt", "scams", "food"],
 };
 
-const AUTHOR = { name: "jahitjanberk", url: "https://github.com/jahitjanberk" };
+const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
 // The date these pages were last changed. Bump it with each release.
 const UPDATED = "2026-11-06";
 
@@ -133,6 +150,36 @@ const LIMITS = {
     "Several countries report the same value for several years, so change over time can look flatter than it is.",
     "Data centre water figures cover the United States only.",
   ],
+  vaccines: [
+    "Coverage figures are WHO and UNICEF estimates built from countries' own reports and surveys. Each year's release revises the whole series, and fewer surveys were submitted this round, so recent years may change.",
+    "Zero-dose means no first dose of DTP vaccine by the first birthday. A child who missed DTP but had another vaccine still counts as zero-dose.",
+    "Measles cases are what countries confirmed and reported, not estimates of every case; 12 countries, including the United States, have no 2025 figure.",
+    "Health worker figures are each country's latest report, mostly 2023 or 2024, and count people in the workforce, not where they work or how many hours.",
+  ],
+  energy: [
+    "Access figures for 2024 are partly modelled where countries have no recent household survey, and people without access are our calculation from population.",
+    "Household prices and cold-home figures cover only European countries; there is no open, comparable price series for the rest of the world.",
+    "Cold homes and arrears are what people say in a survey, not measured temperatures or bills. The UK left the EU survey, so its latest Eurostat figures are from 2018 and are not shown.",
+    "The British price cap is the most a supplier can charge a typical customer on a default tariff, not what every household pays. Fuel poverty figures cover England only, and 2025 is provisional.",
+  ],
+medicines: [
+  "US shortages are those in the FDA's database of medicines it tracks; vaccines and blood products, and shortages that FDA does not list, are left out. Each shortage is a generic name, which can cover several strengths and makers.",
+  "How long a shortage has lasted counts from when it was first posted, so a shortage that eased and came back counts as one long one.",
+  "Trade is measured by value as each country reports it. Countries where multinationals book sales or route goods, such as Switzerland, Ireland and Belgium, look bigger than their factories, and Taiwan is missing.",
+  "Price concessions in England show medicines pharmacies could not buy at the NHS price. They are a sign of supply problems, not a count of shortages.",
+],
+  fertilizer: [
+    "Prices are international spot prices at ports, not what farmers pay. Farm-gate prices add shipping, margins and taxes, and move later.",
+    "FAO's use, production and trade figures mix official reports with estimates and partner countries' trade records. Some big exporters are under-recorded: FAO shows almost no exports from Iran, so the Gulf's share of nitrogen exports is likely to be higher than shown.",
+    "The latest FAO year is 2024, before the Strait of Hormuz closed, so the country figures do not show how trade has shifted since.",
+    "Use per hectare divides all fertiliser by cropland, which leaves out permanent grassland; in countries that fertilise a lot of grass, such as the UK and Ireland, it overstates what crops get.",
+  ],
+  remittances: [
+    "Costs are for sending the equivalent of $200 through the services the World Bank surveys in 48 sending and about 100 receiving countries. Each service counts equally, however much money goes through it.",
+    "Most cost figures are for one quarter of each year (July to September). The World Bank did not collect prices for April to June 2025, and the dataset has no prices for money sent from Russia since 2022.",
+    "A few corridors are recorded at more than the amount sent, such as Türkiye to Bulgaria at 118%, which suggests a data problem. They are kept in the data but left out of the charts.",
+    "Remittance flows are those recorded in balance of payments data, in current US dollars. Money sent through informal channels is not counted, and the latest year is partly estimated.",
+  ],
 };
 
 const esc = (t) => String(t).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
@@ -143,251 +190,7 @@ const prettyDate = (s) => {
   return d ? `${d} ${month} ${y}` : `${month} ${y}`;
 };
 
-// The chart beside each headline: one annotated figure per dashboard, drawn as SVG at
-// the width it gets, so labels stay 12px on any screen. `draw` receives the records of
-// each file in `files` (data/<dashboard>/<file>.json), the width and the height.
-const fx = (d0, d1, r0, r1) => (v) => r0 + ((v - d0) / (d1 - d0)) * (r1 - r0);
-const pathOf = (pts) => pts.map(([x, y], i) => `${i ? "L" : "M"}${x.toFixed(1)},${y.toFixed(1)}`).join("");
-const T = (x, y, s, cls = "", anchor = "start") => `<text x="${x.toFixed(1)}" y="${y.toFixed(1)}" text-anchor="${anchor}"${cls ? ` class="${cls}"` : ""}>${esc(s)}</text>`;
-const Ln = (x1, y1, x2, y2, cls) => `<line x1="${x1.toFixed(1)}" y1="${y1.toFixed(1)}" x2="${x2.toFixed(1)}" y2="${y2.toFixed(1)}" class="${cls}"/>`;
-const num = (v, d = 0) => v.toLocaleString("en-GB", { minimumFractionDigits: d, maximumFractionDigits: d });
-const MUTE = "color-mix(in srgb, var(--em-fg) 18%, transparent)";
-const columns = (vals, w, y, base, colour) => {
-  const bw = w / vals.length;
-  return vals.map((v, i) => `<rect x="${(i * bw).toFixed(1)}" y="${y(v).toFixed(1)}" width="${Math.max(0.8, bw - (bw > 4 ? 1 : 0.3)).toFixed(1)}" height="${Math.max(1, base - y(v)).toFixed(1)}" fill="${colour(v, i)}"/>`).join("");
-};
-const FIGS = {
-  air: {
-    files: ["world_pm25"], title: "World average exposure to fine particles, µg/m³",
-    source: "Washington University in St. Louis (SatPM), via Our World in Data",
-    draw([rows], w, h) {
-      rows = [...rows].sort((a, b) => a.year - b.year);
-      const a = rows[0], z = rows.at(-1), base = h - 20;
-      const x = fx(a.year, z.year, 0, w), y = fx(0, 35, base, 26), g = y(5);
-      const pts = rows.map((r) => [x(r.year), y(r.pm25)]);
-      return {
-        label: `World average PM2.5 went from ${a.pm25} µg/m³ in ${a.year} to ${z.pm25} in ${z.year}. The WHO guideline is 5.`,
-        svg: `<path d="${pathOf(pts)}L${w},${g}L0,${g}Z" fill="var(--em-accent)" opacity=".14"/>`
-          + Ln(0, g, w, g, "rule") + T(0, g + 15, "WHO guideline: 5")
-          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
-          + T(0, pts[0][1] + 18, `${a.pm25} in ${a.year}`)
-          + Ln(w, 17, w, pts.at(-1)[1] - 4, "lead") + T(w, 12, `${z.pm25} in ${z.year}, ${Math.round(z.pm25 / 5)} times the guideline`, "k", "end")
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
-      };
-    },
-  },
-  food: {
-    files: ["world"], title: "People undernourished worldwide, millions",
-    source: "FAO, The State of Food Security and Nutrition in the World 2026, via FAOSTAT",
-    draw([rows], w, h) {
-      rows = [...rows].sort((a, b) => a.year - b.year);
-      const a = rows[0], z = rows.at(-1), base = h - 20;
-      const low = rows.reduce((p, r) => (r.undernourished_m < p.undernourished_m ? r : p));
-      const peak = rows.filter((r) => r.year > low.year).reduce((p, r) => (r.undernourished_m > p.undernourished_m ? r : p));
-      const x = fx(a.year, z.year, 0, w), y = fx(0, 1000, base, 4);
-      const pts = rows.map((r) => [x(r.year), y(r.undernourished_m)]);
-      const xl = x(low.year), xp = x(peak.year);
-      return {
-        label: `Undernourished people: ${num(a.undernourished_m)} million in ${a.year}, a low of ${num(low.undernourished_m)} million in ${low.year}, ${num(peak.undernourished_m)} million in ${peak.year} and ${num(z.undernourished_m)} million in ${z.year}.`,
-        svg: `<path d="${pathOf(pts)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
-          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
-          + T(0, pts[0][1] - 8, `${num(a.undernourished_m)}m in ${a.year}`)
-          + Ln(xl, y(low.undernourished_m) + 4, xl, base - 22, "lead") + T(xl, base - 10, `Low: ${num(low.undernourished_m)}m in ${low.year}`, "", "middle")
-          + T(xp, y(peak.undernourished_m) - 22, `${num(peak.undernourished_m)}m in ${peak.year}`, "", "end")
-          + T(w, y(z.undernourished_m) - 8, `${num(z.undernourished_m)}m in ${z.year}`, "k", "end")
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
-      };
-    },
-  },
-  heat: {
-    files: ["global"], title: "Global temperature against 1850–1900, °C",
-    source: "Met Office Hadley Centre and UEA, HadCRUT5",
-    draw([rows], w, h) {
-      rows = [...rows].sort((a, b) => a.year - b.year);
-      const a = rows[0], z = rows.at(-1), base = h - 20, top = rows.reduce((p, r) => (r.anomaly_preindustrial > p.anomaly_preindustrial ? r : p));
-      const x = fx(a.year, z.year, 0, w), y = fx(-0.4, 1.8, base, 4), g = y(1.5);
-      const pts = rows.map((r) => [x(r.year), y(r.anomaly_preindustrial)]);
-      const sg = (v) => `${v > 0 ? "+" : v < 0 ? "−" : ""}${Math.abs(v).toFixed(2)}°C`;
-      return {
-        label: `Global temperature against 1850–1900: ${sg(a.anomaly_preindustrial)} in ${a.year}, ${sg(top.anomaly_preindustrial)} in ${top.year}, the warmest year, and ${sg(z.anomaly_preindustrial)} in ${z.year}.`,
-        svg: Ln(0, g, w, g, "rule") + T(0, g - 6, "1.5°C")
-          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
-          + T(0, y(0) + 24, `${a.year}: ${sg(a.anomaly_preindustrial)}`)
-          + T(x(top.year) - 6, y(top.anomaly_preindustrial) + 4, `${top.year}: ${sg(top.anomaly_preindustrial)}`, "k", "end")
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
-      };
-    },
-  },
-  minerals: {
-    files: ["minerals"], title: "Share of world mine production held by the top country, 2025",
-    source: "USGS Mineral Commodity Summaries 2026", height: 244,
-    draw([rows], w) {
-      const r = rows.filter((c) => c.top_share != null).sort((a, b) => b.top_share - a.top_share).slice(0, 8);
-      const x = fx(0, 100, 0, w), row = 30;
-      const nm = (c) => (c === "Democratic Republic of Congo" ? "DR Congo" : c);
-      return {
-        label: `The top country's share of world mine production in 2025: ${r.map((c) => `${c.label} ${nm(c.top_country)} ${num(c.top_share, 0)}%`).join(", ")}.`,
-        svg: r.map((c, i) => {
-          const top = i * row;
-          return T(0, top + 12, `${c.label}: ${nm(c.top_country)}`, i ? "" : "k") + T(w, top + 12, `${num(c.top_share, 0)}%`, "n", "end")
-            + `<rect x="0" y="${top + 17}" width="${x(c.top_share).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
-        }).join(""),
-      };
-    },
-  },
-  housing: {
-    files: ["markets"], title: "Years of income for a median-priced home, by market",
-    source: "Demographia International Housing Affordability 2026, Chapman University",
-    draw([rows], w, h) {
-      const r = [...rows].sort((a, b) => a.median_multiple - b.median_multiple);
-      const lo = r[0], hi = r.at(-1), base = h - 20;
-      const y = fx(0, Math.ceil(hi.median_multiple), base, 4), a = y(3);
-      const ok = r.filter((m) => m.median_multiple <= 3).length;
-      return {
-        label: `${r.length} markets, from ${lo.median_multiple} years of income in ${lo.market} to ${hi.median_multiple} in ${hi.market}. ${ok || "None"} ${ok === 1 ? "is" : "are"} under the affordable line of 3.0.`,
-        svg: columns(r.map((m) => m.median_multiple), w, y, base, (_, i) => (i === r.length - 1 ? "var(--em-accent)" : MUTE))
-          + Ln(0, a, w, a, "rule")
-          + T(0, 14, "Dashed line: affordable, 3.0 or less")
-          + T(0, 30, ok ? `${ok} of ${r.length} markets qualify` : `None of the ${r.length} markets qualifies`, "k")
-          + Ln(0, base, w, base, "ax")
-          + T(0, h - 4, `${lo.market.split(",")[0]}: ${lo.median_multiple}`) + T(w, h - 4, `${hi.market}: ${hi.median_multiple}`, "k", "end"),
-      };
-    },
-  },
-  water: {
-    files: ["stress"], title: "Freshwater withdrawn as a share of what is available, by country",
-    source: "FAO, SDG indicator 6.4.2, via Our World in Data",
-    draw([rows], w, h) {
-      const r = rows.filter((d) => d.stress_pct != null).sort((a, b) => a.stress_pct - b.stress_pct);
-      const hi = r.at(-1), over = r.filter((d) => d.stress_pct > 100).length, base = h - 20, cap = 200;
-      const y = fx(0, cap, base, 4), a = y(100);
-      return {
-        label: `${r.length} countries by water stress. ${over} withdraw more than 100% of their renewable freshwater; ${hi.country} withdraws ${num(hi.stress_pct)}%.`,
-        svg: columns(r.map((d) => Math.min(d.stress_pct, cap)), w, y, base, (v) => (v > 100 ? "var(--em-accent)" : MUTE))
-          + Ln(0, a, w, a, "rule")
-          + T(0, 14, "Dashed line: 100%, all of it")
-          + T(0, 30, `${over} countries use more than they have`, "k")
-          + Ln(0, base, w, base, "ax")
-          + T(0, h - 4, "Least stressed") + T(w, h - 4, `${hi.country}: ${num(hi.stress_pct)}% (bar cut off)`, "k", "end"),
-      };
-    },
-  },
-  electricity: {
-    files: ["world"], title: "Share of world electricity, renewables against coal",
-    source: "Ember, Yearly Electricity Data, via Our World in Data",
-    draw([rows], w, h) {
-      rows = [...rows].sort((a, b) => a.year - b.year);
-      const a = rows[0], z = rows.at(-1), base = h - 20;
-      const x = fx(a.year, z.year, 0, w), y = fx(0, 45, base, 4);
-      const line = (k, colour) => `<path d="${pathOf(rows.map((r) => [x(r.year), y(r[k])]))}" fill="none" stroke="${colour}" stroke-width="2" stroke-linejoin="round"/>`;
-      const zy = y(z.renewables_pct);
-      return {
-        label: `Renewables went from ${num(a.renewables_pct, 1)}% of world electricity in ${a.year} to ${num(z.renewables_pct, 1)}% in ${z.year}; coal from ${num(a.coal_pct, 1)}% to ${num(z.coal_pct, 1)}%.`,
-        svg: line("coal_pct", "color-mix(in srgb, var(--em-fg) 45%, transparent)") + line("renewables_pct", "var(--em-accent)")
-          + T(0, y(a.coal_pct) - 8, `Coal ${num(a.coal_pct, 1)}%`) + T(0, y(a.renewables_pct) + 18, `Renewables ${num(a.renewables_pct, 1)}%`)
-          + Ln(w, 18, w, zy - 6, "lead") + `<circle cx="${w}" cy="${zy.toFixed(1)}" r="3.5" fill="var(--em-accent)"/>`
-          + T(w, 13, `${z.year}: renewables ${num(z.renewables_pct, 1)}%, coal ${num(z.coal_pct, 1)}%`, "k", "end")
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
-      };
-    },
-  },
-  chokepoints: {
-    files: ["weekly", "daily"], title: "Ships a day through the Strait of Hormuz, weekly average",
-    source: "IMF PortWatch, from satellite ship tracking",
-    draw([weekly, daily], w, h) {
-      const H = (r) => r.chokepoint === "Strait of Hormuz";
-      const wk = weekly.filter(H).sort((a, b) => a.week.localeCompare(b.week));
-      const dy = daily.filter(H);
-      const CLOSED = "2026-03-02";
-      const mean = (rs) => rs.reduce((s, r) => s + r.transits, 0) / rs.length;
-      const before = mean(dy.filter((r) => r.date < "2026-01-01")), after = mean(dy.filter((r) => r.date >= CLOSED));
-      const t = (d) => Date.parse(d), base = h - 20;
-      const x = fx(t(wk[0].week), t(wk.at(-1).week), 0, w);
-      const y = fx(0, Math.ceil((Math.max(...wk.map((r) => r.transits)) * 1.3) / 10) * 10, base, 4);
-      const pts = wk.map((r) => [x(t(r.week)), y(r.transits)]), xc = x(t(CLOSED));
-      const mon = (d) => new Date(d).toLocaleDateString("en-GB", { month: "short", year: "numeric", timeZone: "UTC" });
-      return {
-        label: `Ships through the Strait of Hormuz averaged ${num(before, 1)} a day in 2025 and ${num(after, 1)} a day after it closed on 2 March 2026.`,
-        svg: `<path d="${pathOf(pts)}L${pts.at(-1)[0]},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
-          + `<path d="${pathOf(pts)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
-          + Ln(xc, 4, xc, base, "rule") + T(xc + 6, 14, "Closed 2 Mar 2026", "k")
-          + T(0, 14, `${num(before, 1)} a day in 2025`)
-          + T(xc + 6, 30, `${num(after, 1)} a day since`)
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, mon(wk[0].week), "n") + T(w, h - 4, mon(wk.at(-1).week), "n", "end"),
-      };
-    },
-  },
-  orbit: {
-    files: ["yearly"], title: "Objects launched into space each year, the United States in colour",
-    source: "UN Office for Outer Space Affairs, via Our World in Data",
-    draw([rows], w, h) {
-      rows = [...rows].sort((a, b) => a.year - b.year);
-      const a = rows[0], z = rows.at(-1), base = h - 20, max = Math.max(...rows.map((r) => r.world));
-      const y = fx(0, max, base, 4), bw = w / rows.length;
-      const s = rows.find((r) => r.year === 2019), xs = rows.indexOf(s) * bw + bw / 2;
-      return {
-        label: `Objects launched per year, ${a.year} to ${z.year}. ${num(z.world)} were launched in ${z.year}, ${Math.round((100 * z.united_states) / z.world)}% of them by the United States.`,
-        svg: columns(rows.map((r) => r.world), w, y, base, () => MUTE) + columns(rows.map((r) => r.united_states), w, y, base, () => "var(--em-accent)")
-          + Ln(xs, y(s.world) - 4, xs, y(max * 0.42) + 4, "lead") + T(xs + 4, y(max * 0.42) - 2, "2019: first Starlink batch", "", "end")
-          + T(w - bw - 4, 14, `${num(z.world)} in ${z.year}`, "k", "end")
-          + T(w - bw - 4, 30, `${Math.round((100 * z.united_states) / z.world)}% from the US`, "", "end")
-          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
-      };
-    },
-  },
-  scams: {
-    files: ["trend"], title: "Losses reported to the FBI's Internet Crime Complaint Center",
-    source: "FBI IC3 annual reports",
-    draw([rows], w, h) {
-      const r = rows.filter((d) => d.country === "United States").sort((a, b) => a.year - b.year);
-      const base = h - 20, max = Math.max(...r.map((d) => d.losses_local));
-      const y = fx(0, max, base, 22), bw = w / r.length, gap = Math.min(18, bw * 0.25);
-      const bn = (v) => `$${(v / 1e9).toFixed(1)}bn`;
-      return {
-        label: `US losses reported to the FBI, ${r.map((d) => `${d.year} ${bn(d.losses_local)}`).join(", ")}.`,
-        svg: r.map((d, i) => {
-          const x0 = i * bw + gap / 2, top = y(d.losses_local), last = i === r.length - 1;
-          return `<rect x="${x0.toFixed(1)}" y="${top.toFixed(1)}" width="${(bw - gap).toFixed(1)}" height="${(base - top).toFixed(1)}" fill="${last ? "var(--em-accent)" : MUTE}"/>`
-            + T(x0 + (bw - gap) / 2, top - 6, bn(d.losses_local), last ? "k" : "", "middle")
-            + T(x0 + (bw - gap) / 2, h - 4, d.year, "n", "middle");
-        }).join("") + Ln(0, base, w, base, "ax"),
-      };
-    },
-  },
-  debt: {
-    files: ["countries"], title: "Share of government revenue spent on net interest, 2025",
-    source: "IMF Fiscal Monitor, October 2026", height: 244,
-    draw([rows], w) {
-      const r = rows.filter((c) => c.interest_pct_revenue != null).sort((a, b) => b.interest_pct_revenue - a.interest_pct_revenue).slice(0, 8);
-      const x = fx(0, r[0].interest_pct_revenue, 0, w), row = 30;
-      return {
-        label: `The largest shares of revenue spent on net interest in 2025: ${r.map((c) => `${c.country} ${num(c.interest_pct_revenue, 1)}%`).join(", ")}.`,
-        svg: r.map((c, i) => {
-          const top = i * row;
-          return T(0, top + 12, c.country, i ? "" : "k") + T(w, top + 12, `${num(c.interest_pct_revenue, 0)}%`, "n", "end")
-            + `<rect x="0" y="${top + 17}" width="${x(c.interest_pct_revenue).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
-        }).join(""),
-      };
-    },
-  },
-  internet: {
-    files: ["cables"], title: "The longest submarine cable systems, km",
-    source: "TeleGeography Submarine Cable Map, January 2021 snapshot", height: 244,
-    draw([rows], w) {
-      const r = [...rows].sort((a, b) => b.length_km - a.length_km).slice(0, 8);
-      const x = fx(0, r[0].length_km, 0, w), row = 30;
-      return {
-        label: `The longest cable systems in the 2021 snapshot: ${r.map((c) => `${c.name} ${num(c.length_km)} km`).join(", ")}.`,
-        svg: r.map((c, i) => {
-          const top = i * row;
-          return T(0, top + 12, c.name.replace(/\s*\(.*\)\s*$/, ""), i ? "" : "k") + T(w, top + 12, num(c.length_km), "n", "end")
-            + `<rect x="0" y="${top + 17}" width="${x(c.length_km).toFixed(1)}" height="6" fill="${i ? MUTE : "var(--em-accent)"}"/>`;
-        }).join(""),
-      };
-    },
-  },
-};
-
+// The chart beside each headline comes from figs.js, which the embed page shares.
 // Print in the light theme whatever the screen uses, so dark-mode readers don't print
 // light text on white paper. The page's own theme comes back afterwards.
 {
@@ -699,7 +502,7 @@ whenMounted(() => {
   if (figCfg && headEl) {
     const fig = document.createElement("figure");
     fig.className = "em-fig";
-    fig.innerHTML = `<figcaption class="em-fig-t">${esc(figCfg.title)}</figcaption><div class="em-fig-plot"></div><p class="em-fig-s">Source: ${esc(figCfg.source)}</p>`;
+    fig.innerHTML = `<figcaption class="em-fig-t">${esc(figCfg.title)}</figcaption><div class="em-fig-plot"></div><p class="em-fig-s">Source: ${esc(figCfg.source)} · <a href="${new URL(`embed/?d=${DASH}`, SITE)}">Embed this chart</a></p>`;
     const plot = fig.querySelector(".em-fig-plot");
     const h = figCfg.height ?? 200;
     plot.style.minHeight = `${h}px`;

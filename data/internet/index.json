@@ -24,7 +24,7 @@
       "id": "cables",
       "title": "Submarine cables (2021 snapshot)",
       "description": "Cable systems in TeleGeography's Submarine Cable Map as of its January 2021 open-data snapshot: length, ready-for-service year, owners and the countries each one lands in (separated by |).",
-      "rows": 478
+      "rows": 477
     },
     {
       "id": "cables_now",

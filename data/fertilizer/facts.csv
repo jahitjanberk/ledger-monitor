@@ -1,0 +1,7 @@
+id,label,value,unit,note,source
+closure,Iran's Revolutionary Guard announced the Strait of Hormuz closed,2026-03-02,date,Traffic fell to an average of five vessels a day,aljazeera-2026-08
+me_urea,Middle East share of global urea exports,25,%,"""Nearly one-quarter""",wb-fert-blog
+afford,Fertiliser affordability for farmers in April 2026,mid-2022,weakest since,Fertiliser prices against food crop prices,wb-fert-blog
+fi2026,"Forecast change in the World Bank fertiliser price index, 2026",14.3,%,"April 2026 forecast: index 181.3 for 2026, against 138.7 in 2025",wb-cmo-forecast
+fi2027,"Forecast change in the World Bank fertiliser price index, 2027",-12.4,%,,wb-cmo-forecast
+ukinputs,"Change in UK agricultural input prices, 12 months to August 2026",8.6,%,Fertilisers and soil improvers contributed 1.4 percentage points,defra-api

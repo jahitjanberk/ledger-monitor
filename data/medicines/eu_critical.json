@@ -1,0 +1,98 @@
+{
+  "id": "eu_critical",
+  "title": "EU critical medicines by body system",
+  "description": "Active substances on the Union list of critical medicines, grouped by ATC anatomical main group (EMA).",
+  "records": [
+    {
+      "atc_group": "J",
+      "group": "Antiinfectives for systemic use",
+      "substances": 90,
+      "share_pct": 30.1,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "L",
+      "group": "Antineoplastic and immunomodulating agents",
+      "substances": 64,
+      "share_pct": 21.4,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "B",
+      "group": "Blood and blood forming organs",
+      "substances": 27,
+      "share_pct": 9,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "N",
+      "group": "Nervous system",
+      "substances": 27,
+      "share_pct": 9,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "C",
+      "group": "Cardiovascular system",
+      "substances": 23,
+      "share_pct": 7.7,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "V",
+      "group": "Various",
+      "substances": 20,
+      "share_pct": 6.7,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "A",
+      "group": "Alimentary tract and metabolism",
+      "substances": 12,
+      "share_pct": 4,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "H",
+      "group": "Systemic hormonal preparations, excl sex hormones and insulins",
+      "substances": 12,
+      "share_pct": 4,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "S",
+      "group": "Sensory organs",
+      "substances": 7,
+      "share_pct": 2.3,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "M",
+      "group": "Musculo-skeletal system",
+      "substances": 6,
+      "share_pct": 2,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "R",
+      "group": "Respiratory system",
+      "substances": 6,
+      "share_pct": 2,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "P",
+      "group": "Antiparasitic products, insecticides and repellents",
+      "substances": 3,
+      "share_pct": 1,
+      "source": "ema-ulcm"
+    },
+    {
+      "atc_group": "G",
+      "group": "Genito urinary system and sex hormones",
+      "substances": 2,
+      "share_pct": 0.7,
+      "source": "ema-ulcm"
+    }
+  ]
+}

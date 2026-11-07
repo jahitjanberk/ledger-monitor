@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+gdp,Under 1%,,1,"personal remittances received, % of GDP",wdi-flows
+gdp,1 to 3%,1,3,"personal remittances received, % of GDP",wdi-flows
+gdp,3 to 10%,3,10,"personal remittances received, % of GDP",wdi-flows
+gdp,10 to 20%,10,20,"personal remittances received, % of GDP",wdi-flows
+gdp,20% or more,20,,"personal remittances received, % of GDP",wdi-flows
+cost,Under 3%,,3,"average cost of receiving $200, % of the amount sent",sdg-10c1
+cost,3 to 5%,3,5,"average cost of receiving $200, % of the amount sent",sdg-10c1
+cost,5 to 7%,5,7,"average cost of receiving $200, % of the amount sent",sdg-10c1
+cost,7 to 10%,7,10,"average cost of receiving $200, % of the amount sent",sdg-10c1
+cost,10% or more,10,,"average cost of receiving $200, % of the amount sent",sdg-10c1
+usd,Under $100m,,100,"personal remittances received, US$ million",wdi-flows
+usd,$100m to $1bn,100,1000,"personal remittances received, US$ million",wdi-flows
+usd,$1bn to $10bn,1000,10000,"personal remittances received, US$ million",wdi-flows
+usd,$10bn to $50bn,10000,50000,"personal remittances received, US$ million",wdi-flows
+usd,$50bn or more,50000,,"personal remittances received, US$ million",wdi-flows

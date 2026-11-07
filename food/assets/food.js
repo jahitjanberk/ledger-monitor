@@ -63,6 +63,8 @@ export default {
     const hungriest = C.filter((r) => r.pou != null).sort((a, b) => b.pou - a.pou).slice(0, 10);
     const mostHungry = C.filter((r) => r.undernourished_m != null).sort((a, b) => b.undernourished_m - a.undernourished_m).slice(0, 10);
     const shares = C.filter((r) => r.food_share != null).sort((a, b) => b.food_share - a.food_share);
+    // Named by code, not by position: another country can rank below the US in a new edition.
+    const usShare = shares.find((r) => r.iso3 === "USA");
     const ureaRise = Math.round((100 * (iPeak.urea - iFeb.urea)) / iFeb.urea);
     const ffYr = (100 * (p.food - pYr.food)) / pYr.food;
     const ukSince = (100 * (ukNow.food_index - ukApr22.food_index)) / ukApr22.food_index;
@@ -223,7 +225,7 @@ export default {
       </section>
 
       <section class="em-sec" id="spending">
-        <div class="em-sec-h"><div><p class="em-eyebrow"><span class="num">07</span>What food takes from a budget</p><h2>Nigerians spend <span class="accent">${Math.round(shares[0].food_share)}%</span> of their budget on food at home. Americans spend ${Math.round(shares.at(-1).food_share)}%</h2></div></div>
+        <div class="em-sec-h"><div><p class="em-eyebrow"><span class="num">07</span>What food takes from a budget</p><h2>People in ${esc(shares[0].country)} spend <span class="accent">${Math.round(shares[0].food_share)}%</span> of their budget on food at home${usShare ? `. Americans spend ${Math.round(usShare.food_share)}%` : ""}</h2></div></div>
         <div class="em-grid">
           <div class="em-card">
             <p class="em-eyebrow">Food as a share of household spending · ${shares[0].food_share_year}</p>

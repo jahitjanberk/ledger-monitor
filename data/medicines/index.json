@@ -1,0 +1,78 @@
+{
+  "variant": "medicines",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Pharmaceutical trade by country",
+      "description": "Exports and imports of pharmaceutical products (HS 30) and of antibiotics as ingredients (HS 2941), US$, 2024, with 2025 where reported (UN Comtrade). Shares are of the total reported by all countries.",
+      "rows": 152
+    },
+    {
+      "id": "shortages",
+      "title": "Current US drug shortages",
+      "description": "Every shortage listed as current in the FDA Drug Shortages Database on 2026-11-06, grouped by generic name, with when it was first posted, its forms, therapeutic categories and the reasons manufacturers gave (openFDA).",
+      "rows": 68
+    },
+    {
+      "id": "categories",
+      "title": "US shortages by therapeutic category",
+      "description": "How many current US shortages fall in each FDA therapeutic category. A medicine can be in several (openFDA).",
+      "rows": 19
+    },
+    {
+      "id": "reasons",
+      "title": "Reasons given for US shortages",
+      "description": "How many current US shortages cite each reason. A shortage can have several, given by different manufacturers (openFDA).",
+      "rows": 9
+    },
+    {
+      "id": "us_years",
+      "title": "US drug shortages per year, 2011 to 2025",
+      "description": "New shortages, shortages prevented and shortages still ongoing at the end of each year, as stated in FDA's annual reports to Congress. Counts before 2016 are CDER only.",
+      "rows": 15
+    },
+    {
+      "id": "api_sites",
+      "title": "Where active ingredients are made for US medicines",
+      "description": "Regional shares of active-ingredient manufacturing locations for products with a US applicant, 2020 and 2025 (FDA Report on the State of Pharmaceutical Quality, FY2025).",
+      "rows": 4
+    },
+    {
+      "id": "eu_critical",
+      "title": "EU critical medicines by body system",
+      "description": "Active substances on the Union list of critical medicines, grouped by ATC anatomical main group (EMA).",
+      "rows": 13
+    },
+    {
+      "id": "eu_shortages",
+      "title": "Shortages in EMA's catalogue",
+      "description": "Every shortage in the European Medicines Agency's public catalogue, with its status, therapeutic area and dates.",
+      "rows": 85
+    },
+    {
+      "id": "uk_concessions",
+      "title": "Price concessions in England, monthly",
+      "description": "Generic medicines and pack sizes granted a price concession by DHSC each month, 2014-01 to 2026-10 (Community Pharmacy England).",
+      "rows": 154
+    },
+    {
+      "id": "uk_ssp",
+      "title": "Serious Shortage Protocols in force",
+      "description": "UK Serious Shortage Protocols active on 6 November 2026 (NHSBSA).",
+      "rows": 7
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from FDA, EMA and NHSBSA.",
+      "rows": 12
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+country,iso3,year,n_exp_kt,n_share_pct,p_exp_kt,p_share_pct,k_exp_kt,k_share_pct,source
+Saudi Arabia,SAU,2024,2969,6.39,2602,9.61,18.2,0.05,faostat-rfn
+Qatar,QAT,2024,2470.7,5.32,0,0,0.3,0,faostat-rfn
+Oman,OMN,2024,1642.9,3.54,0.1,0,6.4,0.02,faostat-rfn
+Bahrain,BHR,2024,318.5,0.69,0,0,0,0,faostat-rfn
+Iran,IRN,2024,13.4,0.03,0.3,0,3.2,0.01,faostat-rfn
+United Arab Emirates,ARE,2024,8,0.02,5.1,0.02,7.6,0.02,faostat-rfn
+Kuwait,KWT,2024,0,0,0,0,1.2,0,faostat-rfn

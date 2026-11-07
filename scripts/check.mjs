@@ -2,14 +2,17 @@
 // script errors, sideways scrolling, fonts that failed to load, text below WCAG AA
 // contrast, and controls with no accessible name. Exits with code 1 if anything fails.
 //   node scripts/check.mjs            all pages
-//   node scripts/check.mjs air hub    only these pages
+//   node scripts/check.mjs air hub    only these pages (also: country, country/gbr, compare, embed)
 //   SHOTS=1 node scripts/check.mjs    also save screenshots to scripts/.shots/
 import fs from "node:fs";
 import path from "node:path";
 import { serve, launch, DASHBOARDS, ROOT } from "./lib/browser.mjs";
 
 const only = process.argv.slice(2);
-const pages = ["hub", "about", ...DASHBOARDS].filter((p) => !only.length || only.includes(p));
+// Page name -> path. The generated pages are checked through a few samples.
+const PATHS = { hub: "", about: "about/", ...Object.fromEntries(DASHBOARDS.map((d) => [d, d + "/"])),
+  country: "country/", "country/gbr": "country/gbr/", "country/ken": "country/ken/", compare: "compare/?c=GBR,KEN,IND,BRA", embed: "embed/?d=food" };
+const pages = Object.keys(PATHS).filter((p) => !only.length || only.includes(p));
 const sizes = [
   { name: "desktop", width: 1440, height: 1000, mobile: false },
   { name: "phone", width: 390, height: 844, mobile: true },
@@ -72,19 +75,21 @@ const AUDIT = `(async () => {
     fonts: ["Inter Tight", "JetBrains Mono"].filter((f) => ![...document.fonts].some((x) => x.family.replace(/"/g, "") === f && x.status === "loaded")),
     contrast: [...bad.values()],
     unnamed,
-    mounted: !!document.querySelector("#em-main .em-head, .hb-grid, .nf main"),
+    mounted: !!document.querySelector("#em-main .em-head, .hb-grid, .nf main, .st-main, .eb-fig svg"),
   };
 })()`;
 
-const srv = serve(8790);
-const browser = await launch(9342);
+// Set CHECK_PORT to run more than one check at a time (it also uses CHECK_PORT + 1000).
+const port = Number(process.env.CHECK_PORT ?? 8790);
+const srv = serve(port);
+const browser = await launch(port + 1000);
 let failed = 0;
 for (const pg of pages) {
   for (const size of sizes) {
     for (const scheme of schemes) {
       const page = await browser.newPage();
       await page.setViewport({ ...size, scheme });
-      await page.goto(srv.url + (pg === "hub" ? "" : pg + "/"), 4500);
+      await page.goto(srv.url + PATHS[pg], 4500);
       const r = await page.eval(AUDIT);
       const problems = [];
       if (!r.mounted) problems.push("page did not finish loading");
@@ -96,7 +101,7 @@ for (const pg of pages) {
       const label = `${pg.padEnd(12)} ${size.name.padEnd(8)} ${scheme.padEnd(5)}`;
       if (problems.length) { failed++; console.log(`✗ ${label}\n    ${problems.join("\n    ")}`); }
       else console.log(`✓ ${label}`);
-      if (shots) await page.screenshot(path.join(shots, `${pg}-${size.name}-${scheme}.png`));
+      if (shots) await page.screenshot(path.join(shots, `${pg.replace(/\W+/g, "-")}-${size.name}-${scheme}.png`));
       page.close();
     }
   }

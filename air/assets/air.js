@@ -161,7 +161,7 @@ export default {
           <div class="em-card">
             <p class="em-eyebrow">Two estimates</p>
             <h3>Satellite models and WHO agree closely</h3>
-            <p class="note">For the UK, the satellite-based estimate is <b ${t(UK.source)}>${ug(UK.pm25)}</b> (${UK.year}) and WHO's official figure <b ${t(UK.who_source)}>${ug(UK.who_pm25)}</b> (${UK.who_year}). Both weight pollution by where people live.</p>
+            <p class="note">For the UK, the satellite-based estimate is <b ${t(UK.source)}>${ug(UK.pm25)}</b> (${UK.year}) and WHO's official figure for urban areas <b ${t(UK.who_source)}>${ug(UK.who_pm25)}</b> (${UK.who_year}). Both weight pollution by where people live.</p>
             <div class="em-cites"></div>
           </div>
         </div>
@@ -287,8 +287,8 @@ export default {
           <p class="ai-key"><span>${dot("--em-accent")}Outdoor ${ppl(r.deaths_pm)}</span><span>${dot("--ai-hh")}Household ${ppl(r.deaths_household)}</span><span>${dot("--ai-oz")}Ozone ${ppl(r.deaths_ozone)}</span></p>` : ""}
         <dl class="em-d-list" style="margin-top:12px">
           ${r.pm25_2000 != null ? row("PM2.5 in 2000", `<span ${t(r.source)}>${ug(r.pm25_2000)}</span>`) : ""}
-          ${r.pm25_human != null ? row("From human sources", `<span ${t(r.source)}>${ug(r.pm25_human)}</span>`) : ""}
-          ${r.who_pm25 != null ? row(`WHO estimate · ${r.who_year}`, `<span ${t(r.who_source)}>${ug(r.who_pm25)}</span>`) : ""}
+          ${r.pm25_human != null ? row("From human sources", `<span ${t("aqli")}>${ug(r.pm25_human)}</span>`) : ""}
+          ${r.who_pm25 != null ? row(`WHO estimate, urban areas · ${r.who_year}`, `<span ${t(r.who_source)}>${ug(r.who_pm25)}</span>`) : ""}
           ${r.deaths_air != null ? row("All air pollution deaths", `<span ${t(r.deaths_source)}>${n(r.deaths_air)}</span>`) : ""}
           ${r.share_deaths_pct != null ? row("Share of all deaths", `<span ${t(r.deaths_source)}>${pct(r.share_deaths_pct)}</span>`) : ""}
         </dl>

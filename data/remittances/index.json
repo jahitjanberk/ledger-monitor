@@ -1,0 +1,66 @@
+{
+  "variant": "remittances",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Remittances received and paid, and the cost of sending money, by country",
+      "description": "Personal remittances received (US$ million and % of GDP) and paid, latest year to 2025; average cost of sending $200 to and from each country covered by RPW, Q3 2025 and Q3 2017.",
+      "rows": 189
+    },
+    {
+      "id": "world",
+      "title": "World remittance flows and the global average cost, 2000 to 2025",
+      "description": "Personal remittances received by all countries and by low- and middle-income countries, remittances paid, and the global average cost of sending $200 (Q3 of each year).",
+      "rows": 26
+    },
+    {
+      "id": "quarterly",
+      "title": "Average cost of sending $200 by quarter, Q2 2016 to Q3 2025",
+      "description": "Global average, fee and exchange-rate margin, averages by provider type, and the average from the UK, calculated from the RPW dataset.",
+      "rows": 37
+    },
+    {
+      "id": "regions",
+      "title": "Average cost of sending $200 to each SDG region, 2011 to 2025",
+      "description": "SDG indicator 10.c.1 by receiving region, third quarter of each year.",
+      "rows": 88
+    },
+    {
+      "id": "corridors",
+      "title": "Cost of sending $200 in each corridor, Q3 2025",
+      "description": "Average total cost (and in Q3 2016), SmaRT average, fee and exchange-rate margin, services surveyed, cheapest service, and averages for banks and money transfer operators.",
+      "rows": 348
+    },
+    {
+      "id": "breakdown",
+      "title": "Cost of sending $200 by provider type, payment method and access point, Q3 2025",
+      "description": "Simple averages over services, calculated from the RPW dataset; categories with fewer than 20 services left out.",
+      "rows": 15
+    },
+    {
+      "id": "uk_flows",
+      "title": "Personal remittances paid and received by the UK, 2000 to 2025",
+      "description": "US$ million, from the World Bank's World Development Indicators.",
+      "rows": 26
+    },
+    {
+      "id": "uk_cost",
+      "title": "Average cost of sending $200 from the UK and worldwide, 2011 to 2025",
+      "description": "SDG indicator 10.c.1, third quarter of each year.",
+      "rows": 11
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from the World Bank's Remittance Prices Worldwide report for Q3 2025 and the text of SDG target 10.c.",
+      "rows": 23
+    }
+  ]
+}

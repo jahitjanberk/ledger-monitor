@@ -1,0 +1,87 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the two maps.",
+  "records": [
+    {
+      "map": "nitrogen",
+      "band": "Under 10 kg",
+      "min": 0,
+      "max": 10,
+      "unit": "kg of nitrogen per hectare of cropland",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "nitrogen",
+      "band": "10 to 50 kg",
+      "min": 10,
+      "max": 50,
+      "unit": "kg of nitrogen per hectare of cropland",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "nitrogen",
+      "band": "50 to 100 kg",
+      "min": 50,
+      "max": 100,
+      "unit": "kg of nitrogen per hectare of cropland",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "nitrogen",
+      "band": "100 to 150 kg",
+      "min": 100,
+      "max": 150,
+      "unit": "kg of nitrogen per hectare of cropland",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "nitrogen",
+      "band": "150 kg or more",
+      "min": 150,
+      "max": null,
+      "unit": "kg of nitrogen per hectare of cropland",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "imports",
+      "band": "Net exporter",
+      "min": null,
+      "max": 0,
+      "unit": "net imports as % of agricultural use, N + P2O5 + K2O",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "imports",
+      "band": "Under 50%",
+      "min": 0,
+      "max": 50,
+      "unit": "net imports as % of agricultural use, N + P2O5 + K2O",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "imports",
+      "band": "50 to 80%",
+      "min": 50,
+      "max": 80,
+      "unit": "net imports as % of agricultural use, N + P2O5 + K2O",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "imports",
+      "band": "80 to 95%",
+      "min": 80,
+      "max": 95,
+      "unit": "net imports as % of agricultural use, N + P2O5 + K2O",
+      "source": "faostat-rfn"
+    },
+    {
+      "map": "imports",
+      "band": "95% or more",
+      "min": 95,
+      "max": null,
+      "unit": "net imports as % of agricultural use, N + P2O5 + K2O",
+      "source": "faostat-rfn"
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 id,name,length_km,rfs,landings,source,owners,countries
-2africa,2Africa,37000,2023,29,telegeography-2021,,
-2africa,2Africa,,,0,telegeography-2021,,
+2africa,2Africa,37000,2023,29,telegeography-2021,"Facebook, Vodafone, MTN Group, China Mobile, WIOCC, Orange, Telecom Egypt, Saudi Telecom","Congo, Dem. Rep.|Congo, Rep.|Côte d'Ivoire|Djibouti|Egypt|France|Gabon|Ghana|Italy|Kenya|Madagascar|Mozambique|Nigeria|Oman|Portugal|Saudi Arabia|Senegal|Somalia|South Africa|Spain|Sudan|Tanzania|United Kingdom"
 acs-alaska-oregon-network-akorn,ACS Alaska-Oregon Network (AKORN),3000,2009 April,4,telegeography-2021,Alaska Communications,United States
 aeconnect-1,AEConnect-1,5536,2016 January,2,telegeography-2021,Aqua Comms,Ireland|United States
 alba-1,ALBA-1,1860,2012 August,4,telegeography-2021,"Transbit, Telecom Venezuela",Cuba|Jamaica|Venezuela
@@ -44,10 +43,10 @@ avassa,Avassa,260,2016 November,4,telegeography-2021,"Comoros Telecom, STOI",Com
 azerbaijan-turkmenistan,Azerbaijan-Turkmenistan,300,2021 Q4,2,telegeography-2021,"Azertelecom, Turkmentelecom",Azerbaijan|Turkmenistan
 azores-fiber-optic-system-afos,Azores Fiber Optic System (AFOS),1100,1998 July,7,telegeography-2021,Altice Portugal,Portugal
 balok,BALOK,60,2016 February,2,telegeography-2021,XL Axiata,Indonesia
-bcs-east,BCS East,8,1995,2,telegeography-2021,Telia Carrier,Latvia|Lithuania
+bcs-east,BCS East,97.8,1995,2,telegeography-2021,Telia Carrier,Latvia|Lithuania
 bcs-east-west-interlink,BCS East-West Interlink,218,1997 November,2,telegeography-2021,Telia Carrier,Lithuania|Sweden
 bcs-north---phase-1,BCS North - Phase 1,513,1998,5,telegeography-2021,Telia Carrier,Finland|Sweden
-bcs-north---phase-2,BCS North - Phase 2,4,2000,3,telegeography-2021,Telia Carrier,Finland|Russia
+bcs-north---phase-2,BCS North - Phase 2,280.4,2000,3,telegeography-2021,Telia Carrier,Finland|Russia
 berytar,BERYTAR,134,1997 April,4,telegeography-2021,"Syrian Telecommunications Establishment, Lebanese Ministry of Telecommunications",Lebanon|Syria
 bkk-digitek,BKK Digitek,210,2020 Q2,3,telegeography-2021,BKK Digitek,Norway
 brusa,BRUSA,11000,2018 August,4,telegeography-2021,Telxius,Brazil|United States
@@ -391,7 +390,7 @@ seychelles-to-east-africa-system-seas,Seychelles to East Africa System (SEAS),19
 silphium,Silphium,425,2013 January,2,telegeography-2021,Libya International Telecommunications Company,Greece|Libya
 singapore-myanmar-sigmar,Singapore-Myanmar (SIGMAR),2227,2021,2,telegeography-2021,Campana Group,Myanmar|Singapore
 sint-maarten-puerto-rico-network-one-smpr-1,Sint Maarten Puerto Rico Network One (SMPR-1),375,2004 December,3,telegeography-2021,"TelEm Group, Dauphin Telecom",Saint Martin|Sint Maarten|United States
-sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,4,2018,2,telegeography-2021,Etisalat,United Arab Emirates
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,84.4,2018,2,telegeography-2021,Etisalat,United Arab Emirates
 sirius-north,Sirius North,147,1999,2,telegeography-2021,Virgin Media Business,United Kingdom
 sirius-south,Sirius South,219,1999,2,telegeography-2021,Virgin Media Business,Ireland|United Kingdom
 sistem-kabel-rakyat-1malaysia-skr1m,Sistem Kabel Rakyat 1Malaysia (SKR1M),3800,2017 September,6,telegeography-2021,"Telekom Malaysia, TIME dotCom",Malaysia

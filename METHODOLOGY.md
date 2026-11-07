@@ -12,7 +12,7 @@ How Ledger Monitor chooses, processes and presents its figures. Each dashboard r
 
 ## Where the Internet Lives
 
-Cable routes and landing points come from TeleGeography's Submarine Cable Map open data, in a public mirror whose last update was January 2021. TeleGeography publishes that data under CC BY-NC-SA 3.0, which allows reuse with credit, for non-commercial purposes, under the same licence. The headline figures for 2026 come from TeleGeography's own FAQ. Routes are stylised and don't show exact seabed paths.
+Cable routes and landing points come from TeleGeography's Submarine Cable Map open data, in a public mirror whose last update was January 2021. TeleGeography publishes that data under CC BY-NC-SA 3.0, which allows reuse with credit, for non-commercial purposes, under the same licence. The headline figures for 2026 come from TeleGeography's own FAQ. Routes are stylised and don't show exact seabed paths. TeleGeography no longer publishes open data: its current database is for paying subscribers, so the dashboard stays on the 2021 snapshot.
 
 Cloud regions are each provider's published list: AWS's regions page, Microsoft's list of Azure regions and Google's Cloud Run locations. Providers name an area, not a building, so each region is plotted at a representative city using GeoNames coordinates, and regions in the same city are nudged apart. Regional electricity figures for the US, China and Europe are the IEA's percentage shares of the global total, converted to TWh here.
 
@@ -110,7 +110,7 @@ Sources: [`data/orbit/sources.json`](data/orbit/sources.json) · Data: [`data/or
 
 ## The Air We Breathe
 
-PM2.5 exposure is the annual average concentration of fine particles, 2.5 micrometres across or smaller, weighted by where people live. It comes from Washington University's SatPM estimates, which combine satellite observations of haze, a chemical transport model and ground monitors. It includes natural dust and wildfire smoke as well as human pollution, which is why desert countries rank high. WHO's own SDG 11.6.2 estimate is shown for comparison in each country's details. City monitor readings, such as IQAir's, measure air where monitors sit and can differ from these national averages.
+PM2.5 exposure is the annual average concentration of fine particles, 2.5 micrometres across or smaller, weighted by where people live. It comes from Washington University's SatPM estimates, which combine satellite observations of haze, a chemical transport model and ground monitors. It includes natural dust and wildfire smoke as well as human pollution, which is why desert countries rank high. The share from human sources, with desert dust and sea salt removed, is the University of Chicago's Air Quality Life Index. WHO's own SDG 11.6.2 estimate for urban areas is shown for comparison in each country's details; it covers cities and towns, not whole countries. City monitor readings, such as IQAir's, measure air where monitors sit and can differ from these national averages.
 
 Deaths are IHME's Global Burden of Disease 2023 estimates of deaths from all causes attributable to outdoor particulate matter, household air pollution from solid fuels, and ozone. They are modelled from exposure and the risk of disease at each level; they are not counted from death certificates. The death-rate map shows deaths from outdoor particles per 100,000 people. The WHO guideline of 5 µg/m³ was set in 2021. All series come from Our World in Data's processed copies.
 
@@ -182,3 +182,92 @@ Refining shares are from the International Energy Agency's *Global Critical Mine
 - The child labour estimate dates from 2014 and covers all mines in southern DR Congo, not cobalt alone.
 
 Sources: [`data/minerals/sources.json`](data/minerals/sources.json) · Data: [`data/minerals/`](data/minerals/)
+
+## Vaccination & Health Workers
+
+Coverage is from the WHO/UNICEF Estimates of National Immunization Coverage (WUENIC), 2025 revision, released on 15 July 2026 and downloaded from the WHO Immunization Data portal: the share of surviving infants (those alive at their first birthday) who received each vaccine. DTP1 and DTP3 are the first and third doses of the diphtheria, tetanus and pertussis vaccine; MCV1 and MCV2 the first and second doses of a measles-containing vaccine, at the age each country recommends. WHO and UNICEF re-estimate the whole series with each release; for countries that did not report 2025, the estimate is carried forward from their last informed value.
+
+Zero-dose children are infants who did not receive a first dose of DTP vaccine. For each country we multiply the share without DTP1 by the number of surviving infants from the UN World Population Prospects 2024, as given in WHO's WUENIC country-profile file; the country figures add up to the published world total (13.47 million). Regional and world counts are the published target population minus those vaccinated. Measles and diphtheria cases are confirmed cases reported by national authorities through the WHO/UNICEF Joint Reporting Form, and measles incidence per million people is WHO's, from the portal's export of 11 June 2026. Health workers are medical doctors, and nursing and midwifery personnel, per 10,000 people, from WHO's National Health Workforce Accounts (December 2025 update) via the Global Health Observatory, latest year each country reported; regional and world figures are for 2024. Headline findings are quoted from the UNICEF and WHO release of 15 July 2026 and WHO's *State of the World's Nursing 2025*. UK figures are UKHSA's COVER annual statistics for 2025 to 2026: MMR at 24 months in England since 1988/89, MMR1, MMR2 and the pre-school booster at 5 years since 2009/10, and coverage at 5 years by UK nation; UK measles cases are those the UK reported to WHO.
+
+**What this doesn't show**
+
+- Coverage figures are WHO and UNICEF estimates built from countries' own reports and surveys. Each year's release revises the whole series, and fewer surveys were submitted this round, so recent years may change.
+- Zero-dose means no first dose of DTP vaccine by the first birthday. A child who missed DTP but had another vaccine still counts as zero-dose.
+- Measles cases are what countries confirmed and reported, not estimates of every case; 12 countries, including the United States, have no 2025 figure.
+- Health worker figures are each country's latest report, mostly 2023 or 2024, and count people in the workforce, not where they work or how many hours.
+
+Sources: [`data/vaccines/sources.json`](data/vaccines/sources.json) · Data: [`data/vaccines/`](data/vaccines/)
+
+## Household Energy Prices & Poverty
+
+Access to electricity and to clean cooking fuels and technologies are the shares of people with each, from the World Bank's *World Development Indicators* (updated 8 October 2026), which carry the estimates of the Tracking SDG 7 custodian agencies; the latest year is 2024. Clean cooking means mainly using electricity, gas, LPG, biogas, solar or alcohol fuels; wood, charcoal, kerosene and coal count as polluting. The number of people without access is our calculation: each country's 2024 population times the share without. Country totals add up to 655 million people without electricity, matching the figure in *Tracking SDG 7: The Energy Progress Report 2026*. World and regional headline figures are quoted from the report's joint news release of 24 June 2026.
+
+Household prices are Eurostat's half-yearly prices for a medium consumer (electricity band DC, 2,500 to 4,999 kWh a year; gas band D2, 20 to 199 GJ a year), including all taxes and levies, in euros and in purchasing power standards, for the first half of 2026. The share of people who can't afford to keep their home adequately warm, and the share behind on utility bills, come from the EU Statistics on Income and Living Conditions (EU-SILC), for everyone and for people at risk of poverty (below 60% of median income). We show each country's latest year from 2023 on, mostly 2025, which leaves out the UK (latest Eurostat figures 2018) and Iceland.
+
+The British price cap series is Ofgem's own recalculation of every cap period since April 2017 at the 2026 typical consumption values (2,500 kWh of electricity and 9,500 kWh of gas a year), for a dual fuel household paying by direct debit, GB average, including VAT and before levelisation, from sheet 1c of the default tariff cap level model v1.31. Ofgem's headline figure of £1,723 for October to December 2026 includes levelisation. From October 2022 to June 2023 the government's Energy Price Guarantee discounted bills, so households paid less than the cap in those periods. Fuel poverty is England's Low Income Low Energy Efficiency measure from DESNZ (*Fuel poverty trends 2026* and the *Annual fuel poverty statistics report: 2026*): a household is fuel poor if it has a low income and lives in a home rated band D or below for energy efficiency. 2025 is provisional and 2026 a projection.
+
+**What this doesn't show**
+
+- Access figures for 2024 are partly modelled where countries have no recent household survey, and people without access are our calculation from population.
+- Household prices and cold-home figures cover only European countries; there is no open, comparable price series for the rest of the world.
+- Cold homes and arrears are what people say in a survey, not measured temperatures or bills. The UK left the EU survey, so its latest Eurostat figures are from 2018 and are not shown.
+- The British price cap is the most a supplier can charge a typical customer on a default tariff, not what every household pays. Fuel poverty figures cover England only, and 2025 is provisional.
+
+Sources: [`data/energy/sources.json`](data/energy/sources.json) · Data: [`data/energy/`](data/energy/)
+
+## Medicine Shortages & Supply
+
+US shortages come from the FDA Drug Shortages Database through openFDA, downloaded on 6 November 2026. FDA lists each affected product presentation (strength and pack) separately; we group them by generic name and count a shortage as current when any of its presentations is listed as current. A shortage's start is the earliest date any presentation was first posted, and its length runs from then to the download date. Reasons and therapeutic categories are as FDA lists them; reasons come from each manufacturer, so one shortage can have several. The database covers medicines tracked by FDA's Center for Drug Evaluation and Research (CDER); FDA's own count of 93 ongoing shortages at the end of 2025 also includes 22 vaccine, blood and other biological product shortages tracked by CBER. New, prevented and ongoing shortages per year are quoted from the text of FDA's annual reports to Congress for 2017 to 2025; counts before 2016 cover CDER only. Manufacturing sites, inspections and the regional shares of active-ingredient sites are quoted from FDA's FY2025 Report on the State of Pharmaceutical Quality.
+
+Trade is from UN Comtrade: each country's reported exports and imports of HS chapter 30 (pharmaceutical products: finished medicines, vaccines, blood products) and HS 2941 (antibiotics as bulk ingredients) with the world, in current US dollars, for 2024, the latest year most countries have reported; 2025 is shown where reported. Shares are of the sum of all reporting countries. Figures reported as "Other Asia, not elsewhere specified", which cover Taiwan, are left out. The EU's critical medicines are the Union list of critical medicines, version 2.1 (revision 2), grouped by the first letter of each substance's ATC code; EU shortages are EMA's public catalogue, which covers shortages EMA assesses rather than every national shortage. UK price concessions are counted from Community Pharmacy England's monthly lists, one per distinct product and pack size; the counts match the monthly totals CPE publishes. Serious Shortage Protocols in force are read from the NHS Business Services Authority's list.
+
+**What this doesn't show**
+
+- US shortages are those in the FDA's database of medicines it tracks; vaccines and blood products, and shortages that FDA does not list, are left out. Each shortage is a generic name, which can cover several strengths and makers.
+- How long a shortage has lasted counts from when it was first posted, so a shortage that eased and came back counts as one long one.
+- Trade is measured by value as each country reports it. Countries where multinationals book sales or route goods, such as Switzerland, Ireland and Belgium, look bigger than their factories, and Taiwan is missing.
+- Price concessions in England show medicines pharmacies could not buy at the NHS price. They are a sign of supply problems, not a count of shortages.
+
+Sources: [`data/medicines/sources.json`](data/medicines/sources.json) · Data: [`data/medicines/`](data/medicines/)
+
+## Fertiliser Prices & Supply
+
+Prices are the World Bank's Commodity Price Data (the Pink Sheet), monthly averages in nominal US dollars, updated on 3 November 2026: urea (prill, f.o.b. Middle East; f.o.b. Black Sea before March 2022), DAP (f.o.b. US Gulf), TSP (imported to the US Gulf), potassium chloride (granular, CFR Brazil), phosphate rock (f.o.b. North Africa), natural gas in Europe ($ per million British thermal units) and the World Bank fertiliser and food price indices (2010 = 100). These are international spot prices, not farm-gate prices. Affordability is the urea price divided by the US maize export price from the same file: the tonnes of maize it takes to buy a tonne of urea. Forecasts are Table 1 of the World Bank's Commodity Markets Outlook of 28 October 2026, with its April 2026 forecasts.
+
+Use, production, imports and exports are FAOSTAT's Fertilizers by Nutrient (updated 30 July 2026), in tonnes of nitrogen (N), phosphate (P2O5) and potash (K2O), for 2024 (2022 for two countries). Use per hectare is FAO's agricultural use divided by cropland (arable land and permanent crops). Import reliance is imports minus exports of all three nutrients, as a share of agricultural use; a negative value is shown as a net exporter, and values above 100% can reflect stockbuilding, re-exports or gaps in the records. The Gulf share adds the 2024 exports of Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates. The Hormuz closure date is from Al Jazeera (27 August 2026) and the Middle East's share of urea exports and the April affordability finding from the World Bank's data blog of 14 May 2026. UK prices are Defra's agricultural price indices (2020 = 100, published 29 October 2026, to August 2026); application rates are Table GB1.1 of the British Survey of Fertiliser Practice 2025 (16 July 2026), overall rates for Great Britain averaged over all fields, including those given none.
+
+**What this doesn't show**
+
+- Prices are international spot prices at ports, not what farmers pay. Farm-gate prices add shipping, margins and taxes, and move later.
+- FAO's use, production and trade figures mix official reports with estimates and partner countries' trade records. Some big exporters are under-recorded: FAO shows almost no exports from Iran, so the Gulf's share of nitrogen exports is likely to be higher than shown.
+- The latest FAO year is 2024, before the Strait of Hormuz closed, so the country figures do not show how trade has shifted since.
+- Use per hectare divides all fertiliser by cropland, which leaves out permanent grassland; in countries that fertilise a lot of grass, such as the UK and Ireland, it overstates what crops get.
+
+Sources: [`data/fertilizer/sources.json`](data/fertilizer/sources.json) · Data: [`data/fertilizer/`](data/fertilizer/)
+
+## The Cost of Sending Money Home
+
+Costs come from the World Bank's Remittance Prices Worldwide (RPW): the fee and exchange-rate margin charged for sending the equivalent of $200 through each surveyed service, as a share of the amount sent. The exchange-rate margin is the gap between the rate a provider gives and the interbank rate. Global, regional (UN SDG regions), country and corridor averages are the World Bank's, as published in the UN SDG Global Database for indicator 10.c.1 (series SI_RMT_COST, SI_RMT_COST_SND, SI_RMT_COST_BC and SI_RMT_COST_SC, release 2026.Q3.G.01): simple averages over services in the third quarter of each year, 2011 to 2025, and the SmaRT average of the three cheapest qualifying services in each corridor. Averages by provider type, payment method and access point, the split between fee and margin, quarterly averages from Q2 2016 and the cheapest service in each corridor are calculated here from the complete RPW dataset (Q1 2011 to Q3 2025, updated on the World Bank Data Catalog on 23 September 2026). A service listed under two provider types counts in both; this reproduces the report's figures for banks (14.99%) and money transfer operators (4.73% against 4.72%). Q2 2025 was not collected. Headline findings are quoted from RPW Issue 54 (September 2025). Remittance flows are personal remittances received and paid (personal transfers plus compensation of employees), in current US dollars and as a share of GDP, from the World Bank's World Development Indicators (updated 8 October 2026), latest year to 2025. The 3% and 5% thresholds are SDG target 10.c.
+
+**What this doesn't show**
+
+- Costs are for sending the equivalent of $200 through the services the World Bank surveys in 48 sending and about 100 receiving countries. Each service counts equally, however much money goes through it.
+- Most cost figures are for one quarter of each year (July to September). The World Bank did not collect prices for April to June 2025, and the dataset has no prices for money sent from Russia since 2022.
+- A few corridors are recorded at more than the amount sent, such as Türkiye to Bulgaria at 118%, which suggests a data problem. They are kept in the data but left out of the charts.
+- Remittance flows are those recorded in balance of payments data, in current US dollars. Money sent through informal channels is not counted, and the latest year is partly estimated.
+
+Sources: [`data/remittances/sources.json`](data/remittances/sources.json) · Data: [`data/remittances/`](data/remittances/)
+
+## Country profiles and comparisons
+
+The [country pages](country/) and the [compare page](compare/) add no data of their own. They are built by `scripts/countries.mjs` from the dashboards' published country tables, joined on the ISO 3166 country code. Tables that name countries without a code (cable landing points, cloud regions and mineral refining) are matched by name, with a short list of spellings written in the script; the few names it can't match are printed when it runs and left off the profiles. A country gets a page when it has figures from at least two dashboards.
+
+Each figure keeps its own year and source, which are shown beside it, so two figures on one page can describe different years. The rank compares the country with every country in the same table that has a value; ties share a rank, so a country with 0% coal is "highest" or "lowest" together with all the others at 0%. The bar under each figure places the country between the lowest and highest values by rank, not by size, so one extreme value doesn't squash the rest. On the compare page the bars do use size: each is scaled to the largest of the countries shown on that row.
+
+**What this doesn't show**
+
+- A rank says nothing about whether a value is good or bad: being "highest" is good for renewables and bad for air pollution. Read the label.
+- Rankings cover different sets of countries for each figure, from fewer than ten for housing to about 240 for air and heat.
+- The dashboards' own method notes, above, apply to every figure on the profiles.
+
+Code: [`scripts/countries.mjs`](scripts/countries.mjs) · Data: [`country/profiles.json`](country/profiles.json)

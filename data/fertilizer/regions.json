@@ -1,0 +1,4487 @@
+{
+  "id": "regions",
+  "title": "Fertiliser use per hectare by region",
+  "description": "Kg of nutrient per hectare of cropland, 1961 to 2024, by continent and for the least developed countries (FAOSTAT).",
+  "records": [
+    {
+      "region": "World",
+      "year": 1961,
+      "n_per_ha": 8.6,
+      "p_per_ha": 8.1,
+      "k_per_ha": 6.4,
+      "npk_per_ha": 23.1,
+      "n_use_mt": 11.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1962,
+      "n_per_ha": 9.7,
+      "p_per_ha": 8.6,
+      "k_per_ha": 6.8,
+      "npk_per_ha": 25.1,
+      "n_use_mt": 12.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1963,
+      "n_per_ha": 10.9,
+      "p_per_ha": 9.5,
+      "k_per_ha": 7.4,
+      "npk_per_ha": 27.7,
+      "n_use_mt": 14.63,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1964,
+      "n_per_ha": 12.1,
+      "p_per_ha": 10.7,
+      "k_per_ha": 8.1,
+      "npk_per_ha": 30.9,
+      "n_use_mt": 16.39,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1965,
+      "n_per_ha": 14,
+      "p_per_ha": 11.6,
+      "k_per_ha": 8.8,
+      "npk_per_ha": 34.4,
+      "n_use_mt": 18.89,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1966,
+      "n_per_ha": 16.2,
+      "p_per_ha": 12.8,
+      "k_per_ha": 9.3,
+      "npk_per_ha": 38.3,
+      "n_use_mt": 21.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1967,
+      "n_per_ha": 17.7,
+      "p_per_ha": 13.3,
+      "k_per_ha": 10.2,
+      "npk_per_ha": 41.3,
+      "n_use_mt": 23.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1968,
+      "n_per_ha": 19.2,
+      "p_per_ha": 13.9,
+      "k_per_ha": 10.6,
+      "npk_per_ha": 43.6,
+      "n_use_mt": 26.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1969,
+      "n_per_ha": 20.6,
+      "p_per_ha": 14.4,
+      "k_per_ha": 11,
+      "npk_per_ha": 46,
+      "n_use_mt": 28.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1970,
+      "n_per_ha": 23,
+      "p_per_ha": 15.3,
+      "k_per_ha": 11.9,
+      "npk_per_ha": 50.2,
+      "n_use_mt": 31.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1971,
+      "n_per_ha": 24.5,
+      "p_per_ha": 16.3,
+      "k_per_ha": 12.6,
+      "npk_per_ha": 53.4,
+      "n_use_mt": 33.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1972,
+      "n_per_ha": 26.2,
+      "p_per_ha": 17.4,
+      "k_per_ha": 13.4,
+      "npk_per_ha": 56.9,
+      "n_use_mt": 36.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1973,
+      "n_per_ha": 28.2,
+      "p_per_ha": 18.7,
+      "k_per_ha": 14.7,
+      "npk_per_ha": 61.6,
+      "n_use_mt": 38.95,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1974,
+      "n_per_ha": 27.9,
+      "p_per_ha": 17.5,
+      "k_per_ha": 14.3,
+      "npk_per_ha": 59.6,
+      "n_use_mt": 38.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1975,
+      "n_per_ha": 31.7,
+      "p_per_ha": 18.3,
+      "k_per_ha": 15.2,
+      "npk_per_ha": 65.2,
+      "n_use_mt": 43.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1976,
+      "n_per_ha": 32.4,
+      "p_per_ha": 19.6,
+      "k_per_ha": 16.2,
+      "npk_per_ha": 68.2,
+      "n_use_mt": 45.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1977,
+      "n_per_ha": 35.2,
+      "p_per_ha": 20.6,
+      "k_per_ha": 16.5,
+      "npk_per_ha": 72.3,
+      "n_use_mt": 49.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1978,
+      "n_per_ha": 38.3,
+      "p_per_ha": 21.2,
+      "k_per_ha": 17.2,
+      "npk_per_ha": 76.7,
+      "n_use_mt": 54.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1979,
+      "n_per_ha": 40.2,
+      "p_per_ha": 22.1,
+      "k_per_ha": 17,
+      "npk_per_ha": 79.3,
+      "n_use_mt": 57.02,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1980,
+      "n_per_ha": 42.6,
+      "p_per_ha": 22.3,
+      "k_per_ha": 17,
+      "npk_per_ha": 82,
+      "n_use_mt": 60.63,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1981,
+      "n_per_ha": 42.6,
+      "p_per_ha": 21.9,
+      "k_per_ha": 16.8,
+      "npk_per_ha": 81.3,
+      "n_use_mt": 60.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1982,
+      "n_per_ha": 42.9,
+      "p_per_ha": 21.8,
+      "k_per_ha": 16.1,
+      "npk_per_ha": 80.8,
+      "n_use_mt": 61.73,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1983,
+      "n_per_ha": 46.1,
+      "p_per_ha": 22.8,
+      "k_per_ha": 17.4,
+      "npk_per_ha": 86.2,
+      "n_use_mt": 66.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1984,
+      "n_per_ha": 48.4,
+      "p_per_ha": 23.6,
+      "k_per_ha": 17.8,
+      "npk_per_ha": 89.9,
+      "n_use_mt": 70.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1985,
+      "n_per_ha": 47.9,
+      "p_per_ha": 22.8,
+      "k_per_ha": 17.5,
+      "npk_per_ha": 88.2,
+      "n_use_mt": 70.67,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1986,
+      "n_per_ha": 49.1,
+      "p_per_ha": 23.6,
+      "k_per_ha": 17.8,
+      "npk_per_ha": 90.4,
+      "n_use_mt": 72.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1987,
+      "n_per_ha": 51.1,
+      "p_per_ha": 24.5,
+      "k_per_ha": 18.4,
+      "npk_per_ha": 94,
+      "n_use_mt": 75.72,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1988,
+      "n_per_ha": 53.7,
+      "p_per_ha": 25.4,
+      "k_per_ha": 18.9,
+      "npk_per_ha": 98,
+      "n_use_mt": 79.52,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1989,
+      "n_per_ha": 53.1,
+      "p_per_ha": 25.3,
+      "k_per_ha": 17.9,
+      "npk_per_ha": 96.3,
+      "n_use_mt": 78.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1990,
+      "n_per_ha": 52,
+      "p_per_ha": 24.3,
+      "k_per_ha": 16.7,
+      "npk_per_ha": 93,
+      "n_use_mt": 77.24,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1991,
+      "n_per_ha": 50.8,
+      "p_per_ha": 23.7,
+      "k_per_ha": 16,
+      "npk_per_ha": 90.5,
+      "n_use_mt": 75.62,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1992,
+      "n_per_ha": 50,
+      "p_per_ha": 21,
+      "k_per_ha": 13.8,
+      "npk_per_ha": 84.8,
+      "n_use_mt": 74.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1993,
+      "n_per_ha": 48.9,
+      "p_per_ha": 19.5,
+      "k_per_ha": 12.8,
+      "npk_per_ha": 81.2,
+      "n_use_mt": 72.61,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1994,
+      "n_per_ha": 49.2,
+      "p_per_ha": 19.9,
+      "k_per_ha": 13.5,
+      "npk_per_ha": 82.7,
+      "n_use_mt": 73.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1995,
+      "n_per_ha": 52.9,
+      "p_per_ha": 20.6,
+      "k_per_ha": 13.9,
+      "npk_per_ha": 87.4,
+      "n_use_mt": 78.65,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1996,
+      "n_per_ha": 55.9,
+      "p_per_ha": 20.9,
+      "k_per_ha": 14,
+      "npk_per_ha": 90.8,
+      "n_use_mt": 83.16,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1997,
+      "n_per_ha": 54.5,
+      "p_per_ha": 22.3,
+      "k_per_ha": 15.2,
+      "npk_per_ha": 92,
+      "n_use_mt": 81.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1998,
+      "n_per_ha": 55.5,
+      "p_per_ha": 22.4,
+      "k_per_ha": 14.8,
+      "npk_per_ha": 92.7,
+      "n_use_mt": 82.78,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 1999,
+      "n_per_ha": 56.8,
+      "p_per_ha": 22.3,
+      "k_per_ha": 14.8,
+      "npk_per_ha": 93.9,
+      "n_use_mt": 84.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2000,
+      "n_per_ha": 54.2,
+      "p_per_ha": 21.7,
+      "k_per_ha": 14.6,
+      "npk_per_ha": 90.5,
+      "n_use_mt": 81.02,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2001,
+      "n_per_ha": 54.8,
+      "p_per_ha": 22.1,
+      "k_per_ha": 15.1,
+      "npk_per_ha": 92,
+      "n_use_mt": 82,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2002,
+      "n_per_ha": 56.5,
+      "p_per_ha": 22.8,
+      "k_per_ha": 15.5,
+      "npk_per_ha": 94.8,
+      "n_use_mt": 84.41,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2003,
+      "n_per_ha": 58.1,
+      "p_per_ha": 23.6,
+      "k_per_ha": 16.4,
+      "npk_per_ha": 98,
+      "n_use_mt": 87.17,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2004,
+      "n_per_ha": 59.4,
+      "p_per_ha": 25,
+      "k_per_ha": 18.3,
+      "npk_per_ha": 102.7,
+      "n_use_mt": 89.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2005,
+      "n_per_ha": 59.6,
+      "p_per_ha": 25.1,
+      "k_per_ha": 18,
+      "npk_per_ha": 102.7,
+      "n_use_mt": 90.1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2006,
+      "n_per_ha": 61.6,
+      "p_per_ha": 26,
+      "k_per_ha": 18,
+      "npk_per_ha": 105.6,
+      "n_use_mt": 93.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2007,
+      "n_per_ha": 63.7,
+      "p_per_ha": 25.7,
+      "k_per_ha": 20.7,
+      "npk_per_ha": 110.2,
+      "n_use_mt": 96.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2008,
+      "n_per_ha": 62.5,
+      "p_per_ha": 23.1,
+      "k_per_ha": 17.6,
+      "npk_per_ha": 103.2,
+      "n_use_mt": 94.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2009,
+      "n_per_ha": 63.9,
+      "p_per_ha": 25.2,
+      "k_per_ha": 15,
+      "npk_per_ha": 104.1,
+      "n_use_mt": 97.16,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2010,
+      "n_per_ha": 66.4,
+      "p_per_ha": 28.4,
+      "k_per_ha": 19.3,
+      "npk_per_ha": 114,
+      "n_use_mt": 101.33,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2011,
+      "n_per_ha": 68.4,
+      "p_per_ha": 28.8,
+      "k_per_ha": 20.7,
+      "npk_per_ha": 117.9,
+      "n_use_mt": 105.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2012,
+      "n_per_ha": 68.2,
+      "p_per_ha": 28.4,
+      "k_per_ha": 20.4,
+      "npk_per_ha": 117,
+      "n_use_mt": 105.12,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2013,
+      "n_per_ha": 69.1,
+      "p_per_ha": 28.6,
+      "k_per_ha": 21.3,
+      "npk_per_ha": 119,
+      "n_use_mt": 106.87,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2014,
+      "n_per_ha": 69.6,
+      "p_per_ha": 28.6,
+      "k_per_ha": 23.3,
+      "npk_per_ha": 121.5,
+      "n_use_mt": 107.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2015,
+      "n_per_ha": 68.4,
+      "p_per_ha": 28.1,
+      "k_per_ha": 21.9,
+      "npk_per_ha": 118.4,
+      "n_use_mt": 106.65,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2016,
+      "n_per_ha": 69,
+      "p_per_ha": 27.9,
+      "k_per_ha": 23.5,
+      "npk_per_ha": 120.3,
+      "n_use_mt": 107.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2017,
+      "n_per_ha": 70.1,
+      "p_per_ha": 28.7,
+      "k_per_ha": 23.9,
+      "npk_per_ha": 122.7,
+      "n_use_mt": 109.96,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2018,
+      "n_per_ha": 69.2,
+      "p_per_ha": 28.1,
+      "k_per_ha": 24.1,
+      "npk_per_ha": 121.4,
+      "n_use_mt": 108.78,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2019,
+      "n_per_ha": 69.1,
+      "p_per_ha": 27.6,
+      "k_per_ha": 23.1,
+      "npk_per_ha": 119.8,
+      "n_use_mt": 108.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2020,
+      "n_per_ha": 72.9,
+      "p_per_ha": 30.3,
+      "k_per_ha": 24.6,
+      "npk_per_ha": 127.9,
+      "n_use_mt": 114.99,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2021,
+      "n_per_ha": 71.5,
+      "p_per_ha": 28.7,
+      "k_per_ha": 25.4,
+      "npk_per_ha": 125.7,
+      "n_use_mt": 113.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2022,
+      "n_per_ha": 69,
+      "p_per_ha": 26.6,
+      "k_per_ha": 22.9,
+      "npk_per_ha": 118.5,
+      "n_use_mt": 109.15,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2023,
+      "n_per_ha": 70.7,
+      "p_per_ha": 26.2,
+      "k_per_ha": 23.8,
+      "npk_per_ha": 120.8,
+      "n_use_mt": 111.99,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "World",
+      "year": 2024,
+      "n_per_ha": 71.3,
+      "p_per_ha": 27.2,
+      "k_per_ha": 23.9,
+      "npk_per_ha": 122.4,
+      "n_use_mt": 115.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1961,
+      "n_per_ha": 2.1,
+      "p_per_ha": 1.6,
+      "k_per_ha": 0.6,
+      "npk_per_ha": 4.3,
+      "n_use_mt": 0.35,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1962,
+      "n_per_ha": 2.3,
+      "p_per_ha": 1.7,
+      "k_per_ha": 0.6,
+      "npk_per_ha": 4.6,
+      "n_use_mt": 0.38,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1963,
+      "n_per_ha": 2.6,
+      "p_per_ha": 1.8,
+      "k_per_ha": 0.7,
+      "npk_per_ha": 5.2,
+      "n_use_mt": 0.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1964,
+      "n_per_ha": 3,
+      "p_per_ha": 1.9,
+      "k_per_ha": 0.9,
+      "npk_per_ha": 5.8,
+      "n_use_mt": 0.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1965,
+      "n_per_ha": 3.2,
+      "p_per_ha": 2.1,
+      "k_per_ha": 0.9,
+      "npk_per_ha": 6.3,
+      "n_use_mt": 0.56,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1966,
+      "n_per_ha": 3.1,
+      "p_per_ha": 2.4,
+      "k_per_ha": 1.1,
+      "npk_per_ha": 6.6,
+      "n_use_mt": 0.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1967,
+      "n_per_ha": 3.5,
+      "p_per_ha": 2.7,
+      "k_per_ha": 1.1,
+      "npk_per_ha": 7.2,
+      "n_use_mt": 0.6,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1968,
+      "n_per_ha": 3.8,
+      "p_per_ha": 2.8,
+      "k_per_ha": 1.2,
+      "npk_per_ha": 7.8,
+      "n_use_mt": 0.67,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1969,
+      "n_per_ha": 4.1,
+      "p_per_ha": 2.8,
+      "k_per_ha": 1.2,
+      "npk_per_ha": 8.1,
+      "n_use_mt": 0.73,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1970,
+      "n_per_ha": 4.7,
+      "p_per_ha": 3.1,
+      "k_per_ha": 1.3,
+      "npk_per_ha": 9.1,
+      "n_use_mt": 0.83,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1971,
+      "n_per_ha": 5.3,
+      "p_per_ha": 3.5,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 10.3,
+      "n_use_mt": 0.95,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1972,
+      "n_per_ha": 5.8,
+      "p_per_ha": 3.8,
+      "k_per_ha": 1.7,
+      "npk_per_ha": 11.3,
+      "n_use_mt": 1.06,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1973,
+      "n_per_ha": 5.8,
+      "p_per_ha": 3.9,
+      "k_per_ha": 1.7,
+      "npk_per_ha": 11.4,
+      "n_use_mt": 1.05,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1974,
+      "n_per_ha": 5.9,
+      "p_per_ha": 4.2,
+      "k_per_ha": 1.9,
+      "npk_per_ha": 12,
+      "n_use_mt": 1.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1975,
+      "n_per_ha": 6.7,
+      "p_per_ha": 4.4,
+      "k_per_ha": 1.7,
+      "npk_per_ha": 12.8,
+      "n_use_mt": 1.23,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1976,
+      "n_per_ha": 7,
+      "p_per_ha": 4.6,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 13.3,
+      "n_use_mt": 1.29,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1977,
+      "n_per_ha": 7,
+      "p_per_ha": 4.7,
+      "k_per_ha": 2,
+      "npk_per_ha": 13.7,
+      "n_use_mt": 1.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1978,
+      "n_per_ha": 7.3,
+      "p_per_ha": 4.8,
+      "k_per_ha": 1.9,
+      "npk_per_ha": 14.1,
+      "n_use_mt": 1.38,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1979,
+      "n_per_ha": 7.9,
+      "p_per_ha": 5,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 14.7,
+      "n_use_mt": 1.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1980,
+      "n_per_ha": 9.3,
+      "p_per_ha": 5.8,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 17.1,
+      "n_use_mt": 1.76,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1981,
+      "n_per_ha": 9.8,
+      "p_per_ha": 6.5,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 18.6,
+      "n_use_mt": 1.87,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1982,
+      "n_per_ha": 9.7,
+      "p_per_ha": 6,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 17.8,
+      "n_use_mt": 1.85,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1983,
+      "n_per_ha": 8.9,
+      "p_per_ha": 5.8,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 16.8,
+      "n_use_mt": 1.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1984,
+      "n_per_ha": 9.3,
+      "p_per_ha": 6.1,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 17.6,
+      "n_use_mt": 1.8,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1985,
+      "n_per_ha": 9.6,
+      "p_per_ha": 6.1,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 17.9,
+      "n_use_mt": 1.9,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1986,
+      "n_per_ha": 10.3,
+      "p_per_ha": 5.8,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 18.4,
+      "n_use_mt": 2.04,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1987,
+      "n_per_ha": 9.8,
+      "p_per_ha": 5.7,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 17.8,
+      "n_use_mt": 1.94,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1988,
+      "n_per_ha": 10.5,
+      "p_per_ha": 5.6,
+      "k_per_ha": 2.4,
+      "npk_per_ha": 18.5,
+      "n_use_mt": 2.1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1989,
+      "n_per_ha": 10,
+      "p_per_ha": 5.3,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 17.6,
+      "n_use_mt": 2.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1990,
+      "n_per_ha": 10.3,
+      "p_per_ha": 5.1,
+      "k_per_ha": 2.4,
+      "npk_per_ha": 17.7,
+      "n_use_mt": 2.1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1991,
+      "n_per_ha": 9.9,
+      "p_per_ha": 4.9,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 17,
+      "n_use_mt": 2.06,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1992,
+      "n_per_ha": 9.6,
+      "p_per_ha": 4.7,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 16.5,
+      "n_use_mt": 2.04,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1993,
+      "n_per_ha": 10.6,
+      "p_per_ha": 5,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 17.8,
+      "n_use_mt": 2.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1994,
+      "n_per_ha": 9.2,
+      "p_per_ha": 4.4,
+      "k_per_ha": 2,
+      "npk_per_ha": 15.6,
+      "n_use_mt": 1.99,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1995,
+      "n_per_ha": 9.5,
+      "p_per_ha": 4.1,
+      "k_per_ha": 1.9,
+      "npk_per_ha": 15.5,
+      "n_use_mt": 2.12,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1996,
+      "n_per_ha": 10.2,
+      "p_per_ha": 4.3,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 16.5,
+      "n_use_mt": 2.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1997,
+      "n_per_ha": 9.9,
+      "p_per_ha": 4.1,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 16.1,
+      "n_use_mt": 2.26,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1998,
+      "n_per_ha": 10.2,
+      "p_per_ha": 4.1,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 16.5,
+      "n_use_mt": 2.34,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 1999,
+      "n_per_ha": 10.4,
+      "p_per_ha": 4.3,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 16.8,
+      "n_use_mt": 2.41,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2000,
+      "n_per_ha": 10.6,
+      "p_per_ha": 4,
+      "k_per_ha": 2,
+      "npk_per_ha": 16.5,
+      "n_use_mt": 2.46,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2001,
+      "n_per_ha": 10.6,
+      "p_per_ha": 4.1,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 16.8,
+      "n_use_mt": 2.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2002,
+      "n_per_ha": 11.7,
+      "p_per_ha": 4.4,
+      "k_per_ha": 2,
+      "npk_per_ha": 18.1,
+      "n_use_mt": 2.76,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2003,
+      "n_per_ha": 10.9,
+      "p_per_ha": 4,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 17,
+      "n_use_mt": 2.65,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2004,
+      "n_per_ha": 12.3,
+      "p_per_ha": 3.9,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 18.3,
+      "n_use_mt": 3.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2005,
+      "n_per_ha": 11.7,
+      "p_per_ha": 3.6,
+      "k_per_ha": 1.9,
+      "npk_per_ha": 17.2,
+      "n_use_mt": 2.92,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2006,
+      "n_per_ha": 12.1,
+      "p_per_ha": 4.3,
+      "k_per_ha": 2.4,
+      "npk_per_ha": 18.8,
+      "n_use_mt": 3.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2007,
+      "n_per_ha": 10.9,
+      "p_per_ha": 4,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 17.1,
+      "n_use_mt": 2.76,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2008,
+      "n_per_ha": 11,
+      "p_per_ha": 3.7,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 16.9,
+      "n_use_mt": 2.84,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2009,
+      "n_per_ha": 11,
+      "p_per_ha": 4.2,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 16.9,
+      "n_use_mt": 2.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2010,
+      "n_per_ha": 12.1,
+      "p_per_ha": 4.7,
+      "k_per_ha": 2,
+      "npk_per_ha": 18.8,
+      "n_use_mt": 3.26,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2011,
+      "n_per_ha": 11.6,
+      "p_per_ha": 4.7,
+      "k_per_ha": 2,
+      "npk_per_ha": 18.2,
+      "n_use_mt": 3.15,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2012,
+      "n_per_ha": 11.3,
+      "p_per_ha": 5.4,
+      "k_per_ha": 2,
+      "npk_per_ha": 18.7,
+      "n_use_mt": 3.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2013,
+      "n_per_ha": 11.9,
+      "p_per_ha": 5.5,
+      "k_per_ha": 2.1,
+      "npk_per_ha": 19.4,
+      "n_use_mt": 3.34,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2014,
+      "n_per_ha": 12,
+      "p_per_ha": 5.4,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 19.7,
+      "n_use_mt": 3.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2015,
+      "n_per_ha": 11.9,
+      "p_per_ha": 5.7,
+      "k_per_ha": 2.3,
+      "npk_per_ha": 19.9,
+      "n_use_mt": 3.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2016,
+      "n_per_ha": 13,
+      "p_per_ha": 5.2,
+      "k_per_ha": 2.4,
+      "npk_per_ha": 20.6,
+      "n_use_mt": 3.81,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2017,
+      "n_per_ha": 14.8,
+      "p_per_ha": 5.8,
+      "k_per_ha": 3.1,
+      "npk_per_ha": 23.7,
+      "n_use_mt": 4.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2018,
+      "n_per_ha": 14,
+      "p_per_ha": 5,
+      "k_per_ha": 3.4,
+      "npk_per_ha": 22.4,
+      "n_use_mt": 4.25,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2019,
+      "n_per_ha": 14.2,
+      "p_per_ha": 5.7,
+      "k_per_ha": 3.5,
+      "npk_per_ha": 23.5,
+      "n_use_mt": 4.29,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2020,
+      "n_per_ha": 17.4,
+      "p_per_ha": 5.9,
+      "k_per_ha": 3.7,
+      "npk_per_ha": 26.9,
+      "n_use_mt": 5.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2021,
+      "n_per_ha": 15.1,
+      "p_per_ha": 6.2,
+      "k_per_ha": 3.5,
+      "npk_per_ha": 24.8,
+      "n_use_mt": 4.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2022,
+      "n_per_ha": 14.1,
+      "p_per_ha": 6,
+      "k_per_ha": 3,
+      "npk_per_ha": 23,
+      "n_use_mt": 4.38,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2023,
+      "n_per_ha": 15.7,
+      "p_per_ha": 5.8,
+      "k_per_ha": 2.9,
+      "npk_per_ha": 24.4,
+      "n_use_mt": 4.87,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Africa",
+      "year": 2024,
+      "n_per_ha": 15.2,
+      "p_per_ha": 6,
+      "k_per_ha": 3.2,
+      "npk_per_ha": 24.5,
+      "n_use_mt": 5.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1961,
+      "n_per_ha": 10.8,
+      "p_per_ha": 9.4,
+      "k_per_ha": 7.2,
+      "npk_per_ha": 27.4,
+      "n_use_mt": 3.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1962,
+      "n_per_ha": 12.5,
+      "p_per_ha": 10.3,
+      "k_per_ha": 7.8,
+      "npk_per_ha": 30.6,
+      "n_use_mt": 4.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1963,
+      "n_per_ha": 14.2,
+      "p_per_ha": 11.2,
+      "k_per_ha": 8.5,
+      "npk_per_ha": 33.9,
+      "n_use_mt": 4.62,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1964,
+      "n_per_ha": 15.3,
+      "p_per_ha": 11.8,
+      "k_per_ha": 9,
+      "npk_per_ha": 36.1,
+      "n_use_mt": 4.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1965,
+      "n_per_ha": 17.1,
+      "p_per_ha": 12.9,
+      "k_per_ha": 9.9,
+      "npk_per_ha": 39.9,
+      "n_use_mt": 5.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1966,
+      "n_per_ha": 19.5,
+      "p_per_ha": 14.3,
+      "k_per_ha": 11.2,
+      "npk_per_ha": 45,
+      "n_use_mt": 6.35,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1967,
+      "n_per_ha": 22.1,
+      "p_per_ha": 15.5,
+      "k_per_ha": 12,
+      "npk_per_ha": 49.6,
+      "n_use_mt": 7.2,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1968,
+      "n_per_ha": 22.7,
+      "p_per_ha": 15.7,
+      "k_per_ha": 12.6,
+      "npk_per_ha": 50.9,
+      "n_use_mt": 7.6,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1969,
+      "n_per_ha": 23.4,
+      "p_per_ha": 15.3,
+      "k_per_ha": 12.6,
+      "npk_per_ha": 51.4,
+      "n_use_mt": 8.06,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1970,
+      "n_per_ha": 25.6,
+      "p_per_ha": 16.1,
+      "k_per_ha": 13.4,
+      "npk_per_ha": 55.1,
+      "n_use_mt": 8.79,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1971,
+      "n_per_ha": 26.2,
+      "p_per_ha": 16.8,
+      "k_per_ha": 13.7,
+      "npk_per_ha": 56.6,
+      "n_use_mt": 9.02,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1972,
+      "n_per_ha": 27.4,
+      "p_per_ha": 18.1,
+      "k_per_ha": 14.6,
+      "npk_per_ha": 60.1,
+      "n_use_mt": 9.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1973,
+      "n_per_ha": 29.5,
+      "p_per_ha": 18.9,
+      "k_per_ha": 16,
+      "npk_per_ha": 64.3,
+      "n_use_mt": 10.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1974,
+      "n_per_ha": 29.5,
+      "p_per_ha": 18.5,
+      "k_per_ha": 15.5,
+      "npk_per_ha": 63.5,
+      "n_use_mt": 10.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1975,
+      "n_per_ha": 32.3,
+      "p_per_ha": 19,
+      "k_per_ha": 16,
+      "npk_per_ha": 67.4,
+      "n_use_mt": 11.35,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1976,
+      "n_per_ha": 35.1,
+      "p_per_ha": 21,
+      "k_per_ha": 18.1,
+      "npk_per_ha": 74.2,
+      "n_use_mt": 12.45,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1977,
+      "n_per_ha": 34.8,
+      "p_per_ha": 21.2,
+      "k_per_ha": 19,
+      "npk_per_ha": 75,
+      "n_use_mt": 12.5,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1978,
+      "n_per_ha": 35,
+      "p_per_ha": 21.4,
+      "k_per_ha": 19.8,
+      "npk_per_ha": 76.3,
+      "n_use_mt": 12.79,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1979,
+      "n_per_ha": 37,
+      "p_per_ha": 22,
+      "k_per_ha": 20.6,
+      "npk_per_ha": 79.6,
+      "n_use_mt": 13.63,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1980,
+      "n_per_ha": 38.8,
+      "p_per_ha": 22.4,
+      "k_per_ha": 21.3,
+      "npk_per_ha": 82.5,
+      "n_use_mt": 14.46,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1981,
+      "n_per_ha": 37.6,
+      "p_per_ha": 19.8,
+      "k_per_ha": 18.7,
+      "npk_per_ha": 76.1,
+      "n_use_mt": 14.08,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1982,
+      "n_per_ha": 34,
+      "p_per_ha": 18,
+      "k_per_ha": 17.1,
+      "npk_per_ha": 69,
+      "n_use_mt": 12.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1983,
+      "n_per_ha": 35.6,
+      "p_per_ha": 17.7,
+      "k_per_ha": 17.3,
+      "npk_per_ha": 70.6,
+      "n_use_mt": 13.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1984,
+      "n_per_ha": 39.3,
+      "p_per_ha": 19.9,
+      "k_per_ha": 19,
+      "npk_per_ha": 78.2,
+      "n_use_mt": 14.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1985,
+      "n_per_ha": 37.8,
+      "p_per_ha": 18.4,
+      "k_per_ha": 18,
+      "npk_per_ha": 74.3,
+      "n_use_mt": 14.4,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1986,
+      "n_per_ha": 37.6,
+      "p_per_ha": 18.7,
+      "k_per_ha": 18.1,
+      "npk_per_ha": 74.4,
+      "n_use_mt": 14.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1987,
+      "n_per_ha": 38.6,
+      "p_per_ha": 19,
+      "k_per_ha": 18.5,
+      "npk_per_ha": 76.2,
+      "n_use_mt": 14.6,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1988,
+      "n_per_ha": 38.5,
+      "p_per_ha": 18.7,
+      "k_per_ha": 18.5,
+      "npk_per_ha": 75.8,
+      "n_use_mt": 14.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1989,
+      "n_per_ha": 39.5,
+      "p_per_ha": 18.2,
+      "k_per_ha": 18.5,
+      "npk_per_ha": 76.1,
+      "n_use_mt": 14.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1990,
+      "n_per_ha": 39.9,
+      "p_per_ha": 17.8,
+      "k_per_ha": 18.4,
+      "npk_per_ha": 76.1,
+      "n_use_mt": 15.04,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1991,
+      "n_per_ha": 40.1,
+      "p_per_ha": 17.9,
+      "k_per_ha": 18,
+      "npk_per_ha": 76,
+      "n_use_mt": 15.09,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1992,
+      "n_per_ha": 40.7,
+      "p_per_ha": 18.3,
+      "k_per_ha": 18.4,
+      "npk_per_ha": 77.4,
+      "n_use_mt": 15.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1993,
+      "n_per_ha": 43.6,
+      "p_per_ha": 19.8,
+      "k_per_ha": 19.8,
+      "npk_per_ha": 83.2,
+      "n_use_mt": 16.23,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1994,
+      "n_per_ha": 43.9,
+      "p_per_ha": 20.8,
+      "k_per_ha": 20.2,
+      "npk_per_ha": 84.8,
+      "n_use_mt": 16.25,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1995,
+      "n_per_ha": 44.6,
+      "p_per_ha": 18.8,
+      "k_per_ha": 20.2,
+      "npk_per_ha": 83.6,
+      "n_use_mt": 16.45,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1996,
+      "n_per_ha": 47.1,
+      "p_per_ha": 21.4,
+      "k_per_ha": 21.8,
+      "npk_per_ha": 90.3,
+      "n_use_mt": 17.29,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1997,
+      "n_per_ha": 47.8,
+      "p_per_ha": 22.3,
+      "k_per_ha": 23.1,
+      "npk_per_ha": 93.2,
+      "n_use_mt": 17.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1998,
+      "n_per_ha": 48.2,
+      "p_per_ha": 21.7,
+      "k_per_ha": 22,
+      "npk_per_ha": 92,
+      "n_use_mt": 17.78,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 1999,
+      "n_per_ha": 48.4,
+      "p_per_ha": 21.3,
+      "k_per_ha": 21.7,
+      "npk_per_ha": 91.4,
+      "n_use_mt": 17.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2000,
+      "n_per_ha": 47.1,
+      "p_per_ha": 22,
+      "k_per_ha": 22.3,
+      "npk_per_ha": 91.5,
+      "n_use_mt": 17.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2001,
+      "n_per_ha": 47.5,
+      "p_per_ha": 23.2,
+      "k_per_ha": 22.7,
+      "npk_per_ha": 93.4,
+      "n_use_mt": 17.6,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2002,
+      "n_per_ha": 48.2,
+      "p_per_ha": 23.2,
+      "k_per_ha": 23.4,
+      "npk_per_ha": 94.8,
+      "n_use_mt": 17.77,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2003,
+      "n_per_ha": 52.1,
+      "p_per_ha": 26.3,
+      "k_per_ha": 26.3,
+      "npk_per_ha": 104.8,
+      "n_use_mt": 19.23,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2004,
+      "n_per_ha": 51.1,
+      "p_per_ha": 28.6,
+      "k_per_ha": 28.3,
+      "npk_per_ha": 107.9,
+      "n_use_mt": 18.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2005,
+      "n_per_ha": 49.8,
+      "p_per_ha": 25.4,
+      "k_per_ha": 23.8,
+      "npk_per_ha": 99.1,
+      "n_use_mt": 18.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2006,
+      "n_per_ha": 52.1,
+      "p_per_ha": 26.2,
+      "k_per_ha": 25.4,
+      "npk_per_ha": 103.8,
+      "n_use_mt": 19.29,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2007,
+      "n_per_ha": 55.5,
+      "p_per_ha": 29,
+      "k_per_ha": 26.9,
+      "npk_per_ha": 111.4,
+      "n_use_mt": 20.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2008,
+      "n_per_ha": 51,
+      "p_per_ha": 23.1,
+      "k_per_ha": 23,
+      "npk_per_ha": 97.2,
+      "n_use_mt": 18.73,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2009,
+      "n_per_ha": 51.6,
+      "p_per_ha": 22.8,
+      "k_per_ha": 20.6,
+      "npk_per_ha": 95,
+      "n_use_mt": 18.83,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2010,
+      "n_per_ha": 56.6,
+      "p_per_ha": 26.8,
+      "k_per_ha": 26.2,
+      "npk_per_ha": 109.6,
+      "n_use_mt": 20.75,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2011,
+      "n_per_ha": 63,
+      "p_per_ha": 30.5,
+      "k_per_ha": 29.1,
+      "npk_per_ha": 122.6,
+      "n_use_mt": 23.08,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2012,
+      "n_per_ha": 62.6,
+      "p_per_ha": 30.6,
+      "k_per_ha": 28.9,
+      "npk_per_ha": 122.1,
+      "n_use_mt": 22.91,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2013,
+      "n_per_ha": 63,
+      "p_per_ha": 33.2,
+      "k_per_ha": 31.7,
+      "npk_per_ha": 127.9,
+      "n_use_mt": 23.16,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2014,
+      "n_per_ha": 63.4,
+      "p_per_ha": 32.8,
+      "k_per_ha": 32.2,
+      "npk_per_ha": 128.4,
+      "n_use_mt": 23.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2015,
+      "n_per_ha": 59.1,
+      "p_per_ha": 30.5,
+      "k_per_ha": 30.1,
+      "npk_per_ha": 119.8,
+      "n_use_mt": 21.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2016,
+      "n_per_ha": 60.3,
+      "p_per_ha": 30.1,
+      "k_per_ha": 32.1,
+      "npk_per_ha": 122.5,
+      "n_use_mt": 22.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2017,
+      "n_per_ha": 63.2,
+      "p_per_ha": 31.9,
+      "k_per_ha": 34.5,
+      "npk_per_ha": 129.5,
+      "n_use_mt": 23.56,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2018,
+      "n_per_ha": 64.8,
+      "p_per_ha": 34.1,
+      "k_per_ha": 35.7,
+      "npk_per_ha": 134.6,
+      "n_use_mt": 24.17,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2019,
+      "n_per_ha": 64.8,
+      "p_per_ha": 32.9,
+      "k_per_ha": 35,
+      "npk_per_ha": 132.7,
+      "n_use_mt": 24.16,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2020,
+      "n_per_ha": 69.6,
+      "p_per_ha": 39.4,
+      "k_per_ha": 37.9,
+      "npk_per_ha": 146.9,
+      "n_use_mt": 26.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2021,
+      "n_per_ha": 70.6,
+      "p_per_ha": 37.2,
+      "k_per_ha": 40.1,
+      "npk_per_ha": 147.9,
+      "n_use_mt": 26.79,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2022,
+      "n_per_ha": 67.3,
+      "p_per_ha": 32.5,
+      "k_per_ha": 37.4,
+      "npk_per_ha": 137.2,
+      "n_use_mt": 25.34,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2023,
+      "n_per_ha": 68.5,
+      "p_per_ha": 30,
+      "k_per_ha": 39.4,
+      "npk_per_ha": 137.8,
+      "n_use_mt": 25.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Americas",
+      "year": 2024,
+      "n_per_ha": 70.7,
+      "p_per_ha": 34.9,
+      "k_per_ha": 41.5,
+      "npk_per_ha": 147.1,
+      "n_use_mt": 26.66,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1961,
+      "n_per_ha": 4.8,
+      "p_per_ha": 2.3,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 8.6,
+      "n_use_mt": 2.12,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1962,
+      "n_per_ha": 5.7,
+      "p_per_ha": 2.5,
+      "k_per_ha": 1.6,
+      "npk_per_ha": 9.7,
+      "n_use_mt": 2.52,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1963,
+      "n_per_ha": 6.3,
+      "p_per_ha": 3.1,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 11.1,
+      "n_use_mt": 2.81,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1964,
+      "n_per_ha": 7.2,
+      "p_per_ha": 3.4,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 12.4,
+      "n_use_mt": 3.24,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1965,
+      "n_per_ha": 8.7,
+      "p_per_ha": 4.1,
+      "k_per_ha": 2,
+      "npk_per_ha": 14.8,
+      "n_use_mt": 3.94,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1966,
+      "n_per_ha": 11.5,
+      "p_per_ha": 5.3,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 18.9,
+      "n_use_mt": 5.2,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1967,
+      "n_per_ha": 11.2,
+      "p_per_ha": 5,
+      "k_per_ha": 2.6,
+      "npk_per_ha": 18.8,
+      "n_use_mt": 5.09,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1968,
+      "n_per_ha": 12.5,
+      "p_per_ha": 5.1,
+      "k_per_ha": 2.7,
+      "npk_per_ha": 20.3,
+      "n_use_mt": 5.68,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1969,
+      "n_per_ha": 14.4,
+      "p_per_ha": 6.1,
+      "k_per_ha": 2.8,
+      "npk_per_ha": 23.2,
+      "n_use_mt": 6.52,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1970,
+      "n_per_ha": 16.6,
+      "p_per_ha": 6.5,
+      "k_per_ha": 2.8,
+      "npk_per_ha": 26,
+      "n_use_mt": 7.55,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1971,
+      "n_per_ha": 17.7,
+      "p_per_ha": 7.3,
+      "k_per_ha": 2.9,
+      "npk_per_ha": 27.9,
+      "n_use_mt": 8.04,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1972,
+      "n_per_ha": 19.8,
+      "p_per_ha": 8.1,
+      "k_per_ha": 3.2,
+      "npk_per_ha": 31.1,
+      "n_use_mt": 9.05,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1973,
+      "n_per_ha": 21.5,
+      "p_per_ha": 9.6,
+      "k_per_ha": 3.9,
+      "npk_per_ha": 35,
+      "n_use_mt": 9.93,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1974,
+      "n_per_ha": 19.4,
+      "p_per_ha": 8.6,
+      "k_per_ha": 4,
+      "npk_per_ha": 32,
+      "n_use_mt": 8.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1975,
+      "n_per_ha": 25,
+      "p_per_ha": 9.2,
+      "k_per_ha": 3.4,
+      "npk_per_ha": 37.6,
+      "n_use_mt": 11.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1976,
+      "n_per_ha": 24.7,
+      "p_per_ha": 9.7,
+      "k_per_ha": 3.6,
+      "npk_per_ha": 38,
+      "n_use_mt": 11.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1977,
+      "n_per_ha": 31.9,
+      "p_per_ha": 11.6,
+      "k_per_ha": 4.1,
+      "npk_per_ha": 47.6,
+      "n_use_mt": 14.77,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1978,
+      "n_per_ha": 38.5,
+      "p_per_ha": 11.6,
+      "k_per_ha": 4.9,
+      "npk_per_ha": 55.1,
+      "n_use_mt": 17.96,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1979,
+      "n_per_ha": 41.8,
+      "p_per_ha": 13.1,
+      "k_per_ha": 5.5,
+      "npk_per_ha": 60.3,
+      "n_use_mt": 19.59,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1980,
+      "n_per_ha": 46,
+      "p_per_ha": 14.9,
+      "k_per_ha": 5.2,
+      "npk_per_ha": 66.1,
+      "n_use_mt": 21.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1981,
+      "n_per_ha": 46.1,
+      "p_per_ha": 15.3,
+      "k_per_ha": 5.9,
+      "npk_per_ha": 67.3,
+      "n_use_mt": 21.69,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1982,
+      "n_per_ha": 48,
+      "p_per_ha": 16.8,
+      "k_per_ha": 5.5,
+      "npk_per_ha": 70.3,
+      "n_use_mt": 22.93,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1983,
+      "n_per_ha": 53.1,
+      "p_per_ha": 18.8,
+      "k_per_ha": 6.3,
+      "npk_per_ha": 78.2,
+      "n_use_mt": 25.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1984,
+      "n_per_ha": 56.8,
+      "p_per_ha": 19.5,
+      "k_per_ha": 6.8,
+      "npk_per_ha": 83.1,
+      "n_use_mt": 28.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1985,
+      "n_per_ha": 54.5,
+      "p_per_ha": 17.6,
+      "k_per_ha": 6.1,
+      "npk_per_ha": 78.2,
+      "n_use_mt": 27.39,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1986,
+      "n_per_ha": 56.4,
+      "p_per_ha": 18.3,
+      "k_per_ha": 6.7,
+      "npk_per_ha": 81.4,
+      "n_use_mt": 28.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1987,
+      "n_per_ha": 61.2,
+      "p_per_ha": 20.4,
+      "k_per_ha": 8.3,
+      "npk_per_ha": 89.9,
+      "n_use_mt": 31.33,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1988,
+      "n_per_ha": 68,
+      "p_per_ha": 23.5,
+      "k_per_ha": 9.4,
+      "npk_per_ha": 100.8,
+      "n_use_mt": 34.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1989,
+      "n_per_ha": 69.3,
+      "p_per_ha": 24.7,
+      "k_per_ha": 8.9,
+      "npk_per_ha": 102.9,
+      "n_use_mt": 35.75,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1990,
+      "n_per_ha": 71.7,
+      "p_per_ha": 26.6,
+      "k_per_ha": 10.4,
+      "npk_per_ha": 108.6,
+      "n_use_mt": 37.11,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1991,
+      "n_per_ha": 73.2,
+      "p_per_ha": 29.3,
+      "k_per_ha": 11.2,
+      "npk_per_ha": 113.8,
+      "n_use_mt": 37.99,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1992,
+      "n_per_ha": 72.5,
+      "p_per_ha": 27.2,
+      "k_per_ha": 9.1,
+      "npk_per_ha": 108.7,
+      "n_use_mt": 40.82,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1993,
+      "n_per_ha": 68.6,
+      "p_per_ha": 24,
+      "k_per_ha": 8.5,
+      "npk_per_ha": 101.1,
+      "n_use_mt": 38.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1994,
+      "n_per_ha": 71.2,
+      "p_per_ha": 26.3,
+      "k_per_ha": 10.7,
+      "npk_per_ha": 108.2,
+      "n_use_mt": 40.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1995,
+      "n_per_ha": 80.7,
+      "p_per_ha": 29.3,
+      "k_per_ha": 11.7,
+      "npk_per_ha": 121.7,
+      "n_use_mt": 45.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1996,
+      "n_per_ha": 85.9,
+      "p_per_ha": 28,
+      "k_per_ha": 11.1,
+      "npk_per_ha": 124.9,
+      "n_use_mt": 48.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1997,
+      "n_per_ha": 82.6,
+      "p_per_ha": 31.7,
+      "k_per_ha": 13.2,
+      "npk_per_ha": 127.4,
+      "n_use_mt": 46.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1998,
+      "n_per_ha": 84.6,
+      "p_per_ha": 32.4,
+      "k_per_ha": 13.5,
+      "npk_per_ha": 130.5,
+      "n_use_mt": 47.61,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 1999,
+      "n_per_ha": 87.7,
+      "p_per_ha": 32.9,
+      "k_per_ha": 14.2,
+      "npk_per_ha": 134.9,
+      "n_use_mt": 49.46,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2000,
+      "n_per_ha": 83.2,
+      "p_per_ha": 31.5,
+      "k_per_ha": 14,
+      "npk_per_ha": 128.8,
+      "n_use_mt": 46.72,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2001,
+      "n_per_ha": 83.6,
+      "p_per_ha": 31.6,
+      "k_per_ha": 15.4,
+      "npk_per_ha": 130.5,
+      "n_use_mt": 47.1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2002,
+      "n_per_ha": 87.5,
+      "p_per_ha": 33.7,
+      "k_per_ha": 16.1,
+      "npk_per_ha": 137.3,
+      "n_use_mt": 49.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2003,
+      "n_per_ha": 89.3,
+      "p_per_ha": 33.6,
+      "k_per_ha": 16.3,
+      "npk_per_ha": 139.1,
+      "n_use_mt": 50.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2004,
+      "n_per_ha": 93.1,
+      "p_per_ha": 36.3,
+      "k_per_ha": 20,
+      "npk_per_ha": 149.4,
+      "n_use_mt": 52.79,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2005,
+      "n_per_ha": 95.7,
+      "p_per_ha": 38.8,
+      "k_per_ha": 22.9,
+      "npk_per_ha": 157.4,
+      "n_use_mt": 54.4,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2006,
+      "n_per_ha": 98.9,
+      "p_per_ha": 40.6,
+      "k_per_ha": 21.3,
+      "npk_per_ha": 160.8,
+      "n_use_mt": 56.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2007,
+      "n_per_ha": 101.1,
+      "p_per_ha": 37.5,
+      "k_per_ha": 27.1,
+      "npk_per_ha": 165.8,
+      "n_use_mt": 57.82,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2008,
+      "n_per_ha": 102.5,
+      "p_per_ha": 36.9,
+      "k_per_ha": 23.8,
+      "npk_per_ha": 163.1,
+      "n_use_mt": 58.45,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2009,
+      "n_per_ha": 107.4,
+      "p_per_ha": 43.9,
+      "k_per_ha": 19.9,
+      "npk_per_ha": 171.1,
+      "n_use_mt": 61.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2010,
+      "n_per_ha": 109.3,
+      "p_per_ha": 48.4,
+      "k_per_ha": 26,
+      "npk_per_ha": 183.7,
+      "n_use_mt": 62.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2011,
+      "n_per_ha": 111,
+      "p_per_ha": 47.3,
+      "k_per_ha": 28.5,
+      "npk_per_ha": 186.8,
+      "n_use_mt": 63.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2012,
+      "n_per_ha": 111.1,
+      "p_per_ha": 45.8,
+      "k_per_ha": 27.9,
+      "npk_per_ha": 184.8,
+      "n_use_mt": 63.61,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2013,
+      "n_per_ha": 112.4,
+      "p_per_ha": 44.8,
+      "k_per_ha": 28.1,
+      "npk_per_ha": 185.3,
+      "n_use_mt": 64.45,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2014,
+      "n_per_ha": 113.2,
+      "p_per_ha": 45.3,
+      "k_per_ha": 33.2,
+      "npk_per_ha": 191.7,
+      "n_use_mt": 64.9,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2015,
+      "n_per_ha": 112.8,
+      "p_per_ha": 45.3,
+      "k_per_ha": 31,
+      "npk_per_ha": 189.1,
+      "n_use_mt": 64.85,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2016,
+      "n_per_ha": 112.3,
+      "p_per_ha": 45.2,
+      "k_per_ha": 33.9,
+      "npk_per_ha": 191.4,
+      "n_use_mt": 64.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2017,
+      "n_per_ha": 112.5,
+      "p_per_ha": 45.7,
+      "k_per_ha": 33.1,
+      "npk_per_ha": 191.3,
+      "n_use_mt": 64.62,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2018,
+      "n_per_ha": 110.7,
+      "p_per_ha": 43.2,
+      "k_per_ha": 32.5,
+      "npk_per_ha": 186.4,
+      "n_use_mt": 63.66,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2019,
+      "n_per_ha": 110.2,
+      "p_per_ha": 42.1,
+      "k_per_ha": 30.3,
+      "npk_per_ha": 182.5,
+      "n_use_mt": 63.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2020,
+      "n_per_ha": 114.2,
+      "p_per_ha": 44.6,
+      "k_per_ha": 31.7,
+      "npk_per_ha": 190.5,
+      "n_use_mt": 65.68,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2021,
+      "n_per_ha": 111.3,
+      "p_per_ha": 41.7,
+      "k_per_ha": 32.6,
+      "npk_per_ha": 185.7,
+      "n_use_mt": 63.96,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2022,
+      "n_per_ha": 110.2,
+      "p_per_ha": 40.7,
+      "k_per_ha": 29.7,
+      "npk_per_ha": 180.5,
+      "n_use_mt": 63.3,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2023,
+      "n_per_ha": 113.1,
+      "p_per_ha": 42.2,
+      "k_per_ha": 30.9,
+      "npk_per_ha": 186.2,
+      "n_use_mt": 65.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Asia",
+      "year": 2024,
+      "n_per_ha": 111.5,
+      "p_per_ha": 40.1,
+      "k_per_ha": 28.9,
+      "npk_per_ha": 180.5,
+      "n_use_mt": 66.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1961,
+      "n_per_ha": 14.1,
+      "p_per_ha": 14.7,
+      "k_per_ha": 13.9,
+      "npk_per_ha": 42.7,
+      "n_use_mt": 5.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1962,
+      "n_per_ha": 15.4,
+      "p_per_ha": 15.4,
+      "k_per_ha": 14.7,
+      "npk_per_ha": 45.5,
+      "n_use_mt": 6.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1963,
+      "n_per_ha": 17.2,
+      "p_per_ha": 17,
+      "k_per_ha": 15.7,
+      "npk_per_ha": 49.9,
+      "n_use_mt": 6.68,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1964,
+      "n_per_ha": 19.6,
+      "p_per_ha": 19.5,
+      "k_per_ha": 17.7,
+      "npk_per_ha": 56.8,
+      "n_use_mt": 7.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1965,
+      "n_per_ha": 22.7,
+      "p_per_ha": 20.7,
+      "k_per_ha": 19.6,
+      "npk_per_ha": 63,
+      "n_use_mt": 8.73,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1966,
+      "n_per_ha": 25.7,
+      "p_per_ha": 22.3,
+      "k_per_ha": 20,
+      "npk_per_ha": 68,
+      "n_use_mt": 9.78,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1967,
+      "n_per_ha": 28.8,
+      "p_per_ha": 23.9,
+      "k_per_ha": 22.2,
+      "npk_per_ha": 75,
+      "n_use_mt": 10.95,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1968,
+      "n_per_ha": 31.9,
+      "p_per_ha": 25.5,
+      "k_per_ha": 22.9,
+      "npk_per_ha": 80.2,
+      "n_use_mt": 12.09,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1969,
+      "n_per_ha": 33.9,
+      "p_per_ha": 26.7,
+      "k_per_ha": 24.2,
+      "npk_per_ha": 84.7,
+      "n_use_mt": 12.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1970,
+      "n_per_ha": 37.7,
+      "p_per_ha": 28.8,
+      "k_per_ha": 26.6,
+      "npk_per_ha": 93.1,
+      "n_use_mt": 14.25,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1971,
+      "n_per_ha": 41.1,
+      "p_per_ha": 30.6,
+      "k_per_ha": 28.8,
+      "npk_per_ha": 100.5,
+      "n_use_mt": 15.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1972,
+      "n_per_ha": 43.4,
+      "p_per_ha": 31.7,
+      "k_per_ha": 30.3,
+      "npk_per_ha": 105.4,
+      "n_use_mt": 16.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1973,
+      "n_per_ha": 46.8,
+      "p_per_ha": 33.3,
+      "k_per_ha": 32.9,
+      "npk_per_ha": 113,
+      "n_use_mt": 17.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1974,
+      "n_per_ha": 48.1,
+      "p_per_ha": 32.4,
+      "k_per_ha": 31.8,
+      "npk_per_ha": 112.3,
+      "n_use_mt": 18.01,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1975,
+      "n_per_ha": 52.4,
+      "p_per_ha": 34.1,
+      "k_per_ha": 35.8,
+      "npk_per_ha": 122.4,
+      "n_use_mt": 19.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1976,
+      "n_per_ha": 53,
+      "p_per_ha": 35.8,
+      "k_per_ha": 37.3,
+      "npk_per_ha": 126,
+      "n_use_mt": 19.78,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1977,
+      "n_per_ha": 54.8,
+      "p_per_ha": 36.8,
+      "k_per_ha": 36.8,
+      "npk_per_ha": 128.4,
+      "n_use_mt": 20.47,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1978,
+      "n_per_ha": 58,
+      "p_per_ha": 39,
+      "k_per_ha": 37.7,
+      "npk_per_ha": 134.6,
+      "n_use_mt": 21.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1979,
+      "n_per_ha": 59.2,
+      "p_per_ha": 39.8,
+      "k_per_ha": 35.7,
+      "npk_per_ha": 134.7,
+      "n_use_mt": 22.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1980,
+      "n_per_ha": 60.7,
+      "p_per_ha": 38.1,
+      "k_per_ha": 35.5,
+      "npk_per_ha": 134.3,
+      "n_use_mt": 22.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1981,
+      "n_per_ha": 61.3,
+      "p_per_ha": 38.3,
+      "k_per_ha": 36.3,
+      "npk_per_ha": 136,
+      "n_use_mt": 22.8,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1982,
+      "n_per_ha": 64.3,
+      "p_per_ha": 38.6,
+      "k_per_ha": 36.1,
+      "npk_per_ha": 139,
+      "n_use_mt": 23.9,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1983,
+      "n_per_ha": 68.5,
+      "p_per_ha": 40.3,
+      "k_per_ha": 39.9,
+      "npk_per_ha": 148.7,
+      "n_use_mt": 25.46,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1984,
+      "n_per_ha": 69,
+      "p_per_ha": 40.6,
+      "k_per_ha": 39.8,
+      "npk_per_ha": 149.4,
+      "n_use_mt": 25.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1985,
+      "n_per_ha": 71.5,
+      "p_per_ha": 42,
+      "k_per_ha": 41.1,
+      "npk_per_ha": 154.6,
+      "n_use_mt": 26.59,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1986,
+      "n_per_ha": 73.4,
+      "p_per_ha": 44,
+      "k_per_ha": 41.2,
+      "npk_per_ha": 158.6,
+      "n_use_mt": 27.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1987,
+      "n_per_ha": 73.7,
+      "p_per_ha": 44,
+      "k_per_ha": 41.4,
+      "npk_per_ha": 159.2,
+      "n_use_mt": 27.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1988,
+      "n_per_ha": 74.4,
+      "p_per_ha": 44.1,
+      "k_per_ha": 41.8,
+      "npk_per_ha": 160.2,
+      "n_use_mt": 27.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1989,
+      "n_per_ha": 69.5,
+      "p_per_ha": 42.8,
+      "k_per_ha": 38.8,
+      "npk_per_ha": 151.1,
+      "n_use_mt": 25.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1990,
+      "n_per_ha": 61.3,
+      "p_per_ha": 37.7,
+      "k_per_ha": 32,
+      "npk_per_ha": 131,
+      "n_use_mt": 22.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1991,
+      "n_per_ha": 54.5,
+      "p_per_ha": 31.1,
+      "k_per_ha": 28.5,
+      "npk_per_ha": 114.1,
+      "n_use_mt": 19.93,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1992,
+      "n_per_ha": 49.2,
+      "p_per_ha": 21.6,
+      "k_per_ha": 24.2,
+      "npk_per_ha": 94.9,
+      "n_use_mt": 15.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1993,
+      "n_per_ha": 46.6,
+      "p_per_ha": 18.3,
+      "k_per_ha": 19.6,
+      "npk_per_ha": 84.5,
+      "n_use_mt": 14.67,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1994,
+      "n_per_ha": 44.5,
+      "p_per_ha": 15.4,
+      "k_per_ha": 18.5,
+      "npk_per_ha": 78.4,
+      "n_use_mt": 13.91,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1995,
+      "n_per_ha": 44.2,
+      "p_per_ha": 15.8,
+      "k_per_ha": 18.6,
+      "npk_per_ha": 78.5,
+      "n_use_mt": 13.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1996,
+      "n_per_ha": 46.2,
+      "p_per_ha": 16.5,
+      "k_per_ha": 18.7,
+      "npk_per_ha": 81.4,
+      "n_use_mt": 14.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1997,
+      "n_per_ha": 45.3,
+      "p_per_ha": 15.6,
+      "k_per_ha": 18.9,
+      "npk_per_ha": 79.8,
+      "n_use_mt": 14.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1998,
+      "n_per_ha": 45.2,
+      "p_per_ha": 15.3,
+      "k_per_ha": 18.1,
+      "npk_per_ha": 78.6,
+      "n_use_mt": 13.91,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 1999,
+      "n_per_ha": 45.7,
+      "p_per_ha": 14.4,
+      "k_per_ha": 17.2,
+      "npk_per_ha": 77.4,
+      "n_use_mt": 13.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2000,
+      "n_per_ha": 43.5,
+      "p_per_ha": 13.5,
+      "k_per_ha": 15.9,
+      "npk_per_ha": 72.8,
+      "n_use_mt": 13.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2001,
+      "n_per_ha": 45,
+      "p_per_ha": 13.3,
+      "k_per_ha": 15.4,
+      "npk_per_ha": 73.6,
+      "n_use_mt": 13.49,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2002,
+      "n_per_ha": 44.3,
+      "p_per_ha": 13.5,
+      "k_per_ha": 15.7,
+      "npk_per_ha": 73.5,
+      "n_use_mt": 13.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2003,
+      "n_per_ha": 45.7,
+      "p_per_ha": 14.3,
+      "k_per_ha": 15.9,
+      "npk_per_ha": 75.8,
+      "n_use_mt": 13.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2004,
+      "n_per_ha": 45.3,
+      "p_per_ha": 13.8,
+      "k_per_ha": 16.1,
+      "npk_per_ha": 75.3,
+      "n_use_mt": 13.37,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2005,
+      "n_per_ha": 44.3,
+      "p_per_ha": 13.7,
+      "k_per_ha": 15.2,
+      "npk_per_ha": 73.2,
+      "n_use_mt": 13.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2006,
+      "n_per_ha": 44.7,
+      "p_per_ha": 13.6,
+      "k_per_ha": 15.8,
+      "npk_per_ha": 74,
+      "n_use_mt": 13.06,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2007,
+      "n_per_ha": 48.2,
+      "p_per_ha": 15.1,
+      "k_per_ha": 17,
+      "npk_per_ha": 80.3,
+      "n_use_mt": 14.03,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2008,
+      "n_per_ha": 46.1,
+      "p_per_ha": 11.3,
+      "k_per_ha": 12.9,
+      "npk_per_ha": 70.2,
+      "n_use_mt": 13.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2009,
+      "n_per_ha": 44.1,
+      "p_per_ha": 9.7,
+      "k_per_ha": 10.9,
+      "npk_per_ha": 64.7,
+      "n_use_mt": 12.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2010,
+      "n_per_ha": 46.7,
+      "p_per_ha": 11.8,
+      "k_per_ha": 14.2,
+      "npk_per_ha": 72.6,
+      "n_use_mt": 13.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2011,
+      "n_per_ha": 47.3,
+      "p_per_ha": 12,
+      "k_per_ha": 13.9,
+      "npk_per_ha": 73.2,
+      "n_use_mt": 13.7,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2012,
+      "n_per_ha": 48,
+      "p_per_ha": 12.4,
+      "k_per_ha": 13.9,
+      "npk_per_ha": 74.3,
+      "n_use_mt": 13.94,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2013,
+      "n_per_ha": 49.4,
+      "p_per_ha": 12.8,
+      "k_per_ha": 14.5,
+      "npk_per_ha": 76.7,
+      "n_use_mt": 14.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2014,
+      "n_per_ha": 49.8,
+      "p_per_ha": 12.2,
+      "k_per_ha": 14.4,
+      "npk_per_ha": 76.3,
+      "n_use_mt": 14.41,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2015,
+      "n_per_ha": 50.6,
+      "p_per_ha": 12.3,
+      "k_per_ha": 14.1,
+      "npk_per_ha": 76.9,
+      "n_use_mt": 14.63,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2016,
+      "n_per_ha": 51.7,
+      "p_per_ha": 12.4,
+      "k_per_ha": 14.1,
+      "npk_per_ha": 78.3,
+      "n_use_mt": 14.93,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2017,
+      "n_per_ha": 53.3,
+      "p_per_ha": 13.2,
+      "k_per_ha": 14.9,
+      "npk_per_ha": 81.4,
+      "n_use_mt": 15.39,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2018,
+      "n_per_ha": 51.4,
+      "p_per_ha": 13.4,
+      "k_per_ha": 15.4,
+      "npk_per_ha": 80.2,
+      "n_use_mt": 14.81,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2019,
+      "n_per_ha": 51.7,
+      "p_per_ha": 13.6,
+      "k_per_ha": 15,
+      "npk_per_ha": 80.2,
+      "n_use_mt": 14.92,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2020,
+      "n_per_ha": 53.8,
+      "p_per_ha": 14.6,
+      "k_per_ha": 16.2,
+      "npk_per_ha": 84.5,
+      "n_use_mt": 15.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2021,
+      "n_per_ha": 53.1,
+      "p_per_ha": 13.6,
+      "k_per_ha": 15.9,
+      "npk_per_ha": 82.5,
+      "n_use_mt": 15.24,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2022,
+      "n_per_ha": 48.1,
+      "p_per_ha": 10.9,
+      "k_per_ha": 13.2,
+      "npk_per_ha": 72.2,
+      "n_use_mt": 13.77,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2023,
+      "n_per_ha": 47.6,
+      "p_per_ha": 11.2,
+      "k_per_ha": 13.3,
+      "npk_per_ha": 72.1,
+      "n_use_mt": 13.64,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Europe",
+      "year": 2024,
+      "n_per_ha": 49.5,
+      "p_per_ha": 11.3,
+      "k_per_ha": 13.9,
+      "npk_per_ha": 74.7,
+      "n_use_mt": 14.16,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1961,
+      "n_per_ha": 2.6,
+      "p_per_ha": 49.9,
+      "k_per_ha": 8.2,
+      "npk_per_ha": 60.6,
+      "n_use_mt": 0.04,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1962,
+      "n_per_ha": 3,
+      "p_per_ha": 47,
+      "k_per_ha": 5.4,
+      "npk_per_ha": 55.3,
+      "n_use_mt": 0.05,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1963,
+      "n_per_ha": 4.6,
+      "p_per_ha": 52.8,
+      "k_per_ha": 7.6,
+      "npk_per_ha": 65,
+      "n_use_mt": 0.08,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1964,
+      "n_per_ha": 4.3,
+      "p_per_ha": 67.8,
+      "k_per_ha": 8.5,
+      "npk_per_ha": 80.6,
+      "n_use_mt": 0.08,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1965,
+      "n_per_ha": 4.3,
+      "p_per_ha": 68.5,
+      "k_per_ha": 9,
+      "npk_per_ha": 81.8,
+      "n_use_mt": 0.08,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1966,
+      "n_per_ha": 4.8,
+      "p_per_ha": 63,
+      "k_per_ha": 8,
+      "npk_per_ha": 75.8,
+      "n_use_mt": 0.1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1967,
+      "n_per_ha": 6.7,
+      "p_per_ha": 56.1,
+      "k_per_ha": 7,
+      "npk_per_ha": 69.7,
+      "n_use_mt": 0.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1968,
+      "n_per_ha": 6.7,
+      "p_per_ha": 54.3,
+      "k_per_ha": 7,
+      "npk_per_ha": 68,
+      "n_use_mt": 0.15,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1969,
+      "n_per_ha": 6.6,
+      "p_per_ha": 55.7,
+      "k_per_ha": 8.2,
+      "npk_per_ha": 70.5,
+      "n_use_mt": 0.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1970,
+      "n_per_ha": 6.8,
+      "p_per_ha": 53.6,
+      "k_per_ha": 10.5,
+      "npk_per_ha": 70.9,
+      "n_use_mt": 0.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1971,
+      "n_per_ha": 7.7,
+      "p_per_ha": 65.3,
+      "k_per_ha": 10.9,
+      "npk_per_ha": 83.8,
+      "n_use_mt": 0.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1972,
+      "n_per_ha": 11.1,
+      "p_per_ha": 74.6,
+      "k_per_ha": 13.6,
+      "npk_per_ha": 99.2,
+      "n_use_mt": 0.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1973,
+      "n_per_ha": 12.9,
+      "p_per_ha": 102.1,
+      "k_per_ha": 17.9,
+      "npk_per_ha": 132.9,
+      "n_use_mt": 0.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1974,
+      "n_per_ha": 12.6,
+      "p_per_ha": 52.6,
+      "k_per_ha": 16.5,
+      "npk_per_ha": 81.7,
+      "n_use_mt": 0.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1975,
+      "n_per_ha": 12.3,
+      "p_per_ha": 58.8,
+      "k_per_ha": 12.8,
+      "npk_per_ha": 83.9,
+      "n_use_mt": 0.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1976,
+      "n_per_ha": 14.9,
+      "p_per_ha": 68.6,
+      "k_per_ha": 14.8,
+      "npk_per_ha": 98.3,
+      "n_use_mt": 0.24,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1977,
+      "n_per_ha": 12.8,
+      "p_per_ha": 71.7,
+      "k_per_ha": 14.6,
+      "npk_per_ha": 99.1,
+      "n_use_mt": 0.21,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1978,
+      "n_per_ha": 13.8,
+      "p_per_ha": 70.6,
+      "k_per_ha": 14,
+      "npk_per_ha": 98.4,
+      "n_use_mt": 0.26,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1979,
+      "n_per_ha": 14.8,
+      "p_per_ha": 69.8,
+      "k_per_ha": 12.7,
+      "npk_per_ha": 97.3,
+      "n_use_mt": 0.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1980,
+      "n_per_ha": 14.4,
+      "p_per_ha": 61.3,
+      "k_per_ha": 12.1,
+      "npk_per_ha": 87.8,
+      "n_use_mt": 0.28,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1981,
+      "n_per_ha": 14.6,
+      "p_per_ha": 57.8,
+      "k_per_ha": 12.8,
+      "npk_per_ha": 85.1,
+      "n_use_mt": 0.29,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1982,
+      "n_per_ha": 14.2,
+      "p_per_ha": 51,
+      "k_per_ha": 11.6,
+      "npk_per_ha": 76.8,
+      "n_use_mt": 0.3,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1983,
+      "n_per_ha": 16.5,
+      "p_per_ha": 52.1,
+      "k_per_ha": 12.7,
+      "npk_per_ha": 81.4,
+      "n_use_mt": 0.35,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1984,
+      "n_per_ha": 16.8,
+      "p_per_ha": 46.7,
+      "k_per_ha": 12.2,
+      "npk_per_ha": 75.7,
+      "n_use_mt": 0.4,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1985,
+      "n_per_ha": 16.8,
+      "p_per_ha": 43.3,
+      "k_per_ha": 10,
+      "npk_per_ha": 70.1,
+      "n_use_mt": 0.39,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1986,
+      "n_per_ha": 16.6,
+      "p_per_ha": 43.5,
+      "k_per_ha": 9.8,
+      "npk_per_ha": 69.9,
+      "n_use_mt": 0.38,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1987,
+      "n_per_ha": 19.4,
+      "p_per_ha": 53.2,
+      "k_per_ha": 10.5,
+      "npk_per_ha": 83.1,
+      "n_use_mt": 0.42,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1988,
+      "n_per_ha": 21.3,
+      "p_per_ha": 51.6,
+      "k_per_ha": 13.3,
+      "npk_per_ha": 86.2,
+      "n_use_mt": 0.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1989,
+      "n_per_ha": 24.7,
+      "p_per_ha": 53.9,
+      "k_per_ha": 14.3,
+      "npk_per_ha": 92.9,
+      "n_use_mt": 0.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1990,
+      "n_per_ha": 26.5,
+      "p_per_ha": 42.4,
+      "k_per_ha": 12.7,
+      "npk_per_ha": 81.6,
+      "n_use_mt": 0.5,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1991,
+      "n_per_ha": 28.3,
+      "p_per_ha": 49.9,
+      "k_per_ha": 13.1,
+      "npk_per_ha": 91.2,
+      "n_use_mt": 0.54,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1992,
+      "n_per_ha": 32.6,
+      "p_per_ha": 61,
+      "k_per_ha": 15.2,
+      "npk_per_ha": 108.8,
+      "n_use_mt": 0.6,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1993,
+      "n_per_ha": 35.9,
+      "p_per_ha": 60.9,
+      "k_per_ha": 16.5,
+      "npk_per_ha": 113.4,
+      "n_use_mt": 0.69,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1994,
+      "n_per_ha": 36.5,
+      "p_per_ha": 66.5,
+      "k_per_ha": 18.2,
+      "npk_per_ha": 121.2,
+      "n_use_mt": 0.73,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1995,
+      "n_per_ha": 44.7,
+      "p_per_ha": 72.3,
+      "k_per_ha": 20,
+      "npk_per_ha": 136.9,
+      "n_use_mt": 0.85,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1996,
+      "n_per_ha": 46.1,
+      "p_per_ha": 65.1,
+      "k_per_ha": 16.4,
+      "npk_per_ha": 127.6,
+      "n_use_mt": 0.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1997,
+      "n_per_ha": 43.3,
+      "p_per_ha": 64.6,
+      "k_per_ha": 17,
+      "npk_per_ha": 124.9,
+      "n_use_mt": 1,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1998,
+      "n_per_ha": 48.7,
+      "p_per_ha": 60.8,
+      "k_per_ha": 15.9,
+      "npk_per_ha": 125.3,
+      "n_use_mt": 1.15,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 1999,
+      "n_per_ha": 50.4,
+      "p_per_ha": 58.4,
+      "k_per_ha": 14.2,
+      "npk_per_ha": 123.1,
+      "n_use_mt": 1.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2000,
+      "n_per_ha": 46.3,
+      "p_per_ha": 61.4,
+      "k_per_ha": 13.6,
+      "npk_per_ha": 121.2,
+      "n_use_mt": 1.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2001,
+      "n_per_ha": 49.6,
+      "p_per_ha": 63.6,
+      "k_per_ha": 15.1,
+      "npk_per_ha": 128.3,
+      "n_use_mt": 1.31,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2002,
+      "n_per_ha": 48.7,
+      "p_per_ha": 54.8,
+      "k_per_ha": 13.6,
+      "npk_per_ha": 117.1,
+      "n_use_mt": 1.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2003,
+      "n_per_ha": 49.6,
+      "p_per_ha": 54.5,
+      "k_per_ha": 15,
+      "npk_per_ha": 119.1,
+      "n_use_mt": 1.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2004,
+      "n_per_ha": 50.9,
+      "p_per_ha": 53.5,
+      "k_per_ha": 15,
+      "npk_per_ha": 119.4,
+      "n_use_mt": 1.43,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2005,
+      "n_per_ha": 46.2,
+      "p_per_ha": 51.8,
+      "k_per_ha": 13.1,
+      "npk_per_ha": 111.1,
+      "n_use_mt": 1.33,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2006,
+      "n_per_ha": 44.6,
+      "p_per_ha": 51.9,
+      "k_per_ha": 13.8,
+      "npk_per_ha": 110.2,
+      "n_use_mt": 1.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2007,
+      "n_per_ha": 46,
+      "p_per_ha": 53.4,
+      "k_per_ha": 14.9,
+      "npk_per_ha": 114.3,
+      "n_use_mt": 1.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2008,
+      "n_per_ha": 44.7,
+      "p_per_ha": 43.7,
+      "k_per_ha": 12.9,
+      "npk_per_ha": 101.3,
+      "n_use_mt": 1.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2009,
+      "n_per_ha": 39.4,
+      "p_per_ha": 29.5,
+      "k_per_ha": 9.2,
+      "npk_per_ha": 78.1,
+      "n_use_mt": 1.17,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2010,
+      "n_per_ha": 47.6,
+      "p_per_ha": 38.7,
+      "k_per_ha": 9.9,
+      "npk_per_ha": 96.2,
+      "n_use_mt": 1.34,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2011,
+      "n_per_ha": 43.2,
+      "p_per_ha": 34.3,
+      "k_per_ha": 8.8,
+      "npk_per_ha": 86.3,
+      "n_use_mt": 1.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2012,
+      "n_per_ha": 44.1,
+      "p_per_ha": 34.3,
+      "k_per_ha": 9.4,
+      "npk_per_ha": 87.8,
+      "n_use_mt": 1.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2013,
+      "n_per_ha": 47.6,
+      "p_per_ha": 32.9,
+      "k_per_ha": 9.8,
+      "npk_per_ha": 90.3,
+      "n_use_mt": 1.61,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2014,
+      "n_per_ha": 52.8,
+      "p_per_ha": 35,
+      "k_per_ha": 11.2,
+      "npk_per_ha": 99,
+      "n_use_mt": 1.83,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2015,
+      "n_per_ha": 52.3,
+      "p_per_ha": 36.3,
+      "k_per_ha": 11.5,
+      "npk_per_ha": 100.1,
+      "n_use_mt": 1.76,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2016,
+      "n_per_ha": 59.1,
+      "p_per_ha": 37.4,
+      "k_per_ha": 12.3,
+      "npk_per_ha": 108.8,
+      "n_use_mt": 1.93,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2017,
+      "n_per_ha": 59,
+      "p_per_ha": 38.6,
+      "k_per_ha": 12.9,
+      "npk_per_ha": 110.5,
+      "n_use_mt": 1.97,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2018,
+      "n_per_ha": 56.5,
+      "p_per_ha": 37.7,
+      "k_per_ha": 13.7,
+      "npk_per_ha": 108,
+      "n_use_mt": 1.9,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2019,
+      "n_per_ha": 54.8,
+      "p_per_ha": 38,
+      "k_per_ha": 13.8,
+      "npk_per_ha": 106.6,
+      "n_use_mt": 1.82,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2020,
+      "n_per_ha": 69.6,
+      "p_per_ha": 39.5,
+      "k_per_ha": 14.6,
+      "npk_per_ha": 123.7,
+      "n_use_mt": 2.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2021,
+      "n_per_ha": 74.7,
+      "p_per_ha": 45.8,
+      "k_per_ha": 17.6,
+      "npk_per_ha": 138,
+      "n_use_mt": 2.55,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2022,
+      "n_per_ha": 69.5,
+      "p_per_ha": 44.7,
+      "k_per_ha": 10.8,
+      "npk_per_ha": 125,
+      "n_use_mt": 2.36,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2023,
+      "n_per_ha": 75.3,
+      "p_per_ha": 28.5,
+      "k_per_ha": 11.4,
+      "npk_per_ha": 115.1,
+      "n_use_mt": 2.56,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Oceania",
+      "year": 2024,
+      "n_per_ha": 93.4,
+      "p_per_ha": 51.8,
+      "k_per_ha": 16.3,
+      "npk_per_ha": 161.5,
+      "n_use_mt": 3.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1961,
+      "n_per_ha": 0.6,
+      "p_per_ha": 0.1,
+      "k_per_ha": 0.1,
+      "npk_per_ha": 0.8,
+      "n_use_mt": 0.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1962,
+      "n_per_ha": 0.6,
+      "p_per_ha": 0.1,
+      "k_per_ha": 0.1,
+      "npk_per_ha": 0.8,
+      "n_use_mt": 0.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1963,
+      "n_per_ha": 0.7,
+      "p_per_ha": 0.2,
+      "k_per_ha": 0.1,
+      "npk_per_ha": 1,
+      "n_use_mt": 0.09,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1964,
+      "n_per_ha": 0.7,
+      "p_per_ha": 0.2,
+      "k_per_ha": 0.1,
+      "npk_per_ha": 1.1,
+      "n_use_mt": 0.09,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1965,
+      "n_per_ha": 0.9,
+      "p_per_ha": 0.3,
+      "k_per_ha": 0.2,
+      "npk_per_ha": 1.3,
+      "n_use_mt": 0.11,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1966,
+      "n_per_ha": 1.1,
+      "p_per_ha": 0.4,
+      "k_per_ha": 0.2,
+      "npk_per_ha": 1.6,
+      "n_use_mt": 0.13,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1967,
+      "n_per_ha": 1.4,
+      "p_per_ha": 0.6,
+      "k_per_ha": 0.2,
+      "npk_per_ha": 2.3,
+      "n_use_mt": 0.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1968,
+      "n_per_ha": 1.6,
+      "p_per_ha": 0.5,
+      "k_per_ha": 0.2,
+      "npk_per_ha": 2.3,
+      "n_use_mt": 0.2,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1969,
+      "n_per_ha": 1.8,
+      "p_per_ha": 0.6,
+      "k_per_ha": 0.3,
+      "npk_per_ha": 2.7,
+      "n_use_mt": 0.23,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1970,
+      "n_per_ha": 1.9,
+      "p_per_ha": 0.7,
+      "k_per_ha": 0.3,
+      "npk_per_ha": 2.9,
+      "n_use_mt": 0.25,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1971,
+      "n_per_ha": 2.1,
+      "p_per_ha": 0.8,
+      "k_per_ha": 0.4,
+      "npk_per_ha": 3.3,
+      "n_use_mt": 0.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1972,
+      "n_per_ha": 2.6,
+      "p_per_ha": 1,
+      "k_per_ha": 0.4,
+      "npk_per_ha": 4,
+      "n_use_mt": 0.34,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1973,
+      "n_per_ha": 2.7,
+      "p_per_ha": 0.9,
+      "k_per_ha": 0.4,
+      "npk_per_ha": 4.1,
+      "n_use_mt": 0.35,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1974,
+      "n_per_ha": 2.5,
+      "p_per_ha": 1,
+      "k_per_ha": 0.5,
+      "npk_per_ha": 4.1,
+      "n_use_mt": 0.33,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1975,
+      "n_per_ha": 3.4,
+      "p_per_ha": 1.2,
+      "k_per_ha": 0.4,
+      "npk_per_ha": 5,
+      "n_use_mt": 0.44,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1976,
+      "n_per_ha": 3.6,
+      "p_per_ha": 1.3,
+      "k_per_ha": 0.5,
+      "npk_per_ha": 5.3,
+      "n_use_mt": 0.47,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1977,
+      "n_per_ha": 3.9,
+      "p_per_ha": 1.7,
+      "k_per_ha": 0.7,
+      "npk_per_ha": 6.2,
+      "n_use_mt": 0.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1978,
+      "n_per_ha": 3.8,
+      "p_per_ha": 1.8,
+      "k_per_ha": 0.7,
+      "npk_per_ha": 6.2,
+      "n_use_mt": 0.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1979,
+      "n_per_ha": 4.3,
+      "p_per_ha": 1.9,
+      "k_per_ha": 0.6,
+      "npk_per_ha": 6.8,
+      "n_use_mt": 0.58,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1980,
+      "n_per_ha": 5,
+      "p_per_ha": 2,
+      "k_per_ha": 0.5,
+      "npk_per_ha": 7.5,
+      "n_use_mt": 0.67,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1981,
+      "n_per_ha": 5,
+      "p_per_ha": 2.2,
+      "k_per_ha": 0.6,
+      "npk_per_ha": 7.9,
+      "n_use_mt": 0.67,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1982,
+      "n_per_ha": 5.6,
+      "p_per_ha": 2.2,
+      "k_per_ha": 0.6,
+      "npk_per_ha": 8.4,
+      "n_use_mt": 0.75,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1983,
+      "n_per_ha": 5.5,
+      "p_per_ha": 2.4,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 8.6,
+      "n_use_mt": 0.74,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1984,
+      "n_per_ha": 6.4,
+      "p_per_ha": 2.6,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 9.8,
+      "n_use_mt": 0.86,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1985,
+      "n_per_ha": 6.3,
+      "p_per_ha": 2.3,
+      "k_per_ha": 0.7,
+      "npk_per_ha": 9.3,
+      "n_use_mt": 0.87,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1986,
+      "n_per_ha": 6.3,
+      "p_per_ha": 2.5,
+      "k_per_ha": 0.7,
+      "npk_per_ha": 9.6,
+      "n_use_mt": 0.87,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1987,
+      "n_per_ha": 6.6,
+      "p_per_ha": 2.7,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 10.1,
+      "n_use_mt": 0.91,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1988,
+      "n_per_ha": 7,
+      "p_per_ha": 2.6,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 10.4,
+      "n_use_mt": 0.98,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1989,
+      "n_per_ha": 7.6,
+      "p_per_ha": 2.9,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 11.3,
+      "n_use_mt": 1.07,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1990,
+      "n_per_ha": 7.4,
+      "p_per_ha": 2.9,
+      "k_per_ha": 0.9,
+      "npk_per_ha": 11.2,
+      "n_use_mt": 1.05,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1991,
+      "n_per_ha": 8,
+      "p_per_ha": 2.8,
+      "k_per_ha": 1,
+      "npk_per_ha": 11.8,
+      "n_use_mt": 1.14,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1992,
+      "n_per_ha": 8.2,
+      "p_per_ha": 3,
+      "k_per_ha": 0.9,
+      "npk_per_ha": 12,
+      "n_use_mt": 1.18,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1993,
+      "n_per_ha": 8.1,
+      "p_per_ha": 2.4,
+      "k_per_ha": 0.8,
+      "npk_per_ha": 11.3,
+      "n_use_mt": 1.19,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1994,
+      "n_per_ha": 8.4,
+      "p_per_ha": 2.7,
+      "k_per_ha": 1.1,
+      "npk_per_ha": 12.1,
+      "n_use_mt": 1.23,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1995,
+      "n_per_ha": 9.3,
+      "p_per_ha": 3,
+      "k_per_ha": 1.1,
+      "npk_per_ha": 13.4,
+      "n_use_mt": 1.39,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1996,
+      "n_per_ha": 10.3,
+      "p_per_ha": 2.6,
+      "k_per_ha": 1.3,
+      "npk_per_ha": 14.1,
+      "n_use_mt": 1.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1997,
+      "n_per_ha": 9.6,
+      "p_per_ha": 2.4,
+      "k_per_ha": 1.3,
+      "npk_per_ha": 13.3,
+      "n_use_mt": 1.47,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1998,
+      "n_per_ha": 9.1,
+      "p_per_ha": 2.9,
+      "k_per_ha": 1.4,
+      "npk_per_ha": 13.5,
+      "n_use_mt": 1.41,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 1999,
+      "n_per_ha": 9.8,
+      "p_per_ha": 3.2,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 14.5,
+      "n_use_mt": 1.53,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2000,
+      "n_per_ha": 9.7,
+      "p_per_ha": 3.2,
+      "k_per_ha": 1.1,
+      "npk_per_ha": 14,
+      "n_use_mt": 1.52,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2001,
+      "n_per_ha": 9.5,
+      "p_per_ha": 2.9,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 13.9,
+      "n_use_mt": 1.5,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2002,
+      "n_per_ha": 10.2,
+      "p_per_ha": 3.4,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 15.1,
+      "n_use_mt": 1.62,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2003,
+      "n_per_ha": 8.6,
+      "p_per_ha": 2.4,
+      "k_per_ha": 1.7,
+      "npk_per_ha": 12.6,
+      "n_use_mt": 1.41,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2004,
+      "n_per_ha": 9.4,
+      "p_per_ha": 3.2,
+      "k_per_ha": 1.8,
+      "npk_per_ha": 14.4,
+      "n_use_mt": 1.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2005,
+      "n_per_ha": 8.9,
+      "p_per_ha": 3.3,
+      "k_per_ha": 2,
+      "npk_per_ha": 14.2,
+      "n_use_mt": 1.51,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2006,
+      "n_per_ha": 9.7,
+      "p_per_ha": 3.1,
+      "k_per_ha": 1.4,
+      "npk_per_ha": 14.1,
+      "n_use_mt": 1.68,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2007,
+      "n_per_ha": 9.3,
+      "p_per_ha": 3.3,
+      "k_per_ha": 1.6,
+      "npk_per_ha": 14.2,
+      "n_use_mt": 1.65,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2008,
+      "n_per_ha": 10.9,
+      "p_per_ha": 2.1,
+      "k_per_ha": 1.9,
+      "npk_per_ha": 14.9,
+      "n_use_mt": 1.96,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2009,
+      "n_per_ha": 10.3,
+      "p_per_ha": 2.9,
+      "k_per_ha": 1.5,
+      "npk_per_ha": 14.7,
+      "n_use_mt": 1.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2010,
+      "n_per_ha": 11.1,
+      "p_per_ha": 3.8,
+      "k_per_ha": 1.7,
+      "npk_per_ha": 16.7,
+      "n_use_mt": 2.12,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2011,
+      "n_per_ha": 11.7,
+      "p_per_ha": 4.6,
+      "k_per_ha": 2.2,
+      "npk_per_ha": 18.5,
+      "n_use_mt": 2.27,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2012,
+      "n_per_ha": 11,
+      "p_per_ha": 5.5,
+      "k_per_ha": 3,
+      "npk_per_ha": 19.5,
+      "n_use_mt": 2.17,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2013,
+      "n_per_ha": 11.5,
+      "p_per_ha": 4.6,
+      "k_per_ha": 2.5,
+      "npk_per_ha": 18.6,
+      "n_use_mt": 2.32,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2014,
+      "n_per_ha": 13.3,
+      "p_per_ha": 5.3,
+      "k_per_ha": 2.5,
+      "npk_per_ha": 21,
+      "n_use_mt": 2.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2015,
+      "n_per_ha": 13.1,
+      "p_per_ha": 5.6,
+      "k_per_ha": 2.7,
+      "npk_per_ha": 21.4,
+      "n_use_mt": 2.71,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2016,
+      "n_per_ha": 13.8,
+      "p_per_ha": 5.9,
+      "k_per_ha": 3.2,
+      "npk_per_ha": 22.9,
+      "n_use_mt": 2.88,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2017,
+      "n_per_ha": 15.2,
+      "p_per_ha": 6.2,
+      "k_per_ha": 3.7,
+      "npk_per_ha": 25,
+      "n_use_mt": 3.22,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2018,
+      "n_per_ha": 15.1,
+      "p_per_ha": 6.1,
+      "k_per_ha": 3.8,
+      "npk_per_ha": 25,
+      "n_use_mt": 3.24,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2019,
+      "n_per_ha": 15.4,
+      "p_per_ha": 7,
+      "k_per_ha": 4.2,
+      "npk_per_ha": 26.5,
+      "n_use_mt": 3.33,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2020,
+      "n_per_ha": 17.5,
+      "p_per_ha": 7.4,
+      "k_per_ha": 4.1,
+      "npk_per_ha": 29,
+      "n_use_mt": 3.82,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2021,
+      "n_per_ha": 15.7,
+      "p_per_ha": 8.1,
+      "k_per_ha": 3.6,
+      "npk_per_ha": 27.4,
+      "n_use_mt": 3.48,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2022,
+      "n_per_ha": 14.4,
+      "p_per_ha": 8.1,
+      "k_per_ha": 4,
+      "npk_per_ha": 26.5,
+      "n_use_mt": 3.2,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2023,
+      "n_per_ha": 16,
+      "p_per_ha": 8.2,
+      "k_per_ha": 4.1,
+      "npk_per_ha": 28.3,
+      "n_use_mt": 3.57,
+      "source": "faostat-rfn"
+    },
+    {
+      "region": "Least developed countries",
+      "year": 2024,
+      "n_per_ha": 16,
+      "p_per_ha": 7.9,
+      "k_per_ha": 4.2,
+      "npk_per_ha": 28.1,
+      "n_use_mt": 3.8,
+      "source": "faostat-rfn"
+    }
+  ]
+}

@@ -10,11 +10,19 @@
     },
     "who-sdg1162": {
       "publisher": "World Health Organization via the UN SDG database (processed by Our World in Data)",
-      "title": "SDG 11.6.2: annual mean levels of fine particulate matter, population-weighted",
+      "title": "SDG 11.6.2: annual mean levels of fine particulate matter in urban areas, population-weighted",
       "url": "https://unstats.un.org/sdgs/dataportal",
       "published": "2026-07-31",
       "method": "reference",
-      "notes": "WHO's official estimate, 2023. Shown alongside SatPM for comparison."
+      "notes": "WHO's official estimate for urban areas (OWID indicator 1298167), 2023. Shown alongside SatPM for comparison; it covers cities and towns, not the whole country."
+    },
+    "aqli": {
+      "publisher": "Energy Policy Institute at the University of Chicago (EPIC), Air Quality Life Index (processed by Our World in Data)",
+      "title": "AQLI: population-weighted PM2.5 from human sources",
+      "url": "https://aqli.epic.uchicago.edu/",
+      "published": "2026-03-30",
+      "method": "reference",
+      "notes": "Annual population-weighted PM2.5 with natural sources such as desert dust and sea salt removed, µg/m³. The countries table's pm25_human column comes from this dataset, not from SatPM."
     },
     "ihme-gbd2023": {
       "publisher": "IHME, Global Burden of Disease Study 2023 (processed by Our World in Data)",

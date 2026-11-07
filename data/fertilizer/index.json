@@ -1,0 +1,72 @@
+{
+  "variant": "fertilizer",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Fertiliser use, production and trade by country",
+      "description": "Agricultural use per hectare of cropland, use, production, imports and exports of nitrogen (N), phosphate (P2O5) and potash (K2O), latest year 2020 to 2024 (FAOSTAT), and net imports as a share of use.",
+      "rows": 201
+    },
+    {
+      "id": "prices",
+      "title": "Fertiliser, gas and grain prices, monthly",
+      "description": "World Bank Pink Sheet, nominal US dollars a tonne (gas: $/mmbtu), January 1960 to 2026-10, with the World Bank fertiliser and food price indices (2010 = 100).",
+      "rows": 802
+    },
+    {
+      "id": "forecasts",
+      "title": "World Bank fertiliser price forecasts",
+      "description": "Annual averages for 2024 and 2025 and forecasts for 2026 to 2028 from the October 2026 Commodity Markets Outlook, with the April 2026 forecasts.",
+      "rows": 6
+    },
+    {
+      "id": "world",
+      "title": "World fertiliser production, use and exports",
+      "description": "Million tonnes of nutrient and kg per hectare of cropland, 1961 to 2024 (FAOSTAT).",
+      "rows": 64
+    },
+    {
+      "id": "regions",
+      "title": "Fertiliser use per hectare by region",
+      "description": "Kg of nutrient per hectare of cropland, 1961 to 2024, by continent and for the least developed countries (FAOSTAT).",
+      "rows": 448
+    },
+    {
+      "id": "producers",
+      "title": "Top producers and exporters by nutrient",
+      "description": "The ten largest producers and exporters of nitrogen, phosphate and potash fertilisers in 2024, with shares of the world total (FAOSTAT).",
+      "rows": 60
+    },
+    {
+      "id": "gulf",
+      "title": "Gulf states' fertiliser exports",
+      "description": "Exports of Bahrain, Iran, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates in 2024, thousand tonnes of nutrient and share of world exports (FAOSTAT).",
+      "rows": 7
+    },
+    {
+      "id": "uk_prices",
+      "title": "UK fertiliser and wheat price indices, monthly",
+      "description": "Defra agricultural price indices, 2020 = 100, January 2014 to 2026-08.",
+      "rows": 152
+    },
+    {
+      "id": "uk_rates",
+      "title": "Fertiliser application rates in Great Britain",
+      "description": "Overall rates, kg of nutrient per hectare, 1992 to 2025, for tillage crops, grassland and both (British Survey of Fertiliser Practice).",
+      "rows": 34
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the two maps.",
+      "rows": 10
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Figures quoted from the World Bank, Defra and Al Jazeera.",
+      "rows": 6
+    }
+  ]
+}

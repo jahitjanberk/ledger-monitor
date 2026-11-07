@@ -1,0 +1,16 @@
+dimension,category,period,services,cost,fee,fx_margin,source
+Paying for the transfer,Bank account transfer,2025 Q3,2229,8.69,6.64,2.05,rpw
+Paying for the transfer,Cash,2025 Q3,1194,7.01,4.97,2.04,rpw
+Paying for the transfer,Mobile money,2025 Q3,54,5.29,2,3.29,rpw
+Paying for the transfer,Credit card,2025 Q3,1350,4.75,2.99,1.76,rpw
+Paying for the transfer,Credit or debit card,2025 Q3,2992,4.39,2.63,1.76,rpw
+Paying for the transfer,Debit card,2025 Q3,1642,4.1,2.34,1.76,rpw
+Provider type,Banks,2025 Q3,1070,14.99,12.49,2.5,rpw
+Provider type,Money transfer operators,2025 Q3,5446,4.73,2.91,1.82,rpw
+Provider type,Mobile operators,2025 Q3,23,4.69,2.01,2.68,rpw
+Provider type,Post offices,2025 Q3,74,4.05,2.49,1.56,rpw
+Where the sender pays,Bank branch,2025 Q3,554,17.61,15.38,2.23,rpw
+Where the sender pays,Call centre,2025 Q3,192,11.7,9.64,2.06,rpw
+Where the sender pays,Agent,2025 Q3,1276,6.4,4.48,1.92,rpw
+Where the sender pays,Mobile phone,2025 Q3,49,5.42,2.25,3.17,rpw
+Where the sender pays,Internet,2025 Q3,4375,4.71,2.83,1.88,rpw

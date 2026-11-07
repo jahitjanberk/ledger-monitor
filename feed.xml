@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ledger Monitor updates</title>
+  <subtitle>New dashboards, data refreshes and features from Ledger Monitor.</subtitle>
+  <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+  <link rel="self" type="application/atom+xml" href="https://jahitjanberk.github.io/ledger-monitor/feed.xml"/>
+  <id>https://jahitjanberk.github.io/ledger-monitor/</id>
+  <updated>2026-11-07T01:00:00Z</updated>
+  <author><name>jahit</name><uri>https://github.com/jahitjanberk</uri></author>
+  <rights>Data: CC BY 4.0 compilation. Code: MIT.</rights>
+  <entry>
+    <title>Two new dashboards, rebuild scripts for every dashboard, and data corrections</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-fertiliser-remittances</id>
+    <updated>2026-11-07T01:00:00Z</updated>
+    <summary>Fertiliser Prices &amp; Supply (World Bank, FAOSTAT and Defra) and The Cost of Sending Money Home (World Bank Remittance Prices Worldwide and the UN SDG database) join the monitor. Every dashboard can now be rebuilt from its raw downloads. Rebuilding the Internet data fixed a duplicate cable and three misread cable lengths, so 26 countries, not 27, hang on a single cable; the Air dashboard now labels WHO&apos;s figure as urban areas and credits the Air Quality Life Index for pollution from human sources.</summary>
+  </entry>
+  <entry>
+    <title>Three new dashboards: Medicines, Household Energy and Vaccination</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-06-three-dashboards</id>
+    <updated>2026-11-06T23:30:00Z</updated>
+    <summary>Medicine Shortages &amp; Supply (FDA, EMA, UN Comtrade and NHS data), Household Energy Prices &amp; Poverty (World Bank, Eurostat, Ofgem and DESNZ) and Vaccination &amp; Health Workers (WHO/UNICEF coverage estimates, WHO workforce data and UKHSA) join the monitor, each with a script to rebuild its tables and figures on the country profiles.</summary>
+  </entry>
+  <entry>
+    <title>Country profiles, comparisons, search and embeddable charts</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/country/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-06-countries</id>
+    <updated>2026-11-06T21:30:00Z</updated>
+    <summary>Every country now has a profile page that brings its figures from all the dashboards together, each cited and ranked against other countries. You can compare up to four countries side by side, search the hub for a country, dashboard or mineral, and embed any dashboard&apos;s headline chart on your own site.</summary>
+  </entry>
+  <entry>
+    <title>Four new dashboards: Food, Debt, Heat and Critical Minerals</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-06-four-dashboards</id>
+    <updated>2026-11-06T20:20:49Z</updated>
+    <summary>Food Prices &amp; Hunger, Debt vs Public Services, Extreme Heat and Critical Minerals join the monitor, each built from FAO, IMF, World Bank, Copernicus, USGS and IEA data, with scripts to rebuild their tables from fresh downloads.</summary>
+  </entry>
+  <entry>
+    <title>Eight open-data dashboards</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-06-launch</id>
+    <updated>2026-11-06T16:40:24Z</updated>
+    <summary>Chokepoints, Electricity Mix &amp; Grid Carbon, The Air We Breathe, Housing Affordability, Water Stress, The Scam Economy, Where the Internet Lives and Who Owns Orbit, with every number linked to its source and all data free to download.</summary>
+  </entry>
+</feed>

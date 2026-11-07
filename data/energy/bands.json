@@ -1,0 +1,127 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the three maps.",
+  "records": [
+    {
+      "map": "cooking",
+      "band": "Under 5%",
+      "min": null,
+      "max": 5,
+      "unit": "% of people without clean cooking",
+      "source": "wb-cook"
+    },
+    {
+      "map": "cooking",
+      "band": "5 to 25%",
+      "min": 5,
+      "max": 25,
+      "unit": "% of people without clean cooking",
+      "source": "wb-cook"
+    },
+    {
+      "map": "cooking",
+      "band": "25 to 50%",
+      "min": 25,
+      "max": 50,
+      "unit": "% of people without clean cooking",
+      "source": "wb-cook"
+    },
+    {
+      "map": "cooking",
+      "band": "50 to 75%",
+      "min": 50,
+      "max": 75,
+      "unit": "% of people without clean cooking",
+      "source": "wb-cook"
+    },
+    {
+      "map": "cooking",
+      "band": "75% or more",
+      "min": 75,
+      "max": null,
+      "unit": "% of people without clean cooking",
+      "source": "wb-cook"
+    },
+    {
+      "map": "electricity",
+      "band": "Under 1%",
+      "min": null,
+      "max": 1,
+      "unit": "% of people without electricity",
+      "source": "wb-elec"
+    },
+    {
+      "map": "electricity",
+      "band": "1 to 10%",
+      "min": 1,
+      "max": 10,
+      "unit": "% of people without electricity",
+      "source": "wb-elec"
+    },
+    {
+      "map": "electricity",
+      "band": "10 to 25%",
+      "min": 10,
+      "max": 25,
+      "unit": "% of people without electricity",
+      "source": "wb-elec"
+    },
+    {
+      "map": "electricity",
+      "band": "25 to 50%",
+      "min": 25,
+      "max": 50,
+      "unit": "% of people without electricity",
+      "source": "wb-elec"
+    },
+    {
+      "map": "electricity",
+      "band": "50% or more",
+      "min": 50,
+      "max": null,
+      "unit": "% of people without electricity",
+      "source": "wb-elec"
+    },
+    {
+      "map": "warm",
+      "band": "Under 3%",
+      "min": null,
+      "max": 3,
+      "unit": "% of people who can't keep their home warm",
+      "source": "es-warm"
+    },
+    {
+      "map": "warm",
+      "band": "3 to 6%",
+      "min": 3,
+      "max": 6,
+      "unit": "% of people who can't keep their home warm",
+      "source": "es-warm"
+    },
+    {
+      "map": "warm",
+      "band": "6 to 10%",
+      "min": 6,
+      "max": 10,
+      "unit": "% of people who can't keep their home warm",
+      "source": "es-warm"
+    },
+    {
+      "map": "warm",
+      "band": "10 to 20%",
+      "min": 10,
+      "max": 20,
+      "unit": "% of people who can't keep their home warm",
+      "source": "es-warm"
+    },
+    {
+      "map": "warm",
+      "band": "20% or more",
+      "min": 20,
+      "max": null,
+      "unit": "% of people who can't keep their home warm",
+      "source": "es-warm"
+    }
+  ]
+}

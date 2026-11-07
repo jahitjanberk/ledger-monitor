@@ -1,0 +1,24 @@
+id,label,value,unit,note,source
+target,"SDG target 10.c: by 2030, reduce remittance costs to less than 3% of the amount sent and eliminate corridors costing more than 5%",3,%,5% for every corridor,sdg-target
+global,"Global average cost of sending $200, Q3 2025",6.36,%,Down from 6.49% in Q1 2025 and 9.67% in Q1 2009,rpw-report
+global2009,"Global average cost of sending $200, Q1 2009",9.67,%,,rpw-report
+digital,"Global average cost of digital remittances, Q3 2025",4.59,%,Non-digital remittances: 7.30%. Digital services were 35% of those surveyed,rpw-report
+nondigital,"Global average cost of non-digital remittances, Q3 2025",7.3,%,,rpw-report
+digitalshare,"Share of surveyed services that are digital, Q3 2025",35,%,,rpw-report
+smart,"Global SmaRT average (three cheapest qualifying services in each corridor), Q3 2025",3.29,%,Unchanged from Q1 2025,rpw-report
+weighted,"Global weighted average cost, weighted by estimated flows in each corridor, Q3 2025",5.04,%,,rpw-report
+mtoindex,"International MTO Index (MTOs in more than 85% of corridors), Q3 2025",5.52,%,Digital-only MTO Index: 3.54%,rpw-report
+digitalmto,"Digital-only MTO Index, Q3 2025",3.54,%,,rpw-report
+banks,"Average cost of sending $200 through a bank, Q3 2025",14.99,%,Banks remain the costliest type of provider,rpw-report
+mtos,"Average cost of sending $200 through a money transfer operator, Q3 2025",4.72,%,,rpw-report
+under10,"Share of corridors with an average cost below 10%, Q3 2025",83,%,53% in Q1 2009,rpw-report
+smart5,"Share of corridors whose SmaRT average is below 5%, Q3 2025",78,%,Excluding nine corridors from Russia,rpw-report
+over20,"Corridors with an average cost above 20%, Q3 2025",13,corridors,Nine of them start in Sub-Saharan Africa,rpw-report
+nosmart,"Corridors with no SmaRT-qualifying service, Q3 2025",20,corridors,Nine of them to Sub-Saharan Africa,rpw-report
+corridors,"Corridors covered by RPW, Q3 2025",358,corridors,48 sending and 102 receiving countries; on average 19 services per corridor,rpw-report
+g8,"Average cost of sending from G8 countries, Q3 2025",5.4,%,5.99% in Q1 2025,rpw-report
+g20,"Average cost of sending from G20 countries, Q3 2025",6.39,%,,rpw-report
+southafrica,"Average cost of sending from South Africa, the costliest G20 sending country, Q3 2025",15.65,%,,rpw-report
+ukg20,"Average cost of sending from the UK, Q3 2025: second cheapest G20 sending country after Germany (4.49%)",4.61,%,5.20% in Q1 2025,rpw-report
+cards,"Average cost when paying by credit or debit card, the cheapest way to fund a transfer, Q3 2025",4.39,%,"Bank account 8.69%, cash 7.01%, mobile money 5.29%",rpw-report
+wallet,"Average cost when the money is received into a mobile wallet, Q3 2025",3.92,%,Cash pick-up 5.56%; bank account 7.86%,rpw-report

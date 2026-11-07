@@ -1,0 +1,57 @@
+{
+  "id": "uk_nations",
+  "title": "Vaccination coverage at 5 years by UK nation, 2025/26",
+  "description": "Six-in-one, pre-school booster, MMR1 and MMR2 coverage at 5 years, April 2025 to March 2026 (UKHSA COVER).",
+  "records": [
+    {
+      "area": "United Kingdom",
+      "fiscal_year": "2025/26",
+      "children_5y": 731430,
+      "six_in_one_5y": 93.3,
+      "booster_5y": 82.9,
+      "mmr1_5y": 92.5,
+      "mmr2_5y": 84.4,
+      "source": "ukhsa-cover"
+    },
+    {
+      "area": "England",
+      "fiscal_year": "2025/26",
+      "children_5y": 628371,
+      "six_in_one_5y": 92.9,
+      "booster_5y": 81.9,
+      "mmr1_5y": 92.1,
+      "mmr2_5y": 83.8,
+      "source": "ukhsa-cover"
+    },
+    {
+      "area": "Wales",
+      "fiscal_year": "2025/26",
+      "children_5y": 30214,
+      "six_in_one_5y": 95.3,
+      "booster_5y": 89.2,
+      "mmr1_5y": 94.9,
+      "mmr2_5y": 89.3,
+      "source": "ukhsa-cover"
+    },
+    {
+      "area": "Scotland",
+      "fiscal_year": "2025/26",
+      "children_5y": 50133,
+      "six_in_one_5y": 96.6,
+      "booster_5y": 90.2,
+      "mmr1_5y": 95.4,
+      "mmr2_5y": 89.7,
+      "source": "ukhsa-cover"
+    },
+    {
+      "area": "Northern Ireland",
+      "fiscal_year": "2025/26",
+      "children_5y": 22712,
+      "six_in_one_5y": 94,
+      "booster_5y": 84.5,
+      "mmr1_5y": 92.7,
+      "mmr2_5y": 84.3,
+      "source": "ukhsa-cover"
+    }
+  ]
+}

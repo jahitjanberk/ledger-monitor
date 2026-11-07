@@ -1,0 +1,167 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the four maps.",
+  "records": [
+    {
+      "map": "dtp3",
+      "band": "95% or more",
+      "min": 95,
+      "max": null,
+      "unit": "DTP3 coverage, % of infants",
+      "source": "wuenic"
+    },
+    {
+      "map": "dtp3",
+      "band": "90 to 95%",
+      "min": 90,
+      "max": 95,
+      "unit": "DTP3 coverage, % of infants",
+      "source": "wuenic"
+    },
+    {
+      "map": "dtp3",
+      "band": "80 to 90%",
+      "min": 80,
+      "max": 90,
+      "unit": "DTP3 coverage, % of infants",
+      "source": "wuenic"
+    },
+    {
+      "map": "dtp3",
+      "band": "60 to 80%",
+      "min": 60,
+      "max": 80,
+      "unit": "DTP3 coverage, % of infants",
+      "source": "wuenic"
+    },
+    {
+      "map": "dtp3",
+      "band": "Under 60%",
+      "min": null,
+      "max": 60,
+      "unit": "DTP3 coverage, % of infants",
+      "source": "wuenic"
+    },
+    {
+      "map": "zero",
+      "band": "Under 2%",
+      "min": null,
+      "max": 2,
+      "unit": "% of infants with no DTP dose",
+      "source": "wuenic"
+    },
+    {
+      "map": "zero",
+      "band": "2 to 5%",
+      "min": 2,
+      "max": 5,
+      "unit": "% of infants with no DTP dose",
+      "source": "wuenic"
+    },
+    {
+      "map": "zero",
+      "band": "5 to 10%",
+      "min": 5,
+      "max": 10,
+      "unit": "% of infants with no DTP dose",
+      "source": "wuenic"
+    },
+    {
+      "map": "zero",
+      "band": "10 to 20%",
+      "min": 10,
+      "max": 20,
+      "unit": "% of infants with no DTP dose",
+      "source": "wuenic"
+    },
+    {
+      "map": "zero",
+      "band": "20% or more",
+      "min": 20,
+      "max": null,
+      "unit": "% of infants with no DTP dose",
+      "source": "wuenic"
+    },
+    {
+      "map": "measles",
+      "band": "Under 1",
+      "min": null,
+      "max": 1,
+      "unit": "reported measles cases per million people",
+      "source": "who-cases"
+    },
+    {
+      "map": "measles",
+      "band": "1 to 10",
+      "min": 1,
+      "max": 10,
+      "unit": "reported measles cases per million people",
+      "source": "who-cases"
+    },
+    {
+      "map": "measles",
+      "band": "10 to 50",
+      "min": 10,
+      "max": 50,
+      "unit": "reported measles cases per million people",
+      "source": "who-cases"
+    },
+    {
+      "map": "measles",
+      "band": "50 to 200",
+      "min": 50,
+      "max": 200,
+      "unit": "reported measles cases per million people",
+      "source": "who-cases"
+    },
+    {
+      "map": "measles",
+      "band": "200 or more",
+      "min": 200,
+      "max": null,
+      "unit": "reported measles cases per million people",
+      "source": "who-cases"
+    },
+    {
+      "map": "nurses",
+      "band": "100 or more",
+      "min": 100,
+      "max": null,
+      "unit": "nurses and midwives per 10,000 people",
+      "source": "who-nhwa"
+    },
+    {
+      "map": "nurses",
+      "band": "50 to 100",
+      "min": 50,
+      "max": 100,
+      "unit": "nurses and midwives per 10,000 people",
+      "source": "who-nhwa"
+    },
+    {
+      "map": "nurses",
+      "band": "25 to 50",
+      "min": 25,
+      "max": 50,
+      "unit": "nurses and midwives per 10,000 people",
+      "source": "who-nhwa"
+    },
+    {
+      "map": "nurses",
+      "band": "10 to 25",
+      "min": 10,
+      "max": 25,
+      "unit": "nurses and midwives per 10,000 people",
+      "source": "who-nhwa"
+    },
+    {
+      "map": "nurses",
+      "band": "Under 10",
+      "min": null,
+      "max": 10,
+      "unit": "nurses and midwives per 10,000 people",
+      "source": "who-nhwa"
+    }
+  ]
+}

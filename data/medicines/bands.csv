@@ -1,0 +1,16 @@
+map,band,min,max,unit,source
+exports,Under $100m,0,0.1,"US$ billion, pharmaceutical exports (HS 30)",comtrade
+exports,$100m to $1bn,0.1,1,"US$ billion, pharmaceutical exports (HS 30)",comtrade
+exports,$1bn to $10bn,1,10,"US$ billion, pharmaceutical exports (HS 30)",comtrade
+exports,$10bn to $50bn,10,50,"US$ billion, pharmaceutical exports (HS 30)",comtrade
+exports,$50bn or more,50,,"US$ billion, pharmaceutical exports (HS 30)",comtrade
+net,Imports exceed exports by $5bn+,,-5,"US$ billion, exports minus imports (HS 30)",comtrade
+net,Imports exceed exports by $1–5bn,-5,-1,"US$ billion, exports minus imports (HS 30)",comtrade
+net,Within $1bn either way,-1,1,"US$ billion, exports minus imports (HS 30)",comtrade
+net,Exports exceed imports by $1–10bn,1,10,"US$ billion, exports minus imports (HS 30)",comtrade
+net,Exports exceed imports by $10bn+,10,,"US$ billion, exports minus imports (HS 30)",comtrade
+abx,Under $1m,0,1,"US$ million, antibiotic exports (HS 2941)",comtrade
+abx,$1m to $10m,1,10,"US$ million, antibiotic exports (HS 2941)",comtrade
+abx,$10m to $100m,10,100,"US$ million, antibiotic exports (HS 2941)",comtrade
+abx,$100m to $1bn,100,1000,"US$ million, antibiotic exports (HS 2941)",comtrade
+abx,$1bn or more,1000,,"US$ million, antibiotic exports (HS 2941)",comtrade
