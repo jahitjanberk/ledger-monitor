@@ -205,8 +205,8 @@ const ve = SOURCES,
       <section class="em-sec" id="risk">
         <div class="em-sec-h"><div><p class="em-eyebrow"><span class="num">06</span>Bubble risk</p><h2>Expensive isn't the same as <span class="accent">overvalued</span></h2></div></div>
         <div class="em-card">
-          <p class="em-eyebrow">UBS Global Real Estate Bubble Index 2025</p>
-          <p class="note">UBS rates how far prices have drifted from incomes, rents and the wider economy. Hong Kong is the least affordable market in the Demographia survey, yet UBS rates its bubble risk as low.</p>
+          <p class="em-eyebrow">UBS Global Real Estate Bubble Index 2026</p>
+          <p class="note">UBS rates how far prices have drifted from incomes, rents and the wider economy. Hong Kong is the least affordable market in the Demographia survey, yet UBS rates its bubble risk only as moderate.</p>
           <div class="hs-risk" id="hs-risk"></div>
           <div class="em-cites"></div>
         </div>
@@ -582,7 +582,7 @@ const ve = SOURCES,
           step("uk", "05", "Close-up · England", `In Kensington and Chelsea, a home costs <span class="accent"><b ${s(kc.source)}>${l(kc.ratio)} times</b></span> a full-time salary.`,
             `The ONS measure uses one worker's earnings, so it runs higher than Demographia's. England as a whole is <b ${s(eng.source)}>${l(eng.ratio)}</b>.`),
           step("bubble", "06", "Bubble risk", `Expensive isn't the same as <span class="accent">overvalued</span>.`,
-            `UBS rates Hong Kong's bubble risk as <b ${s(hkRisk.source)}>${d(hkRisk.risk.toLowerCase())}</b>, while Miami, far cheaper relative to income, is rated <b ${s(miami.source)}>${d(miami.risk.toLowerCase())}</b>.`),
+            `UBS rates Hong Kong's bubble risk as <b ${s(hkRisk.source)}>${d(hkRisk.risk.toLowerCase())}</b>. Miami, far cheaper relative to income, is a level higher at <b ${s(miami.source)}>${d(miami.risk.toLowerCase())}</b>, down from the top of the index in the previous two editions. Only Zurich and Tokyo are rated high.`),
           step("end", "07", "Explore", `Find <span class="accent">your market</span>.`,
             "The dashboard has the full map, a deposit calculator for every market, the ONS ratios and every source.",
             '<p style="margin-top:24px"><span class="em-toggle"><button type="button" class="em-todash">Open the dashboard</button></span></p>'),
@@ -595,7 +595,7 @@ const ve = SOURCES,
         if (e === "nations") return '<p class="vt">National median multiple · Q3 2025</p><div class="em-bars"></div>';
         if (e === "deposit") return '<p class="vt">Years to save a 20% deposit at 10% of income</p><div class="em-bars"></div>';
         if (e === "uk") return '<p class="vt">House price to earnings · ONS 2025</p><div class="em-bars"></div>';
-        if (e === "bubble") return `<p class="vt">UBS bubble risk · 2025</p><div class="hs-risk">${t.querySelector("#hs-risk").innerHTML}</div>`;
+        if (e === "bubble") return `<p class="vt">UBS bubble risk · 2026</p><div class="hs-risk">${t.querySelector("#hs-risk").innerHTML}</div>`;
         return "";
       }
       function K(e, a, o, g, m = !1) {

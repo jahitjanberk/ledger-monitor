@@ -239,8 +239,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 42.1,
-      "food_share_year": 2023,
+      "food_share": 48.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -629,8 +629,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 59.3,
-      "food_share_year": 2023,
+      "food_share": 56.2,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -659,8 +659,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 38.6,
-      "food_share_year": 2023,
+      "food_share": 34.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -749,8 +749,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 37.9,
-      "food_share_year": 2023,
+      "food_share": 39.2,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -779,8 +779,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 29.3,
-      "food_share_year": 2023,
+      "food_share": 28.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -839,8 +839,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 26.2,
-      "food_share_year": 2023,
+      "food_share": 45.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -989,8 +989,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 50,
-      "food_share_year": 2023,
+      "food_share": 38.2,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1079,8 +1079,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 37.8,
-      "food_share_year": 2023,
+      "food_share": 32.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1169,8 +1169,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 31.5,
-      "food_share_year": 2023,
+      "food_share": 30.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1199,8 +1199,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 28.7,
-      "food_share_year": 2023,
+      "food_share": 34.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1259,8 +1259,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 35.1,
-      "food_share_year": 2023,
+      "food_share": 40.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1319,8 +1319,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 25,
-      "food_share_year": 2023,
+      "food_share": 24.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1409,8 +1409,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 37.7,
-      "food_share_year": 2023,
+      "food_share": 42.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1439,8 +1439,8 @@
       "inflation_month": "2026-05",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 16.1,
-      "food_share_year": 2023,
+      "food_share": 16.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1499,8 +1499,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 37.1,
-      "food_share_year": 2023,
+      "food_share": 20.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1559,8 +1559,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 25.9,
-      "food_share_year": 2023,
+      "food_share": 23.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1589,8 +1589,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 41.7,
-      "food_share_year": 2023,
+      "food_share": 41.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1679,8 +1679,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 50.5,
-      "food_share_year": 2023,
+      "food_share": 53.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1709,8 +1709,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 29.9,
-      "food_share_year": 2023,
+      "food_share": 28.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1769,8 +1769,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 36.9,
-      "food_share_year": 2023,
+      "food_share": 33,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1799,8 +1799,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 52.8,
-      "food_share_year": 2023,
+      "food_share": 29.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1949,8 +1949,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 18.7,
-      "food_share_year": 2023,
+      "food_share": 21.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -1979,8 +1979,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 27.9,
-      "food_share_year": 2023,
+      "food_share": 27.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2009,8 +2009,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 34.5,
-      "food_share_year": 2023,
+      "food_share": 34.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2039,8 +2039,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 39.1,
-      "food_share_year": 2023,
+      "food_share": 38.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2069,8 +2069,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 33.5,
-      "food_share_year": 2023,
+      "food_share": 33.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2099,8 +2099,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 34.9,
-      "food_share_year": 2023,
+      "food_share": 26.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2159,8 +2159,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 26.9,
-      "food_share_year": 2023,
+      "food_share": 23.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2219,8 +2219,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 25.9,
-      "food_share_year": 2023,
+      "food_share": 24.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2249,8 +2249,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 26.7,
-      "food_share_year": 2023,
+      "food_share": 26.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2309,8 +2309,8 @@
       "inflation_month": null,
       "inflation_band": null,
       "inflation_source": null,
-      "food_share": 52,
-      "food_share_year": 2023,
+      "food_share": 18.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2399,8 +2399,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 45.8,
-      "food_share_year": 2023,
+      "food_share": 42.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2459,8 +2459,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 27.1,
-      "food_share_year": 2023,
+      "food_share": 29.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2519,8 +2519,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 40.7,
-      "food_share_year": 2023,
+      "food_share": 34,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2549,8 +2549,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 15.4,
-      "food_share_year": 2023,
+      "food_share": 17.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2579,8 +2579,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 53.9,
-      "food_share_year": 2023,
+      "food_share": 54.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2639,8 +2639,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 20.6,
-      "food_share_year": 2023,
+      "food_share": 22,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2699,8 +2699,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 29.3,
-      "food_share_year": 2023,
+      "food_share": 27.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2729,8 +2729,8 @@
       "inflation_month": null,
       "inflation_band": null,
       "inflation_source": null,
-      "food_share": 36.5,
-      "food_share_year": 2023,
+      "food_share": 46.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2819,8 +2819,8 @@
       "inflation_month": null,
       "inflation_band": null,
       "inflation_source": null,
-      "food_share": 13.8,
-      "food_share_year": 2023,
+      "food_share": 12.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2879,8 +2879,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 37.3,
-      "food_share_year": 2023,
+      "food_share": 35.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2939,8 +2939,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 25.7,
-      "food_share_year": 2023,
+      "food_share": 25.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -2999,8 +2999,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 23.1,
-      "food_share_year": 2023,
+      "food_share": 26.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3029,8 +3029,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 22.3,
-      "food_share_year": 2023,
+      "food_share": 22.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3119,8 +3119,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 37.2,
-      "food_share_year": 2023,
+      "food_share": 41.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3299,8 +3299,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 9.9,
-      "food_share_year": 2023,
+      "food_share": 9.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3329,8 +3329,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 10.1,
-      "food_share_year": 2023,
+      "food_share": 9.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3359,8 +3359,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 42.7,
-      "food_share_year": 2023,
+      "food_share": 37.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3419,8 +3419,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 13.6,
-      "food_share_year": 2023,
+      "food_share": 13.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3449,8 +3449,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 29.5,
-      "food_share_year": 2023,
+      "food_share": 30.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3479,8 +3479,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 12.2,
-      "food_share_year": 2023,
+      "food_share": 12.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3569,8 +3569,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 32.1,
-      "food_share_year": 2023,
+      "food_share": 31.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3599,8 +3599,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 16.2,
-      "food_share_year": 2023,
+      "food_share": 11.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3689,8 +3689,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 20.7,
-      "food_share_year": 2023,
+      "food_share": 22.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3749,8 +3749,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 9.7,
-      "food_share_year": 2023,
+      "food_share": 9.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3809,8 +3809,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 19.4,
-      "food_share_year": 2023,
+      "food_share": 21,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3839,8 +3839,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 21.2,
-      "food_share_year": 2023,
+      "food_share": 18.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3899,8 +3899,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 21.3,
-      "food_share_year": 2023,
+      "food_share": 21.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -3929,8 +3929,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 18.5,
-      "food_share_year": 2023,
+      "food_share": 22.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4019,8 +4019,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 15.7,
-      "food_share_year": 2023,
+      "food_share": 14.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4049,8 +4049,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 11.9,
-      "food_share_year": 2023,
+      "food_share": 11.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4079,8 +4079,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 28.1,
-      "food_share_year": 2023,
+      "food_share": 20.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4139,8 +4139,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 19.9,
-      "food_share_year": 2023,
+      "food_share": 20.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4169,8 +4169,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.3,
-      "food_share_year": 2023,
+      "food_share": 12.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4199,8 +4199,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.6,
-      "food_share_year": 2023,
+      "food_share": 13.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4259,8 +4259,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 39,
-      "food_share_year": 2023,
+      "food_share": 31,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4289,8 +4289,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 11.6,
-      "food_share_year": 2023,
+      "food_share": 11.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4319,8 +4319,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 16.4,
-      "food_share_year": 2023,
+      "food_share": 14.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4499,8 +4499,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 11.5,
-      "food_share_year": 2023,
+      "food_share": 8.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4529,8 +4529,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 16.8,
-      "food_share_year": 2023,
+      "food_share": 17.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4589,8 +4589,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 8.6,
-      "food_share_year": 2023,
+      "food_share": 8.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4619,8 +4619,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 15.8,
-      "food_share_year": 2023,
+      "food_share": 15.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4649,8 +4649,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 14.7,
-      "food_share_year": 2023,
+      "food_share": 14.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4679,8 +4679,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 15.8,
-      "food_share_year": 2023,
+      "food_share": 16.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4709,8 +4709,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 50.4,
-      "food_share_year": 2023,
+      "food_share": 41.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4739,8 +4739,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 19.2,
-      "food_share_year": 2023,
+      "food_share": 17.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4769,8 +4769,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 19.6,
-      "food_share_year": 2023,
+      "food_share": 19.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4829,8 +4829,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 19.4,
-      "food_share_year": 2023,
+      "food_share": 18.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -4919,8 +4919,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 26.4,
-      "food_share_year": 2023,
+      "food_share": 25.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5189,8 +5189,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 11.7,
-      "food_share_year": 2023,
+      "food_share": 11.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5219,8 +5219,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.8,
-      "food_share_year": 2023,
+      "food_share": 12.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5249,8 +5249,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 30.6,
-      "food_share_year": 2023,
+      "food_share": 29.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5279,8 +5279,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 11.7,
-      "food_share_year": 2023,
+      "food_share": 11.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5369,8 +5369,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 18.6,
-      "food_share_year": 2023,
+      "food_share": 17.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5399,8 +5399,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 17.3,
-      "food_share_year": 2023,
+      "food_share": 18,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5459,8 +5459,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 14.6,
-      "food_share_year": 2023,
+      "food_share": 14.1,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5519,8 +5519,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 25.1,
-      "food_share_year": 2023,
+      "food_share": 23.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5549,8 +5549,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 25.3,
-      "food_share_year": 2023,
+      "food_share": 25.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5669,8 +5669,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 20.5,
-      "food_share_year": 2023,
+      "food_share": 20.9,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5699,8 +5699,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 24.1,
-      "food_share_year": 2023,
+      "food_share": 23.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5759,8 +5759,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "3 to 6%",
       "inflation_source": "faostat-cp",
-      "food_share": 7,
-      "food_share_year": 2023,
+      "food_share": 6.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5789,8 +5789,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 19.4,
-      "food_share_year": 2023,
+      "food_share": 19,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5819,8 +5819,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 13.9,
-      "food_share_year": 2023,
+      "food_share": 14.2,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5849,8 +5849,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.3,
-      "food_share_year": 2023,
+      "food_share": 12.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5879,8 +5879,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.9,
-      "food_share_year": 2023,
+      "food_share": 12.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5939,8 +5939,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 13,
-      "food_share_year": 2023,
+      "food_share": 13.7,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -5969,8 +5969,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "Falling (below 0%)",
       "inflation_source": "faostat-cp",
-      "food_share": 9,
-      "food_share_year": 2023,
+      "food_share": 8.5,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6029,8 +6029,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "15% or more",
       "inflation_source": "faostat-cp",
-      "food_share": 22.8,
-      "food_share_year": 2023,
+      "food_share": 21.6,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6059,8 +6059,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 12.2,
-      "food_share_year": 2023,
+      "food_share": 10.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6089,8 +6089,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 8.7,
-      "food_share_year": 2023,
+      "food_share": 8.3,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6119,8 +6119,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 6.8,
-      "food_share_year": 2023,
+      "food_share": 6.4,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6149,8 +6149,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "0 to 3%",
       "inflation_source": "faostat-cp",
-      "food_share": 18.7,
-      "food_share_year": 2023,
+      "food_share": 18.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     },
     {
@@ -6179,8 +6179,8 @@
       "inflation_month": "2026-06",
       "inflation_band": "6 to 15%",
       "inflation_source": "faostat-cp",
-      "food_share": 46.3,
-      "food_share_year": 2023,
+      "food_share": 44.8,
+      "food_share_year": 2025,
       "food_share_source": "usda-ers"
     }
   ]

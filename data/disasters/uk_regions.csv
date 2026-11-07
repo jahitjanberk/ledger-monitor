@@ -1,0 +1,11 @@
+region,properties,rs_high,rs_high_pct,rs_high_medium,rs_high_medium_pct,sw_high,sw_high_pct,sw_high_medium,sw_high_medium_pct,source
+East Midlands,2758200,67900,2.5,127500,4.6,67600,2.5,136900,5,ea-nafra
+East of England,3540400,28100,0.8,79000,2.2,170600,4.8,270200,7.6,ea-nafra
+London,4315900,27800,0.6,51100,1.2,319800,7.4,543500,12.6,ea-nafra
+North East,1520600,8600,0.6,13200,0.9,39900,2.6,77800,5.1,ea-nafra
+North West,4168500,34900,0.8,68000,1.6,123300,3,240200,5.8,ea-nafra
+South East,5011800,68100,1.4,113900,2.3,127900,2.6,236100,4.7,ea-nafra
+South West,3495000,47200,1.4,86200,2.5,86500,2.5,159800,4.6,ea-nafra
+West Midlands,3184300,20700,0.7,37100,1.2,73900,2.3,157600,4.9,ea-nafra
+Yorkshire and The Humber,3159800,64600,2,115200,3.6,62300,2,134500,4.3,ea-nafra
+Total,31154500,367900,1.2,691200,2.2,1071800,3.4,1956600,6.3,ea-nafra

@@ -1,107 +1,122 @@
 {
   "id": "bubble",
   "title": "Bubble risk (UBS)",
-  "description": "UBS Global Real Estate Bubble Index 2025 risk categories for major cities.",
+  "description": "UBS Global Real Estate Bubble Index 2026 risk categories for major cities.",
   "records": [
     {
-      "city": "Miami",
+      "city": "Zurich",
       "risk": "High",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "Tokyo",
       "risk": "High",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
-      "city": "Zurich",
-      "risk": "High",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "Los Angeles",
+      "city": "Miami",
       "risk": "Elevated",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "Geneva",
-      "risk": "Elevated",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "Amsterdam",
-      "risk": "Elevated",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "Dubai",
       "risk": "Elevated",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Seoul",
+      "risk": "Elevated",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Geneva",
+      "risk": "Elevated",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Lisbon",
+      "risk": "Elevated",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Los Angeles",
+      "risk": "Moderate",
+      "source": "ubs-2026"
     },
     {
       "city": "Sydney",
       "risk": "Moderate",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "Vancouver",
-      "risk": "Moderate",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "Toronto",
       "risk": "Moderate",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Vancouver",
+      "risk": "Moderate",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Hong Kong",
+      "risk": "Moderate",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Singapore",
+      "risk": "Moderate",
+      "source": "ubs-2026"
+    },
+    {
+      "city": "Amsterdam",
+      "risk": "Moderate",
+      "source": "ubs-2026"
     },
     {
       "city": "Madrid",
       "risk": "Moderate",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "Frankfurt",
       "risk": "Moderate",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "Munich",
       "risk": "Moderate",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
-      "city": "London",
-      "risk": "Low",
-      "source": "ubs-2025"
+      "city": "Milan",
+      "risk": "Moderate",
+      "source": "ubs-2026"
     },
     {
       "city": "Paris",
       "risk": "Low",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
-      "city": "Milan",
+      "city": "London",
       "risk": "Low",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "Hong Kong",
-      "risk": "Low",
-      "source": "ubs-2025"
-    },
-    {
-      "city": "San Francisco",
-      "risk": "Low",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     },
     {
       "city": "New York",
       "risk": "Low",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
+    },
+    {
+      "city": "San Francisco",
+      "risk": "Low",
+      "source": "ubs-2026"
     },
     {
       "city": "São Paulo",
       "risk": "Low",
-      "source": "ubs-2025"
+      "source": "ubs-2026"
     }
   ]
 }

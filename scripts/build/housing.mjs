@@ -1,9 +1,9 @@
 // Builds data/housing/* and housing/assets/data.js for the Housing Affordability dashboard
-// (Demographia International Housing Affordability 2026 and 2025, ONS housing affordability 2025, UBS Global Real Estate Bubble Index 2025, GeoNames).
+// (Demographia International Housing Affordability 2026 and 2025, ONS housing affordability 2025, UBS Global Real Estate Bubble Index 2026, GeoNames).
 //   node scripts/build/housing.mjs        (optional raw downloads in scripts/.raw/housing/, or set RAW to their parent folder)
 // The Demographia tables come only as a PDF, so they are typed in below with their source ids, as are the ONS and UBS
-// figures. If the ONS bulletin and UBS release pages are in scripts/.raw/housing/, the builder checks the typed figures
-// against them. See scripts/build/README.md.
+// figures. If the ONS bulletin and the UBS release (text of the media release PDF) are in scripts/.raw/housing/, the
+// builder checks the typed figures against them. See scripts/build/README.md.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -19,7 +19,7 @@ const SOURCES = {
   "demographia-2026": {
     publisher: "Chapman University Center for Demographics and Policy",
     title: "Demographia International Housing Affordability, 2026 Edition",
-    url: "https://blogs.chapman.edu/wp-content/uploads/sites/56/2026/05/Demographia-International-Housing-Affordability-2026-Edition-1.pdf",
+    url: "https://blogs.chapman.edu/demographics-and-policy/wp-content/uploads/sites/82/2026/07/Demographia-International-Housing-Affordability-2026-Edition.pdf",
     published: "2026-05",
     method: "reported",
     notes: "Data for the third quarter of 2025.",
@@ -27,7 +27,7 @@ const SOURCES = {
   "demographia-2025": {
     publisher: "Chapman University Center for Demographics and Policy",
     title: "Demographia International Housing Affordability, 2025 Edition",
-    url: "https://blogs.chapman.edu/wp-content/uploads/sites/56/2025/06/Demographic-International-Housing-Affordability-2025.pdf",
+    url: "https://blogs.chapman.edu/demographics-and-policy/wp-content/uploads/sites/82/2025/06/Demographic-International-Housing-Affordability-2025.pdf",
     published: "2025-05",
     method: "reported",
     notes: "Data for the third quarter of 2024.",
@@ -40,12 +40,13 @@ const SOURCES = {
     method: "reported",
     notes: "London ratio corrected to 10.6 by the ONS on 13 May 2026.",
   },
-  "ubs-2025": {
+  "ubs-2026": {
     publisher: "UBS",
-    title: "UBS Global Real Estate Bubble Index 2025",
-    url: "https://www.ubs.com/global/de/media/display-page-ndp/en-20250923-grebi25.html",
-    published: "2025-09-23",
+    title: "UBS Global Real Estate Bubble Index 2026",
+    url: "https://www.ubs.com/global/en/media/display-page-ndp/en-20260922-grebi26.html",
+    published: "2026-09-22",
     method: "reference",
+    notes: "Risk categories for 23 cities, as listed in the media release.",
   },
   geonames: {
     publisher: "GeoNames (via the all-the-cities package)",
@@ -204,13 +205,15 @@ const uk_ons = [
 ].map(([area, level, ratio, median_price, median_earnings]) => ({ area, level, ratio, median_price, median_earnings, source: "ons-2025" }));
 
 // ---------- Bubble risk (UBS) ----------
+// Risk categories from the UBS media release of 22 September 2026, in the order it lists them. UBS gives the index
+// scores only in a chart, so they are not typed in.
 const BUBBLE = {
-  High: ["Miami", "Tokyo", "Zurich"],
-  Elevated: ["Los Angeles", "Geneva", "Amsterdam", "Dubai"],
-  Moderate: ["Sydney", "Vancouver", "Toronto", "Madrid", "Frankfurt", "Munich"],
-  Low: ["London", "Paris", "Milan", "Hong Kong", "San Francisco", "New York", "São Paulo"],
+  High: ["Zurich", "Tokyo"],
+  Elevated: ["Miami", "Dubai", "Seoul", "Geneva", "Lisbon"],
+  Moderate: ["Los Angeles", "Sydney", "Toronto", "Vancouver", "Hong Kong", "Singapore", "Amsterdam", "Madrid", "Frankfurt", "Munich", "Milan"],
+  Low: ["Paris", "London", "New York", "San Francisco", "São Paulo"],
 };
-const bubble = Object.entries(BUBBLE).flatMap(([risk, cities]) => cities.map((city) => ({ city, risk, source: "ubs-2025" })));
+const bubble = Object.entries(BUBBLE).flatMap(([risk, cities]) => cities.map((city) => ({ city, risk, source: "ubs-2026" })));
 
 // ---------- Checks against the source pages, when downloaded ----------
 const pageText = (f) => (fs.existsSync(path.join(RAW, f)) ? fs.readFileSync(path.join(RAW, f), "utf8").replace(/<[^>]*>/g, " ").replace(/&nbsp;|&#160;/g, " ").replace(/\s+/g, " ") : null);
@@ -227,13 +230,18 @@ if (ons) {
   ok(new RegExp(`Kensington and Chelsea \\(${KC.ratio}`), "Kensington and Chelsea");
   ok(new RegExp(`Hyndburn and Kingston upon Hull \\(both with an affordability ratio of ${uk_ons[5].ratio}\\)`), "Hyndburn and Hull");
 } else warn.push("ons_bulletin_2025.html not downloaded: ONS figures not checked");
-const ubs = pageText("ubs_grebi_2025.html");
-if (ubs) { for (const { city } of bubble) if (!ubs.includes(city)) warn.push(`UBS release: ${city} not mentioned`); }
-else warn.push("ubs_grebi_2025.html not downloaded: UBS cities not checked");
+// ubs_grebi_2026.txt: pdftotext -layout -enc UTF-8 of the media release PDF linked from the release page (ubs.com refuses
+// scripted requests for the page itself). The release names each category in one sentence, so check every city's category.
+const ubs = pageText("ubs_grebi_2026.txt") ?? pageText("ubs_grebi_2026.html");
+if (ubs) {
+  const said = { High: /classified as being at high risk/, Elevated: /elevated-risk category/, Moderate: /moderate risk category|Risk levels are moderate/, Low: /low bubble risk|low risk category/ };
+  const sentences = ubs.split(/(?<=\.) |, while /);
+  for (const { city, risk } of bubble) if (!sentences.some((x) => x.includes(city) && said[risk].test(x))) warn.push(`UBS release: ${city} not found as ${risk.toLowerCase()} risk`);
+} else warn.push("ubs_grebi_2026.txt not downloaded: UBS categories not checked");
 
 // ---------- Write ----------
 const TABLES = [
-  ["bubble", "Bubble risk (UBS)", "UBS Global Real Estate Bubble Index 2025 risk categories for major cities.", bubble],
+  ["bubble", "Bubble risk (UBS)", "UBS Global Real Estate Bubble Index 2026 risk categories for major cities.", bubble],
   ["markets", "Median multiple by market", `Median house price divided by median household income for ${markets.length} major housing markets, Q3 2025, with Q3 2024 for comparison.`, markets],
   ["nations", "National median multiples", "Median multiple across each nation's major markets in the Demographia survey, Q3 2025 and Q3 2024.", nations],
   ["ratings", "Affordability ratings", "Demographia's rating bands for the median multiple.", ratings],

@@ -1,7 +1,7 @@
 # Ledger Monitor
 
 <p align="center">
-  <strong>Seventeen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
+  <strong>Eighteen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code licence: MIT"></a>
   <a href="DATA_LICENSE.md"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="Data licence: CC BY 4.0"></a>
   <a href="https://github.com/jahitjanberk/ledger-monitor/commits/main"><img src="https://img.shields.io/github/last-commit/jahitjanberk/ledger-monitor" alt="Last commit"></a>
-  <img src="https://img.shields.io/badge/dashboards-17-informational" alt="17 dashboards">
+  <img src="https://img.shields.io/badge/dashboards-18-informational" alt="18 dashboards">
   <img src="https://img.shields.io/badge/build%20step-none-brightgreen" alt="No build step">
 </p>
 
@@ -44,6 +44,7 @@
   <a href="https://jahitjanberk.github.io/ledger-monitor/vaccines/"><img src="https://img.shields.io/badge/Vaccines%20%26%20Health%20Workers-Open-3f7a1e?style=for-the-badge&labelColor=555" alt="Vaccination and Health Workers"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/fertilizer/"><img src="https://img.shields.io/badge/Fertiliser-Open-566573?style=for-the-badge&labelColor=555" alt="Fertiliser Prices and Supply"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/remittances/"><img src="https://img.shields.io/badge/Remittances-Open-a3306f?style=for-the-badge&labelColor=555" alt="The Cost of Sending Money Home"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/disasters/"><img src="https://img.shields.io/badge/Floods%20%26%20Disasters-Open-1d5f99?style=for-the-badge&labelColor=555" alt="Floods, Disasters and Insurance Gaps"></a>
 </p>
 
 <p align="center">
@@ -72,6 +73,7 @@
 | [Who Owns Orbit](orbit/) | Who launches objects into space, and what is up there now |
 | [Food Prices & Hunger](food/) | Who goes hungry, who can afford a healthy diet, and how fast food prices are rising, country by country |
 | [Debt vs Public Services](debt/) | What governments pay in interest on their debts, against what they spend on health and education |
+| [Floods, Disasters & Insurance Gaps](disasters/) | Who lives with flood risk, what disasters kill and cost, how much of the loss is insured, and England's flood risk |
 | [Extreme Heat](heat/) | How hot the world is getting, which countries face the most dangerous heat, and what it costs in lives and work |
 | [Critical Minerals](minerals/) | Where the minerals in batteries, phones and power grids are mined and refined, and who controls them |
 | [Medicine Shortages & Supply](medicines/) | Which medicines run short and for how long, why, and where the world's medicines and their ingredients are made |

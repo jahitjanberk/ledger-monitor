@@ -1,0 +1,10 @@
+id,hazard,events_2025,events_avg,deaths_2025,deaths_avg,affected_m_2025,affected_m_avg,losses_bn_2025,losses_bn_avg,displaced_2025,source,displaced_source
+drought,Drought,7,16,89,1166,27.3,55.6,8,11.8,322809,cred-2025,idmc
+earthquake,Earthquake,29,25,6353,25495,5.9,6.6,14,40,2424131,cred-2025,idmc
+temperature,Extreme temperature,1,23,0,13586,0,6.5,2,2.6,,cred-2025,
+flood,Flood,119,169,5235,5544,22.2,64.6,28.7,45.6,7807510,cred-2025,idmc
+mass_dry,Mass movement (dry),0,1,0,14,0,0,0,0,,cred-2025,
+mass_wet,Mass movement (wet),19,18,958,897,0,0.4,0,0.3,,cred-2025,
+storm,Storm,156,108,3862,10545,54,34.2,63.1,107.7,17995175,cred-2025,idmc
+volcanic,Volcanic activity,4,5,0,77,0.6,0.3,0,0.2,,cred-2025,
+wildfire,Wildfire,23,12,110,104,0.2,0.7,53.9,6.8,694137,cred-2025,idmc

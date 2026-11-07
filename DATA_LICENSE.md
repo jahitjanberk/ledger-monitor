@@ -17,7 +17,7 @@ Take particular care with these:
 | TeleGeography Submarine Cable Map (cable routes and landing points, January 2021 snapshot) | Internet | [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/): credit TeleGeography, **non-commercial use only**, and share adaptations under the same licence. This overrides the CC BY 4.0 shown for the Internet tables `cables` and `landings`. |
 | IMF PortWatch (daily transits) | Chokepoints | IMF PortWatch's terms of use |
 | US Energy Information Administration (oil flows) | Chokepoints | EIA's terms; US government data is generally public domain |
-| Our World in Data's processed series (Ember, SatPM, AQLI, IHME, UNOOSA, US Space Force, SDG data, USDA ERS, Copernicus ERA5) | Electricity, Air, Orbit, Water, Food, Heat | CC BY 4.0 for Our World in Data's processing, plus the original producer's terms |
+| Our World in Data's processed series (Ember, SatPM, AQLI, IHME, UNOOSA, US Space Force, SDG data, Copernicus ERA5) | Electricity, Air, Orbit, Water, Heat | CC BY 4.0 for Our World in Data's processing, plus the original producer's terms |
 | FAOSTAT (food security, healthy diet costs, consumer prices) and the FAO Food Price Index | Food | [CC BY 4.0](https://www.fao.org/contact-us/terms/db-terms-of-use/en/), credit FAO |
 | World Bank Commodity Price Data (Pink Sheet) | Food, Minerals | CC BY 4.0, credit the World Bank |
 | IMF Fiscal Monitor and World Economic Outlook | Debt | The [IMF's copyright and usage terms](https://www.imf.org/en/About/copyright-and-terms): reuse with credit and a link to the IMF; derived figures, such as net interest, must say they are derived; **commercial reuse needs the IMF's permission** |
@@ -49,6 +49,13 @@ Take particular care with these:
 | World Bank Remittance Prices Worldwide (complete dataset and quarterly report) | Remittances | [CC BY 4.0](https://www.worldbank.org/ext/en/legal/terms-conditions/datasets) as listed on the World Bank Data Catalog: credit "The World Bank: Remittance Prices Worldwide". The price data are collected by FXC Intelligence, and the dataset's own Terms of Use sheet also points to World Bank "Restricted Data" terms whose links no longer resolve; check before commercial reuse |
 | UN SDG Global Database, indicator 10.c.1 (World Bank RPW figures) | Remittances | UN data terms of use, credit the UN Statistics Division and the World Bank; the underlying figures are the World Bank's (CC BY 4.0) |
 | World Bank World Development Indicators (personal remittances received and paid) | Remittances | [CC BY 4.0](https://www.worldbank.org/ext/en/legal/terms-conditions/datasets), credit the World Bank |
+| USDA Economic Research Service, International Food and Alcoholic Beverage Expenditure Data | Food | US public domain (US government work); credit USDA ERS |
+| Rentschler, Salhab and Jafino, Flood exposure and poverty in 188 countries (Nature Communications 2022, Supplementary Table 1) | Disasters | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), credit the authors |
+| IDMC Global Internal Displacement Database (disaster displacement events, via HDX) | Disasters | [CC BY-IGO](https://creativecommons.org/licenses/by/3.0/igo/) as stated on HDX, credit IDMC |
+| CRED, 2025 Disasters in Numbers (summary figures from EM-DAT) | Disasters | The report is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), credit CRED/UCLouvain. The EM-DAT database itself is **not open**: its [terms](https://doc.emdat.be/docs/legal/terms-of-use/) forbid redistribution and derivative databases, so no EM-DAT records are included |
+| Munich Re NatCatSERVICE, Swiss Re Institute sigma, ABI and Flood Re press releases | Disasters | **Not open data.** Headline figures are quoted with links, not republished as datasets |
+| Environment Agency, National assessment of flood and coastal erosion risk in England 2024 | Disasters | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+| World Bank World Development Indicators (population) | Disasters | CC BY 4.0, credit the World Bank |
 | Natural Earth (country shapes) | Every map | Public domain |
 
 Individual figures quoted from reports and news articles, such as a single total or percentage, are cited with a link to the original.

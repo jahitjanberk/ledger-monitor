@@ -26,11 +26,12 @@ const CADENCE = {
   "fao-ffpi-real": 12, "ember-yearly": 12, satpm: 12, "who-sdg1162": 12, "iqair-2025": 12, "faostat-fs": 12, "faostat-cahd": 12, sofi2026: 12,
   grfc2026: 12, "usda-ers": 12, "wb-health": 12, "wb-edu": 12, "wb-pop": 12, "unctad-wod": 12, "owid-anom": 12, hadcrut5: 12, "wb-cckp": 12,
   "fao-sdg642": 12, "aquastat-wdi": 12, "aquastat-pc": 12, "usgs-mcs": 12, "iea-refined": 12, "iea-gcmo2026": 12, "oecd-inventory": 12,
-  "demographia-2026": 12, "ons-2025": 12, "fbi-ic3-2025": 12, "ukfinance-2026": 12, "accc-2025": 12, "cafc-2025": 12, "spf-2025": 12,
+  "demographia-2026": 12, "ubs-2026": 12, "ons-2025": 12, "fbi-ic3-2025": 12, "ukfinance-2026": 12, "accc-2025": 12, "cafc-2025": 12, "spf-2025": 12,
   "i4c-2025": 12, "gasa-global-2025": 12, unoosa: 12, ussf: 12, "epoch-chips-2026": 12, "cso-2025": 12, "ukhsa-2026": 12,
   "wb-elec": 12, "wb-cook": 12, "es-warm": 12, "es-arrears": 12, "desnz-trends": 12, "desnz-report": 12, "sdg7-2026": 12,
   "fda-rtc-2025": 12, "fda-sopq": 12, comtrade: 12, "ema-ulcm": 12, wuenic: 12, "who-nhwa": 12, "ukhsa-cover": 12, "sown-2025": 36,
   "faostat-rfn": 12, "defra-bsfp": 12, "wdi-flows": 12, "sdg-10c1": 12,
+  idmc: 12, "cred-2025": 12, "swissre-sigma": 12, "munichre-2025": 12, "munichre-h1-2026": 12, "abi-2025": 12, "floodre-2026": 12, "ea-nafra": 24,
   // Not listed on purpose: telegeography-2021, a frozen snapshot (TeleGeography's current data is for subscribers only).
   // Less often
   "ihme-gbd2023": 24, "jmp-2025": 24, "eia-chokepoints": 24, "lbnl-2024": 36,

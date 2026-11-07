@@ -1,0 +1,78 @@
+{
+  "variant": "disasters",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Flood exposure and disaster displacement by country",
+      "description": "People exposed to significant flood risk (1-in-100-year floods over 15 cm deep) and those among them living in poverty, from Rentschler et al. (2022); new displacements caused by disasters in 2025, 2024 and on average in 2016 to 2025, and per 1,000 people, from IDMC.",
+      "rows": 217
+    },
+    {
+      "id": "world",
+      "title": "Disaster displacements worldwide by hazard, 2008 to 2025",
+      "description": "New internal displacements caused by disasters each year, summed from IDMC's event data, by hazard type.",
+      "rows": 18
+    },
+    {
+      "id": "hazards",
+      "title": "Disasters by hazard type, 2025 and the 2005 to 2024 average",
+      "description": "Events, deaths, people affected and economic losses by hazard, quoted from CRED's 2025 Disasters in Numbers (EM-DAT), with IDMC displacement for 2025.",
+      "rows": 9
+    },
+    {
+      "id": "losses",
+      "title": "Global natural disaster losses and how much was insured",
+      "description": "Overall (economic) and insured losses in US$ billion, and fatalities where given, quoted from Swiss Re Institute and Munich Re.",
+      "rows": 9
+    },
+    {
+      "id": "gap_regions",
+      "title": "Insured and overall losses by continent, 2025",
+      "description": "Munich Re NatCatSERVICE loss overview per continent, quoted from its 2025 factsheet.",
+      "rows": 6
+    },
+    {
+      "id": "costliest",
+      "title": "Costliest natural disasters of 2025",
+      "description": "The five largest natural disasters of 2025 by overall losses, with insured losses and deaths, quoted from Munich Re.",
+      "rows": 5
+    },
+    {
+      "id": "deadliest",
+      "title": "Deadliest disasters of 2025",
+      "description": "The ten deadliest natural hazard-related disasters of 2025, quoted from CRED's 2025 Disasters in Numbers.",
+      "rows": 10
+    },
+    {
+      "id": "uk_risk",
+      "title": "Properties in England in areas at risk of flooding, by source and risk band",
+      "description": "Present day and with climate change, from the Environment Agency's NaFRA 2024.",
+      "rows": 9
+    },
+    {
+      "id": "uk_regions",
+      "title": "Properties at flood risk by region of England",
+      "description": "Properties in areas at high, and at high or medium, risk of flooding from rivers and the sea and from surface water, number and share of each region's properties (NaFRA 2024).",
+      "rows": 10
+    },
+    {
+      "id": "uk_infra",
+      "title": "Infrastructure and public buildings in England in areas at flood risk",
+      "description": "From rivers, the sea and surface water, present day and with climate change in 2040 to 2060 (NaFRA 2024).",
+      "rows": 8
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the three maps.",
+      "rows": 15
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from Rentschler et al. (2022), CRED, Swiss Re Institute, Munich Re, the Environment Agency, the ABI and Flood Re.",
+      "rows": 42
+    }
+  ]
+}

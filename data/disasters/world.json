@@ -1,0 +1,205 @@
+{
+  "id": "world",
+  "title": "Disaster displacements worldwide by hazard, 2008 to 2025",
+  "description": "New internal displacements caused by disasters each year, summed from IDMC's event data, by hazard type.",
+  "records": [
+    {
+      "year": 2008,
+      "total": 38240828,
+      "flood": 11543926,
+      "storm": 10013410,
+      "earthquake": 15699370,
+      "wildfire": 53600,
+      "drought": 0,
+      "other": 930522,
+      "source": "idmc"
+    },
+    {
+      "year": 2009,
+      "total": 16732507,
+      "flood": 7409298,
+      "storm": 7790686,
+      "earthquake": 1418832,
+      "wildfire": 8376,
+      "drought": 0,
+      "other": 105315,
+      "source": "idmc"
+    },
+    {
+      "year": 2010,
+      "total": 42350166,
+      "flood": 36243078,
+      "storm": 1965192,
+      "earthquake": 3689304,
+      "wildfire": 16770,
+      "drought": 0,
+      "other": 435822,
+      "source": "idmc"
+    },
+    {
+      "year": 2011,
+      "total": 15024154,
+      "flood": 10313660,
+      "storm": 3071769,
+      "earthquake": 1132278,
+      "wildfire": 4300,
+      "drought": 0,
+      "other": 502147,
+      "source": "idmc"
+    },
+    {
+      "year": 2012,
+      "total": 30145960,
+      "flood": 19792486,
+      "storm": 9566950,
+      "earthquake": 637076,
+      "wildfire": 58549,
+      "drought": 0,
+      "other": 90899,
+      "source": "idmc"
+    },
+    {
+      "year": 2013,
+      "total": 22129890,
+      "flood": 6119097,
+      "storm": 14074413,
+      "earthquake": 1778472,
+      "wildfire": 85221,
+      "drought": 0,
+      "other": 72687,
+      "source": "idmc"
+    },
+    {
+      "year": 2014,
+      "total": 19122384,
+      "flood": 8161341,
+      "storm": 9109148,
+      "earthquake": 1492018,
+      "wildfire": 47843,
+      "drought": 0,
+      "other": 312034,
+      "source": "idmc"
+    },
+    {
+      "year": 2015,
+      "total": 19192530,
+      "flood": 8289624,
+      "storm": 6303940,
+      "earthquake": 4422838,
+      "wildfire": 87389,
+      "drought": 0,
+      "other": 88739,
+      "source": "idmc"
+    },
+    {
+      "year": 2016,
+      "total": 24177144,
+      "flood": 10227455,
+      "storm": 12905626,
+      "earthquake": 594261,
+      "wildfire": 328762,
+      "drought": 0,
+      "other": 121040,
+      "source": "idmc"
+    },
+    {
+      "year": 2017,
+      "total": 18656807,
+      "flood": 8629459,
+      "storm": 7530536,
+      "earthquake": 598296,
+      "wildfire": 407619,
+      "drought": 1278832,
+      "other": 212065,
+      "source": "idmc"
+    },
+    {
+      "year": 2018,
+      "total": 17470850,
+      "flood": 5378574,
+      "storm": 9585679,
+      "earthquake": 912035,
+      "wildfire": 425268,
+      "drought": 766095,
+      "other": 403199,
+      "source": "idmc"
+    },
+    {
+      "year": 2019,
+      "total": 25255516,
+      "flood": 9960325,
+      "storm": 13425186,
+      "earthquake": 922671,
+      "wildfire": 532727,
+      "drought": 294188,
+      "other": 120419,
+      "source": "idmc"
+    },
+    {
+      "year": 2020,
+      "total": 30987448,
+      "flood": 14125233,
+      "storm": 14780207,
+      "earthquake": 136844,
+      "wildfire": 1217986,
+      "drought": 61510,
+      "other": 665668,
+      "source": "idmc"
+    },
+    {
+      "year": 2021,
+      "total": 23717365,
+      "flood": 10054670,
+      "storm": 11513287,
+      "earthquake": 664960,
+      "wildfire": 469756,
+      "drought": 256192,
+      "other": 758500,
+      "source": "idmc"
+    },
+    {
+      "year": 2022,
+      "total": 32575417,
+      "flood": 19178952,
+      "storm": 10037160,
+      "earthquake": 696235,
+      "wildfire": 372921,
+      "drought": 2215416,
+      "other": 74733,
+      "source": "idmc"
+    },
+    {
+      "year": 2023,
+      "total": 26805828,
+      "flood": 9705903,
+      "storm": 9517449,
+      "earthquake": 6425294,
+      "wildfire": 475948,
+      "drought": 490767,
+      "other": 190467,
+      "source": "idmc"
+    },
+    {
+      "year": 2024,
+      "total": 45784529,
+      "flood": 18524350,
+      "storm": 25788385,
+      "earthquake": 152890,
+      "wildfire": 425290,
+      "drought": 387316,
+      "other": 506298,
+      "source": "idmc"
+    },
+    {
+      "year": 2025,
+      "total": 29937422,
+      "flood": 7807510,
+      "storm": 17995175,
+      "earthquake": 2424131,
+      "wildfire": 694137,
+      "drought": 322809,
+      "other": 693660,
+      "source": "idmc"
+    }
+  ]
+}

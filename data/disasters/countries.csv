@@ -1,0 +1,218 @@
+country,iso3,iso_n3,population_k,flood_exposed_k,flood_exposed_pct,poor190_k,poor190_pct,poor320_k,poor320_pct,poor550_k,poor550_pct,poverty_note,flood_source,displaced_2025,displaced_2024,displaced_avg,displaced_per_1000,displaced_source,flood_band,poor_band,displaced_band
+China,CHN,156,1437455,394826,27.5,4289,0.3,,,,,"The study's table gives 0 under $3.20 and $5.50, below its $1.90 figure; left out",rentschler,3501695,3926415,4683763,3.33,idmc,20 to 30%,,1 to 5
+India,IND,356,1405691,389816,27.7,65646,4.7,222969,15.9,334064,23.8,,rentschler,672101,5431168,2933768,2.09,idmc,20 to 30%,20% or more,1 to 5
+Bangladesh,BGD,050,164109,94424,57.5,7504,4.6,38612,23.5,73349,44.7,,rentschler,105169,2401634,1608505,9.6,idmc,30% or more,20% or more,5 to 10
+Indonesia,IDN,360,280224,75696,27,2630,0.9,15964,5.7,39962,14.3,,rentschler,1450100,516237,686239,2.49,idmc,20 to 30%,10 to 20%,1 to 5
+Pakistan,PAK,586,230904,71786,31.1,1161,0.5,17304,7.5,46890,20.3,,rentschler,3044740,169016,1312876,5.53,idmc,30% or more,20% or more,5 to 10
+Vietnam,VNM,704,98839,45504,46,465,0.5,2133,2.2,8843,8.9,,rentschler,832107,284232,452791,4.61,idmc,30% or more,5 to 10%,1 to 5
+United States,USA,840,340766,42590,12.5,455,0.1,570,0.2,783,0.2,,rentschler,732462,11003215,1977237,5.94,idmc,10 to 15%,Under 1%,5 to 10
+Nigeria,NGA,566,216151,38994,18,15204,7,26638,12.3,34173,15.8,,rentschler,153254,1244676,527445,2.44,idmc,15 to 20%,10 to 20%,1 to 5
+Egypt,EGY,818,96019,38871,40.5,1628,1.7,12331,12.8,29363,30.6,,rentschler,2,0,955,0.01,idmc,30% or more,20% or more,Under 1
+Japan,JPN,392,125792,36060,28.7,270,0.2,350,0.3,455,0.4,,rentschler,90796,109692,175360,1.4,idmc,20 to 30%,Under 1%,1 to 5
+Philippines,PHL,608,105153,30483,29,1305,1.2,7367,7,17115,16.3,,rentschler,10743416,8996200,5470653,48.77,idmc,20 to 30%,10 to 20%,30 or more
+Thailand,THA,764,74946,25431,33.9,5,0,109,0.1,1765,2.4,,rentschler,228968,41026,52384,0.73,idmc,30% or more,1 to 5%,Under 1
+Brazil,BRA,076,216999,25408,11.7,1256,0.6,2579,1.2,5491,2.5,,rentschler,398810,1124221,426129,2.04,idmc,10 to 15%,1 to 5%,1 to 5
+Mexico,MEX,484,140328,24089,17.2,408,0.3,1533,1.1,5434,3.9,,rentschler,93008,52738,72880,0.57,idmc,15 to 20%,1 to 5%,Under 1
+Myanmar,MMR,104,47823,19104,39.9,193,0.4,2159,4.5,9227,19.3,,rentschler,405608,525127,357541,6.72,idmc,30% or more,10 to 20%,5 to 10
+Russia,RUS,643,142717,18394,12.9,4,0,62,0,692,0.5,,rentschler,3622,43337,9642,0.07,idmc,10 to 15%,Under 1%,Under 1
+Iraq,IRQ,368,44427,16350,36.8,279,0.6,2385,5.4,8707,19.6,,rentschler,15768,46004,26478,0.62,idmc,30% or more,10 to 20%,Under 1
+Democratic Republic of Congo,COD,180,114168,15797,13.8,11869,10.4,14344,12.6,15420,13.5,,rentschler,312852,750244,326194,3.33,idmc,10 to 15%,10 to 20%,1 to 5
+Colombia,COL,170,63257,14507,22.9,577,0.9,1578,2.5,3981,6.3,,rentschler,88043,91009,106505,2.1,idmc,20 to 30%,5 to 10%,1 to 5
+Germany,DEU,276,78292,13670,17.5,12,0,33,0,68,0.1,,rentschler,269,7001,3191,0.04,idmc,15 to 20%,Under 1%,Under 1
+Nepal,NPL,524,40735,11993,29.4,686,1.7,4053,9.9,8492,20.8,,rentschler,2105,55932,89044,3.07,idmc,20 to 30%,20% or more,1 to 5
+Iran,IRN,364,80139,11738,14.6,34,0,313,0.4,1653,2.1,,rentschler,4491,26295,110825,1.26,idmc,10 to 15%,1 to 5%,1 to 5
+France,FRA,250,67353,11632,17.3,0,0,2,0,5,0,,rentschler,4452,3976,10319,0.15,idmc,15 to 20%,Under 1%,Under 1
+Ethiopia,ETH,231,103809,11586,11.2,2752,2.7,6955,6.7,10209,9.8,,rentschler,243648,227466,444702,3.68,idmc,10 to 15%,5 to 10%,1 to 5
+Turkey,TUR,792,79087,11269,14.2,5,0,154,0.2,961,1.2,,rentschler,155768,8569,435077,5.22,idmc,10 to 15%,1 to 5%,5 to 10
+South Korea,KOR,410,50972,10351,20.3,26,0.1,51,0.1,103,0.2,,rentschler,61869,10522,18308,0.35,idmc,20 to 30%,Under 1%,Under 1
+Netherlands,NLD,528,17196,10100,58.7,16,0.1,26,0.2,37,0.2,,rentschler,4,63,5541,0.32,idmc,30% or more,Under 1%,Under 1
+Sudan,SDN,729,42574,8778,20.6,1006,2.4,3789,8.9,6875,16.1,,rentschler,30175,199946,151570,3.22,idmc,20 to 30%,10 to 20%,1 to 5
+Italy,ITA,380,61665,8504,13.8,92,0.1,120,0.2,192,0.3,,rentschler,1691,9406,10105,0.17,idmc,10 to 15%,Under 1%,Under 1
+Malaysia,MYS,458,34193,8194,24,1,0,11,0,160,0.5,,rentschler,148207,236191,110008,3.24,idmc,20 to 30%,Under 1%,1 to 5
+Tanzania,TZA,834,54708,7982,14.6,3937,7.2,6149,11.2,7339,13.4,,rentschler,10945,91185,33058,0.53,idmc,10 to 15%,10 to 20%,Under 1
+Cambodia,KHM,116,19523,7431,38.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,11830,10630,30878,1.83,idmc,30% or more,,1 to 5
+United Kingdom,GBR,826,66928,7390,11,18,0,30,0,41,0.1,,rentschler,910,1474,3659,0.05,idmc,10 to 15%,Under 1%,Under 1
+Argentina,ARG,032,44827,7215,16.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,32080,13859,13452,0.3,idmc,15 to 20%,,Under 1
+Uzbekistan,UZB,860,33668,6715,19.9,862,2.6,2876,8.5,5243,15.6,,rentschler,0,360,7053,0.21,idmc,15 to 20%,10 to 20%,Under 1
+Kenya,KEN,404,55137,6566,11.9,2369,4.3,4339,7.9,5714,10.4,,rentschler,39914,314433,217019,4.11,idmc,10 to 15%,10 to 20%,1 to 5
+Romania,ROU,642,33822,6548,19.4,149,0.4,312,0.9,656,1.9,,rentschler,1325,6574,1196,0.06,idmc,15 to 20%,1 to 5%,Under 1
+Spain,ESP,724,51999,5859,11.3,38,0.1,61,0.1,120,0.2,,rentschler,32694,13695,18469,0.39,idmc,10 to 15%,Under 1%,Under 1
+Venezuela,VEN,862,31718,5843,18.4,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,5959,2915,9225,0.32,idmc,15 to 20%,,Under 1
+North Korea,PRK,408,23224,5735,24.7,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,13000,20573,0.79,idmc,20 to 30%,,Under 1
+Uganda,UGA,800,42049,5438,12.9,2287,5.4,3834,9.1,4788,11.4,,rentschler,29474,98280,68102,1.51,idmc,10 to 15%,10 to 20%,1 to 5
+South Sudan,SSD,728,16743,5437,32.5,4686,28,5215,31.1,5399,32.2,,rentschler,488891,423354,300020,27.32,idmc,30% or more,20% or more,10 to 30
+Ukraine,UKR,804,43674,5407,12.4,1,0,19,0,175,0.4,,rentschler,60,758,557,0.01,idmc,10 to 15%,Under 1%,Under 1
+Madagascar,MDG,450,27625,5379,19.5,3862,14,4703,17,5168,18.7,,rentschler,176640,59074,113925,3.88,idmc,15 to 20%,10 to 20%,1 to 5
+Cameroon,CMR,120,28043,5348,19.1,1468,5.2,2592,9.2,3803,13.6,,rentschler,11222,260933,48262,1.81,idmc,15 to 20%,10 to 20%,1 to 5
+Poland,POL,616,39207,5280,13.5,17,0,27,0.1,59,0.1,,rentschler,20,43756,4434,0.12,idmc,10 to 15%,Under 1%,Under 1
+Mali,MLI,466,23243,5129,22.1,2243,9.6,3915,16.8,4816,20.7,,rentschler,5878,29542,11539,0.52,idmc,20 to 30%,20% or more,Under 1
+Mozambique,MOZ,508,30851,5002,16.2,3233,10.5,4175,13.5,4650,15.1,,rentschler,668789,585268,282775,9.02,idmc,15 to 20%,10 to 20%,5 to 10
+Algeria,DZA,012,44084,4875,11.1,16,0,110,0.2,1021,2.3,,rentschler,3083,14986,6420,0.14,idmc,10 to 15%,1 to 5%,Under 1
+Ghana,GHA,288,32954,4716,14.3,583,1.8,1364,4.1,2564,7.8,,rentschler,6535,1813,17806,0.55,idmc,10 to 15%,5 to 10%,Under 1
+Chad,TCD,148,16589,4547,27.4,1591,9.6,2804,16.9,3797,22.9,,rentschler,89245,1325070,172003,9.68,idmc,20 to 30%,20% or more,5 to 10
+Afghanistan,AFG,004,30296,4501,14.9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,252815,1016707,256855,6.54,idmc,10 to 15%,,5 to 10
+Sri Lanka,LKA,144,21387,4140,19.4,30,0.1,354,1.7,1502,7,,rentschler,563857,83510,165057,7.57,idmc,15 to 20%,5 to 10%,5 to 10
+Morocco,MAR,504,35638,3924,11,27,0.1,217,0.6,992,2.8,,rentschler,39,271,51066,1.39,idmc,10 to 15%,1 to 5%,1 to 5
+Angola,AGO,024,36246,3732,10.3,1797,5,2614,7.2,3280,9.1,,rentschler,43900,84983,29355,0.86,idmc,10 to 15%,5 to 10%,Under 1
+Ecuador,ECU,218,17617,3726,21.1,111,0.6,319,1.8,857,4.9,,rentschler,9554,4434,34145,1.95,idmc,20 to 30%,1 to 5%,1 to 5
+South Africa,ZAF,710,59943,3663,6.1,682,1.1,1364,2.3,2086,3.5,,rentschler,44760,56281,21856,0.36,idmc,Under 10%,1 to 5%,Under 1
+Syria,SYR,760,26550,3548,13.4,1603,6,2730,10.3,3294,12.4,,rentschler,0,0,88185,4.06,idmc,10 to 15%,10 to 20%,1 to 5
+Chile,CHL,152,20672,3484,16.9,10,0,22,0.1,116,0.6,,rentschler,1501857,12507,159882,8.3,idmc,15 to 20%,Under 1%,5 to 10
+Cote d'Ivoire,CIV,384,26537,3484,13.1,866,3.3,1894,7.1,2808,10.6,,rentschler,0,2629,1211,0.04,idmc,10 to 15%,10 to 20%,Under 1
+Canada,CAN,124,36782,3450,9.4,7,0,17,0,27,0.1,,rentschler,72183,45241,68668,1.78,idmc,Under 10%,Under 1%,1 to 5
+Peru,PER,604,35696,3396,9.5,157,0.4,462,1.3,1080,3,,rentschler,178664,48742,78191,2.38,idmc,Under 10%,1 to 5%,1 to 5
+Niger,NER,562,23865,3350,14,1393,5.8,2496,10.5,3098,13,,rentschler,1894,1172018,231305,9.56,idmc,10 to 15%,10 to 20%,5 to 10
+Burkina Faso,BFA,854,22781,3289,14.4,1148,5,2339,10.3,2971,13,,rentschler,211,4008,7826,0.36,idmc,10 to 15%,10 to 20%,Under 1
+Kazakhstan,KAZ,398,18074,3144,17.4,1,0,9,0.1,179,1,,rentschler,638,120053,16669,0.85,idmc,15 to 20%,1 to 5%,Under 1
+Malawi,MWI,454,18470,3057,16.5,2212,12,2776,15,2976,16.1,,rentschler,46437,65033,133042,6.71,idmc,15 to 20%,10 to 20%,5 to 10
+Laos,LAO,418,7527,2985,39.7,218,2.9,927,12.3,1994,26.5,,rentschler,0,3429,13982,1.89,idmc,30% or more,20% or more,1 to 5
+Zambia,ZMB,894,18684,2611,14,1621,8.7,2024,10.8,2327,12.5,,rentschler,3047,168579,19736,1.02,idmc,10 to 15%,10 to 20%,1 to 5
+Haiti,HTI,332,14625,2553,17.5,614,4.2,1268,8.7,2002,13.7,,rentschler,9513,4807,47441,4.2,idmc,15 to 20%,10 to 20%,1 to 5
+Austria,AUT,040,8761,2437,27.8,8,0.1,10,0.1,16,0.2,,rentschler,125,4049,543,0.06,idmc,20 to 30%,Under 1%,Under 1
+Saudi Arabia,SAU,682,36811,2437,6.6,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,346,0.01,idmc,Under 10%,,Under 1
+Guatemala,GTM,320,18257,2421,13.3,170,0.9,502,2.7,1068,5.8,,rentschler,94644,80891,75247,4.3,idmc,10 to 15%,5 to 10%,1 to 5
+Turkmenistan,TKM,795,9850,2419,24.6,25,0.3,255,2.6,804,8.2,,rentschler,,,,,,20 to 30%,5 to 10%,
+Yemen,YEM,887,30183,2388,7.9,1106,3.7,1812,6,2193,7.3,,rentschler,263991,492443,157371,4.28,idmc,Under 10%,5 to 10%,1 to 5
+Senegal,SEN,686,16174,2376,14.7,790,4.9,1538,9.5,2091,12.9,,rentschler,1541,56564,10406,0.61,idmc,10 to 15%,10 to 20%,Under 1
+Guinea,GIN,324,12167,2306,19,491,4,1259,10.3,1973,16.2,,rentschler,640,5160,5135,0.38,idmc,15 to 20%,10 to 20%,Under 1
+Belgium,BEL,056,11580,2070,17.9,2,0,3,0,5,0,,rentschler,0,49,1639,0.14,idmc,15 to 20%,Under 1%,Under 1
+Cuba,CUB,192,11114,2026,18.2,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,753000,479648,507723,45.64,idmc,15 to 20%,,30 or more
+Benin,BEN,204,12990,1950,15,899,6.9,1433,11,1772,13.6,,rentschler,800,3679,6044,0.46,idmc,15 to 20%,10 to 20%,Under 1
+Bolivia,BOL,068,11832,1875,15.8,66,0.6,165,1.4,381,3.2,,rentschler,12616,18034,13809,1.16,idmc,15 to 20%,1 to 5%,1 to 5
+Somalia,SOM,706,11002,1831,16.6,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,335430,156302,697945,41.18,idmc,15 to 20%,,30 or more
+Honduras,HND,340,9449,1801,19.1,261,2.8,496,5.3,861,9.1,,rentschler,2669,20187,103149,10.11,idmc,15 to 20%,5 to 10%,10 to 30
+Dominican Republic,DOM,214,12045,1784,14.8,8,0.1,50,0.4,258,2.1,,rentschler,30808,3785,32458,2.94,idmc,10 to 15%,1 to 5%,1 to 5
+Tajikistan,TJK,762,9381,1671,17.8,37,0.4,199,2.1,665,7.1,,rentschler,563,1029,2652,0.27,idmc,15 to 20%,5 to 10%,Under 1
+Switzerland,CHE,756,8693,1660,19.1,1,0,0,0,1,0,,rentschler,356,1071,225,0.03,idmc,15 to 20%,Under 1%,Under 1
+Australia,AUS,036,20804,1654,7.9,8,0,13,0.1,13,0.1,,rentschler,9909,32175,24335,0.94,idmc,Under 10%,Under 1%,Under 1
+Azerbaijan,AZE,031,8646,1520,17.6,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,157,101,267,0.03,idmc,15 to 20%,,Under 1
+Czechia,CZE,203,10816,1500,13.9,1,0,2,0,5,0.1,,rentschler,0,21524,2442,0.23,idmc,10 to 15%,Under 1%,Under 1
+Hungary,HUN,348,9344,1489,15.9,7,0.1,17,0.2,41,0.4,,rentschler,0,8,30,0,idmc,15 to 20%,Under 1%,Under 1
+Zimbabwe,ZWE,716,14360,1426,9.9,468,3.3,869,6.1,1157,8.1,,rentschler,2191,92290,16882,1.08,idmc,Under 10%,5 to 10%,1 to 5
+Serbia,SRB,688,6977,1404,20.1,1,0,10,0.2,87,1.3,,rentschler,0,1,182,0.03,idmc,20 to 30%,1 to 5%,Under 1
+Slovakia,SVK,703,5440,1401,25.7,17,0.3,21,0.4,36,0.7,,rentschler,0,116,54,0.01,idmc,20 to 30%,Under 1%,Under 1
+Papua New Guinea,PNG,598,9145,1374,15,369,4,721,7.9,1084,11.9,,rentschler,25,31164,15466,1.56,idmc,15 to 20%,10 to 20%,1 to 5
+Togo,TGO,768,8631,1349,15.6,621,7.2,978,11.3,1211,14,,rentschler,0,9,1653,0.21,idmc,15 to 20%,10 to 20%,Under 1
+Tunisia,TUN,788,11707,1334,11.4,6,0,62,0.5,319,2.7,,rentschler,0,0,2025,0.17,idmc,10 to 15%,1 to 5%,Under 1
+Greece,GRC,300,10221,1314,12.9,11,0.1,20,0.2,57,0.6,,rentschler,79073,60423,36134,3.41,idmc,10 to 15%,Under 1%,1 to 5
+Sierra Leone,SLE,694,6782,1296,19.1,626,9.2,1055,15.6,1233,18.2,,rentschler,6043,1131,2511,0.31,idmc,15 to 20%,10 to 20%,Under 1
+Rwanda,RWA,646,13488,1284,9.5,679,5,1001,7.4,1164,8.6,,rentschler,3424,57704,23311,1.76,idmc,Under 10%,5 to 10%,1 to 5
+Burundi,BDI,108,11346,1252,11,974,8.6,1153,10.2,1224,10.8,,rentschler,18737,60035,30840,2.41,idmc,10 to 15%,10 to 20%,1 to 5
+Liberia,LBR,430,4543,1197,26.4,441,9.7,833,18.3,1090,24,,rentschler,0,22059,6654,1.27,idmc,20 to 30%,20% or more,1 to 5
+Bulgaria,BGR,100,6892,1184,17.2,14,0.2,34,0.5,85,1.2,,rentschler,46,788,211,0.03,idmc,15 to 20%,1 to 5%,Under 1
+Congo,COG,178,3997,1170,29.3,686,17.2,907,22.7,1057,26.4,,rentschler,22850,0,39579,6.78,idmc,20 to 30%,20% or more,5 to 10
+Nicaragua,NIC,558,6881,1147,16.7,31,0.4,134,1.9,373,5.4,,rentschler,575,2520,45091,6.82,idmc,15 to 20%,5 to 10%,5 to 10
+El Salvador,SLV,222,6739,1132,16.8,17,0.3,94,1.4,309,4.6,,rentschler,5457,5462,4558,0.73,idmc,15 to 20%,1 to 5%,Under 1
+Croatia,HRV,191,4061,1094,26.9,6,0.1,11,0.3,35,0.9,,rentschler,27,7,4218,1.07,idmc,20 to 30%,Under 1%,1 to 5
+Central African Republic,CAF,140,5347,1036,19.4,704,13.2,867,16.2,967,18.1,,rentschler,17319,19291,34209,6.77,idmc,15 to 20%,10 to 20%,5 to 10
+Paraguay,PRY,600,7485,983,13.1,15,0.2,66,0.9,176,2.4,,rentschler,508,8519,12301,1.85,idmc,10 to 15%,1 to 5%,1 to 5
+Sweden,SWE,752,10064,978,9.7,2,0,2,0,5,0,,rentschler,0,0,17,0,idmc,Under 10%,Under 1%,Under 1
+Costa Rica,CRI,188,4817,948,19.7,16,0.3,41,0.8,121,2.5,,rentschler,1514,5976,3655,0.73,idmc,15 to 20%,1 to 5%,Under 1
+Kyrgyzstan,KGZ,417,5659,907,16,4,0.1,85,1.5,461,8.1,,rentschler,791,4654,1458,0.22,idmc,15 to 20%,5 to 10%,Under 1
+Belarus,BLR,112,9157,882,9.6,0,0,0,0,4,0,,rentschler,0,443,49,0.01,idmc,Under 10%,Under 1%,Under 1
+Lebanon,LBN,422,9337,872,9.3,0,0,1,0,16,0.2,,rentschler,0,2375,772,0.13,idmc,Under 10%,Under 1%,Under 1
+Albania,ALB,008,2797,771,27.6,8,0.3,50,1.8,240,8.6,,rentschler,2895,9,4107,1.63,idmc,20 to 30%,5 to 10%,1 to 5
+Ireland,IRL,372,5482,738,13.5,0,0,3,0.1,4,0.1,,rentschler,8,7,19,0,idmc,10 to 15%,Under 1%,Under 1
+Hong Kong,HKG,344,6032,720,11.9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,1403,394,606,0.08,idmc,10 to 15%,,Under 1
+Libya,LBY,434,6921,701,10.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,12650,7123,1.01,idmc,10 to 15%,,1 to 5
+Georgia,GEO,268,3728,695,18.6,29,0.8,104,2.8,281,7.5,,rentschler,290,297,242,0.06,idmc,15 to 20%,5 to 10%,Under 1
+Israel,ISR,376,8557,639,7.5,1,0,3,0,13,0.2,,rentschler,7000,0,9283,0.99,idmc,Under 10%,Under 1%,Under 1
+United Arab Emirates,ARE,784,8967,638,7.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,2070,376,0.04,idmc,Under 10%,,Under 1
+Bosnia and Herzegovina,BIH,070,3324,635,19.1,0,0,2,0,13,0.4,,rentschler,166,457,232,0.07,idmc,15 to 20%,Under 1%,Under 1
+Panama,PAN,591,4058,625,15.4,10,0.2,31,0.8,82,2,,rentschler,439,2118,1052,0.24,idmc,15 to 20%,1 to 5%,Under 1
+New Zealand,NZL,554,4393,623,14.2,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,530,1693,3823,0.76,idmc,10 to 15%,,Under 1
+Finland,FIN,246,5606,612,10.9,0,0,1,0,1,0,,rentschler,0,11,7,0,idmc,10 to 15%,Under 1%,Under 1
+Gabon,GAB,266,2972,579,19.5,17,0.6,62,2.1,186,6.3,,rentschler,1500,18,242,0.1,idmc,15 to 20%,5 to 10%,Under 1
+Mauritania,MRT,478,4448,579,13,46,1,171,3.9,380,8.5,,rentschler,5700,12500,5417,1.16,idmc,10 to 15%,5 to 10%,1 to 5
+Singapore,SGP,702,4439,577,13,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,,,,,,10 to 15%,,
+Latvia,LVA,428,2456,554,22.6,4,0.2,8,0.3,17,0.7,,rentschler,0,6,6,0,idmc,20 to 30%,Under 1%,Under 1
+Denmark,DNK,208,5888,541,9.2,0,0,0,0,1,0,,rentschler,0,8,55,0.01,idmc,Under 10%,Under 1%,Under 1
+Moldova,MDA,498,3673,496,13.5,0,0,4,0.1,60,1.6,,rentschler,0,166,17,0.01,idmc,10 to 15%,1 to 5%,Under 1
+Slovenia,SVN,705,2180,472,21.7,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,2,20,901,0.43,idmc,20 to 30%,,Under 1
+Mongolia,MNG,496,3159,458,14.5,2,0.1,23,0.7,120,3.8,,rentschler,923,894,2218,0.66,idmc,10 to 15%,1 to 5%,Under 1
+Norway,NOR,578,5223,456,8.7,1,0,1,0,2,0,,rentschler,64,592,957,0.18,idmc,Under 10%,Under 1%,Under 1
+Jordan,JOR,400,7138,455,6.4,1,0,13,0.2,105,1.5,,rentschler,0,0,267,0.02,idmc,Under 10%,1 to 5%,Under 1
+Portugal,PRT,620,10118,440,4.4,2,0,3,0,7,0.1,,rentschler,670,704,1656,0.16,idmc,Under 10%,Under 1%,Under 1
+Puerto Rico,PRI,630,3659,429,11.7,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,341,14908,4.54,idmc,10 to 15%,,1 to 5
+Namibia,NAM,516,2438,423,17.3,68,2.8,147,6,241,9.9,,rentschler,3172,1407,897,0.32,idmc,15 to 20%,5 to 10%,Under 1
+Armenia,ARM,051,2773,406,14.6,5,0.2,37,1.3,173,6.3,,rentschler,0,520,52,0.02,idmc,10 to 15%,5 to 10%,Under 1
+North Macedonia,MKD,807,2097,397,18.9,16,0.7,31,1.5,72,3.4,,rentschler,36,2,17,0.01,idmc,15 to 20%,1 to 5%,Under 1
+Jamaica,JAM,388,2721,395,14.5,7,0.3,37,1.4,118,4.3,,rentschler,279000,1800,28438,10.05,idmc,10 to 15%,1 to 5%,10 to 30
+Eritrea,ERI,232,4163,391,9.4,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,0,0,idmc,Under 10%,,Under 1
+Gambia,GMB,270,2395,370,15.4,40,1.6,146,6.1,275,11.5,,rentschler,251,7462,4912,1.93,idmc,15 to 20%,10 to 20%,1 to 5
+Lithuania,LTU,440,2748,333,12.1,3,0.1,5,0.2,12,0.4,,rentschler,0,4,0,0,idmc,10 to 15%,Under 1%,Under 1
+East Timor,TLS,626,1322,317,24,62,4.7,198,15,286,21.6,,rentschler,354,2065,1955,1.47,idmc,20 to 30%,20% or more,1 to 5
+Guinea-Bissau,GNB,624,1763,301,17.1,189,10.7,248,14.1,278,15.8,,rentschler,3017,1043,817,0.4,idmc,15 to 20%,10 to 20%,Under 1
+Kuwait,KWT,414,3522,301,8.5,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,1,0,idmc,Under 10%,,Under 1
+Botswana,BWA,072,2401,294,12.2,39,1.6,104,4.4,176,7.3,,rentschler,5636,1043,1079,0.45,idmc,10 to 15%,5 to 10%,Under 1
+Trinidad and Tobago,TTO,780,1377,291,21.1,1,0.1,3,0.2,18,1.3,,rentschler,0,129,131,0.1,idmc,20 to 30%,1 to 5%,Under 1
+Guyana,GUY,328,728,276,37.9,13,1.8,32,4.4,71,9.7,,rentschler,21,32,75,0.09,idmc,30% or more,5 to 10%,Under 1
+Suriname,SUR,740,619,233,37.7,45,7.3,70,11.3,108,17.5,,rentschler,0,0,797,1.3,idmc,30% or more,10 to 20%,1 to 5
+Uruguay,URY,858,3357,226,6.7,0,0,1,0,7,0.2,,rentschler,1867,19695,7061,2.08,idmc,Under 10%,Under 1%,1 to 5
+Equatorial Guinea,GNQ,226,1295,211,16.3,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,200,0,20,0.01,idmc,15 to 20%,,Under 1
+Oman,OMN,512,3587,184,5.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,1590,2283,0.48,idmc,Under 10%,,Under 1
+Mauritius,MUS,480,1277,169,13.2,0,0,2,0.2,18,1.4,,rentschler,279,2319,1021,0.81,idmc,10 to 15%,1 to 5%,Under 1
+Fiji,FJI,242,699,162,23.1,0,0.1,6,0.8,34,4.8,,rentschler,1500,763,15692,17.04,idmc,20 to 30%,1 to 5%,10 to 30
+Lesotho,LSO,426,1885,151,8,41,2.2,75,4,111,5.9,,rentschler,0,0,290,0.13,idmc,Under 10%,5 to 10%,Under 1
+Cyprus,CYP,196,1286,145,11.3,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,3737,1472,543,0.42,idmc,10 to 15%,,Under 1
+Solomon Islands,SLB,090,585,117,20.1,29,4.9,68,11.6,99,16.9,,rentschler,0,0,399,0.53,idmc,20 to 30%,10 to 20%,Under 1
+Brunei,BRN,096,453,115,25.4,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,0,0,idmc,20 to 30%,,Under 1
+Montenegro,MNE,499,603,110,18.3,1,0.1,6,1,15,2.4,,rentschler,0,0,41,0.07,idmc,15 to 20%,1 to 5%,Under 1
+Estonia,EST,233,1391,99,7.1,0,0,0,0,1,0.1,,rentschler,,,,,,Under 10%,Under 1%,
+Eswatini,SWZ,748,1096,99,9,28,2.6,51,4.7,71,6.4,,rentschler,134,417,113,0.09,idmc,Under 10%,5 to 10%,Under 1
+Belize,BLZ,084,414,88,21.4,10,2.4,21,5.1,40,9.8,,rentschler,162,2670,1774,4.5,idmc,20 to 30%,5 to 10%,1 to 5
+Bahamas,BHS,044,385,81,21.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,14782,30,3795,9.59,idmc,20 to 30%,,5 to 10
+Comoros,COM,174,846,74,8.7,11,1.4,28,3.3,49,5.7,,rentschler,0,1017,2049,2.53,idmc,Under 10%,5 to 10%,1 to 5
+Djibouti,DJI,262,1153,73,6.3,18,1.6,34,3,54,4.7,,rentschler,0,430,2589,2.33,idmc,Under 10%,1 to 5%,1 to 5
+Luxembourg,LUX,442,590,69,11.7,0,0,0,0,1,0.1,,rentschler,3,0,76,0.12,idmc,10 to 15%,Under 1%,Under 1
+Bhutan,BTN,064,813,63,7.7,0,0.1,5,0.6,20,2.4,,rentschler,138,158,64,0.08,idmc,Under 10%,1 to 5%,Under 1
+Iceland,ISL,352,360,53,14.9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,104,387,609,1.66,idmc,10 to 15%,,1 to 5
+New Caledonia,NCL,540,270,46,17,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,632,2.2,idmc,15 to 20%,,1 to 5
+Vanuatu,VUT,548,272,30,11.1,4,1.5,12,4.5,22,8.2,,rentschler,0,3088,18067,59.65,idmc,10 to 15%,5 to 10%,30 or more
+Andorra,AND,020,113,28,25,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,5,1,0.01,idmc,20 to 30%,,Under 1
+Cape Verde,CPV,132,508,27,5.3,1,0.1,3,0.6,10,1.9,,rentschler,1500,0,255,0.49,idmc,Under 10%,1 to 5%,Under 1
+Sao Tome and Principe,STP,678,208,26,12.4,9,4.5,17,8.2,22,10.8,,rentschler,0,0,74,0.33,idmc,10 to 15%,10 to 20%,Under 1
+Malta,MLT,470,424,22,5.2,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,,,,,,Under 10%,,
+Barbados,BRB,052,284,20,6.9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,400,100,0.35,idmc,Under 10%,,Under 1
+Saint Lucia,LCA,662,169,17,10.3,1,0.5,2,1,3,2,,rentschler,0,27,74,0.42,idmc,10 to 15%,1 to 5%,Under 1
+Guam,GUM,316,164,15,9.5,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,447,2.71,idmc,Under 10%,,1 to 5
+Cayman Islands,CYM,136,73,12,16.3,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,108,15,0.21,idmc,15 to 20%,,Under 1
+Tonga,TON,776,100,11,11.4,0,0.1,1,0.8,3,2.9,,rentschler,11,40,1382,13.15,idmc,10 to 15%,1 to 5%,10 to 30
+Antigua and Barbuda,ATG,028,93,9,9.9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,172,1.87,idmc,Under 10%,,1 to 5
+Grenada,GRD,308,99,9,8.8,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,3060,326,2.8,idmc,Under 10%,,1 to 5
+Dominica,DMA,212,69,6,9,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,3515,52.12,idmc,Under 10%,,30 or more
+Turks and Caicos Islands,TCA,796,43,4,9.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,28,0.63,idmc,Under 10%,,Under 1
+Faroe Islands,FRO,234,51,3,6.3,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,,,,,,Under 10%,,
+Micronesia (country),FSM,583,59,2,3.6,0,0.4,1,1.3,1,2.4,,rentschler,0,0,1,0,idmc,Under 10%,1 to 5%,Under 1
+Palau,PLW,585,25,2,6.1,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,0,0,246,13.83,idmc,Under 10%,,10 to 30
+San Marino,SMR,674,32,2,6.5,,,,,,,No poverty estimate: the study's table gives 0 at every poverty line,rentschler,,,,,,Under 10%,,
+Monaco,MCO,492,,,,,,,,,,,,,,,,,,,
+Kiribati,KIR,296,,,,,,,,,,,,0,0,0,0,idmc,,,Under 1
+Marshall Islands,MHL,584,,,,,,,,,,,,0,317,55,1.3,idmc,,,1 to 5
+Taiwan,TWN,158,,,,,,,,,,,,39044,39613,20944,,idmc,,,
+Samoa,WSM,882,,,,,,,,,,,,0,0,47,0.22,idmc,,,Under 1
+Cook Islands,COK,184,,,,,,,,,,,,0,0,3,,idmc,,,
+Palestine,PSE,275,,,,,,,,,,,,0,0,95,0.02,idmc,,,Under 1
+French Polynesia,PYF,258,,,,,,,,,,,,42,21,128,0.46,idmc,,,Under 1
+Saint Vincent and the Grenadines,VCT,670,,,,,,,,,,,,0,1752,2553,24.75,idmc,,,10 to 30
+Seychelles,SYC,690,,,,,,,,,,,,0,0,0,0,idmc,,,Under 1
+Tuvalu,TUV,798,,,,,,,,,,,,0,0,20,1.95,idmc,,,1 to 5
+Maldives,MDV,462,,,,,,,,,,,,315,243,132,0.26,idmc,,,Under 1
+Greenland,GRL,304,,,,,,,,,,,,0,0,29,0.51,idmc,,,Under 1
+Anguilla,AIA,660,,,,,,,,,,,,0,0,50,,idmc,,,
+Saint Kitts and Nevis,KNA,659,,,,,,,,,,,,0,0,3,0.07,idmc,,,Under 1
+Saint Martin (French part),MAF,663,,,,,,,,,,,,0,0,311,9.93,idmc,,,5 to 10
+Sint Maarten (Dutch part),SXM,534,,,,,,,,,,,,0,0,1032,25.03,idmc,,,10 to 30
+British Virgin Islands,VGB,092,,,,,,,,,,,,0,0,600,16.26,idmc,,,10 to 30
+United States Virgin Islands,VIR,850,,,,,,,,,,,,0,0,231,2.18,idmc,,,1 to 5
+American Samoa,ASM,016,,,,,,,,,,,,0,0,505,10.26,idmc,,,10 to 30
+Northern Mariana Islands,MNP,580,,,,,,,,,,,,0,0,1595,33.83,idmc,,,30 or more
+Macao,MAC,446,,,,,,,,,,,,3388,10,1505,2.24,idmc,,,1 to 5
+Mayotte,MYT,175,,,,,,,,,,,,20000,141750,17220,,idmc,,,
+Martinique,MTQ,474,,,,,,,,,,,,0,0,0,,idmc,,,
+French Guiana,GUF,254,,,,,,,,,,,,88,0,23,,idmc,,,
+Bermuda,BMU,060,,,,,,,,,,,,100,0,15,0.23,idmc,,,Under 1
+Reunion,REU,638,,,,,,,,,,,,1000,700,179,,idmc,,,
+Guadeloupe,GLP,312,,,,,,,,,,,,0,0,15,,idmc,,,
+Isle of Man,IMN,833,,,,,,,,,,,,0,0,1,0.01,idmc,,,Under 1
+Jersey,JEY,832,,,,,,,,,,,,0,0,8,,idmc,,,

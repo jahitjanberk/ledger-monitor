@@ -34,6 +34,7 @@ const KEYED = [
   ["medicines", "countries"],
   ["fertilizer", "countries"],
   ["remittances", "countries"],
+  ["disasters", "countries"],
 ];
 const C = new Map(); // iso3 -> { iso3, n3, name }
 const byN3 = new Map(), byName = new Map();
@@ -190,8 +191,17 @@ const METRICS = [
     M({ id: "rem_cost_out", label: "Average cost of sending $200 from the country", unit: "%", dec: 2, get: (r) => r.cost_send, year: (r) => r.cost_send != null && 2025, src: (r) => r.cost_source,
       note: (r) => r.cost_send_2017 != null && `${nf(r.cost_send_2017, 2)}% in 2017` }),
   ] },
+  { dash: "disasters", section: "map", table: ["disasters", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "flood_exposed", label: "People exposed to significant flood risk", unit: "%", get: (r) => r.flood_exposed_pct, year: (r) => r.flood_exposed_pct != null && 2020, src: (r) => r.flood_source,
+      note: (r) => r.flood_exposed_k != null && `${nf(r.flood_exposed_k * 1000)} people` }),
+    M({ id: "flood_poor", label: "Exposed to significant flood risk and living on under $5.50 a day", unit: "%", get: (r) => r.poor550_pct, year: (r) => r.poor550_pct != null && 2020, src: (r) => r.flood_source,
+      note: (r) => r.poor550_k != null && `${nf(r.poor550_k * 1000)} people` }),
+    M({ id: "displaced_2025", label: "Displacements caused by disasters", dec: 0, fmt: (v) => nf(v), get: (r) => r.displaced_2025, year: (r) => r.displaced_2025 != null && 2025, src: (r) => r.displaced_source }),
+    M({ id: "displaced_rate", label: "Disaster displacements a year per 1,000 people, 2016 to 2025 average", get: (r) => r.displaced_per_1000, year: (r) => r.displaced_per_1000 != null && 2025, src: (r) => r.displaced_source,
+      note: (r) => r.displaced_avg != null && `${nf(r.displaced_avg)} a year` }),
+  ] },
 ];
-const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines", fertilizer: "Fertiliser", remittances: "Remittances" };
+const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines", fertilizer: "Fertiliser", remittances: "Remittances", disasters: "Disasters" };
 
 // Values for every country, then ranks.
 const VAL = new Map(); // iso3 -> metric id -> { v, under, y, s, dash, row }

@@ -37,6 +37,7 @@ const SECTION_DATA = {
 medicines: { glance: ["shortages", "us_years", "uk_concessions"], map: ["countries", "bands"], shortages: ["us_years", "shortages", "categories"], causes: ["reasons", "api_sites", "countries", "facts"], europe: ["eu_critical", "eu_shortages", "facts"], uk: ["uk_concessions", "uk_ssp", "countries"], table: ["countries"] },
   fertilizer: { glance: ["prices", "world"], map: ["countries", "bands"], prices: ["prices", "forecasts", "facts"], energy: ["prices", "gulf", "facts"], supply: ["producers", "countries"], use: ["regions", "world"], uk: ["uk_prices", "uk_rates", "countries", "facts"], table: ["countries"] },
   remittances: { glance: ["world", "quarterly", "corridors", "facts"], map: ["countries", "bands", "corridors"], flows: ["world", "countries"], costs: ["world", "regions", "countries", "facts"], providers: ["quarterly", "breakdown", "facts"], corridors: ["corridors", "countries", "facts"], uk: ["uk_cost", "uk_flows", "corridors", "facts"], table: ["countries"] },
+  disasters: { glance: ["facts", "losses", "world", "hazards"], map: ["countries", "bands"], hazards: ["hazards", "deadliest", "world", "countries", "facts"], gap: ["losses", "gap_regions", "costliest", "facts"], floods: ["countries", "facts"], uk: ["uk_risk", "uk_regions", "uk_infra", "facts"], table: ["countries"] },
 };
 
 const DASHBOARDS = {
@@ -57,19 +58,20 @@ const DASHBOARDS = {
 medicines: { title: "Medicine Shortages & Supply", blurb: "Which medicines are running short and for how long, and where medicines are made." },
   fertilizer: { title: "Fertiliser Prices & Supply", blurb: "What fertiliser costs, who makes and exports it, and which countries depend on imports." },
   remittances: { title: "The Cost of Sending Money Home", blurb: "How much migrants send home, and what banks and money transfer firms charge them to do it." },
+  disasters: { title: "Floods, Disasters & Insurance Gaps", blurb: "Who disasters kill and drive from home, how much of the damage is insured, and who lives with flood risk." },
 };
 // Three other dashboards per page, picked for overlapping subjects. Ids that don't exist yet are skipped.
 const MORE = {
   air: ["energy", "electricity", "heat"],
   electricity: ["energy", "air", "minerals"],
   internet: ["electricity", "water", "orbit"],
-  water: ["food", "heat", "vaccines"],
+  water: ["disasters", "food", "heat"],
   chokepoints: ["fertilizer", "food", "medicines"],
   orbit: ["internet", "chokepoints", "minerals"],
-  housing: ["energy", "food", "remittances"],
+  housing: ["disasters", "energy", "remittances"],
   food: ["fertilizer", "chokepoints", "energy"],
   debt: ["vaccines", "remittances", "food"],
-  heat: ["energy", "food", "air"],
+  heat: ["disasters", "energy", "food"],
   minerals: ["medicines", "chokepoints", "electricity"],
   scams: ["remittances", "housing", "internet"],
   vaccines: ["medicines", "debt", "water"],
@@ -77,6 +79,7 @@ const MORE = {
   medicines: ["minerals", "chokepoints", "vaccines"],
   fertilizer: ["food", "chokepoints", "energy"],
   remittances: ["debt", "scams", "food"],
+  disasters: ["heat", "housing", "water"],
 };
 
 const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
@@ -179,6 +182,12 @@ medicines: [
     "Most cost figures are for one quarter of each year (July to September). The World Bank did not collect prices for April to June 2025, and the dataset has no prices for money sent from Russia since 2022.",
     "A few corridors are recorded at more than the amount sent, such as Türkiye to Bulgaria at 118%, which suggests a data problem. They are kept in the data but left out of the charts.",
     "Remittance flows are those recorded in balance of payments data, in current US dollars. Money sent through informal channels is not counted, and the latest year is partly estimated.",
+  ],
+  disasters: [
+    "Deaths, people affected and losses by hazard are CRED's published summary of EM-DAT, which only records disasters above a threshold (10 deaths, 100 people affected, or a call for help). Heat and drought deaths are reported late or not at all, so they are undercounted.",
+    "Flood exposure is a 2022 model of present-day hazard on 2020 population maps. It ignores flood defences and climate change, so it shows where floods could reach, not who will be flooded.",
+    "Displacements count movements, including evacuations before a storm; one person moved twice counts twice.",
+    "Insured and overall losses are the reinsurers' estimates, quoted from Munich Re and Swiss Re; their figures differ, and Munich Re's leave out droughts and heatwaves.",
   ],
 };
 

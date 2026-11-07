@@ -20,7 +20,7 @@
       "publisher": "FAO, FAOSTAT, from national statistics offices, the IMF and the ILO",
       "title": "Consumer Price Indices: food price inflation",
       "url": "https://www.fao.org/faostat/en/#data/CP",
-      "published": "2026-10-09",
+      "published": "2026-10-20",
       "method": "reference",
       "notes": "Year-on-year change in each country's food consumer price index, by month. Latest month available for each country, mostly June 2026. CC BY 4.0."
     },
@@ -105,12 +105,12 @@
       "notes": "Online YouGov survey of UK adults, June 2026. Measures food insecurity in the past month, so it runs higher than the yearly official figure."
     },
     "usda-ers": {
-      "publisher": "USDA Economic Research Service (processed by Our World in Data)",
-      "title": "Food as a share of total consumer expenditure",
-      "url": "https://ourworldindata.org/grapher/share-of-consumer-expenditure-spent-on-food",
-      "published": "2025-03-26",
+      "publisher": "US Department of Agriculture, Economic Research Service",
+      "title": "International Food and Alcoholic Beverage Expenditure Data: percent of consumer expenditures spent on food, alcoholic beverages, and tobacco that were consumed at home, by selected countries, 2021–2025",
+      "url": "https://www.ers.usda.gov/data-products/international-food-and-alcoholic-beverage-expenditure-data",
+      "published": "2026-08-11",
       "method": "reference",
-      "notes": "Food eaten at home, as a share of all household consumer spending, 2023. Excludes restaurants, alcohol and tobacco."
+      "notes": "Food and non-alcoholic drinks bought to eat at home, as a share of all household consumer spending (shares calculated in local currency). Each country's latest year: 2025 for every country except Montenegro (2022). ERS calculated 2024 and 2025 from Oxford Economics data and earlier years from Euromonitor International. Excludes restaurants, alcohol and tobacco. US government work, public domain."
     },
     "natural-earth": {
       "publisher": "Natural Earth (via the world-atlas package)",

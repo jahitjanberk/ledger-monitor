@@ -1,0 +1,79 @@
+{
+  "id": "uk_risk",
+  "title": "Properties in England in areas at risk of flooding, by source and risk band",
+  "description": "Present day and with climate change, from the Environment Agency's NaFRA 2024.",
+  "records": [
+    {
+      "flood_source": "Rivers and the sea",
+      "band": "High",
+      "properties": 367900,
+      "properties_climate": 637600,
+      "climate_period": "2036 to 2069",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Rivers and the sea",
+      "band": "Medium",
+      "properties": 323300,
+      "properties_climate": 538800,
+      "climate_period": "2036 to 2069",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Rivers and the sea",
+      "band": "Low",
+      "properties": 966500,
+      "properties_climate": 1209400,
+      "climate_period": "2036 to 2069",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Rivers and the sea",
+      "band": "Very low",
+      "properties": 777300,
+      "properties_climate": 710900,
+      "climate_period": "2036 to 2069",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Rivers and the sea",
+      "band": "Total",
+      "properties": 2435000,
+      "properties_climate": 3096700,
+      "climate_period": "2036 to 2069",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Surface water",
+      "band": "High",
+      "properties": 1071800,
+      "properties_climate": 1784300,
+      "climate_period": "2040 to 2060",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Surface water",
+      "band": "Medium",
+      "properties": 884800,
+      "properties_climate": 972300,
+      "climate_period": "2040 to 2060",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Surface water",
+      "band": "Low",
+      "properties": 2644000,
+      "properties_climate": 3299600,
+      "climate_period": "2040 to 2060",
+      "source": "ea-nafra"
+    },
+    {
+      "flood_source": "Surface water",
+      "band": "Total",
+      "properties": 4600600,
+      "properties_climate": 6056200,
+      "climate_period": "2040 to 2060",
+      "source": "ea-nafra"
+    }
+  ]
+}

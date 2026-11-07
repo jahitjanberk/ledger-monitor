@@ -1,0 +1,343 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from Rentschler et al. (2022), CRED, Swiss Re Institute, Munich Re, the Environment Agency, the ABI and Flood Re.",
+  "records": [
+    {
+      "id": "exposed",
+      "label": "People directly exposed to 1-in-100-year floods (more than 15 cm deep)",
+      "value": 1.81,
+      "unit": "billion",
+      "note": "23% of the world's population",
+      "source": "rentschler"
+    },
+    {
+      "id": "exposed_pct",
+      "label": "Share of the world's population directly exposed to 1-in-100-year floods",
+      "value": 23,
+      "unit": "%",
+      "note": "",
+      "source": "rentschler"
+    },
+    {
+      "id": "asia",
+      "label": "Flood-exposed people living in South and East Asia",
+      "value": 1.24,
+      "unit": "billion",
+      "note": "China (395 million) and India (390 million) account for over a third of global exposure",
+      "source": "rentschler"
+    },
+    {
+      "id": "lmic",
+      "label": "Share of the world's flood-exposed people living in low- and middle-income countries",
+      "value": 89,
+      "unit": "%",
+      "note": "",
+      "source": "rentschler"
+    },
+    {
+      "id": "extreme",
+      "label": "People facing high flood risk and living in extreme poverty (under $1.90 a day)",
+      "value": 170,
+      "unit": "million",
+      "note": "44% of them in Sub-Saharan Africa",
+      "source": "rentschler"
+    },
+    {
+      "id": "poor550",
+      "label": "People living on under $5.50 a day who face high flood risk",
+      "value": 780,
+      "unit": "million (over)",
+      "note": "",
+      "source": "rentschler"
+    },
+    {
+      "id": "events",
+      "label": "Natural hazard-related disasters recorded in EM-DAT, 2025",
+      "value": 358,
+      "unit": "disasters",
+      "note": "377 a year on average in 2005 to 2024",
+      "source": "cred-2025"
+    },
+    {
+      "id": "deaths",
+      "label": "Deaths in natural hazard-related disasters, 2025",
+      "value": 16607,
+      "unit": "deaths",
+      "note": "57,429 a year on average in 2005 to 2024; includes people missing and presumed dead",
+      "source": "cred-2025"
+    },
+    {
+      "id": "deaths_avg",
+      "label": "Deaths in natural hazard-related disasters, annual average 2005 to 2024",
+      "value": 57429,
+      "unit": "deaths",
+      "note": "",
+      "source": "cred-2025"
+    },
+    {
+      "id": "affected",
+      "label": "People affected by natural hazard-related disasters, 2025",
+      "value": 110.2,
+      "unit": "million",
+      "note": "169.0 million a year on average in 2005 to 2024",
+      "source": "cred-2025"
+    },
+    {
+      "id": "affected_avg",
+      "label": "People affected by natural hazard-related disasters, annual average 2005 to 2024",
+      "value": 169,
+      "unit": "million",
+      "note": "",
+      "source": "cred-2025"
+    },
+    {
+      "id": "damage",
+      "label": "Economic losses from natural hazard-related disasters recorded in EM-DAT, 2025",
+      "value": 169.7,
+      "unit": "US$ billion",
+      "note": "215.0 billion a year on average in 2005 to 2024",
+      "source": "cred-2025"
+    },
+    {
+      "id": "asiadeaths",
+      "label": "Share of 2025 disaster deaths in Asia",
+      "value": 72.8,
+      "unit": "%",
+      "note": "12,098 deaths, largely from the Myanmar and Afghanistan earthquakes",
+      "source": "cred-2025"
+    },
+    {
+      "id": "syria",
+      "label": "People in need of assistance after Syria's record drought, 2025",
+      "value": 16.2,
+      "unit": "million",
+      "note": "80% of the population",
+      "source": "cred-2025"
+    },
+    {
+      "id": "somalia",
+      "label": "Estimated excess deaths in Somalia's 30-month drought and famine, 2021 to 2024",
+      "value": 71100,
+      "unit": "deaths",
+      "note": "Around 40% were children under five",
+      "source": "cred-2025"
+    },
+    {
+      "id": "sr_insured",
+      "label": "Global insured natural catastrophe losses, 2025",
+      "value": 107,
+      "unit": "US$ billion",
+      "note": "Secondary perils (wildfires, severe storms, floods and others) made up a record 92%",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_economic",
+      "label": "Global economic losses from natural catastrophes, 2025",
+      "value": 220,
+      "unit": "US$ billion",
+      "note": "",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_share",
+      "label": "Share of 2025 natural catastrophe losses that were insured",
+      "value": 49,
+      "unit": "%",
+      "note": "About 49%, the highest share on sigma records",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_emerging",
+      "label": "Share of catastrophe losses typically not covered by insurance in emerging economies",
+      "value": 80,
+      "unit": "% to 90%",
+      "note": "80 to 90%",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_flood",
+      "label": "Global flood-related insured losses, 2025",
+      "value": 3.4,
+      "unit": "US$ billion",
+      "note": "Against a previous five-year average of US$15.4 billion",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_flood_avg",
+      "label": "Global flood-related insured losses, previous five-year average",
+      "value": 15.4,
+      "unit": "US$ billion",
+      "note": "",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_la",
+      "label": "Insured losses from the Los Angeles wildfires, January 2025",
+      "value": 40,
+      "unit": "US$ billion",
+      "note": "The largest insured wildfire loss on sigma records",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_scs",
+      "label": "Insured losses from severe convective storms (hail, tornadoes, damaging winds), 2025",
+      "value": 51,
+      "unit": "US$ billion",
+      "note": "Third-costliest year on record for these storms",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_trend",
+      "label": "Insured losses in 2026 if losses return to the long-term trend",
+      "value": 148,
+      "unit": "US$ billion",
+      "note": "About US$320 billion in Swiss Re's modelled peak-loss scenario",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "sr_exposure",
+      "label": "Share of the long-term rise in weather-related insured losses explained by exposure growth, 1970 to 2025",
+      "value": 80,
+      "unit": "% (more than)",
+      "note": "More valuable property in harm's way and higher rebuilding costs",
+      "source": "swissre-sigma"
+    },
+    {
+      "id": "mr_uninsured",
+      "label": "Share of 2025 natural disaster losses that were uninsured (Munich Re)",
+      "value": 50,
+      "unit": "% (around)",
+      "note": "Against a 10-year average of around 60%; lower because so much of the Los Angeles wildfire loss was insured",
+      "source": "munichre-2025"
+    },
+    {
+      "id": "mr_weather",
+      "label": "Share of 2025 natural disaster losses caused by weather disasters",
+      "value": 92,
+      "unit": "%",
+      "note": "97% of insured losses",
+      "source": "munichre-2025"
+    },
+    {
+      "id": "mr_h1gap",
+      "label": "Insurance gap, first half of 2026",
+      "value": 60,
+      "unit": "%",
+      "note": "US$44 billion insured of nearly US$112 billion",
+      "source": "munichre-h1-2026"
+    },
+    {
+      "id": "mr_venezuela",
+      "label": "Expected losses from the double earthquake in Venezuela, 24 June 2026",
+      "value": 30,
+      "unit": "US$ billion (around)",
+      "note": "Insured losses of less than US$1 billion; 5,500 deaths in the factsheet",
+      "source": "munichre-h1-2026"
+    },
+    {
+      "id": "uk_total",
+      "label": "Properties in England in areas at risk of flooding from rivers, the sea or surface water",
+      "value": 6.3,
+      "unit": "million",
+      "note": "Around 8 million by mid-century with climate change: 1 in 4 properties",
+      "source": "ea-nafra"
+    },
+    {
+      "id": "uk_2050",
+      "label": "Properties in England in areas at flood risk by mid-century, with climate change",
+      "value": 8,
+      "unit": "million (around)",
+      "note": "",
+      "source": "ea-nafra"
+    },
+    {
+      "id": "uk_winter",
+      "label": "Properties flooded in England in the winter 2023 to 2024 storms",
+      "value": 5000,
+      "unit": "properties (around)",
+      "note": "Flood defences protected around 250,000 properties",
+      "source": "ea-nafra"
+    },
+    {
+      "id": "uk_protected",
+      "label": "Properties protected by flood defences in England in the winter 2023 to 2024 storms",
+      "value": 250000,
+      "unit": "properties (around)",
+      "note": "",
+      "source": "ea-nafra"
+    },
+    {
+      "id": "uk_damage",
+      "label": "Economic damages of all floods in England and Wales, January 2016 to November 2019",
+      "value": 708,
+      "unit": "£ million",
+      "note": "Best estimate, 2024 prices; range £504 million to £924 million",
+      "source": "ea-nafra"
+    },
+    {
+      "id": "abi_total",
+      "label": "UK property insurance claims paid, 2025",
+      "value": 6.1,
+      "unit": "£ billion",
+      "note": "The highest annual total since the ABI began collecting the data in 2017",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_weather",
+      "label": "UK weather-related property claims paid, 2025",
+      "value": 1.2,
+      "unit": "£ billion",
+      "note": "Up 14% (£142 million) on 2024; £758 million of it for damage to homes and possessions",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_homes",
+      "label": "UK weather-related claims for damage to homes and possessions, 2025",
+      "value": 758,
+      "unit": "£ million",
+      "note": "Burst or frozen pipes, escape of water, storms and floods",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_flood",
+      "label": "Cost of domestic flood claims, UK, 2025",
+      "value": 312,
+      "unit": "£ million",
+      "note": "Up 38%",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_floodavg",
+      "label": "Average flood payout to a homeowner, 2025",
+      "value": 30000,
+      "unit": "£",
+      "note": "Up 60%",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_storm",
+      "label": "Storm damage to homes, UK, 2025",
+      "value": 244,
+      "unit": "£ million",
+      "note": "Up 32% (£59 million); average payout £2,450",
+      "source": "abi-2025"
+    },
+    {
+      "id": "abi_subsidence",
+      "label": "Domestic subsidence payouts, UK, 2025",
+      "value": 307,
+      "unit": "£ million",
+      "note": "Up 10%, the highest on record, after the UK's hottest summer on record",
+      "source": "abi-2025"
+    },
+    {
+      "id": "floodre_policies",
+      "label": "Home insurance policies ceded to Flood Re, year to 31 March 2026",
+      "value": 353000,
+      "unit": "policies (estimated)",
+      "note": "More than 742,000 households helped since the scheme began; 23% of properties ceded in the year were new to it",
+      "source": "floodre-2026"
+    }
+  ]
+}
