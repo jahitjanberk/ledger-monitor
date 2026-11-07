@@ -5,9 +5,16 @@
   <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/"/>
   <link rel="self" type="application/atom+xml" href="https://jahitjanberk.github.io/ledger-monitor/feed.xml"/>
   <id>https://jahitjanberk.github.io/ledger-monitor/</id>
-  <updated>2026-11-07T18:00:00Z</updated>
+  <updated>2026-11-07T20:00:00Z</updated>
   <author><name>jahit</name><uri>https://github.com/jahitjanberk</uri></author>
   <rights>Data: CC BY 4.0 compilation. Code: MIT.</rights>
+  <entry>
+    <title>New dashboard: Wages &amp; the Cost of Living</title>
+    <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/wages/"/>
+    <id>tag:jahitjanberk.github.io,2026:2026-11-07-wages</id>
+    <updated>2026-11-07T20:00:00Z</updated>
+    <summary>7.9% of the world&apos;s workers, nearly 300 million people, live on less than $3 a day. The new dashboard sets minimum and average wages (ILOSTAT, OECD) against prices: in 55 of 131 countries a healthy diet for one person costs a quarter or more of the minimum wage. It also tracks pay after inflation, working poverty, labour&apos;s share of income and, for the UK, real earnings and the National Living Wage.</summary>
+  </entry>
   <entry>
     <title>New dashboard: Floods, Disasters &amp; Insurance Gaps</title>
     <link rel="alternate" type="text/html" href="https://jahitjanberk.github.io/ledger-monitor/disasters/"/>

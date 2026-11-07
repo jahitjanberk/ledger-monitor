@@ -1,0 +1,22 @@
+id,label,value,unit,note,source
+gwr2022,"Global real average wage growth, 2022",-0.9,%,High inflation outpaced nominal wage growth,ilo-gwr
+gwr2023,"Global real average wage growth, 2023",1.8,%,,ilo-gwr
+gwr2024,"Global real average wage growth, 2024 (projection)",2.7,%,The highest increase in more than 15 years,ilo-gwr
+adv2022,"Real wage growth in advanced G20 economies, 2022",-2.8,%,,ilo-gwr
+adv2023,"Real wage growth in advanced G20 economies, 2023",-0.5,%,,ilo-gwr
+em2022,"Real wage growth in emerging G20 economies, 2022",1.8,%,,ilo-gwr
+em2023,"Real wage growth in emerging G20 economies, 2023",6,%,,ilo-gwr
+bottom10,Share of the global wage bill earned by the lowest-paid 10% of workers,0.5,%,,ilo-gwr
+top10,Share of the global wage bill earned by the highest-paid 10% of workers,38,%,Nearly 38%,ilo-gwr
+liclow,Share of wage workers in low-income countries classified as low-paid,22,%,Close to 22%,ilo-gwr
+poor,"Workers living in extreme poverty, earning less than US$3 a day",300,million,Nearly 300 million,ilo-est2026
+informal,Workers expected to hold informal jobs in 2026,2.1,billion,,ilo-est2026
+nlw2027,"UK National Living Wage from April 2027, workers aged 21 and over",13.21,£ an hour,Up 3.9%,lpc-2027
+nlw2027pct,Increase in the National Living Wage in April 2027,3.9,%,,lpc-2027
+below,"UK employee jobs paid below the National Minimum Wage or National Living Wage, April 2026",346000,jobs,1.1% of employee jobs; not a measure of non-compliance,ons-lowpay
+belowpct,"Share of UK employee jobs paid below the minimum wage, April 2026",1.1,%,,ons-lowpay
+median,"UK median hourly pay excluding overtime, April 2026",19,£ an hour,,ons-lowpay
+lowline,"UK low-pay threshold (two-thirds of median hourly pay), April 2026",12.67,£ an hour,,ons-lowpay
+young,"Share of UK employees aged 16 to 21 in low pay, April 2026",33.6,%,,ons-lowpay
+hospitality,"Share of UK employee jobs in accommodation and food services in low pay, April 2026",16.3,%,,ons-lowpay
+cpih,"UK CPIH inflation, average of June to August 2026",3.1,%,,ons-awe

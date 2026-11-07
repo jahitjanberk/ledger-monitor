@@ -20,6 +20,7 @@ Each script rebuilds one dashboard's published data from raw downloads: `data/<i
     node scripts/build/vaccines.mjs
     node scripts/build/water.mjs
     node scripts/build/disasters.mjs
+    node scripts/build/wages.mjs
 
 Raw downloads go in `scripts/.raw/`, which git ignores, laid out as below. To keep them elsewhere, set `RAW` to the folder that holds one subfolder per dashboard (`food/`, `debt/`, `air/` and so on) and the shared `cmo/`. Excel files are read unzipped: unzip the `.xlsx` into the folder named.
 
@@ -240,3 +241,18 @@ remittanceprices.worldbank.org is behind a Cloudflare challenge, so use the Data
 | `pages/*.pdf`, `pages/*.html` | Kept for checking the typed-in figures: CRED's [2025 Disasters in Numbers](https://files.emdat.be/reports/2025_EMDAT_report.pdf), the Swiss Re sigma press release PDF, Munich Re's 2025 media release and factsheets (2025 and first half of 2026), the ABI and Flood Re releases |
 
 The builder also reads `data/air/countries.json` for country names and numeric codes. Figures from CRED, Swiss Re, Munich Re, the ABI, Flood Re and the NaFRA text are typed into the builder with their source ids; each CRED hazard column was checked against the report's totals.
+
+## `wages/`
+
+| File | Source |
+|---|---|
+| `ilo_EAR_INEE_CUR_NB.csv` | ILO SDMX API, monthly minimum wage by currency: `https://sdmx.ilo.org/rest/data/ILO,DF_EAR_INEE_CUR_NB,1.0/all?format=csv&startPeriod=2010` |
+| `ilo_EAR_EMTA_SEX_CUR_NB.csv` | Average monthly earnings of employees by sex and currency: same URL with `DF_EAR_EMTA_SEX_CUR_NB` and `startPeriod=2010` |
+| `ilo_SDG_0111_SEX_AGE_RT.csv` | Working poverty rate (SDG 1.1.1): same URL with `DF_SDG_0111_SEX_AGE_RT` and `startPeriod=2000` |
+| `ilo_LAP_2GDP_NOC_RT.csv` | Labour income share, ILO modelled estimates: same URL with `DF_LAP_2GDP_NOC_RT` and `startPeriod=2004` |
+| `oecd_AV_AN_WAGE.csv`, `oecd_RMW.csv`, `oecd_MIN2AVE.csv` | OECD SDMX API: `https://sdmx.oecd.org/public/rest/data/OECD.ELS.SAE,DSD_EARNINGS@<id>,1.0/all?startPeriod=2000&dimensionAtObservation=AllDimensions&format=csvfilewithlabels` |
+| `cahd/` | FAOSTAT Cost and Affordability of a Healthy Diet, unzipped: `https://bulks-faostat.fao.org/production/Cost_Affordability_Healthy_Diet_(CoAHD)_E_All_Data_(Normalized).zip` |
+| `ons_kab9.csv`, `ons_a3wx.csv`, `ons_a3ww.csv` | ONS: `https://www.ons.gov.uk/generator?format=csv&uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/<id>/emp` |
+| `ons_lowpay_75a77a6c.csv` | ONS *Low and high pay in the UK: 2026*, Figure 1 data: `https://www.ons.gov.uk/generator?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/lowandhighpayuk/2026/75a77a6c&format=csv` (next year: the new bulletin's Figure 1 "Download this chart" CSV) |
+
+The builder also reads `data/air/countries.json` for country names and numeric codes. The National Living Wage rates (GOV.UK, from April 2019) and the headline facts (ILO *Global Wage Report 2024-25* and *Employment and Social Trends 2026* press releases, the LPC's 2027 announcement, the ONS bulletins) are typed into the builder. `ilo_EAR_INEE_CUR_NB.csv` and the other ILO files can be large; the ILO's `rplumber` and `ilostat-files` bulk URLs returned empty files or 404s on 7 November 2026, so use the SDMX API.

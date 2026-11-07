@@ -1,0 +1,167 @@
+{
+  "id": "bands",
+  "title": "Map classes",
+  "description": "Bands used to colour the four maps.",
+  "records": [
+    {
+      "map": "minwage",
+      "band": "Under $250",
+      "min": null,
+      "max": 250,
+      "unit": "PPP dollars a month",
+      "source": "ilo-mw"
+    },
+    {
+      "map": "minwage",
+      "band": "$250 to $500",
+      "min": 250,
+      "max": 500,
+      "unit": "PPP dollars a month",
+      "source": "ilo-mw"
+    },
+    {
+      "map": "minwage",
+      "band": "$500 to $1,000",
+      "min": 500,
+      "max": 1000,
+      "unit": "PPP dollars a month",
+      "source": "ilo-mw"
+    },
+    {
+      "map": "minwage",
+      "band": "$1,000 to $2,000",
+      "min": 1000,
+      "max": 2000,
+      "unit": "PPP dollars a month",
+      "source": "ilo-mw"
+    },
+    {
+      "map": "minwage",
+      "band": "$2,000 or more",
+      "min": 2000,
+      "max": null,
+      "unit": "PPP dollars a month",
+      "source": "ilo-mw"
+    },
+    {
+      "map": "poverty",
+      "band": "Under 1%",
+      "min": null,
+      "max": 1,
+      "unit": "% of workers",
+      "source": "ilo-wp"
+    },
+    {
+      "map": "poverty",
+      "band": "1 to 5%",
+      "min": 1,
+      "max": 5,
+      "unit": "% of workers",
+      "source": "ilo-wp"
+    },
+    {
+      "map": "poverty",
+      "band": "5 to 15%",
+      "min": 5,
+      "max": 15,
+      "unit": "% of workers",
+      "source": "ilo-wp"
+    },
+    {
+      "map": "poverty",
+      "band": "15 to 35%",
+      "min": 15,
+      "max": 35,
+      "unit": "% of workers",
+      "source": "ilo-wp"
+    },
+    {
+      "map": "poverty",
+      "band": "35% or more",
+      "min": 35,
+      "max": null,
+      "unit": "% of workers",
+      "source": "ilo-wp"
+    },
+    {
+      "map": "diet",
+      "band": "Under 10%",
+      "min": null,
+      "max": 10,
+      "unit": "% of a month's minimum wage",
+      "source": "fao-cohd"
+    },
+    {
+      "map": "diet",
+      "band": "10 to 25%",
+      "min": 10,
+      "max": 25,
+      "unit": "% of a month's minimum wage",
+      "source": "fao-cohd"
+    },
+    {
+      "map": "diet",
+      "band": "25 to 50%",
+      "min": 25,
+      "max": 50,
+      "unit": "% of a month's minimum wage",
+      "source": "fao-cohd"
+    },
+    {
+      "map": "diet",
+      "band": "50 to 100%",
+      "min": 50,
+      "max": 100,
+      "unit": "% of a month's minimum wage",
+      "source": "fao-cohd"
+    },
+    {
+      "map": "diet",
+      "band": "More than the whole wage",
+      "min": 100,
+      "max": null,
+      "unit": "% of a month's minimum wage",
+      "source": "fao-cohd"
+    },
+    {
+      "map": "labour",
+      "band": "Under 40%",
+      "min": null,
+      "max": 40,
+      "unit": "% of GDP",
+      "source": "ilo-ls"
+    },
+    {
+      "map": "labour",
+      "band": "40 to 50%",
+      "min": 40,
+      "max": 50,
+      "unit": "% of GDP",
+      "source": "ilo-ls"
+    },
+    {
+      "map": "labour",
+      "band": "50 to 55%",
+      "min": 50,
+      "max": 55,
+      "unit": "% of GDP",
+      "source": "ilo-ls"
+    },
+    {
+      "map": "labour",
+      "band": "55 to 60%",
+      "min": 55,
+      "max": 60,
+      "unit": "% of GDP",
+      "source": "ilo-ls"
+    },
+    {
+      "map": "labour",
+      "band": "60% or more",
+      "min": 60,
+      "max": null,
+      "unit": "% of GDP",
+      "source": "ilo-ls"
+    }
+  ]
+}

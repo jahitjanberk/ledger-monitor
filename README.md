@@ -1,7 +1,7 @@
 # Ledger Monitor
 
 <p align="center">
-  <strong>Eighteen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
+  <strong>Nineteen open-data dashboards on the systems behind everyday life.</strong> Every number links to the report it came from, and all the data is free to download.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code licence: MIT"></a>
   <a href="DATA_LICENSE.md"><img src="https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey" alt="Data licence: CC BY 4.0"></a>
   <a href="https://github.com/jahitjanberk/ledger-monitor/commits/main"><img src="https://img.shields.io/github/last-commit/jahitjanberk/ledger-monitor" alt="Last commit"></a>
-  <img src="https://img.shields.io/badge/dashboards-18-informational" alt="18 dashboards">
+  <img src="https://img.shields.io/badge/dashboards-19-informational" alt="19 dashboards">
   <img src="https://img.shields.io/badge/build%20step-none-brightgreen" alt="No build step">
 </p>
 
@@ -45,6 +45,7 @@
   <a href="https://jahitjanberk.github.io/ledger-monitor/fertilizer/"><img src="https://img.shields.io/badge/Fertiliser-Open-566573?style=for-the-badge&labelColor=555" alt="Fertiliser Prices and Supply"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/remittances/"><img src="https://img.shields.io/badge/Remittances-Open-a3306f?style=for-the-badge&labelColor=555" alt="The Cost of Sending Money Home"></a>
   <a href="https://jahitjanberk.github.io/ledger-monitor/disasters/"><img src="https://img.shields.io/badge/Floods%20%26%20Disasters-Open-1d5f99?style=for-the-badge&labelColor=555" alt="Floods, Disasters and Insurance Gaps"></a>
+  <a href="https://jahitjanberk.github.io/ledger-monitor/wages/"><img src="https://img.shields.io/badge/Wages%20%26%20Cost%20of%20Living-Open-7a5230?style=for-the-badge&labelColor=555" alt="Wages and the Cost of Living"></a>
 </p>
 
 <p align="center">
@@ -80,6 +81,7 @@
 | [Household Energy Prices & Poverty](energy/) | Who still lacks electricity or clean cooking, what European households pay, and who can't afford to keep warm |
 | [Fertiliser Prices & Supply](fertilizer/) | What fertiliser costs, who makes and exports it, which countries depend on imports, and how the 2026 Hormuz closure fed through to farmers |
 | [The Cost of Sending Money Home](remittances/) | How much migrants send home, how much it matters to each economy, and what it costs to send by route and by type of provider |
+| [Wages & the Cost of Living](wages/) | Minimum and average wages by country, pay after inflation, working poverty, labour's share of income, and what a healthy diet costs against the minimum wage |
 | [Vaccination & Health Workers](vaccines/) | How many children are vaccinated or get no vaccines at all, where measles is spreading, and where nurses and doctors are scarce |
 
 ## Across the dashboards
@@ -108,7 +110,7 @@ The country pages, compare data, search index and feed are generated from `data/
 node scripts/hub-sparks.mjs && node scripts/countries.mjs && node scripts/preload-hints.mjs && node scripts/seo.mjs
 node scripts/feed.mjs        # after adding an entry to docs/updates.json
 node scripts/freshness.mjs   # which sources are due for a new edition
-node scripts/check.mjs       # loads every page in a headless browser and reports problems
+node scripts/check.mjs       # loads every page in a headless browser and reports problems (Node.js 22+)
 ```
 
 On GitHub, [`check.yml`](.github/workflows/check.yml) runs the page check on every pull request and push to `main`, and [`freshness.yml`](.github/workflows/freshness.yml) runs the freshness check every Monday and fails when a source is overdue.

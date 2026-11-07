@@ -1,6 +1,7 @@
 // Shared helpers for the scripts in this folder: serve the site from disk and drive a
 // headless Edge or Chrome over the DevTools protocol. Set BROWSER to the browser's path
-// if it is not in the default Edge location.
+// if it is not in the default Edge location. Driving the browser needs Node.js 22 or later,
+// for its built-in WebSocket; serving the site works on Node.js 18.
 import { spawn } from "node:child_process";
 import fs from "node:fs";
 import http from "node:http";
@@ -47,6 +48,7 @@ export function serve(port) {
 
 /** Starts a headless browser. Returns { newPage, close }. */
 export async function launch(debugPort = 9340) {
+  if (typeof WebSocket === "undefined") throw new Error(`Driving the browser needs Node.js 22 or later (this is ${process.version}), for its built-in WebSocket.`);
   const exe = process.env.BROWSER ?? "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe";
   const profile = fs.mkdtempSync(path.join(os.tmpdir(), "em-browser-"));
   // GitHub's Ubuntu runners block Chrome's sandbox, so CI runs (CI=true) start it without one.
@@ -103,4 +105,4 @@ export async function launch(debugPort = 9340) {
   return { newPage, close };
 }
 
-export const DASHBOARDS = ["air", "chokepoints", "debt", "disasters", "electricity", "energy", "fertilizer", "food", "heat", "housing", "internet", "medicines", "minerals", "orbit", "remittances", "scams", "vaccines", "water"];
+export const DASHBOARDS = ["air", "chokepoints", "debt", "disasters", "electricity", "energy", "fertilizer", "food", "heat", "housing", "internet", "medicines", "minerals", "orbit", "remittances", "scams", "vaccines", "wages", "water"];

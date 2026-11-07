@@ -1,0 +1,88 @@
+{
+  "id": "uk_nlw",
+  "title": "UK National Living Wage, April 2019 to April 2027",
+  "description": "Hourly rate for the oldest age band and the age it starts at (GOV.UK).",
+  "records": [
+    {
+      "year": 2019,
+      "from": "2019-04-01",
+      "rate_gbp_hour": 8.21,
+      "age_from": 25,
+      "change_pct": null,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2020,
+      "from": "2020-04-01",
+      "rate_gbp_hour": 8.72,
+      "age_from": 25,
+      "change_pct": 6.2,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2021,
+      "from": "2021-04-01",
+      "rate_gbp_hour": 8.91,
+      "age_from": 23,
+      "change_pct": 2.2,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2022,
+      "from": "2022-04-01",
+      "rate_gbp_hour": 9.5,
+      "age_from": 23,
+      "change_pct": 6.6,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2023,
+      "from": "2023-04-01",
+      "rate_gbp_hour": 10.42,
+      "age_from": 23,
+      "change_pct": 9.7,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2024,
+      "from": "2024-04-01",
+      "rate_gbp_hour": 11.44,
+      "age_from": 21,
+      "change_pct": 9.8,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2025,
+      "from": "2025-04-01",
+      "rate_gbp_hour": 12.21,
+      "age_from": 21,
+      "change_pct": 6.7,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2026,
+      "from": "2026-04-01",
+      "rate_gbp_hour": 12.71,
+      "age_from": 21,
+      "change_pct": 4.1,
+      "announced": false,
+      "source": "govuk-nmw"
+    },
+    {
+      "year": 2027,
+      "from": "2027-04-01",
+      "rate_gbp_hour": 13.21,
+      "age_from": 21,
+      "change_pct": 3.9,
+      "announced": true,
+      "source": "govuk-nmw"
+    }
+  ]
+}

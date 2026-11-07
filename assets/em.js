@@ -38,6 +38,7 @@ medicines: { glance: ["shortages", "us_years", "uk_concessions"], map: ["countri
   fertilizer: { glance: ["prices", "world"], map: ["countries", "bands"], prices: ["prices", "forecasts", "facts"], energy: ["prices", "gulf", "facts"], supply: ["producers", "countries"], use: ["regions", "world"], uk: ["uk_prices", "uk_rates", "countries", "facts"], table: ["countries"] },
   remittances: { glance: ["world", "quarterly", "corridors", "facts"], map: ["countries", "bands", "corridors"], flows: ["world", "countries"], costs: ["world", "regions", "countries", "facts"], providers: ["quarterly", "breakdown", "facts"], corridors: ["corridors", "countries", "facts"], uk: ["uk_cost", "uk_flows", "corridors", "facts"], table: ["countries"] },
   disasters: { glance: ["facts", "losses", "world", "hazards"], map: ["countries", "bands"], hazards: ["hazards", "deadliest", "world", "countries", "facts"], gap: ["losses", "gap_regions", "costliest", "facts"], floods: ["countries", "facts"], uk: ["uk_risk", "uk_regions", "uk_infra", "facts"], table: ["countries"] },
+  wages: { glance: ["world", "countries", "facts"], map: ["countries", "bands"], minimum: ["countries"], real: ["oecd", "countries", "facts"], diet: ["countries", "facts"], poverty: ["world", "countries"], uk: ["uk_awe", "uk_nlw", "uk_lowpay", "countries", "facts"], table: ["countries"] },
 };
 
 const DASHBOARDS = {
@@ -59,6 +60,7 @@ medicines: { title: "Medicine Shortages & Supply", blurb: "Which medicines are r
   fertilizer: { title: "Fertiliser Prices & Supply", blurb: "What fertiliser costs, who makes and exports it, and which countries depend on imports." },
   remittances: { title: "The Cost of Sending Money Home", blurb: "How much migrants send home, and what banks and money transfer firms charge them to do it." },
   disasters: { title: "Floods, Disasters & Insurance Gaps", blurb: "Who disasters kill and drive from home, how much of the damage is insured, and who lives with flood risk." },
+  wages: { title: "Wages & the Cost of Living", blurb: "What people earn against what things cost: minimum wages, real pay, working poverty and the price of a healthy diet." },
 };
 // Three other dashboards per page, picked for overlapping subjects. Ids that don't exist yet are skipped.
 const MORE = {
@@ -68,18 +70,19 @@ const MORE = {
   water: ["disasters", "food", "heat"],
   chokepoints: ["fertilizer", "food", "medicines"],
   orbit: ["internet", "chokepoints", "minerals"],
-  housing: ["disasters", "energy", "remittances"],
-  food: ["fertilizer", "chokepoints", "energy"],
+  housing: ["wages", "disasters", "energy"],
+  food: ["wages", "fertilizer", "chokepoints"],
   debt: ["vaccines", "remittances", "food"],
   heat: ["disasters", "energy", "food"],
   minerals: ["medicines", "chokepoints", "electricity"],
   scams: ["remittances", "housing", "internet"],
   vaccines: ["medicines", "debt", "water"],
-  energy: ["electricity", "air", "heat"],
+  energy: ["wages", "electricity", "air"],
   medicines: ["minerals", "chokepoints", "vaccines"],
   fertilizer: ["food", "chokepoints", "energy"],
-  remittances: ["debt", "scams", "food"],
+  remittances: ["wages", "debt", "scams"],
   disasters: ["heat", "housing", "water"],
+  wages: ["food", "housing", "remittances"],
 };
 
 const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
@@ -188,6 +191,12 @@ medicines: [
     "Flood exposure is a 2022 model of present-day hazard on 2020 population maps. It ignores flood defences and climate change, so it shows where floods could reach, not who will be flooded.",
     "Displacements count movements, including evacuations before a storm; one person moved twice counts twice.",
     "Insured and overall losses are the reinsurers' estimates, quoted from Munich Re and Swiss Re; their figures differ, and Munich Re's leave out droughts and heatwaves.",
+  ],
+  wages: [
+    "Minimum wages are legal floors, not what people earn. Where many work informally or for themselves, as in most low-income countries, few workers are covered, and countries that leave pay floors to collective bargaining have no figure.",
+    "Monthly minimum wages assume a full-time month (for example 40 hours a week for 4.33 weeks) where the law sets an hourly or daily rate; hours actually worked differ.",
+    "The healthy diet comparison is for one person and uses the cheapest foods that meet dietary guidelines. A family on one wage, or the foods people really buy, would cost more.",
+    "Working poverty and labour income share are ILO modelled estimates. Labour share includes an imputed part of self-employed income, and country figures are shown only where they rest on national data.",
   ],
 };
 

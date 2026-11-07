@@ -35,6 +35,7 @@ const KEYED = [
   ["fertilizer", "countries"],
   ["remittances", "countries"],
   ["disasters", "countries"],
+  ["wages", "countries"],
 ];
 const C = new Map(); // iso3 -> { iso3, n3, name }
 const byN3 = new Map(), byName = new Map();
@@ -200,8 +201,19 @@ const METRICS = [
     M({ id: "displaced_rate", label: "Disaster displacements a year per 1,000 people, 2016 to 2025 average", get: (r) => r.displaced_per_1000, year: (r) => r.displaced_per_1000 != null && 2025, src: (r) => r.displaced_source,
       note: (r) => r.displaced_avg != null && `${nf(r.displaced_avg)} a year` }),
   ] },
+  { dash: "wages", section: "map", table: ["wages", "countries"], key: (r) => r.iso3, items: [
+    M({ id: "min_wage", label: "Statutory minimum wage, PPP dollars a month", dec: 0, fmt: (v) => `${nf(v)}`, get: (r) => r.min_wage_ppp, year: (r) => r.min_wage_year, src: (r) => r.min_wage_source,
+      note: (r) => r.min_wage_lcu != null && r.currency && `${nf(r.min_wage_lcu, r.min_wage_lcu < 100 ? 2 : 0)} ${r.currency} a month` }),
+    M({ id: "avg_earnings", label: "Average monthly earnings of employees, PPP dollars", dec: 0, fmt: (v) => `${nf(v)}`, get: (r) => r.avg_earnings_ppp, year: (r) => r.avg_earnings_year, src: (r) => r.avg_earnings_source }),
+    M({ id: "working_poverty", label: "Workers living on less than $3 a day", unit: "%", get: (r) => r.working_poverty, year: (r) => r.working_poverty_year, src: (r) => r.poverty_source,
+      note: (r) => r.working_poverty_2015 != null && `${nf(r.working_poverty_2015, 1)}% in 2015` }),
+    M({ id: "diet_vs_min_wage", label: "Healthy diet for one person, share of a month's minimum wage", unit: "%", dec: 0, get: (r) => r.diet_share, year: (r) => r.diet_year, src: (r) => r.diet_source }),
+    M({ id: "labour_share", label: "Labour income share of GDP", unit: "%", get: (r) => r.labour_share, year: (r) => r.labour_share_year, src: (r) => r.labour_share_source }),
+    M({ id: "oecd_wage", label: "Average annual wage (OECD, constant 2025 prices and PPPs)", dec: 0, fmt: (v) => `${nf(v)}`, get: (r) => r.oecd_avg_wage, year: (r) => r.oecd_avg_year, src: (r) => r.oecd_wage_source,
+      note: (r) => r.oecd_real_change_2019 != null && `${r.oecd_real_change_2019 > 0 ? "+" : ""}${nf(r.oecd_real_change_2019, 1)}% since 2019, after inflation` }),
+  ] },
 ];
-const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines", fertilizer: "Fertiliser", remittances: "Remittances", disasters: "Disasters" };
+const SECTION_TITLE = { electricity: "Electricity", air: "Air", water: "Water", food: "Food", debt: "Debt and public services", heat: "Heat", orbit: "Space", housing: "Housing", minerals: "Minerals", internet: "Internet", scams: "Scams", vaccines: "Vaccines", energy: "Household energy", medicines: "Medicines", fertilizer: "Fertiliser", remittances: "Remittances", disasters: "Disasters", wages: "Wages" };
 
 // Values for every country, then ranks.
 const VAL = new Map(); // iso3 -> metric id -> { v, under, y, s, dash, row }
