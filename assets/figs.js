@@ -360,4 +360,25 @@ export const FIGS = {
       };
     },
   },
+  wages: {
+    files: ["world"], title: "Workers living on less than $3 a day, % of all workers",
+    source: "ILO modelled estimates, SDG indicator 1.1.1 (working poverty rate), via ILOSTAT",
+    draw([rows], w, h) {
+      rows = rows.filter((r) => r.wp_world != null).sort((a, b) => a.year - b.year);
+      const a = rows[0], z = rows.at(-1), base = h - 20;
+      const x = fx(a.year, z.year, 0, w), y = fx(0, 70, base, 4);
+      const pw = rows.map((r) => [x(r.year), y(r.wp_world)]), pl = rows.filter((r) => r.wp_low != null).map((r) => [x(r.year), y(r.wp_low)]);
+      return {
+        label: `Workers living on less than $3 a day: ${num(a.wp_world, 1)}% worldwide in ${a.year} and ${num(z.wp_world, 1)}% in ${z.year}; in low-income countries ${num(a.wp_low, 1)}% and ${num(z.wp_low, 1)}%.`,
+        svg: `<path d="${pathOf(pw)}L${w},${base}L0,${base}Z" fill="var(--em-accent)" opacity=".14"/>`
+          + `<path d="${pathOf(pl)}" fill="none" stroke="${MUTE}" stroke-width="2" stroke-linejoin="round"/>`
+          + `<path d="${pathOf(pw)}" fill="none" stroke="var(--em-accent)" stroke-width="2" stroke-linejoin="round"/>`
+          + T(0, pl[0][1] - 8, `Low-income countries ${num(a.wp_low, 0)}%`)
+          + T(w, pl.at(-1)[1] - 8, `${num(z.wp_low, 0)}%`, "", "end")
+          + T(0, pw[0][1] - 8, `World ${num(a.wp_world, 1)}% in ${a.year}`)
+          + T(w, pw.at(-1)[1] - 10, `${num(z.wp_world, 1)}% in ${z.year}`, "k", "end")
+          + Ln(0, base, w, base, "ax") + T(0, h - 4, a.year, "n") + T(w, h - 4, z.year, "n", "end"),
+      };
+    },
+  },
 };

@@ -2,6 +2,13 @@
   "_about": "Entries for feed.xml, newest first. Add one each time data is refreshed or a page is added, then run: node scripts/feed.mjs. 'path' is relative to the site root.",
   "updates": [
     {
+      "id": "2026-11-07-wages",
+      "date": "2026-11-07T20:00:00Z",
+      "title": "New dashboard: Wages & the Cost of Living",
+      "path": "wages/",
+      "summary": "7.9% of the world's workers, nearly 300 million people, live on less than $3 a day. The new dashboard sets minimum and average wages (ILOSTAT, OECD) against prices: in 55 of 131 countries a healthy diet for one person costs a quarter or more of the minimum wage. It also tracks pay after inflation, working poverty, labour's share of income and, for the UK, real earnings and the National Living Wage."
+    },
+    {
       "id": "2026-11-07-disasters",
       "date": "2026-11-07T18:00:00Z",
       "title": "New dashboard: Floods, Disasters & Insurance Gaps",

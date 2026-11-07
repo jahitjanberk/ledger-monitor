@@ -166,6 +166,12 @@ const SPARKS = {
     return fig(bars(v, max, (_, i) => (i === v.length - 1 ? ACC : MUTED), 0.3),
       `Disaster displacements worldwide, ${v[0].toFixed(1)} million in ${p[0].year} and ${v.at(-1).toFixed(1)} million in ${p.at(-1).year}; the high was ${Math.max(...v).toFixed(1)} million`, `Times people were displaced by disasters, millions`, `${p[0].year}–${p.at(-1).year}`);
   },
+  wages() {
+    const p = rec("wages/world.json").filter((r) => r.wp_world != null).sort((a, b) => a.year - b.year);
+    const v = p.map((r) => r.wp_world), max = 40;
+    return fig(area(v, max, ACC) + line(v, max, ACC),
+      `Workers living on less than $3 a day, worldwide, from ${v[0].toFixed(1)}% in ${p[0].year} to ${v.at(-1).toFixed(1)}% in ${p.at(-1).year}`, `Working poverty, % of workers`, `${p[0].year}–${p.at(-1).year}`);
+  },
 };
 
 const file = path.join(ROOT, "index.html");

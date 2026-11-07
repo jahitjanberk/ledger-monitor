@@ -1,0 +1,2567 @@
+{
+  "id": "uk_awe",
+  "title": "UK average weekly earnings, monthly",
+  "description": "Whole economy total pay, seasonally adjusted, £ a week in cash and real terms, the real level as an index (2008 average = 100) and real annual growth, 2000-01 to 2026-08 (ONS, Great Britain).",
+  "records": [
+    {
+      "month": "2000-01",
+      "total_pay_gbp": 305,
+      "real_pay_gbp": 420,
+      "real_index_2008": 83.2,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-02",
+      "total_pay_gbp": 300,
+      "real_pay_gbp": 411,
+      "real_index_2008": 81.4,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-03",
+      "total_pay_gbp": 311,
+      "real_pay_gbp": 425,
+      "real_index_2008": 84.2,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-04",
+      "total_pay_gbp": 309,
+      "real_pay_gbp": 423,
+      "real_index_2008": 83.8,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-05",
+      "total_pay_gbp": 311,
+      "real_pay_gbp": 426,
+      "real_index_2008": 84.4,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-06",
+      "total_pay_gbp": 311,
+      "real_pay_gbp": 425,
+      "real_index_2008": 84.2,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-07",
+      "total_pay_gbp": 313,
+      "real_pay_gbp": 427,
+      "real_index_2008": 84.6,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-08",
+      "total_pay_gbp": 315,
+      "real_pay_gbp": 430,
+      "real_index_2008": 85.2,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-09",
+      "total_pay_gbp": 317,
+      "real_pay_gbp": 431,
+      "real_index_2008": 85.4,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-10",
+      "total_pay_gbp": 318,
+      "real_pay_gbp": 431,
+      "real_index_2008": 85.4,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-11",
+      "total_pay_gbp": 320,
+      "real_pay_gbp": 433,
+      "real_index_2008": 85.8,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2000-12",
+      "total_pay_gbp": 323,
+      "real_pay_gbp": 438,
+      "real_index_2008": 86.8,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-01",
+      "total_pay_gbp": 321,
+      "real_pay_gbp": 438,
+      "real_index_2008": 86.8,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-02",
+      "total_pay_gbp": 325,
+      "real_pay_gbp": 441,
+      "real_index_2008": 87.4,
+      "real_growth": null,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-03",
+      "total_pay_gbp": 326,
+      "real_pay_gbp": 440,
+      "real_index_2008": 87.2,
+      "real_growth": 4.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-04",
+      "total_pay_gbp": 326,
+      "real_pay_gbp": 441,
+      "real_index_2008": 87.4,
+      "real_growth": 4.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-05",
+      "total_pay_gbp": 327,
+      "real_pay_gbp": 439,
+      "real_index_2008": 87,
+      "real_growth": 3.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-06",
+      "total_pay_gbp": 328,
+      "real_pay_gbp": 440,
+      "real_index_2008": 87.2,
+      "real_growth": 3.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-07",
+      "total_pay_gbp": 328,
+      "real_pay_gbp": 441,
+      "real_index_2008": 87.4,
+      "real_growth": 3.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-08",
+      "total_pay_gbp": 331,
+      "real_pay_gbp": 443,
+      "real_index_2008": 87.8,
+      "real_growth": 3.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-09",
+      "total_pay_gbp": 331,
+      "real_pay_gbp": 443,
+      "real_index_2008": 87.8,
+      "real_growth": 3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-10",
+      "total_pay_gbp": 333,
+      "real_pay_gbp": 445,
+      "real_index_2008": 88.1,
+      "real_growth": 3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-11",
+      "total_pay_gbp": 334,
+      "real_pay_gbp": 446,
+      "real_index_2008": 88.3,
+      "real_growth": 3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2001-12",
+      "total_pay_gbp": 334,
+      "real_pay_gbp": 447,
+      "real_index_2008": 88.5,
+      "real_growth": 2.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-01",
+      "total_pay_gbp": 333,
+      "real_pay_gbp": 445,
+      "real_index_2008": 88.1,
+      "real_growth": 2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-02",
+      "total_pay_gbp": 334,
+      "real_pay_gbp": 446,
+      "real_index_2008": 88.3,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-03",
+      "total_pay_gbp": 334,
+      "real_pay_gbp": 443,
+      "real_index_2008": 87.8,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-04",
+      "total_pay_gbp": 338,
+      "real_pay_gbp": 449,
+      "real_index_2008": 88.9,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-05",
+      "total_pay_gbp": 339,
+      "real_pay_gbp": 449,
+      "real_index_2008": 88.9,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-06",
+      "total_pay_gbp": 340,
+      "real_pay_gbp": 451,
+      "real_index_2008": 89.3,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-07",
+      "total_pay_gbp": 341,
+      "real_pay_gbp": 452,
+      "real_index_2008": 89.5,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-08",
+      "total_pay_gbp": 341,
+      "real_pay_gbp": 451,
+      "real_index_2008": 89.3,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-09",
+      "total_pay_gbp": 342,
+      "real_pay_gbp": 451,
+      "real_index_2008": 89.3,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-10",
+      "total_pay_gbp": 342,
+      "real_pay_gbp": 451,
+      "real_index_2008": 89.3,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-11",
+      "total_pay_gbp": 343,
+      "real_pay_gbp": 452,
+      "real_index_2008": 89.5,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2002-12",
+      "total_pay_gbp": 343,
+      "real_pay_gbp": 451,
+      "real_index_2008": 89.3,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-01",
+      "total_pay_gbp": 339,
+      "real_pay_gbp": 447,
+      "real_index_2008": 88.5,
+      "real_growth": 0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-02",
+      "total_pay_gbp": 341,
+      "real_pay_gbp": 449,
+      "real_index_2008": 88.9,
+      "real_growth": 0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-03",
+      "total_pay_gbp": 349,
+      "real_pay_gbp": 455,
+      "real_index_2008": 90.1,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-04",
+      "total_pay_gbp": 347,
+      "real_pay_gbp": 454,
+      "real_index_2008": 89.9,
+      "real_growth": 1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-05",
+      "total_pay_gbp": 348,
+      "real_pay_gbp": 456,
+      "real_index_2008": 90.3,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-06",
+      "total_pay_gbp": 349,
+      "real_pay_gbp": 457,
+      "real_index_2008": 90.5,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-07",
+      "total_pay_gbp": 351,
+      "real_pay_gbp": 459,
+      "real_index_2008": 90.9,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-08",
+      "total_pay_gbp": 352,
+      "real_pay_gbp": 460,
+      "real_index_2008": 91.1,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-09",
+      "total_pay_gbp": 355,
+      "real_pay_gbp": 462,
+      "real_index_2008": 91.5,
+      "real_growth": 2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-10",
+      "total_pay_gbp": 356,
+      "real_pay_gbp": 463,
+      "real_index_2008": 91.7,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-11",
+      "total_pay_gbp": 357,
+      "real_pay_gbp": 463,
+      "real_index_2008": 91.7,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2003-12",
+      "total_pay_gbp": 357,
+      "real_pay_gbp": 464,
+      "real_index_2008": 91.9,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-01",
+      "total_pay_gbp": 364,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": 3.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-02",
+      "total_pay_gbp": 352,
+      "real_pay_gbp": 457,
+      "real_index_2008": 90.5,
+      "real_growth": 3.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-03",
+      "total_pay_gbp": 361,
+      "real_pay_gbp": 467,
+      "real_index_2008": 92.5,
+      "real_growth": 3.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-04",
+      "total_pay_gbp": 362,
+      "real_pay_gbp": 468,
+      "real_index_2008": 92.7,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-05",
+      "total_pay_gbp": 363,
+      "real_pay_gbp": 468,
+      "real_index_2008": 92.7,
+      "real_growth": 2.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-06",
+      "total_pay_gbp": 364,
+      "real_pay_gbp": 469,
+      "real_index_2008": 92.9,
+      "real_growth": 2.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-07",
+      "total_pay_gbp": 365,
+      "real_pay_gbp": 470,
+      "real_index_2008": 93.1,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-08",
+      "total_pay_gbp": 367,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-09",
+      "total_pay_gbp": 369,
+      "real_pay_gbp": 475,
+      "real_index_2008": 94.1,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-10",
+      "total_pay_gbp": 372,
+      "real_pay_gbp": 477,
+      "real_index_2008": 94.5,
+      "real_growth": 2.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-11",
+      "total_pay_gbp": 372,
+      "real_pay_gbp": 476,
+      "real_index_2008": 94.3,
+      "real_growth": 2.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2004-12",
+      "total_pay_gbp": 373,
+      "real_pay_gbp": 476,
+      "real_index_2008": 94.3,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-01",
+      "total_pay_gbp": 379,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-02",
+      "total_pay_gbp": 371,
+      "real_pay_gbp": 474,
+      "real_index_2008": 93.9,
+      "real_growth": 2.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-03",
+      "total_pay_gbp": 376,
+      "real_pay_gbp": 477,
+      "real_index_2008": 94.5,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-04",
+      "total_pay_gbp": 379,
+      "real_pay_gbp": 479,
+      "real_index_2008": 94.9,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-05",
+      "total_pay_gbp": 380,
+      "real_pay_gbp": 480,
+      "real_index_2008": 95.1,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-06",
+      "total_pay_gbp": 380,
+      "real_pay_gbp": 480,
+      "real_index_2008": 95.1,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-07",
+      "total_pay_gbp": 383,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-08",
+      "total_pay_gbp": 386,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-09",
+      "total_pay_gbp": 387,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-10",
+      "total_pay_gbp": 388,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-11",
+      "total_pay_gbp": 390,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2005-12",
+      "total_pay_gbp": 390,
+      "real_pay_gbp": 487,
+      "real_index_2008": 96.5,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-01",
+      "total_pay_gbp": 391,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-02",
+      "total_pay_gbp": 392,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": 2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-03",
+      "total_pay_gbp": 398,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-04",
+      "total_pay_gbp": 395,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": 3.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-05",
+      "total_pay_gbp": 397,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-06",
+      "total_pay_gbp": 401,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-07",
+      "total_pay_gbp": 401,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-08",
+      "total_pay_gbp": 401,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-09",
+      "total_pay_gbp": 402,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-10",
+      "total_pay_gbp": 405,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": 1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-11",
+      "total_pay_gbp": 407,
+      "real_pay_gbp": 496,
+      "real_index_2008": 98.3,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2006-12",
+      "total_pay_gbp": 412,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-01",
+      "total_pay_gbp": 415,
+      "real_pay_gbp": 504,
+      "real_index_2008": 99.8,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-02",
+      "total_pay_gbp": 419,
+      "real_pay_gbp": 509,
+      "real_index_2008": 100.8,
+      "real_growth": 3.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-03",
+      "total_pay_gbp": 416,
+      "real_pay_gbp": 503,
+      "real_index_2008": 99.6,
+      "real_growth": 2.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-04",
+      "total_pay_gbp": 412,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-05",
+      "total_pay_gbp": 416,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-06",
+      "total_pay_gbp": 418,
+      "real_pay_gbp": 503,
+      "real_index_2008": 99.6,
+      "real_growth": 1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-07",
+      "total_pay_gbp": 420,
+      "real_pay_gbp": 506,
+      "real_index_2008": 100.2,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-08",
+      "total_pay_gbp": 422,
+      "real_pay_gbp": 507,
+      "real_index_2008": 100.4,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-09",
+      "total_pay_gbp": 424,
+      "real_pay_gbp": 509,
+      "real_index_2008": 100.8,
+      "real_growth": 3.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-10",
+      "total_pay_gbp": 423,
+      "real_pay_gbp": 505,
+      "real_index_2008": 100,
+      "real_growth": 2.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-11",
+      "total_pay_gbp": 426,
+      "real_pay_gbp": 508,
+      "real_index_2008": 100.6,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2007-12",
+      "total_pay_gbp": 426,
+      "real_pay_gbp": 504,
+      "real_index_2008": 99.8,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-01",
+      "total_pay_gbp": 429,
+      "real_pay_gbp": 510,
+      "real_index_2008": 101,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-02",
+      "total_pay_gbp": 435,
+      "real_pay_gbp": 514,
+      "real_index_2008": 101.8,
+      "real_growth": 1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-03",
+      "total_pay_gbp": 437,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-04",
+      "total_pay_gbp": 432,
+      "real_pay_gbp": 506,
+      "real_index_2008": 100.2,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-05",
+      "total_pay_gbp": 434,
+      "real_pay_gbp": 506,
+      "real_index_2008": 100.2,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-06",
+      "total_pay_gbp": 433,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-07",
+      "total_pay_gbp": 435,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": -0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-08",
+      "total_pay_gbp": 435,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": -0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-09",
+      "total_pay_gbp": 435,
+      "real_pay_gbp": 499,
+      "real_index_2008": 98.8,
+      "real_growth": -1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-10",
+      "total_pay_gbp": 437,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": -1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-11",
+      "total_pay_gbp": 436,
+      "real_pay_gbp": 500,
+      "real_index_2008": 99,
+      "real_growth": -1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2008-12",
+      "total_pay_gbp": 436,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-01",
+      "total_pay_gbp": 421,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-02",
+      "total_pay_gbp": 409,
+      "real_pay_gbp": 470,
+      "real_index_2008": 93.1,
+      "real_growth": -4.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-03",
+      "total_pay_gbp": 433,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": -5.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-04",
+      "total_pay_gbp": 438,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": -4.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-05",
+      "total_pay_gbp": 437,
+      "real_pay_gbp": 499,
+      "real_index_2008": 98.8,
+      "real_growth": -1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-06",
+      "total_pay_gbp": 438,
+      "real_pay_gbp": 499,
+      "real_index_2008": 98.8,
+      "real_growth": -0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-07",
+      "total_pay_gbp": 437,
+      "real_pay_gbp": 496,
+      "real_index_2008": 98.3,
+      "real_growth": -1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-08",
+      "total_pay_gbp": 438,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": -0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-09",
+      "total_pay_gbp": 439,
+      "real_pay_gbp": 498,
+      "real_index_2008": 98.6,
+      "real_growth": -0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-10",
+      "total_pay_gbp": 439,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-11",
+      "total_pay_gbp": 440,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": -0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2009-12",
+      "total_pay_gbp": 440,
+      "real_pay_gbp": 496,
+      "real_index_2008": 98.3,
+      "real_growth": -0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-01",
+      "total_pay_gbp": 439,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": -0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-02",
+      "total_pay_gbp": 446,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-03",
+      "total_pay_gbp": 441,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": 2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-04",
+      "total_pay_gbp": 442,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-05",
+      "total_pay_gbp": 443,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-06",
+      "total_pay_gbp": 442,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-07",
+      "total_pay_gbp": 443,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-08",
+      "total_pay_gbp": 445,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": -0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-09",
+      "total_pay_gbp": 446,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-10",
+      "total_pay_gbp": 447,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-11",
+      "total_pay_gbp": 448,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2010-12",
+      "total_pay_gbp": 449,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": -0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-01",
+      "total_pay_gbp": 458,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": -0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-02",
+      "total_pay_gbp": 453,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-03",
+      "total_pay_gbp": 453,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-04",
+      "total_pay_gbp": 451,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": -1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-05",
+      "total_pay_gbp": 453,
+      "real_pay_gbp": 487,
+      "real_index_2008": 96.5,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-06",
+      "total_pay_gbp": 456,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-07",
+      "total_pay_gbp": 456,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-08",
+      "total_pay_gbp": 454,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-09",
+      "total_pay_gbp": 454,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": -1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-10",
+      "total_pay_gbp": 456,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": -2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-11",
+      "total_pay_gbp": 457,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": -2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2011-12",
+      "total_pay_gbp": 457,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": -2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-01",
+      "total_pay_gbp": 457,
+      "real_pay_gbp": 481,
+      "real_index_2008": 95.3,
+      "real_growth": -2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-02",
+      "total_pay_gbp": 457,
+      "real_pay_gbp": 481,
+      "real_index_2008": 95.3,
+      "real_growth": -2.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-03",
+      "total_pay_gbp": 457,
+      "real_pay_gbp": 481,
+      "real_index_2008": 95.3,
+      "real_growth": -2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-04",
+      "total_pay_gbp": 460,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": -1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-05",
+      "total_pay_gbp": 460,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-06",
+      "total_pay_gbp": 461,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-07",
+      "total_pay_gbp": 463,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-08",
+      "total_pay_gbp": 464,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": -0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-09",
+      "total_pay_gbp": 462,
+      "real_pay_gbp": 481,
+      "real_index_2008": 95.3,
+      "real_growth": -0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-10",
+      "total_pay_gbp": 462,
+      "real_pay_gbp": 478,
+      "real_index_2008": 94.7,
+      "real_growth": -0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-11",
+      "total_pay_gbp": 463,
+      "real_pay_gbp": 479,
+      "real_index_2008": 94.9,
+      "real_growth": -0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2012-12",
+      "total_pay_gbp": 461,
+      "real_pay_gbp": 476,
+      "real_index_2008": 94.3,
+      "real_growth": -1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-01",
+      "total_pay_gbp": 462,
+      "real_pay_gbp": 475,
+      "real_index_2008": 94.1,
+      "real_growth": -1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-02",
+      "total_pay_gbp": 462,
+      "real_pay_gbp": 475,
+      "real_index_2008": 94.1,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-03",
+      "total_pay_gbp": 454,
+      "real_pay_gbp": 465,
+      "real_index_2008": 92.1,
+      "real_growth": -1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-04",
+      "total_pay_gbp": 478,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-05",
+      "total_pay_gbp": 468,
+      "real_pay_gbp": 479,
+      "real_index_2008": 94.9,
+      "real_growth": -0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-06",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 477,
+      "real_index_2008": 94.5,
+      "real_growth": -0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-07",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 475,
+      "real_index_2008": 94.1,
+      "real_growth": -1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-08",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 474,
+      "real_index_2008": 93.9,
+      "real_growth": -1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-09",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 474,
+      "real_index_2008": 93.9,
+      "real_growth": -1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-10",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": -1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-11",
+      "total_pay_gbp": 466,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": -1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2013-12",
+      "total_pay_gbp": 468,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": -0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-01",
+      "total_pay_gbp": 469,
+      "real_pay_gbp": 474,
+      "real_index_2008": 93.9,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-02",
+      "total_pay_gbp": 472,
+      "real_pay_gbp": 477,
+      "real_index_2008": 94.5,
+      "real_growth": -0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-03",
+      "total_pay_gbp": 461,
+      "real_pay_gbp": 465,
+      "real_index_2008": 92.1,
+      "real_growth": 0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-04",
+      "total_pay_gbp": 469,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-05",
+      "total_pay_gbp": 469,
+      "real_pay_gbp": 473,
+      "real_index_2008": 93.7,
+      "real_growth": -1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-06",
+      "total_pay_gbp": 470,
+      "real_pay_gbp": 472,
+      "real_index_2008": 93.5,
+      "real_growth": -1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-07",
+      "total_pay_gbp": 468,
+      "real_pay_gbp": 470,
+      "real_index_2008": 93.1,
+      "real_growth": -1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-08",
+      "total_pay_gbp": 469,
+      "real_pay_gbp": 471,
+      "real_index_2008": 93.3,
+      "real_growth": -1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-09",
+      "total_pay_gbp": 473,
+      "real_pay_gbp": 474,
+      "real_index_2008": 93.9,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-10",
+      "total_pay_gbp": 475,
+      "real_pay_gbp": 476,
+      "real_index_2008": 94.3,
+      "real_growth": 0,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-11",
+      "total_pay_gbp": 475,
+      "real_pay_gbp": 476,
+      "real_index_2008": 94.3,
+      "real_growth": 0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2014-12",
+      "total_pay_gbp": 478,
+      "real_pay_gbp": 480,
+      "real_index_2008": 95.1,
+      "real_growth": 0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-01",
+      "total_pay_gbp": 476,
+      "real_pay_gbp": 478,
+      "real_index_2008": 94.7,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-02",
+      "total_pay_gbp": 478,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-03",
+      "total_pay_gbp": 480,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": 1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-04",
+      "total_pay_gbp": 481,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-05",
+      "total_pay_gbp": 482,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-06",
+      "total_pay_gbp": 481,
+      "real_pay_gbp": 482,
+      "real_index_2008": 95.5,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-07",
+      "total_pay_gbp": 484,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": 2.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-08",
+      "total_pay_gbp": 484,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": 2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-09",
+      "total_pay_gbp": 483,
+      "real_pay_gbp": 483,
+      "real_index_2008": 95.7,
+      "real_growth": 2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-10",
+      "total_pay_gbp": 484,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-11",
+      "total_pay_gbp": 484,
+      "real_pay_gbp": 484,
+      "real_index_2008": 95.9,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2015-12",
+      "total_pay_gbp": 487,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": 1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-01",
+      "total_pay_gbp": 489,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-02",
+      "total_pay_gbp": 486,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-03",
+      "total_pay_gbp": 490,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-04",
+      "total_pay_gbp": 495,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-05",
+      "total_pay_gbp": 493,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-06",
+      "total_pay_gbp": 493,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": 1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-07",
+      "total_pay_gbp": 496,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-08",
+      "total_pay_gbp": 494,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-09",
+      "total_pay_gbp": 495,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-10",
+      "total_pay_gbp": 497,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-11",
+      "total_pay_gbp": 498,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2016-12",
+      "total_pay_gbp": 496,
+      "real_pay_gbp": 487,
+      "real_index_2008": 96.5,
+      "real_growth": 0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-01",
+      "total_pay_gbp": 497,
+      "real_pay_gbp": 487,
+      "real_index_2008": 96.5,
+      "real_growth": 0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-02",
+      "total_pay_gbp": 499,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-03",
+      "total_pay_gbp": 501,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": 0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-04",
+      "total_pay_gbp": 502,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-05",
+      "total_pay_gbp": 503,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-06",
+      "total_pay_gbp": 508,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-07",
+      "total_pay_gbp": 504,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-08",
+      "total_pay_gbp": 507,
+      "real_pay_gbp": 489,
+      "real_index_2008": 96.9,
+      "real_growth": -0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-09",
+      "total_pay_gbp": 509,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": -0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-10",
+      "total_pay_gbp": 509,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-11",
+      "total_pay_gbp": 510,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2017-12",
+      "total_pay_gbp": 512,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": -0.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-01",
+      "total_pay_gbp": 511,
+      "real_pay_gbp": 486,
+      "real_index_2008": 96.3,
+      "real_growth": -0.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-02",
+      "total_pay_gbp": 513,
+      "real_pay_gbp": 488,
+      "real_index_2008": 96.7,
+      "real_growth": 0,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-03",
+      "total_pay_gbp": 513,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 0.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-04",
+      "total_pay_gbp": 515,
+      "real_pay_gbp": 491,
+      "real_index_2008": 97.3,
+      "real_growth": 0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-05",
+      "total_pay_gbp": 516,
+      "real_pay_gbp": 490,
+      "real_index_2008": 97.1,
+      "real_growth": 0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-06",
+      "total_pay_gbp": 519,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": 0.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-07",
+      "total_pay_gbp": 521,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": 0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-08",
+      "total_pay_gbp": 523,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": 0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-09",
+      "total_pay_gbp": 523,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-10",
+      "total_pay_gbp": 530,
+      "real_pay_gbp": 497,
+      "real_index_2008": 98.4,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-11",
+      "total_pay_gbp": 526,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2018-12",
+      "total_pay_gbp": 528,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-01",
+      "total_pay_gbp": 530,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-02",
+      "total_pay_gbp": 532,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-03",
+      "total_pay_gbp": 525,
+      "real_pay_gbp": 495,
+      "real_index_2008": 98.1,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-04",
+      "total_pay_gbp": 534,
+      "real_pay_gbp": 500,
+      "real_index_2008": 99,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-05",
+      "total_pay_gbp": 537,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-06",
+      "total_pay_gbp": 540,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-07",
+      "total_pay_gbp": 542,
+      "real_pay_gbp": 503,
+      "real_index_2008": 99.6,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-08",
+      "total_pay_gbp": 541,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": 1.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-09",
+      "total_pay_gbp": 544,
+      "real_pay_gbp": 504,
+      "real_index_2008": 99.8,
+      "real_growth": 2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-10",
+      "total_pay_gbp": 543,
+      "real_pay_gbp": 502,
+      "real_index_2008": 99.4,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-11",
+      "total_pay_gbp": 543,
+      "real_pay_gbp": 501,
+      "real_index_2008": 99.2,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2019-12",
+      "total_pay_gbp": 542,
+      "real_pay_gbp": 498,
+      "real_index_2008": 98.6,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-01",
+      "total_pay_gbp": 546,
+      "real_pay_gbp": 500,
+      "real_index_2008": 99,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-02",
+      "total_pay_gbp": 547,
+      "real_pay_gbp": 498,
+      "real_index_2008": 98.6,
+      "real_growth": 0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-03",
+      "total_pay_gbp": 529,
+      "real_pay_gbp": 494,
+      "real_index_2008": 97.9,
+      "real_growth": 0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-04",
+      "total_pay_gbp": 529,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": -0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-05",
+      "total_pay_gbp": 531,
+      "real_pay_gbp": 493,
+      "real_index_2008": 97.7,
+      "real_growth": -1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-06",
+      "total_pay_gbp": 532,
+      "real_pay_gbp": 492,
+      "real_index_2008": 97.5,
+      "real_growth": -1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-07",
+      "total_pay_gbp": 541,
+      "real_pay_gbp": 496,
+      "real_index_2008": 98.3,
+      "real_growth": -1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-08",
+      "total_pay_gbp": 552,
+      "real_pay_gbp": 509,
+      "real_index_2008": 100.8,
+      "real_growth": -0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-09",
+      "total_pay_gbp": 558,
+      "real_pay_gbp": 512,
+      "real_index_2008": 101.4,
+      "real_growth": 0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-10",
+      "total_pay_gbp": 563,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-11",
+      "total_pay_gbp": 569,
+      "real_pay_gbp": 522,
+      "real_index_2008": 103.4,
+      "real_growth": 3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2020-12",
+      "total_pay_gbp": 570,
+      "real_pay_gbp": 520,
+      "real_index_2008": 103,
+      "real_growth": 3.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-01",
+      "total_pay_gbp": 570,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 3.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-02",
+      "total_pay_gbp": 569,
+      "real_pay_gbp": 513,
+      "real_index_2008": 101.6,
+      "real_growth": 3.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-03",
+      "total_pay_gbp": 551,
+      "real_pay_gbp": 509,
+      "real_index_2008": 100.8,
+      "real_growth": 3.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-04",
+      "total_pay_gbp": 576,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 4.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-05",
+      "total_pay_gbp": 581,
+      "real_pay_gbp": 528,
+      "real_index_2008": 104.6,
+      "real_growth": 5.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-06",
+      "total_pay_gbp": 578,
+      "real_pay_gbp": 522,
+      "real_index_2008": 103.4,
+      "real_growth": 6.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-07",
+      "total_pay_gbp": 581,
+      "real_pay_gbp": 522,
+      "real_index_2008": 103.4,
+      "real_growth": 6.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-08",
+      "total_pay_gbp": 584,
+      "real_pay_gbp": 522,
+      "real_index_2008": 103.4,
+      "real_growth": 4.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-09",
+      "total_pay_gbp": 585,
+      "real_pay_gbp": 521,
+      "real_index_2008": 103.2,
+      "real_growth": 3.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-10",
+      "total_pay_gbp": 589,
+      "real_pay_gbp": 521,
+      "real_index_2008": 103.2,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-11",
+      "total_pay_gbp": 591,
+      "real_pay_gbp": 518,
+      "real_index_2008": 102.6,
+      "real_growth": 0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2021-12",
+      "total_pay_gbp": 606,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-01",
+      "total_pay_gbp": 602,
+      "real_pay_gbp": 520,
+      "real_index_2008": 103,
+      "real_growth": 0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-02",
+      "total_pay_gbp": 603,
+      "real_pay_gbp": 517,
+      "real_index_2008": 102.4,
+      "real_growth": 1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-03",
+      "total_pay_gbp": 608,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-04",
+      "total_pay_gbp": 606,
+      "real_pay_gbp": 514,
+      "real_index_2008": 101.8,
+      "real_growth": 0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-05",
+      "total_pay_gbp": 606,
+      "real_pay_gbp": 511,
+      "real_index_2008": 101.2,
+      "real_growth": -0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-06",
+      "total_pay_gbp": 614,
+      "real_pay_gbp": 513,
+      "real_index_2008": 101.6,
+      "real_growth": -2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-07",
+      "total_pay_gbp": 615,
+      "real_pay_gbp": 508,
+      "real_index_2008": 100.6,
+      "real_growth": -2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-08",
+      "total_pay_gbp": 620,
+      "real_pay_gbp": 510,
+      "real_index_2008": 101,
+      "real_growth": -2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-09",
+      "total_pay_gbp": 620,
+      "real_pay_gbp": 507,
+      "real_index_2008": 100.4,
+      "real_growth": -2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-10",
+      "total_pay_gbp": 627,
+      "real_pay_gbp": 506,
+      "real_index_2008": 100.2,
+      "real_growth": -2.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-11",
+      "total_pay_gbp": 634,
+      "real_pay_gbp": 508,
+      "real_index_2008": 100.6,
+      "real_growth": -2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2022-12",
+      "total_pay_gbp": 635,
+      "real_pay_gbp": 507,
+      "real_index_2008": 100.4,
+      "real_growth": -2.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-01",
+      "total_pay_gbp": 639,
+      "real_pay_gbp": 508,
+      "real_index_2008": 100.6,
+      "real_growth": -2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-02",
+      "total_pay_gbp": 643,
+      "real_pay_gbp": 507,
+      "real_index_2008": 100.4,
+      "real_growth": -2.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-03",
+      "total_pay_gbp": 643,
+      "real_pay_gbp": 510,
+      "real_index_2008": 101,
+      "real_growth": -2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-04",
+      "total_pay_gbp": 652,
+      "real_pay_gbp": 513,
+      "real_index_2008": 101.6,
+      "real_growth": -1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-05",
+      "total_pay_gbp": 655,
+      "real_pay_gbp": 512,
+      "real_index_2008": 101.4,
+      "real_growth": -1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-06",
+      "total_pay_gbp": 671,
+      "real_pay_gbp": 522,
+      "real_index_2008": 103.4,
+      "real_growth": 0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-07",
+      "total_pay_gbp": 665,
+      "real_pay_gbp": 517,
+      "real_index_2008": 102.4,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-08",
+      "total_pay_gbp": 665,
+      "real_pay_gbp": 514,
+      "real_index_2008": 101.8,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-09",
+      "total_pay_gbp": 671,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-10",
+      "total_pay_gbp": 663,
+      "real_pay_gbp": 512,
+      "real_index_2008": 101.4,
+      "real_growth": 1.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-11",
+      "total_pay_gbp": 670,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2023-12",
+      "total_pay_gbp": 672,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 1.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-01",
+      "total_pay_gbp": 675,
+      "real_pay_gbp": 516,
+      "real_index_2008": 102.2,
+      "real_growth": 1.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-02",
+      "total_pay_gbp": 679,
+      "real_pay_gbp": 518,
+      "real_index_2008": 102.6,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-03",
+      "total_pay_gbp": 683,
+      "real_pay_gbp": 519,
+      "real_index_2008": 102.8,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-04",
+      "total_pay_gbp": 688,
+      "real_pay_gbp": 525,
+      "real_index_2008": 104,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-05",
+      "total_pay_gbp": 692,
+      "real_pay_gbp": 526,
+      "real_index_2008": 104.2,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-06",
+      "total_pay_gbp": 692,
+      "real_pay_gbp": 523,
+      "real_index_2008": 103.6,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-07",
+      "total_pay_gbp": 694,
+      "real_pay_gbp": 523,
+      "real_index_2008": 103.6,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-08",
+      "total_pay_gbp": 697,
+      "real_pay_gbp": 523,
+      "real_index_2008": 103.6,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-09",
+      "total_pay_gbp": 703,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 1.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-10",
+      "total_pay_gbp": 705,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-11",
+      "total_pay_gbp": 707,
+      "real_pay_gbp": 525,
+      "real_index_2008": 104,
+      "real_growth": 2.3,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2024-12",
+      "total_pay_gbp": 715,
+      "real_pay_gbp": 531,
+      "real_index_2008": 105.2,
+      "real_growth": 2.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-01",
+      "total_pay_gbp": 710,
+      "real_pay_gbp": 523,
+      "real_index_2008": 103.6,
+      "real_growth": 2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-02",
+      "total_pay_gbp": 718,
+      "real_pay_gbp": 528,
+      "real_index_2008": 104.6,
+      "real_growth": 2.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-03",
+      "total_pay_gbp": 722,
+      "real_pay_gbp": 529,
+      "real_index_2008": 104.8,
+      "real_growth": 1.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-04",
+      "total_pay_gbp": 720,
+      "real_pay_gbp": 526,
+      "real_index_2008": 104.2,
+      "real_growth": 1.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-05",
+      "total_pay_gbp": 724,
+      "real_pay_gbp": 528,
+      "real_index_2008": 104.6,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-06",
+      "total_pay_gbp": 725,
+      "real_pay_gbp": 527,
+      "real_index_2008": 104.4,
+      "real_growth": 0.4,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-07",
+      "total_pay_gbp": 728,
+      "real_pay_gbp": 528,
+      "real_index_2008": 104.6,
+      "real_growth": 0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-08",
+      "total_pay_gbp": 734,
+      "real_pay_gbp": 530,
+      "real_index_2008": 105,
+      "real_growth": 0.9,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-09",
+      "total_pay_gbp": 734,
+      "real_pay_gbp": 529,
+      "real_index_2008": 104.8,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-10",
+      "total_pay_gbp": 739,
+      "real_pay_gbp": 531,
+      "real_index_2008": 105.2,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-11",
+      "total_pay_gbp": 739,
+      "real_pay_gbp": 531,
+      "real_index_2008": 105.2,
+      "real_growth": 0.7,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2025-12",
+      "total_pay_gbp": 738,
+      "real_pay_gbp": 529,
+      "real_index_2008": 104.8,
+      "real_growth": 0.5,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-01",
+      "total_pay_gbp": 743,
+      "real_pay_gbp": 531,
+      "real_index_2008": 105.2,
+      "real_growth": 0.8,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-02",
+      "total_pay_gbp": 746,
+      "real_pay_gbp": 532,
+      "real_index_2008": 105.4,
+      "real_growth": 0.6,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-03",
+      "total_pay_gbp": 756,
+      "real_pay_gbp": 535,
+      "real_index_2008": 106,
+      "real_growth": 1.1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-04",
+      "total_pay_gbp": 753,
+      "real_pay_gbp": 535,
+      "real_index_2008": 106,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-05",
+      "total_pay_gbp": 751,
+      "real_pay_gbp": 531,
+      "real_index_2008": 105.2,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-06",
+      "total_pay_gbp": 756,
+      "real_pay_gbp": 534,
+      "real_index_2008": 105.8,
+      "real_growth": 1.2,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-07",
+      "total_pay_gbp": 757,
+      "real_pay_gbp": 532,
+      "real_index_2008": 105.4,
+      "real_growth": 1,
+      "source": "ons-awe"
+    },
+    {
+      "month": "2026-08",
+      "total_pay_gbp": 757,
+      "real_pay_gbp": 530,
+      "real_index_2008": 105,
+      "real_growth": 0.7,
+      "source": "ons-awe"
+    }
+  ]
+}

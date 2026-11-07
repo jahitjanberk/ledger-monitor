@@ -1,0 +1,54 @@
+{
+  "variant": "wages",
+  "licence": "CC BY 4.0",
+  "datasets": [
+    {
+      "id": "countries",
+      "title": "Wages, working poverty and labour share by country",
+      "description": "Statutory monthly minimum wage (ILO, latest year since 2021, PPP dollars), average monthly earnings (ILO, PPP dollars), working poverty rate (ILO modelled estimates), labour income share (ILO, latest year based on national data), the cost of a healthy diet against the minimum wage (FAO, local currency, same year), and OECD average and minimum wages at constant 2025 prices and PPPs.",
+      "rows": 181
+    },
+    {
+      "id": "world",
+      "title": "Working poverty and labour income share, world and income groups, 2000 to 2026",
+      "description": "ILO modelled estimates: share of workers living below US$3 a day (2000 to 2025) and labour income as % of GDP (2004 to 2026).",
+      "rows": 27
+    },
+    {
+      "id": "oecd",
+      "title": "Average and minimum wages in selected OECD countries, 2000 to 2025",
+      "description": "Average annual wages (US dollars, constant 2025 prices and PPPs) and real hourly minimum wages (same basis), OECD.",
+      "rows": 26
+    },
+    {
+      "id": "uk_awe",
+      "title": "UK average weekly earnings, monthly",
+      "description": "Whole economy total pay, seasonally adjusted, £ a week in cash and real terms, the real level as an index (2008 average = 100) and real annual growth, 2000-01 to 2026-08 (ONS, Great Britain).",
+      "rows": 320
+    },
+    {
+      "id": "uk_nlw",
+      "title": "UK National Living Wage, April 2019 to April 2027",
+      "description": "Hourly rate for the oldest age band and the age it starts at (GOV.UK).",
+      "rows": 9
+    },
+    {
+      "id": "uk_lowpay",
+      "title": "UK low- and high-paid jobs, April 1997 to April 2026",
+      "description": "Share of employee jobs paid below two-thirds of the median hourly wage, and above 1.5 times it (ONS, ASHE).",
+      "rows": 30
+    },
+    {
+      "id": "bands",
+      "title": "Map classes",
+      "description": "Bands used to colour the four maps.",
+      "rows": 20
+    },
+    {
+      "id": "facts",
+      "title": "Headline findings",
+      "description": "Published figures from the ILO's Global Wage Report 2024-25 and Employment and Social Trends 2026, the Low Pay Commission and the ONS.",
+      "rows": 21
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "facts",
+  "title": "Headline findings",
+  "description": "Published figures from the ILO's Global Wage Report 2024-25 and Employment and Social Trends 2026, the Low Pay Commission and the ONS.",
+  "records": [
+    {
+      "id": "gwr2022",
+      "label": "Global real average wage growth, 2022",
+      "value": -0.9,
+      "unit": "%",
+      "note": "High inflation outpaced nominal wage growth",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "gwr2023",
+      "label": "Global real average wage growth, 2023",
+      "value": 1.8,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "gwr2024",
+      "label": "Global real average wage growth, 2024 (projection)",
+      "value": 2.7,
+      "unit": "%",
+      "note": "The highest increase in more than 15 years",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "adv2022",
+      "label": "Real wage growth in advanced G20 economies, 2022",
+      "value": -2.8,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "adv2023",
+      "label": "Real wage growth in advanced G20 economies, 2023",
+      "value": -0.5,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "em2022",
+      "label": "Real wage growth in emerging G20 economies, 2022",
+      "value": 1.8,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "em2023",
+      "label": "Real wage growth in emerging G20 economies, 2023",
+      "value": 6,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "bottom10",
+      "label": "Share of the global wage bill earned by the lowest-paid 10% of workers",
+      "value": 0.5,
+      "unit": "%",
+      "note": "",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "top10",
+      "label": "Share of the global wage bill earned by the highest-paid 10% of workers",
+      "value": 38,
+      "unit": "%",
+      "note": "Nearly 38%",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "liclow",
+      "label": "Share of wage workers in low-income countries classified as low-paid",
+      "value": 22,
+      "unit": "%",
+      "note": "Close to 22%",
+      "source": "ilo-gwr"
+    },
+    {
+      "id": "poor",
+      "label": "Workers living in extreme poverty, earning less than US$3 a day",
+      "value": 300,
+      "unit": "million",
+      "note": "Nearly 300 million",
+      "source": "ilo-est2026"
+    },
+    {
+      "id": "informal",
+      "label": "Workers expected to hold informal jobs in 2026",
+      "value": 2.1,
+      "unit": "billion",
+      "note": "",
+      "source": "ilo-est2026"
+    },
+    {
+      "id": "nlw2027",
+      "label": "UK National Living Wage from April 2027, workers aged 21 and over",
+      "value": 13.21,
+      "unit": "£ an hour",
+      "note": "Up 3.9%",
+      "source": "lpc-2027"
+    },
+    {
+      "id": "nlw2027pct",
+      "label": "Increase in the National Living Wage in April 2027",
+      "value": 3.9,
+      "unit": "%",
+      "note": "",
+      "source": "lpc-2027"
+    },
+    {
+      "id": "below",
+      "label": "UK employee jobs paid below the National Minimum Wage or National Living Wage, April 2026",
+      "value": 346000,
+      "unit": "jobs",
+      "note": "1.1% of employee jobs; not a measure of non-compliance",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "belowpct",
+      "label": "Share of UK employee jobs paid below the minimum wage, April 2026",
+      "value": 1.1,
+      "unit": "%",
+      "note": "",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "median",
+      "label": "UK median hourly pay excluding overtime, April 2026",
+      "value": 19,
+      "unit": "£ an hour",
+      "note": "",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "lowline",
+      "label": "UK low-pay threshold (two-thirds of median hourly pay), April 2026",
+      "value": 12.67,
+      "unit": "£ an hour",
+      "note": "",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "young",
+      "label": "Share of UK employees aged 16 to 21 in low pay, April 2026",
+      "value": 33.6,
+      "unit": "%",
+      "note": "",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "hospitality",
+      "label": "Share of UK employee jobs in accommodation and food services in low pay, April 2026",
+      "value": 16.3,
+      "unit": "%",
+      "note": "",
+      "source": "ons-lowpay"
+    },
+    {
+      "id": "cpih",
+      "label": "UK CPIH inflation, average of June to August 2026",
+      "value": 3.1,
+      "unit": "%",
+      "note": "",
+      "source": "ons-awe"
+    }
+  ]
+}

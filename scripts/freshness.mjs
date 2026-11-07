@@ -16,7 +16,7 @@ const CADENCE = {
   portwatch: 1, "wb-pinksheet": 1, "fao-ffpi": 1, "c3s-pulse": 1, "c3s-oct2026": 1, "metoffice-haduk": 1, "ons-mm23": 1, "ons-psf": 1,
   "faostat-cp": 3,
   openfda: 1, "ema-shortages": 1, "cpe-pc": 1, "nhsbsa-ssp": 1,
-  "defra-api": 1,
+  "defra-api": 1, "ons-awe": 1,
   // Quarterly: the GB price cap is set every three months (late Feb, May, Aug and Nov)
   "ofgem-cap": 3, "ofgem-letter": 3,
   // Twice a year
@@ -31,6 +31,7 @@ const CADENCE = {
   "wb-elec": 12, "wb-cook": 12, "es-warm": 12, "es-arrears": 12, "desnz-trends": 12, "desnz-report": 12, "sdg7-2026": 12,
   "fda-rtc-2025": 12, "fda-sopq": 12, comtrade: 12, "ema-ulcm": 12, wuenic: 12, "who-nhwa": 12, "ukhsa-cover": 12, "sown-2025": 36,
   "faostat-rfn": 12, "defra-bsfp": 12, "wdi-flows": 12, "sdg-10c1": 12,
+  "ilo-mw": 12, "ilo-earn": 12, "ilo-wp": 12, "ilo-ls": 12, "oecd-avw": 12, "oecd-rmw": 12, "fao-cohd": 12, "ons-lowpay": 12, "govuk-nmw": 12, "ilo-est2026": 12, "ilo-gwr": 24,
   idmc: 12, "cred-2025": 12, "swissre-sigma": 12, "munichre-2025": 12, "munichre-h1-2026": 12, "abi-2025": 12, "floodre-2026": 12, "ea-nafra": 24,
   // Not listed on purpose: telegeography-2021, a frozen snapshot (TeleGeography's current data is for subscribers only).
   // Less often

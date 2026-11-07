@@ -1,0 +1,116 @@
+{
+  "sources": {
+    "ilo-mw": {
+      "publisher": "International Labour Organization (ILOSTAT)",
+      "title": "Monthly minimum wage by currency (EAR_INEE_CUR_NB)",
+      "url": "https://ilostat.ilo.org/data/",
+      "published": "2026-11-01",
+      "method": "reference",
+      "notes": "Statutory gross monthly minimum wage at 31 December of each year, in local currency, US dollars and PPP dollars (PPP for private consumption, matching the World Bank's PA.NUS.PRVT.PP factor for the same year). Where the law sets an hourly, daily or weekly rate, ILO converts it (for example hourly × 40 hours × 4.33 weeks). Where there is no single national rate, ILO uses the capital's, an average of regional rates, or the rate for manufacturing or unskilled workers. Downloaded from the ILO SDMX API (sdmx.ilo.org), dataflow DF_EAR_INEE_CUR_NB, last updated 1 November 2026. CC BY 4.0."
+    },
+    "ilo-earn": {
+      "publisher": "International Labour Organization (ILOSTAT)",
+      "title": "Average monthly earnings of employees by sex and currency (EAR_EMTA_SEX_CUR_NB)",
+      "url": "https://ilostat.ilo.org/data/",
+      "published": "2026-10-26",
+      "method": "reference",
+      "notes": "Mean gross monthly earnings of employees, all sexes, in PPP dollars. Built from each country's own surveys (labour force, household or establishment surveys), so coverage and definitions differ between countries. Latest year since 2019. Dataflow DF_EAR_EMTA_SEX_CUR_NB, last updated 26 October 2026. CC BY 4.0."
+    },
+    "ilo-wp": {
+      "publisher": "International Labour Organization (ILOSTAT)",
+      "title": "SDG indicator 1.1.1: Working poverty rate by sex and age, ILO modelled estimates (SDG_0111_SEX_AGE_RT)",
+      "url": "https://ilostat.ilo.org/data/",
+      "published": "2025-12-03",
+      "method": "reference",
+      "notes": "Share of employed people aged 15 and over living in households below the international poverty line of US$3 a day in PPP terms. ILO modelled estimates, harmonised across countries; mainly low- and middle-income countries. 2000 to 2025. Dataflow DF_SDG_0111_SEX_AGE_RT, last updated 3 December 2025. CC BY 4.0."
+    },
+    "ilo-ls": {
+      "publisher": "International Labour Organization (ILOSTAT)",
+      "title": "Labour income share as a percent of GDP, ILO modelled estimates, November 2025 (LAP_2GDP_NOC_RT)",
+      "url": "https://ilostat.ilo.org/data/",
+      "published": "2026-03-20",
+      "method": "reference",
+      "notes": "Total labour income, including an imputed share of the self-employed's income, as % of GDP. ILO warns that imputed values are not based on national data and should not be used to compare or rank countries, so country figures here are each country's latest year based on national data. World and income-group figures are ILO's; 2025 and 2026 are model-based extrapolations. Dataflow DF_LAP_2GDP_NOC_RT, last updated 20 March 2026. CC BY 4.0."
+    },
+    "ilo-gwr": {
+      "publisher": "International Labour Organization",
+      "title": "Global Wage Report 2024-25: Is wage inequality decreasing globally? (press release)",
+      "url": "https://www.ilo.org/resource/news/wage-inequality-has-declined-two-thirds-countries-worldwide-start-21st",
+      "published": "2024-11-28",
+      "method": "reference",
+      "notes": "Global and G20 real average wage growth, 2022 to 2024 (2024 a projection), and the distribution of the global wage bill. The next edition had not been published on 7 November 2026. CC BY 4.0."
+    },
+    "ilo-est2026": {
+      "publisher": "International Labour Organization",
+      "title": "Employment and Social Trends 2026 (press release, 14 January 2026)",
+      "url": "https://www.ilo.org/resource/news/global-job-quality-stagnates-despite-resilient-growth",
+      "published": "2026-01-14",
+      "method": "reference",
+      "notes": "Workers in extreme poverty and informal employment, worldwide. CC BY 4.0."
+    },
+    "oecd-avw": {
+      "publisher": "OECD",
+      "title": "Average annual wages (DSD_EARNINGS@AV_AN_WAGE)",
+      "url": "https://data-explorer.oecd.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Average annual wages per full-time equivalent employee, total economy, in US dollars at constant 2025 prices and 2025 PPPs. Downloaded from the OECD SDMX API on 7 November 2026; the API gives no release date. Free to reuse with credit under the OECD's terms and conditions. This is an adaptation of an original work by the OECD. The opinions expressed and arguments employed in this adaptation should not be reported as representing the official views of the OECD or of its Member countries."
+    },
+    "oecd-rmw": {
+      "publisher": "OECD",
+      "title": "Real minimum wages at constant prices (DSD_EARNINGS@RMW) and minimum relative to median wages of full-time workers (DSD_EARNINGS@MIN2AVE)",
+      "url": "https://data-explorer.oecd.org/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Statutory minimum wages per hour in US dollars at constant 2025 prices and 2025 PPPs, 2001 to 2025, and the minimum wage as % of the median full-time wage. Downloaded from the OECD SDMX API on 7 November 2026; the API gives no release date. Free to reuse with credit under the OECD's terms and conditions (same adaptation notice as above)."
+    },
+    "fao-cohd": {
+      "publisher": "FAO and World Bank, via FAOSTAT",
+      "title": "Cost and Affordability of a Healthy Diet (July 2026 release)",
+      "url": "https://www.fao.org/faostat/en/#data/CAHD",
+      "published": "2026-07-21",
+      "method": "reference",
+      "notes": "Cost of the cheapest locally available healthy diet, per person per day, in local currency (element 6205), 2017 to 2025. The Food dashboard shows the same figures in PPP dollars. CC BY 4.0."
+    },
+    "ons-awe": {
+      "publisher": "Office for National Statistics",
+      "title": "Average weekly earnings in Great Britain: October 2026 (series KAB9, A3WX and A3WW)",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/averageweeklyearningsingreatbritain/october2026",
+      "published": "2026-10-20",
+      "method": "reference",
+      "notes": "Whole economy, seasonally adjusted total pay including bonuses: KAB9 is £ a week in cash terms; A3WX is £ a week in real terms (adjusted for CPIH inflation, at constant prices); A3WW is real growth, three months on the same three months a year earlier. Great Britain. Open Government Licence v3.0."
+    },
+    "ons-lowpay": {
+      "publisher": "Office for National Statistics",
+      "title": "Low and high pay in the UK: 2026 (Annual Survey of Hours and Earnings)",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/lowandhighpayuk/2026",
+      "published": "2026-10-22",
+      "method": "reference",
+      "notes": "Low pay is below two-thirds of median hourly pay excluding overtime; high pay is above 1.5 times the median. Employee jobs on adult rates with pay unaffected by absence, April each year. 2026 is provisional; data from 2023 may not be directly comparable with 2022; 2020 and 2021 are less certain. Open Government Licence v3.0."
+    },
+    "govuk-nmw": {
+      "publisher": "GOV.UK",
+      "title": "National Minimum Wage and National Living Wage rates",
+      "url": "https://www.gov.uk/national-minimum-wage-rates",
+      "published": "2026-10-28",
+      "method": "reference",
+      "notes": "Hourly rates from April 2019 to April 2027. The page's last major update is dated 30 October 2024; the April 2027 rates were added after their announcement on 28 October 2026. Open Government Licence v3.0."
+    },
+    "lpc-2027": {
+      "publisher": "Low Pay Commission, via GOV.UK",
+      "title": "LPC recommendations take the National Living Wage to £13.21",
+      "url": "https://www.gov.uk/government/news/lpc-recommendations-take-the-national-living-wage-to-1321",
+      "published": "2026-10-28",
+      "method": "reference",
+      "notes": "Minimum wage rates from April 2027. Open Government Licence v3.0."
+    },
+    "natural-earth": {
+      "publisher": "Natural Earth (via the world-atlas package)",
+      "title": "Admin 0 countries, 1:110m",
+      "url": "https://www.naturalearthdata.com/",
+      "published": "2026",
+      "method": "reference",
+      "notes": "Public domain. Used to match countries to map shapes."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+map,band,min,max,unit,source
+minwage,Under $250,,250,PPP dollars a month,ilo-mw
+minwage,$250 to $500,250,500,PPP dollars a month,ilo-mw
+minwage,"$500 to $1,000",500,1000,PPP dollars a month,ilo-mw
+minwage,"$1,000 to $2,000",1000,2000,PPP dollars a month,ilo-mw
+minwage,"$2,000 or more",2000,,PPP dollars a month,ilo-mw
+poverty,Under 1%,,1,% of workers,ilo-wp
+poverty,1 to 5%,1,5,% of workers,ilo-wp
+poverty,5 to 15%,5,15,% of workers,ilo-wp
+poverty,15 to 35%,15,35,% of workers,ilo-wp
+poverty,35% or more,35,,% of workers,ilo-wp
+diet,Under 10%,,10,% of a month's minimum wage,fao-cohd
+diet,10 to 25%,10,25,% of a month's minimum wage,fao-cohd
+diet,25 to 50%,25,50,% of a month's minimum wage,fao-cohd
+diet,50 to 100%,50,100,% of a month's minimum wage,fao-cohd
+diet,More than the whole wage,100,,% of a month's minimum wage,fao-cohd
+labour,Under 40%,,40,% of GDP,ilo-ls
+labour,40 to 50%,40,50,% of GDP,ilo-ls
+labour,50 to 55%,50,55,% of GDP,ilo-ls
+labour,55 to 60%,55,60,% of GDP,ilo-ls
+labour,60% or more,60,,% of GDP,ilo-ls

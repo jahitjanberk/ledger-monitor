@@ -1,0 +1,10 @@
+year,from,rate_gbp_hour,age_from,change_pct,announced,source
+2019,2019-04-01,8.21,25,,false,govuk-nmw
+2020,2020-04-01,8.72,25,6.2,false,govuk-nmw
+2021,2021-04-01,8.91,23,2.2,false,govuk-nmw
+2022,2022-04-01,9.5,23,6.6,false,govuk-nmw
+2023,2023-04-01,10.42,23,9.7,false,govuk-nmw
+2024,2024-04-01,11.44,21,9.8,false,govuk-nmw
+2025,2025-04-01,12.21,21,6.7,false,govuk-nmw
+2026,2026-04-01,12.71,21,4.1,false,govuk-nmw
+2027,2027-04-01,13.21,21,3.9,true,govuk-nmw

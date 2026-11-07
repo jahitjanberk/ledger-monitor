@@ -1,0 +1,217 @@
+{
+  "id": "uk_lowpay",
+  "title": "UK low- and high-paid jobs, April 1997 to April 2026",
+  "description": "Share of employee jobs paid below two-thirds of the median hourly wage, and above 1.5 times it (ONS, ASHE).",
+  "records": [
+    {
+      "year": 1997,
+      "low_pay_pct": 21.8,
+      "high_pay_pct": 25.2,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 1998,
+      "low_pay_pct": 22,
+      "high_pay_pct": 25.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 1999,
+      "low_pay_pct": 21.9,
+      "high_pay_pct": 25.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2000,
+      "low_pay_pct": 21.9,
+      "high_pay_pct": 25.6,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2001,
+      "low_pay_pct": 22,
+      "high_pay_pct": 25.8,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2002,
+      "low_pay_pct": 22,
+      "high_pay_pct": 26,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2003,
+      "low_pay_pct": 21.1,
+      "high_pay_pct": 26.1,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2004,
+      "low_pay_pct": 21.5,
+      "high_pay_pct": 25.9,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2005,
+      "low_pay_pct": 21.6,
+      "high_pay_pct": 26.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2006,
+      "low_pay_pct": 21.3,
+      "high_pay_pct": 26.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2007,
+      "low_pay_pct": 21,
+      "high_pay_pct": 26.1,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2008,
+      "low_pay_pct": 21.5,
+      "high_pay_pct": 26.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2009,
+      "low_pay_pct": 21.4,
+      "high_pay_pct": 26.2,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2010,
+      "low_pay_pct": 21.3,
+      "high_pay_pct": 26.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2011,
+      "low_pay_pct": 21.4,
+      "high_pay_pct": 26.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2012,
+      "low_pay_pct": 21.2,
+      "high_pay_pct": 26.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2013,
+      "low_pay_pct": 21.6,
+      "high_pay_pct": 26,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2014,
+      "low_pay_pct": 21.3,
+      "high_pay_pct": 26,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2015,
+      "low_pay_pct": 20.5,
+      "high_pay_pct": 25.8,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2016,
+      "low_pay_pct": 19.4,
+      "high_pay_pct": 25.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2017,
+      "low_pay_pct": 18.4,
+      "high_pay_pct": 25.3,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2018,
+      "low_pay_pct": 17.8,
+      "high_pay_pct": 25.7,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2019,
+      "low_pay_pct": 16.2,
+      "high_pay_pct": 25.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2020,
+      "low_pay_pct": 15.7,
+      "high_pay_pct": 25.2,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2021,
+      "low_pay_pct": 14.3,
+      "high_pay_pct": 24.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2022,
+      "low_pay_pct": 10.7,
+      "high_pay_pct": 23.8,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2023,
+      "low_pay_pct": 9.8,
+      "high_pay_pct": 23.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2024,
+      "low_pay_pct": 3.4,
+      "high_pay_pct": 22.7,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2025,
+      "low_pay_pct": 2.6,
+      "high_pay_pct": 23.4,
+      "provisional": false,
+      "source": "ons-lowpay"
+    },
+    {
+      "year": 2026,
+      "low_pay_pct": 2.8,
+      "high_pay_pct": 23.7,
+      "provisional": true,
+      "source": "ons-lowpay"
+    }
+  ]
+}

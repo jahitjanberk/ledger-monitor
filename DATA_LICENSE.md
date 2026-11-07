@@ -56,6 +56,10 @@ Take particular care with these:
 | Munich Re NatCatSERVICE, Swiss Re Institute sigma, ABI and Flood Re press releases | Disasters | **Not open data.** Headline figures are quoted with links, not republished as datasets |
 | Environment Agency, National assessment of flood and coastal erosion risk in England 2024 | Disasters | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 | World Bank World Development Indicators (population) | Disasters | CC BY 4.0, credit the World Bank |
+| ILOSTAT (minimum wages, average earnings, working poverty, labour income share) and ILO reports (*Global Wage Report 2024-25*, *Employment and Social Trends 2026*) | Wages | [CC BY 4.0](https://www.ilo.org/rights-and-permissions) for ILO databases, datasets and publications from 3 May 2023, credit the ILO |
+| OECD Data Explorer (average annual wages, real minimum wages, minimum relative to median wages) | Wages | [OECD terms and conditions](https://www.oecd.org/en/about/terms-conditions.html): data may be reused for any purpose, including commercial, with credit to the OECD; adaptations must carry the OECD's adaptation disclaimer and must not use the OECD logo. Not formally CC BY 4.0 (that licence covers OECD written content from 1 July 2024) |
+| FAOSTAT Cost and Affordability of a Healthy Diet | Wages | CC BY 4.0, credit FAO (and the World Bank) |
+| ONS average weekly earnings and Annual Survey of Hours and Earnings; GOV.UK minimum wage rates and Low Pay Commission | Wages | [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 | Natural Earth (country shapes) | Every map | Public domain |
 
 Individual figures quoted from reports and news articles, such as a single total or percentage, are cited with a link to the original.
