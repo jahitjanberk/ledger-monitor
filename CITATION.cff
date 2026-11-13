@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: >-
+  If you use Ledger Monitor's compiled tables or charts, please cite the project as below.
+  Each figure comes from a named publisher, listed in data/<dashboard>/sources.json; please
+  credit the original publisher as well, and check DATA_LICENSE.md for sources with stricter terms.
+title: Ledger Monitor
+type: dataset
+abstract: >-
+  Eighteen open-data dashboards on the systems behind everyday life, with country profiles and
+  downloadable CSV and JSON tables. Every number links to the report it came from.
+authors:
+  - name: jahit
+    website: https://github.com/jahitjanberk
+repository-code: https://github.com/jahitjanberk/ledger-monitor
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - open data
+  - dashboards
+  - data visualisation
+  - public statistics

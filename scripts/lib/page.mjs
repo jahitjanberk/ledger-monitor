@@ -34,6 +34,8 @@ export function page({ title, description, depth, body, scripts = [], modules = 
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="${ICON}">
+<link rel="apple-touch-icon" href="${up}assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="${up}site.webmanifest">
 <link rel="preload" href="${up}assets/fonts/inter-tight-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${up}assets/fonts/jetbrains-mono-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${up}assets/fonts.css">

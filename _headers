@@ -21,6 +21,9 @@
 /assets/og/*
   Cache-Control: public, max-age=86400
 
+/assets/icons/*
+  Cache-Control: public, max-age=86400
+
 # Security headers. GitHub Pages ignores this file, so each page also carries the same
 # Content-Security-Policy in a <meta> tag. The sha256 values allow the two inline scripts
 # (theme and load check); if you edit either script, update its hash here and in every page,
@@ -132,6 +135,18 @@
   X-Frame-Options: DENY
 
 /vaccines/*
+  Content-Security-Policy: frame-ancestors 'none'
+  X-Frame-Options: DENY
+
+/fertilizer/*
+  Content-Security-Policy: frame-ancestors 'none'
+  X-Frame-Options: DENY
+
+/remittances/*
+  Content-Security-Policy: frame-ancestors 'none'
+  X-Frame-Options: DENY
+
+/disasters/*
   Content-Security-Policy: frame-ancestors 'none'
   X-Frame-Options: DENY
 

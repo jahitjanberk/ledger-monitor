@@ -1,0 +1,31 @@
+name: Suggest new data
+description: A dataset that would improve a dashboard, or a topic for a new one.
+title: "Data: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: dataset
+    attributes:
+      label: What is the dataset, and what would it show?
+    validations:
+      required: true
+  - type: input
+    id: publisher
+    attributes:
+      label: Who publishes it?
+      description: Please include a link.
+    validations:
+      required: true
+  - type: input
+    id: cadence
+    attributes:
+      label: How often is it updated?
+      placeholder: Yearly, each October
+  - type: input
+    id: licence
+    attributes:
+      label: Licence
+      description: Data that can't be redistributed can't be added.
+      placeholder: CC BY 4.0, Open Government Licence, …
+    validations:
+      required: true
