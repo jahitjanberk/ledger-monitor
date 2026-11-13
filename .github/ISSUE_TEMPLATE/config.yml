@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: How the figures are made
+    url: https://github.com/jahitjanberk/ledger-monitor/blob/main/METHODOLOGY.md
+    about: The method, sources and limits of each dashboard. Worth a look before reporting a number.
+  - name: Report a security problem privately
+    url: https://github.com/jahitjanberk/ledger-monitor/security/advisories/new
+    about: Please don't open a public issue for a security problem. See SECURITY.md.

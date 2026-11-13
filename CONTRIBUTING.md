@@ -4,7 +4,7 @@ Corrections and better sources are the most useful contributions.
 
 ## Reporting a wrong or out-of-date number
 
-[Open an issue](https://github.com/jahitjanberk/ledger-monitor/issues/new) with:
+[Open an issue](https://github.com/jahitjanberk/ledger-monitor/issues/new/choose) and pick **Report a wrong or out-of-date number**. It asks for:
 
 - the dashboard and the number (a link to the section helps: each section heading has a **Copy link** button)
 - what you think it should be
@@ -14,7 +14,7 @@ Corrections are listed on the [About page](about/index.html).
 
 ## Suggesting new data
 
-Open an issue describing the dataset, who publishes it, how often it updates, and its licence. Data that can't be redistributed can't be added.
+Open an issue with the **Suggest new data** form, describing the dataset, who publishes it, how often it updates, and its licence. Data that can't be redistributed can't be added.
 
 ## Working on the site
 
@@ -41,6 +41,7 @@ The dashboards won't load if you open the HTML files directly from disk, because
 | `assets/charts.js`, `assets/index-*.css` | The shared shell: header, source drawer, charts and maps |
 | `assets/em.js`, `assets/em.css` | Shared improvements loaded on every dashboard: section index, headline charts, method notes, accessibility fixes |
 | `about/`, `404.html` | The About and page-not-found pages |
+| `assets/icons/`, `site.webmanifest` | The home-screen icons (rendered from `icon.svg`, the same mark as the favicon) and the web manifest that names them |
 | `scripts/` | Helper scripts, described below |
 
 A dashboard reads its figures from `<dashboard>/assets/data.js`, while the downloads come from `data/<dashboard>/`. **When you change a figure, update both.**
@@ -55,3 +56,7 @@ A dashboard reads its figures from `<dashboard>/assets/data.js`, while the downl
 | `node scripts/seo.mjs https://your-site/` | Writes full preview-image URLs, canonical links, Dataset markup, `sitemap.xml` and `robots.txt` |
 
 When you release a change, update `UPDATED` in `assets/em.js` and add a line to the change list on the About page.
+
+## Security
+
+Please report security problems privately, as described in [SECURITY.md](SECURITY.md).

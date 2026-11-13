@@ -84,7 +84,7 @@ const MORE = {
 
 const AUTHOR = { name: "jahit", url: "https://github.com/jahitjanberk" };
 // The date these pages were last changed. Bump it with each release.
-const UPDATED = "2026-11-06";
+const UPDATED = "2026-11-13";
 
 // What each dashboard leaves out, drawn from its method notes. Shown in the method section.
 const LIMITS = {

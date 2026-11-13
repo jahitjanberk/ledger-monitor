@@ -1,0 +1,55 @@
+name: Report a wrong or out-of-date number
+description: A figure on a dashboard, country profile or data file is wrong, or a newer edition of its source is out.
+title: "Correction: "
+body:
+  - type: markdown
+    attributes:
+      value: Thank you. Corrections with a link to the original publisher are the most useful contribution to this project.
+  - type: dropdown
+    id: dashboard
+    attributes:
+      label: Dashboard
+      options:
+        - Chokepoints
+        - Electricity Mix & Grid Carbon
+        - Food Prices & Hunger
+        - Debt vs Public Services
+        - Extreme Heat
+        - Critical Minerals
+        - The Air We Breathe
+        - Housing Affordability
+        - Water Stress
+        - The Scam Economy
+        - Where the Internet Lives
+        - Who Owns Orbit
+        - Vaccination & Health Workers
+        - Household Energy Prices & Poverty
+        - Medicine Shortages & Supply
+        - Fertiliser Prices & Supply
+        - The Cost of Sending Money Home
+        - Floods, Disasters & Insurance Gaps
+        - Country profiles or Compare
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where is the number?
+      description: A link to the section helps. Each section heading has a Copy link button.
+      placeholder: https://…/housing/#affordability
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it say now, and what should it say?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Link to the source
+      description: Ideally the original publisher rather than a news report.
+    validations:
+      required: true

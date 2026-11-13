@@ -1,0 +1,16 @@
+{
+  "name": "Ledger Monitor",
+  "short_name": "Ledger Monitor",
+  "description": "Open data dashboards on the systems behind everyday life, built from verified public sources.",
+  "lang": "en-GB",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#F5F5F1",
+  "theme_color": "#3B50B5",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
